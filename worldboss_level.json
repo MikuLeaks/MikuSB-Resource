@@ -1,0 +1,36 @@
+[
+    {
+        "LevelID": 3401,
+        "Type": 0,
+        "MapID": 3401,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": [
+            600130501
+        ],
+        "LevelStrength": 1,
+        "TaskPath": "WorldBoss/WorldBoss_3401.WorldBoss_3401",
+        "BossMaxHp": 240000000,
+        "BossShowMaxHp": 650000000,
+        "BossMaxDamage": 500000000,
+        "CalcMonsterDamage": "",
+        "HpBarNum": 200
+    },
+    {
+        "LevelID": 3402,
+        "Type": 0,
+        "MapID": 3401,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": [
+            600130502
+        ],
+        "LevelStrength": 1,
+        "TaskPath": "WorldBoss/WorldBoss_3402.WorldBoss_3402",
+        "BossMaxHp": 240000000,
+        "BossShowMaxHp": 650000000,
+        "BossMaxDamage": 500000000,
+        "CalcMonsterDamage": "",
+        "HpBarNum": 200
+    }
+]

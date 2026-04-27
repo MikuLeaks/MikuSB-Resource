@@ -1,0 +1,7727 @@
+[
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 1,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle001",
+        "Color": 4,
+        "Icon": 1411010,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10001,
+        "AppearID": 110004043,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 1,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope001",
+        "Color": 4,
+        "Icon": 1411008,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10002,
+        "AppearID": 110004041,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 1,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine001",
+        "Color": 4,
+        "Icon": 1411011,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10003,
+        "AppearID": 110004044,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 1,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip001",
+        "Color": 4,
+        "Icon": 1411009,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10004,
+        "AppearID": 110004042,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle002",
+        "Color": 3,
+        "Icon": 1414006,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10005,
+        "AppearID": 410003023,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope002",
+        "Color": 3,
+        "Icon": 1414004,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10006,
+        "AppearID": 410003021,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine002",
+        "Color": 3,
+        "Icon": 1414007,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10007,
+        "AppearID": 410003024,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            2
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip002",
+        "Color": 3,
+        "Icon": 1414005,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10008,
+        "AppearID": 410003022,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 3,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle003",
+        "Color": 3,
+        "Icon": 1413005,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10009,
+        "AppearID": 310003023,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 3,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope003",
+        "Color": 3,
+        "Icon": 1413003,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10010,
+        "AppearID": 310003021,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 3,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip003",
+        "Color": 3,
+        "Icon": 1413004,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10011,
+        "AppearID": 310003022,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 4,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle004",
+        "Color": 4,
+        "Icon": 1414002,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10012,
+        "AppearID": 420004053,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 4,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope004",
+        "Color": 4,
+        "Icon": 1414000,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10013,
+        "AppearID": 420004051,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 4,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine004",
+        "Color": 4,
+        "Icon": 1414003,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10014,
+        "AppearID": 420004054,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            2
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 4,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip004",
+        "Color": 4,
+        "Icon": 1414001,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10015,
+        "AppearID": 420004052,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 5,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle005",
+        "Color": 4,
+        "Icon": 1414010,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10016,
+        "AppearID": 410004063,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 5,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope005",
+        "Color": 4,
+        "Icon": 1414008,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10017,
+        "AppearID": 410004061,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 5,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine005",
+        "Color": 4,
+        "Icon": 1414011,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10018,
+        "AppearID": 410004064,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 5,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip005",
+        "Color": 4,
+        "Icon": 1414009,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10019,
+        "AppearID": 410004062,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 6,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle006",
+        "Color": 4,
+        "Icon": 1413002,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10020,
+        "AppearID": 310004013,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 6,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope006",
+        "Color": 4,
+        "Icon": 1413000,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10021,
+        "AppearID": 310004011,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 6,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip006",
+        "Color": 4,
+        "Icon": 1413001,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10022,
+        "AppearID": 310004012,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 7,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle007",
+        "Color": 3,
+        "Icon": 1412010,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10023,
+        "AppearID": 210003023,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 7,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope007",
+        "Color": 3,
+        "Icon": 1412008,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10024,
+        "AppearID": 210003021,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 7,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine007",
+        "Color": 3,
+        "Icon": 1412011,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10025,
+        "AppearID": 210003024,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 7,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip007",
+        "Color": 3,
+        "Icon": 1412009,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10026,
+        "AppearID": 210003022,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 8,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle008",
+        "Color": 4,
+        "Icon": 1413008,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10027,
+        "AppearID": 310004033,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 8,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope008",
+        "Color": 4,
+        "Icon": 1413006,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10028,
+        "AppearID": 310004031,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 8,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip008",
+        "Color": 4,
+        "Icon": 1413007,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10029,
+        "AppearID": 310004032,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 9,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle009",
+        "Color": 4,
+        "Icon": 1412006,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10030,
+        "AppearID": 210004043,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 9,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope009",
+        "Color": 4,
+        "Icon": 1412004,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10031,
+        "AppearID": 210004041,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 9,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine009",
+        "Color": 4,
+        "Icon": 1412007,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10032,
+        "AppearID": 210004044,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 9,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip009",
+        "Color": 4,
+        "Icon": 1412005,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10033,
+        "AppearID": 210004042,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 10,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle010",
+        "Color": 3,
+        "Icon": 1411006,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10034,
+        "AppearID": 110003023,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 10,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope010",
+        "Color": 3,
+        "Icon": 1411004,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10035,
+        "AppearID": 110003021,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 10,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine010",
+        "Color": 3,
+        "Icon": 1411007,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10036,
+        "AppearID": 110003024,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 10,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip010",
+        "Color": 3,
+        "Icon": 1411005,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10037,
+        "AppearID": 110003022,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 11,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle011",
+        "Color": 4,
+        "Icon": 1411002,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10038,
+        "AppearID": 110004033,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 11,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope011",
+        "Color": 4,
+        "Icon": 1411000,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10039,
+        "AppearID": 110004031,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 11,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine011",
+        "Color": 4,
+        "Icon": 1411003,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10040,
+        "AppearID": 110004034,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 11,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip011",
+        "Color": 4,
+        "Icon": 1411001,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10041,
+        "AppearID": 110004032,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 12,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle012",
+        "Color": 4,
+        "Icon": 1412002,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10042,
+        "AppearID": 210004033,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 12,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope012",
+        "Color": 4,
+        "Icon": 1412000,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10043,
+        "AppearID": 210004031,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 12,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine012",
+        "Color": 4,
+        "Icon": 1412003,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10044,
+        "AppearID": 210004034,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 12,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip012",
+        "Color": 4,
+        "Icon": 1412001,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10045,
+        "AppearID": 210004032,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 13,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle013",
+        "Color": 3,
+        "Icon": 1415010,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10046,
+        "AppearID": 510003023,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 13,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope013",
+        "Color": 3,
+        "Icon": 1415008,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10047,
+        "AppearID": 510003021,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 13,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine013",
+        "Color": 3,
+        "Icon": 1415011,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10048,
+        "AppearID": 510003024,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 13,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip013",
+        "Color": 3,
+        "Icon": 1415009,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10049,
+        "AppearID": 510003022,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 14,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle014",
+        "Color": 4,
+        "Icon": 1415002,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10050,
+        "AppearID": 510004043,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 14,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope014",
+        "Color": 4,
+        "Icon": 1415000,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10051,
+        "AppearID": 510004041,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 14,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine014",
+        "Color": 4,
+        "Icon": 1415003,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10052,
+        "AppearID": 510004044,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 14,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip014",
+        "Color": 4,
+        "Icon": 1415001,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10053,
+        "AppearID": 510004042,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 15,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle015",
+        "Color": 5,
+        "Icon": 1415006,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10054,
+        "AppearID": 510005053,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 15,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope015",
+        "Color": 5,
+        "Icon": 1415004,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10055,
+        "AppearID": 510005051,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 15,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine015",
+        "Color": 5,
+        "Icon": 1415007,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10056,
+        "AppearID": 510005054,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 15,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip015",
+        "Color": 5,
+        "Icon": 1415005,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10057,
+        "AppearID": 510005052,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 16,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle016",
+        "Color": 5,
+        "Icon": 1411014,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10058,
+        "AppearID": 110005053,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 16,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope016",
+        "Color": 5,
+        "Icon": 1411012,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10059,
+        "AppearID": 110005051,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 16,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine016",
+        "Color": 5,
+        "Icon": 1411015,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10060,
+        "AppearID": 110005054,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 16,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip016",
+        "Color": 5,
+        "Icon": 1411013,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10061,
+        "AppearID": 110005052,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 17,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle017",
+        "Color": 5,
+        "Icon": 1412014,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10062,
+        "AppearID": 210005053,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 17,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope017",
+        "Color": 5,
+        "Icon": 1412012,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10063,
+        "AppearID": 210005051,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 17,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine017",
+        "Color": 5,
+        "Icon": 1412015,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10064,
+        "AppearID": 210005054,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 17,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip017",
+        "Color": 5,
+        "Icon": 1412013,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10065,
+        "AppearID": 210005052,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 18,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle018",
+        "Color": 5,
+        "Icon": 1412018,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10066,
+        "AppearID": 210005063,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 18,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope018",
+        "Color": 5,
+        "Icon": 1412016,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10067,
+        "AppearID": 210005061,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 18,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine018",
+        "Color": 5,
+        "Icon": 1412019,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10068,
+        "AppearID": 210005064,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 18,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip018",
+        "Color": 5,
+        "Icon": 1412017,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10069,
+        "AppearID": 210005062,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 19,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon019",
+        "Color": 4,
+        "Icon": 1411031,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10070,
+        "AppearID": 145015004,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 20,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon020",
+        "Color": 4,
+        "Icon": 1411030,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10071,
+        "AppearID": 144514001,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 21,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon021",
+        "Color": 4,
+        "Icon": 1411020,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10072,
+        "AppearID": 124014002,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 22,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon022",
+        "Color": 4,
+        "Icon": 1411021,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10073,
+        "AppearID": 125015003,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 23,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon023",
+        "Color": 4,
+        "Icon": 1411024,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10074,
+        "AppearID": 144014002,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 24,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon024",
+        "Color": 4,
+        "Icon": 1411017,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10075,
+        "AppearID": 114014001,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 25,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon025",
+        "Color": 4,
+        "Icon": 1411016,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10076,
+        "AppearID": 114514004,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 26,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon026",
+        "Color": 4,
+        "Icon": 1411018,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10077,
+        "AppearID": 115015002,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 27,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon027",
+        "Color": 4,
+        "Icon": 1411019,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10078,
+        "AppearID": 124514003,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 28,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon028",
+        "Color": 4,
+        "Icon": 1412038,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10079,
+        "AppearID": 215025001,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 29,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon029",
+        "Color": 4,
+        "Icon": 1412029,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10080,
+        "AppearID": 214014004,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 30,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon030",
+        "Color": 4,
+        "Icon": 1412030,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10081,
+        "AppearID": 214514003,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 31,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon031",
+        "Color": 4,
+        "Icon": 1412032,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10082,
+        "AppearID": 215015002,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 32,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon032",
+        "Color": 4,
+        "Icon": 1412044,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10083,
+        "AppearID": 214034002,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 33,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon033",
+        "Color": 4,
+        "Icon": 1412045,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10084,
+        "AppearID": 214534001,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 34,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon034",
+        "Color": 4,
+        "Icon": 1412046,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10085,
+        "AppearID": 215035004,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 35,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon035",
+        "Color": 4,
+        "Icon": 1412020,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10086,
+        "AppearID": 214024002,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 36,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon036",
+        "Color": 4,
+        "Icon": 1413014,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10087,
+        "AppearID": 315025003,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 37,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon037",
+        "Color": 4,
+        "Icon": 1413012,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10088,
+        "AppearID": 314524002,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 38,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon038",
+        "Color": 4,
+        "Icon": 1413013,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10089,
+        "AppearID": 314024003,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 39,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon039",
+        "Color": 4,
+        "Icon": 1413010,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10090,
+        "AppearID": 314014001,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 40,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon040",
+        "Color": 4,
+        "Icon": 1413009,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10091,
+        "AppearID": 314514001,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 41,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon041",
+        "Color": 4,
+        "Icon": 1413011,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10092,
+        "AppearID": 315015001,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 42,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon042",
+        "Color": 4,
+        "Icon": 1414016,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10093,
+        "AppearID": 414014002,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 43,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon043",
+        "Color": 4,
+        "Icon": 1414025,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10094,
+        "AppearID": 415015004,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 44,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon044",
+        "Color": 4,
+        "Icon": 1414017,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10095,
+        "AppearID": 424024003,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 45,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon045",
+        "Color": 4,
+        "Icon": 1414028,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10096,
+        "AppearID": 424524001,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 46,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon046",
+        "Color": 4,
+        "Icon": 1414018,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10097,
+        "AppearID": 425025002,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 47,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon047",
+        "Color": 4,
+        "Icon": 1414023,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10098,
+        "AppearID": 414514004,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 48,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon048",
+        "Color": 4,
+        "Icon": 1415014,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10099,
+        "AppearID": 515015002,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 49,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon049",
+        "Color": 4,
+        "Icon": 1415023,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10100,
+        "AppearID": 514044004,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 50,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon050",
+        "Color": 4,
+        "Icon": 1415024,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10101,
+        "AppearID": 514544003,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 51,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon051",
+        "Color": 4,
+        "Icon": 1415026,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10102,
+        "AppearID": 515045003,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 52,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon052",
+        "Color": 4,
+        "Icon": 1415013,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10103,
+        "AppearID": 514014001,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 53,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon053",
+        "Color": 4,
+        "Icon": 1415012,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10104,
+        "AppearID": 514514002,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 54,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon054",
+        "Color": 4,
+        "Icon": 1415016,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10105,
+        "AppearID": 524014001,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 55,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon055",
+        "Color": 4,
+        "Icon": 1415015,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10106,
+        "AppearID": 524514004,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 56,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.weapon056",
+        "Color": 4,
+        "Icon": 1415017,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10107,
+        "AppearID": 525015001,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 57,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle057",
+        "Color": 5,
+        "Icon": 1411034,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10108,
+        "AppearID": 110005063,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 57,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope057",
+        "Color": 5,
+        "Icon": 1411032,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10109,
+        "AppearID": 110005061,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 57,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine057",
+        "Color": 5,
+        "Icon": 1411035,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10110,
+        "AppearID": 110005064,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 57,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip057",
+        "Color": 5,
+        "Icon": 1411033,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10111,
+        "AppearID": 110005062,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 58,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle058",
+        "Color": 5,
+        "Icon": 1413033,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10112,
+        "AppearID": 310005053,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 58,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope058",
+        "Color": 5,
+        "Icon": 1413031,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10113,
+        "AppearID": 310005051,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 58,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip058",
+        "Color": 5,
+        "Icon": 1413032,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10114,
+        "AppearID": 310005052,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 59,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle059",
+        "Color": 5,
+        "Icon": 1414039,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10115,
+        "AppearID": 420005073,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 59,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope059",
+        "Color": 5,
+        "Icon": 1414037,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10116,
+        "AppearID": 420005071,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 59,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine059",
+        "Color": 5,
+        "Icon": 1414040,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10117,
+        "AppearID": 420005074,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 59,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip059",
+        "Color": 5,
+        "Icon": 1414038,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10118,
+        "AppearID": 420005072,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 60,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle060",
+        "Color": 4,
+        "Icon": 1415036,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10119,
+        "AppearID": 510004063,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 60,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope060",
+        "Color": 4,
+        "Icon": 1415034,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10120,
+        "AppearID": 510004061,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 60,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine060",
+        "Color": 4,
+        "Icon": 1415037,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10121,
+        "AppearID": 510004064,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 60,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip060",
+        "Color": 4,
+        "Icon": 1415035,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10122,
+        "AppearID": 510004062,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 61,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine061",
+        "Color": 4,
+        "Icon": 1411022,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10123,
+        "AppearID": 134014004,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 62,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip062",
+        "Color": 4,
+        "Icon": 1411023,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10124,
+        "AppearID": 135015002,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 63,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle063",
+        "Color": 4,
+        "Icon": 1411036,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10125,
+        "AppearID": 134514003,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 64,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle064",
+        "Color": 4,
+        "Icon": 1412022,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10126,
+        "AppearID": 215045003,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 65,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle065",
+        "Color": 4,
+        "Icon": 1412024,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10127,
+        "AppearID": 224014003,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 66,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope066",
+        "Color": 4,
+        "Icon": 1412023,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10128,
+        "AppearID": 224514001,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 67,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine067",
+        "Color": 4,
+        "Icon": 1412047,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10129,
+        "AppearID": 214524004,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 68,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope068",
+        "Color": 4,
+        "Icon": 1413026,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10130,
+        "AppearID": 324014001,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 69,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip069",
+        "Color": 4,
+        "Icon": 1413015,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10131,
+        "AppearID": 324514002,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 70,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip070",
+        "Color": 4,
+        "Icon": 1413016,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10132,
+        "AppearID": 325015002,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 71,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip071",
+        "Color": 4,
+        "Icon": 1413018,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10133,
+        "AppearID": 324024002,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 72,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip072",
+        "Color": 4,
+        "Icon": 1413017,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10134,
+        "AppearID": 324524002,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 73,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle073",
+        "Color": 4,
+        "Icon": 1413019,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10135,
+        "AppearID": 325025003,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 74,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle074",
+        "Color": 4,
+        "Icon": 1414031,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10136,
+        "AppearID": 414024003,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 75,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope075",
+        "Color": 4,
+        "Icon": 1414032,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10137,
+        "AppearID": 414524001,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 76,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine076",
+        "Color": 4,
+        "Icon": 1414034,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10138,
+        "AppearID": 424034004,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 77,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip077",
+        "Color": 4,
+        "Icon": 1414035,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10139,
+        "AppearID": 424534002,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 78,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle078",
+        "Color": 4,
+        "Icon": 1414033,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10140,
+        "AppearID": 415025003,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 79,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope079",
+        "Color": 4,
+        "Icon": 1414036,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10141,
+        "AppearID": 425035001,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 80,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip080",
+        "Color": 4,
+        "Icon": 1415031,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10142,
+        "AppearID": 514034002,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 81,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle081",
+        "Color": 4,
+        "Icon": 1415032,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10143,
+        "AppearID": 514534003,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 82,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine082",
+        "Color": 4,
+        "Icon": 1415033,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10144,
+        "AppearID": 515035004,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 83,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope083",
+        "Color": 4,
+        "Icon": 1411037,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10145,
+        "AppearID": 114024001,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 84,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip084",
+        "Color": 4,
+        "Icon": 1411038,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10146,
+        "AppearID": 114524002,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 85,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope085",
+        "Color": 4,
+        "Icon": 1411039,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10147,
+        "AppearID": 115025001,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 86,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle086",
+        "Color": 4,
+        "Icon": 1411040,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10148,
+        "AppearID": 124024003,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 87,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine087",
+        "Color": 4,
+        "Icon": 1411041,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10149,
+        "AppearID": 124034004,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 88,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip088",
+        "Color": 4,
+        "Icon": 1412048,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10150,
+        "AppearID": 214044002,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 89,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle089",
+        "Color": 4,
+        "Icon": 1412049,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10151,
+        "AppearID": 214544003,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 90,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope090",
+        "Color": 4,
+        "Icon": 1412050,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10152,
+        "AppearID": 225015001,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 91,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope091",
+        "Color": 4,
+        "Icon": 1412051,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10153,
+        "AppearID": 214054001,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 92,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope092",
+        "Color": 4,
+        "Icon": 1413034,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10154,
+        "AppearID": 324034001,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 93,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip093",
+        "Color": 4,
+        "Icon": 1413035,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10155,
+        "AppearID": 324534002,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 94,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip094",
+        "Color": 4,
+        "Icon": 1413036,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10156,
+        "AppearID": 325035002,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 95,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle095",
+        "Color": 4,
+        "Icon": 1413037,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10157,
+        "AppearID": 314034003,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 96,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle096",
+        "Color": 4,
+        "Icon": 1413038,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10158,
+        "AppearID": 314044003,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 97,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope097",
+        "Color": 4,
+        "Icon": 1414041,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10159,
+        "AppearID": 424014001,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 98,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle098",
+        "Color": 4,
+        "Icon": 1414042,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10160,
+        "AppearID": 424514003,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 99,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip099",
+        "Color": 4,
+        "Icon": 1414053,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10161,
+        "AppearID": 425015002,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 100,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine0100",
+        "Color": 4,
+        "Icon": 1414044,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10162,
+        "AppearID": 414034004,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 101,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope101",
+        "Color": 5,
+        "Icon": 1414045,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10163,
+        "AppearID": 415035001,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 102,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle115",
+        "Color": 5,
+        "Icon": 1414052,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10164,
+        "AppearID": 420005091,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 103,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope0103",
+        "Color": 4,
+        "Icon": 1415038,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10165,
+        "AppearID": 524024001,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 104,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle0104",
+        "Color": 4,
+        "Icon": 1415039,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10166,
+        "AppearID": 524524003,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 105,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine0105",
+        "Color": 4,
+        "Icon": 1415040,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10167,
+        "AppearID": 525025004,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 106,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip0106",
+        "Color": 4,
+        "Icon": 1415041,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10168,
+        "AppearID": 514054002,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 107,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle107",
+        "Color": 5,
+        "Icon": 1413039,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10169,
+        "AppearID": 310005043,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 107,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope107",
+        "Color": 5,
+        "Icon": 1413040,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10170,
+        "AppearID": 310005041,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 107,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip107",
+        "Color": 5,
+        "Icon": 1413041,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10171,
+        "AppearID": 310005042,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 108,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle108",
+        "Color": 5,
+        "Icon": 1414047,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10172,
+        "AppearID": 420005083,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 108,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope108",
+        "Color": 5,
+        "Icon": 1414048,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10173,
+        "AppearID": 420005081,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 108,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine108",
+        "Color": 5,
+        "Icon": 1414049,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10174,
+        "AppearID": 420005084,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 108,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip108",
+        "Color": 5,
+        "Icon": 1414050,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10175,
+        "AppearID": 420005082,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 109,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle109",
+        "Color": 5,
+        "Icon": 1415042,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10176,
+        "AppearID": 510005033,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 109,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope109",
+        "Color": 5,
+        "Icon": 1415043,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10177,
+        "AppearID": 510005031,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 109,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine109",
+        "Color": 5,
+        "Icon": 1415044,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10178,
+        "AppearID": 510005034,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 109,
+        "Level": 1,
+        "Close": 1,
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip109",
+        "Color": 5,
+        "Icon": 1415045,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10179,
+        "AppearID": 510005032,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 110,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine110",
+        "Color": 4,
+        "Icon": 1411041,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10180,
+        "AppearID": 124034004,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 111,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle111",
+        "Color": 4,
+        "Icon": 1413038,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10181,
+        "AppearID": 314044003,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0,
+        "Coverage": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 112,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle112",
+        "Color": 4,
+        "Icon": 1413042,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10182,
+        "AppearID": 314054003,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0,
+        "Coverage": 2
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 113,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip113",
+        "Color": 4,
+        "Icon": 1414046,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10183,
+        "AppearID": 424054002,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0,
+        "Coverage": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 115,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip115",
+        "Color": 4,
+        "Icon": 1414051,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10185,
+        "AppearID": 424074002,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0,
+        "Coverage": 2
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 117,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope117",
+        "Color": 4,
+        "Icon": 1415046,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10187,
+        "AppearID": 515065001,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 118,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip118",
+        "Color": 5,
+        "Icon": 1415047,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10188,
+        "AppearID": 510005072,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 119,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle113",
+        "Color": 4,
+        "Icon": 1411042,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10189,
+        "AppearID": 144024003,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0,
+        "Coverage": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 120,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle114",
+        "Color": 4,
+        "Icon": 1411043,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10190,
+        "AppearID": 144034003,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0,
+        "Coverage": 2
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 121,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle116",
+        "Color": 5,
+        "Icon": 1414043,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10191,
+        "AppearID": 420005091,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 122,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine120",
+        "Color": 4,
+        "Icon": 1411044,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10192,
+        "AppearID": 135025004,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 123,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope119",
+        "Color": 5,
+        "Icon": 1411045,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10193,
+        "AppearID": 110005071,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 124,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine121",
+        "Color": 4,
+        "Icon": 1412052,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10194,
+        "AppearID": 225025004,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 125,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip121",
+        "Color": 5,
+        "Icon": 1412053,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10195,
+        "AppearID": 210005073,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 126,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle126",
+        "Color": 4,
+        "Icon": 1416000,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10196,
+        "AppearID": 615015003,
+        "WeaponAllow": [
+            6
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 126,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine127",
+        "Color": 5,
+        "Icon": 1416001,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10197,
+        "AppearID": 610005012,
+        "WeaponAllow": [
+            6
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 127,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope128",
+        "Color": 4,
+        "Icon": 1416002,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10198,
+        "AppearID": 614014001,
+        "WeaponAllow": [
+            6
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 128,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip129",
+        "Color": 4,
+        "Icon": 1413043,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10199,
+        "AppearID": 315035002,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 129,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope130",
+        "Color": 5,
+        "Icon": 1413044,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10200,
+        "AppearID": 310005061,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 130,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope131",
+        "Color": 5,
+        "Icon": 1411046,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10201,
+        "AppearID": 110005081,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 131,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope133",
+        "Color": 4,
+        "Icon": 1411047,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10202,
+        "AppearID": 124044001,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 132,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip134",
+        "Color": 4,
+        "Icon": 1411048,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10203,
+        "AppearID": 125025002,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 133,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle132",
+        "Color": 5,
+        "Icon": 1414054,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10204,
+        "AppearID": 420005103,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 134,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle135",
+        "Color": 4,
+        "Icon": 1414055,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10205,
+        "AppearID": 424094003,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 135,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip136",
+        "Color": 4,
+        "Icon": 1414056,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10206,
+        "AppearID": 425045002,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 136,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope137",
+        "Color": 4,
+        "Icon": 1413045,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10207,
+        "AppearID": 325044001,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 137,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle138",
+        "Color": 4,
+        "Icon": 1413046,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10208,
+        "AppearID": 324044003,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 138,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip139",
+        "Color": 5,
+        "Icon": 1413047,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10209,
+        "AppearID": 310005072,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 140,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine140",
+        "Color": 4,
+        "Icon": 1415048,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10210,
+        "AppearID": 514064004,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 141,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip141",
+        "Color": 4,
+        "Icon": 1415049,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10211,
+        "AppearID": 515074002,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 142,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine142",
+        "Color": 5,
+        "Icon": 1415050,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10212,
+        "AppearID": 510005084,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 144,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip144",
+        "Color": 4,
+        "Icon": 1417001,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10214,
+        "AppearID": 714013001,
+        "WeaponAllow": [
+            7
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 6,
+        "Particular": 145,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.trigger145",
+        "Color": 4,
+        "Icon": 1417002,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10215,
+        "AppearID": 715013002,
+        "WeaponAllow": [
+            7
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 146,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle146",
+        "Color": 5,
+        "Icon": 1417003,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10216,
+        "AppearID": 710005013,
+        "WeaponAllow": [
+            7
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 147,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope147",
+        "Color": 4,
+        "Icon": 1414057,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10217,
+        "AppearID": 424104001,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 148,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle148",
+        "Color": 4,
+        "Icon": 1414058,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10218,
+        "AppearID": 425055003,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 149,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip149",
+        "Color": 5,
+        "Icon": 1414059,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10219,
+        "AppearID": 420005112,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 150,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope150",
+        "Color": 5,
+        "Icon": 1413048,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10220,
+        "AppearID": 310005081,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 151,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope151",
+        "Color": 5,
+        "Icon": 1415051,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10221,
+        "AppearID": 510005091,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 152,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle152",
+        "Color": 4,
+        "Icon": 1413049,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10222,
+        "AppearID": 315045003,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 153,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip153",
+        "Color": 4,
+        "Icon": 1413050,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10223,
+        "AppearID": 314064002,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 154,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle154",
+        "Color": 4,
+        "Icon": 1415052,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10224,
+        "AppearID": 515085003,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 155,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip155",
+        "Color": 4,
+        "Icon": 1415053,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10225,
+        "AppearID": 514074002,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 156,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope156",
+        "Color": 5,
+        "Icon": 1412054,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10226,
+        "AppearID": 210005081,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 157,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip157",
+        "Color": 4,
+        "Icon": 1412055,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10227,
+        "AppearID": 225035002,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 158,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine158",
+        "Color": 4,
+        "Icon": 1412056,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10228,
+        "AppearID": 224024004,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 159,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope159",
+        "Color": 5,
+        "Icon": 1414060,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10229,
+        "AppearID": 420005131,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 160,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine160",
+        "Color": 4,
+        "Icon": 1414061,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10230,
+        "AppearID": 424114004,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 161,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip161",
+        "Color": 4,
+        "Icon": 1414062,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10231,
+        "AppearID": 425065002,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 9,
+        "Particular": 162,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.balance162",
+        "Color": 5,
+        "Icon": 1418001,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10232,
+        "AppearID": 810005012,
+        "WeaponAllow": [
+            8
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 163,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine163",
+        "Color": 5,
+        "Icon": 1411049,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10233,
+        "AppearID": 110005094,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 166,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle166",
+        "Color": 4,
+        "Icon": 1411050,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10234,
+        "AppearID": 114034003,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 167,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope167",
+        "Color": 4,
+        "Icon": 1411051,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10235,
+        "AppearID": 115035001,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 8,
+        "Particular": 168,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.sight168",
+        "Color": 4,
+        "Icon": 1418002,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10236,
+        "AppearID": 814014001,
+        "WeaponAllow": [
+            8
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 7,
+        "Particular": 169,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.handle169",
+        "Color": 4,
+        "Icon": 1418003,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10237,
+        "AppearID": 815015003,
+        "WeaponAllow": [
+            8
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 170,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope170",
+        "Color": 5,
+        "Icon": 1413051,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10238,
+        "AppearID": 310005091,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 171,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip171",
+        "Color": 4,
+        "Icon": 1413052,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10239,
+        "AppearID": 314074002,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 172,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle172",
+        "Color": 4,
+        "Icon": 1413053,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10240,
+        "AppearID": 315055003,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 173,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip173",
+        "Color": 5,
+        "Icon": 1413054,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10245,
+        "AppearID": 310005101,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 174,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope174",
+        "Color": 5,
+        "Icon": 1415054,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10241,
+        "AppearID": 510005101,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 175,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip175",
+        "Color": 4,
+        "Icon": 1413055,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10244,
+        "AppearID": 315065002,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 176,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine176",
+        "Color": 4,
+        "Icon": 1415055,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10242,
+        "AppearID": 514084004,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 177,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope177",
+        "Color": 4,
+        "Icon": 1415056,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10243,
+        "AppearID": 515095001,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 178,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle178",
+        "Color": 5,
+        "Icon": 1412057,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10246,
+        "AppearID": 210005093,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 179,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle179",
+        "Color": 4,
+        "Icon": 1412058,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10247,
+        "AppearID": 224034003,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 180,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope180",
+        "Color": 4,
+        "Icon": 1412059,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10248,
+        "AppearID": 225045001,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 181,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope181",
+        "Color": 5,
+        "Icon": 1415057,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10249,
+        "AppearID": 510005111,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 182,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine182",
+        "Color": 5,
+        "Icon": 1419001,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10250,
+        "AppearID": 910005014,
+        "WeaponAllow": [
+            9
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 7,
+        "Particular": 183,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.handle183",
+        "Color": 4,
+        "Icon": 1419002,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10251,
+        "AppearID": 914014003,
+        "WeaponAllow": [
+            9
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 184,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip184",
+        "Color": 4,
+        "Icon": 1419003,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10252,
+        "AppearID": 915015002,
+        "WeaponAllow": [
+            9
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 185,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle185",
+        "Color": 4,
+        "Icon": 1415058,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10253,
+        "AppearID": 514094003,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 186,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip186",
+        "Color": 4,
+        "Icon": 1415059,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10254,
+        "AppearID": 515105002,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 187,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle187",
+        "Color": 5,
+        "Icon": 1411052,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10255,
+        "AppearID": 110005103,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 188,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine188",
+        "Color": 4,
+        "Icon": 1411053,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10256,
+        "AppearID": 134024004,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 189,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope189",
+        "Color": 4,
+        "Icon": 1411054,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10257,
+        "AppearID": 135035001,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 190,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle190",
+        "Color": 4,
+        "Icon": 1411055,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10258,
+        "AppearID": 144044003,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 191,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope191",
+        "Color": 4,
+        "Icon": 1411056,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10259,
+        "AppearID": 145025001,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 192,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine192",
+        "Color": 4,
+        "Icon": 1414063,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10260,
+        "AppearID": 414044004,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 193,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope193",
+        "Color": 4,
+        "Icon": 1414064,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10261,
+        "AppearID": 415045001,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 194,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope194",
+        "Color": 5,
+        "Icon": 1411057,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10262,
+        "AppearID": 110005111,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 193,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip193",
+        "Color": 5,
+        "Icon": 1414065,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10263,
+        "AppearID": 420005142,
+        "WeaponAllow": [
+            4
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 196,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope196",
+        "Color": 5,
+        "Icon": 1415060,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10264,
+        "AppearID": 510005121,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 197,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip197",
+        "Color": 5,
+        "Icon": 1413056,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10265,
+        "AppearID": 310005112,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 2,
+        "Particular": 198,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.scope198",
+        "Color": 4,
+        "Icon": 1413057,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10266,
+        "AppearID": 314084001,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 199,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle199",
+        "Color": 4,
+        "Icon": 1413058,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10267,
+        "AppearID": 315075003,
+        "WeaponAllow": [
+            3
+        ],
+        "ClassAllow": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 200,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine200",
+        "Color": 4,
+        "Icon": 1415061,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10268,
+        "AppearID": 515115004,
+        "WeaponAllow": [
+            5
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 201,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle201",
+        "Color": 4,
+        "Icon": 1417004,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10269,
+        "AppearID": 714024003,
+        "WeaponAllow": [
+            7
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 202,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip202",
+        "Color": 4,
+        "Icon": 1417005,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10270,
+        "AppearID": 715025001,
+        "WeaponAllow": [
+            7
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 6,
+        "Particular": 203,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.trigger203",
+        "Color": 5,
+        "Icon": 1417006,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10271,
+        "AppearID": 710005024,
+        "WeaponAllow": [
+            7
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 1,
+        "Particular": 204,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.muzzle204",
+        "Color": 4,
+        "Icon": 1412060,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10272,
+        "AppearID": 215055003,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 205,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine205",
+        "Color": 5,
+        "Icon": 1412061,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10273,
+        "AppearID": 210005104,
+        "WeaponAllow": [
+            2
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 7,
+        "Particular": 206,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.handle206",
+        "Color": 4,
+        "Icon": 14110001,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10274,
+        "AppearID": 1014014002,
+        "WeaponAllow": [
+            10
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 207,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine207",
+        "Color": 4,
+        "Icon": 14110002,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10275,
+        "AppearID": 1015015001,
+        "WeaponAllow": [
+            10
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 7,
+        "Particular": 208,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.handle208",
+        "Color": 5,
+        "Icon": 14110003,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10276,
+        "AppearID": 1010005012,
+        "WeaponAllow": [
+            10
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 6,
+        "Detail": 5,
+        "Particular": 209,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.grip209",
+        "Color": 4,
+        "Icon": 1411058,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10277,
+        "AppearID": 124054002,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 210,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine210",
+        "Color": 4,
+        "Icon": 1411059,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10278,
+        "AppearID": 125035004,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1,
+        "Method": 0
+    },
+    {
+        "Genre": 6,
+        "Detail": 4,
+        "Particular": 211,
+        "Level": 1,
+        "Close": "",
+        "LuaType": "weapon_parts",
+        "I18n": "accessory.magazine211",
+        "Color": 5,
+        "Icon": 1411060,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": "",
+        "SameConvert": "",
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "GrowupID": 10279,
+        "AppearID": 110005124,
+        "WeaponAllow": [
+            1
+        ],
+        "ClassAllow": [
+            1
+        ],
+        "GMnum": 1
+    }
+]

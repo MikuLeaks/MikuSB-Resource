@@ -1,0 +1,1806 @@
+[
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4501003,
+        "MonsterTemplateEnemy": 4001003,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001003_name",
+        "Desc": "vircapture.mon_desc_01",
+        "GroupId": 2,
+        "Color": 3,
+        "Icon": 1804003,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 14,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            1
+        ],
+        "ChipRandomId": [
+            1
+        ],
+        "RikiId": 1,
+        "Exp": 1000,
+        "CostValue": 6,
+        "Camp": 1,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 1.891203342,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4501005,
+        "MonsterTemplateEnemy": 4001005,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001005_name",
+        "Desc": "vircapture.mon_desc_02",
+        "GroupId": 1,
+        "Color": 3,
+        "Icon": 1804005,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 14,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            1
+        ],
+        "ChipRandomId": [
+            2
+        ],
+        "RikiId": 2,
+        "Exp": 1000,
+        "CostValue": 5,
+        "Camp": 1,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 2.292993163,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 3,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4501006,
+        "MonsterTemplateEnemy": 4001006,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001006_name",
+        "Desc": "vircapture.mon_desc_03",
+        "GroupId": 3,
+        "Color": 3,
+        "Icon": 1804006,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 14,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            1
+        ],
+        "ChipRandomId": [
+            3
+        ],
+        "RikiId": 3,
+        "Exp": 1000,
+        "CostValue": 7,
+        "Camp": 1,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 3.612437488,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 4,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4501007,
+        "MonsterTemplateEnemy": 4001007,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001007_name",
+        "Desc": "vircapture.mon_desc_04",
+        "GroupId": 4,
+        "Color": 4,
+        "Icon": 1804007,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 15,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            2
+        ],
+        "ChipRandomId": [
+            4
+        ],
+        "RikiId": 4,
+        "Exp": 2000,
+        "CostValue": 8,
+        "Camp": 1,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 5.464669474,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 5,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4501002,
+        "MonsterTemplateEnemy": 4002002,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001002_name",
+        "Desc": "vircapture.mon_desc_05",
+        "GroupId": 3,
+        "Color": 3,
+        "Icon": 1804002,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 14,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            1
+        ],
+        "ChipRandomId": [
+            5
+        ],
+        "RikiId": 5,
+        "Exp": 1000,
+        "CostValue": 7,
+        "Camp": 1,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 3.998720409,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 6,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4501016,
+        "MonsterTemplateEnemy": 4001016,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001016_name",
+        "Desc": "vircapture.mon_desc_06",
+        "GroupId": 4,
+        "Color": 4,
+        "Icon": 1804039,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 15,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            2
+        ],
+        "ChipRandomId": [
+            6
+        ],
+        "RikiId": 6,
+        "Exp": 2000,
+        "CostValue": 8,
+        "Camp": 1,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 8.336746189,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 7,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4501017,
+        "MonsterTemplateEnemy": 4001017,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001017_name",
+        "Desc": "vircapture.mon_desc_07",
+        "GroupId": 5,
+        "Color": 4,
+        "Icon": 1804040,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 15,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            2
+        ],
+        "ChipRandomId": [
+            7
+        ],
+        "RikiId": 7,
+        "Exp": 2000,
+        "CostValue": 10,
+        "Camp": 1,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 3.660301296,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 8,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 5501001,
+        "MonsterTemplateEnemy": 5001001,
+        "LuaType": "monster_card",
+        "I18n": "monster.5001001_name",
+        "Desc": "vircapture.mon_desc_08",
+        "GroupId": 7,
+        "Color": 5,
+        "Icon": 1804000,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 16,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            3
+        ],
+        "ChipRandomId": [
+            8
+        ],
+        "RikiId": 8,
+        "Exp": 4000,
+        "CostValue": 15,
+        "Camp": 1,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 6.69305853,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 9,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 5501010,
+        "MonsterTemplateEnemy": 5001010,
+        "LuaType": "monster_card",
+        "I18n": "monster.5001010_name",
+        "Desc": "vircapture.mon_desc_09",
+        "GroupId": 6,
+        "Color": 5,
+        "Icon": 1804009,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 16,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            3
+        ],
+        "ChipRandomId": [
+            9
+        ],
+        "RikiId": 9,
+        "Exp": 4000,
+        "CostValue": 12,
+        "Camp": 1,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 3.954961948,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 10,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 5502010,
+        "MonsterTemplateEnemy": 5002010,
+        "LuaType": "monster_card",
+        "I18n": "monster.5002010_name",
+        "Desc": "vircapture.mon_desc_10",
+        "GroupId": 6,
+        "Color": 5,
+        "Icon": 1804008,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 16,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            3
+        ],
+        "ChipRandomId": [
+            10
+        ],
+        "RikiId": 10,
+        "Exp": 4000,
+        "CostValue": 12,
+        "Camp": 1,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 7.266234845,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 11,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4501106,
+        "MonsterTemplateEnemy": 4001106,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001106_name",
+        "Desc": "vircapture.mon_desc_11",
+        "GroupId": 3,
+        "Color": 3,
+        "Icon": 1804019,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 14,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            1
+        ],
+        "ChipRandomId": [
+            11
+        ],
+        "RikiId": 11,
+        "Exp": 1000,
+        "CostValue": 7,
+        "Camp": 2,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 1.546226905,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 12,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4501108,
+        "MonsterTemplateEnemy": 4001108,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001108_name",
+        "Desc": "vircapture.mon_desc_12",
+        "GroupId": 1,
+        "Color": 3,
+        "Icon": 1804021,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 14,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            1
+        ],
+        "ChipRandomId": [
+            12
+        ],
+        "RikiId": 12,
+        "Exp": 1000,
+        "CostValue": 5,
+        "Camp": 2,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 1.654647491,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 13,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4501112,
+        "MonsterTemplateEnemy": 4001112,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001112_name",
+        "Desc": "vircapture.mon_desc_13",
+        "GroupId": 2,
+        "Color": 3,
+        "Icon": 1804048,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 14,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            1
+        ],
+        "ChipRandomId": [
+            13
+        ],
+        "RikiId": 13,
+        "Exp": 1000,
+        "CostValue": 6,
+        "Camp": 2,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 2.311248074,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 14,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4501114,
+        "MonsterTemplateEnemy": 4001114,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001114_name",
+        "Desc": "vircapture.mon_desc_14",
+        "GroupId": 4,
+        "Color": 4,
+        "Icon": 1804050,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 15,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            2
+        ],
+        "ChipRandomId": [
+            14
+        ],
+        "RikiId": 14,
+        "Exp": 2000,
+        "CostValue": 8,
+        "Camp": 2,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 7.918933584,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 15,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4501102,
+        "MonsterTemplateEnemy": 4001102,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001102_name",
+        "Desc": "vircapture.mon_desc_15",
+        "GroupId": 4,
+        "Color": 4,
+        "Icon": 1804015,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 15,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            2
+        ],
+        "ChipRandomId": [
+            15
+        ],
+        "RikiId": 15,
+        "Exp": 2000,
+        "CostValue": 8,
+        "Camp": 2,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 5.941710126,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 16,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4501103,
+        "MonsterTemplateEnemy": 4001103,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001103_name",
+        "Desc": "vircapture.mon_desc_16",
+        "GroupId": 3,
+        "Color": 3,
+        "Icon": 1804016,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 14,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            1
+        ],
+        "ChipRandomId": [
+            16
+        ],
+        "RikiId": 16,
+        "Exp": 1000,
+        "CostValue": 7,
+        "Camp": 2,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 3.406274047,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 17,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4502104,
+        "MonsterTemplateEnemy": 4002104,
+        "LuaType": "monster_card",
+        "I18n": "monster.4002104_name",
+        "Desc": "vircapture.mon_desc_17",
+        "GroupId": 5,
+        "Color": 4,
+        "Icon": 1804017,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 15,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            2
+        ],
+        "ChipRandomId": [
+            17
+        ],
+        "RikiId": 17,
+        "Exp": 2000,
+        "CostValue": 10,
+        "Camp": 2,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 2.248097095,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 18,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 5501110,
+        "MonsterTemplateEnemy": 5003110,
+        "LuaType": "monster_card",
+        "I18n": "monster.5003110_name",
+        "Desc": "vircapture.mon_desc_18",
+        "GroupId": 6,
+        "Color": 5,
+        "Icon": 1804025,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 16,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            3
+        ],
+        "ChipRandomId": [
+            18
+        ],
+        "RikiId": 18,
+        "Exp": 4000,
+        "CostValue": 12,
+        "Camp": 2,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 3.569772197,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 19,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 5502109,
+        "MonsterTemplateEnemy": 500110902,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001109_name",
+        "Desc": "vircapture.mon_desc_19",
+        "GroupId": 6,
+        "Color": 5,
+        "Icon": 1804022,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 16,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            3
+        ],
+        "ChipRandomId": [
+            19
+        ],
+        "RikiId": 19,
+        "Exp": 4000,
+        "CostValue": 12,
+        "Camp": 2,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 4.695823098,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 20,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 5501111,
+        "MonsterTemplateEnemy": 5001111,
+        "LuaType": "monster_card",
+        "I18n": "monster.5001111_name",
+        "Desc": "vircapture.mon_desc_20",
+        "GroupId": 7,
+        "Color": 5,
+        "Icon": 1804047,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 16,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            3
+        ],
+        "ChipRandomId": [
+            20
+        ],
+        "RikiId": 20,
+        "Exp": 4000,
+        "CostValue": 15,
+        "Camp": 2,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 6.097560976,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 21,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4501301,
+        "MonsterTemplateEnemy": 4001301,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001301_name",
+        "Desc": "vircapture.mon_desc_21",
+        "GroupId": 1,
+        "Color": 3,
+        "Icon": 1804061,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 14,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            1
+        ],
+        "ChipRandomId": [
+            21
+        ],
+        "RikiId": 21,
+        "Exp": 1000,
+        "CostValue": 5,
+        "Camp": 3,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 2.784779509,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 22,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4501304,
+        "MonsterTemplateEnemy": 4001304,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001304_name",
+        "Desc": "vircapture.mon_desc_22",
+        "GroupId": 3,
+        "Color": 3,
+        "Icon": 1804102,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 14,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            1
+        ],
+        "ChipRandomId": [
+            22
+        ],
+        "RikiId": 22,
+        "Exp": 1000,
+        "CostValue": 7,
+        "Camp": 3,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 2.250306042,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 23,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 5501307,
+        "MonsterTemplateEnemy": 5001307,
+        "LuaType": "monster_card",
+        "I18n": "monster.5001307_name",
+        "Desc": "vircapture.mon_desc_23",
+        "GroupId": 4,
+        "Color": 4,
+        "Icon": 1804094,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 15,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            2
+        ],
+        "ChipRandomId": [
+            23
+        ],
+        "RikiId": 23,
+        "Exp": 2000,
+        "CostValue": 8,
+        "Camp": 3,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 2.423209485,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 24,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 5501302,
+        "MonsterTemplateEnemy": 5001302,
+        "LuaType": "monster_card",
+        "I18n": "monster.5001302_name",
+        "Desc": "vircapture.mon_desc_24",
+        "GroupId": 5,
+        "Color": 4,
+        "Icon": 1804086,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 15,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            2
+        ],
+        "ChipRandomId": [
+            24
+        ],
+        "RikiId": 24,
+        "Exp": 2000,
+        "CostValue": 10,
+        "Camp": 3,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 2.81673214,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 25,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 5501309,
+        "MonsterTemplateEnemy": 5001309,
+        "LuaType": "monster_card",
+        "I18n": "monster.5001309_name",
+        "Desc": "vircapture.mon_desc_25",
+        "GroupId": 6,
+        "Color": 5,
+        "Icon": 1804104,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 16,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            3
+        ],
+        "ChipRandomId": [
+            25
+        ],
+        "RikiId": 25,
+        "Exp": 4000,
+        "CostValue": 12,
+        "Camp": 3,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 5.563565697,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 26,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4501216,
+        "MonsterTemplateEnemy": 4001216,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001216_name",
+        "Desc": "vircapture.mon_desc_26",
+        "GroupId": 3,
+        "Color": 3,
+        "Icon": 1804110,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 14,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            1
+        ],
+        "ChipRandomId": [
+            26
+        ],
+        "RikiId": 26,
+        "Exp": 1000,
+        "CostValue": 7,
+        "Camp": 4,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 1.73078436,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 27,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4501212,
+        "MonsterTemplateEnemy": 4001212,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001212_name",
+        "Desc": "vircapture.mon_desc_27",
+        "GroupId": 1,
+        "Color": 3,
+        "Icon": 1804029,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 14,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            1
+        ],
+        "ChipRandomId": [
+            27
+        ],
+        "RikiId": 27,
+        "Exp": 1000,
+        "CostValue": 5,
+        "Camp": 4,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 4.480286738,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 28,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4501215,
+        "MonsterTemplateEnemy": 4001215,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001215_name",
+        "Desc": "vircapture.mon_desc_28",
+        "GroupId": 5,
+        "Color": 4,
+        "Icon": 1804074,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 15,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            2
+        ],
+        "ChipRandomId": [
+            28
+        ],
+        "RikiId": 28,
+        "Exp": 2000,
+        "CostValue": 10,
+        "Camp": 4,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 2.147553441,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 29,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4501213,
+        "MonsterTemplateEnemy": 400121302,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001213_name",
+        "Desc": "vircapture.mon_desc_29",
+        "GroupId": 4,
+        "Color": 4,
+        "Icon": 1804052,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 15,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            2
+        ],
+        "ChipRandomId": [
+            29
+        ],
+        "RikiId": 29,
+        "Exp": 2000,
+        "CostValue": 8,
+        "Camp": 4,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 5.260942761,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 30,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 5501214,
+        "MonsterTemplateEnemy": 5001214,
+        "LuaType": "monster_card",
+        "I18n": "monster.5001214_name",
+        "Desc": "vircapture.mon_desc_30",
+        "GroupId": 6,
+        "Color": 5,
+        "Icon": 1804064,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 16,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            3
+        ],
+        "ChipRandomId": [
+            30
+        ],
+        "RikiId": 30,
+        "Exp": 4000,
+        "CostValue": 12,
+        "Camp": 4,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 4.329054304,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 31,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 6501004,
+        "MonsterTemplateEnemy": 650100401,
+        "LuaType": "monster_card",
+        "I18n": "monster.6001004_name",
+        "Desc": "vircapture.mon_desc_31",
+        "GroupId": 8,
+        "Color": 6,
+        "Icon": 1804046,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 17,
+        "GMnum": 1,
+        "AttackRandomId": [
+            2
+        ],
+        "DefenseRandomId": [
+            2
+        ],
+        "HealthRandomId": [
+            2
+        ],
+        "SkillRandomId": [
+            4
+        ],
+        "ChipRandomId": [
+            31
+        ],
+        "RikiId": 31,
+        "Exp": 8000,
+        "CostValue": 26,
+        "Camp": 1,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 11.27837703,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 32,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 6501002,
+        "MonsterTemplateEnemy": 650100201,
+        "LuaType": "monster_card",
+        "I18n": "monster.6001002_name",
+        "Desc": "vircapture.mon_desc_32",
+        "GroupId": 8,
+        "Color": 6,
+        "Icon": 1804030,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 17,
+        "GMnum": 1,
+        "AttackRandomId": [
+            2
+        ],
+        "DefenseRandomId": [
+            2
+        ],
+        "HealthRandomId": [
+            2
+        ],
+        "SkillRandomId": [
+            4
+        ],
+        "ChipRandomId": [
+            32
+        ],
+        "RikiId": 32,
+        "Exp": 8000,
+        "CostValue": 26,
+        "Camp": 1,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 25.15351423,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 33,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 5501009,
+        "MonsterTemplateEnemy": 5001009,
+        "LuaType": "monster_card",
+        "I18n": "monster.5001009_name",
+        "Desc": "vircapture.mon_desc_33",
+        "GroupId": 4,
+        "Color": 4,
+        "Icon": 1804125,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 15,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            2
+        ],
+        "ChipRandomId": [
+            33
+        ],
+        "RikiId": 33,
+        "Exp": 2000,
+        "CostValue": 8,
+        "Camp": 1,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 6.012506013,
+        "RefreshTime": 1
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 34,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 5501019,
+        "MonsterTemplateEnemy": 5001019,
+        "LuaType": "monster_card",
+        "I18n": "monster.5001019_name",
+        "Desc": "vircapture.mon_desc_34",
+        "GroupId": 6,
+        "Color": 5,
+        "Icon": 1804108,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 16,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            3
+        ],
+        "ChipRandomId": [
+            34
+        ],
+        "RikiId": 34,
+        "Exp": 4000,
+        "CostValue": 12,
+        "Camp": 1,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 9.075584625,
+        "RefreshTime": 1
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 35,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 6501005,
+        "MonsterTemplateEnemy": 6001005,
+        "LuaType": "monster_card",
+        "I18n": "monster.6001005_name",
+        "Desc": "vircapture.mon_desc_35",
+        "GroupId": 8,
+        "Color": 6,
+        "Icon": 1804037,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 17,
+        "GMnum": 1,
+        "AttackRandomId": [
+            2
+        ],
+        "DefenseRandomId": [
+            2
+        ],
+        "HealthRandomId": [
+            2
+        ],
+        "SkillRandomId": [
+            4
+        ],
+        "ChipRandomId": [
+            35
+        ],
+        "RikiId": 35,
+        "Exp": 8000,
+        "CostValue": 26,
+        "Camp": 1,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 2.142024813,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 36,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 5501118,
+        "MonsterTemplateEnemy": 5001118,
+        "LuaType": "monster_card",
+        "I18n": "monster.5001118_name",
+        "Desc": "vircapture.mon_desc_36",
+        "GroupId": 6,
+        "Color": 5,
+        "Icon": 1804137,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 16,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            3
+        ],
+        "ChipRandomId": [
+            36
+        ],
+        "RikiId": 36,
+        "Exp": 4000,
+        "CostValue": 12,
+        "Camp": 2,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 9.241059275,
+        "RefreshTime": 1
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 37,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 5501206,
+        "MonsterTemplateEnemy": 5001206,
+        "LuaType": "monster_card",
+        "I18n": "monster.5001206_name",
+        "Desc": "vircapture.mon_desc_37",
+        "GroupId": 5,
+        "Color": 4,
+        "Icon": 1804041,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 15,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            2
+        ],
+        "ChipRandomId": [
+            37
+        ],
+        "RikiId": 37,
+        "Exp": 2000,
+        "CostValue": 10,
+        "Camp": 4,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 10.24636184,
+        "RefreshTime": 2
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 38,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 5501207,
+        "MonsterTemplateEnemy": 5001207,
+        "LuaType": "monster_card",
+        "I18n": "monster.5001207_name",
+        "Desc": "vircapture.mon_desc_38",
+        "GroupId": 7,
+        "Color": 5,
+        "Icon": 1804042,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 16,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            3
+        ],
+        "ChipRandomId": [
+            38
+        ],
+        "RikiId": 38,
+        "Exp": 4000,
+        "CostValue": 15,
+        "Camp": 4,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 3.12069604,
+        "RefreshTime": 1
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 39,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4509301,
+        "MonsterTemplateEnemy": 400930102,
+        "LuaType": "monster_card",
+        "I18n": "monster.4009301_name",
+        "Desc": "vircapture.mon_desc_39",
+        "GroupId": 2,
+        "Color": 3,
+        "Icon": 1804161,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 14,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            1
+        ],
+        "ChipRandomId": [
+            39
+        ],
+        "RikiId": 39,
+        "Exp": 1000,
+        "CostValue": 6,
+        "Camp": 3,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 2.190100745,
+        "RefreshTime": 1
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 40,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 5501308,
+        "MonsterTemplateEnemy": 5001308,
+        "LuaType": "monster_card",
+        "I18n": "monster.5001308_name",
+        "Desc": "vircapture.mon_desc_40",
+        "GroupId": 4,
+        "Color": 4,
+        "Icon": 1804103,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 15,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            2
+        ],
+        "ChipRandomId": [
+            40
+        ],
+        "RikiId": 40,
+        "Exp": 2000,
+        "CostValue": 8,
+        "Camp": 3,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 2.200849658,
+        "RefreshTime": 1
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 41,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 6501302,
+        "MonsterTemplateEnemy": 6001302,
+        "LuaType": "monster_card",
+        "I18n": "monster.6001302_name",
+        "Desc": "vircapture.mon_desc_41",
+        "GroupId": 8,
+        "Color": 6,
+        "Icon": 1804100,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 17,
+        "GMnum": 1,
+        "AttackRandomId": [
+            2
+        ],
+        "DefenseRandomId": [
+            2
+        ],
+        "HealthRandomId": [
+            2
+        ],
+        "SkillRandomId": [
+            4
+        ],
+        "ChipRandomId": [
+            41
+        ],
+        "RikiId": 41,
+        "Exp": 8000,
+        "CostValue": 26,
+        "Camp": 3,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 1.289406238,
+        "RefreshTime": 0
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 42,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 4501404,
+        "MonsterTemplateEnemy": 4003404,
+        "LuaType": "monster_card",
+        "I18n": "monster.4001404_name",
+        "Desc": "vircapture.mon_desc_42",
+        "GroupId": 3,
+        "Color": 3,
+        "Icon": 1804117,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 14,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            1
+        ],
+        "ChipRandomId": [
+            42
+        ],
+        "RikiId": 42,
+        "Exp": 1000,
+        "CostValue": 7,
+        "Camp": 5,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 2.511048614,
+        "RefreshTime": 2
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 43,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 5501501,
+        "MonsterTemplateEnemy": 5001501,
+        "LuaType": "monster_card",
+        "I18n": "monster.5001501_name",
+        "Desc": "vircapture.mon_desc_43",
+        "GroupId": 5,
+        "Color": 4,
+        "Icon": 1804081,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 15,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            2
+        ],
+        "ChipRandomId": [
+            43
+        ],
+        "RikiId": 43,
+        "Exp": 2000,
+        "CostValue": 10,
+        "Camp": 5,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 2.217169763,
+        "RefreshTime": 2
+    },
+    {
+        "Genre": 18,
+        "Detail": 1,
+        "Particular": 44,
+        "Level": 1,
+        "Close": "",
+        "MonsterTemplateFriend": 5501504,
+        "MonsterTemplateEnemy": 5001504,
+        "LuaType": "monster_card",
+        "I18n": "monster.5001504_name",
+        "Desc": "vircapture.mon_desc_44",
+        "GroupId": 7,
+        "Color": 5,
+        "Icon": 1804082,
+        "CanStack": "",
+        "CanEnhance": 1,
+        "RecycleID": 16,
+        "GMnum": 1,
+        "AttackRandomId": [
+            1
+        ],
+        "DefenseRandomId": [
+            1
+        ],
+        "HealthRandomId": [
+            1
+        ],
+        "SkillRandomId": [
+            3
+        ],
+        "ChipRandomId": [
+            44
+        ],
+        "RikiId": 44,
+        "Exp": 4000,
+        "CostValue": 15,
+        "Camp": 5,
+        "SkillFirstTime": "",
+        "SPAttackTimes": 6.510741468,
+        "RefreshTime": 2
+    }
+]

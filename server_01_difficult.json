@@ -1,0 +1,116 @@
+[
+    {
+        "DifficultID": 1,
+        "Type": 2,
+        "Name": "ui.TxtDLC5.RogueDiff1",
+        "Icon": 1701234,
+        "DifficultTypeId": 1,
+        "level": 35,
+        "MaxFloor": 6,
+        "Des": "rogue3.difficult_des_101",
+        "UnlockCondition": "",
+        "BattleCoin": 100,
+        "CoinMultiple": 10000,
+        "TechnologyMultiple": 10000,
+        "BaseBuff": 1000,
+        "GameplayGroup": [
+            100,
+            101
+        ],
+        "DailyBuffCost": 20
+    },
+    {
+        "DifficultID": 2,
+        "Type": 2,
+        "Name": "ui.TxtDLC5.RogueDiff2",
+        "Icon": 1701235,
+        "DifficultTypeId": 2,
+        "level": 55,
+        "MaxFloor": 12,
+        "Des": "rogue3.difficult_des_201",
+        "UnlockCondition": "",
+        "BattleCoin": 100,
+        "CoinMultiple": 10000,
+        "TechnologyMultiple": 10000,
+        "BaseBuff": 1000,
+        "GameplayGroup": [
+            200,
+            201,
+            202
+        ],
+        "DailyBuffCost": 30
+    },
+    {
+        "DifficultID": 3,
+        "Type": 2,
+        "Name": "ui.TxtDLC5.RogueDiff3",
+        "Icon": 1701236,
+        "DifficultTypeId": 3,
+        "level": 75,
+        "MaxFloor": 17,
+        "Des": "rogue3.difficult_des_301",
+        "UnlockCondition": 2,
+        "BattleCoin": 60,
+        "CoinMultiple": 10000,
+        "TechnologyMultiple": 10000,
+        "BaseBuff": 1000,
+        "GameplayGroup": [
+            300,
+            301,
+            302,
+            303,
+            304
+        ],
+        "DailyBuffCost": 40
+    },
+    {
+        "DifficultID": 4,
+        "Type": 2,
+        "Name": "ui.TxtDLC5.RogueDiff4",
+        "Icon": 1701237,
+        "DifficultTypeId": 4,
+        "level": 85,
+        "MaxFloor": 22,
+        "Des": "rogue3.difficult_des_401",
+        "UnlockCondition": 3,
+        "BattleCoin": 0,
+        "CoinMultiple": 10000,
+        "TechnologyMultiple": 10000,
+        "BaseBuff": 1000,
+        "GameplayGroup": [
+            400,
+            401,
+            402,
+            403,
+            404
+        ],
+        "DailyBuffCost": 50
+    },
+    {
+        "DifficultID": 100,
+        "Type": 1,
+        "Name": "rogue3.difficult_Name_100",
+        "Icon": 1701237,
+        "DifficultTypeId": "",
+        "level": "",
+        "MaxFloor": 13,
+        "Des": "rogue3.difficult_des_10001",
+        "UnlockCondition": 2,
+        "BattleCoin": 150,
+        "CoinMultiple": 10000,
+        "TechnologyMultiple": 10000,
+        "BaseBuff": "",
+        "GameplayGroup": [
+            811,
+            812,
+            813,
+            821,
+            822,
+            823,
+            831,
+            832,
+            833
+        ],
+        "DailyBuffCost": 40
+    }
+]

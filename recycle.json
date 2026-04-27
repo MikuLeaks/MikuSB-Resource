@@ -1,0 +1,208 @@
+[
+    {
+        "ID": 1
+    },
+    {
+        "ID": 2,
+        "RecycleReward": {
+            "3": 10
+        },
+        "RecycleBase": "",
+        "RecycleRatio": 0.3
+    },
+    {
+        "ID": 3,
+        "RecycleReward": {
+            "3": 1
+        }
+    },
+    {
+        "ID": 4,
+        "RecycleReward": {
+            "3": 100
+        }
+    },
+    {
+        "ID": 5,
+        "RecycleReward": [
+            [
+                5,
+                3,
+                1,
+                2,
+                1
+            ]
+        ],
+        "RecycleBase": "",
+        "RecycleRatio": 1
+    },
+    {
+        "ID": 6,
+        "RecycleReward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                1
+            ]
+        ],
+        "RecycleBase": "",
+        "RecycleRatio": 1
+    },
+    {
+        "ID": 7,
+        "RecycleReward": [
+            [
+                5,
+                7,
+                1,
+                1,
+                10
+            ]
+        ],
+        "RecycleBase": "",
+        "RecycleRatio": 1
+    },
+    {
+        "ID": 8,
+        "RecycleReward": [
+            [
+                5,
+                2,
+                1,
+                2,
+                1
+            ]
+        ],
+        "RecycleBase": "",
+        "RecycleRatio": 1
+    },
+    {
+        "ID": 9,
+        "RecycleReward": [
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "RecycleBase": "",
+        "RecycleRatio": 1
+    },
+    {
+        "ID": 10,
+        "RecycleReward": [
+            [
+                5,
+                2,
+                1,
+                4,
+                1
+            ],
+            [
+                5,
+                13,
+                2,
+                1,
+                10
+            ]
+        ],
+        "RecycleBase": "",
+        "RecycleRatio": 1
+    },
+    {
+        "ID": 11,
+        "RecycleReward": {
+            "3": 100
+        },
+        "RecycleBase": "",
+        "RecycleRatio": 0.3
+    },
+    {
+        "ID": 12,
+        "RecycleReward": [
+            [
+                5,
+                2,
+                1,
+                1,
+                1
+            ]
+        ],
+        "RecycleBase": "",
+        "RecycleRatio": 1
+    },
+    {
+        "ID": 13,
+        "RecycleReward": [
+            [
+                5,
+                2,
+                1,
+                4,
+                1
+            ]
+        ],
+        "RecycleBase": "",
+        "RecycleRatio": 1
+    },
+    {
+        "ID": 14,
+        "RecycleReward": [
+            [
+                5,
+                25,
+                2,
+                2,
+                10
+            ]
+        ],
+        "RecycleBase": "",
+        "RecycleRatio": 1
+    },
+    {
+        "ID": 15,
+        "RecycleReward": [
+            [
+                5,
+                25,
+                2,
+                3,
+                5
+            ]
+        ],
+        "RecycleBase": "",
+        "RecycleRatio": 1
+    },
+    {
+        "ID": 16,
+        "RecycleReward": [
+            [
+                5,
+                25,
+                2,
+                4,
+                3
+            ]
+        ],
+        "RecycleBase": "",
+        "RecycleRatio": 1
+    },
+    {
+        "ID": 17,
+        "RecycleReward": [
+            [
+                5,
+                25,
+                2,
+                5,
+                1
+            ]
+        ],
+        "RecycleBase": "",
+        "RecycleRatio": 1
+    }
+]

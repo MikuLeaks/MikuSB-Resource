@@ -1,0 +1,3924 @@
+[
+    {
+        "Genre": 1,
+        "Detail": 1,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl011",
+        "Color": 4,
+        "InitBreak": 1,
+        "Icon": 1210009,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1001,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                1,
+                1,
+                30
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                5
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1001,
+        "AppearID": 1001,
+        "DefaultWeaponGPDL": [
+            2,
+            4,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                1,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 4,
+        "SpineID": 10001,
+        "Pieces": [
+            [
+                5,
+                4,
+                1,
+                1,
+                30
+            ]
+        ],
+        "Attribute": [
+            5
+        ],
+        "Positioning": [
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 1,
+        "Detail": 1,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl012",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210015,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1002,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                1,
+                2,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1002,
+        "AppearID": 1101,
+        "DefaultWeaponGPDL": [
+            2,
+            4,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                1,
+                2,
+                1
+            ]
+        ],
+        "LimitWeapon": 4,
+        "SpineID": 10015,
+        "Pieces": [
+            [
+                5,
+                4,
+                1,
+                2,
+                60
+            ]
+        ],
+        "Attribute": [
+            3
+        ],
+        "Positioning": [
+            5
+        ],
+        "GMnum": 1,
+        "gachaid": 4
+    },
+    {
+        "Genre": 1,
+        "Detail": 1,
+        "Particular": 3,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl013",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210053,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1050,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                1,
+                3,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1052,
+        "AppearID": 1201,
+        "DefaultWeaponGPDL": [
+            2,
+            10,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                1,
+                3,
+                1
+            ]
+        ],
+        "LimitWeapon": 10,
+        "SpineID": 10052,
+        "Pieces": [
+            [
+                5,
+                4,
+                1,
+                3,
+                60
+            ]
+        ],
+        "Attribute": [
+            1
+        ],
+        "Positioning": [
+            2
+        ],
+        "GMnum": 1,
+        "gachaid": 191
+    },
+    {
+        "Genre": 1,
+        "Detail": 2,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl021",
+        "Color": 4,
+        "InitBreak": 1,
+        "Icon": 1210001,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1003,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                2,
+                1,
+                30
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                5
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1003,
+        "AppearID": 1002,
+        "DefaultWeaponGPDL": [
+            2,
+            1,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                2,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 1,
+        "SpineID": 10002,
+        "Pieces": [
+            [
+                5,
+                4,
+                2,
+                1,
+                30
+            ]
+        ],
+        "Attribute": [
+            4
+        ],
+        "Positioning": [
+            1,
+            14
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 1,
+        "Detail": 2,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl022",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210011,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1004,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                2,
+                2,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1004,
+        "AppearID": 1102,
+        "DefaultWeaponGPDL": [
+            2,
+            1,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                2,
+                2,
+                1
+            ]
+        ],
+        "LimitWeapon": 1,
+        "SpineID": 10011,
+        "Pieces": [
+            [
+                5,
+                4,
+                2,
+                2,
+                60
+            ]
+        ],
+        "Attribute": [
+            3
+        ],
+        "Positioning": [
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 1,
+        "Detail": 2,
+        "Particular": 3,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl023",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210031,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1030,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                2,
+                3,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1030,
+        "AppearID": 1202,
+        "DefaultWeaponGPDL": [
+            2,
+            7,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                2,
+                3,
+                1
+            ]
+        ],
+        "LimitWeapon": 7,
+        "SpineID": 10030,
+        "Pieces": [
+            [
+                5,
+                4,
+                2,
+                3,
+                60
+            ]
+        ],
+        "Attribute": [
+            1
+        ],
+        "Positioning": [
+            1,
+            2
+        ],
+        "GMnum": 1,
+        "gachaid": 129
+    },
+    {
+        "Genre": 1,
+        "Detail": 3,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl031",
+        "Color": 4,
+        "InitBreak": 1,
+        "Icon": 1210002,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1005,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                3,
+                1,
+                30
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                5
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1005,
+        "AppearID": 1003,
+        "DefaultWeaponGPDL": [
+            2,
+            3,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                3,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 3,
+        "SpineID": 10003,
+        "Pieces": [
+            [
+                5,
+                4,
+                3,
+                1,
+                30
+            ]
+        ],
+        "Attribute": [
+            1
+        ],
+        "Positioning": [
+            2,
+            8
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 1,
+        "Detail": 3,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl032",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210041,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 10001,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                32,
+                1,
+                1,
+                1
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1040,
+        "AppearID": 1103,
+        "DefaultWeaponGPDL": [
+            2,
+            3,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                3,
+                2,
+                1
+            ]
+        ],
+        "LimitWeapon": 3,
+        "SpineID": 10040,
+        "Pieces": "",
+        "Attribute": [
+            2
+        ],
+        "Positioning": [
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 1,
+        "Detail": 4,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl041",
+        "Color": 4,
+        "InitBreak": 1,
+        "Icon": 1210003,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1006,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                4,
+                1,
+                30
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                5
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1006,
+        "AppearID": 1004,
+        "DefaultWeaponGPDL": [
+            2,
+            5,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                4,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 5,
+        "SpineID": 10004,
+        "Pieces": [
+            [
+                5,
+                4,
+                4,
+                1,
+                30
+            ]
+        ],
+        "Attribute": [
+            2
+        ],
+        "Positioning": [
+            2,
+            5
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 1,
+        "Detail": 4,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl042",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210014,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1007,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                4,
+                2,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1007,
+        "AppearID": 1104,
+        "DefaultWeaponGPDL": [
+            2,
+            5,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                4,
+                2,
+                1
+            ]
+        ],
+        "LimitWeapon": 5,
+        "SpineID": 10014,
+        "Pieces": [
+            [
+                5,
+                4,
+                4,
+                2,
+                60
+            ]
+        ],
+        "Attribute": [
+            2
+        ],
+        "Positioning": [
+            2,
+            8
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 1,
+        "Detail": 4,
+        "Particular": 3,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl043",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210035,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1035,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                4,
+                3,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1035,
+        "AppearID": 1204,
+        "DefaultWeaponGPDL": [
+            2,
+            2,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                4,
+                3,
+                1
+            ]
+        ],
+        "LimitWeapon": 2,
+        "SpineID": 10035,
+        "Pieces": [
+            [
+                5,
+                4,
+                4,
+                3,
+                60
+            ]
+        ],
+        "Attribute": [
+            5
+        ],
+        "Positioning": [
+            1
+        ],
+        "GMnum": 1,
+        "gachaid": 145
+    },
+    {
+        "Genre": 1,
+        "Detail": 5,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl051",
+        "Color": 4,
+        "InitBreak": 1,
+        "Icon": 1210010,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1008,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                5,
+                1,
+                30
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                5
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1008,
+        "AppearID": 1005,
+        "DefaultWeaponGPDL": [
+            2,
+            2,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                5,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 2,
+        "SpineID": 10005,
+        "Pieces": [
+            [
+                5,
+                4,
+                5,
+                1,
+                30
+            ]
+        ],
+        "Attribute": [
+            5
+        ],
+        "Positioning": [
+            1,
+            6
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 1,
+        "Detail": 5,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl052",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210004,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1009,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                5,
+                2,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1009,
+        "AppearID": 1105,
+        "DefaultWeaponGPDL": [
+            2,
+            2,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                5,
+                2,
+                1
+            ]
+        ],
+        "LimitWeapon": 2,
+        "SpineID": 10006,
+        "Pieces": [
+            [
+                5,
+                4,
+                5,
+                2,
+                60
+            ]
+        ],
+        "Attribute": [
+            1
+        ],
+        "Positioning": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 1,
+        "Detail": 5,
+        "Particular": 3,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl053",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210034,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1034,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                5,
+                3,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1034,
+        "AppearID": 1205,
+        "DefaultWeaponGPDL": [
+            2,
+            3,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                5,
+                3,
+                1
+            ]
+        ],
+        "LimitWeapon": 3,
+        "SpineID": 10034,
+        "Pieces": [
+            [
+                5,
+                4,
+                5,
+                3,
+                60
+            ]
+        ],
+        "Attribute": [
+            5
+        ],
+        "Positioning": [
+            2,
+            4
+        ],
+        "GMnum": 1,
+        "gachaid": 143
+    },
+    {
+        "Genre": 1,
+        "Detail": 5,
+        "Particular": 4,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl054",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210054,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1051,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                5,
+                4,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1053,
+        "AppearID": 1305,
+        "DefaultWeaponGPDL": [
+            2,
+            1,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                5,
+                4,
+                1
+            ]
+        ],
+        "LimitWeapon": 1,
+        "SpineID": 10053,
+        "Pieces": [
+            [
+                5,
+                4,
+                5,
+                4,
+                60
+            ]
+        ],
+        "Attribute": [
+            1
+        ],
+        "Positioning": [
+            6
+        ],
+        "GMnum": 1,
+        "gachaid": 193
+    },
+    {
+        "Genre": 1,
+        "Detail": 6,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl061",
+        "Color": 4,
+        "InitBreak": 1,
+        "Icon": 1210005,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1010,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                6,
+                1,
+                30
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                5
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1010,
+        "AppearID": 1006,
+        "DefaultWeaponGPDL": [
+            2,
+            4,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                6,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 4,
+        "SpineID": 10007,
+        "Pieces": [
+            [
+                5,
+                4,
+                6,
+                1,
+                30
+            ]
+        ],
+        "Attribute": [
+            1
+        ],
+        "Positioning": [
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 1,
+        "Detail": 6,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl062",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210022,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1022,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                6,
+                2,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "[202501230400]",
+        "GrowupID": 1022,
+        "AppearID": 1106,
+        "DefaultWeaponGPDL": [
+            2,
+            4,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                6,
+                2,
+                1
+            ]
+        ],
+        "LimitWeapon": 4,
+        "SpineID": 10022,
+        "Pieces": [
+            [
+                5,
+                4,
+                6,
+                2,
+                60
+            ]
+        ],
+        "Attribute": [
+            1
+        ],
+        "Positioning": [
+            2
+        ],
+        "GMnum": 1,
+        "gachaid": 110
+    },
+    {
+        "Genre": 1,
+        "Detail": 6,
+        "Particular": 3,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl063",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210050,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 10002,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                32,
+                2,
+                1,
+                1
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1049,
+        "AppearID": 1206,
+        "DefaultWeaponGPDL": [
+            2,
+            5,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                6,
+                3,
+                1
+            ]
+        ],
+        "LimitWeapon": 5,
+        "SpineID": 10049,
+        "Pieces": "",
+        "Attribute": [
+            5
+        ],
+        "Positioning": [
+            2
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 1,
+        "Detail": 7,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl071",
+        "Color": 4,
+        "InitBreak": 1,
+        "Icon": 1210006,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1011,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                7,
+                1,
+                30
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                5
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1011,
+        "AppearID": 1007,
+        "DefaultWeaponGPDL": [
+            2,
+            1,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                7,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 1,
+        "SpineID": 10008,
+        "Pieces": [
+            [
+                5,
+                4,
+                7,
+                1,
+                30
+            ]
+        ],
+        "Attribute": [
+            5
+        ],
+        "Positioning": [
+            14
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 1,
+        "Detail": 7,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl072",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210027,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1027,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                7,
+                2,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1027,
+        "AppearID": 1107,
+        "DefaultWeaponGPDL": [
+            2,
+            1,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                7,
+                2,
+                1
+            ]
+        ],
+        "LimitWeapon": 1,
+        "SpineID": 10027,
+        "Pieces": [
+            [
+                5,
+                4,
+                7,
+                2,
+                60
+            ]
+        ],
+        "Attribute": [
+            5
+        ],
+        "Positioning": [
+            2
+        ],
+        "GMnum": 1,
+        "gachaid": 123
+    },
+    {
+        "Genre": 1,
+        "Detail": 8,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl081",
+        "Color": 4,
+        "InitBreak": 1,
+        "Icon": 1210007,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1012,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                8,
+                1,
+                30
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                5
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1012,
+        "AppearID": 1008,
+        "DefaultWeaponGPDL": [
+            2,
+            3,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                8,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 3,
+        "SpineID": 10009,
+        "Pieces": [
+            [
+                5,
+                4,
+                8,
+                1,
+                30
+            ]
+        ],
+        "Attribute": [
+            1
+        ],
+        "Positioning": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 1,
+        "Detail": 8,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl082",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210018,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1013,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                8,
+                2,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1013,
+        "AppearID": 1108,
+        "DefaultWeaponGPDL": [
+            2,
+            3,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                8,
+                2,
+                1
+            ]
+        ],
+        "LimitWeapon": 3,
+        "SpineID": 10016,
+        "Pieces": [
+            [
+                5,
+                4,
+                8,
+                2,
+                60
+            ]
+        ],
+        "Attribute": [
+            4
+        ],
+        "Positioning": [
+            1,
+            3
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 1,
+        "Detail": 8,
+        "Particular": 3,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl083",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210030,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1031,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                8,
+                3,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1031,
+        "AppearID": 1208,
+        "DefaultWeaponGPDL": [
+            2,
+            5,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                8,
+                3,
+                1
+            ]
+        ],
+        "LimitWeapon": 5,
+        "SpineID": 10031,
+        "Pieces": [
+            [
+                5,
+                4,
+                8,
+                3,
+                60
+            ]
+        ],
+        "Attribute": [
+            1
+        ],
+        "Positioning": [
+            3
+        ],
+        "GMnum": 1,
+        "gachaid": 131
+    },
+    {
+        "Genre": 1,
+        "Detail": 8,
+        "Particular": 4,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl084",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210047,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1046,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                8,
+                4,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1046,
+        "AppearID": 1308,
+        "DefaultWeaponGPDL": [
+            2,
+            1,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                8,
+                4,
+                1
+            ]
+        ],
+        "LimitWeapon": 1,
+        "SpineID": 10046,
+        "Pieces": [
+            [
+                5,
+                4,
+                8,
+                4,
+                60
+            ]
+        ],
+        "Attribute": [
+            2
+        ],
+        "Positioning": [
+            2
+        ],
+        "GMnum": 1,
+        "gachaid": 179
+    },
+    {
+        "Genre": 1,
+        "Detail": 10,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl101",
+        "Color": 4,
+        "InitBreak": 1,
+        "Icon": 1210012,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1015,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                10,
+                1,
+                30
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                5
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1015,
+        "AppearID": 1010,
+        "DefaultWeaponGPDL": [
+            2,
+            2,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                10,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 2,
+        "SpineID": 10012,
+        "Pieces": [
+            [
+                5,
+                4,
+                10,
+                1,
+                30
+            ]
+        ],
+        "Attribute": [
+            3
+        ],
+        "Positioning": [
+            8,
+            14
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 1,
+        "Detail": 10,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl102",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210016,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1016,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                10,
+                2,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1016,
+        "AppearID": 1110,
+        "DefaultWeaponGPDL": [
+            2,
+            2,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                10,
+                2,
+                1
+            ]
+        ],
+        "LimitWeapon": 2,
+        "SpineID": 10017,
+        "Pieces": [
+            [
+                5,
+                4,
+                10,
+                2,
+                60
+            ]
+        ],
+        "Attribute": [
+            2
+        ],
+        "Positioning": [
+            1
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 1,
+        "Detail": 10,
+        "Particular": 3,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl103",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210038,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1038,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                10,
+                3,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1038,
+        "AppearID": 1210,
+        "DefaultWeaponGPDL": [
+            2,
+            1,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                10,
+                3,
+                1
+            ]
+        ],
+        "LimitWeapon": 1,
+        "SpineID": 10038,
+        "Pieces": [
+            [
+                5,
+                4,
+                10,
+                3,
+                60
+            ]
+        ],
+        "Attribute": [
+            4
+        ],
+        "Positioning": [
+            3
+        ],
+        "GMnum": 1,
+        "gachaid": 151
+    },
+    {
+        "Genre": 1,
+        "Detail": 11,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl111",
+        "Color": 4,
+        "InitBreak": 1,
+        "Icon": 1210013,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1017,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                11,
+                1,
+                30
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                5
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1017,
+        "AppearID": 1011,
+        "DefaultWeaponGPDL": [
+            2,
+            4,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                11,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 4,
+        "SpineID": 10013,
+        "Pieces": [
+            [
+                5,
+                4,
+                11,
+                1,
+                30
+            ]
+        ],
+        "Attribute": [
+            2
+        ],
+        "Positioning": [
+            3
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 1,
+        "Detail": 11,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "[202403301000]",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl112",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210028,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1028,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                11,
+                2,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1028,
+        "AppearID": 1111,
+        "DefaultWeaponGPDL": [
+            2,
+            4,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                11,
+                2,
+                1
+            ]
+        ],
+        "LimitWeapon": 4,
+        "SpineID": 10028,
+        "Pieces": [
+            [
+                5,
+                4,
+                11,
+                2,
+                60
+            ]
+        ],
+        "Attribute": [
+            4
+        ],
+        "Positioning": [
+            2,
+            4,
+            8
+        ],
+        "GMnum": 1,
+        "gachaid": 125
+    },
+    {
+        "Genre": 1,
+        "Detail": 11,
+        "Particular": 3,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl113",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210040,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1039,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                11,
+                3,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1039,
+        "AppearID": 1211,
+        "DefaultWeaponGPDL": [
+            2,
+            3,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                11,
+                3,
+                1
+            ]
+        ],
+        "LimitWeapon": 3,
+        "SpineID": 10039,
+        "Pieces": [
+            [
+                5,
+                4,
+                11,
+                3,
+                60
+            ]
+        ],
+        "Attribute": [
+            1
+        ],
+        "Positioning": [
+            2
+        ],
+        "GMnum": 1,
+        "gachaid": 153
+    },
+    {
+        "Genre": 1,
+        "Detail": 12,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl121",
+        "Color": 4,
+        "InitBreak": 1,
+        "Icon": 1210017,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1018,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                12,
+                1,
+                30
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                5
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1018,
+        "AppearID": 1012,
+        "DefaultWeaponGPDL": [
+            2,
+            1,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                12,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 1,
+        "SpineID": 10018,
+        "Pieces": [
+            [
+                5,
+                4,
+                12,
+                1,
+                30
+            ]
+        ],
+        "Attribute": [
+            3
+        ],
+        "Positioning": [
+            4
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 1,
+        "Detail": 12,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl122",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210023,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1023,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                12,
+                2,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1023,
+        "AppearID": 1112,
+        "DefaultWeaponGPDL": [
+            2,
+            1,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                12,
+                2,
+                1
+            ]
+        ],
+        "LimitWeapon": 1,
+        "SpineID": 10023,
+        "Pieces": [
+            [
+                5,
+                4,
+                12,
+                2,
+                60
+            ]
+        ],
+        "Attribute": [
+            5
+        ],
+        "Positioning": [
+            3
+        ],
+        "GMnum": 1,
+        "gachaid": 113
+    },
+    {
+        "Genre": 1,
+        "Detail": 12,
+        "Particular": 3,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl123",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210052,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 10003,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                32,
+                3,
+                1,
+                1
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1051,
+        "AppearID": 1212,
+        "DefaultWeaponGPDL": [
+            2,
+            2,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                12,
+                3,
+                1
+            ]
+        ],
+        "LimitWeapon": 2,
+        "SpineID": 10051,
+        "Pieces": "",
+        "Attribute": [
+            3
+        ],
+        "Positioning": [
+            2,
+            14
+        ],
+        "GMnum": 1,
+        "gachaid": "",
+        "limitTime": "[202601011000]"
+    },
+    {
+        "Genre": 1,
+        "Detail": 13,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl131",
+        "Color": 4,
+        "InitBreak": 1,
+        "Icon": 1210019,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1019,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                13,
+                1,
+                30
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                5
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1019,
+        "AppearID": 1013,
+        "DefaultWeaponGPDL": [
+            2,
+            3,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                13,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 3,
+        "SpineID": 10019,
+        "Pieces": [
+            [
+                5,
+                4,
+                13,
+                1,
+                30
+            ]
+        ],
+        "Attribute": [
+            1
+        ],
+        "Positioning": [
+            8
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 1,
+        "Detail": 13,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl132",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210029,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1029,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                13,
+                2,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1029,
+        "AppearID": 1113,
+        "DefaultWeaponGPDL": [
+            2,
+            3,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                13,
+                2,
+                1
+            ],
+            [
+                7,
+                13,
+                2,
+                3,
+                1
+            ]
+        ],
+        "LimitWeapon": 3,
+        "SpineID": 10029,
+        "Pieces": [
+            [
+                5,
+                4,
+                13,
+                2,
+                60
+            ]
+        ],
+        "Attribute": [
+            2
+        ],
+        "Positioning": [
+            2,
+            8
+        ],
+        "GMnum": 1,
+        "gachaid": 127
+    },
+    {
+        "Genre": 1,
+        "Detail": 13,
+        "Particular": 3,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl133",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210048,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1047,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                13,
+                3,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1047,
+        "AppearID": 1213,
+        "DefaultWeaponGPDL": [
+            2,
+            4,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                13,
+                3,
+                1
+            ]
+        ],
+        "LimitWeapon": 4,
+        "SpineID": 10047,
+        "Pieces": [
+            [
+                5,
+                4,
+                13,
+                3,
+                60
+            ]
+        ],
+        "Attribute": [
+            2
+        ],
+        "Positioning": [
+            4,
+            8
+        ],
+        "GMnum": 1,
+        "gachaid": 181
+    },
+    {
+        "Genre": 1,
+        "Detail": 14,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl141",
+        "Color": 4,
+        "InitBreak": 1,
+        "Icon": 1210020,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1020,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                14,
+                1,
+                30
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                5
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1020,
+        "AppearID": 1014,
+        "DefaultWeaponGPDL": [
+            2,
+            5,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                14,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 5,
+        "SpineID": 10020,
+        "Pieces": [
+            [
+                5,
+                4,
+                14,
+                1,
+                30
+            ]
+        ],
+        "Attribute": [
+            4
+        ],
+        "Positioning": [
+            4,
+            8,
+            14
+        ],
+        "GMnum": 1
+    },
+    {
+        "Genre": 1,
+        "Detail": 14,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl142",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210021,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1021,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                14,
+                2,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1021,
+        "AppearID": 1114,
+        "DefaultWeaponGPDL": [
+            2,
+            5,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                14,
+                2,
+                1
+            ]
+        ],
+        "LimitWeapon": 5,
+        "SpineID": 10021,
+        "Pieces": [
+            [
+                5,
+                4,
+                14,
+                2,
+                60
+            ]
+        ],
+        "Attribute": [
+            4
+        ],
+        "Positioning": [
+            1
+        ],
+        "GMnum": 1,
+        "gachaid": 7
+    },
+    {
+        "Genre": 1,
+        "Detail": 14,
+        "Particular": 3,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl143",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210039,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1037,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                14,
+                3,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1037,
+        "AppearID": 1214,
+        "DefaultWeaponGPDL": [
+            2,
+            8,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                14,
+                3,
+                1
+            ]
+        ],
+        "LimitWeapon": 8,
+        "SpineID": 10037,
+        "Pieces": [
+            [
+                5,
+                4,
+                14,
+                3,
+                60
+            ]
+        ],
+        "Attribute": [
+            4
+        ],
+        "Positioning": [
+            1
+        ],
+        "GMnum": 1,
+        "gachaid": 151
+    },
+    {
+        "Genre": 1,
+        "Detail": 15,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl151",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210025,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1025,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                15,
+                1,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1025,
+        "AppearID": 1015,
+        "DefaultWeaponGPDL": [
+            2,
+            6,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                15,
+                1,
+                1
+            ],
+            [
+                7,
+                15,
+                1,
+                3,
+                1
+            ]
+        ],
+        "LimitWeapon": 6,
+        "SpineID": 10025,
+        "Pieces": [
+            [
+                5,
+                4,
+                15,
+                1,
+                60
+            ]
+        ],
+        "Attribute": [
+            3
+        ],
+        "Positioning": [
+            1
+        ],
+        "GMnum": 1,
+        "gachaid": 117
+    },
+    {
+        "Genre": 1,
+        "Detail": 15,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl152",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210033,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1033,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                15,
+                2,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1033,
+        "AppearID": 1115,
+        "DefaultWeaponGPDL": [
+            2,
+            5,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                15,
+                2,
+                1
+            ]
+        ],
+        "LimitWeapon": 5,
+        "SpineID": 10033,
+        "Pieces": [
+            [
+                5,
+                4,
+                15,
+                2,
+                60
+            ]
+        ],
+        "Attribute": [
+            3
+        ],
+        "Positioning": [
+            2
+        ],
+        "GMnum": 1,
+        "gachaid": 141
+    },
+    {
+        "Genre": 1,
+        "Detail": 15,
+        "Particular": 3,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl153",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210044,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1043,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                15,
+                3,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1043,
+        "AppearID": 1215,
+        "DefaultWeaponGPDL": [
+            2,
+            9,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                15,
+                3,
+                1
+            ]
+        ],
+        "LimitWeapon": 9,
+        "SpineID": 10043,
+        "Pieces": [
+            [
+                5,
+                4,
+                15,
+                3,
+                60
+            ]
+        ],
+        "Attribute": [
+            3
+        ],
+        "Positioning": [
+            1
+        ],
+        "GMnum": 1,
+        "gachaid": 163
+    },
+    {
+        "Genre": 1,
+        "Detail": 16,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl161",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210026,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1026,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                16,
+                1,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1026,
+        "AppearID": 1016,
+        "DefaultWeaponGPDL": [
+            2,
+            3,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                16,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 3,
+        "SpineID": 10026,
+        "Pieces": [
+            [
+                5,
+                4,
+                16,
+                1,
+                60
+            ]
+        ],
+        "Attribute": [
+            1
+        ],
+        "Positioning": [
+            5,
+            8
+        ],
+        "GMnum": 1,
+        "gachaid": 119
+    },
+    {
+        "Genre": 1,
+        "Detail": 17,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl171",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210024,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1024,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                17,
+                1,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1024,
+        "AppearID": 1017,
+        "DefaultWeaponGPDL": [
+            2,
+            2,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                17,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 2,
+        "SpineID": 10024,
+        "Pieces": [
+            [
+                5,
+                4,
+                17,
+                1,
+                60
+            ]
+        ],
+        "Attribute": [
+            4
+        ],
+        "Positioning": [
+            5
+        ],
+        "GMnum": 1,
+        "gachaid": 115
+    },
+    {
+        "Genre": 1,
+        "Detail": 17,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl172",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210045,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1044,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                17,
+                2,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1044,
+        "AppearID": 1117,
+        "DefaultWeaponGPDL": [
+            2,
+            5,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                17,
+                2,
+                1
+            ]
+        ],
+        "LimitWeapon": 5,
+        "SpineID": 10044,
+        "Pieces": [
+            [
+                5,
+                4,
+                17,
+                2,
+                60
+            ]
+        ],
+        "Attribute": [
+            3
+        ],
+        "Positioning": [
+            3,
+            6
+        ],
+        "GMnum": 1,
+        "gachaid": 165
+    },
+    {
+        "Genre": 1,
+        "Detail": 18,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl181",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210032,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1032,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                18,
+                1,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "[202501230400]",
+        "GrowupID": 1032,
+        "AppearID": 1018,
+        "DefaultWeaponGPDL": [
+            2,
+            4,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                18,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 4,
+        "SpineID": 10032,
+        "Pieces": [
+            [
+                5,
+                4,
+                18,
+                1,
+                60
+            ]
+        ],
+        "Attribute": [
+            4
+        ],
+        "Positioning": [
+            2,
+            5
+        ],
+        "GMnum": 1,
+        "gachaid": 137
+    },
+    {
+        "Genre": 1,
+        "Detail": 18,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl182",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210043,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1042,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                18,
+                2,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1042,
+        "AppearID": 1118,
+        "DefaultWeaponGPDL": [
+            2,
+            2,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                18,
+                2,
+                1
+            ]
+        ],
+        "LimitWeapon": 2,
+        "SpineID": 10042,
+        "Pieces": [
+            [
+                5,
+                4,
+                18,
+                2,
+                60
+            ]
+        ],
+        "Attribute": [
+            5
+        ],
+        "Positioning": [
+            5
+        ],
+        "GMnum": 1,
+        "gachaid": 159
+    },
+    {
+        "Genre": 1,
+        "Detail": 20,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl201",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210037,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1036,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                20,
+                1,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1036,
+        "AppearID": 1020,
+        "DefaultWeaponGPDL": [
+            2,
+            4,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                20,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 4,
+        "SpineID": 10036,
+        "Pieces": [
+            [
+                5,
+                4,
+                20,
+                1,
+                60
+            ]
+        ],
+        "Attribute": [
+            2
+        ],
+        "Positioning": [
+            1
+        ],
+        "GMnum": 1,
+        "gachaid": 147
+    },
+    {
+        "Genre": 1,
+        "Detail": 20,
+        "Particular": 2,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl202",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210051,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1049,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                20,
+                2,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1050,
+        "AppearID": 1120,
+        "DefaultWeaponGPDL": [
+            2,
+            7,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                20,
+                2,
+                1
+            ]
+        ],
+        "LimitWeapon": 7,
+        "SpineID": 10050,
+        "Pieces": [
+            [
+                5,
+                4,
+                20,
+                2,
+                60
+            ]
+        ],
+        "Attribute": [
+            5
+        ],
+        "Positioning": [
+            1
+        ],
+        "GMnum": 1,
+        "gachaid": 189
+    },
+    {
+        "Genre": 1,
+        "Detail": 21,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl211",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210042,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1041,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                21,
+                1,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1041,
+        "AppearID": 1021,
+        "DefaultWeaponGPDL": [
+            2,
+            5,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                21,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 5,
+        "SpineID": 10041,
+        "Pieces": [
+            [
+                5,
+                4,
+                21,
+                1,
+                60
+            ]
+        ],
+        "Attribute": [
+            5
+        ],
+        "Positioning": [
+            2,
+            6
+        ],
+        "GMnum": 1,
+        "gachaid": 155
+    },
+    {
+        "Genre": 1,
+        "Detail": 22,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl221",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210046,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1045,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                22,
+                1,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1045,
+        "AppearID": 1022,
+        "DefaultWeaponGPDL": [
+            2,
+            1,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                22,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 1,
+        "SpineID": 10045,
+        "Pieces": [
+            [
+                5,
+                4,
+                22,
+                1,
+                60
+            ]
+        ],
+        "Attribute": [
+            1
+        ],
+        "Positioning": [
+            2
+        ],
+        "GMnum": 1,
+        "gachaid": 175
+    },
+    {
+        "Genre": 1,
+        "Detail": 23,
+        "Particular": 1,
+        "Level": 1,
+        "Close": "",
+        "StartTime": "",
+        "IsShow": 1,
+        "LuaType": "girl_card",
+        "I18n": "card.girl231",
+        "Color": 5,
+        "InitBreak": 1,
+        "Icon": 1210049,
+        "UseMode": "",
+        "CanStack": "",
+        "CanEnhance": 1,
+        "BreakMatID": 1048,
+        "LevelLimitID": 1001,
+        "BreakLimitID": "",
+        "SameConvert": [
+            [
+                5,
+                4,
+                23,
+                1,
+                60
+            ],
+            [
+                5,
+                13,
+                1,
+                4,
+                25
+            ]
+        ],
+        "Param1": "",
+        "Param2": "",
+        "Param3": "",
+        "ATime": "",
+        "GrowupID": 1048,
+        "AppearID": 1023,
+        "DefaultWeaponGPDL": [
+            2,
+            3,
+            255,
+            1
+        ],
+        "profile": [
+            [
+                9,
+                1,
+                23,
+                1,
+                1
+            ]
+        ],
+        "LimitWeapon": 3,
+        "SpineID": 10048,
+        "Pieces": [
+            [
+                5,
+                4,
+                23,
+                1,
+                60
+            ]
+        ],
+        "Attribute": [
+            4
+        ],
+        "Positioning": [
+            1
+        ],
+        "GMnum": 1,
+        "gachaid": 187
+    }
+]

@@ -1,0 +1,791 @@
+[
+    {
+        "Lv": 0,
+        "CardNeedExp": 0,
+        "SSRCardNeedExp": 0,
+        "SusNeedExp": 0,
+        "SSRSusNeedExp": 0,
+        "WeaponNeedExp": 0,
+        "SSRWeaponNeedExp": 0
+    },
+    {
+        "Lv": 1,
+        "CardNeedExp": 400,
+        "SSRCardNeedExp": 400,
+        "SusNeedExp": 3000,
+        "SSRSusNeedExp": 3000,
+        "WeaponNeedExp": 100,
+        "SSRWeaponNeedExp": 200
+    },
+    {
+        "Lv": 2,
+        "CardNeedExp": 600,
+        "SSRCardNeedExp": 600,
+        "SusNeedExp": 4800,
+        "SSRSusNeedExp": 4800,
+        "WeaponNeedExp": 100,
+        "SSRWeaponNeedExp": 200
+    },
+    {
+        "Lv": 3,
+        "CardNeedExp": 800,
+        "SSRCardNeedExp": 800,
+        "SusNeedExp": 6000,
+        "SSRSusNeedExp": 6000,
+        "WeaponNeedExp": 200,
+        "SSRWeaponNeedExp": 300
+    },
+    {
+        "Lv": 4,
+        "CardNeedExp": 1000,
+        "SSRCardNeedExp": 1000,
+        "SusNeedExp": 7800,
+        "SSRSusNeedExp": 7800,
+        "WeaponNeedExp": 200,
+        "SSRWeaponNeedExp": 300
+    },
+    {
+        "Lv": 5,
+        "CardNeedExp": 1100,
+        "SSRCardNeedExp": 1100,
+        "SusNeedExp": 9600,
+        "SSRSusNeedExp": 9600,
+        "WeaponNeedExp": 300,
+        "SSRWeaponNeedExp": 400
+    },
+    {
+        "Lv": 6,
+        "CardNeedExp": 1200,
+        "SSRCardNeedExp": 1200,
+        "SusNeedExp": 12000,
+        "SSRSusNeedExp": 12000,
+        "WeaponNeedExp": 400,
+        "SSRWeaponNeedExp": 500
+    },
+    {
+        "Lv": 7,
+        "CardNeedExp": 1300,
+        "SSRCardNeedExp": 1300,
+        "SusNeedExp": 15600,
+        "SSRSusNeedExp": 15600,
+        "WeaponNeedExp": 400,
+        "SSRWeaponNeedExp": 500
+    },
+    {
+        "Lv": 8,
+        "CardNeedExp": 1400,
+        "SSRCardNeedExp": 1400,
+        "SusNeedExp": 19200,
+        "SSRSusNeedExp": 19200,
+        "WeaponNeedExp": 400,
+        "SSRWeaponNeedExp": 600
+    },
+    {
+        "Lv": 9,
+        "CardNeedExp": 1500,
+        "SSRCardNeedExp": 1500,
+        "SusNeedExp": 24600,
+        "SSRSusNeedExp": 24600,
+        "WeaponNeedExp": 500,
+        "SSRWeaponNeedExp": 700
+    },
+    {
+        "Lv": 10,
+        "CardNeedExp": 1600,
+        "SSRCardNeedExp": 1600,
+        "SusNeedExp": 30600,
+        "SSRSusNeedExp": 30600,
+        "WeaponNeedExp": 600,
+        "SSRWeaponNeedExp": 800
+    },
+    {
+        "Lv": 11,
+        "CardNeedExp": 1700,
+        "SSRCardNeedExp": 1700,
+        "SusNeedExp": 37800,
+        "SSRSusNeedExp": 37800,
+        "WeaponNeedExp": 700,
+        "SSRWeaponNeedExp": 900
+    },
+    {
+        "Lv": 12,
+        "CardNeedExp": 1800,
+        "SSRCardNeedExp": 1800,
+        "SusNeedExp": 48000,
+        "SSRSusNeedExp": 48000,
+        "WeaponNeedExp": 700,
+        "SSRWeaponNeedExp": 900
+    },
+    {
+        "Lv": 13,
+        "CardNeedExp": 1900,
+        "SSRCardNeedExp": 1900,
+        "SusNeedExp": 61800,
+        "SSRSusNeedExp": 61800,
+        "WeaponNeedExp": 800,
+        "SSRWeaponNeedExp": 1000
+    },
+    {
+        "Lv": 14,
+        "CardNeedExp": 2000,
+        "SSRCardNeedExp": 2000,
+        "SusNeedExp": 77400,
+        "SSRSusNeedExp": 77400,
+        "WeaponNeedExp": 800,
+        "SSRWeaponNeedExp": 1100
+    },
+    {
+        "Lv": 15,
+        "CardNeedExp": 2100,
+        "SSRCardNeedExp": 2100,
+        "SusNeedExp": 94200,
+        "SSRSusNeedExp": 94200,
+        "WeaponNeedExp": 800,
+        "SSRWeaponNeedExp": 1100
+    },
+    {
+        "Lv": 16,
+        "CardNeedExp": 2200,
+        "SSRCardNeedExp": 2200,
+        "SusNeedExp": 999999999,
+        "SSRSusNeedExp": 999999999,
+        "WeaponNeedExp": 900,
+        "SSRWeaponNeedExp": 1200
+    },
+    {
+        "Lv": 17,
+        "CardNeedExp": 2300,
+        "SSRCardNeedExp": 2300,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 1000,
+        "SSRWeaponNeedExp": 1300
+    },
+    {
+        "Lv": 18,
+        "CardNeedExp": 2400,
+        "SSRCardNeedExp": 2400,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 1100,
+        "SSRWeaponNeedExp": 1400
+    },
+    {
+        "Lv": 19,
+        "CardNeedExp": 2500,
+        "SSRCardNeedExp": 2500,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 1100,
+        "SSRWeaponNeedExp": 1400
+    },
+    {
+        "Lv": 20,
+        "CardNeedExp": 2600,
+        "SSRCardNeedExp": 2600,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 1200,
+        "SSRWeaponNeedExp": 1600
+    },
+    {
+        "Lv": 21,
+        "CardNeedExp": 2700,
+        "SSRCardNeedExp": 2700,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 1300,
+        "SSRWeaponNeedExp": 1700
+    },
+    {
+        "Lv": 22,
+        "CardNeedExp": 2800,
+        "SSRCardNeedExp": 2800,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 1400,
+        "SSRWeaponNeedExp": 1800
+    },
+    {
+        "Lv": 23,
+        "CardNeedExp": 2900,
+        "SSRCardNeedExp": 2900,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 1500,
+        "SSRWeaponNeedExp": 1900
+    },
+    {
+        "Lv": 24,
+        "CardNeedExp": 3000,
+        "SSRCardNeedExp": 3000,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 1600,
+        "SSRWeaponNeedExp": 2000
+    },
+    {
+        "Lv": 25,
+        "CardNeedExp": 3100,
+        "SSRCardNeedExp": 3100,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 1600,
+        "SSRWeaponNeedExp": 2100
+    },
+    {
+        "Lv": 26,
+        "CardNeedExp": 3200,
+        "SSRCardNeedExp": 3200,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 1700,
+        "SSRWeaponNeedExp": 2200
+    },
+    {
+        "Lv": 27,
+        "CardNeedExp": 3300,
+        "SSRCardNeedExp": 3300,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 1800,
+        "SSRWeaponNeedExp": 2300
+    },
+    {
+        "Lv": 28,
+        "CardNeedExp": 3400,
+        "SSRCardNeedExp": 3400,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 1900,
+        "SSRWeaponNeedExp": 2400
+    },
+    {
+        "Lv": 29,
+        "CardNeedExp": 3500,
+        "SSRCardNeedExp": 3500,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 2000,
+        "SSRWeaponNeedExp": 2500
+    },
+    {
+        "Lv": 30,
+        "CardNeedExp": 3500,
+        "SSRCardNeedExp": 3500,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 2000,
+        "SSRWeaponNeedExp": 2600
+    },
+    {
+        "Lv": 31,
+        "CardNeedExp": 3600,
+        "SSRCardNeedExp": 3600,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 2100,
+        "SSRWeaponNeedExp": 2700
+    },
+    {
+        "Lv": 32,
+        "CardNeedExp": 3600,
+        "SSRCardNeedExp": 3600,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 2200,
+        "SSRWeaponNeedExp": 2800
+    },
+    {
+        "Lv": 33,
+        "CardNeedExp": 3700,
+        "SSRCardNeedExp": 3700,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 2300,
+        "SSRWeaponNeedExp": 2900
+    },
+    {
+        "Lv": 34,
+        "CardNeedExp": 3700,
+        "SSRCardNeedExp": 3700,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 2400,
+        "SSRWeaponNeedExp": 3000
+    },
+    {
+        "Lv": 35,
+        "CardNeedExp": 3800,
+        "SSRCardNeedExp": 3800,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 2500,
+        "SSRWeaponNeedExp": 3200
+    },
+    {
+        "Lv": 36,
+        "CardNeedExp": 3800,
+        "SSRCardNeedExp": 3800,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 2700,
+        "SSRWeaponNeedExp": 3400
+    },
+    {
+        "Lv": 37,
+        "CardNeedExp": 3900,
+        "SSRCardNeedExp": 3900,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 2700,
+        "SSRWeaponNeedExp": 3400
+    },
+    {
+        "Lv": 38,
+        "CardNeedExp": 3900,
+        "SSRCardNeedExp": 3900,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 2800,
+        "SSRWeaponNeedExp": 3500
+    },
+    {
+        "Lv": 39,
+        "CardNeedExp": 4000,
+        "SSRCardNeedExp": 4000,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 2800,
+        "SSRWeaponNeedExp": 3600
+    },
+    {
+        "Lv": 40,
+        "CardNeedExp": 4200,
+        "SSRCardNeedExp": 4200,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 2900,
+        "SSRWeaponNeedExp": 3700
+    },
+    {
+        "Lv": 41,
+        "CardNeedExp": 4500,
+        "SSRCardNeedExp": 4500,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 3200,
+        "SSRWeaponNeedExp": 4000
+    },
+    {
+        "Lv": 42,
+        "CardNeedExp": 4800,
+        "SSRCardNeedExp": 4800,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 3300,
+        "SSRWeaponNeedExp": 4200
+    },
+    {
+        "Lv": 43,
+        "CardNeedExp": 5100,
+        "SSRCardNeedExp": 5100,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 3600,
+        "SSRWeaponNeedExp": 4500
+    },
+    {
+        "Lv": 44,
+        "CardNeedExp": 5400,
+        "SSRCardNeedExp": 5400,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 3700,
+        "SSRWeaponNeedExp": 4700
+    },
+    {
+        "Lv": 45,
+        "CardNeedExp": 5700,
+        "SSRCardNeedExp": 5700,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 4000,
+        "SSRWeaponNeedExp": 5000
+    },
+    {
+        "Lv": 46,
+        "CardNeedExp": 6000,
+        "SSRCardNeedExp": 6000,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 4100,
+        "SSRWeaponNeedExp": 5200
+    },
+    {
+        "Lv": 47,
+        "CardNeedExp": 6300,
+        "SSRCardNeedExp": 6300,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 4400,
+        "SSRWeaponNeedExp": 5500
+    },
+    {
+        "Lv": 48,
+        "CardNeedExp": 6600,
+        "SSRCardNeedExp": 6600,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 4600,
+        "SSRWeaponNeedExp": 5800
+    },
+    {
+        "Lv": 49,
+        "CardNeedExp": 7000,
+        "SSRCardNeedExp": 7000,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 4800,
+        "SSRWeaponNeedExp": 6000
+    },
+    {
+        "Lv": 50,
+        "CardNeedExp": 8000,
+        "SSRCardNeedExp": 8000,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 5000,
+        "SSRWeaponNeedExp": 6300
+    },
+    {
+        "Lv": 51,
+        "CardNeedExp": 8300,
+        "SSRCardNeedExp": 8300,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 5200,
+        "SSRWeaponNeedExp": 6600
+    },
+    {
+        "Lv": 52,
+        "CardNeedExp": 8600,
+        "SSRCardNeedExp": 8600,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 5500,
+        "SSRWeaponNeedExp": 6900
+    },
+    {
+        "Lv": 53,
+        "CardNeedExp": 9900,
+        "SSRCardNeedExp": 9900,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 5600,
+        "SSRWeaponNeedExp": 7100
+    },
+    {
+        "Lv": 54,
+        "CardNeedExp": 10500,
+        "SSRCardNeedExp": 10500,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 5900,
+        "SSRWeaponNeedExp": 7400
+    },
+    {
+        "Lv": 55,
+        "CardNeedExp": 11200,
+        "SSRCardNeedExp": 11200,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 6100,
+        "SSRWeaponNeedExp": 7700
+    },
+    {
+        "Lv": 56,
+        "CardNeedExp": 11800,
+        "SSRCardNeedExp": 11800,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 6400,
+        "SSRWeaponNeedExp": 8000
+    },
+    {
+        "Lv": 57,
+        "CardNeedExp": 12500,
+        "SSRCardNeedExp": 12500,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 6600,
+        "SSRWeaponNeedExp": 8300
+    },
+    {
+        "Lv": 58,
+        "CardNeedExp": 13200,
+        "SSRCardNeedExp": 13200,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 6800,
+        "SSRWeaponNeedExp": 8600
+    },
+    {
+        "Lv": 59,
+        "CardNeedExp": 13900,
+        "SSRCardNeedExp": 13900,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 7200,
+        "SSRWeaponNeedExp": 9000
+    },
+    {
+        "Lv": 60,
+        "CardNeedExp": 14100,
+        "SSRCardNeedExp": 14100,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 7400,
+        "SSRWeaponNeedExp": 9300
+    },
+    {
+        "Lv": 61,
+        "CardNeedExp": 14900,
+        "SSRCardNeedExp": 14900,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 7700,
+        "SSRWeaponNeedExp": 9700
+    },
+    {
+        "Lv": 62,
+        "CardNeedExp": 15600,
+        "SSRCardNeedExp": 15600,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 8100,
+        "SSRWeaponNeedExp": 10200
+    },
+    {
+        "Lv": 63,
+        "CardNeedExp": 16400,
+        "SSRCardNeedExp": 16400,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 8600,
+        "SSRWeaponNeedExp": 10800
+    },
+    {
+        "Lv": 64,
+        "CardNeedExp": 17200,
+        "SSRCardNeedExp": 17200,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 9000,
+        "SSRWeaponNeedExp": 11300
+    },
+    {
+        "Lv": 65,
+        "CardNeedExp": 18000,
+        "SSRCardNeedExp": 18000,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 9400,
+        "SSRWeaponNeedExp": 11800
+    },
+    {
+        "Lv": 66,
+        "CardNeedExp": 18800,
+        "SSRCardNeedExp": 18800,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 9900,
+        "SSRWeaponNeedExp": 12400
+    },
+    {
+        "Lv": 67,
+        "CardNeedExp": 19600,
+        "SSRCardNeedExp": 19600,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 10300,
+        "SSRWeaponNeedExp": 12900
+    },
+    {
+        "Lv": 68,
+        "CardNeedExp": 20500,
+        "SSRCardNeedExp": 20500,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 10800,
+        "SSRWeaponNeedExp": 13500
+    },
+    {
+        "Lv": 69,
+        "CardNeedExp": 21300,
+        "SSRCardNeedExp": 21300,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 11200,
+        "SSRWeaponNeedExp": 14100
+    },
+    {
+        "Lv": 70,
+        "CardNeedExp": 24000,
+        "SSRCardNeedExp": 24000,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 11700,
+        "SSRWeaponNeedExp": 14700
+    },
+    {
+        "Lv": 71,
+        "CardNeedExp": 27000,
+        "SSRCardNeedExp": 27000,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 13100,
+        "SSRWeaponNeedExp": 16400
+    },
+    {
+        "Lv": 72,
+        "CardNeedExp": 30000,
+        "SSRCardNeedExp": 30000,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 14300,
+        "SSRWeaponNeedExp": 17900
+    },
+    {
+        "Lv": 73,
+        "CardNeedExp": 33000,
+        "SSRCardNeedExp": 33000,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 15600,
+        "SSRWeaponNeedExp": 19500
+    },
+    {
+        "Lv": 74,
+        "CardNeedExp": 36000,
+        "SSRCardNeedExp": 36000,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 16800,
+        "SSRWeaponNeedExp": 21100
+    },
+    {
+        "Lv": 75,
+        "CardNeedExp": 39000,
+        "SSRCardNeedExp": 39000,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 18100,
+        "SSRWeaponNeedExp": 22700
+    },
+    {
+        "Lv": 76,
+        "CardNeedExp": 42000,
+        "SSRCardNeedExp": 42000,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 19500,
+        "SSRWeaponNeedExp": 24400
+    },
+    {
+        "Lv": 77,
+        "CardNeedExp": 45000,
+        "SSRCardNeedExp": 45000,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 20800,
+        "SSRWeaponNeedExp": 26000
+    },
+    {
+        "Lv": 78,
+        "CardNeedExp": 48000,
+        "SSRCardNeedExp": 48000,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 22100,
+        "SSRWeaponNeedExp": 27700
+    },
+    {
+        "Lv": 79,
+        "CardNeedExp": 51000,
+        "SSRCardNeedExp": 51000,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 23500,
+        "SSRWeaponNeedExp": 29400
+    },
+    {
+        "Lv": 80,
+        "CardNeedExp": 999999999,
+        "SSRCardNeedExp": 999999999,
+        "SusNeedExp": "",
+        "SSRSusNeedExp": "",
+        "WeaponNeedExp": 999999999,
+        "SSRWeaponNeedExp": 999999999
+    },
+    {
+        "Lv": 81
+    },
+    {
+        "Lv": 82
+    },
+    {
+        "Lv": 83
+    },
+    {
+        "Lv": 84
+    },
+    {
+        "Lv": 85
+    },
+    {
+        "Lv": 86
+    },
+    {
+        "Lv": 87
+    },
+    {
+        "Lv": 88
+    },
+    {
+        "Lv": 89
+    },
+    {
+        "Lv": 90
+    },
+    {
+        "Lv": 91
+    },
+    {
+        "Lv": 92
+    },
+    {
+        "Lv": 93
+    },
+    {
+        "Lv": 94
+    },
+    {
+        "Lv": 95
+    },
+    {
+        "Lv": 96
+    },
+    {
+        "Lv": 97
+    },
+    {
+        "Lv": 98
+    },
+    {
+        "Lv": 99
+    },
+    {
+        "Lv": 100
+    }
+]
