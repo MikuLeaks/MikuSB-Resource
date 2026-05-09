@@ -1,0 +1,543 @@
+[
+    {
+        "Level": 1,
+        "Hard": 1,
+        "NeedEnergy": 2000,
+        "Num": 1,
+        "Pro1": 90,
+        "Pro2": 10,
+        "Pro3": 0,
+        "Pro4": 0,
+        "Gift1": 90,
+        "Gift2": 10,
+        "Gift3": 0,
+        "Gift4": 0,
+        "BuildRate": [
+            100
+        ]
+    },
+    {
+        "Level": 2,
+        "Hard": 1,
+        "NeedEnergy": 0,
+        "Num": "",
+        "Pro1": 50,
+        "Pro2": 40,
+        "Pro3": 10,
+        "Pro4": 0,
+        "Gift1": 50,
+        "Gift2": 40,
+        "Gift3": 10,
+        "Gift4": 0,
+        "BuildRate": [
+            100
+        ]
+    },
+    {
+        "Level": 1,
+        "Hard": 2,
+        "NeedEnergy": 2000,
+        "Num": 1,
+        "Pro1": 90,
+        "Pro2": 10,
+        "Pro3": 0,
+        "Pro4": 0,
+        "Gift1": 90,
+        "Gift2": 10,
+        "Gift3": 0,
+        "Gift4": 0,
+        "BuildRate": [
+            70,
+            30
+        ]
+    },
+    {
+        "Level": 2,
+        "Hard": 2,
+        "NeedEnergy": 6000,
+        "Num": 1,
+        "Pro1": 50,
+        "Pro2": 40,
+        "Pro3": 10,
+        "Pro4": 0,
+        "Gift1": 50,
+        "Gift2": 40,
+        "Gift3": 10,
+        "Gift4": 0,
+        "BuildRate": [
+            70,
+            30
+        ]
+    },
+    {
+        "Level": 3,
+        "Hard": 2,
+        "NeedEnergy": 0,
+        "Num": "",
+        "Pro1": 40,
+        "Pro2": 30,
+        "Pro3": 20,
+        "Pro4": 10,
+        "Gift1": 40,
+        "Gift2": 30,
+        "Gift3": 20,
+        "Gift4": 10,
+        "BuildRate": [
+            70,
+            30
+        ]
+    },
+    {
+        "Level": 1,
+        "Hard": 21,
+        "NeedEnergy": 2000,
+        "Num": 1,
+        "Pro1": 90,
+        "Pro2": 10,
+        "Pro3": 0,
+        "Pro4": 0,
+        "Gift1": 90,
+        "Gift2": 10,
+        "Gift3": 0,
+        "Gift4": 0,
+        "BuildRate": [
+            70,
+            15,
+            15
+        ]
+    },
+    {
+        "Level": 2,
+        "Hard": 21,
+        "NeedEnergy": 6000,
+        "Num": 1,
+        "Pro1": 50,
+        "Pro2": 40,
+        "Pro3": 10,
+        "Pro4": 0,
+        "Gift1": 50,
+        "Gift2": 40,
+        "Gift3": 10,
+        "Gift4": 0,
+        "BuildRate": [
+            70,
+            15,
+            15
+        ]
+    },
+    {
+        "Level": 3,
+        "Hard": 21,
+        "NeedEnergy": 0,
+        "Num": "",
+        "Pro1": 40,
+        "Pro2": 30,
+        "Pro3": 20,
+        "Pro4": 10,
+        "Gift1": 40,
+        "Gift2": 30,
+        "Gift3": 20,
+        "Gift4": 10,
+        "BuildRate": [
+            70,
+            15,
+            15
+        ]
+    },
+    {
+        "Level": 1,
+        "Hard": 3,
+        "NeedEnergy": 2000,
+        "Num": 1,
+        "Pro1": 90,
+        "Pro2": 10,
+        "Pro3": 0,
+        "Pro4": 0,
+        "Gift1": 90,
+        "Gift2": 10,
+        "Gift3": 0,
+        "Gift4": 0,
+        "BuildRate": [
+            70,
+            30
+        ]
+    },
+    {
+        "Level": 2,
+        "Hard": 3,
+        "NeedEnergy": 6000,
+        "Num": 1,
+        "Pro1": 50,
+        "Pro2": 40,
+        "Pro3": 10,
+        "Pro4": 0,
+        "Gift1": 50,
+        "Gift2": 40,
+        "Gift3": 10,
+        "Gift4": 0,
+        "BuildRate": [
+            70,
+            30
+        ]
+    },
+    {
+        "Level": 3,
+        "Hard": 3,
+        "NeedEnergy": 12000,
+        "Num": 1,
+        "Pro1": 40,
+        "Pro2": 30,
+        "Pro3": 20,
+        "Pro4": 10,
+        "Gift1": 40,
+        "Gift2": 30,
+        "Gift3": 20,
+        "Gift4": 10,
+        "BuildRate": [
+            70,
+            30
+        ]
+    },
+    {
+        "Level": 4,
+        "Hard": 3,
+        "NeedEnergy": 0,
+        "Num": "",
+        "Pro1": 25,
+        "Pro2": 25,
+        "Pro3": 25,
+        "Pro4": 25,
+        "Gift1": 25,
+        "Gift2": 25,
+        "Gift3": 25,
+        "Gift4": 25,
+        "BuildRate": [
+            70,
+            30
+        ]
+    },
+    {
+        "Level": 1,
+        "Hard": 4,
+        "NeedEnergy": 2000,
+        "Num": 1,
+        "Pro1": 90,
+        "Pro2": 10,
+        "Pro3": 0,
+        "Pro4": 0,
+        "Gift1": 90,
+        "Gift2": 10,
+        "Gift3": 0,
+        "Gift4": 0,
+        "BuildRate": [
+            70,
+            15,
+            15
+        ]
+    },
+    {
+        "Level": 2,
+        "Hard": 4,
+        "NeedEnergy": 6000,
+        "Num": 1,
+        "Pro1": 50,
+        "Pro2": 40,
+        "Pro3": 10,
+        "Pro4": 0,
+        "Gift1": 50,
+        "Gift2": 40,
+        "Gift3": 10,
+        "Gift4": 0,
+        "BuildRate": [
+            70,
+            15,
+            15
+        ]
+    },
+    {
+        "Level": 3,
+        "Hard": 4,
+        "NeedEnergy": 12000,
+        "Num": 1,
+        "Pro1": 40,
+        "Pro2": 30,
+        "Pro3": 20,
+        "Pro4": 10,
+        "Gift1": 40,
+        "Gift2": 30,
+        "Gift3": 20,
+        "Gift4": 10,
+        "BuildRate": [
+            70,
+            15,
+            15
+        ]
+    },
+    {
+        "Level": 4,
+        "Hard": 4,
+        "NeedEnergy": 0,
+        "Num": "",
+        "Pro1": 25,
+        "Pro2": 25,
+        "Pro3": 25,
+        "Pro4": 25,
+        "Gift1": 25,
+        "Gift2": 25,
+        "Gift3": 25,
+        "Gift4": 25,
+        "BuildRate": [
+            70,
+            15,
+            15
+        ]
+    },
+    {
+        "Level": 1,
+        "Hard": 5,
+        "NeedEnergy": 2000,
+        "Num": 1,
+        "Pro1": 90,
+        "Pro2": 10,
+        "Pro3": 0,
+        "Pro4": 0,
+        "Gift1": 90,
+        "Gift2": 10,
+        "Gift3": 0,
+        "Gift4": 0,
+        "BuildRate": [
+            70,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "Level": 2,
+        "Hard": 5,
+        "NeedEnergy": 6000,
+        "Num": 1,
+        "Pro1": 50,
+        "Pro2": 40,
+        "Pro3": 10,
+        "Pro4": 0,
+        "Gift1": 50,
+        "Gift2": 40,
+        "Gift3": 10,
+        "Gift4": 0,
+        "BuildRate": [
+            70,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "Level": 3,
+        "Hard": 5,
+        "NeedEnergy": 12000,
+        "Num": 1,
+        "Pro1": 40,
+        "Pro2": 30,
+        "Pro3": 20,
+        "Pro4": 10,
+        "Gift1": 40,
+        "Gift2": 30,
+        "Gift3": 20,
+        "Gift4": 10,
+        "BuildRate": [
+            70,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "Level": 4,
+        "Hard": 5,
+        "NeedEnergy": 0,
+        "Num": "",
+        "Pro1": 25,
+        "Pro2": 25,
+        "Pro3": 25,
+        "Pro4": 25,
+        "Gift1": 25,
+        "Gift2": 25,
+        "Gift3": 25,
+        "Gift4": 25,
+        "BuildRate": [
+            70,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "Level": 1,
+        "Hard": 6,
+        "NeedEnergy": 2000,
+        "Num": 1,
+        "Pro1": 90,
+        "Pro2": 10,
+        "Pro3": 0,
+        "Pro4": 0,
+        "Gift1": 90,
+        "Gift2": 10,
+        "Gift3": 0,
+        "Gift4": 0,
+        "BuildRate": [
+            40,
+            15,
+            15,
+            15,
+            15
+        ]
+    },
+    {
+        "Level": 2,
+        "Hard": 6,
+        "NeedEnergy": 6000,
+        "Num": 1,
+        "Pro1": 50,
+        "Pro2": 40,
+        "Pro3": 10,
+        "Pro4": 0,
+        "Gift1": 50,
+        "Gift2": 40,
+        "Gift3": 10,
+        "Gift4": 0,
+        "BuildRate": [
+            40,
+            15,
+            15,
+            15,
+            15
+        ]
+    },
+    {
+        "Level": 3,
+        "Hard": 6,
+        "NeedEnergy": 12000,
+        "Num": 1,
+        "Pro1": 40,
+        "Pro2": 30,
+        "Pro3": 20,
+        "Pro4": 10,
+        "Gift1": 40,
+        "Gift2": 30,
+        "Gift3": 20,
+        "Gift4": 10,
+        "BuildRate": [
+            40,
+            15,
+            15,
+            15,
+            15
+        ]
+    },
+    {
+        "Level": 4,
+        "Hard": 6,
+        "NeedEnergy": 0,
+        "Num": "",
+        "Pro1": 25,
+        "Pro2": 25,
+        "Pro3": 25,
+        "Pro4": 25,
+        "Gift1": 25,
+        "Gift2": 25,
+        "Gift3": 25,
+        "Gift4": 25,
+        "BuildRate": [
+            40,
+            15,
+            15,
+            15,
+            15
+        ]
+    },
+    {
+        "Level": 1,
+        "Hard": 7,
+        "NeedEnergy": 3000,
+        "Num": 1,
+        "Pro1": 80,
+        "Pro2": 20,
+        "Pro3": 0,
+        "Pro4": 0,
+        "Gift1": 80,
+        "Gift2": 20,
+        "Gift3": 0,
+        "Gift4": 0,
+        "BuildRate": [
+            20,
+            20,
+            20,
+            20,
+            20
+        ]
+    },
+    {
+        "Level": 2,
+        "Hard": 7,
+        "NeedEnergy": 8000,
+        "Num": 1,
+        "Pro1": 40,
+        "Pro2": 40,
+        "Pro3": 20,
+        "Pro4": 0,
+        "Gift1": 40,
+        "Gift2": 40,
+        "Gift3": 20,
+        "Gift4": 0,
+        "BuildRate": [
+            20,
+            20,
+            20,
+            20,
+            20
+        ]
+    },
+    {
+        "Level": 3,
+        "Hard": 7,
+        "NeedEnergy": 14000,
+        "Num": 1,
+        "Pro1": 30,
+        "Pro2": 30,
+        "Pro3": 20,
+        "Pro4": 20,
+        "Gift1": 30,
+        "Gift2": 30,
+        "Gift3": 20,
+        "Gift4": 20,
+        "BuildRate": [
+            20,
+            20,
+            20,
+            20,
+            20
+        ]
+    },
+    {
+        "Level": 4,
+        "Hard": 7,
+        "NeedEnergy": 0,
+        "Num": "",
+        "Pro1": 25,
+        "Pro2": 25,
+        "Pro3": 25,
+        "Pro4": 25,
+        "Gift1": 25,
+        "Gift2": 25,
+        "Gift3": 25,
+        "Gift4": 25,
+        "BuildRate": [
+            20,
+            20,
+            20,
+            20,
+            20
+        ]
+    }
+]

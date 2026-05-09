@@ -1,0 +1,1512 @@
+[
+    {
+        "id": 1,
+        "name": "ui.MainChapter",
+        "icon": 1701001,
+        "condition": "",
+        "tip": "",
+        "ui": "Chapter",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 2,
+        "name": "ui.MainRole",
+        "icon": 1701004,
+        "condition": [
+            [
+                [
+                    2,
+                    50174
+                ]
+            ],
+            [
+                [
+                    2,
+                    10102
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "Role",
+        "params": [
+            1
+        ]
+    },
+    {
+        "id": 3,
+        "name": "ui.MainWelfare",
+        "icon": 1701003,
+        "condition": [
+            [
+                [
+                    2,
+                    50174
+                ]
+            ],
+            [
+                [
+                    2,
+                    10104
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "Gacha",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 4,
+        "name": "ui.MainInfrastructure",
+        "icon": 1701005,
+        "condition": "",
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 5,
+        "name": "ui.MainTask",
+        "icon": 1701006,
+        "condition": [
+            [
+                [
+                    2,
+                    11424
+                ]
+            ],
+            [
+                [
+                    2,
+                    10105
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "Achievement",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 6,
+        "name": "ui.MainBag",
+        "icon": 1701007,
+        "condition": [
+            [
+                [
+                    2,
+                    50174
+                ]
+            ],
+            [
+                [
+                    2,
+                    10104
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "Bag"
+    },
+    {
+        "id": 7,
+        "name": "ui.MainShop",
+        "icon": 1701008,
+        "condition": [
+            [
+                [
+                    2,
+                    50174
+                ]
+            ],
+            [
+                [
+                    2,
+                    10104
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "Shop"
+    },
+    {
+        "id": 8,
+        "name": "ui.MainMall",
+        "icon": 1701009,
+        "condition": [
+            [
+                [
+                    2,
+                    50174
+                ]
+            ],
+            [
+                [
+                    2,
+                    10104
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "Mall",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 9,
+        "name": "ui.MainSetting",
+        "icon": 1701010,
+        "condition": "",
+        "tip": "",
+        "ui": "SetUp"
+    },
+    {
+        "id": 10,
+        "name": "ui.MainEmail",
+        "icon": 1701012,
+        "condition": [
+            [
+                [
+                    2,
+                    50174
+                ]
+            ],
+            [
+                [
+                    2,
+                    10104
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "Mail"
+    },
+    {
+        "id": 11,
+        "name": "notice",
+        "icon": 1701011,
+        "condition": [
+            [
+                [
+                    2,
+                    50174
+                ]
+            ],
+            [
+                [
+                    2,
+                    10103
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "Notice"
+    },
+    {
+        "id": 12,
+        "name": "Challenge",
+        "icon": 1701009,
+        "condition": [
+            [
+                [
+                    2,
+                    11512
+                ]
+            ],
+            [
+                [
+                    2,
+                    10406
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "Challenge",
+        "params": "",
+        "unlocktip": "function.Challengeopen"
+    },
+    {
+        "id": 13,
+        "name": "DungeonsResourse",
+        "icon": 1701009,
+        "condition": [
+            [
+                [
+                    2,
+                    11427
+                ]
+            ],
+            [
+                [
+                    2,
+                    10202
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "DungeonsResourse",
+        "params": "",
+        "unlocktip": "function.DungeonsResourseopen",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 14,
+        "name": "TimeActivitie",
+        "icon": 1701009,
+        "condition": [
+            [
+                [
+                    2,
+                    11506
+                ]
+            ],
+            [
+                [
+                    2,
+                    10309
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "DungeonsOnline",
+        "params": "",
+        "unlocktip": "function.TimeActivitie",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 15,
+        "name": "ui.MainActivity",
+        "icon": 1701009,
+        "condition": [
+            [
+                [
+                    2,
+                    50174
+                ]
+            ],
+            [
+                [
+                    2,
+                    10104
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "Activity",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 16,
+        "name": "tower",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11514
+                ]
+            ],
+            [
+                [
+                    2,
+                    10503
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "Challenge",
+        "params": "",
+        "unlocktip": "function.toweropen"
+    },
+    {
+        "id": 17,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11512
+                ]
+            ],
+            [
+                [
+                    2,
+                    10406
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "function.bossopen"
+    },
+    {
+        "id": 18,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11424
+                ]
+            ],
+            [
+                [
+                    2,
+                    10105
+                ]
+            ]
+        ]
+    },
+    {
+        "id": 19,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11508
+                ]
+            ],
+            [
+                [
+                    2,
+                    10412
+                ]
+            ]
+        ]
+    },
+    {
+        "id": 20,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11428
+                ]
+            ],
+            [
+                [
+                    2,
+                    10303
+                ]
+            ]
+        ]
+    },
+    {
+        "id": 21,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11504
+                ]
+            ],
+            [
+                [
+                    2,
+                    10301
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "DungeonsRole",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 22,
+        "name": "role",
+        "icon": 1701004,
+        "condition": [
+            [
+                [
+                    2,
+                    50174
+                ]
+            ],
+            [
+                [
+                    2,
+                    10101
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "Photograph",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 23,
+        "name": "ui.MainFriend",
+        "icon": 1701079,
+        "condition": [
+            [
+                [
+                    2,
+                    11429
+                ]
+            ],
+            [
+                [
+                    2,
+                    50101
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "Friend",
+        "params": "{nil,true}",
+        "unlocktip": "function.Friendopen",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 24,
+        "name": "sevenDay",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11425
+                ]
+            ],
+            [
+                [
+                    2,
+                    10107
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 25,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    50174
+                ]
+            ],
+            [
+                [
+                    2,
+                    10104
+                ]
+            ]
+        ]
+    },
+    {
+        "id": 26,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    1,
+                    30
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 27,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    50174
+                ]
+            ],
+            [
+                [
+                    2,
+                    10104
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "BPMain",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 28,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11546
+                ]
+            ],
+            [
+                [
+                    2,
+                    10606
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "function.tower2open"
+    },
+    {
+        "id": 29,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11428
+                ]
+            ],
+            [
+                [
+                    2,
+                    10303
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "function.rateopen"
+    },
+    {
+        "id": 30,
+        "name": "ui.TxtHandbook9",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11508
+                ]
+            ],
+            [
+                [
+                    2,
+                    10412
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "RikiMain",
+        "params": "",
+        "unlocktip": "function.rikiopen",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 31,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    50174
+                ]
+            ],
+            [
+                [
+                    2,
+                    10101
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 32,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    1,
+                    200
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 33,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    50174
+                ]
+            ],
+            [
+                [
+                    2,
+                    10104
+                ]
+            ]
+        ]
+    },
+    {
+        "id": 34,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11532
+                ]
+            ],
+            [
+                [
+                    2,
+                    10506
+                ]
+            ]
+        ]
+    },
+    {
+        "id": 35,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11424
+                ]
+            ],
+            [
+                [
+                    2,
+                    10105
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 36,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11426
+                ]
+            ],
+            [
+                [
+                    2,
+                    10201
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 37,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11426
+                ]
+            ],
+            [
+                [
+                    2,
+                    10201
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 38,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11504
+                ]
+            ],
+            [
+                [
+                    2,
+                    10309
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 39,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11501
+                ]
+            ],
+            [
+                [
+                    2,
+                    10401
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 40,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11428
+                ]
+            ],
+            [
+                [
+                    2,
+                    10303
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 41,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11508
+                ]
+            ],
+            [
+                [
+                    2,
+                    10412
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 42,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    1,
+                    200
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 43,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    50201
+                ]
+            ]
+        ]
+    },
+    {
+        "id": 44,
+        "name": "",
+        "icon": "",
+        "condition": "",
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 45,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11427
+                ]
+            ],
+            [
+                [
+                    2,
+                    10205
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 46,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11427
+                ]
+            ],
+            [
+                [
+                    2,
+                    10205
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 47,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11427
+                ]
+            ],
+            [
+                [
+                    2,
+                    10205
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 48,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11422
+                ]
+            ],
+            [
+                [
+                    2,
+                    50101
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "function.dormopen",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 49,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11429
+                ]
+            ],
+            [
+                [
+                    2,
+                    50101
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 50,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    50174
+                ]
+            ],
+            [
+                [
+                    2,
+                    10104
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 51,
+        "name": "",
+        "icon": "",
+        "condition": "",
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 52,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    11534
+                ]
+            ],
+            [
+                [
+                    2,
+                    10512
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "Rogue",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 53,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    1,
+                    40
+                ]
+            ],
+            [
+                [
+                    2,
+                    10408
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "VirCaptureMain",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 54,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    21,
+                    "BREASTS_SWITCH",
+                    0
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 55,
+        "name": "",
+        "icon": "",
+        "condition": "",
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 56,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    50174
+                ]
+            ],
+            [
+                [
+                    2,
+                    10102
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 57,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    19,
+                    5
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 58,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    50174
+                ]
+            ],
+            [
+                [
+                    2,
+                    10201
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 59,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    2,
+                    50174
+                ]
+            ],
+            [
+                [
+                    2,
+                    10102
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 60,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    1,
+                    30
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "BackpackMain",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 61,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    1,
+                    30
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "DungeonsSeasonBoss",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 62,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    1,
+                    30
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "MowMain",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 63,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    1,
+                    30
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 64,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    1,
+                    30
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 65,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    1,
+                    30
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "GirlRushLevel",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 66,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    1,
+                    30
+                ]
+            ],
+            [
+                [
+                    2,
+                    50101
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 67,
+        "name": "ui.TxtLevelDialoguelimit",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    1,
+                    50
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 68,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    1,
+                    30
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 69,
+        "name": "",
+        "icon": "",
+        "condition": [
+            [
+                [
+                    1,
+                    30
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "StarWishMain",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    },
+    {
+        "id": 70,
+        "name": "",
+        "icon": 1701009,
+        "condition": [
+            [
+                [
+                    2,
+                    50174
+                ]
+            ],
+            [
+                [
+                    2,
+                    10104
+                ]
+            ]
+        ],
+        "tip": "",
+        "ui": "NewTask",
+        "params": "",
+        "unlocktip": "",
+        "unlockpic": "",
+        "testlock": 0
+    }
+]

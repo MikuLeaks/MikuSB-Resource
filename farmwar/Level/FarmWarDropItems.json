@@ -1,0 +1,26 @@
+[
+    {
+        "Id": 1,
+        "Name": "Energy",
+        "Radius": 6000,
+        "MaxNum": -1.0,
+        "NiagaraPath1": "e_farmwar_coinfly_01_p.e_farmwar_coinfly_01_p",
+        "NiagaraPath2": "e_farmwar_coinidle_01_p.e_farmwar_coinidle_01_p"
+    },
+    {
+        "Id": 2,
+        "Name": "Gold",
+        "Radius": 6000,
+        "MaxNum": -1.0,
+        "NiagaraPath1": "e_farmwar_coinfly_02_p.e_farmwar_coinfly_02_p",
+        "NiagaraPath2": "e_farmwar_coinidle_02_p.e_farmwar_coinidle_02_p"
+    },
+    {
+        "Id": 3,
+        "Name": "MoreGoldItem",
+        "Radius": 6000,
+        "MaxNum": 1,
+        "NiagaraPath1": "e_farmwar_coinfly_03_p.e_farmwar_coinfly_03_p",
+        "NiagaraPath2": "e_farmwar_coinidle_03_p.e_farmwar_coinidle_03_p"
+    }
+]

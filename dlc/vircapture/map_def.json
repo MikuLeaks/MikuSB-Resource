@@ -1,0 +1,126 @@
+[
+    {
+        "MapName": "huntingground_01",
+        "MapSize": [
+            2048,
+            2304
+        ],
+        "MapPieceNum": [
+            8,
+            9
+        ],
+        "PieceSize": [
+            256,
+            256
+        ],
+        "ImgBigMap": 1012000,
+        "ImgBigMapBg": 1012001,
+        "ImgSmallMapStart": 1012002
+    },
+    {
+        "MapName": "huntingground_02",
+        "MapSize": [
+            2304,
+            2304
+        ],
+        "MapPieceNum": [
+            9,
+            9
+        ],
+        "PieceSize": [
+            256,
+            256
+        ],
+        "ImgBigMap": 1012074,
+        "ImgBigMapBg": 1012075,
+        "ImgSmallMapStart": 1012076
+    },
+    {
+        "MapName": "palwild_01",
+        "MapSize": [
+            2304,
+            2304
+        ],
+        "MapPieceNum": [
+            9,
+            9
+        ],
+        "PieceSize": [
+            256,
+            256
+        ],
+        "ImgBigMap": 1011000,
+        "ImgBigMapBg": 1011001,
+        "ImgSmallMapStart": 1011002,
+        "DayLevel": "",
+        "NightLevel": "area10_night",
+        "DayMusic": "BGM|Fight|Activity|DLC03,DLC|Fight02,Battle|Off",
+        "NightMusic": "BGM|Fight|Activity|DLC14,DLC|Fight04,Stage|Stage03",
+        "DayAmbience": "Amb_2D|DLC25|HaiDaoZhou",
+        "NightAmbience": "Amb_2D|DLC25|HaiDaoYe",
+        "DefaultDeliver": {
+            "501": 892
+        }
+    },
+    {
+        "MapName": "palwild_02",
+        "MapSize": [
+            2304,
+            2304
+        ],
+        "MapPieceNum": [
+            9,
+            9
+        ],
+        "PieceSize": [
+            256,
+            256
+        ],
+        "ImgBigMap": 1012157,
+        "ImgBigMapBg": 1012158,
+        "ImgSmallMapStart": 1012159,
+        "DayLevel": "",
+        "NightLevel": "bigworld02_night",
+        "DayMusic": "BGM|Fight|Activity|DLC14,DLC|Fight04,Stage|Stage01",
+        "NightMusic": "BGM|Fight|Activity|DLC14,DLC|Fight04,Stage|Stage02",
+        "DayAmbience": "Amb_2D|DLC25|XueDiZhou",
+        "NightAmbience": "Amb_2D|DLC25|XueDiYe",
+        "DefaultDeliver": [
+            [
+                829
+            ]
+        ]
+    },
+    {
+        "MapName": "newstar_building01",
+        "MapSize": [
+            2304,
+            1536
+        ],
+        "MapPieceNum": [
+            9,
+            6
+        ],
+        "PieceSize": [
+            256,
+            256
+        ],
+        "ImgBigMap": 1012240,
+        "ImgBigMapBg": 1012241,
+        "ImgSmallMapStart": 1012242,
+        "DayLevel": "",
+        "NightLevel": "area10_night",
+        "DayMusic": "BGM|UI|DLC09_Rich_Stage02",
+        "NightMusic": "BGM|UI|DLC09_Rich_Stage02",
+        "DayAmbience": "Amb_2D|DLC25|HaiDaoZhou",
+        "NightAmbience": "Amb_2D|DLC25|HaiDaoZhou",
+        "DefaultDeliver": {
+            "514": 577,
+            "567": 610
+        },
+        "LevelPoint": {
+            "2": 579,
+            "3": 580
+        }
+    }
+]

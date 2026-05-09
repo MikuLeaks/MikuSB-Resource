@@ -1,0 +1,52 @@
+[
+    {
+        "Id": 1,
+        "Explain": "待机",
+        "Type": "sequence",
+        "Name": "girl011_02_ui_stand01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl011_02/Anim/girl011_02_ui_stand01.girl011_02_ui_stand01'"
+    },
+    {
+        "Id": 2,
+        "Explain": "讲述",
+        "Type": "sequence",
+        "Name": "girl011_02_openworld_talk01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl011_02/Anim/girl011_02_openworld_talk01.girl011_02_openworld_talk01'"
+    },
+    {
+        "Id": 3,
+        "Explain": "叉腰",
+        "Type": "sequence",
+        "Name": "girl011_02_openworld_akimbo",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl011_02/Anim/girl011_02_openworld_akimbo.girl011_02_openworld_akimbo'"
+    },
+    {
+        "Id": 4,
+        "Explain": "肯定",
+        "Type": "sequence",
+        "Name": "girl011_02_openworld_sure",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl011_02/Anim/girl011_02_openworld_sure.girl011_02_openworld_sure'"
+    },
+    {
+        "Id": 5,
+        "Explain": "否定",
+        "Type": "sequence",
+        "Name": "girl011_02_openworld_deny",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl011_02/Anim/girl011_02_openworld_deny.girl011_02_openworld_deny'"
+    },
+    {
+        "Id": 100,
+        "Explain": "组合动作",
+        "Type": "custom_seq"
+    },
+    {
+        "Id": 101,
+        "Explain": "全部循环",
+        "Type": "custom_loop"
+    },
+    {
+        "Id": 102,
+        "Explain": "循环最后一个",
+        "Type": "custom_loop_last"
+    }
+]

@@ -1,0 +1,669 @@
+[
+    {
+        "MapId": 1,
+        "MapSize": [
+            5,
+            3
+        ],
+        "MapInfo": [
+            [],
+            [],
+            [],
+            []
+        ],
+        "PercentReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                80
+            ]
+        ],
+        "CompleteReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                40
+            ]
+        ],
+        "MinLevel": 1,
+        "MaxLevel": 6,
+        "Weight": 100
+    },
+    {
+        "MapId": 2,
+        "MapSize": [
+            4,
+            4
+        ],
+        "MapInfo": [
+            [
+                4
+            ],
+            [],
+            [],
+            [],
+            []
+        ],
+        "PercentReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                80
+            ]
+        ],
+        "CompleteReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                40
+            ]
+        ],
+        "MinLevel": 1,
+        "MaxLevel": 6,
+        "Weight": 100
+    },
+    {
+        "MapId": 3,
+        "MapSize": [
+            5,
+            4
+        ],
+        "MapInfo": [
+            [],
+            [
+                2,
+                3
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                2,
+                3
+            ],
+            []
+        ],
+        "PercentReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                80
+            ]
+        ],
+        "CompleteReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                40
+            ]
+        ],
+        "MinLevel": 1,
+        "MaxLevel": 6,
+        "Weight": 100
+    },
+    {
+        "MapId": 4,
+        "MapSize": [
+            5,
+            4
+        ],
+        "MapInfo": [
+            [],
+            [],
+            [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            [],
+            []
+        ],
+        "PercentReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                80
+            ]
+        ],
+        "CompleteReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                40
+            ]
+        ],
+        "MinLevel": 1,
+        "MaxLevel": 6,
+        "Weight": 100
+    },
+    {
+        "MapId": 5,
+        "MapSize": [
+            5,
+            4
+        ],
+        "MapInfo": [
+            [
+                4,
+                5
+            ],
+            [
+                5
+            ],
+            [],
+            [
+                0
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "PercentReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                80
+            ]
+        ],
+        "CompleteReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                40
+            ]
+        ],
+        "MinLevel": 1,
+        "MaxLevel": 6,
+        "Weight": 100
+    },
+    {
+        "MapId": 6,
+        "MapSize": [
+            5,
+            4
+        ],
+        "MapInfo": [
+            [
+                5
+            ],
+            [],
+            [],
+            [],
+            [
+                0
+            ]
+        ],
+        "PercentReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                80
+            ]
+        ],
+        "CompleteReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                50
+            ]
+        ],
+        "MinLevel": 4,
+        "MaxLevel": 9,
+        "Weight": 100
+    },
+    {
+        "MapId": 7,
+        "MapSize": [
+            5,
+            4
+        ],
+        "MapInfo": [
+            [],
+            [],
+            [
+                2,
+                3
+            ],
+            [],
+            []
+        ],
+        "PercentReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                80
+            ]
+        ],
+        "CompleteReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                50
+            ]
+        ],
+        "MinLevel": 4,
+        "MaxLevel": 9,
+        "Weight": 100
+    },
+    {
+        "MapId": 8,
+        "MapSize": [
+            5,
+            4
+        ],
+        "MapInfo": [
+            [],
+            [
+                1
+            ],
+            [],
+            [
+                4
+            ],
+            []
+        ],
+        "PercentReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                80
+            ]
+        ],
+        "CompleteReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                50
+            ]
+        ],
+        "MinLevel": 4,
+        "MaxLevel": 9,
+        "Weight": 100
+    },
+    {
+        "MapId": 9,
+        "MapSize": [
+            5,
+            4
+        ],
+        "MapInfo": [
+            [
+                2,
+                3
+            ],
+            [],
+            [],
+            [],
+            []
+        ],
+        "PercentReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                80
+            ]
+        ],
+        "CompleteReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                50
+            ]
+        ],
+        "MinLevel": 4,
+        "MaxLevel": 9,
+        "Weight": 100
+    },
+    {
+        "MapId": 10,
+        "MapSize": [
+            5,
+            4
+        ],
+        "MapInfo": [
+            [],
+            [
+                5
+            ],
+            [],
+            [
+                5
+            ],
+            []
+        ],
+        "PercentReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                80
+            ]
+        ],
+        "CompleteReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                50
+            ]
+        ],
+        "MinLevel": 4,
+        "MaxLevel": 9,
+        "Weight": 100
+    },
+    {
+        "MapId": 11,
+        "MapSize": [
+            4,
+            4
+        ],
+        "MapInfo": [
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        "PercentReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                90
+            ]
+        ],
+        "CompleteReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                50
+            ]
+        ],
+        "MinLevel": 7,
+        "MaxLevel": 30,
+        "Weight": 100
+    },
+    {
+        "MapId": 12,
+        "MapSize": [
+            5,
+            4
+        ],
+        "MapInfo": [
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [],
+            [
+                5
+            ],
+            [
+                5
+            ]
+        ],
+        "PercentReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                90
+            ]
+        ],
+        "CompleteReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                50
+            ]
+        ],
+        "MinLevel": 7,
+        "MaxLevel": 30,
+        "Weight": 100
+    },
+    {
+        "MapId": 13,
+        "MapSize": [
+            5,
+            4
+        ],
+        "MapInfo": [
+            [
+                5
+            ],
+            [
+                4
+            ],
+            [],
+            [
+                1
+            ],
+            [
+                0
+            ]
+        ],
+        "PercentReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                90
+            ]
+        ],
+        "CompleteReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                50
+            ]
+        ],
+        "MinLevel": 7,
+        "MaxLevel": 30,
+        "Weight": 100
+    },
+    {
+        "MapId": 14,
+        "MapSize": [
+            5,
+            4
+        ],
+        "MapInfo": [
+            [],
+            [],
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ]
+        ],
+        "PercentReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                90
+            ]
+        ],
+        "CompleteReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                50
+            ]
+        ],
+        "MinLevel": 7,
+        "MaxLevel": 30,
+        "Weight": 100
+    },
+    {
+        "MapId": 15,
+        "MapSize": [
+            5,
+            4
+        ],
+        "MapInfo": [
+            [
+                0
+            ],
+            [],
+            [
+                5
+            ],
+            [],
+            [
+                0
+            ]
+        ],
+        "PercentReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                90
+            ]
+        ],
+        "CompleteReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                50
+            ]
+        ],
+        "MinLevel": 7,
+        "MaxLevel": 30,
+        "Weight": 100
+    },
+    {
+        "MapId": 16,
+        "MapSize": [
+            5,
+            4
+        ],
+        "MapInfo": [
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        "PercentReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                100
+            ]
+        ],
+        "CompleteReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                50
+            ]
+        ],
+        "MinLevel": 10,
+        "MaxLevel": 30,
+        "Weight": 100
+    },
+    {
+        "MapId": 17,
+        "MapSize": [
+            3,
+            3
+        ],
+        "MapInfo": [
+            [],
+            [],
+            [],
+            []
+        ],
+        "PercentReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                80
+            ]
+        ],
+        "CompleteReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                40
+            ]
+        ],
+        "MinLevel": 1,
+        "MaxLevel": 1,
+        "Weight": 100
+    }
+]

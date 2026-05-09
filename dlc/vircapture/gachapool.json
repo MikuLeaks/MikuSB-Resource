@@ -1,0 +1,21 @@
+[
+    {
+        "Id": 1,
+        "StartTime": "[202405301000]",
+        "EndTime": "[203012121000]",
+        "Condition": {
+            "20": 10
+        },
+        "PoolFile": "pool01",
+        "UnlockWeight": 900,
+        "LockWeight": 100,
+        "Cost": [
+            5,
+            25,
+            2,
+            6,
+            1
+        ],
+        "Info": "vircapture.vircapture_GachaTips"
+    }
+]

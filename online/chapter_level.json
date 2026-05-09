@@ -1,0 +1,290 @@
+[
+    {
+        "ID": 10,
+        "Type": 0,
+        "MapID": 9000,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "6001302": 40
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            1020
+        ],
+        "BaseDropID": [
+            1034
+        ],
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                600
+            ],
+            [
+                4,
+                3,
+                3,
+                1,
+                6
+            ],
+            [
+                5,
+                1,
+                1,
+                1,
+                1
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ],
+            [
+                5,
+                1,
+                1,
+                2,
+                1
+            ]
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1803038,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9000.MultTask_9000"
+    },
+    {
+        "ID": 11,
+        "Type": 0,
+        "MapID": 9000,
+        "FightID": 1,
+        "Condition": {
+            "18": 10
+        },
+        "Monster": {
+            "6001302": 50
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            1002
+        ],
+        "BaseDropID": [
+            1035
+        ],
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                600
+            ],
+            [
+                4,
+                3,
+                3,
+                1,
+                6
+            ],
+            [
+                5,
+                2,
+                1,
+                1,
+                1
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                1,
+                8,
+                1,
+                1,
+                1
+            ],
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ],
+            [
+                5,
+                2,
+                1,
+                2,
+                1
+            ]
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1803038,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9001.MultTask_9001"
+    },
+    {
+        "ID": 12,
+        "Type": 0,
+        "MapID": 9000,
+        "FightID": 1,
+        "Condition": {
+            "18": 11
+        },
+        "Monster": {
+            "6001302": 60
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            1020
+        ],
+        "BaseDropID": [
+            1034
+        ],
+        "RandomDropID": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                600
+            ],
+            [
+                4,
+                3,
+                3,
+                1,
+                6
+            ],
+            [
+                5,
+                1,
+                1,
+                1,
+                1
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ],
+            [
+                5,
+                1,
+                1,
+                2,
+                1
+            ]
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1803038,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9002.MultTask_9002"
+    },
+    {
+        "ID": 9502,
+        "Type": 0,
+        "MapID": 9502,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "6001302": 40
+        },
+        "LevelStrength": 10,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": 7005,
+        "FirstDropID": [
+            7401
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1803038,
+        "TaskPath": "MultiTask/RandomTest/TowerRush_01/Multi_TowerRush_Guide.Multi_TowerRush_Guide"
+    },
+    {
+        "ID": 60208,
+        "Type": 0,
+        "MapID": 60208,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "6001302": 40
+        },
+        "LevelStrength": 10,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": 7005,
+        "FirstDropID": [
+            7401
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1803038,
+        "TaskPath": "MultiTask/RandomTest/AssaultOps_1/Multi_AssaultOps_60208.Multi_AssaultOps_60208"
+    }
+]

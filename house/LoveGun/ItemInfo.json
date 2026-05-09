@@ -1,0 +1,225 @@
+[
+    {
+        "ID": 1,
+        "Type": 1,
+        "Icon": 1004117,
+        "Name": "house.RouletteItem01",
+        "Des": "house.RouletteItemDes01",
+        "PlayerTips": "house.RouletteItemTip01",
+        "NoUseTips": "house.RouletteItemTip01_NoUseTip",
+        "GirlTips": "house.RouletteItemTip01",
+        "Prob": 100,
+        "BanStory": "",
+        "BanGirl": "",
+        "Function": "AddLife",
+        "GirlUseOrder": 8,
+        "GirlUseWeight": {
+            "AddLife": 10
+        }
+    },
+    {
+        "ID": 2,
+        "Type": 1,
+        "Icon": 1004118,
+        "Name": "house.RouletteItem02",
+        "Des": "house.RouletteItemDes02",
+        "PlayerTips": "house.RouletteItemTip02",
+        "NoUseTips": "",
+        "GirlTips": "house.RouletteGirlItemTip02",
+        "Prob": 200,
+        "BanStory": "",
+        "BanGirl": "",
+        "Function": "Prophet",
+        "GirlUseOrder": 9,
+        "GirlUseWeight": {
+            "Prophet": 10
+        }
+    },
+    {
+        "ID": 3,
+        "Type": 1,
+        "Icon": 1004119,
+        "Name": "house.RouletteItem03",
+        "Des": "house.RouletteItemDes03",
+        "PlayerTips": "house.RouletteItemTip03",
+        "NoUseTips": "house.RouletteItemTip03_NoUseTip",
+        "GirlTips": "house.RouletteItemTip03",
+        "Prob": 100,
+        "BanStory": "",
+        "BanGirl": "",
+        "Function": "BanRound",
+        "GirlUseOrder": 7,
+        "GirlUseWeight": {
+            "BanRound": 10
+        }
+    },
+    {
+        "ID": 4,
+        "Type": 1,
+        "Icon": 1004120,
+        "Name": "house.RouletteItem04",
+        "Des": "house.RouletteItemDes04",
+        "PlayerTips": "house.RouletteItemTip04",
+        "NoUseTips": "house.RouletteItemTip04_NoUseTip",
+        "GirlTips": "house.RouletteItemTip04",
+        "Prob": 200,
+        "BanStory": "",
+        "BanGirl": "",
+        "Function": "DoubleKill",
+        "GirlUseOrder": 6,
+        "GirlUseWeight": {
+            "DoubleKill": 10
+        }
+    },
+    {
+        "ID": 5,
+        "Type": 1,
+        "Icon": 1004121,
+        "Name": "house.RouletteItem05",
+        "Des": "house.RouletteItemDes05",
+        "PlayerTips": "house.RouletteItemTip05",
+        "NoUseTips": "house.RouletteItemTip05_NoUseTip",
+        "GirlTips": "house.RouletteGirlItemTip05",
+        "Prob": 200,
+        "BanStory": 1,
+        "BanGirl": "",
+        "Function": "Steal",
+        "GirlUseOrder": 5,
+        "GirlUseWeight": {
+            "Steal": 10
+        }
+    },
+    {
+        "ID": 6,
+        "Type": 1,
+        "Icon": 1004122,
+        "Name": "house.RouletteItem06",
+        "Des": "house.RouletteItemDes06",
+        "PlayerTips": "house.RouletteItemTip06",
+        "NoUseTips": "",
+        "GirlTips": "house.RouletteItemTip06",
+        "Prob": 200,
+        "BanStory": 1,
+        "BanGirl": "",
+        "Function": "Reverse",
+        "GirlUseOrder": 4,
+        "GirlUseWeight": {
+            "Reverse": 10
+        }
+    },
+    {
+        "ID": 7,
+        "Type": 1,
+        "Icon": 1004123,
+        "Name": "house.RouletteItem07",
+        "Des": "house.RouletteItemDes07",
+        "PlayerTips": "house.RouletteItemTip07",
+        "NoUseTips": "house.RouletteItemTip07_NoUseTip",
+        "GirlTips": "house.RouletteItemTip07",
+        "Prob": 200,
+        "BanStory": 1,
+        "BanGirl": "",
+        "Function": "Unload",
+        "GirlUseOrder": 3,
+        "GirlUseWeight": {
+            "Unload": 10
+        }
+    },
+    {
+        "ID": 8,
+        "Type": 1,
+        "Icon": 1004124,
+        "Name": "house.RouletteItem08",
+        "Des": "house.RouletteItemDes08",
+        "PlayerTips": "",
+        "NoUseTips": "house.RouletteItemTip08_NoUseTip",
+        "GirlTips": "",
+        "Prob": 100,
+        "BanStory": 1,
+        "BanGirl": 1,
+        "Function": "Reset",
+        "GirlUseOrder": "",
+        "GirlUseWeight": "",
+        "Param": [
+            4
+        ]
+    },
+    {
+        "ID": 9,
+        "Type": 2,
+        "Icon": 1004125,
+        "Name": "house.RouletteItem09",
+        "Des": "house.RouletteItemDes09",
+        "PlayerTips": "",
+        "NoUseTips": "",
+        "GirlTips": "",
+        "Prob": 2,
+        "BanStory": 1,
+        "BanGirl": 1
+    },
+    {
+        "ID": 10,
+        "Type": 2,
+        "Icon": 1004126,
+        "Name": "house.RouletteItem10",
+        "Des": "house.RouletteItemDes10",
+        "PlayerTips": "",
+        "NoUseTips": "",
+        "GirlTips": "",
+        "Prob": 2,
+        "BanStory": 1,
+        "BanGirl": 1
+    },
+    {
+        "ID": 11,
+        "Type": 2,
+        "Icon": 1004127,
+        "Name": "house.RouletteItem11",
+        "Des": "house.RouletteItemDes11",
+        "PlayerTips": "",
+        "NoUseTips": "",
+        "GirlTips": "",
+        "Prob": 2,
+        "BanStory": 1,
+        "BanGirl": 1
+    },
+    {
+        "ID": 12,
+        "Type": 2,
+        "Icon": 1004128,
+        "Name": "house.RouletteItem12",
+        "Des": "house.RouletteItemDes12",
+        "PlayerTips": "",
+        "NoUseTips": "",
+        "GirlTips": "",
+        "Prob": 2,
+        "BanStory": 1,
+        "BanGirl": 1
+    },
+    {
+        "ID": 13,
+        "Type": 2,
+        "Icon": 1004129,
+        "Name": "house.RouletteItem13",
+        "Des": "house.RouletteItemDes13",
+        "PlayerTips": "",
+        "NoUseTips": "",
+        "GirlTips": "",
+        "Prob": 2,
+        "BanStory": 1,
+        "BanGirl": 1
+    },
+    {
+        "ID": 14,
+        "Type": 2,
+        "Icon": 1004130,
+        "Name": "house.RouletteItem14",
+        "Des": "house.RouletteItemDes14",
+        "PlayerTips": "",
+        "NoUseTips": "",
+        "GirlTips": "",
+        "Prob": 2,
+        "BanStory": 1,
+        "BanGirl": 1
+    }
+]

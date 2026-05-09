@@ -1,0 +1,128 @@
+[
+    {
+        "Id": 1,
+        "StartTime": "[202401010400]",
+        "EndTime": "[202401010400]",
+        "WaLLId": "",
+        "AreaName": "ui.TxtVircaptureArea1",
+        "Path": "/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area01.uw_fight_catch_area01_C",
+        "Position": [
+            704,
+            -424
+        ],
+        "InfoPosition": [
+            704,
+            -424
+        ],
+        "UnlockLevel": 1
+    },
+    {
+        "Id": 2,
+        "StartTime": "[202401010400]",
+        "EndTime": "[202406071640]",
+        "WaLLId": [
+            201
+        ],
+        "AreaName": "ui.TxtVircaptureArea2",
+        "Path": "/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area02.uw_fight_catch_area02_C",
+        "Position": [
+            268,
+            -658
+        ],
+        "InfoPosition": [
+            268,
+            -658
+        ],
+        "UnlockLevel": 2
+    },
+    {
+        "Id": 3,
+        "StartTime": "[202401010400]",
+        "EndTime": "[202406071700]",
+        "WaLLId": [
+            301,
+            302,
+            303,
+            304,
+            305,
+            306
+        ],
+        "AreaName": "ui.TxtVircaptureArea3",
+        "Path": "/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area03.uw_fight_catch_area03_C",
+        "Position": [
+            202,
+            -218
+        ],
+        "InfoPosition": [
+            230,
+            -213
+        ],
+        "UnlockLevel": 3
+    },
+    {
+        "Id": 4,
+        "StartTime": "[202401010400]",
+        "EndTime": "[202406100400]",
+        "WaLLId": [
+            401
+        ],
+        "AreaName": "ui.TxtVircaptureArea4",
+        "Path": "/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area04.uw_fight_catch_area04_C",
+        "Position": [
+            -400,
+            160
+        ],
+        "InfoPosition": [
+            -400,
+            0
+        ],
+        "UnlockLevel": 5
+    },
+    {
+        "Id": 5,
+        "StartTime": "[202401010400]",
+        "EndTime": "[202406150400]",
+        "WaLLId": [
+            501,
+            502,
+            503,
+            504,
+            505,
+            506,
+            507,
+            508
+        ],
+        "AreaName": "ui.TxtVircaptureArea5",
+        "Path": "/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area05.uw_fight_catch_area05_C",
+        "Position": [
+            26,
+            480
+        ],
+        "InfoPosition": [
+            26,
+            400
+        ],
+        "UnlockLevel": 7
+    },
+    {
+        "Id": 6,
+        "StartTime": "[202401010400]",
+        "EndTime": "[202406170400]",
+        "WaLLId": [
+            601,
+            602,
+            603
+        ],
+        "AreaName": "ui.TxtVircaptureArea6",
+        "Path": "/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area06.uw_fight_catch_area06_C",
+        "Position": [
+            -302,
+            -540
+        ],
+        "InfoPosition": [
+            -302,
+            -600
+        ],
+        "UnlockLevel": 10
+    }
+]

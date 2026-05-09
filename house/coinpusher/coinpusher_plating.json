@@ -1,0 +1,68 @@
+[
+    {
+        "PlatingID": 1,
+        "Icon": 1545601,
+        "Name": "house.Coinpusher_PlatingName1",
+        "Desc": "house.Coinpusher_PlatingDesc1",
+        "Effect": [
+            3,
+            20
+        ],
+        "ExtraParam": [
+            "ptchange",
+            20
+        ],
+        "PayPrice": 40
+    },
+    {
+        "PlatingID": 2,
+        "Icon": 1545602,
+        "Name": "house.Coinpusher_PlatingName2",
+        "Desc": "house.Coinpusher_PlatingDesc2",
+        "Effect": [
+            4,
+            50
+        ],
+        "ExtraParam": "",
+        "PayPrice": 40
+    },
+    {
+        "PlatingID": 3,
+        "Icon": 1545603,
+        "Name": "house.Coinpusher_PlatingName3",
+        "Desc": "house.Coinpusher_PlatingDesc3",
+        "Effect": [
+            24,
+            [
+                10,
+                10
+            ]
+        ],
+        "ExtraParam": "",
+        "PayPrice": 40
+    },
+    {
+        "PlatingID": 4,
+        "Icon": 1545604,
+        "Name": "house.Coinpusher_PlatingName4",
+        "Desc": "house.Coinpusher_PlatingDesc4",
+        "Effect": [
+            25,
+            25
+        ],
+        "ExtraParam": "",
+        "PayPrice": 40
+    },
+    {
+        "PlatingID": 5,
+        "Icon": 1545605,
+        "Name": "house.Coinpusher_PlatingName5",
+        "Desc": "house.Coinpusher_PlatingDesc5",
+        "Effect": [
+            26,
+            1
+        ],
+        "ExtraParam": "",
+        "PayPrice": 40
+    }
+]

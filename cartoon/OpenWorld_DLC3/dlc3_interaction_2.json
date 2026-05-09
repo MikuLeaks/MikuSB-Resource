@@ -1,0 +1,408 @@
+{
+  "pages": [
+    {
+      "id": 1,
+      "name": "Page1",
+      "max_action_id": 80,
+      "traces": [
+        {
+          "id": 1,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 33,
+                  "tpl_id": "screen_fade",
+                  "params": {
+                    "fade_type": "1",
+                    "style": "1",
+                    "time": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 34,
+                  "tpl_id": "set_switch_to_player",
+                  "params": {
+                    "value": "1",
+                    "npcId": "girl12a_02"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 35,
+                  "tpl_id": "set_3d_npc",
+                  "params": {
+                    "type": "1",
+                    "npcId": "girl12a_02"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 37,
+                  "tpl_id": "set_npc_position_and_rotation",
+                  "params": {
+                    "npcId": "girl12a_02",
+                    "rot": "0,0,174.400009\u0000",
+                    "pos": "2508,-136,2"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 39,
+                  "tpl_id": "set_camera_3d_position",
+                  "params": {
+                    "pos": "3110,-561,60",
+                    "rot": "0,14,145.300003"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 40,
+                  "tpl_id": "screen_fade",
+                  "params": {
+                    "fade_type": "2",
+                    "style": "1",
+                    "time": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 43,
+                  "tpl_id": "play_animation",
+                  "params": {
+                    "anim": "100",
+                    "loop": "",
+                    "npcId": "girl12a_02"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 65,
+                  "tpl_id": "wait_time",
+                  "params": {
+                    "time": "3"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 38,
+                  "tpl_id": "screen_fade",
+                  "params": {
+                    "fade_type": "1",
+                    "style": "1",
+                    "time": "1"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 41
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 42
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 36
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 44
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 47,
+                  "tpl_id": "move_3d_camera",
+                  "params": {
+                    "pos": "3039,-512,82",
+                    "time": "6",
+                    "rot": "0,14,145.300003"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 78
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 46
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 45
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 48
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 49
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 50
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 51
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 52
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 53
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 79
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 54
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 55
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 56
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 57
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 58
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 59
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 60
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 61
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 80
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 62
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 63
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 64
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "max_page_id": 1,
+  "cur_page_id": 1,
+  "max_fsm_id": 21,
+  "fsm_nodes": [
+    {
+      "id": 1,
+      "pos_x": 309,
+      "pos_y": 119,
+      "tpl_id": "begin",
+      "output_pints": [
+        2
+      ]
+    },
+    {
+      "id": 8,
+      "pos_x": 282,
+      "pos_y": 256,
+      "tpl_id": "prop_talk",
+      "input_pints": [
+        9
+      ],
+      "output_pints": [
+        10
+      ],
+      "params": {
+        "talk_type": "1"
+      }
+    },
+    {
+      "id": 15,
+      "pos_x": 306,
+      "pos_y": 400,
+      "tpl_id": "play",
+      "input_pints": [
+        16
+      ],
+      "output_pints": [
+        17
+      ],
+      "params": {
+        "page": "1"
+      }
+    },
+    {
+      "id": 19,
+      "pos_x": 306,
+      "pos_y": 566,
+      "tpl_id": "end",
+      "input_pints": [
+        20
+      ]
+    }
+  ],
+  "fsm_links": [
+    {
+      "id": 11,
+      "start_id": 2,
+      "end_id": 9
+    },
+    {
+      "id": 18,
+      "start_id": 10,
+      "end_id": 16
+    },
+    {
+      "id": 21,
+      "start_id": 17,
+      "end_id": 20
+    }
+  ]
+}

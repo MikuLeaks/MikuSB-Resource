@@ -1,0 +1,823 @@
+[
+    {
+        "ID": 1,
+        "Coverage": "",
+        "StartTime": "[202308071000]",
+        "EndTime": "[202309141000]",
+        "EnterStartTime": "[202308071000]",
+        "CloseEndTime": "[202309210400]",
+        "Condition": "",
+        "MainUI": "Dlc1Main",
+        "Icon": 2400001,
+        "TryID": [
+            18,
+            25
+        ],
+        "ShopID": [
+            101,
+            102
+        ],
+        "MissionID": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "UnlockChapter": "",
+        "OP": "/Game/Plot/ChapterPlots/ChapterDLC01_ep02/umg/umg_chapterDLC01_ep02.umg_chapterDLC01_ep02_C",
+        "OpUmg": "",
+        "Preload": "",
+        "Preview": 11200
+    },
+    {
+        "ID": 2,
+        "Coverage": "",
+        "StartTime": "[202309211000]",
+        "EndTime": "[202310261000]",
+        "EnterStartTime": "[202309211000]",
+        "CloseEndTime": "[202311020400]",
+        "Condition": "",
+        "MainUI": "Dlc2Main",
+        "Icon": 2400002,
+        "TryID": [
+            33,
+            34
+        ],
+        "ShopID": [
+            103,
+            104
+        ],
+        "MissionID": [
+            5,
+            7,
+            9,
+            8,
+            6
+        ],
+        "UnlockChapter": 11,
+        "OP": "",
+        "OpUmg": "",
+        "Preload": "",
+        "Preview": 8003100
+    },
+    {
+        "ID": 3,
+        "Coverage": "",
+        "StartTime": "[202311021000]",
+        "EndTime": "[202312071000]",
+        "EnterStartTime": "[202311021000]",
+        "CloseEndTime": "[202312140400]",
+        "Condition": "",
+        "MainUI": "Dlc3Main",
+        "Icon": 2400003,
+        "TryID": [
+            43,
+            44,
+            50
+        ],
+        "ShopID": [
+            105,
+            106
+        ],
+        "MissionID": [
+            10,
+            12,
+            15,
+            13,
+            14,
+            16
+        ],
+        "UnlockChapter": "",
+        "OP": "/Game/Plot/ChapterPlots/ChapterDLC03_ep03/umg/umg_chapterDLC03_ep03.umg_chapterDLC03_ep03_C",
+        "OpUmg": "",
+        "Preload": "",
+        "Preview": 12200,
+        "Defend": "",
+        "DlcFuncConfId": "{Story=4}"
+    },
+    {
+        "ID": 4,
+        "Coverage": "",
+        "StartTime": "[202312141000]",
+        "EndTime": "[202401111000]",
+        "EnterStartTime": "[202312141000]",
+        "CloseEndTime": "[202401180400]",
+        "Condition": "",
+        "MainUI": "Dlc4Main",
+        "Icon": 2400004,
+        "TryID": [
+            63,
+            65
+        ],
+        "ShopID": [
+            107,
+            108
+        ],
+        "MissionID": [
+            17,
+            21,
+            20,
+            19,
+            18
+        ],
+        "UnlockChapter": 12,
+        "OP": "/Game/Plot/ChapterPlots/ChapterDLC04_ep01/UMG/ChapterDLC04_ep01.ChapterDLC04_ep01_C",
+        "OpUmg": "",
+        "Preload": "",
+        "Preview": 13200
+    },
+    {
+        "ID": 5,
+        "Coverage": "",
+        "StartTime": "[202401181000]",
+        "EndTime": "[202402291000]",
+        "EnterStartTime": "[202401181000]",
+        "CloseEndTime": "[202403070400]",
+        "Condition": "",
+        "MainUI": "Dlc5Main",
+        "Icon": 2400005,
+        "TryID": [
+            72,
+            74
+        ],
+        "ShopID": [
+            109,
+            110
+        ],
+        "MissionID": [
+            22,
+            23,
+            24,
+            25,
+            26
+        ],
+        "UnlockChapter": 13,
+        "OP": "",
+        "OpUmg": "Dlc5Transition",
+        "Preload": "",
+        "Preview": 13220,
+        "Defend": 1
+    },
+    {
+        "ID": 6,
+        "Coverage": "",
+        "StartTime": "[202403071000]",
+        "EndTime": "[202404111000]",
+        "EnterStartTime": "[202403071000]",
+        "CloseEndTime": "[202404180400]",
+        "Condition": "",
+        "MainUI": "Dlc6Main",
+        "Icon": 2400006,
+        "TryID": [
+            89,
+            90
+        ],
+        "ShopID": [
+            111,
+            112
+        ],
+        "MissionID": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+        ],
+        "UnlockChapter": 14,
+        "OP": "",
+        "OpUmg": "",
+        "Preload": "",
+        "Preview": 13230,
+        "Defend": 0
+    },
+    {
+        "ID": 7,
+        "Coverage": "",
+        "StartTime": "[202404181000]",
+        "EndTime": "[202405231000]",
+        "EnterStartTime": "[202404181000]",
+        "CloseEndTime": "[202405300400]",
+        "Condition": "",
+        "MainUI": "Dlc7Main",
+        "Icon": 2400007,
+        "TryID": [
+            100,
+            104
+        ],
+        "ShopID": [
+            113,
+            114
+        ],
+        "MissionID": [
+            33,
+            34,
+            35,
+            36,
+            37
+        ],
+        "UnlockChapter": "",
+        "OP": "",
+        "OpUmg": "Dlc7Transition",
+        "Preload": "",
+        "Preview": 13240,
+        "Defend": 0,
+        "DlcFuncConfId": "{Story=9}"
+    },
+    {
+        "ID": 8,
+        "Coverage": "",
+        "StartTime": "[202405301000]",
+        "EndTime": "[202407041000]",
+        "EnterStartTime": "[202405301000]",
+        "CloseEndTime": "[202407110400]",
+        "Condition": "",
+        "MainUI": "Dlc8Main",
+        "Icon": 2400008,
+        "TryID": [
+            115,
+            116
+        ],
+        "ShopID": [
+            115,
+            116
+        ],
+        "MissionID": [
+            38,
+            39,
+            40,
+            41,
+            42,
+            43
+        ],
+        "UnlockChapter": 15,
+        "OP": "",
+        "OpUmg": "Dlc8Transition",
+        "Preload": "",
+        "Preview": 13250,
+        "Defend": 0
+    },
+    {
+        "ID": 9,
+        "Coverage": "",
+        "StartTime": "[202407110400]",
+        "EndTime": "[202408150400]",
+        "EnterStartTime": "[202407110400]",
+        "CloseEndTime": "[202408220400]",
+        "Condition": "",
+        "MainUI": "Dlc9Main",
+        "Icon": 2400009,
+        "TryID": [
+            125,
+            134
+        ],
+        "ShopID": [
+            117,
+            118
+        ],
+        "MissionID": [
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51
+        ],
+        "UnlockChapter": 16,
+        "OP": "",
+        "OpUmg": "Dlc9Transition",
+        "Preload": 13250,
+        "Preview": 8011100,
+        "Defend": 0
+    },
+    {
+        "ID": 10,
+        "Coverage": "",
+        "StartTime": "[202408221000]",
+        "EndTime": "[202409191000]",
+        "EnterStartTime": "[202408221000]",
+        "CloseEndTime": "[202409260400]",
+        "Condition": "",
+        "MainUI": "Dlc10Main",
+        "Icon": 2400010,
+        "TryID": [
+            155,
+            159
+        ],
+        "ShopID": [
+            119,
+            120
+        ],
+        "MissionID": [
+            52,
+            53,
+            54,
+            55,
+            56
+        ],
+        "UnlockChapter": 17,
+        "OP": "",
+        "OpUmg": "",
+        "Preload": 8011100,
+        "Preview": 8011200,
+        "Defend": 0
+    },
+    {
+        "ID": 11,
+        "Coverage": "",
+        "StartTime": "[202409260400]",
+        "EndTime": "[202410310400]",
+        "EnterStartTime": "[202409260400]",
+        "CloseEndTime": "[202411070400]",
+        "Condition": "",
+        "MainUI": "Dlc11Main",
+        "Icon": 2400011,
+        "TryID": [
+            176,
+            180
+        ],
+        "ShopID": [
+            121,
+            122
+        ],
+        "MissionID": [
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63
+        ],
+        "UnlockChapter": "",
+        "OP": "",
+        "OpUmg": "",
+        "Preload": 8011200,
+        "Preview": 504200,
+        "Defend": 0,
+        "DlcFuncConfId": "{Story=14}"
+    },
+    {
+        "ID": 23,
+        "Coverage": "",
+        "StartTime": "[202411071000]",
+        "EndTime": "[202412121000]",
+        "EnterStartTime": "[202411071000]",
+        "CloseEndTime": "[202412190400]",
+        "Condition": "",
+        "MainUI": "Dlc23Main",
+        "Icon": 2400012,
+        "TryID": [
+            191,
+            194
+        ],
+        "ShopID": [
+            123,
+            124
+        ],
+        "MissionID": [
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+        ],
+        "UnlockChapter": 18,
+        "OP": "",
+        "OpUmg": "",
+        "Preload": "",
+        "Preview": "",
+        "Defend": 0
+    },
+    {
+        "ID": 24,
+        "Coverage": "",
+        "StartTime": "[202412191000]",
+        "EndTime": "[202501161000]",
+        "EnterStartTime": "[202412191000]",
+        "CloseEndTime": "[202501230400]",
+        "Condition": "",
+        "MainUI": "Dlc24Main",
+        "Icon": 2400015,
+        "TryID": [
+            204,
+            207
+        ],
+        "ShopID": [
+            125,
+            126
+        ],
+        "MissionID": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+        ],
+        "UnlockChapter": 19,
+        "OP": "",
+        "OpUmg": "",
+        "Preload": "",
+        "Preview": "",
+        "Defend": 0
+    },
+    {
+        "ID": 25,
+        "Coverage": "",
+        "StartTime": "[202501230400]",
+        "EndTime": "[202502270400]",
+        "EnterStartTime": "[202501230400]",
+        "CloseEndTime": "[202503060400]",
+        "Condition": "",
+        "MainUI": "Dlc25Main",
+        "Icon": 2400016,
+        "TryID": [
+            213,
+            216
+        ],
+        "ShopID": [
+            127,
+            128
+        ],
+        "MissionID": [
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84
+        ],
+        "UnlockChapter": 20,
+        "OP": "",
+        "OpUmg": "",
+        "Preload": "",
+        "Preview": 8026100,
+        "Defend": 0
+    },
+    {
+        "ID": 26,
+        "Coverage": "",
+        "StartTime": "[202503061000]",
+        "EndTime": "[202504101000]",
+        "EnterStartTime": "[202503061000]",
+        "CloseEndTime": "[202504170400]",
+        "Condition": "",
+        "MainUI": "Dlc26Main",
+        "Icon": 2400018,
+        "TryID": [
+            253,
+            256
+        ],
+        "ShopID": [
+            129,
+            130
+        ],
+        "MissionID": [
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92
+        ],
+        "UnlockChapter": "",
+        "OP": "",
+        "OpUmg": "",
+        "Preload": 8026100,
+        "Preview": 505200,
+        "Defend": 0,
+        "DlcFuncConfId": "{Story=19}"
+    },
+    {
+        "ID": 27,
+        "Coverage": "",
+        "StartTime": "[202504170400]",
+        "EndTime": "[202505221400]",
+        "EnterStartTime": "[202504170400]",
+        "CloseEndTime": "[202505290400]",
+        "Condition": "",
+        "MainUI": "Dlc27Main",
+        "Icon": 2400019,
+        "TryID": [
+            269,
+            274
+        ],
+        "ShopID": [
+            131,
+            132
+        ],
+        "MissionID": [
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+        ],
+        "UnlockChapter": 21,
+        "OP": "",
+        "OpUmg": "",
+        "Preload": 505200,
+        "Preview": 15200,
+        "Defend": 0,
+        "DlcFuncConfId": "{Refresh=21,Defense=27,Teamboss=4,Event=69,Mow=2,Girlrush=1,Nita=283,Rush=71}"
+    },
+    {
+        "ID": 28,
+        "Coverage": "",
+        "StartTime": "[202505291000]",
+        "EndTime": "[202507041000]",
+        "EnterStartTime": "[202505291000]",
+        "CloseEndTime": "[202507100400]",
+        "Condition": "",
+        "MainUI": "Dlc28Main",
+        "Icon": 2400020,
+        "TryID": [
+            290,
+            295
+        ],
+        "ShopID": [
+            133,
+            134
+        ],
+        "MissionID": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108
+        ],
+        "UnlockChapter": 22,
+        "OP": "",
+        "OpUmg": "",
+        "Preload": 15200,
+        "Preview": 15210,
+        "Defend": 0,
+        "DlcFuncConfId": "{Refresh=22,Sevendays=4,Defense=28,Teamboss=5,Event=73,Bagrogue=3,Former=287,Towerrush=78}"
+    },
+    {
+        "ID": 30,
+        "Coverage": "",
+        "StartTime": "[202507100400]",
+        "EndTime": "[202508151000]",
+        "EnterStartTime": "[202507100400]",
+        "CloseEndTime": "[202508210400]",
+        "Condition": "",
+        "MainUI": "Dlc30Main",
+        "Icon": 2400022,
+        "TryID": [
+            305,
+            311
+        ],
+        "ShopID": [
+            135,
+            136
+        ],
+        "MissionID": [
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116
+        ],
+        "UnlockChapter": 23,
+        "OP": "",
+        "OpUmg": "",
+        "Preload": 15210,
+        "Preview": 8031100,
+        "Defend": 0,
+        "DlcFuncConfId": "{Refresh=25,Defense=30,Teamboss=6,Richmen=4,Dice=1,Dorm=2,Farmwar=1,Vircapture=1,Dive=80}"
+    },
+    {
+        "ID": 31,
+        "Coverage": "",
+        "StartTime": "[202508211000]",
+        "EndTime": "[202509191000]",
+        "EnterStartTime": "[202508211000]",
+        "CloseEndTime": "[202509250400]",
+        "Condition": "",
+        "MainUI": "Dlc31Main",
+        "Icon": 2400024,
+        "TryID": [
+            339,
+            343
+        ],
+        "ShopID": [
+            137,
+            138
+        ],
+        "MissionID": [
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123
+        ],
+        "UnlockChapter": 24,
+        "OP": "",
+        "OpUmg": "",
+        "Preload": 8031100,
+        "Preview": 8032100,
+        "Defend": 0,
+        "DlcFuncConfId": "{Refresh=26,Defense=31,Teamboss=7,Former=337,Sevendays=5,Event=83,Event2=85}"
+    },
+    {
+        "ID": 32,
+        "Coverage": "",
+        "StartTime": "[202509250400]",
+        "EndTime": "[202510311000]",
+        "EnterStartTime": "[202509250400]",
+        "CloseEndTime": "[202511060400]",
+        "Condition": "",
+        "MainUI": "Dlc32Main",
+        "Icon": 2400025,
+        "TryID": [
+            357,
+            368
+        ],
+        "ShopID": [
+            139,
+            140
+        ],
+        "MissionID": [
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131
+        ],
+        "UnlockChapter": "",
+        "OP": "",
+        "OpUmg": "",
+        "Preload": 8032100,
+        "Preview": 507200,
+        "Defend": 0,
+        "DlcFuncConfId": "{Story=31,Refresh=32,Defense=32,Teamboss=8,Onlinesea=88,Throw=1,Mow=3,Rush=92,Rogue=7,Rmol=1}"
+    },
+    {
+        "ID": 33,
+        "Coverage": "",
+        "StartTime": "[202511060400]",
+        "EndTime": "[202512121500]",
+        "EnterStartTime": "[202511060400]",
+        "CloseEndTime": "[202512180400]",
+        "Condition": "",
+        "MainUI": "Dlc33Main",
+        "Icon": 2400026,
+        "TryID": [
+            394,
+            398
+        ],
+        "ShopID": [
+            141,
+            142
+        ],
+        "MissionID": [
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138
+        ],
+        "UnlockChapter": 26,
+        "OP": "",
+        "OpUmg": "",
+        "Preload": 507200,
+        "Preview": 508200,
+        "Defend": 0,
+        "DlcFuncConfId": "{Refresh=33,Defense=33,Teamboss=9,Former=389,Puzzle=390,ClimbTower=1,Onlinepurge=98,Towerrush=95}"
+    },
+    {
+        "ID": 34,
+        "Coverage": "",
+        "StartTime": "[202512180400]",
+        "EndTime": "[202601231500]",
+        "EnterStartTime": "[202512180400]",
+        "CloseEndTime": "[202601290400]",
+        "Condition": "",
+        "MainUI": "Dlc34Main",
+        "Icon": 2400027,
+        "TryID": [
+            407,
+            410
+        ],
+        "ShopID": [
+            143,
+            144
+        ],
+        "MissionID": [
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145
+        ],
+        "UnlockChapter": 27,
+        "OP": "",
+        "OpUmg": "",
+        "Preload": 508200,
+        "Preview": 16200,
+        "Defend": 0,
+        "DlcFuncConfId": "{Refresh=34,Defense=34,Worldboss=1,Farmwar=2,Rush=103,Event=100,Celebrate=1,Puzzle=417}"
+    },
+    {
+        "ID": 35,
+        "Coverage": "",
+        "StartTime": "[202601290400]",
+        "EndTime": "[202602282000]",
+        "EnterStartTime": "[202601290400]",
+        "CloseEndTime": "[202603120400]",
+        "Condition": "",
+        "MainUI": "Dlc35Main",
+        "Icon": 2400028,
+        "TryID": [
+            561,
+            576
+        ],
+        "ShopID": [
+            145,
+            146
+        ],
+        "MissionID": [
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152
+        ],
+        "UnlockChapter": 28,
+        "OP": "",
+        "OpUmg": "",
+        "Preload": 16200,
+        "Preview": 509200,
+        "Defend": 0,
+        "DlcFuncConfId": "{Refresh=35,Defense=35,Dorm=3,Mow=4,Rush=105,Teamboss=10,ArcadeGame=1,Assaultops=106,Donoduel=1}"
+    },
+    {
+        "ID": 36,
+        "Coverage": "",
+        "StartTime": "[202603120400]",
+        "EndTime": "[202604171500]",
+        "EnterStartTime": "[202603120400]",
+        "CloseEndTime": "[202604230400]",
+        "Condition": "",
+        "MainUI": "Dlc36Main",
+        "Icon": 2400030,
+        "TryID": [
+            605,
+            608
+        ],
+        "ShopID": [
+            147,
+            148,
+            145,
+            146
+        ],
+        "MissionID": [
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160
+        ],
+        "UnlockChapter": 29,
+        "OP": "",
+        "OpUmg": "",
+        "Preload": 509200,
+        "Preview": 17200,
+        "Defend": 0,
+        "DlcFuncConfId": "{Refresh=38,Defense=36,Former=600,Onlinesea=108,Onlinepurge=113,Teamboss=11,Rush=117,Sevendays=6,Puzzle=602}"
+    }
+]

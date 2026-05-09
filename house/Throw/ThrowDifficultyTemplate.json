@@ -1,0 +1,427 @@
+[
+    {
+        "DifficultyID": 1,
+        "Type": 1,
+        "CircleSize": {
+            "0.9": 1
+        },
+        "CircleSpeed": {
+            "1.2": 1.2
+        },
+        "AccumulateTime": [
+            3
+        ]
+    },
+    {
+        "DifficultyID": 2,
+        "Type": 2,
+        "CircleSize": {
+            "0.9": 0.9
+        },
+        "CircleSpeed": {
+            "1": 1.1
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 3,
+        "Type": 3,
+        "CircleSize": {
+            "0.9": 0.9
+        },
+        "CircleSpeed": {
+            "1.2": 1.2
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 4,
+        "Type": 2,
+        "CircleSize": {
+            "1.1": 1.2
+        },
+        "CircleSpeed": {
+            "1.2": 1.2
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 5,
+        "Type": 3,
+        "CircleSize": {
+            "1": 1
+        },
+        "CircleSpeed": {
+            "1.2": 1.2
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 6,
+        "Type": 2,
+        "CircleSize": {
+            "0.9": 0.9
+        },
+        "CircleSpeed": {
+            "1": 1
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 7,
+        "Type": 1,
+        "CircleSize": {
+            "0.9": 1
+        },
+        "CircleSpeed": {
+            "1.2": 1.2
+        },
+        "AccumulateTime": [
+            3
+        ]
+    },
+    {
+        "DifficultyID": 8,
+        "Type": 3,
+        "CircleSize": {
+            "1.1": 1.2
+        },
+        "CircleSpeed": {
+            "1.2": 1.2
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 9,
+        "Type": 3,
+        "CircleSize": {
+            "0.9": 0.9
+        },
+        "CircleSpeed": {
+            "1": 1.1
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 10,
+        "Type": 3,
+        "CircleSize": {
+            "0.9": 0.9
+        },
+        "CircleSpeed": {
+            "1.2": 1.2
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 11,
+        "Type": 2,
+        "CircleSize": {
+            "1.1": 1.2
+        },
+        "CircleSpeed": {
+            "1.2": 1.2
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 12,
+        "Type": 2,
+        "CircleSize": {
+            "0.9": 0.9
+        },
+        "CircleSpeed": {
+            "1": 1.1
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 13,
+        "Type": 1,
+        "CircleSize": {
+            "0.9": 0.9
+        },
+        "CircleSpeed": {
+            "1.2": 1.2
+        },
+        "AccumulateTime": [
+            3
+        ]
+    },
+    {
+        "DifficultyID": 14,
+        "Type": 3,
+        "CircleSize": {
+            "1.1": 1.2
+        },
+        "CircleSpeed": {
+            "1.2": 1.2
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 15,
+        "Type": 2,
+        "CircleSize": {
+            "0.9": 0.9
+        },
+        "CircleSpeed": {
+            "1": 1
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 101,
+        "Type": 1,
+        "CircleSize": {
+            "1": 1
+        },
+        "CircleSpeed": {
+            "1": 1
+        },
+        "AccumulateTime": [
+            3
+        ]
+    },
+    {
+        "DifficultyID": 102,
+        "Type": 2,
+        "CircleSize": {
+            "1": 1
+        },
+        "CircleSpeed": {
+            "1": 1
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 103,
+        "Type": 3,
+        "CircleSize": {
+            "1": 1
+        },
+        "CircleSpeed": {
+            "1": 1
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 111,
+        "Type": 1,
+        "CircleSize": {
+            "0.9": 1
+        },
+        "CircleSpeed": {
+            "1": 1.1
+        },
+        "AccumulateTime": [
+            3
+        ]
+    },
+    {
+        "DifficultyID": 112,
+        "Type": 1,
+        "CircleSize": {
+            "1.0": 1.1
+        },
+        "CircleSpeed": {
+            "1.2": 1.2
+        },
+        "AccumulateTime": [
+            3
+        ]
+    },
+    {
+        "DifficultyID": 113,
+        "Type": 1,
+        "CircleSize": {
+            "0.9": 1
+        },
+        "CircleSpeed": {
+            "1.2": 1.2
+        },
+        "AccumulateTime": [
+            3
+        ]
+    },
+    {
+        "DifficultyID": 114,
+        "Type": 1,
+        "CircleSize": {
+            "0.9": 0.9
+        },
+        "CircleSpeed": {
+            "1": 1.1
+        },
+        "AccumulateTime": [
+            3
+        ]
+    },
+    {
+        "DifficultyID": 115,
+        "Type": 1,
+        "CircleSize": {
+            "0.9": 0.9
+        },
+        "CircleSpeed": {
+            "1.2": 1.2
+        },
+        "AccumulateTime": [
+            3
+        ]
+    },
+    {
+        "DifficultyID": 121,
+        "Type": 2,
+        "CircleSize": {
+            "1": 1
+        },
+        "CircleSpeed": {
+            "1": 1
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 122,
+        "Type": 2,
+        "CircleSize": {
+            "1.1": 1.2
+        },
+        "CircleSpeed": {
+            "1.2": 1.2
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 123,
+        "Type": 2,
+        "CircleSize": {
+            "0.9": 1
+        },
+        "CircleSpeed": {
+            "1.1": 1.1
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 131,
+        "Type": 3,
+        "CircleSize": {
+            "0.9": 1
+        },
+        "CircleSpeed": {
+            "1": 1.1
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 132,
+        "Type": 3,
+        "CircleSize": {
+            "1.0": 1.1
+        },
+        "CircleSpeed": {
+            "1.2": 1.2
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 133,
+        "Type": 3,
+        "CircleSize": {
+            "1": 1
+        },
+        "CircleSpeed": {
+            "1.2": 1.2
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 134,
+        "Type": 3,
+        "CircleSize": {
+            "0.9": 0.9
+        },
+        "CircleSpeed": {
+            "1.2": 1.2
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    },
+    {
+        "DifficultyID": 135,
+        "Type": 3,
+        "CircleSize": {
+            "0.9": 0.9
+        },
+        "CircleSpeed": {
+            "1": 1.1
+        },
+        "AccumulateTime": [
+            3,
+            3
+        ]
+    }
+]

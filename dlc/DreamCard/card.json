@@ -1,0 +1,7291 @@
+[
+    {
+        "CardID": 1,
+        "Ifunlock": 1,
+        "CardUIID": 4102002,
+        "IconID": "",
+        "Name": "dreamcard.card_name01",
+        "Des": "dreamcard.card_desc01",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 1,
+        "Tag": "",
+        "Energy": 90,
+        "EffectID": [
+            1
+        ],
+        "Count": [
+            [
+                5
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 2,
+        "Ifunlock": 1,
+        "CardUIID": 4102003,
+        "IconID": "",
+        "Name": "dreamcard.card_name02",
+        "Des": "dreamcard.card_desc02",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 1,
+        "Tag": 0,
+        "Energy": 90,
+        "EffectID": [
+            2
+        ],
+        "Count": [
+            [
+                1
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 3,
+        "Ifunlock": 1,
+        "CardUIID": 4102004,
+        "IconID": "",
+        "Name": "dreamcard.card_name03",
+        "Des": "dreamcard.card_desc03",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 1,
+        "Tag": 0,
+        "Energy": 0,
+        "EffectID": [
+            3,
+            129
+        ],
+        "Count": [
+            [
+                1,
+                0.25
+            ],
+            [
+                2,
+                1,
+                5
+            ]
+        ],
+        "DescParam": [
+            1,
+            25,
+            2,
+            5
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            2
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 4,
+        "Ifunlock": 1,
+        "CardUIID": 4102005,
+        "IconID": "",
+        "Name": "dreamcard.card_name04",
+        "Des": "dreamcard.card_desc04",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 1,
+        "Tag": 0,
+        "Energy": 0,
+        "EffectID": [
+            4
+        ],
+        "Count": {
+            "1": 1
+        },
+        "DescParam": [
+            1,
+            100
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 5,
+        "Ifunlock": 1,
+        "CardUIID": 4102006,
+        "IconID": "",
+        "Name": "dreamcard.card_name05",
+        "Des": "",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 1,
+        "Tag": 1,
+        "Energy": 30,
+        "EffectID": "",
+        "Count": "",
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 6,
+        "Ifunlock": 1,
+        "CardUIID": 4102007,
+        "IconID": "",
+        "Name": "dreamcard.card_name06",
+        "Des": "",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 1,
+        "Tag": 1,
+        "Energy": 45,
+        "EffectID": "",
+        "Count": "",
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 7,
+        "Ifunlock": 1,
+        "CardUIID": 4102008,
+        "IconID": "",
+        "Name": "dreamcard.card_name07",
+        "Des": "",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 1,
+        "Tag": 1,
+        "Energy": 60,
+        "EffectID": "",
+        "Count": "",
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 8,
+        "Ifunlock": 1,
+        "CardUIID": 4102009,
+        "IconID": "",
+        "Name": "dreamcard.card_name08",
+        "Des": "",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 1,
+        "Tag": 1,
+        "Energy": 150,
+        "EffectID": "",
+        "Count": "",
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 9,
+        "Ifunlock": 1,
+        "CardUIID": 4103002,
+        "IconID": "",
+        "Name": "dreamcard.card_name09",
+        "Des": "dreamcard.card_desc09",
+        "CardType": 1,
+        "Star": 1,
+        "BuildID": 1,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            20
+        ],
+        "Count": [
+            [
+                120
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            1
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 10,
+        "Ifunlock": 1,
+        "CardUIID": 4103003,
+        "IconID": "",
+        "Name": "dreamcard.card_name10",
+        "Des": "dreamcard.card_desc10",
+        "CardType": 1,
+        "Star": 1,
+        "BuildID": 1,
+        "Tag": "",
+        "Energy": -60.0,
+        "EffectID": [
+            1001
+        ],
+        "Count": [
+            [
+                4
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 1,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            12
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 11,
+        "Ifunlock": 1,
+        "CardUIID": 4103004,
+        "IconID": "",
+        "Name": "dreamcard.card_name11",
+        "Des": "dreamcard.card_desc11",
+        "CardType": 1,
+        "Star": 1,
+        "BuildID": 1,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            21
+        ],
+        "Count": {
+            "6": 1
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 12,
+        "Ifunlock": 1,
+        "CardUIID": 4103005,
+        "IconID": "",
+        "Name": "dreamcard.card_name12",
+        "Des": "dreamcard.card_desc12",
+        "CardType": 1,
+        "Star": 2,
+        "BuildID": 1,
+        "Tag": "",
+        "Energy": 0,
+        "EffectID": [
+            1002
+        ],
+        "Count": {
+            "2": 450
+        },
+        "DescParam": "",
+        "IFUse": 1,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            12
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 13,
+        "Ifunlock": 0,
+        "CardUIID": 4103006,
+        "IconID": "",
+        "Name": "dreamcard.card_name13",
+        "Des": "dreamcard.card_desc13",
+        "CardType": 1,
+        "Star": 2,
+        "BuildID": 1,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            22
+        ],
+        "Count": {
+            "10": 330
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            1
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 14,
+        "Ifunlock": 0,
+        "CardUIID": 4103007,
+        "IconID": "",
+        "Name": "dreamcard.card_name14",
+        "Des": "dreamcard.card_desc14",
+        "CardType": 1,
+        "Star": 3,
+        "BuildID": 1,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            11
+        ],
+        "Count": {
+            "1": 1
+        },
+        "DescParam": [
+            100
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 15,
+        "Ifunlock": 0,
+        "CardUIID": 4103008,
+        "IconID": "",
+        "Name": "dreamcard.card_name15",
+        "Des": "dreamcard.card_desc15",
+        "CardType": 1,
+        "Star": 3,
+        "BuildID": 1,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            60
+        ],
+        "Count": [
+            [
+                120
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 16,
+        "Ifunlock": 0,
+        "CardUIID": 4103009,
+        "IconID": "",
+        "Name": "dreamcard.card_name16",
+        "Des": "dreamcard.card_desc16",
+        "CardType": 1,
+        "Star": 3,
+        "BuildID": 1,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            61
+        ],
+        "Count": [
+            [
+                480
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            1
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 17,
+        "Ifunlock": 0,
+        "CardUIID": 4103010,
+        "IconID": "",
+        "Name": "dreamcard.card_name17",
+        "Des": "dreamcard.card_desc17",
+        "CardType": 1,
+        "Star": 4,
+        "BuildID": 1,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            1003
+        ],
+        "Count": {
+            "1500": 1
+        },
+        "DescParam": "",
+        "IFUse": 1,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            12
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 18,
+        "Ifunlock": 0,
+        "CardUIID": 4103011,
+        "IconID": "",
+        "Name": "dreamcard.card_name18",
+        "Des": "dreamcard.card_desc18",
+        "CardType": 1,
+        "Star": 2,
+        "BuildID": 1,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            62
+        ],
+        "Count": {
+            "0": 2
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 19,
+        "Ifunlock": 0,
+        "CardUIID": 4102010,
+        "IconID": "",
+        "Name": "dreamcard.card_name19",
+        "Des": "dreamcard.card_desc19",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 2,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            27
+        ],
+        "Count": [
+            [
+                60
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            1
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 20,
+        "Ifunlock": 0,
+        "CardUIID": 4102011,
+        "IconID": "",
+        "Name": "dreamcard.card_name20",
+        "Des": "dreamcard.card_desc20",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 2,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            123,
+            26
+        ],
+        "Count": [
+            [
+                3,
+                1,
+                102
+            ],
+            []
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 21,
+        "Ifunlock": 0,
+        "CardUIID": 4102012,
+        "IconID": "",
+        "Name": "dreamcard.card_name21",
+        "Des": "dreamcard.card_desc21",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 2,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            19
+        ],
+        "Count": {
+            "1": 2
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 22,
+        "Ifunlock": 0,
+        "CardUIID": 4102013,
+        "IconID": "",
+        "Name": "dreamcard.card_name22",
+        "Des": "dreamcard.card_desc22",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 2,
+        "Tag": 2,
+        "Energy": 30,
+        "EffectID": [
+            24,
+            1
+        ],
+        "Count": [
+            [
+                5
+            ],
+            [
+                2
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            2
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 23,
+        "Ifunlock": 0,
+        "CardUIID": 4102014,
+        "IconID": "",
+        "Name": "dreamcard.card_name23",
+        "Des": "dreamcard.card_desc23",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 2,
+        "Tag": 2,
+        "Energy": 45,
+        "EffectID": [
+            126
+        ],
+        "Count": {
+            "[26]": 0.5
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 24,
+        "Ifunlock": 0,
+        "CardUIID": 4102015,
+        "IconID": "",
+        "Name": "dreamcard.card_name24",
+        "Des": "dreamcard.card_desc24",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 2,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            17
+        ],
+        "Count": [
+            [
+                2,
+                1,
+                2
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 25,
+        "Ifunlock": 0,
+        "CardUIID": 4102016,
+        "IconID": "",
+        "Name": "dreamcard.card_name25",
+        "Des": "dreamcard.card_desc25",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 2,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            8,
+            1
+        ],
+        "Count": [
+            [
+                22,
+                27
+            ],
+            [
+                2
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 26,
+        "Ifunlock": 0,
+        "CardUIID": 4102017,
+        "IconID": "",
+        "Name": "dreamcard.card_name26",
+        "Des": "dreamcard.card_desc26",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 2,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            63,
+            26
+        ],
+        "Count": [
+            [
+                23
+            ],
+            []
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 27,
+        "Ifunlock": 0,
+        "CardUIID": 4102018,
+        "IconID": "",
+        "Name": "dreamcard.card_name27",
+        "Des": "dreamcard.card_desc27",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 2,
+        "Tag": 2,
+        "Energy": 60,
+        "EffectID": [
+            25,
+            1
+        ],
+        "Count": [
+            [
+                60
+            ],
+            [
+                3
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            2
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 28,
+        "Ifunlock": 0,
+        "CardUIID": 4102019,
+        "IconID": "",
+        "Name": "dreamcard.card_name28",
+        "Des": "dreamcard.card_desc28",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 2,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            5,
+            7,
+            26
+        ],
+        "Count": [
+            [
+                0.25
+            ],
+            [
+                [
+                    26
+                ],
+                3
+            ],
+            []
+        ],
+        "DescParam": [
+            300,
+            25
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            2
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 29,
+        "Ifunlock": 0,
+        "CardUIID": 4102020,
+        "IconID": "",
+        "Name": "dreamcard.card_name29",
+        "Des": "dreamcard.card_desc29",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 2,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            54,
+            63
+        ],
+        "Count": [
+            [
+                4,
+                1
+            ],
+            [
+                29
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 30,
+        "Ifunlock": 0,
+        "CardUIID": 4102021,
+        "IconID": "",
+        "Name": "dreamcard.card_name30",
+        "Des": "dreamcard.card_desc30",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 2,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            64
+        ],
+        "Count": [
+            [
+                2,
+                31,
+                75
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 31,
+        "Ifunlock": 0,
+        "CardUIID": 4102022,
+        "IconID": "",
+        "Name": "dreamcard.card_name31",
+        "Des": "dreamcard.card_desc31",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 2,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            65
+        ],
+        "Count": [
+            [
+                4,
+                30,
+                3
+            ]
+        ],
+        "DescParam": [
+            4,
+            300
+        ],
+        "IFUse": 0,
+        "IFrand": 0,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 32,
+        "Ifunlock": 0,
+        "CardUIID": 4103012,
+        "IconID": "",
+        "Name": "dreamcard.card_name32",
+        "Des": "dreamcard.card_desc32",
+        "CardType": 1,
+        "Star": 1,
+        "BuildID": 2,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            124
+        ],
+        "Count": {
+            "[22, 27]": 5
+        },
+        "DescParam": [
+            5
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 33,
+        "Ifunlock": 0,
+        "CardUIID": 4103013,
+        "IconID": "",
+        "Name": "dreamcard.card_name33",
+        "Des": "dreamcard.card_desc33",
+        "CardType": 1,
+        "Star": 2,
+        "BuildID": 2,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            67
+        ],
+        "Count": {
+            "4": 26
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 34,
+        "Ifunlock": 0,
+        "CardUIID": 4102023,
+        "IconID": "",
+        "Name": "dreamcard.card_name34",
+        "Des": "",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 3,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": "",
+        "Count": "",
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 35,
+        "Ifunlock": 0,
+        "CardUIID": 4102024,
+        "IconID": "",
+        "Name": "dreamcard.card_name35",
+        "Des": "dreamcard.card_desc35",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 3,
+        "Tag": 3,
+        "Energy": 30,
+        "EffectID": [
+            125
+        ],
+        "Count": [
+            [
+                1,
+                34,
+                99,
+                80,
+                6
+            ]
+        ],
+        "DescParam": [
+            1,
+            80,
+            6
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            1
+        ],
+        "Disapself": [],
+        "Actother": [
+            3
+        ]
+    },
+    {
+        "CardID": 36,
+        "Ifunlock": 0,
+        "CardUIID": 4102025,
+        "IconID": "",
+        "Name": "dreamcard.card_name36",
+        "Des": "dreamcard.card_desc36",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 3,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            128
+        ],
+        "Count": [
+            [
+                1,
+                3,
+                39,
+                0.5
+            ]
+        ],
+        "DescParam": [
+            50
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 37,
+        "Ifunlock": 0,
+        "CardUIID": 4102026,
+        "IconID": "",
+        "Name": "dreamcard.card_name37",
+        "Des": "dreamcard.card_desc37",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 3,
+        "Tag": 3,
+        "Energy": 30,
+        "EffectID": [
+            87
+        ],
+        "Count": [
+            [
+                40,
+                40,
+                3
+            ]
+        ],
+        "DescParam": [
+            3
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            6
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": [
+            6,
+            1
+        ]
+    },
+    {
+        "CardID": 38,
+        "Ifunlock": 0,
+        "CardUIID": 4102027,
+        "IconID": "",
+        "Name": "dreamcard.card_name38",
+        "Des": "dreamcard.card_desc38",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 3,
+        "Tag": 3,
+        "Energy": 45,
+        "EffectID": [
+            95
+        ],
+        "Count": [
+            [
+                34,
+                1,
+                3,
+                36,
+                30
+            ]
+        ],
+        "DescParam": [
+            3,
+            30
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": [
+            3,
+            1
+        ]
+    },
+    {
+        "CardID": 39,
+        "Ifunlock": 0,
+        "CardUIID": 4102028,
+        "IconID": "",
+        "Name": "dreamcard.card_name39",
+        "Des": "dreamcard.card_desc39",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 3,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            57
+        ],
+        "Count": [
+            [
+                3,
+                36,
+                30
+            ]
+        ],
+        "DescParam": [
+            3,
+            30
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 40,
+        "Ifunlock": 0,
+        "CardUIID": 4102029,
+        "IconID": "",
+        "Name": "dreamcard.card_name40",
+        "Des": "dreamcard.card_desc40",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 3,
+        "Tag": 3,
+        "Energy": 45,
+        "EffectID": [
+            48,
+            1
+        ],
+        "Count": [
+            [
+                40
+            ],
+            [
+                9
+            ]
+        ],
+        "DescParam": [
+            40,
+            9
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            1
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 41,
+        "Ifunlock": 0,
+        "CardUIID": 4102030,
+        "IconID": "",
+        "Name": "dreamcard.card_name41",
+        "Des": "dreamcard.card_desc41",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 3,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            37
+        ],
+        "Count": {
+            "[36, 37, 39]": 90
+        },
+        "DescParam": [
+            90
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": [
+            6
+        ]
+    },
+    {
+        "CardID": 42,
+        "Ifunlock": 0,
+        "CardUIID": 4102031,
+        "IconID": "",
+        "Name": "dreamcard.card_name42",
+        "Des": "dreamcard.card_desc42",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 3,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            10
+        ],
+        "Count": [
+            [
+                1,
+                6,
+                34
+            ]
+        ],
+        "DescParam": [
+            6
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 43,
+        "Ifunlock": 0,
+        "CardUIID": 4102032,
+        "IconID": "",
+        "Name": "dreamcard.card_name43",
+        "Des": "dreamcard.card_desc43",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 3,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            33,
+            34
+        ],
+        "Count": {
+            "3": 10
+        },
+        "DescParam": [
+            100,
+            10
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 44,
+        "Ifunlock": 0,
+        "CardUIID": 4102033,
+        "IconID": "",
+        "Name": "dreamcard.card_name44",
+        "Des": "dreamcard.card_desc44",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 3,
+        "Tag": 3,
+        "Energy": 60,
+        "EffectID": [
+            58
+        ],
+        "Count": [
+            [
+                0.5
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            7
+        ],
+        "Disapself": [],
+        "Actother": [
+            8
+        ]
+    },
+    {
+        "CardID": 45,
+        "Ifunlock": 0,
+        "CardUIID": 4102034,
+        "IconID": "",
+        "Name": "dreamcard.card_name45",
+        "Des": "dreamcard.card_desc45",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 3,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            5,
+            86,
+            26
+        ],
+        "Count": [
+            [
+                1.25
+            ],
+            [
+                36,
+                5
+            ],
+            []
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            2
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 46,
+        "Ifunlock": 0,
+        "CardUIID": 4102035,
+        "IconID": "",
+        "Name": "dreamcard.card_name46",
+        "Des": "dreamcard.card_desc46",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 3,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            31
+        ],
+        "Count": [
+            [
+                3,
+                1,
+                37
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 47,
+        "Ifunlock": 0,
+        "CardUIID": 4103014,
+        "IconID": "",
+        "Name": "dreamcard.card_name47",
+        "Des": "dreamcard.card_desc47",
+        "CardType": 1,
+        "Star": 1,
+        "BuildID": 3,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            45,
+            31
+        ],
+        "Count": [
+            [
+                3,
+                42
+            ],
+            [
+                3,
+                1,
+                42
+            ]
+        ],
+        "DescParam": [
+            3,
+            3,
+            1
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 48,
+        "Ifunlock": 0,
+        "CardUIID": 4103015,
+        "IconID": "",
+        "Name": "dreamcard.card_name48",
+        "Des": "dreamcard.card_desc48",
+        "CardType": 1,
+        "Star": 3,
+        "BuildID": 3,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            59,
+            78
+        ],
+        "Count": [
+            [
+                44,
+                2
+            ],
+            [
+                44
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 49,
+        "Ifunlock": 0,
+        "CardUIID": 4102036,
+        "IconID": "",
+        "Name": "dreamcard.card_name49",
+        "Des": "dreamcard.card_desc49",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 4,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            37
+        ],
+        "Count": {
+            "[50, 53]": 90
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": [
+            6
+        ]
+    },
+    {
+        "CardID": 50,
+        "Ifunlock": 0,
+        "CardUIID": 4102037,
+        "IconID": "",
+        "Name": "dreamcard.card_name50",
+        "Des": "dreamcard.card_desc50",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 4,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            13
+        ],
+        "Count": {
+            "53": 3
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 51,
+        "Ifunlock": 0,
+        "CardUIID": 4102038,
+        "IconID": "",
+        "Name": "dreamcard.card_name51",
+        "Des": "dreamcard.card_desc51",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 4,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            97
+        ],
+        "Count": [
+            [
+                1,
+                1,
+                30
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 52,
+        "Ifunlock": 0,
+        "CardUIID": 4102039,
+        "IconID": "",
+        "Name": "dreamcard.card_name52",
+        "Des": "dreamcard.card_desc52",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 4,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            98
+        ],
+        "Count": [
+            [
+                1,
+                50,
+                960
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 53,
+        "Ifunlock": 0,
+        "CardUIID": 4102040,
+        "IconID": "",
+        "Name": "dreamcard.card_name53",
+        "Des": "dreamcard.card_desc53",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 4,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            14,
+            80
+        ],
+        "Count": {
+            "400": 54,
+            "1": 2
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            1,
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 54,
+        "Ifunlock": 0,
+        "CardUIID": 4102041,
+        "IconID": "",
+        "Name": "dreamcard.card_name54",
+        "Des": "dreamcard.card_desc54",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 4,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            14,
+            81
+        ],
+        "Count": {
+            "10": 55,
+            "1": 10
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 0,
+        "TechnicalTerm": "",
+        "Actself": [
+            1,
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 55,
+        "Ifunlock": 0,
+        "CardUIID": 4102042,
+        "IconID": "",
+        "Name": "dreamcard.card_name55",
+        "Des": "dreamcard.card_desc55",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 4,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            111,
+            101
+        ],
+        "Count": {
+            "56": 5,
+            "3": 56
+        },
+        "DescParam": [
+            1,
+            5,
+            3
+        ],
+        "IFUse": 0,
+        "IFrand": 0,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            3
+        ]
+    },
+    {
+        "CardID": 56,
+        "Ifunlock": 0,
+        "CardUIID": 4102043,
+        "IconID": "",
+        "Name": "dreamcard.card_name56",
+        "Des": "dreamcard.card_desc56",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 4,
+        "Tag": "",
+        "Energy": 0,
+        "EffectID": [
+            103,
+            1
+        ],
+        "Count": [
+            [
+                [
+                    54,
+                    55
+                ],
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "DescParam": [
+            100
+        ],
+        "IFUse": 0,
+        "IFrand": 0,
+        "TechnicalTerm": "",
+        "Actself": [
+            1
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 57,
+        "Ifunlock": 0,
+        "CardUIID": 4102044,
+        "IconID": "",
+        "Name": "dreamcard.card_name57",
+        "Des": "dreamcard.card_desc57",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 4,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            104
+        ],
+        "Count": [
+            [
+                1,
+                1800,
+                [
+                    53,
+                    54
+                ],
+                5
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 58,
+        "Ifunlock": 0,
+        "CardUIID": 4102045,
+        "IconID": "",
+        "Name": "dreamcard.card_name58",
+        "Des": "dreamcard.card_desc58",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 4,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            105
+        ],
+        "Count": [
+            [
+                53
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            6
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": [
+            6
+        ]
+    },
+    {
+        "CardID": 59,
+        "Ifunlock": 0,
+        "CardUIID": 4102046,
+        "IconID": "",
+        "Name": "dreamcard.card_name59",
+        "Des": "dreamcard.card_desc59",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 4,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            106,
+            107
+        ],
+        "Count": {
+            "[53, 54]": 1,
+            "[54, 55]": 2
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 60,
+        "Ifunlock": 0,
+        "CardUIID": 4102047,
+        "IconID": "",
+        "Name": "dreamcard.card_name60",
+        "Des": "dreamcard.card_desc60",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 4,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            108,
+            106,
+            26
+        ],
+        "Count": [
+            [
+                [
+                    54,
+                    55
+                ],
+                30
+            ],
+            [
+                [
+                    55
+                ],
+                1
+            ],
+            []
+        ],
+        "DescParam": [
+            30,
+            1
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 61,
+        "Ifunlock": 0,
+        "CardUIID": 4103016,
+        "IconID": "",
+        "Name": "dreamcard.card_name61",
+        "Des": "dreamcard.card_desc61",
+        "CardType": 1,
+        "Star": 3,
+        "BuildID": 4,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            7
+        ],
+        "Count": {
+            "[56]": 1
+        },
+        "DescParam": [
+            100
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 62,
+        "Ifunlock": 0,
+        "CardUIID": 4102048,
+        "IconID": "",
+        "Name": "dreamcard.card_name62",
+        "Des": "dreamcard.card_desc62",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 5,
+        "Tag": 4,
+        "Energy": 30,
+        "EffectID": [
+            35
+        ],
+        "Count": [
+            [
+                600
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 63,
+        "Ifunlock": 0,
+        "CardUIID": 4102049,
+        "IconID": "",
+        "Name": "dreamcard.card_name63",
+        "Des": "dreamcard.card_desc63",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 5,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            69
+        ],
+        "Count": [
+            [
+                240
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            1
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 64,
+        "Ifunlock": 0,
+        "CardUIID": 4102050,
+        "IconID": "",
+        "Name": "dreamcard.card_name64",
+        "Des": "dreamcard.card_desc64",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 5,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            70
+        ],
+        "Count": [
+            [
+                4
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            6
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": [
+            6,
+            3
+        ]
+    },
+    {
+        "CardID": 65,
+        "Ifunlock": 0,
+        "CardUIID": 4102051,
+        "IconID": "",
+        "Name": "dreamcard.card_name65",
+        "Des": "dreamcard.card_desc65",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 5,
+        "Tag": 5,
+        "Energy": 30,
+        "EffectID": [
+            10
+        ],
+        "Count": [
+            [
+                2,
+                2,
+                62
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 66,
+        "Ifunlock": 0,
+        "CardUIID": 4102052,
+        "IconID": "",
+        "Name": "dreamcard.card_name66",
+        "Des": "dreamcard.card_desc66",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 5,
+        "Tag": 6,
+        "Energy": 45,
+        "EffectID": [
+            71,
+            26
+        ],
+        "Count": [
+            [
+                [
+                    4,
+                    5
+                ],
+                6,
+                5
+            ],
+            []
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 67,
+        "Ifunlock": 0,
+        "CardUIID": 4102053,
+        "IconID": "",
+        "Name": "dreamcard.card_name67",
+        "Des": "dreamcard.card_desc67",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 5,
+        "Tag": 6,
+        "Energy": 45,
+        "EffectID": [
+            48
+        ],
+        "Count": [
+            [
+                5
+            ]
+        ],
+        "DescParam": [
+            5
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            1
+        ],
+        "Disapself": [],
+        "Actother": [
+            6
+        ]
+    },
+    {
+        "CardID": 68,
+        "Ifunlock": 0,
+        "CardUIID": 4102054,
+        "IconID": "",
+        "Name": "dreamcard.card_name68",
+        "Des": "dreamcard.card_desc68",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 5,
+        "Tag": 6,
+        "Energy": 45,
+        "EffectID": [
+            15
+        ],
+        "Count": {
+            "6": 100
+        },
+        "DescParam": [
+            100
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            1
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 69,
+        "Ifunlock": 0,
+        "CardUIID": 4102055,
+        "IconID": "",
+        "Name": "dreamcard.card_name69",
+        "Des": "dreamcard.card_desc69",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 5,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            5,
+            28,
+            26
+        ],
+        "Count": [
+            [
+                0.25
+            ],
+            [
+                4
+            ],
+            []
+        ],
+        "DescParam": [
+            25
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            2
+        ],
+        "Disapself": [],
+        "Actother": [
+            3
+        ]
+    },
+    {
+        "CardID": 70,
+        "Ifunlock": 0,
+        "CardUIID": 4102056,
+        "IconID": "",
+        "Name": "dreamcard.card_name70",
+        "Des": "dreamcard.card_desc70",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 5,
+        "Tag": "",
+        "Energy": 480,
+        "EffectID": [
+            11,
+            1
+        ],
+        "Count": [
+            [
+                6,
+                1
+            ],
+            [
+                3
+            ]
+        ],
+        "DescParam": [
+            100,
+            3
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 71,
+        "Ifunlock": 0,
+        "CardUIID": 4102057,
+        "IconID": "",
+        "Name": "dreamcard.card_name71",
+        "Des": "dreamcard.card_desc71",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 5,
+        "Tag": 4,
+        "Energy": 60,
+        "EffectID": [
+            73
+        ],
+        "Count": [
+            [
+                2,
+                62,
+                6,
+                30
+            ]
+        ],
+        "DescParam": [
+            2,
+            30
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 72,
+        "Ifunlock": 0,
+        "CardUIID": 4102058,
+        "IconID": "",
+        "Name": "dreamcard.card_name72",
+        "Des": "dreamcard.card_desc72",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 5,
+        "Tag": 4,
+        "Energy": 75,
+        "EffectID": [
+            35
+        ],
+        "Count": [
+            [
+                1800
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 73,
+        "Ifunlock": 0,
+        "CardUIID": 4102059,
+        "IconID": "",
+        "Name": "dreamcard.card_name73",
+        "Des": "dreamcard.card_desc73",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 5,
+        "Tag": 5,
+        "Energy": 75,
+        "EffectID": [
+            17
+        ],
+        "Count": [
+            [
+                2,
+                2,
+                4
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 74,
+        "Ifunlock": 0,
+        "CardUIID": 4103017,
+        "IconID": "",
+        "Name": "dreamcard.card_name74",
+        "Des": "dreamcard.card_desc74",
+        "CardType": 1,
+        "Star": 1,
+        "BuildID": 5,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            74
+        ],
+        "Count": {
+            "4": 0.25
+        },
+        "DescParam": [
+            25
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 75,
+        "Ifunlock": 0,
+        "CardUIID": 4103018,
+        "IconID": "",
+        "Name": "dreamcard.card_name75",
+        "Des": "dreamcard.card_desc75",
+        "CardType": 1,
+        "Star": 2,
+        "BuildID": 5,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            1006
+        ],
+        "Count": [
+            []
+        ],
+        "DescParam": "",
+        "IFUse": 1,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": [
+            9
+        ]
+    },
+    {
+        "CardID": 76,
+        "Ifunlock": 0,
+        "CardUIID": 4103019,
+        "IconID": "",
+        "Name": "dreamcard.card_name76",
+        "Des": "dreamcard.card_desc76",
+        "CardType": 1,
+        "Star": 3,
+        "BuildID": 5,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            75
+        ],
+        "Count": [
+            [
+                5,
+                1,
+                65
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 77,
+        "Ifunlock": 0,
+        "CardUIID": 4102060,
+        "IconID": "",
+        "Name": "dreamcard.card_name77",
+        "Des": "dreamcard.card_desc77",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 6,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            94
+        ],
+        "Count": [
+            [
+                77,
+                10,
+                60
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 78,
+        "Ifunlock": 0,
+        "CardUIID": 4102061,
+        "IconID": "",
+        "Name": "dreamcard.card_name78",
+        "Des": "dreamcard.card_desc78",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 6,
+        "Tag": "",
+        "Energy": 150,
+        "EffectID": [
+            109,
+            1
+        ],
+        "Count": [
+            [
+                84
+            ],
+            [
+                3
+            ]
+        ],
+        "DescParam": [
+            3
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 79,
+        "Ifunlock": 0,
+        "CardUIID": 4102062,
+        "IconID": "",
+        "Name": "dreamcard.card_name79",
+        "Des": "dreamcard.card_desc79",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 6,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            110,
+            76
+        ],
+        "Count": [
+            [
+                5,
+                77,
+                10800
+            ],
+            [
+                [
+                    77
+                ],
+                1,
+                60
+            ]
+        ],
+        "DescParam": [
+            1,
+            60,
+            5,
+            10800
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            1
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": [
+            3
+        ]
+    },
+    {
+        "CardID": 80,
+        "Ifunlock": 0,
+        "CardUIID": 4102063,
+        "IconID": [
+            4102110,
+            4102111,
+            4102112,
+            4102113,
+            4102114,
+            4102115,
+            4102115
+        ],
+        "Name": "dreamcard.card_name80",
+        "Des": "dreamcard.card_desc80",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 6,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            113,
+            114
+        ],
+        "Count": [
+            [
+                3,
+                6
+            ],
+            [
+                45
+            ]
+        ],
+        "DescParam": [
+            3,
+            45
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 81,
+        "Ifunlock": 0,
+        "CardUIID": 4102064,
+        "IconID": "",
+        "Name": "dreamcard.card_name81",
+        "Des": "dreamcard.card_desc81",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 6,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            126
+        ],
+        "Count": {
+            "[77, 78, 80]": 0.25
+        },
+        "DescParam": [
+            25
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 82,
+        "Ifunlock": 0,
+        "CardUIID": 4102065,
+        "IconID": "",
+        "Name": "dreamcard.card_name82",
+        "Des": "dreamcard.card_desc82",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 6,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            50
+        ],
+        "Count": {
+            "3": 82
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 83,
+        "Ifunlock": 0,
+        "CardUIID": 4102066,
+        "IconID": "",
+        "Name": "dreamcard.card_name83",
+        "Des": "dreamcard.card_desc83",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 6,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            88
+        ],
+        "Count": {
+            "2": 20
+        },
+        "DescParam": [
+            2,
+            20
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 84,
+        "Ifunlock": 0,
+        "CardUIID": 4102067,
+        "IconID": "",
+        "Name": "dreamcard.card_name84",
+        "Des": "dreamcard.card_desc84",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 6,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            31,
+            1
+        ],
+        "Count": [
+            [
+                1,
+                3,
+                77
+            ],
+            [
+                3
+            ]
+        ],
+        "DescParam": [
+            3,
+            3
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 85,
+        "Ifunlock": 0,
+        "CardUIID": 4102068,
+        "IconID": "",
+        "Name": "dreamcard.card_name85",
+        "Des": "dreamcard.card_desc85",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 6,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            89,
+            90
+        ],
+        "Count": [
+            [
+                78,
+                120
+            ],
+            [
+                78,
+                1,
+                78
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            1,
+            4
+        ],
+        "Disapself": [],
+        "Actother": [
+            6
+        ]
+    },
+    {
+        "CardID": 86,
+        "Ifunlock": 0,
+        "CardUIID": 4102069,
+        "IconID": "",
+        "Name": "dreamcard.card_name86",
+        "Des": "dreamcard.card_desc86",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 6,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            5,
+            82,
+            26
+        ],
+        "Count": [
+            [
+                0.25
+            ],
+            [
+                79,
+                1,
+                79
+            ],
+            []
+        ],
+        "DescParam": [
+            25,
+            1
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 87,
+        "Ifunlock": 0,
+        "CardUIID": 4102070,
+        "IconID": "",
+        "Name": "dreamcard.card_name87",
+        "Des": "dreamcard.card_desc87",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 6,
+        "Tag": "",
+        "Energy": 750,
+        "EffectID": [
+            10
+        ],
+        "Count": [
+            [
+                1,
+                2,
+                79
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 88,
+        "Ifunlock": 0,
+        "CardUIID": 4103020,
+        "IconID": "",
+        "Name": "dreamcard.card_name88",
+        "Des": "dreamcard.card_desc88",
+        "CardType": 1,
+        "Star": 1,
+        "BuildID": 6,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            118,
+            119
+        ],
+        "Count": [
+            [
+                80
+            ],
+            [
+                80,
+                6,
+                1
+            ]
+        ],
+        "DescParam": [
+            100
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 89,
+        "Ifunlock": 0,
+        "CardUIID": 4103021,
+        "IconID": "",
+        "Name": "dreamcard.card_name89",
+        "Des": "dreamcard.card_desc89",
+        "CardType": 1,
+        "Star": 1,
+        "BuildID": 6,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            7,
+            47
+        ],
+        "Count": [
+            [
+                [
+                    79
+                ],
+                0.25
+            ],
+            [
+                79
+            ]
+        ],
+        "DescParam": [
+            25
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 90,
+        "Ifunlock": 0,
+        "CardUIID": 4103022,
+        "IconID": "",
+        "Name": "dreamcard.card_name90",
+        "Des": "dreamcard.card_desc90",
+        "CardType": 1,
+        "Star": 2,
+        "BuildID": 6,
+        "Tag": "",
+        "Energy": 0,
+        "EffectID": [
+            1005
+        ],
+        "Count": [
+            [
+                180
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 1,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            12
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 91,
+        "Ifunlock": 0,
+        "CardUIID": 4103023,
+        "IconID": "",
+        "Name": "dreamcard.card_name91",
+        "Des": "dreamcard.card_desc91",
+        "CardType": 1,
+        "Star": 3,
+        "BuildID": 6,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            112
+        ],
+        "Count": [
+            [
+                1,
+                1,
+                79,
+                1
+            ]
+        ],
+        "DescParam": [
+            1,
+            1,
+            1
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 92,
+        "Ifunlock": 0,
+        "CardUIID": 4102071,
+        "IconID": "",
+        "Name": "dreamcard.card_name92",
+        "Des": "dreamcard.card_desc92",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 7,
+        "Tag": 7,
+        "Energy": 30,
+        "EffectID": [
+            32
+        ],
+        "Count": [
+            [
+                30
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 93,
+        "Ifunlock": 0,
+        "CardUIID": 4102072,
+        "IconID": "",
+        "Name": "dreamcard.card_name93",
+        "Des": "dreamcard.card_desc93",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 7,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            52
+        ],
+        "Count": [
+            [
+                92,
+                1,
+                3,
+                93
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [],
+        "Actother": [
+            3
+        ]
+    },
+    {
+        "CardID": 94,
+        "Ifunlock": 0,
+        "CardUIID": 4102073,
+        "IconID": "",
+        "Name": "dreamcard.card_name94",
+        "Des": "dreamcard.card_desc94",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 7,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            10
+        ],
+        "Count": [
+            [
+                1,
+                2,
+                95
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 95,
+        "Ifunlock": 0,
+        "CardUIID": 4102074,
+        "IconID": "",
+        "Name": "dreamcard.card_name95",
+        "Des": "dreamcard.card_desc95",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 7,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            41
+        ],
+        "Count": {
+            "10": 92
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 0,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 96,
+        "Ifunlock": 0,
+        "CardUIID": 4102075,
+        "IconID": "",
+        "Name": "dreamcard.card_name96",
+        "Des": "dreamcard.card_desc96",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 7,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            91
+        ],
+        "Count": {
+            "95": 100
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 97,
+        "Ifunlock": 0,
+        "CardUIID": 4102076,
+        "IconID": "",
+        "Name": "dreamcard.card_name97",
+        "Des": "dreamcard.card_desc97",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 7,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            79
+        ],
+        "Count": [
+            [
+                [
+                    93,
+                    99
+                ],
+                1,
+                225
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            1
+        ],
+        "Disapself": [],
+        "Actother": [
+            3
+        ]
+    },
+    {
+        "CardID": 98,
+        "Ifunlock": 0,
+        "CardUIID": 4102077,
+        "IconID": "",
+        "Name": "dreamcard.card_name98",
+        "Des": "dreamcard.card_desc98",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 7,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            42,
+            1
+        ],
+        "Count": [
+            [
+                50,
+                1,
+                99
+            ],
+            [
+                8
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 99,
+        "Ifunlock": 0,
+        "CardUIID": 4102078,
+        "IconID": "",
+        "Name": "dreamcard.card_name99",
+        "Des": "dreamcard.card_desc99",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 7,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            35
+        ],
+        "Count": [
+            [
+                120
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 100,
+        "Ifunlock": 0,
+        "CardUIID": 4102079,
+        "IconID": "",
+        "Name": "dreamcard.card_name100",
+        "Des": "dreamcard.card_desc100",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 7,
+        "Tag": 7,
+        "Energy": 45,
+        "EffectID": [
+            84
+        ],
+        "Count": {
+            "93": 25
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 101,
+        "Ifunlock": 0,
+        "CardUIID": 4102080,
+        "IconID": "",
+        "Name": "dreamcard.card_name101",
+        "Des": "dreamcard.card_desc101",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 7,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            7,
+            26
+        ],
+        "Count": [
+            [
+                [
+                    97,
+                    105
+                ],
+                1
+            ],
+            []
+        ],
+        "DescParam": [
+            100
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 102,
+        "Ifunlock": 0,
+        "CardUIID": 4102081,
+        "IconID": "",
+        "Name": "dreamcard.card_name102",
+        "Des": "dreamcard.card_desc102",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 7,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            31
+        ],
+        "Count": [
+            [
+                2,
+                1,
+                93
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 103,
+        "Ifunlock": 0,
+        "CardUIID": 4102082,
+        "IconID": "",
+        "Name": "dreamcard.card_name103",
+        "Des": "dreamcard.card_desc103",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 7,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            51
+        ],
+        "Count": [
+            [
+                7,
+                4,
+                93,
+                15
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4,
+            1
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 104,
+        "Ifunlock": 0,
+        "CardUIID": 4102083,
+        "IconID": "",
+        "Name": "dreamcard.card_name104",
+        "Des": "dreamcard.card_desc104",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 7,
+        "Tag": 7,
+        "Energy": 75,
+        "EffectID": [
+            48
+        ],
+        "Count": [
+            [
+                5
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            1
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 105,
+        "Ifunlock": 0,
+        "CardUIID": 4102084,
+        "IconID": "",
+        "Name": "dreamcard.card_name105",
+        "Des": "dreamcard.card_desc105",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 7,
+        "Tag": "",
+        "Energy": 150,
+        "EffectID": [
+            92
+        ],
+        "Count": {
+            "1": 0.1
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            1
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 106,
+        "Ifunlock": 0,
+        "CardUIID": 4103024,
+        "IconID": "",
+        "Name": "dreamcard.card_name106",
+        "Des": "dreamcard.card_desc106",
+        "CardType": 1,
+        "Star": 1,
+        "BuildID": 7,
+        "Tag": "",
+        "Energy": 0,
+        "EffectID": [
+            40
+        ],
+        "Count": [
+            [
+                30
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 107,
+        "Ifunlock": 0,
+        "CardUIID": 4103025,
+        "IconID": "",
+        "Name": "dreamcard.card_name107",
+        "Des": "dreamcard.card_desc107",
+        "CardType": 1,
+        "Star": 2,
+        "BuildID": 7,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            1004
+        ],
+        "Count": {
+            "3": 97
+        },
+        "DescParam": "",
+        "IFUse": 1,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            12
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 108,
+        "Ifunlock": 0,
+        "CardUIID": 4103026,
+        "IconID": "",
+        "Name": "dreamcard.card_name108",
+        "Des": "dreamcard.card_desc108",
+        "CardType": 1,
+        "Star": 2,
+        "BuildID": 7,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            120
+        ],
+        "Count": [
+            [
+                95,
+                92,
+                1,
+                92
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 109,
+        "Ifunlock": 0,
+        "CardUIID": 4102085,
+        "IconID": "",
+        "Name": "dreamcard.card_name109",
+        "Des": "dreamcard.card_desc109",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 8,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            83
+        ],
+        "Count": [
+            [
+                2
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 110,
+        "Ifunlock": 0,
+        "CardUIID": 4102086,
+        "IconID": "",
+        "Name": "dreamcard.card_name110",
+        "Des": "dreamcard.card_desc110",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 8,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            44
+        ],
+        "Count": [
+            []
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 111,
+        "Ifunlock": 0,
+        "CardUIID": 4102087,
+        "IconID": "",
+        "Name": "dreamcard.card_name111",
+        "Des": "dreamcard.card_desc111",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 8,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            115
+        ],
+        "Count": {
+            "[109, 110, 116]": 1
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 112,
+        "Ifunlock": 0,
+        "CardUIID": 4102088,
+        "IconID": "",
+        "Name": "dreamcard.card_name112",
+        "Des": "dreamcard.card_desc112",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 8,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            1007
+        ],
+        "Count": [
+            []
+        ],
+        "DescParam": "",
+        "IFUse": 1,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": [
+            9
+        ]
+    },
+    {
+        "CardID": 113,
+        "Ifunlock": 0,
+        "CardUIID": 4102089,
+        "IconID": "",
+        "Name": "dreamcard.card_name113",
+        "Des": "dreamcard.card_desc113",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 8,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            116,
+            53
+        ],
+        "Count": [
+            [
+                2,
+                109
+            ],
+            []
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 114,
+        "Ifunlock": 0,
+        "CardUIID": 4102090,
+        "IconID": "",
+        "Name": "dreamcard.card_name114",
+        "Des": "dreamcard.card_desc114",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 8,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            116,
+            53
+        ],
+        "Count": [
+            [
+                2,
+                77
+            ],
+            []
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 115,
+        "Ifunlock": 0,
+        "CardUIID": 4102091,
+        "IconID": "",
+        "Name": "dreamcard.card_name115",
+        "Des": "dreamcard.card_desc115",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 8,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            6
+        ],
+        "Count": {
+            "[109, 116]": 1.5
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 116,
+        "Ifunlock": 0,
+        "CardUIID": 4102092,
+        "IconID": "",
+        "Name": "dreamcard.card_name116",
+        "Des": "dreamcard.card_desc116",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 8,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            68,
+            26
+        ],
+        "Count": [
+            [
+                1
+            ],
+            []
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            1
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 117,
+        "Ifunlock": 0,
+        "CardUIID": 4102093,
+        "IconID": "",
+        "Name": "dreamcard.card_name117",
+        "Des": "dreamcard.card_desc117",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 8,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            121
+        ],
+        "Count": {
+            "8": 110
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            3,
+            4
+        ]
+    },
+    {
+        "CardID": 118,
+        "Ifunlock": 0,
+        "CardUIID": 4102094,
+        "IconID": "",
+        "Name": "dreamcard.card_name118",
+        "Des": "dreamcard.card_desc118",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 8,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            85
+        ],
+        "Count": [
+            [
+                60
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            1
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 119,
+        "Ifunlock": 0,
+        "CardUIID": 4102095,
+        "IconID": "",
+        "Name": "dreamcard.card_name119",
+        "Des": "dreamcard.card_desc119",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 8,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            122,
+            26
+        ],
+        "Count": [
+            [
+                0.1,
+                500
+            ],
+            []
+        ],
+        "DescParam": [
+            10,
+            500
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            2
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 120,
+        "Ifunlock": 0,
+        "CardUIID": 4102096,
+        "IconID": "",
+        "Name": "dreamcard.card_name120",
+        "Des": "dreamcard.card_desc120",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 8,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            127,
+            78,
+            53
+        ],
+        "Count": [
+            [
+                [
+                    110
+                ],
+                0.5
+            ],
+            [
+                120
+            ],
+            []
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 121,
+        "Ifunlock": 0,
+        "CardUIID": 4103027,
+        "IconID": "",
+        "Name": "dreamcard.card_name121",
+        "Des": "dreamcard.card_desc121",
+        "CardType": 1,
+        "Star": 3,
+        "BuildID": 8,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            117
+        ],
+        "Count": [
+            [
+                6,
+                8,
+                4
+            ]
+        ],
+        "DescParam": [
+            6,
+            400
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 122,
+        "Ifunlock": 0,
+        "CardUIID": 4103028,
+        "IconID": "",
+        "Name": "dreamcard.card_name122",
+        "Des": "dreamcard.card_desc122",
+        "CardType": 1,
+        "Star": 3,
+        "BuildID": 8,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            131
+        ],
+        "Count": {
+            "110": 1
+        },
+        "DescParam": [
+            100
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 123,
+        "Ifunlock": 0,
+        "CardUIID": 4102097,
+        "IconID": "",
+        "Name": "dreamcard.card_name123",
+        "Des": "dreamcard.card_desc123",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 9,
+        "Tag": 8,
+        "Energy": 30,
+        "EffectID": [
+            49
+        ],
+        "Count": {
+            "4": 120
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 124,
+        "Ifunlock": 0,
+        "CardUIID": 4102098,
+        "IconID": "",
+        "Name": "dreamcard.card_name124",
+        "Des": "dreamcard.card_desc124",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 9,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            12
+        ],
+        "Count": {
+            "2": 123
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 125,
+        "Ifunlock": 0,
+        "CardUIID": 4102099,
+        "IconID": "",
+        "Name": "dreamcard.card_name125",
+        "Des": "dreamcard.card_desc125",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 9,
+        "Tag": 8,
+        "Energy": 30,
+        "EffectID": [
+            13
+        ],
+        "Count": {
+            "123": 1
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            6
+        ],
+        "Disapself": [],
+        "Actother": [
+            6
+        ]
+    },
+    {
+        "CardID": 126,
+        "Ifunlock": 0,
+        "CardUIID": 4102100,
+        "IconID": "",
+        "Name": "dreamcard.card_name126",
+        "Des": "dreamcard.card_desc126",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 9,
+        "Tag": 8,
+        "Energy": 30,
+        "EffectID": [
+            14
+        ],
+        "Count": {
+            "12": 127
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 127,
+        "Ifunlock": 0,
+        "CardUIID": 4102101,
+        "IconID": "",
+        "Name": "dreamcard.card_name127",
+        "Des": "dreamcard.card_desc127",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 9,
+        "Tag": 8,
+        "Energy": 45,
+        "EffectID": [
+            126
+        ],
+        "Count": {
+            "[129]": 0.25
+        },
+        "DescParam": [
+            25
+        ],
+        "IFUse": 0,
+        "IFrand": 0,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 128,
+        "Ifunlock": 0,
+        "CardUIID": 4102102,
+        "IconID": "",
+        "Name": "dreamcard.card_name128",
+        "Des": "dreamcard.card_desc128",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 9,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            15
+        ],
+        "Count": {
+            "8": 45
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            1
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 129,
+        "Ifunlock": 0,
+        "CardUIID": 4102103,
+        "IconID": "",
+        "Name": "dreamcard.card_name129",
+        "Des": "dreamcard.card_desc129",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 9,
+        "Tag": 8,
+        "Energy": 45,
+        "EffectID": [
+            76
+        ],
+        "Count": [
+            [
+                [
+                    123,
+                    125
+                ],
+                1,
+                30
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            1
+        ],
+        "Disapself": [],
+        "Actother": [
+            3
+        ]
+    },
+    {
+        "CardID": 130,
+        "Ifunlock": 0,
+        "CardUIID": 4102104,
+        "IconID": "",
+        "Name": "dreamcard.card_name130",
+        "Des": "dreamcard.card_desc130",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 9,
+        "Tag": "",
+        "Energy": 225,
+        "EffectID": [
+            10
+        ],
+        "Count": [
+            [
+                1,
+                2,
+                123
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 131,
+        "Ifunlock": 0,
+        "CardUIID": 4102105,
+        "IconID": "",
+        "Name": "dreamcard.card_name131",
+        "Des": "dreamcard.card_desc131",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 9,
+        "Tag": 8,
+        "Energy": 60,
+        "EffectID": [
+            17
+        ],
+        "Count": [
+            [
+                2,
+                2,
+                8
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 132,
+        "Ifunlock": 0,
+        "CardUIID": 4102106,
+        "IconID": "",
+        "Name": "dreamcard.card_name132",
+        "Des": "dreamcard.card_desc132",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 9,
+        "Tag": "",
+        "Energy": 90,
+        "EffectID": [
+            130
+        ],
+        "Count": [
+            []
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 133,
+        "Ifunlock": 0,
+        "CardUIID": 4102107,
+        "IconID": "",
+        "Name": "dreamcard.card_name133",
+        "Des": "dreamcard.card_desc133",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 9,
+        "Tag": 8,
+        "Energy": 60,
+        "EffectID": [
+            31,
+            18
+        ],
+        "Count": [
+            [
+                4,
+                1,
+                123
+            ],
+            [
+                132,
+                123
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [],
+        "Actother": [
+            3,
+            4
+        ]
+    },
+    {
+        "CardID": 134,
+        "Ifunlock": 0,
+        "CardUIID": 4102108,
+        "IconID": "",
+        "Name": "dreamcard.card_name134",
+        "Des": "dreamcard.card_desc134",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 9,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            29,
+            26
+        ],
+        "Count": [
+            [
+                1,
+                8,
+                15
+            ],
+            []
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 135,
+        "Ifunlock": 0,
+        "CardUIID": 4102109,
+        "IconID": "",
+        "Name": "dreamcard.card_name135",
+        "Des": "dreamcard.card_desc135",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 9,
+        "Tag": 8,
+        "Energy": 75,
+        "EffectID": [
+            77,
+            78
+        ],
+        "Count": [
+            [
+                8,
+                0.75
+            ],
+            [
+                135
+            ]
+        ],
+        "DescParam": [
+            75
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": [
+            10
+        ]
+    },
+    {
+        "CardID": 136,
+        "Ifunlock": 0,
+        "CardUIID": 4103029,
+        "IconID": "",
+        "Name": "dreamcard.card_name136",
+        "Des": "dreamcard.card_desc136",
+        "CardType": 1,
+        "Star": 1,
+        "BuildID": 9,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            36
+        ],
+        "Count": [
+            [
+                6,
+                8,
+                480
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            1
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 137,
+        "Ifunlock": 0,
+        "CardUIID": 4103030,
+        "IconID": "",
+        "Name": "dreamcard.card_name137",
+        "Des": "dreamcard.card_desc137",
+        "CardType": 1,
+        "Star": 3,
+        "BuildID": 9,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            99
+        ],
+        "Count": [
+            [
+                31,
+                1,
+                123
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 138,
+        "Ifunlock": 0,
+        "CardUIID": 4103031,
+        "IconID": "",
+        "Name": "dreamcard.card_name138",
+        "Des": "dreamcard.card_desc138",
+        "CardType": 1,
+        "Star": 3,
+        "BuildID": 9,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            1008
+        ],
+        "Count": [
+            []
+        ],
+        "DescParam": "",
+        "IFUse": 1,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            12
+        ],
+        "Disapself": [],
+        "Actother": [
+            4
+        ]
+    },
+    {
+        "CardID": 139,
+        "Ifunlock": 1,
+        "CardUIID": 4102116,
+        "IconID": "",
+        "Name": "dreamcard.card_name139",
+        "Des": "dreamcard.card_desc139",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 10,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            132
+        ],
+        "Count": [
+            [
+                240
+            ]
+        ],
+        "DescParam": [
+            240
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": [
+            1
+        ],
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 140,
+        "Ifunlock": 1,
+        "CardUIID": 4102117,
+        "IconID": "",
+        "Name": "dreamcard.card_name140",
+        "Des": "dreamcard.card_desc140",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 10,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            10
+        ],
+        "Count": [
+            [
+                1,
+                3,
+                151
+            ]
+        ],
+        "DescParam": [
+            3
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 141,
+        "Ifunlock": 1,
+        "CardUIID": 4102118,
+        "IconID": "",
+        "Name": "dreamcard.card_name141",
+        "Des": "dreamcard.card_desc141",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 10,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            133
+        ],
+        "Count": [
+            [
+                151,
+                2,
+                1
+            ]
+        ],
+        "DescParam": [
+            2,
+            1
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": [
+            1
+        ],
+        "Actself": [
+            14
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 142,
+        "Ifunlock": 1,
+        "CardUIID": 4102119,
+        "IconID": "",
+        "Name": "dreamcard.card_name142",
+        "Des": "dreamcard.card_desc142",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 10,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            134
+        ],
+        "Count": [
+            [
+                3
+            ]
+        ],
+        "DescParam": [
+            3
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": [
+            1
+        ],
+        "Actself": [
+            14
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 143,
+        "Ifunlock": 1,
+        "CardUIID": 4102120,
+        "IconID": "",
+        "Name": "dreamcard.card_name143",
+        "Des": "dreamcard.card_desc143",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 10,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            132
+        ],
+        "Count": [
+            [
+                500
+            ]
+        ],
+        "DescParam": [
+            500
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": [
+            1
+        ],
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 144,
+        "Ifunlock": 1,
+        "CardUIID": 4102121,
+        "IconID": "",
+        "Name": "dreamcard.card_name144",
+        "Des": "dreamcard.card_desc144",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 10,
+        "Tag": "",
+        "Energy": 450,
+        "EffectID": [
+            135
+        ],
+        "Count": [
+            [
+                4
+            ]
+        ],
+        "DescParam": [
+            4
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": [
+            1
+        ],
+        "Actself": [
+            14
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 145,
+        "Ifunlock": 1,
+        "CardUIID": 4102122,
+        "IconID": "",
+        "Name": "dreamcard.card_name145",
+        "Des": "dreamcard.card_desc145",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 10,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            10
+        ],
+        "Count": [
+            [
+                4,
+                1,
+                152
+            ]
+        ],
+        "DescParam": [
+            4
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 146,
+        "Ifunlock": 1,
+        "CardUIID": 4102123,
+        "IconID": "",
+        "Name": "dreamcard.card_name146",
+        "Des": "dreamcard.card_desc146",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 10,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            136
+        ],
+        "Count": {
+            "153": 30
+        },
+        "DescParam": [
+            30
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": [
+            1
+        ],
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 147,
+        "Ifunlock": 1,
+        "CardUIID": 4102124,
+        "IconID": "",
+        "Name": "dreamcard.card_name147",
+        "Des": "dreamcard.card_desc147",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 10,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            137
+        ],
+        "Count": [
+            [
+                1,
+                152,
+                153
+            ]
+        ],
+        "DescParam": [
+            1
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 148,
+        "Ifunlock": 0,
+        "CardUIID": 4102125,
+        "IconID": "",
+        "Name": "dreamcard.card_name148",
+        "Des": "dreamcard.card_desc148",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 10,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            132,
+            138
+        ],
+        "Count": [
+            [
+                1440
+            ],
+            [
+                1
+            ]
+        ],
+        "DescParam": [
+            1440,
+            1
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": [
+            1
+        ],
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 149,
+        "Ifunlock": 0,
+        "CardUIID": 4102126,
+        "IconID": "",
+        "Name": "dreamcard.card_name149",
+        "Des": "dreamcard.card_desc149",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 10,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            139
+        ],
+        "Count": [
+            [
+                10
+            ]
+        ],
+        "DescParam": [
+            1000
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            2
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 150,
+        "Ifunlock": 1,
+        "CardUIID": 4102127,
+        "IconID": "",
+        "Name": "dreamcard.card_name150",
+        "Des": "dreamcard.card_desc150",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 10,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            26,
+            140
+        ],
+        "Count": [
+            [],
+            [
+                153,
+                2
+            ]
+        ],
+        "DescParam": [
+            200
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 151,
+        "Ifunlock": 1,
+        "CardUIID": 4102128,
+        "IconID": "",
+        "Name": "dreamcard.card_name151",
+        "Des": "dreamcard.card_desc151",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 10,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            35
+        ],
+        "Count": [
+            [
+                60
+            ]
+        ],
+        "DescParam": [
+            60
+        ],
+        "IFUse": 0,
+        "IFrand": 0,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 152,
+        "Ifunlock": 1,
+        "CardUIID": 4102129,
+        "IconID": "",
+        "Name": "dreamcard.card_name152",
+        "Des": "dreamcard.card_desc152",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 10,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": "",
+        "Count": "",
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 0,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 153,
+        "Ifunlock": 1,
+        "CardUIID": 4102130,
+        "IconID": "",
+        "Name": "dreamcard.card_name153",
+        "Des": "dreamcard.card_desc153",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 10,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            141,
+            186
+        ],
+        "Count": [
+            [],
+            [
+                150
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 0,
+        "TechnicalTerm": [
+            1
+        ],
+        "Actself": [
+            14
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 154,
+        "Ifunlock": 1,
+        "CardUIID": 4102131,
+        "IconID": "",
+        "Name": "dreamcard.card_name154",
+        "Des": "dreamcard.card_desc154",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 11,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            184
+        ],
+        "Count": {
+            "3": [
+                166,
+                167,
+                168
+            ]
+        },
+        "DescParam": [
+            3
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 155,
+        "Ifunlock": 1,
+        "CardUIID": 4102132,
+        "IconID": "",
+        "Name": "dreamcard.card_name155",
+        "Des": "dreamcard.card_desc155",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 11,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            142
+        ],
+        "Count": [
+            [
+                154
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 156,
+        "Ifunlock": 1,
+        "CardUIID": 4102133,
+        "IconID": "",
+        "Name": "dreamcard.card_name156",
+        "Des": "dreamcard.card_desc156",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 11,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            16
+        ],
+        "Count": [
+            [
+                166,
+                167,
+                168
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 157,
+        "Ifunlock": 1,
+        "CardUIID": 4102134,
+        "IconID": "",
+        "Name": "dreamcard.card_name157",
+        "Des": "dreamcard.card_desc157",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 11,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            143
+        ],
+        "Count": {
+            "12": 2
+        },
+        "DescParam": [
+            12,
+            2
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 158,
+        "Ifunlock": 1,
+        "CardUIID": 4102135,
+        "IconID": "",
+        "Name": "dreamcard.card_name158",
+        "Des": "dreamcard.card_desc158",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 11,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            126
+        ],
+        "Count": {
+            "[156, 163, 166, 167, 168]": 0.25
+        },
+        "DescParam": [
+            25
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 159,
+        "Ifunlock": 1,
+        "CardUIID": 4102136,
+        "IconID": "",
+        "Name": "dreamcard.card_name159",
+        "Des": "dreamcard.card_desc159",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 11,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            144
+        ],
+        "Count": {
+            "163": 0.25
+        },
+        "DescParam": [
+            25
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            2
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 160,
+        "Ifunlock": 1,
+        "CardUIID": 4102137,
+        "IconID": "",
+        "Name": "dreamcard.card_name160",
+        "Des": "dreamcard.card_desc160",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 11,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            145
+        ],
+        "Count": {
+            "2": [
+                166,
+                167,
+                168
+            ]
+        },
+        "DescParam": [
+            2
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 161,
+        "Ifunlock": 1,
+        "CardUIID": 4102138,
+        "IconID": "",
+        "Name": "dreamcard.card_name161",
+        "Des": "dreamcard.card_desc161",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 11,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            146
+        ],
+        "Count": [
+            [
+                4,
+                1,
+                [
+                    166,
+                    167,
+                    168
+                ]
+            ]
+        ],
+        "DescParam": [
+            4,
+            1
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 162,
+        "Ifunlock": 1,
+        "CardUIID": 4102139,
+        "IconID": "",
+        "Name": "dreamcard.card_name162",
+        "Des": "dreamcard.card_desc162",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 11,
+        "Tag": "",
+        "Energy": 120,
+        "EffectID": [
+            16
+        ],
+        "Count": [
+            [
+                154
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": [
+            3
+        ]
+    },
+    {
+        "CardID": 163,
+        "Ifunlock": 1,
+        "CardUIID": 4102140,
+        "IconID": "",
+        "Name": "dreamcard.card_name163",
+        "Des": "dreamcard.card_desc163",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 11,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            26,
+            126,
+            16
+        ],
+        "Count": [
+            [],
+            [
+                [
+                    166,
+                    167,
+                    168
+                ],
+                0.25
+            ],
+            [
+                166,
+                167,
+                168
+            ]
+        ],
+        "DescParam": [
+            25
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 164,
+        "Ifunlock": 0,
+        "CardUIID": 4102141,
+        "IconID": "",
+        "Name": "dreamcard.card_name164",
+        "Des": "dreamcard.card_desc164",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 11,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            187
+        ],
+        "Count": [
+            [
+                [
+                    166,
+                    167,
+                    168
+                ],
+                30,
+                40000
+            ]
+        ],
+        "DescParam": [
+            30,
+            40000
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 165,
+        "Ifunlock": 1,
+        "CardUIID": 4102142,
+        "IconID": "",
+        "Name": "dreamcard.card_name165",
+        "Des": "dreamcard.card_desc165",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 11,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            144
+        ],
+        "Count": {
+            "163": 0.5
+        },
+        "DescParam": [
+            50
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            2
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 166,
+        "Ifunlock": 1,
+        "CardUIID": 4102143,
+        "IconID": "",
+        "Name": "dreamcard.card_name166",
+        "Des": "dreamcard.card_desc166",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 11,
+        "Tag": 10,
+        "Energy": 30,
+        "EffectID": [
+            35
+        ],
+        "Count": [
+            [
+                960
+            ]
+        ],
+        "DescParam": [
+            960
+        ],
+        "IFUse": 0,
+        "IFrand": 0,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 167,
+        "Ifunlock": 1,
+        "CardUIID": 4102143,
+        "IconID": "",
+        "Name": "dreamcard.card_name167",
+        "Des": "dreamcard.card_desc167",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 11,
+        "Tag": 10,
+        "Energy": 45,
+        "EffectID": [
+            35
+        ],
+        "Count": [
+            [
+                1440
+            ]
+        ],
+        "DescParam": [
+            1440
+        ],
+        "IFUse": 0,
+        "IFrand": 0,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 168,
+        "Ifunlock": 1,
+        "CardUIID": 4102143,
+        "IconID": "",
+        "Name": "dreamcard.card_name168",
+        "Des": "dreamcard.card_desc168",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 11,
+        "Tag": 10,
+        "Energy": 60,
+        "EffectID": [
+            35
+        ],
+        "Count": [
+            [
+                1920
+            ]
+        ],
+        "DescParam": [
+            1920
+        ],
+        "IFUse": 0,
+        "IFrand": 0,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 169,
+        "Ifunlock": 1,
+        "CardUIID": 4102144,
+        "IconID": "",
+        "Name": "dreamcard.card_name169",
+        "Des": "dreamcard.card_desc169",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 12,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            147
+        ],
+        "Count": {
+            "3": 40
+        },
+        "DescParam": [
+            40,
+            3
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": [
+            2
+        ],
+        "Actself": [
+            5
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 170,
+        "Ifunlock": 1,
+        "CardUIID": 4102145,
+        "IconID": "",
+        "Name": "dreamcard.card_name170",
+        "Des": "dreamcard.card_desc170",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 12,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            148
+        ],
+        "Count": [
+            [
+                480
+            ]
+        ],
+        "DescParam": [
+            480
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 171,
+        "Ifunlock": 1,
+        "CardUIID": 4102146,
+        "IconID": "",
+        "Name": "dreamcard.card_name171",
+        "Des": "dreamcard.card_desc171",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 12,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            149
+        ],
+        "Count": {
+            "30": 600
+        },
+        "DescParam": [
+            30,
+            600
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": [
+            2
+        ],
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 172,
+        "Ifunlock": 1,
+        "CardUIID": 4102147,
+        "IconID": "",
+        "Name": "dreamcard.card_name172",
+        "Des": "dreamcard.card_desc172",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 12,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            147
+        ],
+        "Count": {
+            "1": 90
+        },
+        "DescParam": [
+            90
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": [
+            2
+        ],
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 173,
+        "Ifunlock": 1,
+        "CardUIID": 4102148,
+        "IconID": "",
+        "Name": "dreamcard.card_name173",
+        "Des": "dreamcard.card_desc173",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 12,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            13
+        ],
+        "Count": {
+            "174": 1
+        },
+        "DescParam": [
+            1
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": [
+            1
+        ]
+    },
+    {
+        "CardID": 174,
+        "Ifunlock": 1,
+        "CardUIID": 4102149,
+        "IconID": "",
+        "Name": "dreamcard.card_name174",
+        "Des": "dreamcard.card_desc174",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 12,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            31
+        ],
+        "Count": [
+            [
+                16,
+                4,
+                169
+            ]
+        ],
+        "DescParam": [
+            16,
+            4
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 175,
+        "Ifunlock": 1,
+        "CardUIID": 4102150,
+        "IconID": "",
+        "Name": "dreamcard.card_name175",
+        "Des": "dreamcard.card_desc175",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 12,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            151
+        ],
+        "Count": [
+            [
+                1
+            ]
+        ],
+        "DescParam": [
+            1,
+            1
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": [
+            2
+        ],
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 176,
+        "Ifunlock": 1,
+        "CardUIID": 4102151,
+        "IconID": "",
+        "Name": "dreamcard.card_name176",
+        "Des": "dreamcard.card_desc176",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 12,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            152
+        ],
+        "Count": {
+            "2": 1
+        },
+        "DescParam": [
+            200,
+            1
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": [
+            2
+        ],
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 177,
+        "Ifunlock": 1,
+        "CardUIID": 4102152,
+        "IconID": "",
+        "Name": "dreamcard.card_name177",
+        "Des": "dreamcard.card_desc177",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 12,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            153
+        ],
+        "Count": [
+            [
+                8,
+                1,
+                40000
+            ]
+        ],
+        "DescParam": [
+            8,
+            1,
+            40000
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": [
+            2
+        ],
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 178,
+        "Ifunlock": 1,
+        "CardUIID": 4102153,
+        "IconID": "",
+        "Name": "dreamcard.card_name178",
+        "Des": "dreamcard.card_desc178",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 12,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            150
+        ],
+        "Count": [
+            [
+                2,
+                1,
+                [
+                    174
+                ]
+            ]
+        ],
+        "DescParam": [
+            2,
+            1
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 179,
+        "Ifunlock": 1,
+        "CardUIID": 4102154,
+        "IconID": "",
+        "Name": "dreamcard.card_name179",
+        "Des": "dreamcard.card_desc179",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 12,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            26,
+            150
+        ],
+        "Count": [
+            [],
+            [
+                2,
+                1,
+                [
+                    172,
+                    171,
+                    176
+                ]
+            ]
+        ],
+        "DescParam": [
+            2,
+            1
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 180,
+        "Ifunlock": 0,
+        "CardUIID": 4102155,
+        "IconID": "",
+        "Name": "dreamcard.card_name180",
+        "Des": "dreamcard.card_desc180",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 12,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            26,
+            154
+        ],
+        "Count": [
+            [],
+            [
+                1,
+                1.5
+            ]
+        ],
+        "DescParam": [
+            50
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": [
+            2
+        ],
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 181,
+        "Ifunlock": 1,
+        "CardUIID": 4102156,
+        "IconID": "",
+        "Name": "dreamcard.card_name181",
+        "Des": "dreamcard.card_desc181",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 13,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            155
+        ],
+        "Count": {
+            "1": 182
+        },
+        "DescParam": [
+            1
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 182,
+        "Ifunlock": 1,
+        "CardUIID": 4102157,
+        "IconID": "",
+        "Name": "dreamcard.card_name182",
+        "Des": "dreamcard.card_desc182",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 13,
+        "Tag": "",
+        "Energy": 0,
+        "EffectID": [
+            156,
+            48
+        ],
+        "Count": [
+            [],
+            [
+                -10
+            ]
+        ],
+        "DescParam": [
+            10
+        ],
+        "IFUse": 0,
+        "IFrand": 0,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 183,
+        "Ifunlock": 1,
+        "CardUIID": 4102158,
+        "IconID": "",
+        "Name": "dreamcard.card_name183",
+        "Des": "dreamcard.card_desc183",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 13,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            31,
+            49
+        ],
+        "Count": [
+            [
+                5,
+                1,
+                182
+            ],
+            [
+                5,
+                1200
+            ]
+        ],
+        "DescParam": [
+            5,
+            1200,
+            1
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 184,
+        "Ifunlock": 1,
+        "CardUIID": 4102159,
+        "IconID": "",
+        "Name": "dreamcard.card_name184",
+        "Des": "dreamcard.card_desc184",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 13,
+        "Tag": "",
+        "Energy": 150,
+        "EffectID": [
+            157
+        ],
+        "Count": {
+            "1": 182
+        },
+        "DescParam": [
+            1
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 185,
+        "Ifunlock": 1,
+        "CardUIID": 4102160,
+        "IconID": "",
+        "Name": "dreamcard.card_name185",
+        "Des": "dreamcard.card_desc185",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 13,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            158
+        ],
+        "Count": [
+            [
+                1,
+                900,
+                1
+            ]
+        ],
+        "DescParam": [
+            1,
+            900
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 186,
+        "Ifunlock": 1,
+        "CardUIID": 4102161,
+        "IconID": "",
+        "Name": "dreamcard.card_name186",
+        "Des": "dreamcard.card_desc186",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 13,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            31
+        ],
+        "Count": [
+            [
+                5,
+                1,
+                181
+            ]
+        ],
+        "DescParam": [
+            5,
+            1
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 187,
+        "Ifunlock": 1,
+        "CardUIID": 4102162,
+        "IconID": "",
+        "Name": "dreamcard.card_name187",
+        "Des": "dreamcard.card_desc187",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 13,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            158
+        ],
+        "Count": [
+            [
+                12,
+                1440,
+                0
+            ]
+        ],
+        "DescParam": [
+            12,
+            1440
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 188,
+        "Ifunlock": 1,
+        "CardUIID": 4102163,
+        "IconID": "",
+        "Name": "dreamcard.card_name188",
+        "Des": "dreamcard.card_desc188",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 13,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            126
+        ],
+        "Count": {
+            "[184, 187, 191]": 0.5
+        },
+        "DescParam": [
+            50
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 189,
+        "Ifunlock": 1,
+        "CardUIID": 4102164,
+        "IconID": "",
+        "Name": "dreamcard.card_name189",
+        "Des": "dreamcard.card_desc189",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 13,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            159
+        ],
+        "Count": [
+            [
+                1,
+                [
+                    187,
+                    185
+                ],
+                0.08,
+                0
+            ]
+        ],
+        "DescParam": [
+            8
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 190,
+        "Ifunlock": 1,
+        "CardUIID": 4102165,
+        "IconID": "",
+        "Name": "dreamcard.card_name190",
+        "Des": "dreamcard.card_desc190",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 13,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            108,
+            159
+        ],
+        "Count": [
+            [
+                [
+                    184,
+                    188,
+                    191
+                ],
+                10
+            ],
+            [
+                1,
+                [
+                    191
+                ],
+                6,
+                0
+            ]
+        ],
+        "DescParam": [
+            10,
+            6
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 191,
+        "Ifunlock": 1,
+        "CardUIID": 4102166,
+        "IconID": "",
+        "Name": "dreamcard.card_name191",
+        "Des": "dreamcard.card_desc191",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 13,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            160
+        ],
+        "Count": {
+            "1": 1000
+        },
+        "DescParam": [
+            1,
+            1000
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 192,
+        "Ifunlock": 0,
+        "CardUIID": 4102167,
+        "IconID": "",
+        "Name": "dreamcard.card_name192",
+        "Des": "dreamcard.card_desc192",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 13,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            161,
+            162
+        ],
+        "Count": [
+            [
+                1
+            ],
+            [
+                1200
+            ]
+        ],
+        "DescParam": [
+            1,
+            1200
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 193,
+        "Ifunlock": 1,
+        "CardUIID": 4102168,
+        "IconID": "",
+        "Name": "dreamcard.card_name193",
+        "Des": "dreamcard.card_desc193",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 13,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            159
+        ],
+        "Count": [
+            [
+                20,
+                [
+                    187,
+                    191
+                ],
+                100,
+                100
+            ]
+        ],
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 194,
+        "Ifunlock": 1,
+        "CardUIID": 4102169,
+        "IconID": "",
+        "Name": "dreamcard.card_name194",
+        "Des": "dreamcard.card_desc194",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 13,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            163
+        ],
+        "Count": {
+            "[1, 2]": 5
+        },
+        "DescParam": [
+            1,
+            2,
+            500
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            2
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 195,
+        "Ifunlock": 1,
+        "CardUIID": 4102170,
+        "IconID": "",
+        "Name": "dreamcard.card_name195",
+        "Des": "dreamcard.card_desc195",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 14,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            35
+        ],
+        "Count": [
+            [
+                20
+            ]
+        ],
+        "DescParam": [
+            50
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 196,
+        "Ifunlock": 1,
+        "CardUIID": 4102171,
+        "IconID": "",
+        "Name": "dreamcard.card_name196",
+        "Des": "dreamcard.card_desc196",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 14,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            164
+        ],
+        "Count": [
+            [
+                1,
+                195,
+                2,
+                2
+            ]
+        ],
+        "DescParam": [
+            1,
+            2,
+            2
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 197,
+        "Ifunlock": 1,
+        "CardUIID": 4102172,
+        "IconID": "",
+        "Name": "dreamcard.card_name197",
+        "Des": "dreamcard.card_desc197",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 14,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            165,
+            166
+        ],
+        "Count": [
+            [
+                1
+            ],
+            [
+                1,
+                0.9
+            ]
+        ],
+        "DescParam": [
+            10
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5,
+            17
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 198,
+        "Ifunlock": 1,
+        "CardUIID": 4102173,
+        "IconID": "",
+        "Name": "dreamcard.card_name198",
+        "Des": "dreamcard.card_desc198",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 14,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            167,
+            166
+        ],
+        "Count": [
+            [
+                1
+            ],
+            [
+                1,
+                0.9
+            ]
+        ],
+        "DescParam": [
+            10
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5,
+            18
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 199,
+        "Ifunlock": 0,
+        "CardUIID": 4102174,
+        "IconID": "",
+        "Name": "dreamcard.card_name199",
+        "Des": "dreamcard.card_desc199",
+        "CardType": 0,
+        "Star": 1,
+        "BuildID": 14,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            168
+        ],
+        "Count": [
+            [
+                14,
+                300,
+                100
+            ]
+        ],
+        "DescParam": [
+            300
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 200,
+        "Ifunlock": 1,
+        "CardUIID": 4102175,
+        "IconID": "",
+        "Name": "dreamcard.card_name200",
+        "Des": "dreamcard.card_desc200",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 14,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            169
+        ],
+        "Count": [
+            [
+                120
+            ]
+        ],
+        "DescParam": [
+            120
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 201,
+        "Ifunlock": 1,
+        "CardUIID": 4102176,
+        "IconID": "",
+        "Name": "dreamcard.card_name201",
+        "Des": "dreamcard.card_desc201",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 14,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            32
+        ],
+        "Count": [
+            [
+                90
+            ]
+        ],
+        "DescParam": [
+            90
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 202,
+        "Ifunlock": 1,
+        "CardUIID": 4102177,
+        "IconID": "",
+        "Name": "dreamcard.card_name202",
+        "Des": "dreamcard.card_desc202",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 14,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            127,
+            1
+        ],
+        "Count": [
+            [
+                [
+                    197,
+                    198,
+                    207
+                ],
+                1
+            ],
+            [
+                2
+            ]
+        ],
+        "DescParam": [
+            100,
+            2
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 203,
+        "Ifunlock": 1,
+        "CardUIID": 4102178,
+        "IconID": "",
+        "Name": "dreamcard.card_name203",
+        "Des": "dreamcard.card_desc203",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 14,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            170
+        ],
+        "Count": [
+            [
+                2,
+                600,
+                100
+            ]
+        ],
+        "DescParam": [
+            2,
+            600
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 204,
+        "Ifunlock": 1,
+        "CardUIID": 4102179,
+        "IconID": "",
+        "Name": "dreamcard.card_name204",
+        "Des": "dreamcard.card_desc204",
+        "CardType": 0,
+        "Star": 2,
+        "BuildID": 14,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            171
+        ],
+        "Count": [
+            [
+                60
+            ]
+        ],
+        "DescParam": [
+            60
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 205,
+        "Ifunlock": 1,
+        "CardUIID": 4102180,
+        "IconID": "",
+        "Name": "dreamcard.card_name205",
+        "Des": "dreamcard.card_desc205",
+        "CardType": 0,
+        "Star": 3,
+        "BuildID": 14,
+        "Tag": 9,
+        "Energy": 60,
+        "EffectID": [
+            172
+        ],
+        "Count": [
+            [
+                3,
+                2,
+                [
+                    1,
+                    2,
+                    3
+                ],
+                [
+                    14
+                ],
+                [
+                    149,
+                    182,
+                    117
+                ]
+            ]
+        ],
+        "DescParam": [
+            2,
+            1,
+            3,
+            3
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 206,
+        "Ifunlock": 1,
+        "CardUIID": 4102181,
+        "IconID": "",
+        "Name": "dreamcard.card_name206",
+        "Des": "dreamcard.card_desc206",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 14,
+        "Tag": 9,
+        "Energy": 75,
+        "EffectID": [
+            172
+        ],
+        "Count": [
+            [
+                3,
+                3,
+                [
+                    3,
+                    4
+                ],
+                [
+                    14
+                ],
+                [
+                    149,
+                    182,
+                    117
+                ]
+            ]
+        ],
+        "DescParam": [
+            3,
+            3,
+            4,
+            3
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            4
+        ],
+        "Disapself": [
+            3
+        ],
+        "Actother": []
+    },
+    {
+        "CardID": 207,
+        "Ifunlock": 0,
+        "CardUIID": 4102182,
+        "IconID": "",
+        "Name": "dreamcard.card_name207",
+        "Des": "dreamcard.card_desc207",
+        "CardType": 0,
+        "Star": 4,
+        "BuildID": 14,
+        "Tag": "",
+        "Energy": 75,
+        "EffectID": [
+            166,
+            167,
+            165
+        ],
+        "Count": [
+            [
+                1,
+                0.95
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "DescParam": [
+            5
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [
+            5,
+            19
+        ],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 208,
+        "Ifunlock": 1,
+        "CardUIID": 4103032,
+        "IconID": "",
+        "Name": "dreamcard.card_name208",
+        "Des": "dreamcard.card_desc208",
+        "CardType": 1,
+        "Star": 2,
+        "BuildID": 10,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            173
+        ],
+        "Count": {
+            "141": 153
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": [
+            1
+        ],
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 209,
+        "Ifunlock": 0,
+        "CardUIID": 4103033,
+        "IconID": "",
+        "Name": "dreamcard.card_name209",
+        "Des": "dreamcard.card_desc209",
+        "CardType": 1,
+        "Star": 3,
+        "BuildID": 10,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            174
+        ],
+        "Count": {
+            "[139, 143]": 146
+        },
+        "DescParam": "",
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 210,
+        "Ifunlock": 0,
+        "CardUIID": 4103034,
+        "IconID": "",
+        "Name": "dreamcard.card_name210",
+        "Des": "dreamcard.card_desc210",
+        "CardType": 1,
+        "Star": 2,
+        "BuildID": 11,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            175,
+            176
+        ],
+        "Count": {
+            "[166, 167, 168]": 0.25,
+            "[163]": 1
+        },
+        "DescParam": [
+            25,
+            1
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 211,
+        "Ifunlock": 1,
+        "CardUIID": 4103035,
+        "IconID": "",
+        "Name": "dreamcard.card_name211",
+        "Des": "dreamcard.card_desc211",
+        "CardType": 1,
+        "Star": 1,
+        "BuildID": 11,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            177
+        ],
+        "Count": {
+            "[154, 160, 161]": 1
+        },
+        "DescParam": [
+            1
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 212,
+        "Ifunlock": 0,
+        "CardUIID": 4103036,
+        "IconID": "",
+        "Name": "dreamcard.card_name212",
+        "Des": "dreamcard.card_desc212",
+        "CardType": 1,
+        "Star": 1,
+        "BuildID": 12,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            185
+        ],
+        "Count": {
+            "[174]": 8
+        },
+        "DescParam": [
+            8
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 213,
+        "Ifunlock": 1,
+        "CardUIID": 4103037,
+        "IconID": "",
+        "Name": "dreamcard.card_name213",
+        "Des": "dreamcard.card_desc213",
+        "CardType": 1,
+        "Star": 2,
+        "BuildID": 12,
+        "Tag": "",
+        "Energy": 90,
+        "EffectID": [
+            178
+        ],
+        "Count": [
+            [
+                30
+            ]
+        ],
+        "DescParam": [
+            30
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": [
+            2
+        ],
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 214,
+        "Ifunlock": 0,
+        "CardUIID": 4103038,
+        "IconID": "",
+        "Name": "dreamcard.card_name214",
+        "Des": "dreamcard.card_desc214",
+        "CardType": 1,
+        "Star": 2,
+        "BuildID": 12,
+        "Tag": "",
+        "Energy": 90,
+        "EffectID": [
+            179
+        ],
+        "Count": [
+            [
+                0.1
+            ]
+        ],
+        "DescParam": [
+            10
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": [
+            2
+        ],
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 215,
+        "Ifunlock": 1,
+        "CardUIID": 4103039,
+        "IconID": "",
+        "Name": "dreamcard.card_name215",
+        "Des": "dreamcard.card_desc215",
+        "CardType": 1,
+        "Star": 1,
+        "BuildID": 13,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            175
+        ],
+        "Count": {
+            "[184]": 1
+        },
+        "DescParam": [
+            100
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 216,
+        "Ifunlock": 0,
+        "CardUIID": 4103040,
+        "IconID": "",
+        "Name": "dreamcard.card_name216",
+        "Des": "dreamcard.card_desc216",
+        "CardType": 1,
+        "Star": 3,
+        "BuildID": 13,
+        "Tag": "",
+        "Energy": 60,
+        "EffectID": [
+            180
+        ],
+        "Count": {
+            "[187, 191]": 6
+        },
+        "DescParam": [
+            6
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 217,
+        "Ifunlock": 0,
+        "CardUIID": 4103041,
+        "IconID": "",
+        "Name": "dreamcard.card_name217",
+        "Des": "dreamcard.card_desc217",
+        "CardType": 1,
+        "Star": 2,
+        "BuildID": 13,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            181
+        ],
+        "Count": {
+            "1200": 1
+        },
+        "DescParam": [
+            1,
+            1200
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 218,
+        "Ifunlock": 1,
+        "CardUIID": 4103042,
+        "IconID": "",
+        "Name": "dreamcard.card_name218",
+        "Des": "dreamcard.card_desc218",
+        "CardType": 1,
+        "Star": 1,
+        "BuildID": 14,
+        "Tag": "",
+        "Energy": 30,
+        "EffectID": [
+            182
+        ],
+        "Count": {
+            "3": 120
+        },
+        "DescParam": [
+            3,
+            120
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    },
+    {
+        "CardID": 219,
+        "Ifunlock": 0,
+        "CardUIID": 4103043,
+        "IconID": "",
+        "Name": "dreamcard.card_name219",
+        "Des": "dreamcard.card_desc219",
+        "CardType": 1,
+        "Star": 2,
+        "BuildID": 14,
+        "Tag": "",
+        "Energy": 45,
+        "EffectID": [
+            183
+        ],
+        "Count": [
+            [
+                3,
+                1,
+                [
+                    1
+                ],
+                [
+                    14
+                ],
+                [
+                    149,
+                    182,
+                    117
+                ]
+            ]
+        ],
+        "DescParam": [
+            3
+        ],
+        "IFUse": 0,
+        "IFrand": 1,
+        "TechnicalTerm": "",
+        "Actself": [],
+        "Disapself": [],
+        "Actother": []
+    }
+]

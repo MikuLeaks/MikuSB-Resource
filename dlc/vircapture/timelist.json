@@ -1,0 +1,48 @@
+[
+    {
+        "Id": 1,
+        "StartTime": "[202404181000]",
+        "EndTime": "[202405300400]",
+        "Condition": "",
+        "Story": 8107100,
+        "Story3D": "",
+        "HelpImgId": 81,
+        "CaptureRegionId": [
+            5460,
+            5461
+        ],
+        "MaxFiled": 5,
+        "BagLimit": 200,
+        "ColorLimit": {
+            "3": 100,
+            "4": 50,
+            "5": 20
+        }
+    },
+    {
+        "Id": 2,
+        "StartTime": "[202407110400]",
+        "EndTime": "[203012310400]",
+        "Condition": "",
+        "Story": 8125303,
+        "Story3D": "3DRoom_DLC9/DLC9POP",
+        "HelpImgId": 81,
+        "CaptureRegionId": [
+            5810,
+            325,
+            326
+        ],
+        "MaxFiled": 5,
+        "BagLimit": 200,
+        "ColorLimit": {
+            "3": 100,
+            "4": 50,
+            "5": 20
+        },
+        "MaxExp": 144000,
+        "BGMList": [
+            "BGM|Fight|Activity|DLC03,DLC|BOSS01,Stage|Stage01",
+            "BGM|UI|DLC09_Rich_Stage02"
+        ]
+    }
+]

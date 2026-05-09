@@ -1,0 +1,41 @@
+[
+    {
+        "ID": 4550,
+        "Type": 0,
+        "MapID": 4550,
+        "FightID": 1,
+        "Condition": "",
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400130101,
+            400130301,
+            400130401,
+            400130601
+        ],
+        "LevelStrength": 1,
+        "ShowListType": 0,
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": "",
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": "",
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "PictureBoss": "",
+        "PictureLevel": "",
+        "TaskPath": "DLC3Task/DLC3_Cave.DLC3_Cave",
+        "DLCVersion": 3
+    }
+]

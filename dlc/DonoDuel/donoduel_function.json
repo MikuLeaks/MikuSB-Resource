@@ -1,0 +1,199 @@
+[
+    {
+        "FunctionID": 101,
+        "SeasonID": 1,
+        "Name": "donoduel.function_name01",
+        "HudIcon": 1701467,
+        "UncheckIcon": 1701475,
+        "CheckIcon": 1701467,
+        "DisplayMap": 1,
+        "Description": "donoduel.function_name01_des",
+        "TrialRole": [
+            104024,
+            104025,
+            104026
+        ],
+        "Condition": {
+            "36": 102
+        },
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "GotoUI": "",
+        "UIParam": "",
+        "HelpImgId": 279
+    },
+    {
+        "FunctionID": 102,
+        "SeasonID": 1,
+        "Name": "donoduel.function_name02",
+        "HudIcon": 1701471,
+        "UncheckIcon": 1701479,
+        "CheckIcon": 1701471,
+        "DisplayMap": 1,
+        "Description": "donoduel.function_name02_des",
+        "TrialRole": "",
+        "Condition": {
+            "36": 101
+        },
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "GotoUI": "DonoDuelArenaLevel",
+        "UIParam": [
+            1
+        ],
+        "HelpImgId": 278
+    },
+    {
+        "FunctionID": 104,
+        "SeasonID": 1,
+        "Name": "donoduel.function_name03",
+        "HudIcon": "",
+        "UncheckIcon": "",
+        "CheckIcon": "",
+        "DisplayMap": 0,
+        "Description": "donoduel.function_name03_des",
+        "TrialRole": "",
+        "Condition": {
+            "36": 114
+        },
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "GotoUI": "DonoDuelArenaLevel",
+        "UIParam": [
+            2
+        ]
+    },
+    {
+        "FunctionID": 105,
+        "SeasonID": 1,
+        "Name": "donoduel.function_name04",
+        "HudIcon": "",
+        "UncheckIcon": "",
+        "CheckIcon": "",
+        "DisplayMap": 0,
+        "Description": "donoduel.function_name04_des",
+        "TrialRole": "",
+        "Condition": {
+            "36": 503
+        },
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "GotoUI": "DonoDuelArenaLevel",
+        "UIParam": [
+            3
+        ]
+    },
+    {
+        "FunctionID": 106,
+        "SeasonID": 1,
+        "Name": "donoduel.function_name05",
+        "HudIcon": 1701470,
+        "UncheckIcon": 1701478,
+        "CheckIcon": 1701470,
+        "DisplayMap": 1,
+        "Description": "donoduel.function_name05_des",
+        "TrialRole": "",
+        "Condition": {
+            "36": 103
+        },
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "GotoUI": "DonoDuelBag",
+        "UIParam": "",
+        "HelpImgId": 280
+    },
+    {
+        "FunctionID": 107,
+        "SeasonID": 1,
+        "Name": "donoduel.function_name06",
+        "HudIcon": 1701469,
+        "UncheckIcon": 1701477,
+        "CheckIcon": 1701469,
+        "DisplayMap": 1,
+        "Description": "donoduel.function_name06_des",
+        "TrialRole": "",
+        "Condition": {
+            "36": 106
+        },
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "GotoUI": "DonoDuelSkillTree"
+    },
+    {
+        "FunctionID": 108,
+        "SeasonID": 1,
+        "Name": "donoduel.function_name07",
+        "HudIcon": 1701468,
+        "UncheckIcon": 1701476,
+        "CheckIcon": 1701468,
+        "DisplayMap": 1,
+        "Description": "donoduel.function_name07_des",
+        "TrialRole": "",
+        "Condition": {
+            "36": 104
+        },
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "GotoUI": "DonoDuelCaptainSkill"
+    },
+    {
+        "FunctionID": 109,
+        "SeasonID": 1,
+        "Name": "donoduel.function_name08",
+        "HudIcon": 1701466,
+        "UncheckIcon": 1701474,
+        "CheckIcon": 1701466,
+        "DisplayMap": 1,
+        "Description": "donoduel.function_name08_des",
+        "TrialRole": "",
+        "Condition": {
+            "36": 107
+        },
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "GotoUI": "DonoDuelRiki",
+        "UIParam": [
+            1
+        ]
+    },
+    {
+        "FunctionID": 110,
+        "SeasonID": 1,
+        "Name": "donoduel.function_name09",
+        "HudIcon": 1701465,
+        "UncheckIcon": 1701473,
+        "CheckIcon": 1701465,
+        "DisplayMap": 1,
+        "Description": "donoduel.function_name09_des",
+        "TrialRole": "",
+        "Condition": {
+            "36": 107
+        },
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "GotoUI": "DonoDuelRiki",
+        "UIParam": [
+            2
+        ]
+    },
+    {
+        "FunctionID": 111,
+        "SeasonID": 1,
+        "Name": "donoduel.function_name10",
+        "HudIcon": 1701464,
+        "UncheckIcon": 1701472,
+        "CheckIcon": 1701464,
+        "DisplayMap": 1,
+        "Description": "donoduel.function_name10_des",
+        "TrialRole": "",
+        "Condition": {
+            "36": 107
+        },
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "GotoUI": "DonoDuelRiki",
+        "UIParam": [
+            3
+        ]
+    }
+]

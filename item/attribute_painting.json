@@ -1,0 +1,260 @@
+[
+    {
+        "ECate": "Health",
+        "IconId": 1300000
+    },
+    {
+        "ECate": "Attack",
+        "IconId": 1300001
+    },
+    {
+        "ECate": "Defence",
+        "IconId": 1300002
+    },
+    {
+        "ECate": "CharacterEnergy",
+        "IconId": 1300003
+    },
+    {
+        "ECate": "CharacterEnergyEfficiency",
+        "IconId": 1300004
+    },
+    {
+        "ECate": "EntityBulletResistance",
+        "IconId": 1300005
+    },
+    {
+        "ECate": "SuperpowersResistance",
+        "IconId": 1300006
+    },
+    {
+        "ECate": "FireResistance",
+        "IconId": 1300007
+    },
+    {
+        "ECate": "ThunderResistance",
+        "IconId": 1300008
+    },
+    {
+        "ECate": "IceResistance",
+        "IconId": 1300009
+    },
+    {
+        "ECate": "CriticalValue",
+        "IconId": 1300010
+    },
+    {
+        "ECate": "CriticalDamage",
+        "IconId": 1300011
+    },
+    {
+        "ECate": "WeaknessDamage",
+        "IconId": 1300012
+    },
+    {
+        "ECate": "DamageCoefficient",
+        "IconId": 1300013
+    },
+    {
+        "ECate": "FireSpeed",
+        "IconId": 1300014
+    },
+    {
+        "ECate": "BulletNum",
+        "IconId": 1300015
+    },
+    {
+        "ECate": "BulletCost",
+        "IconId": 1300016
+    },
+    {
+        "ECate": "ReloadSpeed",
+        "IconId": 1300017
+    },
+    {
+        "ECate": "FiringRangeUltimateLimit",
+        "IconId": 1300018
+    },
+    {
+        "ECate": "AdditionalCritDamageInAimState",
+        "IconId": 1300019
+    },
+    {
+        "ECate": "AdditionalCritPercentInAimState",
+        "IconId": 1300020
+    },
+    {
+        "ECate": 1300021
+    },
+    {
+        "ECate": 1300022
+    },
+    {
+        "ECate": "PreFire",
+        "IconId": 1300023
+    },
+    {
+        "ECate": "Vigour",
+        "IconId": 1300021
+    },
+    {
+        "ECate": "DamageType",
+        "IconId": 1300028
+    },
+    {
+        "ECate": "Arms",
+        "IconId": 1300001
+    },
+    {
+        "ECate": "HealthPer_break",
+        "IconId": 1300000
+    },
+    {
+        "ECate": "AttackPer_break",
+        "IconId": 1300001
+    },
+    {
+        "ECate": "ArmsPer_break",
+        "IconId": 1300001
+    },
+    {
+        "ECate": "DefencePer_break",
+        "IconId": 1300002
+    },
+    {
+        "ECate": "Command_break",
+        "IconId": 1300026
+    },
+    {
+        "ECate": "CriticalDamageAddtion_break",
+        "IconId": 1300034
+    },
+    {
+        "ECate": "CriticalValue_break",
+        "IconId": 1300010
+    },
+    {
+        "ECate": "SkillIntensity_break",
+        "IconId": 1300029
+    },
+    {
+        "ECate": "CharacterEnergyEfficiency_break",
+        "IconId": 1300004
+    },
+    {
+        "ECate": "Stability",
+        "IconId": 1300030
+    },
+    {
+        "ECate": "Accuracy",
+        "IconId": 1300033
+    },
+    {
+        "ECate": "CriticalDamageAddtion",
+        "IconId": 1300034
+    },
+    {
+        "ECate": "SkillIntensity",
+        "IconId": 1300029
+    },
+    {
+        "ECate": "SkillCDQuick_break",
+        "IconId": 1300037
+    },
+    {
+        "ECate": "SkillCDQuick",
+        "IconId": 1300037
+    },
+    {
+        "ECate": "NormalEnergySpeed_break",
+        "IconId": 1300038
+    },
+    {
+        "ECate": "NormalEnergyRecoverSpeed",
+        "IconId": 1300038
+    },
+    {
+        "ECate": "HealthPer",
+        "IconId": 1300000
+    },
+    {
+        "ECate": "AttackPer",
+        "IconId": 1300001
+    },
+    {
+        "ECate": "ArmsPer",
+        "IconId": 1300001
+    },
+    {
+        "ECate": "DefencePer",
+        "IconId": 1300002
+    },
+    {
+        "ECate": "Command",
+        "IconId": 1300026
+    },
+    {
+        "ECate": "FireSpeedCoefficient",
+        "IconId": 1300014
+    },
+    {
+        "ECate": "DistAttenuationCoefficientRatio",
+        "IconId": 1300018
+    },
+    {
+        "ECate": "AdditionalStability",
+        "IconId": 1300030
+    },
+    {
+        "ECate": "AdditionalAccuracy",
+        "IconId": 1300033
+    },
+    {
+        "ECate": "BreathShaking",
+        "IconId": 1300013
+    },
+    {
+        "ECate": "ReloadSpeedCoefficient",
+        "IconId": 1300017
+    },
+    {
+        "ECate": "Critical",
+        "IconId": 1300010
+    },
+    {
+        "ECate": "ShootMastery",
+        "IconId": 1300035
+    },
+    {
+        "ECate": "SkillMastery",
+        "IconId": 1300036
+    },
+    {
+        "ECate": "SkillMastery_break",
+        "IconId": 1300036
+    },
+    {
+        "ECate": "FRStartAttenuationRatio",
+        "IconId": 1300018
+    },
+    {
+        "ECate": "FRUltimateLimitRatio",
+        "IconId": 1300018
+    },
+    {
+        "ECate": "HitLagValueRatio",
+        "IconId": 1300035
+    },
+    {
+        "ECate": "DestroyValueRatio",
+        "IconId": 1300035
+    },
+    {
+        "ECate": "ElemExplosionRateAddtion",
+        "IconId": 1300029
+    },
+    {
+        "ECate": "BulletType",
+        "IconId": 1300042
+    }
+]

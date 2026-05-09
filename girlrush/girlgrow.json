@@ -1,0 +1,95 @@
+[
+    {
+        "ID": 1001,
+        "Comment": "",
+        "DamageType_n": 5,
+        "Health_n": {
+            "1": 3600,
+            "10": 3600
+        },
+        "Attack_n": {
+            "1": 500,
+            "10": 500
+        },
+        "Defence_n": {
+            "1": 1000,
+            "10": 1000
+        },
+        "CriticalDamage_n": 30,
+        "Energy_n": 40,
+        "HitEnergy_n": 0.9,
+        "DamageCoefficient_n": 33,
+        "FireInterval_n": 0.12,
+        "FireSpeedRatio_n": 1,
+        "FireStorage_n": 0,
+        "BulletNum_n": 50,
+        "BulletLaunchCount_n": 1,
+        "ReloadSpeed_n": 1,
+        "ReloadSpeedRatio_n": 1,
+        "DestroyValue_n": 5,
+        "AccuracyAdditionBase_n": 1,
+        "StabilityAdditionBase_n": 1
+    },
+    {
+        "ID": 1002,
+        "Comment": "",
+        "DamageType_n": 4,
+        "Health_n": {
+            "1": 3000,
+            "10": 3000
+        },
+        "Attack_n": {
+            "1": 500,
+            "10": 500
+        },
+        "Defence_n": {
+            "1": 1000,
+            "10": 1000
+        },
+        "CriticalDamage_n": 60,
+        "Energy_n": 40,
+        "HitEnergy_n": 2.9,
+        "DamageCoefficient_n": 180,
+        "FireInterval_n": 0.5,
+        "FireSpeedRatio_n": 1,
+        "FireStorage_n": 0,
+        "BulletNum_n": 9,
+        "BulletLaunchCount_n": 1,
+        "ReloadSpeed_n": 1.2,
+        "ReloadSpeedRatio_n": 1,
+        "DestroyValue_n": 23,
+        "AccuracyAdditionBase_n": 1,
+        "StabilityAdditionBase_n": 1
+    },
+    {
+        "ID": 1003,
+        "Comment": "",
+        "DamageType_n": 4,
+        "Health_n": {
+            "1": 4000,
+            "10": 4000
+        },
+        "Attack_n": {
+            "1": 500,
+            "10": 500
+        },
+        "Defence_n": {
+            "1": 1000,
+            "10": 1000
+        },
+        "CriticalDamage_n": 30,
+        "Energy_n": 40,
+        "HitEnergy_n": 0.5,
+        "DamageCoefficient_n": 30,
+        "FireInterval_n": 0.67,
+        "FireSpeedRatio_n": 1,
+        "FireStorage_n": 0,
+        "BulletNum_n": 8,
+        "BulletLaunchCount_n": 8,
+        "ReloadSpeed_n": 1.3,
+        "ReloadSpeedRatio_n": 1,
+        "DestroyValue_n": 6,
+        "AccuracyAdditionBase_n": 1,
+        "StabilityAdditionBase_n": 1
+    }
+]

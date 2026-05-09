@@ -1,0 +1,1463 @@
+[
+    {
+        "ID": 11,
+        "Name": "ui.Txtfishpoint_title01",
+        "Desc": "ui.Txtfishpoint_des01",
+        "mapID": 5810,
+        "uniqueID": 874,
+        "NodeLevel": 1,
+        "Area": 1,
+        "FishingLevel": 1,
+        "Times": -1.0,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                1,
+                1000,
+                -1
+            ],
+            [
+                2,
+                1000,
+                -1
+            ]
+        ],
+        "Bait": [
+            1,
+            7111
+        ]
+    },
+    {
+        "ID": 21,
+        "Name": "ui.Txtfishpoint_title01",
+        "Desc": "ui.Txtfishpoint_des01",
+        "mapID": 5810,
+        "uniqueID": 861,
+        "NodeLevel": 1,
+        "Area": 2,
+        "FishingLevel": 1,
+        "Times": -1.0,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                1,
+                1000,
+                -1
+            ],
+            [
+                3,
+                1000,
+                -1
+            ]
+        ],
+        "Bait": [
+            1,
+            7111
+        ]
+    },
+    {
+        "ID": 22,
+        "Name": "ui.Txtfishpoint_title02",
+        "Desc": "ui.Txtfishpoint_des02",
+        "mapID": 5810,
+        "uniqueID": 862,
+        "NodeLevel": 2,
+        "Area": 2,
+        "FishingLevel": 1,
+        "Times": 50,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                2,
+                1000,
+                -1
+            ],
+            [
+                3,
+                1000,
+                -1
+            ],
+            [
+                6,
+                500,
+                4,
+                1
+            ]
+        ],
+        "Bait": [
+            1,
+            7112
+        ]
+    },
+    {
+        "ID": 31,
+        "Name": "ui.Txtfishpoint_title01",
+        "Desc": "ui.Txtfishpoint_des01",
+        "mapID": 5810,
+        "uniqueID": 863,
+        "NodeLevel": 1,
+        "Area": 3,
+        "FishingLevel": 1,
+        "Times": -1.0,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                2,
+                1000,
+                -1
+            ],
+            [
+                4,
+                1000,
+                -1
+            ]
+        ],
+        "Bait": [
+            1,
+            7111
+        ]
+    },
+    {
+        "ID": 32,
+        "Name": "ui.Txtfishpoint_title02",
+        "Desc": "ui.Txtfishpoint_des02",
+        "mapID": 5810,
+        "uniqueID": 864,
+        "NodeLevel": 2,
+        "Area": 3,
+        "FishingLevel": 1,
+        "Times": 50,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                1,
+                1000,
+                -1
+            ],
+            [
+                3,
+                1000,
+                -1
+            ],
+            [
+                7,
+                500,
+                4,
+                1
+            ]
+        ],
+        "Bait": [
+            1,
+            7112
+        ]
+    },
+    {
+        "ID": 41,
+        "Name": "ui.Txtfishpoint_title01",
+        "Desc": "ui.Txtfishpoint_des01",
+        "mapID": 5810,
+        "uniqueID": 865,
+        "NodeLevel": 1,
+        "Area": 4,
+        "FishingLevel": 1,
+        "Times": -1.0,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                3,
+                1000,
+                -1
+            ],
+            [
+                5,
+                1000,
+                -1
+            ]
+        ],
+        "Bait": [
+            1,
+            7111
+        ]
+    },
+    {
+        "ID": 42,
+        "Name": "ui.Txtfishpoint_title02",
+        "Desc": "ui.Txtfishpoint_des02",
+        "mapID": 5810,
+        "uniqueID": 866,
+        "NodeLevel": 2,
+        "Area": 4,
+        "FishingLevel": 1,
+        "Times": 50,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                2,
+                1000,
+                -1
+            ],
+            [
+                4,
+                1000,
+                -1
+            ],
+            [
+                8,
+                500,
+                4,
+                1
+            ]
+        ],
+        "Bait": [
+            1,
+            7112
+        ]
+    },
+    {
+        "ID": 43,
+        "Name": "ui.Txtfishpoint_title03",
+        "Desc": "ui.Txtfishpoint_des03",
+        "mapID": 5810,
+        "uniqueID": 867,
+        "NodeLevel": 3,
+        "Area": 4,
+        "FishingLevel": 1,
+        "Times": 25,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                1,
+                1000,
+                -1
+            ],
+            [
+                3,
+                1000,
+                -1
+            ],
+            [
+                6,
+                500,
+                -1
+            ],
+            [
+                7,
+                500,
+                -1
+            ],
+            [
+                10,
+                200,
+                8,
+                2
+            ],
+            [
+                11,
+                200,
+                8,
+                2
+            ]
+        ],
+        "Bait": [
+            1,
+            7113
+        ]
+    },
+    {
+        "ID": 51,
+        "Name": "ui.Txtfishpoint_title01",
+        "Desc": "ui.Txtfishpoint_des01",
+        "mapID": 5810,
+        "uniqueID": 868,
+        "NodeLevel": 1,
+        "Area": 5,
+        "FishingLevel": 1,
+        "Times": -1.0,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                2,
+                1000,
+                -1
+            ],
+            [
+                13,
+                1000,
+                -1
+            ]
+        ],
+        "Bait": [
+            1,
+            7111
+        ]
+    },
+    {
+        "ID": 52,
+        "Name": "ui.Txtfishpoint_title02",
+        "Desc": "ui.Txtfishpoint_des02",
+        "mapID": 5810,
+        "uniqueID": 869,
+        "NodeLevel": 2,
+        "Area": 5,
+        "FishingLevel": 1,
+        "Times": 50,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                1,
+                1000,
+                -1
+            ],
+            [
+                4,
+                1000,
+                -1
+            ],
+            [
+                9,
+                500,
+                4,
+                1
+            ]
+        ],
+        "Bait": [
+            1,
+            7112
+        ]
+    },
+    {
+        "ID": 53,
+        "Name": "ui.Txtfishpoint_title02",
+        "Desc": "ui.Txtfishpoint_des02",
+        "mapID": 5810,
+        "uniqueID": 870,
+        "NodeLevel": 2,
+        "Area": 5,
+        "FishingLevel": 1,
+        "Times": 50,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                4,
+                1000,
+                -1
+            ],
+            [
+                5,
+                1000,
+                -1
+            ],
+            [
+                14,
+                500,
+                4,
+                1
+            ]
+        ],
+        "Bait": [
+            1,
+            7112
+        ]
+    },
+    {
+        "ID": 54,
+        "Name": "ui.Txtfishpoint_title03",
+        "Desc": "ui.Txtfishpoint_des03",
+        "mapID": 5810,
+        "uniqueID": 871,
+        "NodeLevel": 3,
+        "Area": 5,
+        "FishingLevel": 1,
+        "Times": 25,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                4,
+                1000,
+                -1
+            ],
+            [
+                13,
+                1000,
+                -1
+            ],
+            [
+                8,
+                500,
+                -1
+            ],
+            [
+                9,
+                500,
+                -1
+            ],
+            [
+                12,
+                200,
+                8,
+                2
+            ],
+            [
+                16,
+                200,
+                8,
+                2
+            ]
+        ],
+        "Bait": [
+            1,
+            7113
+        ]
+    },
+    {
+        "ID": 61,
+        "Name": "ui.Txtfishpoint_title02",
+        "Desc": "ui.Txtfishpoint_des02",
+        "mapID": 5810,
+        "uniqueID": 872,
+        "NodeLevel": 2,
+        "Area": 6,
+        "FishingLevel": 1,
+        "Times": 50,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                5,
+                1000,
+                -1
+            ],
+            [
+                13,
+                1000,
+                -1
+            ],
+            [
+                15,
+                500,
+                4,
+                1
+            ]
+        ],
+        "Bait": [
+            1,
+            7112
+        ]
+    },
+    {
+        "ID": 62,
+        "Name": "ui.Txtfishpoint_title03",
+        "Desc": "ui.Txtfishpoint_des03",
+        "mapID": 5810,
+        "uniqueID": 873,
+        "NodeLevel": 3,
+        "Area": 6,
+        "FishingLevel": 1,
+        "Times": 25,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                5,
+                1000,
+                -1
+            ],
+            [
+                13,
+                1000,
+                -1
+            ],
+            [
+                14,
+                500,
+                -1
+            ],
+            [
+                15,
+                500,
+                -1
+            ],
+            [
+                17,
+                200,
+                8,
+                2
+            ],
+            [
+                18,
+                200,
+                8,
+                2
+            ]
+        ],
+        "Bait": [
+            1,
+            7113
+        ]
+    },
+    {
+        "ID": 111,
+        "Name": "ui.Txtfishpoint_title01",
+        "Desc": "ui.Txtfishpoint_des01",
+        "mapID": 325,
+        "uniqueID": 770,
+        "NodeLevel": 1,
+        "Area": 1,
+        "FishingLevel": 1,
+        "Times": -1.0,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                24,
+                1000,
+                -1
+            ],
+            [
+                19,
+                1000,
+                -1
+            ]
+        ],
+        "Bait": [
+            1,
+            7111
+        ]
+    },
+    {
+        "ID": 112,
+        "Name": "ui.Txtfishpoint_title02",
+        "Desc": "ui.Txtfishpoint_des02",
+        "mapID": 325,
+        "uniqueID": 771,
+        "NodeLevel": 2,
+        "Area": 1,
+        "FishingLevel": 1,
+        "Times": 50,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                24,
+                1000,
+                -1
+            ],
+            [
+                26,
+                500,
+                4,
+                1
+            ],
+            [
+                27,
+                500,
+                4,
+                1
+            ]
+        ],
+        "Bait": [
+            1,
+            7112
+        ]
+    },
+    {
+        "ID": 121,
+        "Name": "ui.Txtfishpoint_title01",
+        "Desc": "ui.Txtfishpoint_des01",
+        "mapID": 325,
+        "uniqueID": 773,
+        "NodeLevel": 1,
+        "Area": 2,
+        "FishingLevel": 1,
+        "Times": -1.0,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                25,
+                1000,
+                -1
+            ],
+            [
+                20,
+                1000,
+                -1
+            ]
+        ],
+        "Bait": [
+            1,
+            7113
+        ]
+    },
+    {
+        "ID": 122,
+        "Name": "ui.Txtfishpoint_title03",
+        "Desc": "ui.Txtfishpoint_des03",
+        "mapID": 325,
+        "uniqueID": 772,
+        "NodeLevel": 3,
+        "Area": 2,
+        "FishingLevel": 1,
+        "Times": 25,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                24,
+                1000,
+                -1
+            ],
+            [
+                19,
+                1000,
+                -1
+            ],
+            [
+                26,
+                500,
+                8,
+                2
+            ],
+            [
+                22,
+                200,
+                8,
+                2
+            ],
+            [
+                30,
+                200,
+                8,
+                2
+            ]
+        ],
+        "Bait": [
+            1,
+            7111
+        ]
+    },
+    {
+        "ID": 131,
+        "Name": "ui.Txtfishpoint_title02",
+        "Desc": "ui.Txtfishpoint_des02",
+        "mapID": 325,
+        "uniqueID": 819,
+        "NodeLevel": 2,
+        "Area": 3,
+        "FishingLevel": 1,
+        "Times": 50,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                25,
+                1000,
+                -1
+            ],
+            [
+                21,
+                500,
+                4,
+                1
+            ],
+            [
+                28,
+                500,
+                4,
+                1
+            ]
+        ],
+        "Bait": [
+            1,
+            7112
+        ]
+    },
+    {
+        "ID": 132,
+        "Name": "ui.Txtfishpoint_title03",
+        "Desc": "ui.Txtfishpoint_des03",
+        "mapID": 325,
+        "uniqueID": 818,
+        "NodeLevel": 3,
+        "Area": 3,
+        "FishingLevel": 1,
+        "Times": 25,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                25,
+                1000,
+                -1
+            ],
+            [
+                26,
+                500,
+                4,
+                1
+            ],
+            [
+                28,
+                500,
+                4,
+                1
+            ],
+            [
+                23,
+                200,
+                8,
+                2
+            ],
+            [
+                29,
+                200,
+                8,
+                2
+            ]
+        ],
+        "Bait": [
+            1,
+            7112
+        ]
+    },
+    {
+        "ID": 140,
+        "Name": "ui.TxtVircaptureMatchPoint1",
+        "Desc": "ui.TxtMatchPoint",
+        "mapID": 325,
+        "uniqueID": 837,
+        "NodeLevel": 3,
+        "Area": 2,
+        "FishingLevel": 1,
+        "Times": -1.0,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                31,
+                1000,
+                -1
+            ],
+            [
+                32,
+                1000,
+                -1
+            ]
+        ],
+        "Bait": [
+            1,
+            7113
+        ],
+        "SeasonId": 1
+    },
+    {
+        "ID": 71,
+        "Name": "ui.Txtfishpoint_title01",
+        "Desc": "ui.Txtfishpoint_des01",
+        "mapID": 326,
+        "uniqueID": 587,
+        "NodeLevel": 1,
+        "Area": 1,
+        "FishingLevel": 1,
+        "Times": -1.0,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                1,
+                1000,
+                -1
+            ],
+            [
+                2,
+                1000,
+                -1
+            ],
+            [
+                3,
+                1000,
+                -1
+            ],
+            [
+                4,
+                1000,
+                -1
+            ],
+            [
+                5,
+                1000,
+                -1
+            ],
+            [
+                13,
+                1000,
+                -1
+            ],
+            [
+                19,
+                1000,
+                -1
+            ],
+            [
+                20,
+                1000,
+                -1
+            ],
+            [
+                24,
+                1000,
+                -1
+            ],
+            [
+                25,
+                1000,
+                -1
+            ]
+        ],
+        "Bait": [
+            1,
+            7111
+        ]
+    },
+    {
+        "ID": 72,
+        "Name": "ui.Txtfishpoint_title02",
+        "Desc": "ui.Txtfishpoint_des02",
+        "mapID": 326,
+        "uniqueID": 586,
+        "NodeLevel": 2,
+        "Area": 1,
+        "FishingLevel": 1,
+        "Times": 50,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                1,
+                1000,
+                -1
+            ],
+            [
+                2,
+                1000,
+                -1
+            ],
+            [
+                3,
+                1000,
+                -1
+            ],
+            [
+                4,
+                1000,
+                -1
+            ],
+            [
+                5,
+                1000,
+                -1
+            ],
+            [
+                13,
+                1000,
+                -1
+            ],
+            [
+                19,
+                1000,
+                -1
+            ],
+            [
+                20,
+                1000,
+                -1
+            ],
+            [
+                24,
+                1000,
+                -1
+            ],
+            [
+                25,
+                1000,
+                -1
+            ],
+            [
+                6,
+                2000,
+                -1
+            ],
+            [
+                7,
+                2000,
+                -1
+            ],
+            [
+                8,
+                2000,
+                -1
+            ],
+            [
+                9,
+                2000,
+                -1
+            ],
+            [
+                14,
+                2000,
+                -1
+            ],
+            [
+                15,
+                2000,
+                -1
+            ],
+            [
+                21,
+                2000,
+                -1
+            ]
+        ],
+        "Bait": [
+            1,
+            7112
+        ]
+    },
+    {
+        "ID": 73,
+        "Name": "ui.Txtfishpoint_title01",
+        "Desc": "ui.Txtfishpoint_des01",
+        "mapID": 326,
+        "uniqueID": 582,
+        "NodeLevel": 1,
+        "Area": 3,
+        "FishingLevel": 1,
+        "Times": -1.0,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                1,
+                1000,
+                -1
+            ],
+            [
+                2,
+                1000,
+                -1
+            ],
+            [
+                3,
+                1000,
+                -1
+            ],
+            [
+                4,
+                1000,
+                -1
+            ],
+            [
+                5,
+                1000,
+                -1
+            ],
+            [
+                13,
+                1000,
+                -1
+            ],
+            [
+                19,
+                1000,
+                -1
+            ],
+            [
+                20,
+                1000,
+                -1
+            ],
+            [
+                24,
+                1000,
+                -1
+            ],
+            [
+                25,
+                1000,
+                -1
+            ]
+        ],
+        "Bait": [
+            1,
+            7111
+        ]
+    },
+    {
+        "ID": 74,
+        "Name": "ui.Txtfishpoint_title03",
+        "Desc": "ui.Txtfishpoint_des03",
+        "mapID": 326,
+        "uniqueID": 583,
+        "NodeLevel": 3,
+        "Area": 5,
+        "FishingLevel": 1,
+        "Times": 25,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                6,
+                1000,
+                -1
+            ],
+            [
+                7,
+                1000,
+                -1
+            ],
+            [
+                8,
+                1000,
+                -1
+            ],
+            [
+                9,
+                1000,
+                -1
+            ],
+            [
+                14,
+                1000,
+                -1
+            ],
+            [
+                15,
+                1000,
+                -1
+            ],
+            [
+                21,
+                1000,
+                -1
+            ],
+            [
+                10,
+                2000,
+                -1
+            ],
+            [
+                11,
+                2000,
+                -1
+            ],
+            [
+                12,
+                2000,
+                -1
+            ],
+            [
+                16,
+                2000,
+                -1
+            ],
+            [
+                17,
+                2000,
+                -1
+            ],
+            [
+                18,
+                2000,
+                -1
+            ],
+            [
+                22,
+                2000,
+                -1
+            ],
+            [
+                23,
+                2000,
+                -1
+            ]
+        ],
+        "Bait": [
+            1,
+            7113
+        ]
+    },
+    {
+        "ID": 75,
+        "Name": "ui.Txtfishpoint_title02",
+        "Desc": "ui.Txtfishpoint_des02",
+        "mapID": 326,
+        "uniqueID": 584,
+        "NodeLevel": 2,
+        "Area": 4,
+        "FishingLevel": 1,
+        "Times": 50,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                1,
+                1000,
+                -1
+            ],
+            [
+                2,
+                1000,
+                -1
+            ],
+            [
+                3,
+                1000,
+                -1
+            ],
+            [
+                4,
+                1000,
+                -1
+            ],
+            [
+                5,
+                1000,
+                -1
+            ],
+            [
+                13,
+                1000,
+                -1
+            ],
+            [
+                19,
+                1000,
+                -1
+            ],
+            [
+                20,
+                1000,
+                -1
+            ],
+            [
+                24,
+                1000,
+                -1
+            ],
+            [
+                25,
+                1000,
+                -1
+            ],
+            [
+                6,
+                2000,
+                -1
+            ],
+            [
+                7,
+                2000,
+                -1
+            ],
+            [
+                8,
+                2000,
+                -1
+            ],
+            [
+                9,
+                2000,
+                -1
+            ],
+            [
+                14,
+                2000,
+                -1
+            ],
+            [
+                15,
+                2000,
+                -1
+            ],
+            [
+                21,
+                2000,
+                -1
+            ]
+        ],
+        "Bait": [
+            1,
+            7112
+        ]
+    },
+    {
+        "ID": 76,
+        "Name": "ui.Txtfishpoint_title01",
+        "Desc": "ui.Txtfishpoint_des01",
+        "mapID": 326,
+        "uniqueID": 585,
+        "NodeLevel": 1,
+        "Area": 4,
+        "FishingLevel": 1,
+        "Times": -1.0,
+        "Recover": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "FishWeight": [
+            [
+                1,
+                1000,
+                -1
+            ],
+            [
+                2,
+                1000,
+                -1
+            ],
+            [
+                3,
+                1000,
+                -1
+            ],
+            [
+                4,
+                1000,
+                -1
+            ],
+            [
+                5,
+                1000,
+                -1
+            ],
+            [
+                13,
+                1000,
+                -1
+            ],
+            [
+                19,
+                1000,
+                -1
+            ],
+            [
+                20,
+                1000,
+                -1
+            ],
+            [
+                24,
+                1000,
+                -1
+            ],
+            [
+                25,
+                1000,
+                -1
+            ]
+        ],
+        "Bait": [
+            1,
+            7111
+        ]
+    }
+]

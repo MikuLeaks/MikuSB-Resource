@@ -1,0 +1,2466 @@
+[
+    {
+        "ID": 1,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_01",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_01",
+        "Icon": 4820000,
+        "BuffId": 100001,
+        "Level": 1
+    },
+    {
+        "ID": 2,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_02",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_01",
+        "Icon": 4820000,
+        "BuffId": 100001,
+        "Level": 2
+    },
+    {
+        "ID": 3,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_03",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_01",
+        "Icon": 4820000,
+        "BuffId": 100001,
+        "Level": 3
+    },
+    {
+        "ID": 4,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_04",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_04",
+        "Icon": 4820000,
+        "BuffId": 100002,
+        "Level": 1
+    },
+    {
+        "ID": 5,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_05",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_04",
+        "Icon": 4820000,
+        "BuffId": 100002,
+        "Level": 2
+    },
+    {
+        "ID": 6,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_06",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_04",
+        "Icon": 4820000,
+        "BuffId": 100002,
+        "Level": 3
+    },
+    {
+        "ID": 7,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_07",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_07",
+        "Icon": 4820000,
+        "BuffId": 100003,
+        "Level": 1
+    },
+    {
+        "ID": 8,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_08",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_07",
+        "Icon": 4820000,
+        "BuffId": 100003,
+        "Level": 2
+    },
+    {
+        "ID": 9,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_09",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_07",
+        "Icon": 4820000,
+        "BuffId": 100003,
+        "Level": 3
+    },
+    {
+        "ID": 10,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_10",
+        "DesParam": [
+            50
+        ],
+        "Des": "farmwar.farmwar_benefitdes_10",
+        "Icon": 4820001,
+        "BuffId": 100004,
+        "Level": 1
+    },
+    {
+        "ID": 11,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_11",
+        "DesParam": [
+            100
+        ],
+        "Des": "farmwar.farmwar_benefitdes_10",
+        "Icon": 4820001,
+        "BuffId": 100004,
+        "Level": 2
+    },
+    {
+        "ID": 12,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_12",
+        "DesParam": [
+            150
+        ],
+        "Des": "farmwar.farmwar_benefitdes_10",
+        "Icon": 4820001,
+        "BuffId": 100004,
+        "Level": 3
+    },
+    {
+        "ID": 13,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_13",
+        "DesParam": [
+            50
+        ],
+        "Des": "farmwar.farmwar_benefitdes_13",
+        "Icon": 4820001,
+        "BuffId": 100005,
+        "Level": 1
+    },
+    {
+        "ID": 14,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_14",
+        "DesParam": [
+            100
+        ],
+        "Des": "farmwar.farmwar_benefitdes_13",
+        "Icon": 4820001,
+        "BuffId": 100005,
+        "Level": 2
+    },
+    {
+        "ID": 15,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_15",
+        "DesParam": [
+            150
+        ],
+        "Des": "farmwar.farmwar_benefitdes_13",
+        "Icon": 4820001,
+        "BuffId": 100005,
+        "Level": 3
+    },
+    {
+        "ID": 16,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_16",
+        "DesParam": [
+            50
+        ],
+        "Des": "farmwar.farmwar_benefitdes_16",
+        "Icon": 4820001,
+        "BuffId": 100006,
+        "Level": 1
+    },
+    {
+        "ID": 17,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_17",
+        "DesParam": [
+            100
+        ],
+        "Des": "farmwar.farmwar_benefitdes_16",
+        "Icon": 4820001,
+        "BuffId": 100006,
+        "Level": 2
+    },
+    {
+        "ID": 18,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_18",
+        "DesParam": [
+            150
+        ],
+        "Des": "farmwar.farmwar_benefitdes_16",
+        "Icon": 4820001,
+        "BuffId": 100006,
+        "Level": 3
+    },
+    {
+        "ID": 19,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_19",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_19",
+        "Icon": 4820001,
+        "BuffId": 100007,
+        "Level": 1
+    },
+    {
+        "ID": 20,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_20",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_19",
+        "Icon": 4820001,
+        "BuffId": 100007,
+        "Level": 2
+    },
+    {
+        "ID": 21,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_21",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_19",
+        "Icon": 4820001,
+        "BuffId": 100007,
+        "Level": 3
+    },
+    {
+        "ID": 22,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_22",
+        "DesParam": [
+            30,
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_22",
+        "Icon": 4820000,
+        "BuffId": 100008,
+        "Level": 1
+    },
+    {
+        "ID": 23,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_23",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_23",
+        "Icon": 4820001,
+        "BuffId": 100009,
+        "Level": 1
+    },
+    {
+        "ID": 24,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_24",
+        "DesParam": [
+            35
+        ],
+        "Des": "farmwar.farmwar_benefitdes_23",
+        "Icon": 4820001,
+        "BuffId": 100009,
+        "Level": 2
+    },
+    {
+        "ID": 25,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_25",
+        "DesParam": [
+            50
+        ],
+        "Des": "farmwar.farmwar_benefitdes_23",
+        "Icon": 4820001,
+        "BuffId": 100009,
+        "Level": 3
+    },
+    {
+        "ID": 28,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_28",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_28",
+        "Icon": 4820007,
+        "BuffId": 100012,
+        "Level": 1
+    },
+    {
+        "ID": 29,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_29",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_28",
+        "Icon": 4820007,
+        "BuffId": 100012,
+        "Level": 2
+    },
+    {
+        "ID": 30,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_30",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_28",
+        "Icon": 4820007,
+        "BuffId": 100012,
+        "Level": 3
+    },
+    {
+        "ID": 31,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_31",
+        "DesParam": [
+            25
+        ],
+        "Des": "farmwar.farmwar_benefitdes_31",
+        "Icon": 4820002,
+        "BuffId": 100016,
+        "Level": 1
+    },
+    {
+        "ID": 32,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_32",
+        "DesParam": [
+            50
+        ],
+        "Des": "farmwar.farmwar_benefitdes_31",
+        "Icon": 4820002,
+        "BuffId": 100016,
+        "Level": 2
+    },
+    {
+        "ID": 33,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_33",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_33",
+        "Icon": 4820004,
+        "BuffId": 100017,
+        "Level": 1
+    },
+    {
+        "ID": 34,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_34",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_33",
+        "Icon": 4820004,
+        "BuffId": 100017,
+        "Level": 2
+    },
+    {
+        "ID": 35,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_35",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_33",
+        "Icon": 4820004,
+        "BuffId": 100017,
+        "Level": 3
+    },
+    {
+        "ID": 36,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_36",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_36",
+        "Icon": 4820003,
+        "BuffId": 100018,
+        "Level": 1
+    },
+    {
+        "ID": 37,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_37",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_36",
+        "Icon": 4820003,
+        "BuffId": 100018,
+        "Level": 2
+    },
+    {
+        "ID": 38,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_38",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_36",
+        "Icon": 4820003,
+        "BuffId": 100018,
+        "Level": 3
+    },
+    {
+        "ID": 39,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_39",
+        "DesParam": [
+            25
+        ],
+        "Des": "farmwar.farmwar_benefitdes_39",
+        "Icon": 4820008,
+        "BuffId": 100025,
+        "Level": 1
+    },
+    {
+        "ID": 40,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_40",
+        "DesParam": [
+            50
+        ],
+        "Des": "farmwar.farmwar_benefitdes_39",
+        "Icon": 4820008,
+        "BuffId": 100019,
+        "Level": 1
+    },
+    {
+        "ID": 41,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_41",
+        "DesParam": "",
+        "Des": "farmwar.farmwar_benefitdes_41",
+        "Icon": 4820008,
+        "BuffId": 100020,
+        "Level": 1
+    },
+    {
+        "ID": 42,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_42",
+        "DesParam": "",
+        "Des": "farmwar.farmwar_benefitdes_42",
+        "Icon": 4820008,
+        "BuffId": 100021,
+        "Level": 1
+    },
+    {
+        "ID": 43,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_43",
+        "DesParam": [
+            40,
+            1,
+            3
+        ],
+        "Des": "farmwar.farmwar_benefitdes_43",
+        "Icon": 4820003,
+        "BuffId": 100022,
+        "Level": 1
+    },
+    {
+        "ID": 44,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_44",
+        "DesParam": [
+            3
+        ],
+        "Des": "farmwar.farmwar_benefitdes_44",
+        "Icon": 4820006,
+        "BuffId": 100023,
+        "Level": 1
+    },
+    {
+        "ID": 45,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_45",
+        "DesParam": [
+            2
+        ],
+        "Des": "farmwar.farmwar_benefitdes_45",
+        "Icon": 4820005,
+        "BuffId": 100024,
+        "Level": 1
+    },
+    {
+        "ID": 46,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_46",
+        "DesParam": [
+            15,
+            2
+        ],
+        "Des": "farmwar.farmwar_benefitdes_46",
+        "Icon": 4820008,
+        "BuffId": 100026,
+        "Level": 1
+    },
+    {
+        "ID": 47,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_47",
+        "DesParam": [
+            20,
+            2
+        ],
+        "Des": "farmwar.farmwar_benefitdes_47",
+        "Icon": 4820003,
+        "BuffId": 100027,
+        "Level": 1
+    },
+    {
+        "ID": 48,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_48",
+        "DesParam": [
+            40,
+            3
+        ],
+        "Des": "farmwar.farmwar_benefitdes_47",
+        "Icon": 4820003,
+        "BuffId": 100028,
+        "Level": 1
+    },
+    {
+        "ID": 49,
+        "Schedule": 1,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_49",
+        "DesParam": [
+            30,
+            2
+        ],
+        "Des": "farmwar.farmwar_benefitdes_49",
+        "Icon": 4820008,
+        "BuffId": 100029,
+        "Level": 1
+    },
+    {
+        "ID": 66,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_01",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_01",
+        "Icon": 4820000,
+        "BuffId": 100001,
+        "Level": 1
+    },
+    {
+        "ID": 67,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_02",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_01",
+        "Icon": 4820000,
+        "BuffId": 100001,
+        "Level": 2
+    },
+    {
+        "ID": 68,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_03",
+        "DesParam": [
+            40
+        ],
+        "Des": "farmwar.farmwar_benefitdes_01",
+        "Icon": 4820000,
+        "BuffId": 100001,
+        "Level": 3
+    },
+    {
+        "ID": 69,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_04",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_04",
+        "Icon": 4820000,
+        "BuffId": 100002,
+        "Level": 1
+    },
+    {
+        "ID": 70,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_05",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_04",
+        "Icon": 4820000,
+        "BuffId": 100002,
+        "Level": 2
+    },
+    {
+        "ID": 71,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_06",
+        "DesParam": [
+            40
+        ],
+        "Des": "farmwar.farmwar_benefitdes_04",
+        "Icon": 4820000,
+        "BuffId": 100002,
+        "Level": 3
+    },
+    {
+        "ID": 72,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_07",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_07",
+        "Icon": 4820000,
+        "BuffId": 100003,
+        "Level": 1
+    },
+    {
+        "ID": 73,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_08",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_07",
+        "Icon": 4820000,
+        "BuffId": 100003,
+        "Level": 2
+    },
+    {
+        "ID": 74,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_09",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_07",
+        "Icon": 4820000,
+        "BuffId": 100003,
+        "Level": 3
+    },
+    {
+        "ID": 75,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_10",
+        "DesParam": [
+            50
+        ],
+        "Des": "farmwar.farmwar_benefitdes_10",
+        "Icon": 4820001,
+        "BuffId": 100004,
+        "Level": 1
+    },
+    {
+        "ID": 76,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_11",
+        "DesParam": [
+            100
+        ],
+        "Des": "farmwar.farmwar_benefitdes_10",
+        "Icon": 4820001,
+        "BuffId": 100004,
+        "Level": 2
+    },
+    {
+        "ID": 77,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_12",
+        "DesParam": [
+            150
+        ],
+        "Des": "farmwar.farmwar_benefitdes_10",
+        "Icon": 4820001,
+        "BuffId": 100004,
+        "Level": 3
+    },
+    {
+        "ID": 78,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_13",
+        "DesParam": [
+            50
+        ],
+        "Des": "farmwar.farmwar_benefitdes_13",
+        "Icon": 4820001,
+        "BuffId": 100005,
+        "Level": 1
+    },
+    {
+        "ID": 79,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_14",
+        "DesParam": [
+            100
+        ],
+        "Des": "farmwar.farmwar_benefitdes_13",
+        "Icon": 4820001,
+        "BuffId": 100005,
+        "Level": 2
+    },
+    {
+        "ID": 80,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_15",
+        "DesParam": [
+            150
+        ],
+        "Des": "farmwar.farmwar_benefitdes_13",
+        "Icon": 4820001,
+        "BuffId": 100005,
+        "Level": 3
+    },
+    {
+        "ID": 81,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_16",
+        "DesParam": [
+            50
+        ],
+        "Des": "farmwar.farmwar_benefitdes_16",
+        "Icon": 4820001,
+        "BuffId": 100006,
+        "Level": 1
+    },
+    {
+        "ID": 82,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_17",
+        "DesParam": [
+            100
+        ],
+        "Des": "farmwar.farmwar_benefitdes_16",
+        "Icon": 4820001,
+        "BuffId": 100006,
+        "Level": 2
+    },
+    {
+        "ID": 83,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_18",
+        "DesParam": [
+            150
+        ],
+        "Des": "farmwar.farmwar_benefitdes_16",
+        "Icon": 4820001,
+        "BuffId": 100006,
+        "Level": 3
+    },
+    {
+        "ID": 84,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_19",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_19",
+        "Icon": 4820001,
+        "BuffId": 100007,
+        "Level": 1
+    },
+    {
+        "ID": 85,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_20",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_19",
+        "Icon": 4820001,
+        "BuffId": 100007,
+        "Level": 2
+    },
+    {
+        "ID": 86,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_21",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_19",
+        "Icon": 4820001,
+        "BuffId": 100007,
+        "Level": 3
+    },
+    {
+        "ID": 87,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_22",
+        "DesParam": [
+            30,
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_22",
+        "Icon": 4820000,
+        "BuffId": 100008,
+        "Level": 1
+    },
+    {
+        "ID": 88,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_23",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_23",
+        "Icon": 4820001,
+        "BuffId": 100009,
+        "Level": 1
+    },
+    {
+        "ID": 89,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_24",
+        "DesParam": [
+            35
+        ],
+        "Des": "farmwar.farmwar_benefitdes_23",
+        "Icon": 4820001,
+        "BuffId": 100009,
+        "Level": 2
+    },
+    {
+        "ID": 90,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_25",
+        "DesParam": [
+            50
+        ],
+        "Des": "farmwar.farmwar_benefitdes_23",
+        "Icon": 4820001,
+        "BuffId": 100009,
+        "Level": 3
+    },
+    {
+        "ID": 91,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_28",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_28",
+        "Icon": 4820007,
+        "BuffId": 100012,
+        "Level": 1
+    },
+    {
+        "ID": 92,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_29",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_28",
+        "Icon": 4820007,
+        "BuffId": 100012,
+        "Level": 2
+    },
+    {
+        "ID": 93,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_30",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_28",
+        "Icon": 4820007,
+        "BuffId": 100012,
+        "Level": 3
+    },
+    {
+        "ID": 94,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_31",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_31",
+        "Icon": 4820002,
+        "BuffId": 100016,
+        "Level": 1
+    },
+    {
+        "ID": 95,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_32",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_31",
+        "Icon": 4820002,
+        "BuffId": 100016,
+        "Level": 2
+    },
+    {
+        "ID": 96,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_33",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_33",
+        "Icon": 4820004,
+        "BuffId": 100017,
+        "Level": 1
+    },
+    {
+        "ID": 97,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_34",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_33",
+        "Icon": 4820004,
+        "BuffId": 100017,
+        "Level": 2
+    },
+    {
+        "ID": 98,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_35",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_33",
+        "Icon": 4820004,
+        "BuffId": 100017,
+        "Level": 3
+    },
+    {
+        "ID": 99,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_36",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_36",
+        "Icon": 4820003,
+        "BuffId": 100018,
+        "Level": 1
+    },
+    {
+        "ID": 100,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_37",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_36",
+        "Icon": 4820003,
+        "BuffId": 100018,
+        "Level": 2
+    },
+    {
+        "ID": 101,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_38",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_36",
+        "Icon": 4820003,
+        "BuffId": 100018,
+        "Level": 3
+    },
+    {
+        "ID": 102,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_39",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_39",
+        "Icon": 4820008,
+        "BuffId": 100025,
+        "Level": 1
+    },
+    {
+        "ID": 103,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_40",
+        "DesParam": [
+            50
+        ],
+        "Des": "farmwar.farmwar_benefitdes_39",
+        "Icon": 4820008,
+        "BuffId": 100019,
+        "Level": 1
+    },
+    {
+        "ID": 104,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_41",
+        "DesParam": "",
+        "Des": "farmwar.farmwar_benefitdes_41",
+        "Icon": 4820008,
+        "BuffId": 100020,
+        "Level": 1
+    },
+    {
+        "ID": 105,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_42",
+        "DesParam": "",
+        "Des": "farmwar.farmwar_benefitdes_42",
+        "Icon": 4820008,
+        "BuffId": 100021,
+        "Level": 1
+    },
+    {
+        "ID": 106,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_43",
+        "DesParam": [
+            40,
+            1,
+            3
+        ],
+        "Des": "farmwar.farmwar_benefitdes_43",
+        "Icon": 4820003,
+        "BuffId": 100022,
+        "Level": 1
+    },
+    {
+        "ID": 107,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_44",
+        "DesParam": [
+            3
+        ],
+        "Des": "farmwar.farmwar_benefitdes_44",
+        "Icon": 4820006,
+        "BuffId": 100023,
+        "Level": 1
+    },
+    {
+        "ID": 108,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_45",
+        "DesParam": [
+            2
+        ],
+        "Des": "farmwar.farmwar_benefitdes_45",
+        "Icon": 4820005,
+        "BuffId": 100024,
+        "Level": 1
+    },
+    {
+        "ID": 109,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_46",
+        "DesParam": [
+            15,
+            2
+        ],
+        "Des": "farmwar.farmwar_benefitdes_46",
+        "Icon": 4820008,
+        "BuffId": 100026,
+        "Level": 1
+    },
+    {
+        "ID": 110,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_47",
+        "DesParam": [
+            20,
+            2
+        ],
+        "Des": "farmwar.farmwar_benefitdes_47",
+        "Icon": 4820003,
+        "BuffId": 100027,
+        "Level": 1
+    },
+    {
+        "ID": 111,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_48",
+        "DesParam": [
+            40,
+            3
+        ],
+        "Des": "farmwar.farmwar_benefitdes_47",
+        "Icon": 4820003,
+        "BuffId": 100028,
+        "Level": 1
+    },
+    {
+        "ID": 112,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_49",
+        "DesParam": [
+            30,
+            2
+        ],
+        "Des": "farmwar.farmwar_benefitdes_49",
+        "Icon": 4820008,
+        "BuffId": 100029,
+        "Level": 1
+    },
+    {
+        "ID": 113,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "",
+        "DesParam": "",
+        "Des": "",
+        "Icon": "",
+        "BuffId": 190002,
+        "Level": 1
+    },
+    {
+        "ID": 114,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "",
+        "DesParam": "",
+        "Des": "",
+        "Icon": "",
+        "BuffId": 190001,
+        "Level": 1
+    },
+    {
+        "ID": 115,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_52",
+        "DesParam": "",
+        "Des": "farmwar.farmwar_benefitdes_52",
+        "Icon": 4820010,
+        "BuffId": 110001,
+        "Level": 1
+    },
+    {
+        "ID": 116,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_53",
+        "DesParam": [
+            10,
+            1
+        ],
+        "Des": "farmwar.farmwar_benefitdes_53",
+        "Icon": 4820011,
+        "BuffId": 110002,
+        "Level": 1
+    },
+    {
+        "ID": 117,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_54",
+        "DesParam": [
+            1,
+            1
+        ],
+        "Des": "farmwar.farmwar_benefitdes_54",
+        "Icon": 4820009,
+        "BuffId": 110003,
+        "Level": 1
+    },
+    {
+        "ID": 118,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": 1,
+        "Name": "farmwar.farmwar_benefitname_55",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_55",
+        "Icon": 4820001,
+        "BuffId": 110004,
+        "Level": 1
+    },
+    {
+        "ID": 119,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_56",
+        "DesParam": [
+            1,
+            3,
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_56",
+        "Icon": 4820000,
+        "BuffId": 110005,
+        "Level": 1
+    },
+    {
+        "ID": 120,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": 1,
+        "Name": "farmwar.farmwar_benefitname_57",
+        "DesParam": [
+            10,
+            100,
+            2000
+        ],
+        "Des": "farmwar.farmwar_benefitdes_57",
+        "Icon": 4820001,
+        "BuffId": 110006,
+        "Level": 1
+    },
+    {
+        "ID": 121,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": 1,
+        "Name": "farmwar.farmwar_benefitname_58",
+        "DesParam": [
+            4,
+            50,
+            60
+        ],
+        "Des": "farmwar.farmwar_benefitdes_58",
+        "Icon": 4820000,
+        "BuffId": 110007,
+        "Level": 1
+    },
+    {
+        "ID": 122,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "",
+        "DesParam": "",
+        "Des": "",
+        "Icon": 4820000,
+        "BuffId": 110008,
+        "Level": 1
+    },
+    {
+        "ID": 123,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_60",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_60",
+        "Icon": 4820000,
+        "BuffId": 110009,
+        "Level": 1
+    },
+    {
+        "ID": 124,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "",
+        "DesParam": "",
+        "Des": "",
+        "Icon": "",
+        "BuffId": 110010,
+        "Level": 1
+    },
+    {
+        "ID": 125,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": 1,
+        "Name": "farmwar.farmwar_benefitname_62",
+        "DesParam": [
+            1,
+            10,
+            120
+        ],
+        "Des": "farmwar.farmwar_benefitdes_62",
+        "Icon": 4820000,
+        "BuffId": 110011,
+        "Level": 1
+    },
+    {
+        "ID": 126,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_63",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_63",
+        "Icon": 4820001,
+        "BuffId": 110012,
+        "Level": 1
+    },
+    {
+        "ID": 127,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_64",
+        "DesParam": [
+            30,
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_64",
+        "Icon": 4820008,
+        "BuffId": 110013,
+        "Level": 1
+    },
+    {
+        "ID": 128,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "",
+        "DesParam": "",
+        "Des": "",
+        "Icon": 4820000,
+        "BuffId": 110014,
+        "Level": 1
+    },
+    {
+        "ID": 129,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 1,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_66",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_66",
+        "Icon": 4820011,
+        "BuffId": 100030,
+        "Level": 1
+    },
+    {
+        "ID": 130,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 1,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_67",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_67",
+        "Icon": 4820011,
+        "BuffId": 100030,
+        "Level": 2
+    },
+    {
+        "ID": 131,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 1,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_68",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_68",
+        "Icon": 4820011,
+        "BuffId": 100030,
+        "Level": 3
+    },
+    {
+        "ID": 132,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 1,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_69",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_69",
+        "Icon": 4820009,
+        "BuffId": 100031,
+        "Level": 1
+    },
+    {
+        "ID": 133,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 1,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_70",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_70",
+        "Icon": 4820009,
+        "BuffId": 100031,
+        "Level": 2
+    },
+    {
+        "ID": 134,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 1,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_71",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_71",
+        "Icon": 4820009,
+        "BuffId": 100031,
+        "Level": 3
+    },
+    {
+        "ID": 135,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 2,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_72",
+        "DesParam": "",
+        "Des": "farmwar.farmwar_benefitdes_72",
+        "Icon": 4820005,
+        "BuffId": 100032,
+        "Level": 1
+    },
+    {
+        "ID": 136,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 6,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_73",
+        "DesParam": [
+            25,
+            100
+        ],
+        "Des": "farmwar.farmwar_benefitdes_73",
+        "Icon": 4820000,
+        "BuffId": 100033,
+        "Level": 1
+    },
+    {
+        "ID": 137,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 6,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_74",
+        "DesParam": [
+            5
+        ],
+        "Des": "farmwar.farmwar_benefitdes_74",
+        "Icon": 4820003,
+        "BuffId": 100034,
+        "Level": 1
+    },
+    {
+        "ID": 138,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 2,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_75",
+        "DesParam": "",
+        "Des": "farmwar.farmwar_benefitdes_75",
+        "Icon": 4820012,
+        "BuffId": 100035,
+        "Level": 1
+    },
+    {
+        "ID": 139,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 3,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_76",
+        "DesParam": [
+            25,
+            2
+        ],
+        "Des": "farmwar.farmwar_benefitdes_76",
+        "Icon": 4820006,
+        "BuffId": 100036,
+        "Level": 1
+    },
+    {
+        "ID": 140,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 3,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_77",
+        "DesParam": [
+            60
+        ],
+        "Des": "farmwar.farmwar_benefitdes_77",
+        "Icon": 4820000,
+        "BuffId": 100037,
+        "Level": 1
+    },
+    {
+        "ID": 141,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 4,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_78",
+        "DesParam": [
+            25,
+            2
+        ],
+        "Des": "farmwar.farmwar_benefitdes_78",
+        "Icon": 4820014,
+        "BuffId": 100038,
+        "Level": 1
+    },
+    {
+        "ID": 142,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 1,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_79",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_79",
+        "Icon": 4820008,
+        "BuffId": 100039,
+        "Level": 1
+    },
+    {
+        "ID": 143,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 4,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_80",
+        "DesParam": [
+            40,
+            5,
+            120
+        ],
+        "Des": "farmwar.farmwar_benefitdes_80",
+        "Icon": 4820000,
+        "BuffId": 100040,
+        "Level": 1
+    },
+    {
+        "ID": 144,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 4,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_81",
+        "DesParam": [
+            2,
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_81",
+        "Icon": 4820001,
+        "BuffId": 100041,
+        "Level": 1
+    },
+    {
+        "ID": 145,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 4,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_82",
+        "DesParam": [
+            1
+        ],
+        "Des": "farmwar.farmwar_benefitdes_82",
+        "Icon": 4820001,
+        "BuffId": 100042,
+        "Level": 1
+    },
+    {
+        "ID": 146,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 2,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_83",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_83",
+        "Icon": 4820005,
+        "BuffId": 100043,
+        "Level": 1
+    },
+    {
+        "ID": 147,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 3,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_84",
+        "DesParam": [
+            8
+        ],
+        "Des": "farmwar.farmwar_benefitdes_84",
+        "Icon": 4820006,
+        "BuffId": 100044,
+        "Level": 1
+    },
+    {
+        "ID": 148,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 7,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_85",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_85",
+        "Icon": 4820008,
+        "BuffId": 100045,
+        "Level": 1
+    },
+    {
+        "ID": 149,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 7,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_86",
+        "DesParam": [
+            15,
+            100,
+            2
+        ],
+        "Des": "farmwar.farmwar_benefitdes_86",
+        "Icon": 4820008,
+        "BuffId": 100046,
+        "Level": 1
+    },
+    {
+        "ID": 150,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 1,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_87",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_87",
+        "Icon": 4820000,
+        "BuffId": 100047,
+        "Level": 1
+    },
+    {
+        "ID": 151,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 1,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_88",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_88",
+        "Icon": 4820000,
+        "BuffId": 100047,
+        "Level": 2
+    },
+    {
+        "ID": 152,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 1,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_89",
+        "DesParam": [
+            40
+        ],
+        "Des": "farmwar.farmwar_benefitdes_89",
+        "Icon": 4820000,
+        "BuffId": 100047,
+        "Level": 3
+    },
+    {
+        "ID": 153,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 2,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_90",
+        "DesParam": [
+            40
+        ],
+        "Des": "farmwar.farmwar_benefitdes_90",
+        "Icon": 4820005,
+        "BuffId": 100048,
+        "Level": 1
+    },
+    {
+        "ID": 154,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 2,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_91",
+        "DesParam": [
+            100
+        ],
+        "Des": "farmwar.farmwar_benefitdes_91",
+        "Icon": 4820005,
+        "BuffId": 100049,
+        "Level": 1
+    },
+    {
+        "ID": 155,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 3,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_92",
+        "DesParam": [
+            20,
+            1.5
+        ],
+        "Des": "farmwar.farmwar_benefitdes_92",
+        "Icon": 4820014,
+        "BuffId": 100050,
+        "Level": 1
+    },
+    {
+        "ID": 156,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 3,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_93",
+        "DesParam": [
+            50
+        ],
+        "Des": "farmwar.farmwar_benefitdes_93",
+        "Icon": 4820000,
+        "BuffId": 100051,
+        "Level": 1
+    },
+    {
+        "ID": 157,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 1,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_94",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_94",
+        "Icon": 4820000,
+        "BuffId": 100052,
+        "Level": 1
+    },
+    {
+        "ID": 158,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 1,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_95",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_95",
+        "Icon": 4820000,
+        "BuffId": 100052,
+        "Level": 2
+    },
+    {
+        "ID": 159,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 1,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_96",
+        "DesParam": [
+            40
+        ],
+        "Des": "farmwar.farmwar_benefitdes_96",
+        "Icon": 4820000,
+        "BuffId": 100052,
+        "Level": 3
+    },
+    {
+        "ID": 160,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 6,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_97",
+        "DesParam": [
+            6,
+            80
+        ],
+        "Des": "farmwar.farmwar_benefitdes_97",
+        "Icon": 4820000,
+        "BuffId": 100053,
+        "Level": 1
+    },
+    {
+        "ID": 161,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 6,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_98",
+        "DesParam": [
+            25,
+            100
+        ],
+        "Des": "farmwar.farmwar_benefitdes_98",
+        "Icon": 4820000,
+        "BuffId": 100054,
+        "Level": 1
+    },
+    {
+        "ID": 162,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 3,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_99",
+        "DesParam": [
+            100
+        ],
+        "Des": "farmwar.farmwar_benefitdes_99",
+        "Icon": 4820000,
+        "BuffId": 100055,
+        "Level": 1
+    },
+    {
+        "ID": 163,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 3,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_100",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_100",
+        "Icon": 4820003,
+        "BuffId": 100056,
+        "Level": 1
+    },
+    {
+        "ID": 164,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 5,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_101",
+        "DesParam": "",
+        "Des": "farmwar.farmwar_benefitdes_101",
+        "Icon": 4820013,
+        "BuffId": 100057,
+        "Level": 1
+    },
+    {
+        "ID": 165,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 5,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_102",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_102",
+        "Icon": 4820008,
+        "BuffId": 100058,
+        "Level": 1
+    },
+    {
+        "ID": 166,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 5,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_103",
+        "DesParam": [
+            50,
+            100
+        ],
+        "Des": "farmwar.farmwar_benefitdes_103",
+        "Icon": 4820000,
+        "BuffId": 100059,
+        "Level": 1
+    },
+    {
+        "ID": 167,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 5,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_104",
+        "DesParam": [
+            25,
+            100
+        ],
+        "Des": "farmwar.farmwar_benefitdes_104",
+        "Icon": 4820000,
+        "BuffId": 100060,
+        "Level": 1
+    },
+    {
+        "ID": 168,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 1,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_105",
+        "DesParam": [
+            10
+        ],
+        "Des": "farmwar.farmwar_benefitdes_105",
+        "Icon": 4820000,
+        "BuffId": 100061,
+        "Level": 1
+    },
+    {
+        "ID": 169,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 1,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_106",
+        "DesParam": [
+            20
+        ],
+        "Des": "farmwar.farmwar_benefitdes_106",
+        "Icon": 4820000,
+        "BuffId": 100061,
+        "Level": 2
+    },
+    {
+        "ID": 170,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 1,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_107",
+        "DesParam": [
+            40
+        ],
+        "Des": "farmwar.farmwar_benefitdes_107",
+        "Icon": 4820000,
+        "BuffId": 100061,
+        "Level": 3
+    },
+    {
+        "ID": 171,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 7,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_108",
+        "DesParam": [
+            1
+        ],
+        "Des": "farmwar.farmwar_benefitdes_108",
+        "Icon": 4820008,
+        "BuffId": 100062,
+        "Level": 1
+    },
+    {
+        "ID": 172,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 7,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_109",
+        "DesParam": [
+            80
+        ],
+        "Des": "farmwar.farmwar_benefitdes_109",
+        "Icon": 4820000,
+        "BuffId": 100063,
+        "Level": 1
+    },
+    {
+        "ID": 173,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 7,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_110",
+        "DesParam": [
+            60
+        ],
+        "Des": "farmwar.farmwar_benefitdes_110",
+        "Icon": 4820000,
+        "BuffId": 100064,
+        "Level": 1
+    },
+    {
+        "ID": 174,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": 7,
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_111",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_111",
+        "Icon": 4820007,
+        "BuffId": 100065,
+        "Level": 1
+    },
+    {
+        "ID": 175,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": 1,
+        "Name": "farmwar.farmwar_benefitname_112",
+        "DesParam": [
+            100
+        ],
+        "Des": "farmwar.farmwar_benefitdes_112",
+        "Icon": 4820005,
+        "BuffId": 100066,
+        "Level": 1
+    },
+    {
+        "ID": 176,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": 1,
+        "Name": "farmwar.farmwar_benefitname_113",
+        "DesParam": [
+            50,
+            100
+        ],
+        "Des": "farmwar.farmwar_benefitdes_113",
+        "Icon": 4820000,
+        "BuffId": 100067,
+        "Level": 1
+    },
+    {
+        "ID": 177,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": 1,
+        "Name": "farmwar.farmwar_benefitname_114",
+        "DesParam": [
+            100,
+            50,
+            100,
+            1
+        ],
+        "Des": "farmwar.farmwar_benefitdes_114",
+        "Icon": 4820001,
+        "BuffId": 100068,
+        "Level": 1
+    },
+    {
+        "ID": 178,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": 1,
+        "Name": "farmwar.farmwar_benefitname_115",
+        "DesParam": [
+            128,
+            50,
+            200
+        ],
+        "Des": "farmwar.farmwar_benefitdes_115",
+        "Icon": 4820000,
+        "BuffId": 100069,
+        "Level": 1
+    },
+    {
+        "ID": 179,
+        "Schedule": 2,
+        "ShowOrNot": 1,
+        "Faction": "",
+        "IsEndless": 1,
+        "Name": "farmwar.farmwar_benefitname_116",
+        "DesParam": [
+            80,
+            80
+        ],
+        "Des": "farmwar.farmwar_benefitdes_116",
+        "Icon": 4820002,
+        "BuffId": 100070,
+        "Level": 1
+    },
+    {
+        "ID": 181,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_117",
+        "DesParam": [
+            50
+        ],
+        "Des": "farmwar.farmwar_benefitdes_117",
+        "Icon": "",
+        "BuffId": 190003,
+        "Level": 1
+    },
+    {
+        "ID": 182,
+        "Schedule": 2,
+        "ShowOrNot": 0,
+        "Faction": "",
+        "IsEndless": "",
+        "Name": "farmwar.farmwar_benefitname_118",
+        "DesParam": [
+            30
+        ],
+        "Des": "farmwar.farmwar_benefitdes_118",
+        "Icon": "",
+        "BuffId": 190004,
+        "Level": 1
+    }
+]

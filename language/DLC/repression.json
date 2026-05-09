@@ -1,0 +1,862 @@
+[
+    {
+        "Key": "memlock",
+        "zh_CN": "该队员已出战其他战线"
+    },
+    {
+        "Key": "supplylock",
+        "zh_CN": "上阵失败，后勤或武器已用于其他战线"
+    },
+    {
+        "Key": "resetteam",
+        "zh_CN": "重置将清空已有战线记录，撤离驻守队伍，并清空当前战线的战幕绩点。"
+    },
+    {
+        "Key": "settlement_score",
+        "zh_CN": "获得当前临时阵地战幕绩点"
+    },
+    {
+        "Key": "ticket_not_enough",
+        "zh_CN": "通行密钥不足"
+    },
+    {
+        "Key": "notopen",
+        "zh_CN": "活动暂未开放"
+    },
+    {
+        "Key": "layerlock",
+        "zh_CN": "请先完成当前危险评级的战线作战"
+    },
+    {
+        "Key": "riskwarning",
+        "zh_CN": "当前作战难度较高，请确认是否继续"
+    },
+    {
+        "Key": "buffname1",
+        "zh_CN": "强袭"
+    },
+    {
+        "Key": "buff1",
+        "zh_CN": "主动技能伤害提升%s%%"
+    },
+    {
+        "Key": "buffname2",
+        "zh_CN": "近威"
+    },
+    {
+        "Key": "buff2",
+        "zh_CN": "对半径%s米内敌方目标造成的伤害提升%s%%"
+    },
+    {
+        "Key": "buffname3",
+        "zh_CN": "流转"
+    },
+    {
+        "Key": "buff3",
+        "zh_CN": "常规能量回复速度提升%s%%"
+    },
+    {
+        "Key": "buffname4",
+        "zh_CN": "染冰"
+    },
+    {
+        "Key": "buff4",
+        "zh_CN": "击败敌方目标时，造成1次低温类型的范围伤害，并施加冻结效果，持续%s秒，触发间隔%s秒"
+    },
+    {
+        "Key": "buffname5",
+        "zh_CN": "捕风"
+    },
+    {
+        "Key": "buff5",
+        "zh_CN": "射击速度提升%s%%"
+    },
+    {
+        "Key": "buffname6",
+        "zh_CN": "季生"
+    },
+    {
+        "Key": "buff6",
+        "zh_CN": "射击命中敌方目标时，回复%s%%最大生命，触发间隔%s秒"
+    },
+    {
+        "Key": "buffname7",
+        "zh_CN": "疾雷"
+    },
+    {
+        "Key": "buff7",
+        "zh_CN": "电击类型伤害提升%s%%"
+    },
+    {
+        "Key": "buffname8",
+        "zh_CN": "交易"
+    },
+    {
+        "Key": "buff8",
+        "zh_CN": "每击败1个敌方目标，防御力提升%s%%，总提升不超过%s%%"
+    },
+    {
+        "Key": "buffname9",
+        "zh_CN": "恒常"
+    },
+    {
+        "Key": "buff9",
+        "zh_CN": "爆发能量获取率提升%s%%"
+    },
+    {
+        "Key": "buffname10",
+        "zh_CN": "操偶"
+    },
+    {
+        "Key": "buff10",
+        "zh_CN": "敌方目标的抗打断能力降低"
+    },
+    {
+        "Key": "buffname11",
+        "zh_CN": "赤夏"
+    },
+    {
+        "Key": "buff11",
+        "zh_CN": "高热类型伤害提升%s%%"
+    },
+    {
+        "Key": "buffname12",
+        "zh_CN": "灼伤"
+    },
+    {
+        "Key": "buff12",
+        "zh_CN": "灼烧状态下的敌方目标受到的技能伤害提升%s%%"
+    },
+    {
+        "Key": "levelbuffname1",
+        "zh_CN": "极化"
+    },
+    {
+        "Key": "levelbuff1",
+        "zh_CN": "敌方目标生命较低时，对我方队员造成的伤害提升"
+    },
+    {
+        "Key": "levelbuffname2",
+        "zh_CN": "驻守"
+    },
+    {
+        "Key": "levelbuff2",
+        "zh_CN": "敌方目标在场时间越长，对队员造成的伤害越高"
+    },
+    {
+        "Key": "levelbuffname3",
+        "zh_CN": "同位"
+    },
+    {
+        "Key": "levelbuff3",
+        "zh_CN": "相位协调仪受到的伤害会等额传递给敌方目标"
+    },
+    {
+        "Key": "buffname201",
+        "zh_CN": "铁腕"
+    },
+    {
+        "Key": "buff201",
+        "zh_CN": "处于被控制状态的敌方目标，受到的射击伤害提升%s%%"
+    },
+    {
+        "Key": "buffname202",
+        "zh_CN": "军备"
+    },
+    {
+        "Key": "buff202",
+        "zh_CN": "弹匣容量提升%s%%"
+    },
+    {
+        "Key": "buffname203",
+        "zh_CN": "追歼"
+    },
+    {
+        "Key": "buff203",
+        "zh_CN": "每击败1个敌方目标，对敌方护盾造成的伤害提升%s%%，总伤害提升不超过%s%%"
+    },
+    {
+        "Key": "buffname204",
+        "zh_CN": "巧技"
+    },
+    {
+        "Key": "buff204",
+        "zh_CN": "常规技技能急速提升%s"
+    },
+    {
+        "Key": "buffname205",
+        "zh_CN": "操偶"
+    },
+    {
+        "Key": "buff205",
+        "zh_CN": "敌方目标受到控制的持续时间提升%s%%"
+    },
+    {
+        "Key": "buffname206",
+        "zh_CN": "空穴"
+    },
+    {
+        "Key": "buff206",
+        "zh_CN": "击败敌方目标时，场上会生成一个引力漩涡，%s秒内持续聚集附近敌方目标，触发间隔%s秒"
+    },
+    {
+        "Key": "buffname207",
+        "zh_CN": "不息"
+    },
+    {
+        "Key": "buff207",
+        "zh_CN": "命中目标后，场上队员可回%s爆发能量、触发间隔%s秒"
+    },
+    {
+        "Key": "buffname208",
+        "zh_CN": "娴熟"
+    },
+    {
+        "Key": "buff208",
+        "zh_CN": "换弹速度提升%s%%"
+    },
+    {
+        "Key": "buffname209",
+        "zh_CN": "激战"
+    },
+    {
+        "Key": "buff209",
+        "zh_CN": "使用常规技后，射击伤害提升%s%%、持续时间%s秒"
+    },
+    {
+        "Key": "levelbuffname201",
+        "zh_CN": "狼口"
+    },
+    {
+        "Key": "levelbuff201",
+        "zh_CN": "敌方目标护盾强度大幅提升、最大生命降低"
+    },
+    {
+        "Key": "levelbuffname202",
+        "zh_CN": "迟滞"
+    },
+    {
+        "Key": "levelbuff202",
+        "zh_CN": "受到敌方目标攻击时，有概率被施加眩晕状态"
+    },
+    {
+        "Key": "levelbuffname203",
+        "zh_CN": "僵持"
+    },
+    {
+        "Key": "levelbuff203",
+        "zh_CN": "敌方目标即将被击倒时会进入不屈状态，其生命不再下降"
+    },
+    {
+        "Key": "buffname301",
+        "zh_CN": "光源"
+    },
+    {
+        "Key": "buff301",
+        "zh_CN": "全队队员的受治疗效果提升%s%%"
+    },
+    {
+        "Key": "buffname302",
+        "zh_CN": "茁实"
+    },
+    {
+        "Key": "buff302",
+        "zh_CN": "全队队员的最大生命提升%s%%"
+    },
+    {
+        "Key": "buffname303",
+        "zh_CN": "迅捷"
+    },
+    {
+        "Key": "buff303",
+        "zh_CN": "全队队员的主动技能使用间隔降低%s%%"
+    },
+    {
+        "Key": "levelbuffname301",
+        "zh_CN": "坚忍"
+    },
+    {
+        "Key": "levelbuff301",
+        "zh_CN": "敌方目标造成的伤害大幅提升，该提升会随着在场时间逐渐减少"
+    },
+    {
+        "Key": "repression_levelname_481",
+        "zh_CN": "速攻战线-紧急突破I"
+    },
+    {
+        "Key": "repression_levelname_484",
+        "zh_CN": "速攻战线-紧急突破II"
+    },
+    {
+        "Key": "repression_levelname_487",
+        "zh_CN": "速攻战线-紧急突破III"
+    },
+    {
+        "Key": "repression_levelname_482",
+        "zh_CN": "生续战线-存活即胜I"
+    },
+    {
+        "Key": "repression_levelname_485",
+        "zh_CN": "生续战线-存活即胜II"
+    },
+    {
+        "Key": "repression_levelname_488",
+        "zh_CN": "生续战线-存活即胜III"
+    },
+    {
+        "Key": "repression_levelname_483",
+        "zh_CN": "攻坚战线-卓绝对战I"
+    },
+    {
+        "Key": "repression_levelname_486",
+        "zh_CN": "攻坚战线-卓绝对战II"
+    },
+    {
+        "Key": "repression_levelname_489",
+        "zh_CN": "攻坚战线-卓绝对战III"
+    },
+    {
+        "Key": "repression_levelname_450",
+        "zh_CN": "【危险评级I】临时阵地1-1"
+    },
+    {
+        "Key": "repression_levelname_451",
+        "zh_CN": "【危险评级I】临时阵地1-2"
+    },
+    {
+        "Key": "repression_levelname_452",
+        "zh_CN": "【危险评级I】临时阵地2-1"
+    },
+    {
+        "Key": "repression_levelname_453",
+        "zh_CN": "【危险评级I】临时阵地2-2"
+    },
+    {
+        "Key": "repression_levelname_454",
+        "zh_CN": "【危险评级I】临时阵地3-1"
+    },
+    {
+        "Key": "repression_levelname_455",
+        "zh_CN": "【危险评级I】临时阵地3-2"
+    },
+    {
+        "Key": "repression_levelname_456",
+        "zh_CN": "【危险评级II】临时阵地1-1"
+    },
+    {
+        "Key": "repression_levelname_457",
+        "zh_CN": "【危险评级II】临时阵地1-2"
+    },
+    {
+        "Key": "repression_levelname_458",
+        "zh_CN": "【危险评级II】临时阵地1-3"
+    },
+    {
+        "Key": "repression_levelname_459",
+        "zh_CN": "【危险评级II】临时阵地2-1"
+    },
+    {
+        "Key": "repression_levelname_460",
+        "zh_CN": "【危险评级II】临时阵地2-2"
+    },
+    {
+        "Key": "repression_levelname_461",
+        "zh_CN": "【危险评级II】临时阵地2-3"
+    },
+    {
+        "Key": "repression_levelname_462",
+        "zh_CN": "【危险评级II】临时阵地3-1"
+    },
+    {
+        "Key": "repression_levelname_463",
+        "zh_CN": "【危险评级II】临时阵地3-2"
+    },
+    {
+        "Key": "repression_levelname_464",
+        "zh_CN": "【危险评级II】临时阵地3-3"
+    },
+    {
+        "Key": "repression_levelname_465",
+        "zh_CN": "【危险评级III】临时阵地1-1"
+    },
+    {
+        "Key": "repression_levelname_466",
+        "zh_CN": "【危险评级III】临时阵地1-2"
+    },
+    {
+        "Key": "repression_levelname_467",
+        "zh_CN": "【危险评级III】临时阵地1-3"
+    },
+    {
+        "Key": "repression_levelname_468",
+        "zh_CN": "【危险评级III】临时阵地1-4"
+    },
+    {
+        "Key": "repression_levelname_469",
+        "zh_CN": "【危险评级III】临时阵地2-1"
+    },
+    {
+        "Key": "repression_levelname_470",
+        "zh_CN": "【危险评级III】临时阵地2-2"
+    },
+    {
+        "Key": "repression_levelname_471",
+        "zh_CN": "【危险评级III】临时阵地2-3"
+    },
+    {
+        "Key": "repression_levelname_472",
+        "zh_CN": "【危险评级III】临时阵地2-4"
+    },
+    {
+        "Key": "repression_levelname_473",
+        "zh_CN": "【危险评级III】临时阵地3-1"
+    },
+    {
+        "Key": "repression_levelname_474",
+        "zh_CN": "【危险评级III】临时阵地3-2"
+    },
+    {
+        "Key": "repression_levelname_475",
+        "zh_CN": "【危险评级III】临时阵地3-3"
+    },
+    {
+        "Key": "repression_levelname_476",
+        "zh_CN": "【危险评级III】临时阵地3-4"
+    },
+    {
+        "Key": "repression_level_des",
+        "zh_CN": "完成当前临时阵地作战可获得"
+    },
+    {
+        "Key": "repression_levelname_4529",
+        "zh_CN": "速攻战线-紧急突破I"
+    },
+    {
+        "Key": "repression_levelname_4532",
+        "zh_CN": "速攻战线-紧急突破II"
+    },
+    {
+        "Key": "repression_levelname_4535",
+        "zh_CN": "速攻战线-紧急突破III"
+    },
+    {
+        "Key": "repression_levelname_4528",
+        "zh_CN": "驻防战线-坚守阵地I"
+    },
+    {
+        "Key": "repression_levelname_4531",
+        "zh_CN": "驻防战线-坚守阵地II"
+    },
+    {
+        "Key": "repression_levelname_4534",
+        "zh_CN": "驻防战线-坚守阵地III"
+    },
+    {
+        "Key": "repression_levelname_4527",
+        "zh_CN": "强袭战线-摧坚折锐I"
+    },
+    {
+        "Key": "repression_levelname_4530",
+        "zh_CN": "强袭战线-摧坚折锐II"
+    },
+    {
+        "Key": "repression_levelname_4533",
+        "zh_CN": "强袭战线-摧坚折锐III"
+    },
+    {
+        "Key": "repression_levelname_4500",
+        "zh_CN": "【危险评级I】临时阵地1-1"
+    },
+    {
+        "Key": "repression_levelname_4501",
+        "zh_CN": "【危险评级I】临时阵地1-2"
+    },
+    {
+        "Key": "repression_levelname_4502",
+        "zh_CN": "【危险评级I】临时阵地2-1"
+    },
+    {
+        "Key": "repression_levelname_4503",
+        "zh_CN": "【危险评级I】临时阵地2-2"
+    },
+    {
+        "Key": "repression_levelname_4504",
+        "zh_CN": "【危险评级I】临时阵地3-1"
+    },
+    {
+        "Key": "repression_levelname_4505",
+        "zh_CN": "【危险评级I】临时阵地3-2"
+    },
+    {
+        "Key": "repression_levelname_4506",
+        "zh_CN": "【危险评级II】临时阵地1-1"
+    },
+    {
+        "Key": "repression_levelname_4507",
+        "zh_CN": "【危险评级II】临时阵地1-2"
+    },
+    {
+        "Key": "repression_levelname_4508",
+        "zh_CN": "【危险评级II】临时阵地1-3"
+    },
+    {
+        "Key": "repression_levelname_4509",
+        "zh_CN": "【危险评级II】临时阵地2-1"
+    },
+    {
+        "Key": "repression_levelname_4510",
+        "zh_CN": "【危险评级II】临时阵地2-2"
+    },
+    {
+        "Key": "repression_levelname_4511",
+        "zh_CN": "【危险评级II】临时阵地2-3"
+    },
+    {
+        "Key": "repression_levelname_4512",
+        "zh_CN": "【危险评级II】临时阵地3-1"
+    },
+    {
+        "Key": "repression_levelname_4513",
+        "zh_CN": "【危险评级II】临时阵地3-2"
+    },
+    {
+        "Key": "repression_levelname_4514",
+        "zh_CN": "【危险评级II】临时阵地3-3"
+    },
+    {
+        "Key": "repression_levelname_4515",
+        "zh_CN": "【危险评级III】临时阵地1-1"
+    },
+    {
+        "Key": "repression_levelname_4516",
+        "zh_CN": "【危险评级III】临时阵地1-2"
+    },
+    {
+        "Key": "repression_levelname_4517",
+        "zh_CN": "【危险评级III】临时阵地1-3"
+    },
+    {
+        "Key": "repression_levelname_4518",
+        "zh_CN": "【危险评级III】临时阵地1-4"
+    },
+    {
+        "Key": "repression_levelname_4519",
+        "zh_CN": "【危险评级III】临时阵地2-1"
+    },
+    {
+        "Key": "repression_levelname_4520",
+        "zh_CN": "【危险评级III】临时阵地2-2"
+    },
+    {
+        "Key": "repression_levelname_4521",
+        "zh_CN": "【危险评级III】临时阵地2-3"
+    },
+    {
+        "Key": "repression_levelname_4522",
+        "zh_CN": "【危险评级III】临时阵地2-4"
+    },
+    {
+        "Key": "repression_levelname_4523",
+        "zh_CN": "【危险评级III】临时阵地3-1"
+    },
+    {
+        "Key": "repression_levelname_4524",
+        "zh_CN": "【危险评级III】临时阵地3-2"
+    },
+    {
+        "Key": "repression_levelname_4525",
+        "zh_CN": "【危险评级III】临时阵地3-3"
+    },
+    {
+        "Key": "repression_levelname_4526",
+        "zh_CN": "【危险评级III】临时阵地3-4"
+    },
+    {
+        "Key": "repression_levelname_5327",
+        "zh_CN": "速攻战线-紧急突破I"
+    },
+    {
+        "Key": "repression_levelname_5330",
+        "zh_CN": "速攻战线-紧急突破II"
+    },
+    {
+        "Key": "repression_levelname_5333",
+        "zh_CN": "速攻战线-紧急突破III"
+    },
+    {
+        "Key": "repression_levelname_5328",
+        "zh_CN": "闪击战线-存亡时机I"
+    },
+    {
+        "Key": "repression_levelname_5331",
+        "zh_CN": "闪击战线-存亡时机II"
+    },
+    {
+        "Key": "repression_levelname_5334",
+        "zh_CN": "闪击战线-存亡时机III"
+    },
+    {
+        "Key": "repression_levelname_5329",
+        "zh_CN": "强袭战线-摧坚折锐I"
+    },
+    {
+        "Key": "repression_levelname_5332",
+        "zh_CN": "强袭战线-摧坚折锐II"
+    },
+    {
+        "Key": "repression_levelname_5335",
+        "zh_CN": "强袭战线-摧坚折锐III"
+    },
+    {
+        "Key": "repression_levelname_5300",
+        "zh_CN": "【危险评级I】临时阵地1-1"
+    },
+    {
+        "Key": "repression_levelname_5301",
+        "zh_CN": "【危险评级I】临时阵地1-2"
+    },
+    {
+        "Key": "repression_levelname_5302",
+        "zh_CN": "【危险评级I】临时阵地2-1"
+    },
+    {
+        "Key": "repression_levelname_5303",
+        "zh_CN": "【危险评级I】临时阵地2-2"
+    },
+    {
+        "Key": "repression_levelname_5304",
+        "zh_CN": "【危险评级I】临时阵地3-1"
+    },
+    {
+        "Key": "repression_levelname_5305",
+        "zh_CN": "【危险评级I】临时阵地3-2"
+    },
+    {
+        "Key": "repression_levelname_5306",
+        "zh_CN": "【危险评级II】临时阵地1-1"
+    },
+    {
+        "Key": "repression_levelname_5307",
+        "zh_CN": "【危险评级II】临时阵地1-2"
+    },
+    {
+        "Key": "repression_levelname_5308",
+        "zh_CN": "【危险评级II】临时阵地1-3"
+    },
+    {
+        "Key": "repression_levelname_5309",
+        "zh_CN": "【危险评级II】临时阵地2-1"
+    },
+    {
+        "Key": "repression_levelname_5310",
+        "zh_CN": "【危险评级II】临时阵地2-2"
+    },
+    {
+        "Key": "repression_levelname_5311",
+        "zh_CN": "【危险评级II】临时阵地2-3"
+    },
+    {
+        "Key": "repression_levelname_5312",
+        "zh_CN": "【危险评级II】临时阵地3-1"
+    },
+    {
+        "Key": "repression_levelname_5313",
+        "zh_CN": "【危险评级II】临时阵地3-2"
+    },
+    {
+        "Key": "repression_levelname_5314",
+        "zh_CN": "【危险评级II】临时阵地3-3"
+    },
+    {
+        "Key": "repression_levelname_5315",
+        "zh_CN": "【危险评级III】临时阵地1-1"
+    },
+    {
+        "Key": "repression_levelname_5316",
+        "zh_CN": "【危险评级III】临时阵地1-2"
+    },
+    {
+        "Key": "repression_levelname_5317",
+        "zh_CN": "【危险评级III】临时阵地1-3"
+    },
+    {
+        "Key": "repression_levelname_5318",
+        "zh_CN": "【危险评级III】临时阵地1-4"
+    },
+    {
+        "Key": "repression_levelname_5319",
+        "zh_CN": "【危险评级III】临时阵地2-1"
+    },
+    {
+        "Key": "repression_levelname_5320",
+        "zh_CN": "【危险评级III】临时阵地2-2"
+    },
+    {
+        "Key": "repression_levelname_5321",
+        "zh_CN": "【危险评级III】临时阵地2-3"
+    },
+    {
+        "Key": "repression_levelname_5322",
+        "zh_CN": "【危险评级III】临时阵地2-4"
+    },
+    {
+        "Key": "repression_levelname_5323",
+        "zh_CN": "【危险评级III】临时阵地3-1"
+    },
+    {
+        "Key": "repression_levelname_5324",
+        "zh_CN": "【危险评级III】临时阵地3-2"
+    },
+    {
+        "Key": "repression_levelname_5325",
+        "zh_CN": "【危险评级III】临时阵地3-3"
+    },
+    {
+        "Key": "repression_levelname_5326",
+        "zh_CN": "【危险评级III】临时阵地3-4"
+    },
+    {
+        "Key": "repression_levelname_5637",
+        "zh_CN": "闪击战线-存亡时机I"
+    },
+    {
+        "Key": "repression_levelname_5640",
+        "zh_CN": "闪击战线-存亡时机II"
+    },
+    {
+        "Key": "repression_levelname_5643",
+        "zh_CN": "闪击战线-存亡时机III"
+    },
+    {
+        "Key": "repression_levelname_5638",
+        "zh_CN": "驻防战线-坚守阵地I"
+    },
+    {
+        "Key": "repression_levelname_5641",
+        "zh_CN": "驻防战线-坚守阵地II"
+    },
+    {
+        "Key": "repression_levelname_5644",
+        "zh_CN": "驻防战线-坚守阵地III"
+    },
+    {
+        "Key": "repression_levelname_5639",
+        "zh_CN": "重装战线-雷霆战意I"
+    },
+    {
+        "Key": "repression_levelname_5642",
+        "zh_CN": "重装战线-雷霆战意II"
+    },
+    {
+        "Key": "repression_levelname_5645",
+        "zh_CN": "重装战线-雷霆战意III"
+    },
+    {
+        "Key": "repression_levelname_5610",
+        "zh_CN": "【危险评级I】临时阵地1-1"
+    },
+    {
+        "Key": "repression_levelname_5611",
+        "zh_CN": "【危险评级I】临时阵地1-2"
+    },
+    {
+        "Key": "repression_levelname_5612",
+        "zh_CN": "【危险评级I】临时阵地2-1"
+    },
+    {
+        "Key": "repression_levelname_5613",
+        "zh_CN": "【危险评级I】临时阵地2-2"
+    },
+    {
+        "Key": "repression_levelname_5614",
+        "zh_CN": "【危险评级I】临时阵地3-1"
+    },
+    {
+        "Key": "repression_levelname_5615",
+        "zh_CN": "【危险评级I】临时阵地3-2"
+    },
+    {
+        "Key": "repression_levelname_5616",
+        "zh_CN": "【危险评级II】临时阵地1-1"
+    },
+    {
+        "Key": "repression_levelname_5617",
+        "zh_CN": "【危险评级II】临时阵地1-2"
+    },
+    {
+        "Key": "repression_levelname_5618",
+        "zh_CN": "【危险评级II】临时阵地1-3"
+    },
+    {
+        "Key": "repression_levelname_5619",
+        "zh_CN": "【危险评级II】临时阵地2-1"
+    },
+    {
+        "Key": "repression_levelname_5620",
+        "zh_CN": "【危险评级II】临时阵地2-2"
+    },
+    {
+        "Key": "repression_levelname_5621",
+        "zh_CN": "【危险评级II】临时阵地2-3"
+    },
+    {
+        "Key": "repression_levelname_5622",
+        "zh_CN": "【危险评级II】临时阵地3-1"
+    },
+    {
+        "Key": "repression_levelname_5623",
+        "zh_CN": "【危险评级II】临时阵地3-2"
+    },
+    {
+        "Key": "repression_levelname_5624",
+        "zh_CN": "【危险评级II】临时阵地3-3"
+    },
+    {
+        "Key": "repression_levelname_5625",
+        "zh_CN": "【危险评级III】临时阵地1-1"
+    },
+    {
+        "Key": "repression_levelname_5626",
+        "zh_CN": "【危险评级III】临时阵地1-2"
+    },
+    {
+        "Key": "repression_levelname_5627",
+        "zh_CN": "【危险评级III】临时阵地1-3"
+    },
+    {
+        "Key": "repression_levelname_5628",
+        "zh_CN": "【危险评级III】临时阵地1-4"
+    },
+    {
+        "Key": "repression_levelname_5629",
+        "zh_CN": "【危险评级III】临时阵地2-1"
+    },
+    {
+        "Key": "repression_levelname_5630",
+        "zh_CN": "【危险评级III】临时阵地2-2"
+    },
+    {
+        "Key": "repression_levelname_5631",
+        "zh_CN": "【危险评级III】临时阵地2-3"
+    },
+    {
+        "Key": "repression_levelname_5632",
+        "zh_CN": "【危险评级III】临时阵地2-4"
+    },
+    {
+        "Key": "repression_levelname_5633",
+        "zh_CN": "【危险评级III】临时阵地3-1"
+    },
+    {
+        "Key": "repression_levelname_5634",
+        "zh_CN": "【危险评级III】临时阵地3-2"
+    },
+    {
+        "Key": "repression_levelname_5635",
+        "zh_CN": "【危险评级III】临时阵地3-3"
+    },
+    {
+        "Key": "repression_levelname_5636",
+        "zh_CN": "【危险评级III】临时阵地3-4"
+    }
+]

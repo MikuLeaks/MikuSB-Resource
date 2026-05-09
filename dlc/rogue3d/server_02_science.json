@@ -1,0 +1,1779 @@
+[
+    {
+        "ID": 101,
+        "Icon": 1001088,
+        "Position": 3,
+        "LinkNode": [
+            11,
+            13,
+            15
+        ],
+        "LinkLine": {
+            "11": [
+                3,
+                8,
+                7,
+                6,
+                11
+            ],
+            "13": [
+                3,
+                8,
+                13
+            ],
+            "15": [
+                3,
+                8,
+                9,
+                10,
+                15
+            ]
+        },
+        "UnlockCondition": "",
+        "Name": "rogue3.science_name_101",
+        "BaseDes": "rogue3.science_des_101",
+        "IsCore": 1,
+        "MaxLevel": 5,
+        "LevelList": [
+            1011,
+            1012,
+            1013,
+            1014,
+            1015
+        ]
+    },
+    {
+        "ID": 102,
+        "Icon": 1001104,
+        "Position": 11,
+        "LinkNode": [
+            3,
+            21
+        ],
+        "LinkLine": {
+            "3": [
+                11,
+                6,
+                7,
+                8,
+                3
+            ],
+            "21": [
+                11,
+                16,
+                21
+            ]
+        },
+        "UnlockCondition": [
+            101
+        ],
+        "Name": "rogue3.science_name_102",
+        "BaseDes": "rogue3.science_des_102",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1021,
+            1022,
+            1023,
+            1024,
+            1025
+        ]
+    },
+    {
+        "ID": 103,
+        "Icon": 1001089,
+        "Position": 13,
+        "LinkNode": [
+            3,
+            23
+        ],
+        "LinkLine": {
+            "3": [
+                13,
+                8,
+                3
+            ],
+            "23": [
+                13,
+                18,
+                23
+            ]
+        },
+        "UnlockCondition": [
+            101
+        ],
+        "Name": "rogue3.science_name_103",
+        "BaseDes": "rogue3.science_des_103",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1031,
+            1032,
+            1033,
+            1034,
+            1035
+        ]
+    },
+    {
+        "ID": 104,
+        "Icon": 1001102,
+        "Position": 15,
+        "LinkNode": [
+            3,
+            25
+        ],
+        "LinkLine": {
+            "3": [
+                15,
+                10,
+                9,
+                8,
+                3
+            ],
+            "25": [
+                15,
+                20,
+                25
+            ]
+        },
+        "UnlockCondition": [
+            101
+        ],
+        "Name": "rogue3.science_name_104",
+        "BaseDes": "rogue3.science_des_104",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1041,
+            1042,
+            1043,
+            1044,
+            1045
+        ]
+    },
+    {
+        "ID": 105,
+        "Icon": 1001082,
+        "Position": 21,
+        "LinkNode": [
+            11,
+            31
+        ],
+        "LinkLine": {
+            "11": [
+                21,
+                16,
+                11
+            ],
+            "31": [
+                21,
+                26,
+                31
+            ]
+        },
+        "UnlockCondition": [
+            102
+        ],
+        "Name": "rogue3.science_name_105",
+        "BaseDes": "rogue3.science_des_105",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1051,
+            1052,
+            1053,
+            1054,
+            1055
+        ]
+    },
+    {
+        "ID": 106,
+        "Icon": 1001086,
+        "Position": 23,
+        "LinkNode": [
+            13,
+            33
+        ],
+        "LinkLine": {
+            "13": [
+                23,
+                18,
+                13
+            ],
+            "31": [
+                23,
+                28,
+                33
+            ]
+        },
+        "UnlockCondition": [
+            103
+        ],
+        "Name": "rogue3.science_name_106",
+        "BaseDes": "rogue3.science_des_106",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1061,
+            1062,
+            1063,
+            1064,
+            1065
+        ]
+    },
+    {
+        "ID": 107,
+        "Icon": 1001082,
+        "Position": 25,
+        "LinkNode": [
+            15,
+            35
+        ],
+        "LinkLine": {
+            "15": [
+                25,
+                20,
+                15
+            ],
+            "35": [
+                25,
+                20,
+                35
+            ]
+        },
+        "UnlockCondition": [
+            104
+        ],
+        "Name": "rogue3.science_name_107",
+        "BaseDes": "rogue3.science_des_107",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1071,
+            1072,
+            1073,
+            1074,
+            1075
+        ]
+    },
+    {
+        "ID": 108,
+        "Icon": 1001108,
+        "Position": 31,
+        "LinkNode": [
+            21,
+            43
+        ],
+        "LinkLine": {
+            "21": [
+                31,
+                26,
+                21
+            ],
+            "43": [
+                31,
+                36,
+                37,
+                38,
+                43
+            ]
+        },
+        "UnlockCondition": [
+            105
+        ],
+        "Name": "rogue3.science_name_108",
+        "BaseDes": "rogue3.science_des_108",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1081,
+            1082,
+            1083,
+            1084,
+            1085
+        ]
+    },
+    {
+        "ID": 109,
+        "Icon": 1001110,
+        "Position": 33,
+        "LinkNode": [
+            23,
+            43
+        ],
+        "LinkLine": {
+            "23": [
+                33,
+                28,
+                23
+            ],
+            "43": [
+                33,
+                38,
+                43
+            ]
+        },
+        "UnlockCondition": [
+            106
+        ],
+        "Name": "rogue3.science_name_109",
+        "BaseDes": "rogue3.science_des_109",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1091,
+            1092,
+            1093,
+            1094,
+            1095
+        ]
+    },
+    {
+        "ID": 110,
+        "Icon": 1001108,
+        "Position": 35,
+        "LinkNode": [
+            25,
+            43
+        ],
+        "LinkLine": {
+            "25": [
+                35,
+                30,
+                25
+            ],
+            "43": [
+                35,
+                40,
+                39,
+                38,
+                43
+            ]
+        },
+        "UnlockCondition": [
+            107
+        ],
+        "Name": "rogue3.science_name_110",
+        "BaseDes": "rogue3.science_des_110",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1101,
+            1102,
+            1103,
+            1104,
+            1105
+        ]
+    },
+    {
+        "ID": 111,
+        "Icon": 1001119,
+        "Position": 43,
+        "LinkNode": [
+            31,
+            33,
+            35,
+            51,
+            53,
+            55
+        ],
+        "LinkLine": {
+            "31": [
+                43,
+                38,
+                37,
+                36,
+                31
+            ],
+            "33": [
+                43,
+                38,
+                33
+            ],
+            "35": [
+                43,
+                38,
+                39,
+                40,
+                35
+            ],
+            "51": [
+                43,
+                48,
+                47,
+                46,
+                51
+            ],
+            "53": [
+                43,
+                48,
+                53
+            ],
+            "55": [
+                43,
+                48,
+                49,
+                50,
+                55
+            ]
+        },
+        "UnlockCondition": [
+            108,
+            109,
+            110
+        ],
+        "Name": "rogue3.science_name_111",
+        "BaseDes": "rogue3.science_des_111",
+        "IsCore": 1,
+        "MaxLevel": 3,
+        "LevelList": [
+            1111,
+            1112,
+            1113
+        ]
+    },
+    {
+        "ID": 112,
+        "Icon": 1001110,
+        "Position": 51,
+        "LinkNode": [
+            43,
+            61
+        ],
+        "LinkLine": {
+            "43": [
+                51,
+                46,
+                47,
+                48,
+                43
+            ],
+            "61": [
+                51,
+                56,
+                61
+            ]
+        },
+        "UnlockCondition": [
+            111
+        ],
+        "Name": "rogue3.science_name_112",
+        "BaseDes": "rogue3.science_des_112",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1121,
+            1122,
+            1123,
+            1124,
+            1125
+        ]
+    },
+    {
+        "ID": 113,
+        "Icon": 1001079,
+        "Position": 53,
+        "LinkNode": [
+            43,
+            63
+        ],
+        "LinkLine": {
+            "43": [
+                53,
+                48,
+                43
+            ],
+            "63": [
+                53,
+                58,
+                63
+            ]
+        },
+        "UnlockCondition": [
+            111
+        ],
+        "Name": "rogue3.science_name_113",
+        "BaseDes": "rogue3.science_des_113",
+        "IsCore": 0,
+        "MaxLevel": 1,
+        "LevelList": [
+            1131
+        ]
+    },
+    {
+        "ID": 114,
+        "Icon": 1001091,
+        "Position": 55,
+        "LinkNode": [
+            43,
+            65
+        ],
+        "LinkLine": {
+            "43": [
+                55,
+                50,
+                49,
+                48,
+                43
+            ],
+            "65": [
+                55,
+                60,
+                65
+            ]
+        },
+        "UnlockCondition": [
+            111
+        ],
+        "Name": "rogue3.science_name_114",
+        "BaseDes": "rogue3.science_des_114",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1141,
+            1142,
+            1143,
+            1144,
+            1145
+        ]
+    },
+    {
+        "ID": 115,
+        "Icon": 1001100,
+        "Position": 61,
+        "LinkNode": [
+            51,
+            71
+        ],
+        "LinkLine": {
+            "51": [
+                61,
+                56,
+                51
+            ],
+            "71": [
+                61,
+                66,
+                71
+            ]
+        },
+        "UnlockCondition": [
+            112
+        ],
+        "Name": "rogue3.science_name_115",
+        "BaseDes": "rogue3.science_des_115",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1151,
+            1152,
+            1153,
+            1154,
+            1155
+        ]
+    },
+    {
+        "ID": 116,
+        "Icon": 1001106,
+        "Position": 63,
+        "LinkNode": [
+            53,
+            73
+        ],
+        "LinkLine": {
+            "53": [
+                63,
+                58,
+                53
+            ],
+            "71": [
+                63,
+                68,
+                73
+            ]
+        },
+        "UnlockCondition": [
+            113
+        ],
+        "Name": "rogue3.science_name_116",
+        "BaseDes": "rogue3.science_des_116",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1161,
+            1162,
+            1163,
+            1164,
+            1165
+        ]
+    },
+    {
+        "ID": 117,
+        "Icon": 1001098,
+        "Position": 65,
+        "LinkNode": [
+            55,
+            75
+        ],
+        "LinkLine": {
+            "55": [
+                65,
+                60,
+                55
+            ],
+            "75": [
+                65,
+                60,
+                75
+            ]
+        },
+        "UnlockCondition": [
+            114
+        ],
+        "Name": "rogue3.science_name_117",
+        "BaseDes": "rogue3.science_des_117",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1171,
+            1172,
+            1173,
+            1174,
+            1175
+        ]
+    },
+    {
+        "ID": 118,
+        "Icon": 1001084,
+        "Position": 71,
+        "LinkNode": [
+            61,
+            83
+        ],
+        "LinkLine": {
+            "61": [
+                71,
+                66,
+                61
+            ],
+            "83": [
+                71,
+                76,
+                77,
+                78,
+                83
+            ]
+        },
+        "UnlockCondition": [
+            115
+        ],
+        "Name": "rogue3.science_name_118",
+        "BaseDes": "rogue3.science_des_118",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1181,
+            1182,
+            1183,
+            1184,
+            1185
+        ]
+    },
+    {
+        "ID": 119,
+        "Icon": 1001119,
+        "Position": 73,
+        "LinkNode": [
+            63,
+            83
+        ],
+        "LinkLine": {
+            "63": [
+                73,
+                68,
+                63
+            ],
+            "83": [
+                73,
+                78,
+                83
+            ]
+        },
+        "UnlockCondition": [
+            116
+        ],
+        "Name": "rogue3.science_name_119",
+        "BaseDes": "rogue3.science_des_119",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1191,
+            1192,
+            1193,
+            1194,
+            1195
+        ]
+    },
+    {
+        "ID": 120,
+        "Icon": 1001093,
+        "Position": 75,
+        "LinkNode": [
+            65,
+            83
+        ],
+        "LinkLine": {
+            "65": [
+                75,
+                70,
+                65
+            ],
+            "83": [
+                75,
+                80,
+                79,
+                78,
+                83
+            ]
+        },
+        "UnlockCondition": [
+            117
+        ],
+        "Name": "rogue3.science_name_120",
+        "BaseDes": "rogue3.science_des_120",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1201,
+            1202,
+            1203,
+            1204,
+            1205
+        ]
+    },
+    {
+        "ID": 121,
+        "Icon": 1001111,
+        "Position": 83,
+        "LinkNode": [
+            71,
+            73,
+            75,
+            91,
+            93,
+            95
+        ],
+        "LinkLine": {
+            "71": [
+                83,
+                78,
+                77,
+                76,
+                71
+            ],
+            "73": [
+                83,
+                78,
+                73
+            ],
+            "75": [
+                83,
+                78,
+                79,
+                80,
+                75
+            ],
+            "91": [
+                83,
+                88,
+                87,
+                86,
+                91
+            ],
+            "93": [
+                83,
+                88,
+                93
+            ],
+            "95": [
+                83,
+                88,
+                89,
+                90,
+                95
+            ]
+        },
+        "UnlockCondition": [
+            118,
+            119,
+            120
+        ],
+        "Name": "rogue3.science_name_121",
+        "BaseDes": "rogue3.science_des_121",
+        "IsCore": 1,
+        "MaxLevel": 4,
+        "LevelList": [
+            1211,
+            1212,
+            1213,
+            1214
+        ]
+    },
+    {
+        "ID": 122,
+        "Icon": 1001103,
+        "Position": 91,
+        "LinkNode": [
+            83,
+            101
+        ],
+        "LinkLine": {
+            "83": [
+                91,
+                86,
+                87,
+                88,
+                83
+            ],
+            "101": [
+                91,
+                96,
+                101
+            ]
+        },
+        "UnlockCondition": [
+            121
+        ],
+        "Name": "rogue3.science_name_122",
+        "BaseDes": "rogue3.science_des_122",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1221,
+            1222,
+            1223,
+            1224,
+            1225
+        ]
+    },
+    {
+        "ID": 123,
+        "Icon": 1001077,
+        "Position": 93,
+        "LinkNode": [
+            83,
+            103
+        ],
+        "LinkLine": {
+            "83": [
+                93,
+                88,
+                83
+            ],
+            "103": [
+                93,
+                98,
+                103
+            ]
+        },
+        "UnlockCondition": [
+            121
+        ],
+        "Name": "rogue3.science_name_123",
+        "BaseDes": "rogue3.science_des_123",
+        "IsCore": 0,
+        "MaxLevel": 1,
+        "LevelList": [
+            1231
+        ]
+    },
+    {
+        "ID": 124,
+        "Icon": 1001105,
+        "Position": 95,
+        "LinkNode": [
+            83,
+            105
+        ],
+        "LinkLine": {
+            "83": [
+                95,
+                90,
+                89,
+                88,
+                83
+            ],
+            "105": [
+                95,
+                100,
+                105
+            ]
+        },
+        "UnlockCondition": [
+            121
+        ],
+        "Name": "rogue3.science_name_124",
+        "BaseDes": "rogue3.science_des_124",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1241,
+            1242,
+            1243,
+            1244,
+            1245
+        ]
+    },
+    {
+        "ID": 125,
+        "Icon": 1001097,
+        "Position": 101,
+        "LinkNode": [
+            91,
+            111
+        ],
+        "LinkLine": {
+            "91": [
+                101,
+                96,
+                91
+            ],
+            "111": [
+                101,
+                106,
+                111
+            ]
+        },
+        "UnlockCondition": [
+            122
+        ],
+        "Name": "rogue3.science_name_125",
+        "BaseDes": "rogue3.science_des_125",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1251,
+            1252,
+            1253,
+            1254,
+            1255
+        ]
+    },
+    {
+        "ID": 126,
+        "Icon": 1001119,
+        "Position": 103,
+        "LinkNode": [
+            93,
+            113
+        ],
+        "LinkLine": {
+            "93": [
+                103,
+                98,
+                93
+            ],
+            "111": [
+                103,
+                108,
+                113
+            ]
+        },
+        "UnlockCondition": [
+            123
+        ],
+        "Name": "rogue3.science_name_126",
+        "BaseDes": "rogue3.science_des_126",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1261,
+            1262,
+            1263,
+            1264,
+            1265
+        ]
+    },
+    {
+        "ID": 127,
+        "Icon": 1001099,
+        "Position": 105,
+        "LinkNode": [
+            95,
+            115
+        ],
+        "LinkLine": {
+            "95": [
+                105,
+                100,
+                95
+            ],
+            "115": [
+                105,
+                100,
+                115
+            ]
+        },
+        "UnlockCondition": [
+            124
+        ],
+        "Name": "rogue3.science_name_127",
+        "BaseDes": "rogue3.science_des_127",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1271,
+            1272,
+            1273,
+            1274,
+            1275
+        ]
+    },
+    {
+        "ID": 128,
+        "Icon": 1001086,
+        "Position": 111,
+        "LinkNode": [
+            101,
+            123
+        ],
+        "LinkLine": {
+            "101": [
+                111,
+                106,
+                101
+            ],
+            "123": [
+                111,
+                116,
+                117,
+                118,
+                123
+            ]
+        },
+        "UnlockCondition": [
+            125
+        ],
+        "Name": "rogue3.science_name_128",
+        "BaseDes": "rogue3.science_des_128",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1281,
+            1282,
+            1283,
+            1284,
+            1285
+        ]
+    },
+    {
+        "ID": 129,
+        "Icon": 1001107,
+        "Position": 113,
+        "LinkNode": [
+            103,
+            123
+        ],
+        "LinkLine": {
+            "103": [
+                113,
+                108,
+                103
+            ],
+            "123": [
+                113,
+                118,
+                123
+            ]
+        },
+        "UnlockCondition": [
+            126
+        ],
+        "Name": "rogue3.science_name_129",
+        "BaseDes": "rogue3.science_des_129",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1291,
+            1292,
+            1293,
+            1294,
+            1295
+        ]
+    },
+    {
+        "ID": 130,
+        "Icon": 1001111,
+        "Position": 115,
+        "LinkNode": [
+            105,
+            123
+        ],
+        "LinkLine": {
+            "105": [
+                115,
+                110,
+                105
+            ],
+            "123": [
+                115,
+                120,
+                119,
+                118,
+                123
+            ]
+        },
+        "UnlockCondition": [
+            127
+        ],
+        "Name": "rogue3.science_name_130",
+        "BaseDes": "rogue3.science_des_130",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1301,
+            1302,
+            1303,
+            1304,
+            1305
+        ]
+    },
+    {
+        "ID": 131,
+        "Icon": 1001119,
+        "Position": 123,
+        "LinkNode": [
+            111,
+            113,
+            115,
+            131,
+            133,
+            135
+        ],
+        "LinkLine": {
+            "111": [
+                123,
+                118,
+                117,
+                116,
+                111
+            ],
+            "113": [
+                123,
+                118,
+                113
+            ],
+            "115": [
+                123,
+                118,
+                119,
+                120,
+                115
+            ],
+            "131": [
+                123,
+                128,
+                127,
+                126,
+                131
+            ],
+            "133": [
+                123,
+                128,
+                133
+            ],
+            "135": [
+                123,
+                128,
+                129,
+                130,
+                135
+            ]
+        },
+        "UnlockCondition": [
+            128,
+            129,
+            130
+        ],
+        "Name": "rogue3.science_name_131",
+        "BaseDes": "rogue3.science_des_131",
+        "IsCore": 1,
+        "MaxLevel": 1,
+        "LevelList": [
+            1311
+        ]
+    },
+    {
+        "ID": 132,
+        "Icon": 1001085,
+        "Position": 131,
+        "LinkNode": [
+            123,
+            141
+        ],
+        "LinkLine": {
+            "123": [
+                131,
+                126,
+                127,
+                128,
+                123
+            ],
+            "141": [
+                131,
+                136,
+                141
+            ]
+        },
+        "UnlockCondition": [
+            131
+        ],
+        "Name": "rogue3.science_name_132",
+        "BaseDes": "rogue3.science_des_132",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1321,
+            1322,
+            1323,
+            1324,
+            1325
+        ]
+    },
+    {
+        "ID": 133,
+        "Icon": 1001076,
+        "Position": 133,
+        "LinkNode": [
+            123,
+            143
+        ],
+        "LinkLine": {
+            "123": [
+                133,
+                128,
+                123
+            ],
+            "143": [
+                133,
+                138,
+                143
+            ]
+        },
+        "UnlockCondition": [
+            131
+        ],
+        "Name": "rogue3.science_name_133",
+        "BaseDes": "rogue3.science_des_133",
+        "IsCore": 0,
+        "MaxLevel": 1,
+        "LevelList": [
+            1331
+        ]
+    },
+    {
+        "ID": 134,
+        "Icon": 1001111,
+        "Position": 135,
+        "LinkNode": [
+            123,
+            145
+        ],
+        "LinkLine": {
+            "123": [
+                135,
+                130,
+                129,
+                128,
+                123
+            ],
+            "145": [
+                135,
+                140,
+                145
+            ]
+        },
+        "UnlockCondition": [
+            131
+        ],
+        "Name": "rogue3.science_name_134",
+        "BaseDes": "rogue3.science_des_134",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1341,
+            1342,
+            1343,
+            1344,
+            1345
+        ]
+    },
+    {
+        "ID": 135,
+        "Icon": 1001094,
+        "Position": 141,
+        "LinkNode": [
+            131,
+            151
+        ],
+        "LinkLine": {
+            "131": [
+                141,
+                136,
+                131
+            ],
+            "151": [
+                141,
+                146,
+                151
+            ]
+        },
+        "UnlockCondition": [
+            132
+        ],
+        "Name": "rogue3.science_name_135",
+        "BaseDes": "rogue3.science_des_135",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1351,
+            1352,
+            1353,
+            1354,
+            1355
+        ]
+    },
+    {
+        "ID": 136,
+        "Icon": 1001101,
+        "Position": 143,
+        "LinkNode": [
+            133,
+            153
+        ],
+        "LinkLine": {
+            "133": [
+                143,
+                138,
+                133
+            ],
+            "151": [
+                143,
+                148,
+                153
+            ]
+        },
+        "UnlockCondition": [
+            133
+        ],
+        "Name": "rogue3.science_name_136",
+        "BaseDes": "rogue3.science_des_136",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1361,
+            1362,
+            1363,
+            1364,
+            1365
+        ]
+    },
+    {
+        "ID": 137,
+        "Icon": 1001096,
+        "Position": 145,
+        "LinkNode": [
+            135,
+            155
+        ],
+        "LinkLine": {
+            "135": [
+                145,
+                140,
+                135
+            ],
+            "155": [
+                145,
+                140,
+                155
+            ]
+        },
+        "UnlockCondition": [
+            134
+        ],
+        "Name": "rogue3.science_name_137",
+        "BaseDes": "rogue3.science_des_137",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1371,
+            1372,
+            1373,
+            1374,
+            1375
+        ]
+    },
+    {
+        "ID": 138,
+        "Icon": 1001087,
+        "Position": 151,
+        "LinkNode": [
+            141,
+            163
+        ],
+        "LinkLine": {
+            "141": [
+                151,
+                146,
+                141
+            ],
+            "163": [
+                151,
+                156,
+                157,
+                158,
+                163
+            ]
+        },
+        "UnlockCondition": [
+            135
+        ],
+        "Name": "rogue3.science_name_138",
+        "BaseDes": "rogue3.science_des_138",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1381,
+            1382,
+            1383,
+            1384,
+            1385
+        ]
+    },
+    {
+        "ID": 139,
+        "Icon": 1001081,
+        "Position": 153,
+        "LinkNode": [
+            143,
+            163
+        ],
+        "LinkLine": {
+            "143": [
+                153,
+                148,
+                143
+            ],
+            "163": [
+                153,
+                158,
+                163
+            ]
+        },
+        "UnlockCondition": [
+            136
+        ],
+        "Name": "rogue3.science_name_139",
+        "BaseDes": "rogue3.science_des_139",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1391,
+            1392,
+            1393,
+            1394,
+            1395
+        ]
+    },
+    {
+        "ID": 140,
+        "Icon": 1001090,
+        "Position": 155,
+        "LinkNode": [
+            145,
+            163
+        ],
+        "LinkLine": {
+            "145": [
+                155,
+                150,
+                145
+            ],
+            "163": [
+                155,
+                160,
+                159,
+                158,
+                163
+            ]
+        },
+        "UnlockCondition": [
+            137
+        ],
+        "Name": "rogue3.science_name_140",
+        "BaseDes": "rogue3.science_des_140",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1401,
+            1402,
+            1403,
+            1404,
+            1405
+        ]
+    },
+    {
+        "ID": 141,
+        "Icon": 1001110,
+        "Position": 163,
+        "LinkNode": [
+            151,
+            153,
+            155
+        ],
+        "LinkLine": {
+            "151": [
+                163,
+                158,
+                157,
+                156,
+                151
+            ],
+            "153": [
+                163,
+                158,
+                153
+            ],
+            "155": [
+                163,
+                158,
+                159,
+                160,
+                155
+            ]
+        },
+        "UnlockCondition": [
+            138,
+            139,
+            140
+        ],
+        "Name": "rogue3.science_name_141",
+        "BaseDes": "rogue3.science_des_141",
+        "IsCore": 1,
+        "MaxLevel": 5,
+        "LevelList": [
+            1411,
+            1412,
+            1413,
+            1414,
+            1415
+        ]
+    },
+    {
+        "ID": 142,
+        "Icon": 1001093,
+        "Position": 171,
+        "LinkNode": [
+            163,
+            181
+        ],
+        "LinkLine": {
+            "163": [
+                171,
+                166,
+                167,
+                168,
+                163
+            ]
+        },
+        "UnlockCondition": [
+            141
+        ],
+        "Name": "rogue3.science_name_143",
+        "BaseDes": "rogue3.science_des_143",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1421,
+            1422,
+            1423,
+            1424,
+            1425
+        ]
+    },
+    {
+        "ID": 143,
+        "Icon": 1001263,
+        "Position": 173,
+        "LinkNode": [
+            163
+        ],
+        "LinkLine": {
+            "163": [
+                173,
+                168,
+                163
+            ]
+        },
+        "UnlockCondition": [
+            141
+        ],
+        "Name": "rogue3.science_name_142",
+        "BaseDes": "rogue3.science_des_142",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1431,
+            1432,
+            1433,
+            1434,
+            1435
+        ]
+    },
+    {
+        "ID": 144,
+        "Icon": 1001111,
+        "Position": 175,
+        "LinkNode": [
+            163
+        ],
+        "LinkLine": {
+            "163": [
+                175,
+                170,
+                169,
+                168,
+                163
+            ]
+        },
+        "UnlockCondition": [
+            141
+        ],
+        "Name": "rogue3.science_name_144",
+        "BaseDes": "rogue3.science_des_144",
+        "IsCore": 0,
+        "MaxLevel": 4,
+        "LevelList": [
+            1441,
+            1442,
+            1443,
+            1444
+        ]
+    },
+    {
+        "ID": 145,
+        "Icon": 1001111,
+        "Position": 181,
+        "LinkNode": [
+            171
+        ],
+        "LinkLine": {
+            "171": [
+                181,
+                176,
+                171
+            ]
+        },
+        "UnlockCondition": [
+            142
+        ],
+        "Name": "rogue3.science_name_145",
+        "BaseDes": "rogue3.science_des_145",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1451,
+            1452,
+            1453,
+            1454,
+            1455
+        ]
+    },
+    {
+        "ID": 146,
+        "Icon": 1001402,
+        "Position": 183,
+        "LinkNode": [
+            173
+        ],
+        "LinkLine": {
+            "173": [
+                183,
+                178,
+                173
+            ]
+        },
+        "UnlockCondition": [
+            143
+        ],
+        "Name": "rogue3.science_name_146",
+        "BaseDes": "rogue3.science_des_146",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1461,
+            1462,
+            1463,
+            1464,
+            1465
+        ]
+    },
+    {
+        "ID": 147,
+        "Icon": 1001776,
+        "Position": 185,
+        "LinkNode": [
+            175
+        ],
+        "LinkLine": {
+            "175": [
+                185,
+                180,
+                175
+            ]
+        },
+        "UnlockCondition": [
+            144
+        ],
+        "Name": "rogue3.science_name_147",
+        "BaseDes": "rogue3.science_des_147",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1471,
+            1472,
+            1473,
+            1474,
+            1475
+        ]
+    },
+    {
+        "ID": 149,
+        "Icon": 1001547,
+        "Position": 193,
+        "LinkNode": [
+            183
+        ],
+        "LinkLine": {
+            "183": [
+                193,
+                188,
+                183
+            ]
+        },
+        "UnlockCondition": [
+            146
+        ],
+        "Name": "rogue3.science_name_149",
+        "BaseDes": "rogue3.science_des_149",
+        "IsCore": 0,
+        "MaxLevel": 5,
+        "LevelList": [
+            1491,
+            1492,
+            1493,
+            1494,
+            1495
+        ]
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "Id": 1,
+        "Explain": "待机",
+        "Type": "sequence",
+        "Name": "girl010a_03_ui_stand01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl010a_03/Anim/girl010a_03_ui_stand01.girl010a_03_ui_stand01'"
+    },
+    {
+        "Id": 2,
+        "Explain": "讲述",
+        "Type": "sequence",
+        "Name": "girl010a_03_openworld_talk01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl010a_03/Anim/girl010a_03_openworld_talk01.girl010a_03_openworld_talk01'"
+    },
+    {
+        "Id": 3,
+        "Explain": "无奈",
+        "Type": "sequence",
+        "Name": "girl010a_03_openworld_depressed",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl010a_03/Anim/girl010a_03_openworld_depressed.girl010a_03_openworld_depressed'"
+    },
+    {
+        "Id": 4,
+        "Explain": "睡觉",
+        "Type": "sequence",
+        "Name": "girl010a_03_openworld_sleep01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl010a_03/Anim/girl010a_03_openworld_sleep01.girl010a_03_openworld_sleep01'"
+    },
+    {
+        "Id": 5,
+        "Explain": "思考-前",
+        "Type": "sequence",
+        "Name": "girl010a_03_openworld_think_start",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl010a_03/Anim/girl010a_03_openworld_think_start.girl010a_03_openworld_think_start'"
+    },
+    {
+        "Id": 6,
+        "Explain": "思考循环",
+        "Type": "sequence",
+        "Name": "girl010a_03_openworld_think_loop",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl010a_03/Anim/girl010a_03_openworld_think_loop.girl010a_03_openworld_think_loop'"
+    },
+    {
+        "Id": 7,
+        "Explain": "思考-后",
+        "Type": "sequence",
+        "Name": "girl010a_03_openworld_think_end",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl010a_03/Anim/girl010a_03_openworld_think_end.girl010a_03_openworld_think_end'"
+    },
+    {
+        "Id": 100,
+        "Explain": "组合动作",
+        "Type": "custom_seq",
+        "Name": "5;6;7"
+    },
+    {
+        "Id": 101,
+        "Explain": "循环最后一个",
+        "Type": "custom_loop_last",
+        "Name": "5;6"
+    }
+]

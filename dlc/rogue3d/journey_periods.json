@@ -1,0 +1,21 @@
+[
+    {
+        "PeriodsID": 1
+    },
+    {
+        "PeriodsID": 2,
+        "MapResource": "/Game/UI/UMG/Rogue/Widgets/uw_rogue_level3.uw_rogue_level3_C",
+        "Name": "",
+        "OpenTime": "[202410100400]",
+        "CloseTime": "[202410310400]",
+        "MaxKeyDrop": 20
+    },
+    {
+        "PeriodsID": 3,
+        "MapResource": "/Game/UI/UMG/Rogue/Widgets/uw_rogue_level2.uw_rogue_level2_C",
+        "Name": "",
+        "OpenTime": "[202410170400]",
+        "CloseTime": "[202410310400]",
+        "MaxKeyDrop": 30
+    }
+]

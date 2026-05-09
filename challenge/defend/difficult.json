@@ -1,0 +1,36 @@
+[
+    {
+        "DifficultID": 1,
+        "Name": "defenselevel.Def_Level81",
+        "Icon": 1701251,
+        "DifficultTypeId": 1,
+        "level": 30,
+        "Des": "defenselevel.Def_Level81_Des"
+    },
+    {
+        "DifficultID": 2,
+        "Name": "defenselevel.Def_Level82",
+        "Icon": 1701252,
+        "DifficultTypeId": 2,
+        "level": 50,
+        "Des": "defenselevel.Def_Level82_Des"
+    },
+    {
+        "DifficultID": 3,
+        "Name": "defenselevel.Def_Level83",
+        "Icon": 1701253,
+        "DifficultTypeId": 3,
+        "level": 70,
+        "Des": "defenselevel.Def_Level83_Des",
+        "UnlockCondition": 2
+    },
+    {
+        "DifficultID": 4,
+        "Name": "defenselevel.Def_Level84",
+        "Icon": 1701254,
+        "DifficultTypeId": 4,
+        "level": 80,
+        "Des": "defenselevel.Def_Level84_Des",
+        "UnlockCondition": 3
+    }
+]

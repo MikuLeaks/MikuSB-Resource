@@ -1,0 +1,46 @@
+[
+    {
+        "ID": 1,
+        "BeginTime": "[202205090400]",
+        "EndTime": "[202309260400]",
+        "Title": "ui.TxtChessTitle",
+        "Story": 81011100
+    },
+    {
+        "ID": 2,
+        "BeginTime": "[202311131000]",
+        "EndTime": "[202312140400]",
+        "Title": "ui.TxtRichManName",
+        "Story": "",
+        "Award": "",
+        "AwardMax": [
+            20,
+            35,
+            50,
+            50
+        ],
+        "AwardDayMax": 9999
+    },
+    {
+        "ID": 3,
+        "BeginTime": "[202407110400]",
+        "EndTime": "[202408220400]",
+        "Title": "ui.TxtDLC9.BtnRichmen",
+        "Story": 8109201
+    },
+    {
+        "ID": 4,
+        "BeginTime": "[202507100400]",
+        "EndTime": "[202508210400]",
+        "Title": "ui.TxtRichManName",
+        "Story": "",
+        "Award": 56,
+        "AwardMax": [
+            20,
+            35,
+            50,
+            50
+        ],
+        "AwardDayMax": 9999
+    }
+]

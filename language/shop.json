@@ -1,0 +1,392 @@
+[
+    {
+        "Key": "shop1.Name",
+        "zh_CN": "常规物资",
+        "disable": 0
+    },
+    {
+        "Key": "shop2.Name",
+        "zh_CN": "定时刷新",
+        "disable": 0
+    },
+    {
+        "Key": "shop3.Name",
+        "zh_CN": "手动刷新",
+        "disable": 0
+    },
+    {
+        "Key": "shop4.Name",
+        "zh_CN": "限时商店",
+        "disable": 0
+    },
+    {
+        "Key": "shop5.Name",
+        "zh_CN": "兑换商店",
+        "disable": 0
+    },
+    {
+        "Key": "shop6.Name",
+        "zh_CN": "比特节点",
+        "disable": 0
+    },
+    {
+        "Key": "shop7.Name",
+        "zh_CN": "分解交易",
+        "disable": 0
+    },
+    {
+        "Key": "shop8.Name",
+        "zh_CN": "商场8",
+        "disable": 0
+    },
+    {
+        "Key": "shop9.Name",
+        "zh_CN": "商场9",
+        "disable": 0
+    },
+    {
+        "Key": "shop10.Name",
+        "zh_CN": "活动商店",
+        "disable": 0
+    },
+    {
+        "Key": "shop11.Name",
+        "zh_CN": "角色兑换",
+        "disable": 0
+    },
+    {
+        "Key": "shop12.Name",
+        "zh_CN": "后勤人事",
+        "disable": 0
+    },
+    {
+        "Key": "shop13.Name",
+        "zh_CN": "人事部门",
+        "disable": 0
+    },
+    {
+        "Key": "shop14.Name",
+        "zh_CN": "禁区探索",
+        "disable": 0
+    },
+    {
+        "Key": "shop15.Name",
+        "zh_CN": "循环中心",
+        "disable": 0
+    },
+    {
+        "Key": "shop16.Name",
+        "zh_CN": "地下清理",
+        "disable": 0
+    },
+    {
+        "Key": "shop17.Name",
+        "zh_CN": "精神拟境",
+        "disable": 0
+    },
+    {
+        "Key": "shop18.Name",
+        "zh_CN": "数据百货",
+        "disable": 0
+    },
+    {
+        "Key": "shop19.Name",
+        "zh_CN": "时装商店",
+        "disable": 0
+    },
+    {
+        "Key": "shop20.Name",
+        "zh_CN": "精选嘉奖",
+        "disable": 0
+    },
+    {
+        "Key": "shop21.Name",
+        "zh_CN": "优质配给",
+        "disable": 0
+    },
+    {
+        "Key": "shop22.Name",
+        "zh_CN": "武器置换",
+        "disable": 0
+    },
+    {
+        "Key": "shop23.Name",
+        "zh_CN": "甄选好物",
+        "disable": 0
+    },
+    {
+        "Key": "shop24.Name",
+        "zh_CN": "精英后勤人事",
+        "disable": 0
+    },
+    {
+        "Key": "shop25.Name",
+        "zh_CN": "惠享武器置换",
+        "disable": 0
+    },
+    {
+        "Key": "shop26.Name",
+        "zh_CN": "配件补给",
+        "disable": 0
+    },
+    {
+        "Key": "shop27.Name",
+        "zh_CN": "战备好物",
+        "disable": 0
+    },
+    {
+        "Key": "shop28.Name",
+        "zh_CN": "私享好物",
+        "disable": 0
+    },
+    {
+        "Key": "shop29.Name",
+        "zh_CN": "社交好物",
+        "disable": 0
+    },
+    {
+        "Key": "shop30.Name",
+        "zh_CN": "装扮好物",
+        "disable": 0
+    },
+    {
+        "Key": "shop.weaponpart",
+        "zh_CN": "配件工坊",
+        "disable": 0
+    },
+    {
+        "Key": "shop.weaponpart01",
+        "zh_CN": "冲锋枪配件",
+        "disable": 0
+    },
+    {
+        "Key": "shop.weaponpart02",
+        "zh_CN": "霰弹枪配件",
+        "disable": 0
+    },
+    {
+        "Key": "shop.weaponpart03",
+        "zh_CN": "狙击枪配件",
+        "disable": 0
+    },
+    {
+        "Key": "shop.weaponpart04",
+        "zh_CN": "步枪配件",
+        "disable": 0
+    },
+    {
+        "Key": "shop.weaponpart05",
+        "zh_CN": "手枪配件",
+        "disable": 0
+    },
+    {
+        "Key": "shop.giftpackage",
+        "zh_CN": "后勤接口",
+        "disable": 0
+    },
+    {
+        "Key": "shop.giftpackage01",
+        "zh_CN": "常规封包",
+        "disable": 0
+    },
+    {
+        "Key": "shop.giftpackage02",
+        "zh_CN": "定制申请",
+        "disable": 0
+    },
+    {
+        "Key": "shop3.GroupName",
+        "zh_CN": "活动兑换",
+        "disable": 0
+    },
+    {
+        "Key": "shop4.GroupName",
+        "zh_CN": "循环中心",
+        "disable": 0
+    },
+    {
+        "Key": "shop5.GroupName",
+        "zh_CN": "兑换商店",
+        "disable": 0
+    },
+    {
+        "Key": "shop6.GroupName",
+        "zh_CN": "商城组6",
+        "disable": 0
+    },
+    {
+        "Key": "shop7.GroupName",
+        "zh_CN": "商城组7",
+        "disable": 0
+    },
+    {
+        "Key": "shop8.GroupName",
+        "zh_CN": "商城组8",
+        "disable": 0
+    },
+    {
+        "Key": "shop9.GroupName",
+        "zh_CN": "商城组9",
+        "disable": 0
+    },
+    {
+        "Key": "shop10.GroupName",
+        "zh_CN": "商城组10",
+        "disable": 0
+    },
+    {
+        "Key": "shop1.GroupName1",
+        "zh_CN": "特供商品",
+        "disable": 0
+    },
+    {
+        "Key": "shop1.GroupName2",
+        "zh_CN": "货币兑换",
+        "disable": 0
+    },
+    {
+        "Key": "shop1.GroupName3",
+        "zh_CN": "商城组1商场3",
+        "disable": 0
+    },
+    {
+        "Key": "shop2.GroupName1",
+        "zh_CN": "商城组2商场1",
+        "disable": 0
+    },
+    {
+        "Key": "shop2.GroupName2",
+        "zh_CN": "商城组2商场2",
+        "disable": 0
+    },
+    {
+        "Key": "shop2.GroupName3",
+        "zh_CN": "商城组2商场3",
+        "disable": 0
+    },
+    {
+        "Key": "shop3.GroupName1",
+        "zh_CN": "商城组3商场1",
+        "disable": 0
+    },
+    {
+        "Key": "shop3.GroupName2",
+        "zh_CN": "商城组3商场2",
+        "disable": 0
+    },
+    {
+        "Key": "shop3.GroupName3",
+        "zh_CN": "商城组3商场3",
+        "disable": 0
+    },
+    {
+        "Key": "shop4.GroupName1",
+        "zh_CN": "商城组4商场1",
+        "disable": 0
+    },
+    {
+        "Key": "shop4.GroupName2",
+        "zh_CN": "商城组4商场2",
+        "disable": 0
+    },
+    {
+        "Key": "shop4.GroupName3",
+        "zh_CN": "商城组4商场3",
+        "disable": 0
+    },
+    {
+        "Key": "shop5.GroupName1",
+        "zh_CN": "A配件",
+        "disable": 0
+    },
+    {
+        "Key": "shop5.GroupName2",
+        "zh_CN": "B配件",
+        "disable": 0
+    },
+    {
+        "Key": "shop5.GroupName3",
+        "zh_CN": "C配件",
+        "disable": 0
+    },
+    {
+        "Key": "test_shop.GroupName1",
+        "zh_CN": "补给商店",
+        "disable": 1000
+    },
+    {
+        "Key": "shop.PaySuccess",
+        "zh_CN": "支付成功",
+        "disable": 0
+    },
+    {
+        "Key": "shop.PayFail",
+        "zh_CN": "支付失败",
+        "disable": 0
+    },
+    {
+        "Key": "shop.PayCancel",
+        "zh_CN": "用户取消支付",
+        "disable": 0
+    },
+    {
+        "Key": "shop.PayProgress",
+        "zh_CN": "支付中，请稍后",
+        "disable": 0
+    },
+    {
+        "Key": "shop.PayOthers",
+        "zh_CN": "支付其他信息",
+        "disable": 0
+    },
+    {
+        "Key": "mall",
+        "zh_CN": "商城",
+        "disable": 0
+    },
+    {
+        "Key": "mall.GroupName1",
+        "zh_CN": "推荐",
+        "disable": 0
+    },
+    {
+        "Key": "mall.Name1",
+        "zh_CN": "比特金兑换",
+        "disable": 0
+    },
+    {
+        "Key": "mall.Name2",
+        "zh_CN": "数据金兑换",
+        "disable": 0
+    },
+    {
+        "Key": "mall.Name3",
+        "zh_CN": "补给箱",
+        "disable": 0
+    },
+    {
+        "Key": "mall.Name4",
+        "zh_CN": "时装",
+        "disable": 0
+    },
+    {
+        "Key": "mall.Name5",
+        "zh_CN": "员工惠利",
+        "disable": 0
+    },
+    {
+        "Key": "mall.Name6",
+        "zh_CN": "跃升补给",
+        "disable": 0
+    },
+    {
+        "Key": "mall.Name7",
+        "zh_CN": "限时补给箱",
+        "disable": 0
+    },
+    {
+        "Key": "mall.Name8",
+        "zh_CN": "日常补给箱",
+        "disable": 0
+    }
+]

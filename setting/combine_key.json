@@ -1,0 +1,130 @@
+[
+    {
+        "key_mode": 0,
+        "action": "Skill3",
+        "relation_action": [
+            "SupportSkillL",
+            "SupportSkillR"
+        ]
+    },
+    {
+        "key_mode": 0,
+        "action": "SupportSuperSkillL",
+        "relation_action": [
+            "SupportSkillL",
+            "Dodge"
+        ]
+    },
+    {
+        "key_mode": 0,
+        "action": "SupportSuperSkillR",
+        "relation_action": [
+            "SupportSkillR",
+            "Dodge"
+        ]
+    },
+    {
+        "key_mode": 1,
+        "action": "Skill3",
+        "relation_action": [
+            "SupportSkillL",
+            "SupportSkillR"
+        ]
+    },
+    {
+        "key_mode": 1,
+        "action": "SupportSuperSkillL",
+        "relation_action": [
+            "SupportSkillL",
+            "Dodge"
+        ]
+    },
+    {
+        "key_mode": 1,
+        "action": "SupportSuperSkillR",
+        "relation_action": [
+            "SupportSkillR",
+            "Dodge"
+        ]
+    },
+    {
+        "key_mode": 2,
+        "action": "Skill3",
+        "relation_action": [
+            "SupportSkillL",
+            "SupportSkillR"
+        ]
+    },
+    {
+        "key_mode": 2,
+        "action": "SupportSuperSkillL",
+        "relation_action": [
+            "SupportSkillL",
+            "Dodge"
+        ]
+    },
+    {
+        "key_mode": 2,
+        "action": "SupportSuperSkillR",
+        "relation_action": [
+            "SupportSkillR",
+            "Dodge"
+        ]
+    },
+    {
+        "key_mode": 3,
+        "action": "Skill3",
+        "relation_action": [
+            "SpecialKey1",
+            "SpecialKey2"
+        ]
+    },
+    {
+        "key_mode": 3,
+        "action": "BackSkill1",
+        "relation_action": [
+            "SpecialKey1",
+            "Switch_F"
+        ]
+    },
+    {
+        "key_mode": 3,
+        "action": "BackSkill2",
+        "relation_action": [
+            "SpecialKey1",
+            "Switch_B"
+        ]
+    },
+    {
+        "key_mode": 3,
+        "action": "BackSkill3",
+        "relation_action": [
+            "SpecialKey1",
+            "Switch_C"
+        ]
+    },
+    {
+        "key_mode": 3,
+        "action": "BackSuperSkill1",
+        "relation_action": [
+            "SpecialKey2",
+            "Switch_F"
+        ]
+    },
+    {
+        "key_mode": 3,
+        "action": "BackSuperSkill2",
+        "relation_action": [
+            "SpecialKey2",
+            "Switch_B"
+        ]
+    },
+    {
+        "key_mode": 3,
+        "action": "BackSuperSkill3",
+        "relation_action": [
+            "SpecialKey2",
+            "Switch_C"
+        ]
+    }
+]

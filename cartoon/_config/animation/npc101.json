@@ -1,0 +1,23 @@
+[
+    {
+        "Id": 1,
+        "Explain": "宿舍站",
+        "Type": "sequence",
+        "Name": "npc403_house_stand01",
+        "Path": "AnimSequence'/Game/Characters/Npc/npc403/Anim/npc403_house_stand01.npc403_house_stand01'"
+    },
+    {
+        "Id": 2,
+        "Explain": "讲述",
+        "Type": "sequence",
+        "Name": "npc403_house_speak01",
+        "Path": "AnimSequence'/Game/Characters/Npc/npc403/Anim/npc403_house_speak01.npc403_house_speak01'"
+    },
+    {
+        "Id": 3,
+        "Explain": "伸懒腰",
+        "Type": "sequence",
+        "Name": "npc403_house_idle01",
+        "Path": "AnimSequence'/Game/Characters/Npc/npc403/Anim/npc403_house_idle01.npc403_house_idle01'"
+    }
+]

@@ -1,0 +1,1267 @@
+[
+    {
+        "Key": "FunctionType1",
+        "zh_CN": "区域轰炸",
+        "disable": 0
+    },
+    {
+        "Key": "FunctionType2",
+        "zh_CN": "蜂群打击",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsType1",
+        "zh_CN": "智械",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsType2",
+        "zh_CN": "芯片",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsFilterNull",
+        "zh_CN": "没有符合当前筛选条件的结果，请尝试切换筛选条件",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsType1_Tag1",
+        "zh_CN": "智械",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsType1_Tag2",
+        "zh_CN": "核心芯片",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsType1_Tag3",
+        "zh_CN": "协同芯片",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsType2_Tag1",
+        "zh_CN": "智械续航",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsType2_Tag2",
+        "zh_CN": "角色增幅",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsType2_Tag3",
+        "zh_CN": "智械增幅",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsType2_Tag4",
+        "zh_CN": "物品破坏",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsType2_Tag5",
+        "zh_CN": "控制强化",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsType2_Tag6",
+        "zh_CN": "范围强化",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsGroup1",
+        "zh_CN": "预设1",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsGroup2",
+        "zh_CN": "预设2",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsGroup3",
+        "zh_CN": "预设3",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsGroupUse",
+        "zh_CN": "启用",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsGroupUsed",
+        "zh_CN": "启用中",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsGroupUsedTip",
+        "zh_CN": "已成功切换至【%s】",
+        "disable": 0
+    },
+    {
+        "Key": "SystemAutoEquipByLevel",
+        "zh_CN": "智械库等级提升，已自动更新智械搭配",
+        "disable": 0
+    },
+    {
+        "Key": "SystemAutoEquipByChips",
+        "zh_CN": "检测到高级芯片迭代，已自动更新智械搭配",
+        "disable": 0
+    },
+    {
+        "Key": "SystemAutoEquipName1",
+        "zh_CN": "战术打击",
+        "disable": 0
+    },
+    {
+        "Key": "SystemAutoEquipDescription1",
+        "zh_CN": "使用各种强力的区域轰炸进行火力覆盖，可以对范围内敌方目标造成有效伤害",
+        "disable": 0
+    },
+    {
+        "Key": "SystemAutoEquipName2",
+        "zh_CN": "协同作战",
+        "disable": 0
+    },
+    {
+        "Key": "SystemAutoEquipDescription2",
+        "zh_CN": "携带各类无人机共同战斗，对敌方目标进行精准攻击的同时，还可以为我方队员提供增幅",
+        "disable": 0
+    },
+    {
+        "Key": "ActivityPointsName",
+        "zh_CN": "清理值获取说明",
+        "disable": 0
+    },
+    {
+        "Key": "ActivityPointsDescription",
+        "zh_CN": "【高危禁区】开启期间，每次通关【险境边缘】可获得20点清理值，完成任意一个限时挑战后即可最多额外获得10点清理值；每次通关【高危禁区】可获得30点清理值，完成任意一个限时挑战后即可最多额外获得20点清理值",
+        "disable": 0
+    },
+    {
+        "Key": "ActivityPointsFinish",
+        "zh_CN": "已完成",
+        "disable": 0
+    },
+    {
+        "Key": "BpUnlock",
+        "zh_CN": "%s级",
+        "disable": 0
+    },
+    {
+        "Key": "BpActivate",
+        "zh_CN": "已激活【%s】，获得全域协议后将强化该智械凭证",
+        "disable": 0
+    },
+    {
+        "Key": "BPCheck",
+        "zh_CN": "当前所选【%s】已完全解锁，仅供查看，切换页面后将重置奖励预览",
+        "disable": 0
+    },
+    {
+        "Key": "BpAutoActivate",
+        "zh_CN": "当前的【%s】已满级，自动激活未满级的【%s】，相关奖励请前往智械库领取",
+        "disable": 0
+    },
+    {
+        "Key": "Bp1Name",
+        "zh_CN": "智械凭证·区域轰炸",
+        "disable": 0
+    },
+    {
+        "Key": "Bp1Description",
+        "zh_CN": "远程呼叫世界树支援，打击指定区域，可造成大范围伤害。通过芯片调整智械功能，使其拥有额外效果；根据安装芯片的不同，智械拥有不同使用间隔和可使用上限",
+        "disable": 0
+    },
+    {
+        "Key": "Bp2Name",
+        "zh_CN": "智械凭证·蜂群打击",
+        "disable": 0
+    },
+    {
+        "Key": "Bp2Description",
+        "zh_CN": "作战用蜂群无人机战斗群，可在任务过程中部署无人机。无人机除了自动锁敌外，还可以为天启者们提供增幅。通过芯片调整无人机功能，增强其作战能力",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_SkillName1",
+        "zh_CN": "毁灭爆破",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_SkillName1_use",
+        "zh_CN": "毁灭爆破",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_SkillDescription1",
+        "zh_CN": "投放<span color=\"#437AD4\">1</>枚重型炸弹，可造成大范围爆炸，对敌方目标造成动能伤害，对我方队员造成一定比例的动能伤害",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_SkillName2",
+        "zh_CN": "广域爆破",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_SkillName2_use",
+        "zh_CN": "广域爆破",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_SkillDescription2",
+        "zh_CN": "从标记点向前，投放小型炸弹，造成多次小范围爆炸，对敌方目标造成高热伤害，对我方队员造成一定比例的高热伤害",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_SkillName3",
+        "zh_CN": "轨道光束",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_SkillName3_use",
+        "zh_CN": "轨道光束",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_SkillDescription3",
+        "zh_CN": "向标记点发射激光，在<span color=\"#437AD4\">{1}</>秒内每秒对敌方目标造成动能伤害，对我方队员造成一定比例的动能伤害，激光可在一定范围内追踪敌方目标",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_SkillName4",
+        "zh_CN": "哨戒无人机",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_SkillName4_use",
+        "zh_CN": "哨戒无人机",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_SkillDescription4",
+        "zh_CN": "部署<span color=\"#437AD4\">1</>架哨戒无人机跟随我方队员，哨戒无人机使用机枪自动攻击周围的敌方目标，对敌方目标造成动能伤害。哨戒无人机在场时部署者射击伤害提升<span color=\"#437AD4\">{1}%</>、射击速度提升<span color=\"#437AD4\">{2}%</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_SkillName5",
+        "zh_CN": "导弹无人机",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_SkillName5_use",
+        "zh_CN": "导弹无人机",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_SkillDescription5",
+        "zh_CN": "布置<span color=\"#437AD4\">1</>架导弹无人机跟随我方队员，周期性发射导弹攻击敌方目标，对敌方目标造成动能伤害，导弹无人机在场一定时间后自动离场；导弹无人机在场时部署者最大生命提升<span color=\"#437AD4\">{1}%</>，移动速度提升<span color=\"#437AD4\">{2}%</>，耐力回复速度提升<span color=\"#437AD4\">{3}%</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_SkillName6",
+        "zh_CN": "焦点无人机",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_SkillName6_use",
+        "zh_CN": "焦点无人机",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_SkillDescription6",
+        "zh_CN": "部署<span color=\"#437AD4\">1</>架焦点无人机，无人机锁定敌方目标后持续向目标方向攻击，对敌方目标造成动能伤害；焦点无人机在场时部署者常规技伤害提升<span color=\"#437AD4\">{1}%</>、常规能量回复速度提升<span color=\"#437AD4\">{2}%</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainName1",
+        "zh_CN": "核心·即刻冷却",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainName1_use",
+        "zh_CN": "核心·即刻冷却",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainName1_des",
+        "zh_CN": "所有区域轰炸类智械减少全部初始使用间隔，可使用上限+1；天启者的攻击力增加700，造成的伤害提升22.5%",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainDescription1",
+        "zh_CN": "所有区域轰炸类智械减少全部初始使用间隔，可使用上限<span color=\"#437AD4\">+{1}</>\\n天启者的攻击力增加<span color=\"#437AD4\">{2}</>，造成的伤害提升<span color=\"#437AD4\">{3}%</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainName2",
+        "zh_CN": "核心·全面激活",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainName2_use",
+        "zh_CN": "核心·全面激活",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainName2_des",
+        "zh_CN": "所有区域轰炸类智械使用间隔降低40%；天启者的攻击力增加700，技能急速增加50",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainDescription2",
+        "zh_CN": "所有区域轰炸类智械使用间隔降低<span color=\"#437AD4\">{1}%</>\\n天启者的攻击力增加<span color=\"#437AD4\">{2}</>，技能急速增加<span color=\"#437AD4\">{3}</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainName3",
+        "zh_CN": "核心·限制突破",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainName3_use",
+        "zh_CN": "核心·限制突破",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainName3_des",
+        "zh_CN": "所有区域轰炸类智械受天启者攻击力加成，造成的伤害提升；天启者的攻击力增加700，暴击伤害增幅提升30%",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainDescription3",
+        "zh_CN": "所有区域轰炸类智械受天启者攻击力加成，造成的伤害提升\\n天启者的攻击力增加<span color=\"#437AD4\">{1}</>，暴击伤害增幅提升<span color=\"#437AD4\">{2}%</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainName4",
+        "zh_CN": "核心·极速部署",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainName4_use",
+        "zh_CN": "核心·极速部署",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainName4_des",
+        "zh_CN": "每次部署无人机时，使其他无人机的使用间隔的剩余时间降低50%；天启者的攻击力增加700，造成的伤害提升22.5%",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainDescription4",
+        "zh_CN": "每次部署无人机时，使其他无人机的使用间隔的剩余时间降低<span color=\"#437AD4\">{1}%</>\\n天启者的攻击力增加<span color=\"#437AD4\">{2}</>，造成的伤害提升<span color=\"#437AD4\">{3}%</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainName5",
+        "zh_CN": "核心·增幅阵列",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainName5_use",
+        "zh_CN": "核心·增幅阵列",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainName5_des",
+        "zh_CN": "每次部署无人机，使天启者的攻击力、防御力、最大生命在30秒内提升7%，最多可叠加5层；天启者的攻击力增加700，技能急速增加50",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainDescription5",
+        "zh_CN": "每次部署无人机，使天启者的攻击力、防御力、最大生命在<span color=\"#437AD4\">{1}</>秒内提升<span color=\"#437AD4\">{2}%</>，最多可叠加<span color=\"#437AD4\">{3}</>层\\n天启者的攻击力增加<span color=\"#437AD4\">{4}</>，技能急速增加<span color=\"#437AD4\">{5}</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainName6",
+        "zh_CN": "核心·超载武装",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainName6_use",
+        "zh_CN": "核心·超载武装",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainName6_des",
+        "zh_CN": "所有无人机造成的伤害提升200%，天启者的攻击力增加700，天启者暴击伤害增幅提升30%",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_MainDescription6",
+        "zh_CN": "所有无人机造成的伤害提升<span color=\"#437AD4\">{1}%</>\\n天启者的攻击力增加<span color=\"#437AD4\">{2}</>，暴击伤害增幅提升<span color=\"#437AD4\">{3}%</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName1",
+        "zh_CN": "协同·次声震荡",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName1_use",
+        "zh_CN": "协同·次声震荡",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName1_des",
+        "zh_CN": "毁灭爆破将产生次声波，对范围内所有可破坏目标额外造成300点物品破坏力；天启者的攻击力增加315，最大生命增加975",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchDescription1",
+        "zh_CN": "毁灭爆破将产生次声波，对范围内所有可破坏目标额外造成<span color=\"#437AD4\">{1}</>点物品破坏力\\n天启者的攻击力增加<span color=\"#437AD4\">{2}</>，最大生命增加<span color=\"#437AD4\">{3}</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName2",
+        "zh_CN": "协同·凝滞力场",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName2_use",
+        "zh_CN": "协同·凝滞力场",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName2_des",
+        "zh_CN": "毁灭爆破对敌方目标造成的伤害提升90%，爆炸后生成凝滞力场，区域内所有敌方目标移动速度降低80%；天启者的攻击力增加225，防御力增加80",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchDescription2",
+        "zh_CN": "毁灭爆破对敌方目标造成的伤害提升<span color=\"#437AD4\">{1}%</>，爆炸后生成凝滞力场，区域内所有敌方目标移动速度降低<span color=\"#437AD4\">{2}%</>\\n天启者的攻击力增加<span color=\"#437AD4\">{3}</>，防御力增加<span color=\"#437AD4\">{4}</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName3",
+        "zh_CN": "协同·高能燃料",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName3_use",
+        "zh_CN": "协同·高能燃料",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName3_des",
+        "zh_CN": "广域爆破将留下持续燃烧10秒的区域，每秒对敌方目标造成高热伤害；天启者的攻击力增加270，最大生命增加1300",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchDescription3",
+        "zh_CN": "广域爆破将留下持续燃烧<span color=\"#437AD4\">{1}</>秒的区域，每秒对敌方目标造成高热伤害\\n天启者的攻击力增加<span color=\"#437AD4\">{2}</>，最大生命增加<span color=\"#437AD4\">{3}</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName4",
+        "zh_CN": "协同·地毯轰炸",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName4_use",
+        "zh_CN": "协同·地毯轰炸",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName4_des",
+        "zh_CN": "广域爆破的覆盖范围提升50%，造成的伤害提升100%；天启者的最大生命增加1950，防御力增加64",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchDescription4",
+        "zh_CN": "广域爆破的覆盖范围提升<span color=\"#437AD4\">{1}%</>，造成的伤害提升<span color=\"#437AD4\">{2}%</>\\n天启者的最大生命增加<span color=\"#437AD4\">{3}</>，防御力增加<span color=\"#437AD4\">{4}</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName5",
+        "zh_CN": "协同·镭射指引",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName5_use",
+        "zh_CN": "协同·镭射指引",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName5_des",
+        "zh_CN": "轨道光束更加精准，在6秒内每秒发射1次激光，每次激光造成动能伤害；攻击标记附近的随机敌方目标，不会锁定到我方队员；天启者的最大生命增加1300，防御力增加96",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchDescription5",
+        "zh_CN": "轨道光束更加精准，在<span color=\"#437AD4\">{1}</>秒内每秒发射<span color=\"#437AD4\">{2}</>次激光，每次激光造成动能伤害；攻击标记附近的随机敌方目标，不会锁定到我方队员\\n天启者的最大生命增加<span color=\"#437AD4\">{3}</>，防御力增加<span color=\"#437AD4\">{4}</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName6",
+        "zh_CN": "协同·过载冷凝",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName6_use",
+        "zh_CN": "协同·过载冷凝",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName6_des",
+        "zh_CN": "轨道光束持续时间增加至9秒；天启者的攻击力增加180，防御力增加96",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchDescription6",
+        "zh_CN": "轨道光束持续时间增加至<span color=\"#437AD4\">{1}</>秒\\n天启者的攻击力增加<span color=\"#437AD4\">{2}</>，防御力增加<span color=\"#437AD4\">{3}</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName7",
+        "zh_CN": "协同·无限火力",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName7_use",
+        "zh_CN": "协同·无限火力",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName7_des",
+        "zh_CN": "哨戒无人机在场时，部署者射击不消耗弹药，射击伤害提升5%；天启者的最大生命增加1625，防御力增加80",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchDescription7",
+        "zh_CN": "哨戒无人机在场时，部署者射击<span color=\"#437AD4\">不消耗弹药</>，射击伤害提升<span color=\"#437AD4\">{1}%</>\\n天启者的最大生命增加<span color=\"#437AD4\">{2}</>，防御力增加<span color=\"#437AD4\">{3}</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName8",
+        "zh_CN": "协同·枪阵极限",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName8_use",
+        "zh_CN": "协同·枪阵极限",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName8_des",
+        "zh_CN": "哨戒无人机造成的伤害提升200%；天启者的攻击力增加135，防御力增加112",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchDescription8",
+        "zh_CN": "哨戒无人机造成的伤害提升<span color=\"#437AD4\">{1}%</>\\n天启者的攻击力增加<span color=\"#437AD4\">{2}</>，防御力增加<span color=\"#437AD4\">{3}</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName9",
+        "zh_CN": "协同·愈合脉冲",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName9_use",
+        "zh_CN": "协同·愈合脉冲",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName9_des",
+        "zh_CN": "导弹无人机在场时，部署者每秒回复1%的生命，并获得抗打断效果；天启者的攻击力增加315，最大生命增加975",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchDescription9",
+        "zh_CN": "导弹无人机在场时，部署者每秒回复<span color=\"#437AD4\">{1}%</>的生命，并获得<span color=\"#437AD4\">抗打断</>效果\\n天启者的攻击力增加<span color=\"#437AD4\">{2}</>，最大生命增加<span color=\"#437AD4\">{3}</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName10",
+        "zh_CN": "协同·肃清计划",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName10_use",
+        "zh_CN": "协同·肃清计划",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName10_des",
+        "zh_CN": "导弹无人机造成的伤害提升100%，物品破坏力提升100%；天启者的攻击力增加225，防御力增加80",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchDescription10",
+        "zh_CN": "导弹无人机造成的伤害提升<span color=\"#437AD4\">{1}%</>，物品破坏力提升<span color=\"#437AD4\">{2}%</>\\n天启者的攻击力增加<span color=\"#437AD4\">{3}</>，防御力增加<span color=\"#437AD4\">{4}</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName11",
+        "zh_CN": "协同·聚变催化",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName11_use",
+        "zh_CN": "协同·聚变催化",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName11_des",
+        "zh_CN": "焦点无人机在场时，部署者每2秒恢复1点爆发能量，并使爆发技伤害提升50%；天启者的攻击力增加180，最大生命增加1950",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchDescription11",
+        "zh_CN": "焦点无人机在场时，部署者每<span color=\"#437AD4\">{1}</>秒恢复<span color=\"#437AD4\">{2}</>点爆发能量，并使爆发技伤害提升<span color=\"#437AD4\">{3}%</>\\n天启者的攻击力增加<span color=\"#437AD4\">{4}</>，最大生命增加<span color=\"#437AD4\">{5}</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName12",
+        "zh_CN": "协同·熔毁射线",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName12_use",
+        "zh_CN": "协同·熔毁射线",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchName12_des",
+        "zh_CN": "焦点无人机造成的伤害变为高热伤害，每次对目标造成伤害时，使目标防御力降低10%，最多降低30%，持续时间10秒；天启者的最大生命增加1950，防御力增加64",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_BranchDescription12",
+        "zh_CN": "焦点无人机造成的伤害变为高热伤害，每次对目标造成伤害时，使目标防御力降低<span color=\"#437AD4\">{1}%</>，最多降低<span color=\"#437AD4\">{2}%</>，持续时间<span color=\"#437AD4\">{3}</>秒\\n天启者的最大生命增加<span color=\"#437AD4\">{4}</>，防御力增加<span color=\"#437AD4\">{5}</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_PlayerBuffName1",
+        "zh_CN": "复合装甲",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_PlayerBuffDescription1",
+        "zh_CN": "防御力提升<span color=\"#437AD4\">{1}%</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_PlayerBuffName2",
+        "zh_CN": "破阵模块",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_PlayerBuffDescription2",
+        "zh_CN": "攻击力提升<span color=\"#437AD4\">{1}%</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_PlayerBuffName3",
+        "zh_CN": "维生系统",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_PlayerBuffDescription3",
+        "zh_CN": "最大生命提升<span color=\"#437AD4\">{1}%</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_PlayerBuffName4",
+        "zh_CN": "减振涂层",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_PlayerBuffDescription4",
+        "zh_CN": "受到伤害降低<span color=\"#437AD4\">{1}%</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_PlayerBuffName5",
+        "zh_CN": "天启解放",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_PlayerBuffDescription5",
+        "zh_CN": "常规技与爆发技伤害提升<span color=\"#437AD4\">{1}%</>",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_PlayerBuffName6",
+        "zh_CN": "击发强化",
+        "disable": 0
+    },
+    {
+        "Key": "Chips_PlayerBuffDescription6",
+        "zh_CN": "射击伤害提升<span color=\"#437AD4\">{1}%</>",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsShopHas",
+        "zh_CN": "已拥有",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox1",
+        "zh_CN": "初级芯片补给",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox1_use",
+        "zh_CN": "初级芯片补给",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox1_des",
+        "zh_CN": "可获得1枚白色~金色随机品质的核心芯片或协同芯片",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox1_1",
+        "zh_CN": "区域轰炸初级芯片补给",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox1_1_use",
+        "zh_CN": "区域轰炸初级芯片补给",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox1_1_des",
+        "zh_CN": "可获得1枚白色~金色随机品质的区域轰炸型核心芯片或协同芯片",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox1_2",
+        "zh_CN": "蜂群打击初级芯片补给",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox1_2_use",
+        "zh_CN": "蜂群打击初级芯片补给",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox1_2_des",
+        "zh_CN": "可获得1枚白色~金色随机品质的蜂群打击型核心芯片或协同芯片",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox2",
+        "zh_CN": "中级芯片补给",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox2_use",
+        "zh_CN": "中级芯片补给",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox2_des",
+        "zh_CN": "可获得1枚绿色~金色随机品质的核心芯片或协同芯片",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox3",
+        "zh_CN": "高级芯片补给",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox3_use",
+        "zh_CN": "高级芯片补给",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox3_des",
+        "zh_CN": "可获得1枚蓝色~金色随机品质的核心芯片或协同芯片",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox4",
+        "zh_CN": "特级芯片补给",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox4_use",
+        "zh_CN": "特级芯片补给",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox4_des",
+        "zh_CN": "可获得1枚紫色~金色随机品质的核心芯片或协同芯片",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox5",
+        "zh_CN": "终极芯片补给",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox5_use",
+        "zh_CN": "终极芯片补给",
+        "disable": 0
+    },
+    {
+        "Key": "ChipsBox5_des",
+        "zh_CN": "可获得1枚金色随机品质的核心芯片或协同芯片",
+        "disable": 0
+    },
+    {
+        "Key": "BpExp",
+        "zh_CN": "全域协议",
+        "disable": 0
+    },
+    {
+        "Key": "BpExp_use",
+        "zh_CN": "全域协议",
+        "disable": 0
+    },
+    {
+        "Key": "BpExp_des",
+        "zh_CN": "参与进击行动获得的奖励，用于升级智械凭证",
+        "disable": 0
+    },
+    {
+        "Key": "BpExpDescription",
+        "zh_CN": "参与进击行动获得的奖励，用于升级智械凭证",
+        "disable": 0
+    },
+    {
+        "Key": "ShopCash",
+        "zh_CN": "嵌入源码",
+        "disable": 0
+    },
+    {
+        "Key": "ShopCash_use",
+        "zh_CN": "嵌入源码",
+        "disable": 0
+    },
+    {
+        "Key": "ShopCash_des",
+        "zh_CN": "净化泰坦污染后留下的信息态晶体，拥有储存源代码的能力，可以加工成各种的芯片应用于智械，改变智械的功能",
+        "disable": 0
+    },
+    {
+        "Key": "ShopCashDescription",
+        "zh_CN": "净化泰坦污染后留下的信息态晶体，拥有储存源代码的能力，可以加工成各种的芯片应用于智械，改变智械的功能",
+        "disable": 0
+    },
+    {
+        "Key": "Season1LevelName1",
+        "zh_CN": "凛冬防线",
+        "disable": 0
+    },
+    {
+        "Key": "Season1LevelName2",
+        "zh_CN": "重甲压境",
+        "disable": 0
+    },
+    {
+        "Key": "Season1LevelName3",
+        "zh_CN": "空岛掠影",
+        "disable": 0
+    },
+    {
+        "Key": "Season1LevelDescription1",
+        "zh_CN": "耶洛沙观测到了大量异化人和泰坦的踪迹，其规模已构成严重威胁，请尽快前往此地，击败它们\\n※检测到大量敌方目标，推荐使用可造成大范围伤害的智械",
+        "disable": 0
+    },
+    {
+        "Key": "Season1LevelDescription2",
+        "zh_CN": "收到卫城学院求援，机库遭泰坦物质污染，一批配置了新型装机的机兵失去控制，开始袭击学院，请尽快前往此地，保护我们的盟友\\n※检测到敌方目标拥有装甲，推荐使用高攻击力的智械",
+        "disable": 0
+    },
+    {
+        "Key": "Season1LevelDescription3",
+        "zh_CN": "卫星观测报告，大量被污染的机兵降落在新恒提罗的外围地区，请尽快前往此地，保护新恒提罗居民\\n※检测到部分敌方目标得到强化，推荐使用可以锁定目标攻击的智械",
+        "disable": 0
+    },
+    {
+        "Key": "Season1LevelName4",
+        "zh_CN": "禁区·灾害萌芽",
+        "disable": 0
+    },
+    {
+        "Key": "Season1LevelDescription4",
+        "zh_CN": "警报！耶洛沙东部地区检测到疑似【树】的信号波动，系统推测为新生的树，请尽快前往，阻止树的生长\\n※检测到有大量敌方目标袭来，请根据战术倾向，合理搭配智械",
+        "disable": 0
+    },
+    {
+        "Key": "Season1Name",
+        "zh_CN": "庇佑之歌",
+        "disable": 0
+    },
+    {
+        "Key": "QuestWeekName1",
+        "zh_CN": "周常训练",
+        "disable": 0
+    },
+    {
+        "Key": "QuestWeekDescription1",
+        "zh_CN": "完成1次任意难度进击行动",
+        "disable": 0
+    },
+    {
+        "Key": "QuestWeekName2",
+        "zh_CN": "每周挑战",
+        "disable": 0
+    },
+    {
+        "Key": "QuestWeekDescription2",
+        "zh_CN": "完成3次任意难度进击行动",
+        "disable": 0
+    },
+    {
+        "Key": "QuestTimeName1",
+        "zh_CN": "净化污染Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestTimeDescription1",
+        "zh_CN": "高危禁区开放期间，累计获得100点清理值",
+        "disable": 0
+    },
+    {
+        "Key": "QuestTimeName2",
+        "zh_CN": "净化污染Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestTimeDescription2",
+        "zh_CN": "高危禁区开放期间，累计获得300点清理值",
+        "disable": 0
+    },
+    {
+        "Key": "QuestTimeName3",
+        "zh_CN": "净化污染Ⅲ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestTimeDescription3",
+        "zh_CN": "高危禁区开放期间，累计获得500点清理值",
+        "disable": 0
+    },
+    {
+        "Key": "QuestTimeName4",
+        "zh_CN": "禁区准入",
+        "disable": 0
+    },
+    {
+        "Key": "QuestTimeDescription4",
+        "zh_CN": "通关3次高危禁区",
+        "disable": 0
+    },
+    {
+        "Key": "QuestTimeName5",
+        "zh_CN": "禁区法则",
+        "disable": 0
+    },
+    {
+        "Key": "QuestTimeDescription5",
+        "zh_CN": "通关5次高危禁区",
+        "disable": 0
+    },
+    {
+        "Key": "QuestTimeName6",
+        "zh_CN": "争分夺秒·高危",
+        "disable": 0
+    },
+    {
+        "Key": "QuestTimeDescription6",
+        "zh_CN": "在完成限时挑战的情况下，成功通关高危禁区模式",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName1",
+        "zh_CN": "区域轰炸",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription1",
+        "zh_CN": "在1次进击行动中，全部携带区域轰炸类智械成功通关",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName2",
+        "zh_CN": "蜂群打击",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription2",
+        "zh_CN": "在1次进击行动中，全部携带蜂群打击类智械成功通关",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName3",
+        "zh_CN": "尖端之芯Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription3",
+        "zh_CN": "拥有1枚任意类型的金色芯片",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName4",
+        "zh_CN": "尖端之芯Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription4",
+        "zh_CN": "拥有5枚任意类型的金色芯片",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName5",
+        "zh_CN": "尖端之芯Ⅲ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription5",
+        "zh_CN": "获得10枚任意类型的金色芯片",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName6",
+        "zh_CN": "天网权限",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription6",
+        "zh_CN": "将智械凭证·区域轰炸提升至满级",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName7",
+        "zh_CN": "绝对制空",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription7",
+        "zh_CN": "将智械凭证·蜂群打击提升至满级",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName8",
+        "zh_CN": "智械库进阶Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription8",
+        "zh_CN": "智械库等级提升至10级",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName9",
+        "zh_CN": "智械库进阶Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription9",
+        "zh_CN": "智械库等级提升至20级",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName10",
+        "zh_CN": "智械库进阶Ⅲ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription10",
+        "zh_CN": "智械库等级提升至30级",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName11",
+        "zh_CN": "完全体智械",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription11",
+        "zh_CN": "在智械搭配的所有芯片槽位上镶嵌芯片",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName12",
+        "zh_CN": "究极完全体智械",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription12",
+        "zh_CN": "在智械搭配的所有芯片槽位上镶嵌金色品质芯片",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName13",
+        "zh_CN": "争分夺秒·险境",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription13",
+        "zh_CN": "在完成限时挑战的情况下，成功通关任意险境边缘模式",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName14",
+        "zh_CN": "进击的分析员Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription14",
+        "zh_CN": "累计通关5次任意模式进击行动",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName15",
+        "zh_CN": "进击的分析员Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription15",
+        "zh_CN": "累计通关10次任意模式进击行动",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName16",
+        "zh_CN": "进击的分析员Ⅲ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription16",
+        "zh_CN": "累计通关20次任意模式进击行动",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName17",
+        "zh_CN": "芯片加工Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription17",
+        "zh_CN": "在集成中心中累计消耗2000点嵌入源码",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName18",
+        "zh_CN": "芯片加工Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription18",
+        "zh_CN": "在集成中心中累计消耗4000点嵌入源码",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName19",
+        "zh_CN": "芯片加工Ⅲ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription19",
+        "zh_CN": "在集成中心中累计消耗6000点嵌入源码",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName20",
+        "zh_CN": "芯片加工Ⅳ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription20",
+        "zh_CN": "在集成中心中累计消耗8000点嵌入源码",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName21",
+        "zh_CN": "芯片加工Ⅴ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription21",
+        "zh_CN": "在集成中心中累计消耗10000点嵌入源码",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName22",
+        "zh_CN": "优秀行动Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription22",
+        "zh_CN": "成功通关任意模式进击行动，且行动评分在2000分以上",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName23",
+        "zh_CN": "优秀行动Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription23",
+        "zh_CN": "成功通关任意模式进击行动，且行动评分在3000分以上",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName24",
+        "zh_CN": "优秀行动Ⅲ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription24",
+        "zh_CN": "成功通关任意模式进击行动，且行动评分在4000分以上",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName25",
+        "zh_CN": "剿灭行动Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription25",
+        "zh_CN": "在任意进击行动中，累计消灭500名敌人",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName26",
+        "zh_CN": "剿灭行动Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription26",
+        "zh_CN": "在任意进击行动中，累计消灭1000名敌人",
+        "disable": 0
+    },
+    {
+        "Key": "QuestName27",
+        "zh_CN": "剿灭行动Ⅲ",
+        "disable": 0
+    },
+    {
+        "Key": "QuestDescription27",
+        "zh_CN": "在任意进击行动中，累计消灭2000名敌人",
+        "disable": 0
+    },
+    {
+        "Key": "SettlementTag1",
+        "zh_CN": "智械高手",
+        "disable": 0
+    },
+    {
+        "Key": "SettlementTag2",
+        "zh_CN": "智械专家",
+        "disable": 0
+    },
+    {
+        "Key": "SettlementTag3",
+        "zh_CN": "智械大师",
+        "disable": 0
+    },
+    {
+        "Key": "SettlementTag4",
+        "zh_CN": "净化大使",
+        "disable": 0
+    },
+    {
+        "Key": "SettlementTag5",
+        "zh_CN": "灾害克星",
+        "disable": 0
+    }
+]

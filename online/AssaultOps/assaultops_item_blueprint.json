@@ -1,0 +1,198 @@
+[
+    {
+        "Id": 1,
+        "ClassName": "turrets",
+        "Args": [
+            300,
+            10101
+        ],
+        "Rotate": 180,
+        "BP_Path": "/Game/Blueprints/LevelTask/Extend/Turret/TurretMulti2_ForbidZone.TurretMulti2_ForbidZone_C"
+    },
+    {
+        "Id": 2,
+        "ClassName": "turrets",
+        "Args": [
+            400,
+            10101
+        ],
+        "Rotate": 180,
+        "BP_Path": "/Game/Blueprints/LevelTask/Extend/Turret/TurretMulti2_ForbidZone.TurretMulti2_ForbidZone_C"
+    },
+    {
+        "Id": 3,
+        "ClassName": "turrets",
+        "Args": [
+            500,
+            10101
+        ],
+        "Rotate": 180,
+        "BP_Path": "/Game/Blueprints/LevelTask/Extend/Turret/TurretMulti2_ForbidZone.TurretMulti2_ForbidZone_C"
+    },
+    {
+        "Id": 4,
+        "ClassName": "howitzer",
+        "Args": [
+            120,
+            10107
+        ],
+        "Rotate": 180,
+        "BP_Path": "/Game/Blueprints/LevelTask/Extend/Turret/GrenadeTurretMulti2.GrenadeTurretMulti2_C"
+    },
+    {
+        "Id": 5,
+        "ClassName": "howitzer",
+        "Args": [
+            150,
+            10107
+        ],
+        "Rotate": 180,
+        "BP_Path": "/Game/Blueprints/LevelTask/Extend/Turret/GrenadeTurretMulti2.GrenadeTurretMulti2_C"
+    },
+    {
+        "Id": 6,
+        "ClassName": "howitzer",
+        "Args": [
+            180
+        ],
+        "Rotate": 180,
+        "BP_Path": "/Game/Blueprints/LevelTask/Extend/Turret/GrenadeTurretMulti2.GrenadeTurretMulti2_C"
+    },
+    {
+        "Id": 7,
+        "ClassName": "hp",
+        "Args": [
+            222
+        ],
+        "Rotate": "",
+        "BP_Path": "/Game/Blueprints/LevelTask/Extend/Items/Supply/SupplyGeneratorCustom.SupplyGeneratorCustom_C"
+    },
+    {
+        "Id": 8,
+        "ClassName": "hp",
+        "Args": [
+            223
+        ],
+        "Rotate": "",
+        "BP_Path": "/Game/Blueprints/LevelTask/Extend/Items/Supply/SupplyGeneratorCustom.SupplyGeneratorCustom_C"
+    },
+    {
+        "Id": 9,
+        "ClassName": "hp",
+        "Args": [
+            224
+        ],
+        "Rotate": "",
+        "BP_Path": "/Game/Blueprints/LevelTask/Extend/Items/Supply/SupplyGeneratorCustom.SupplyGeneratorCustom_C"
+    },
+    {
+        "Id": 10,
+        "ClassName": "energy",
+        "Args": [
+            225
+        ],
+        "Rotate": "",
+        "BP_Path": "/Game/Blueprints/LevelTask/Extend/Items/Supply/SupplyGeneratorCustom.SupplyGeneratorCustom_C"
+    },
+    {
+        "Id": 11,
+        "ClassName": "energy",
+        "Args": [
+            226
+        ],
+        "Rotate": "",
+        "BP_Path": "/Game/Blueprints/LevelTask/Extend/Items/Supply/SupplyGeneratorCustom.SupplyGeneratorCustom_C"
+    },
+    {
+        "Id": 12,
+        "ClassName": "energy",
+        "Args": [
+            227
+        ],
+        "Rotate": "",
+        "BP_Path": "/Game/Blueprints/LevelTask/Extend/Items/Supply/SupplyGeneratorCustom.SupplyGeneratorCustom_C"
+    },
+    {
+        "Id": 13,
+        "ClassName": "howitzer",
+        "Args": [
+            180,
+            10110
+        ],
+        "Rotate": 180,
+        "BP_Path": "/Game/Blueprints/LevelTask/Extend/Turret/GrenadeTurretMulti2.GrenadeTurretMulti2_C"
+    },
+    {
+        "Id": 14,
+        "ClassName": "howitzer",
+        "Args": [
+            180,
+            10111
+        ],
+        "Rotate": 180,
+        "BP_Path": "/Game/Blueprints/LevelTask/Extend/Turret/GrenadeTurretMulti2.GrenadeTurretMulti2_C"
+    },
+    {
+        "Id": 15,
+        "ClassName": "turrets",
+        "Args": [
+            200,
+            10112
+        ],
+        "Rotate": 180,
+        "BP_Path": "/Game/Blueprints/LevelTask/Extend/Turret/TurretLaser_ForbidZone.TurretLaser_ForbidZone_C"
+    },
+    {
+        "Id": 16,
+        "ClassName": "turrets",
+        "Args": [
+            250,
+            10112
+        ],
+        "Rotate": 180,
+        "BP_Path": "/Game/Blueprints/LevelTask/Extend/Turret/TurretLaser_ForbidZone.TurretLaser_ForbidZone_C"
+    },
+    {
+        "Id": 17,
+        "ClassName": "turrets",
+        "Args": [
+            300,
+            10112
+        ],
+        "Rotate": 180,
+        "BP_Path": "/Game/Blueprints/LevelTask/Extend/Turret/TurretLaser_ForbidZone.TurretLaser_ForbidZone_C"
+    },
+    {
+        "Id": 18,
+        "ClassName": "turrets",
+        "Args": [
+            300,
+            10116,
+            3500415
+        ],
+        "Rotate": 180,
+        "BP_Path": "/Game/Blueprints/LevelTask/Extend/Turret/TurretLaser_ForbidZone.TurretLaser_ForbidZone_C"
+    },
+    {
+        "Id": 19,
+        "ClassName": "turrets",
+        "Args": [
+            500,
+            10101,
+            3500416
+        ],
+        "Rotate": 180,
+        "BP_Path": "/Game/Blueprints/LevelTask/Extend/Turret/TurretMulti2_ForbidZone.TurretMulti2_ForbidZone_C"
+    },
+    {
+        "Id": 20,
+        "ClassName": "turrets",
+        "Args": [
+            500,
+            10101,
+            3500418
+        ],
+        "Rotate": 180,
+        "BP_Path": "/Game/Blueprints/LevelTask/Extend/Turret/TurretMulti2_ForbidZone.TurretMulti2_ForbidZone_C"
+    }
+]

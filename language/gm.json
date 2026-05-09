@@ -1,0 +1,432 @@
+[
+    {
+        "Key": "SetMAXFPS",
+        "zh_CN": "设置帧数",
+        "disable": 1000
+    },
+    {
+        "Key": "NPCID",
+        "zh_CN": "NPC ID",
+        "disable": 1000
+    },
+    {
+        "Key": "NPCNum",
+        "zh_CN": "NPC数量",
+        "disable": 1000
+    },
+    {
+        "Key": "NPCLevel",
+        "zh_CN": "NPC等级",
+        "disable": 1000
+    },
+    {
+        "Key": "NPCSkill1",
+        "zh_CN": "NPC技能１",
+        "disable": 1000
+    },
+    {
+        "Key": "NPCSkill2",
+        "zh_CN": "NPC技能２",
+        "disable": 1000
+    },
+    {
+        "Key": "SpecialProperties",
+        "zh_CN": "特殊属性",
+        "disable": 1000
+    },
+    {
+        "Key": "OpenAppointGuide",
+        "zh_CN": "指定索引",
+        "disable": 1000
+    },
+    {
+        "Key": "Boss_Level_Id",
+        "zh_CN": "BossID",
+        "disable": 1000
+    },
+    {
+        "Key": "Boss_Level_Integral",
+        "zh_CN": "分数",
+        "disable": 1000
+    },
+    {
+        "Key": "Role_UseNum",
+        "zh_CN": "指定数量",
+        "disable": 1000
+    },
+    {
+        "Key": "Tower_Time",
+        "zh_CN": "期数ID（0:恢复）",
+        "disable": 1000
+    },
+    {
+        "Key": "Tower_Type",
+        "zh_CN": "1:普通关 2:周期关",
+        "disable": 1000
+    },
+    {
+        "Key": "Tower_Layer",
+        "zh_CN": "层（0:全解锁）",
+        "disable": 1000
+    },
+    {
+        "Key": "Boss_Level_Time",
+        "zh_CN": "期数ID（0:恢复）",
+        "disable": 1000
+    },
+    {
+        "Key": "Boss_Level_Diff",
+        "zh_CN": "难度",
+        "disable": 1000
+    },
+    {
+        "Key": "OnlineLevel_Id",
+        "zh_CN": "关卡ID（0:恢复）",
+        "disable": 1000
+    },
+    {
+        "Key": "Online_Id",
+        "zh_CN": "期数ID（0:恢复）",
+        "disable": 1000
+    },
+    {
+        "Key": "Online_Value",
+        "zh_CN": "精神协作值（0:清空）",
+        "disable": 1000
+    },
+    {
+        "Key": "PoolID",
+        "zh_CN": "蛋池ID",
+        "disable": 1000
+    },
+    {
+        "Key": "nTime",
+        "zh_CN": "设置抽卡次数",
+        "disable": 1000
+    },
+    {
+        "Key": "nLaunchCount",
+        "zh_CN": "模拟次数",
+        "disable": 1000
+    },
+    {
+        "Key": "nTenFlag",
+        "zh_CN": "填1为10抽,填0为单抽",
+        "disable": 1000
+    },
+    {
+        "Key": "nTenTime",
+        "zh_CN": "十连内计数",
+        "disable": 1000
+    },
+    {
+        "Key": "nTotalTime",
+        "zh_CN": "保底内计数",
+        "disable": 1000
+    },
+    {
+        "Key": "TargerType",
+        "zh_CN": "升级对象",
+        "disable": 1000
+    },
+    {
+        "Key": "nLevel",
+        "zh_CN": "道具等级",
+        "disable": 1000
+    },
+    {
+        "Key": "nSkillLevel",
+        "zh_CN": "技能等级",
+        "disable": 1000
+    },
+    {
+        "Key": "nSpineLevel",
+        "zh_CN": "神经等级",
+        "disable": 1000
+    },
+    {
+        "Key": "Count",
+        "zh_CN": "数量",
+        "disable": 1000
+    },
+    {
+        "Key": "G",
+        "zh_CN": "G",
+        "disable": 1000
+    },
+    {
+        "Key": "D",
+        "zh_CN": "D",
+        "disable": 1000
+    },
+    {
+        "Key": "P",
+        "zh_CN": "P",
+        "disable": 1000
+    },
+    {
+        "Key": "L",
+        "zh_CN": "L",
+        "disable": 1000
+    },
+    {
+        "Key": "chapter",
+        "zh_CN": "章节",
+        "disable": 1000
+    },
+    {
+        "Key": "diff",
+        "zh_CN": "难度",
+        "disable": 1000
+    },
+    {
+        "Key": "chapterID",
+        "zh_CN": "关卡ID",
+        "disable": 1000
+    },
+    {
+        "Key": "Exp",
+        "zh_CN": "账号经验",
+        "disable": 1000
+    },
+    {
+        "Key": "AccountLevel",
+        "zh_CN": "账号升级到",
+        "disable": 1000
+    },
+    {
+        "Key": "CommandLine",
+        "zh_CN": "指令",
+        "disable": 1000
+    },
+    {
+        "Key": "Progress",
+        "zh_CN": "进度",
+        "disable": 1000
+    },
+    {
+        "Key": "PlayerHealth",
+        "zh_CN": "角色血量",
+        "disable": 1000
+    },
+    {
+        "Key": "MonsterHealth",
+        "zh_CN": "怪物血量",
+        "disable": 1000
+    },
+    {
+        "Key": "MonsterSheild",
+        "zh_CN": "怪物护盾",
+        "disable": 1000
+    },
+    {
+        "Key": "FormationSite1",
+        "zh_CN": "角色1",
+        "disable": 1000
+    },
+    {
+        "Key": "FormationSite2",
+        "zh_CN": "角色2",
+        "disable": 1000
+    },
+    {
+        "Key": "FormationSite3",
+        "zh_CN": "角色3",
+        "disable": 1000
+    },
+    {
+        "Key": "OpenOrClose",
+        "zh_CN": "开启/关闭",
+        "disable": 1000
+    },
+    {
+        "Key": "Shop_ShopID",
+        "zh_CN": "商店ID",
+        "disable": 1000
+    },
+    {
+        "Key": "Shop_RefreshNum",
+        "zh_CN": "指定次数",
+        "disable": 1000
+    },
+    {
+        "Key": "BP_Status",
+        "zh_CN": "BP付费状态",
+        "disable": 1000
+    },
+    {
+        "Key": "AddLevelTime",
+        "zh_CN": "增加关卡时间",
+        "disable": 1000
+    },
+    {
+        "Key": "TowerEvent_num",
+        "zh_CN": "解锁到多少关",
+        "disable": 1000
+    },
+    {
+        "Key": "Days",
+        "zh_CN": "天数(负数:减)",
+        "disable": 1000
+    },
+    {
+        "Key": "PlotID",
+        "zh_CN": "剧情ID",
+        "disable": 1000
+    },
+    {
+        "Key": "TargetRole",
+        "zh_CN": "指定角色",
+        "disable": 1000
+    },
+    {
+        "Key": "SetSpine",
+        "zh_CN": "神经节点",
+        "disable": 1000
+    },
+    {
+        "Key": "SetBreak",
+        "zh_CN": "天启节点",
+        "disable": 1000
+    },
+    {
+        "Key": "OpenProLevel",
+        "zh_CN": "开放同步率",
+        "disable": 1000
+    },
+    {
+        "Key": "WeaponSkill",
+        "zh_CN": "武器技能等级",
+        "disable": 1000
+    },
+    {
+        "Key": "ID",
+        "zh_CN": "ID",
+        "disable": 1000
+    },
+    {
+        "Key": "OpenFlag",
+        "zh_CN": "开关(0关1开)",
+        "disable": 1000
+    },
+    {
+        "Key": "SetNum",
+        "zh_CN": "数值",
+        "disable": 1000
+    },
+    {
+        "Key": "RankName",
+        "zh_CN": "排行Key",
+        "disable": 1000
+    },
+    {
+        "Key": "Num",
+        "zh_CN": "数量",
+        "disable": 1000
+    },
+    {
+        "Key": "Score",
+        "zh_CN": "分数",
+        "disable": 1000
+    },
+    {
+        "Key": "ScoreAdd",
+        "zh_CN": "增量",
+        "disable": 1000
+    },
+    {
+        "Key": "PlayerID",
+        "zh_CN": "角色id",
+        "disable": 1000
+    },
+    {
+        "Key": "OnlineBoss_LevelID",
+        "zh_CN": "ID(-1全部关卡)",
+        "disable": 1000
+    },
+    {
+        "Key": "OnlineBoss_Damage",
+        "zh_CN": "伤害(-1最大伤害)",
+        "disable": 1000
+    },
+    {
+        "Key": "ActivityID",
+        "zh_CN": "活动ID",
+        "disable": 1000
+    },
+    {
+        "Key": "CleanTaskProgress",
+        "zh_CN": "清理任务进度",
+        "disable": 1000
+    },
+    {
+        "Key": "TaskIDNo1",
+        "zh_CN": "1号任务ID",
+        "disable": 1000
+    },
+    {
+        "Key": "TaskIDNo2",
+        "zh_CN": "2号任务ID",
+        "disable": 1000
+    },
+    {
+        "Key": "TaskIDNo3",
+        "zh_CN": "3号任务ID",
+        "disable": 1000
+    },
+    {
+        "Key": "TaskIDNo4",
+        "zh_CN": "4号任务ID",
+        "disable": 1000
+    },
+    {
+        "Key": "TaskIDNo5",
+        "zh_CN": "5号任务ID",
+        "disable": 1000
+    },
+    {
+        "Key": "TaskIDNo6",
+        "zh_CN": "6号任务ID",
+        "disable": 1000
+    },
+    {
+        "Key": "TaskIDNo7",
+        "zh_CN": "7号任务ID",
+        "disable": 1000
+    },
+    {
+        "Key": "TaskProgressNo1",
+        "zh_CN": "1号任务进度",
+        "disable": 1000
+    },
+    {
+        "Key": "TaskProgressNo2",
+        "zh_CN": "2号任务进度",
+        "disable": 1000
+    },
+    {
+        "Key": "TaskProgressNo3",
+        "zh_CN": "3号任务进度",
+        "disable": 1000
+    },
+    {
+        "Key": "TaskProgressNo4",
+        "zh_CN": "4号任务进度",
+        "disable": 1000
+    },
+    {
+        "Key": "TaskProgressNo5",
+        "zh_CN": "5号任务进度",
+        "disable": 1000
+    },
+    {
+        "Key": "TaskProgressNo6",
+        "zh_CN": "6号任务进度",
+        "disable": 1000
+    },
+    {
+        "Key": "TaskProgressNo7",
+        "zh_CN": "7号任务进度",
+        "disable": 1000
+    }
+]

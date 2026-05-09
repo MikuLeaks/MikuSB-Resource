@@ -1,0 +1,45 @@
+[
+    {
+        "Id": 1,
+        "Explain": "待机",
+        "Type": "sequence",
+        "Name": "npc406_openworld_stand",
+        "Path": "AnimSequence'/Game/Characters/Npc/npc406/Anim/npc406_openworld_stand.npc406_openworld_stand'"
+    },
+    {
+        "Id": 2,
+        "Explain": "迷惑",
+        "Type": "sequence",
+        "Name": "npc406_openworld_confuse",
+        "Path": "AnimSequence'/Game/Characters/Npc/npc406/Anim/npc406_openworld_confuse.npc406_openworld_confuse'"
+    },
+    {
+        "Id": 3,
+        "Explain": "开心",
+        "Type": "sequence",
+        "Name": "npc406_openworld_happy",
+        "Path": "AnimSequence'/Game/Characters/Npc/npc406/Anim/npc406_openworld_happy.npc406_openworld_happy'"
+    },
+    {
+        "Id": 4,
+        "Explain": "愤怒",
+        "Type": "sequence",
+        "Name": "npc406_openworld_angry",
+        "Path": "AnimSequence'/Game/Characters/Npc/npc406/Anim/npc406_openworld_angry.npc406_openworld_angry'"
+    },
+    {
+        "Id": 100,
+        "Explain": "组合动作",
+        "Type": "custom_seq"
+    },
+    {
+        "Id": 101,
+        "Explain": "全部循环",
+        "Type": "custom_loop"
+    },
+    {
+        "Id": 102,
+        "Explain": "循环最后一个",
+        "Type": "custom_loop_last"
+    }
+]

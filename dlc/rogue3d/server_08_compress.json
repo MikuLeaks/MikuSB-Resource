@@ -1,0 +1,1038 @@
+[
+    {
+        "key": "version",
+        "value": "a",
+        "type": 1
+    },
+    {
+        "key": "index",
+        "value": "b",
+        "type": 1
+    },
+    {
+        "key": "talentId",
+        "value": "c",
+        "type": 1
+    },
+    {
+        "key": "gameplayId",
+        "value": "d",
+        "type": 1
+    },
+    {
+        "key": "tbFormat",
+        "value": "e",
+        "type": 1
+    },
+    {
+        "key": "char_index",
+        "value": "f",
+        "type": 1
+    },
+    {
+        "key": "isEnd",
+        "value": "g",
+        "type": 1
+    },
+    {
+        "key": "coin",
+        "value": "h",
+        "type": 1
+    },
+    {
+        "key": "b_box_buff_interact",
+        "value": "i",
+        "type": 1
+    },
+    {
+        "key": "danger_value",
+        "value": "j",
+        "type": 1
+    },
+    {
+        "key": "energy",
+        "value": "k",
+        "type": 1
+    },
+    {
+        "key": "tbItems",
+        "value": "l",
+        "type": 1
+    },
+    {
+        "key": "opendDoorYaw",
+        "value": "m",
+        "type": 1
+    },
+    {
+        "key": "n",
+        "value": 1
+    },
+    {
+        "key": "tbBuffs",
+        "value": "o",
+        "type": 1
+    },
+    {
+        "key": "tbCurses",
+        "value": "p",
+        "type": 1
+    },
+    {
+        "key": "nodeId",
+        "value": "q",
+        "type": 1
+    },
+    {
+        "key": "nodeState",
+        "value": "r",
+        "type": 1
+    },
+    {
+        "key": "mapGroup",
+        "value": "s",
+        "type": 1
+    },
+    {
+        "key": "mapId",
+        "value": "t",
+        "type": 1
+    },
+    {
+        "key": "hallwayId",
+        "value": "u",
+        "type": 1
+    },
+    {
+        "key": "hallwayTplId",
+        "value": "v",
+        "type": 1
+    },
+    {
+        "key": "hallwayYaw",
+        "value": "w",
+        "type": 1
+    },
+    {
+        "key": "tbNext",
+        "value": "x",
+        "type": 1
+    },
+    {
+        "key": "tbNodeData",
+        "value": "y",
+        "type": 1
+    },
+    {
+        "key": "tbFight",
+        "value": "z",
+        "type": 1
+    },
+    {
+        "key": "cache",
+        "value": "A",
+        "type": 1
+    },
+    {
+        "key": "b_box_Rebirth",
+        "value": "B",
+        "type": 1
+    },
+    {
+        "key": "b_box_Heal",
+        "value": "C",
+        "type": 1
+    },
+    {
+        "key": "shop_ref_count",
+        "value": "D",
+        "type": 1
+    },
+    {
+        "key": "tb_shop_buy",
+        "value": "E",
+        "type": 1
+    },
+    {
+        "key": "c_shop",
+        "value": "F",
+        "type": 1
+    },
+    {
+        "key": "b_box_coin",
+        "value": "G",
+        "type": 1
+    },
+    {
+        "key": "c_box_coin",
+        "value": "H",
+        "type": 1
+    },
+    {
+        "key": "b_box_buff",
+        "value": "I",
+        "type": 1
+    },
+    {
+        "key": "c_box_buff",
+        "value": "J",
+        "type": 1
+    },
+    {
+        "key": "buff_refresh",
+        "value": "K",
+        "type": 1
+    },
+    {
+        "key": "buff_id",
+        "value": "L",
+        "type": 1
+    },
+    {
+        "key": "tbTempBuff",
+        "value": "M",
+        "type": 1
+    },
+    {
+        "key": "b_box_item",
+        "value": "N",
+        "type": 1
+    },
+    {
+        "key": "c_box_item",
+        "value": "O",
+        "type": 1
+    },
+    {
+        "key": "doorMapGroupId",
+        "value": "P",
+        "type": 1
+    },
+    {
+        "key": "nodeTplId",
+        "value": "Q",
+        "type": 1
+    },
+    {
+        "key": "tbDoor",
+        "value": "R",
+        "type": 1
+    },
+    {
+        "key": "doorTplId",
+        "value": "S",
+        "type": 1
+    },
+    {
+        "key": "fightTplId",
+        "value": "T",
+        "type": 1
+    },
+    {
+        "key": "doorMapId",
+        "value": "U",
+        "type": 1
+    },
+    {
+        "key": "card",
+        "value": "V",
+        "type": 1
+    },
+    {
+        "key": "hp",
+        "value": "W",
+        "type": 1
+    },
+    {
+        "key": "tbList",
+        "value": "X",
+        "type": 1
+    },
+    {
+        "key": "hasClear",
+        "value": "Y",
+        "type": 1
+    },
+    {
+        "key": "tbMission",
+        "value": "Z",
+        "type": 1
+    },
+    {
+        "key": "fight_easy",
+        "value": "aa",
+        "type": 1
+    },
+    {
+        "key": "fight_normal",
+        "value": "ab",
+        "type": 1
+    },
+    {
+        "key": "fight_boss",
+        "value": "ac",
+        "type": 1
+    },
+    {
+        "key": "random_nofight_easy",
+        "value": "ad",
+        "type": 1
+    },
+    {
+        "key": "random_havefight_easy",
+        "value": "ae",
+        "type": 1
+    },
+    {
+        "key": "shop_level1",
+        "value": "af",
+        "type": 1
+    },
+    {
+        "key": "relx_part",
+        "value": "ag",
+        "type": 1
+    },
+    {
+        "key": "doorYaw",
+        "value": "ah",
+        "type": 1
+    },
+    {
+        "key": "fight_finboss",
+        "value": "ai",
+        "type": 1
+    },
+    {
+        "key": "fight_hard",
+        "value": "aj",
+        "type": 1
+    },
+    {
+        "key": "random_havefight_hard",
+        "value": "ak",
+        "type": 1
+    },
+    {
+        "key": "random_havefight_normal",
+        "value": "al",
+        "type": 1
+    },
+    {
+        "key": "random_nofight_hard",
+        "value": "am",
+        "type": 1
+    },
+    {
+        "key": "random_nofight_normal",
+        "value": "an",
+        "type": 1
+    },
+    {
+        "key": "relx_normal",
+        "value": "ao",
+        "type": 1
+    },
+    {
+        "key": "relx_rare_2",
+        "value": "ap",
+        "type": 1
+    },
+    {
+        "key": "relx_rare_3",
+        "value": "aq",
+        "type": 1
+    },
+    {
+        "key": "reward_easy",
+        "value": "ar",
+        "type": 1
+    },
+    {
+        "key": "reward_hard",
+        "value": "as",
+        "type": 1
+    },
+    {
+        "key": "reward_normal",
+        "value": "at",
+        "type": 1
+    },
+    {
+        "key": "shop_level2",
+        "value": "au",
+        "type": 1
+    },
+    {
+        "key": "shop_level3",
+        "value": "av",
+        "type": 1
+    },
+    {
+        "key": "nodeEventType",
+        "value": "aw",
+        "type": 1
+    },
+    {
+        "key": "tbDanger",
+        "value": "ax",
+        "type": 1
+    },
+    {
+        "key": "c_box_buff2",
+        "value": "ay",
+        "type": 1
+    },
+    {
+        "key": "b_box_buff2",
+        "value": "az",
+        "type": 1
+    },
+    {
+        "key": "is_Transfers",
+        "value": "2a",
+        "type": 1
+    },
+    {
+        "key": "fight_normal_vip",
+        "value": "2b",
+        "type": 1
+    },
+    {
+        "key": "skinName",
+        "value": "2c",
+        "type": 1
+    },
+    {
+        "key": "fight_hard_personal",
+        "value": "2d",
+        "type": 1
+    },
+    {
+        "key": "fight_hard_magic",
+        "value": "2e",
+        "type": 1
+    },
+    {
+        "key": "fight_hard_vip",
+        "value": "2f",
+        "type": 1
+    },
+    {
+        "key": "fight_normal_personal",
+        "value": "2g",
+        "type": 1
+    },
+    {
+        "key": "fight_normal_magic",
+        "value": "2h",
+        "type": 1
+    },
+    {
+        "key": "fight_easy_personal",
+        "value": "2i",
+        "type": 1
+    },
+    {
+        "key": "fight_easy_magic",
+        "value": "2j",
+        "type": 1
+    },
+    {
+        "key": "b_box_fun",
+        "value": "2k",
+        "type": 1
+    },
+    {
+        "key": "b_entry_fun",
+        "value": "2l",
+        "type": 1
+    },
+    {
+        "key": "tb_fun_reward",
+        "value": "2m",
+        "type": 1
+    },
+    {
+        "key": "fun_tag",
+        "value": "2n",
+        "type": 1
+    },
+    {
+        "key": "fun_count",
+        "value": "2o",
+        "type": 1
+    },
+    {
+        "key": "fun_value",
+        "value": "2p",
+        "type": 1
+    },
+    {
+        "key": "fun_time",
+        "value": "2q",
+        "type": 1
+    },
+    {
+        "key": "fight_bonus_tianlou",
+        "value": "2r",
+        "type": 1
+    },
+    {
+        "key": "fun_level_index",
+        "value": "2s",
+        "type": 1
+    },
+    {
+        "key": "fun_max_kill_count",
+        "value": "2t",
+        "type": 1
+    },
+    {
+        "key": "fun_time_bonus",
+        "value": "2u",
+        "type": 1
+    },
+    {
+        "key": "totalDamage",
+        "value": "2v",
+        "type": 1
+    },
+    {
+        "key": "maxDamage",
+        "value": "2w",
+        "type": 1
+    },
+    {
+        "key": "receiveDamage",
+        "value": "2x",
+        "type": 1
+    },
+    {
+        "key": "normalSkill",
+        "value": "2y",
+        "type": 1
+    },
+    {
+        "key": "superSkill",
+        "value": "2z",
+        "type": 1
+    },
+    {
+        "key": "killCount",
+        "value": "2A",
+        "type": 1
+    },
+    {
+        "key": "treatment",
+        "value": "2B",
+        "type": 1
+    },
+    {
+        "key": "infinity_point",
+        "value": "2C",
+        "type": 1
+    },
+    {
+        "key": "isSettlementDoor",
+        "value": "2D",
+        "type": 1
+    },
+    {
+        "key": "c_bingo_count",
+        "value": "2E",
+        "type": 1
+    },
+    {
+        "key": "tbPreCondition",
+        "value": "2F",
+        "type": 1
+    },
+    {
+        "key": "tbBonusRoom",
+        "value": "2G",
+        "type": 1
+    },
+    {
+        "key": "tbKillMons",
+        "value": "2H",
+        "type": 1
+    },
+    {
+        "key": "c_chaos_buffcount",
+        "value": "2I",
+        "type": 1
+    },
+    {
+        "key": "c_chaos_curbuffcount",
+        "value": "2J",
+        "type": 1
+    },
+    {
+        "key": 1000,
+        "value": "1a",
+        "type": 2
+    },
+    {
+        "key": 1101,
+        "value": "1b",
+        "type": 2
+    },
+    {
+        "key": 1102,
+        "value": "1c",
+        "type": 2
+    },
+    {
+        "key": 1103,
+        "value": "1d",
+        "type": 2
+    },
+    {
+        "key": 1104,
+        "value": "1e",
+        "type": 2
+    },
+    {
+        "key": 1105,
+        "value": "1f",
+        "type": 2
+    },
+    {
+        "key": 1201,
+        "value": "1g",
+        "type": 2
+    },
+    {
+        "key": 1202,
+        "value": "1h",
+        "type": 2
+    },
+    {
+        "key": 1203,
+        "value": "1i",
+        "type": 2
+    },
+    {
+        "key": 1204,
+        "value": "1j",
+        "type": 2
+    },
+    {
+        "key": 1205,
+        "value": "1k",
+        "type": 2
+    },
+    {
+        "key": 1301,
+        "value": "1l",
+        "type": 2
+    },
+    {
+        "key": 1302,
+        "value": "1m",
+        "type": 2
+    },
+    {
+        "key": 1303,
+        "value": "1n",
+        "type": 2
+    },
+    {
+        "key": 1304,
+        "value": "1o",
+        "type": 2
+    },
+    {
+        "key": 1305,
+        "value": "1p",
+        "type": 2
+    },
+    {
+        "key": 1401,
+        "value": "1q",
+        "type": 2
+    },
+    {
+        "key": 1402,
+        "value": "1r",
+        "type": 2
+    },
+    {
+        "key": 1403,
+        "value": "1s",
+        "type": 2
+    },
+    {
+        "key": 1404,
+        "value": "1t",
+        "type": 2
+    },
+    {
+        "key": 1405,
+        "value": "1u",
+        "type": 2
+    },
+    {
+        "key": 2101,
+        "value": "1v",
+        "type": 2
+    },
+    {
+        "key": 2102,
+        "value": "1w",
+        "type": 2
+    },
+    {
+        "key": 2103,
+        "value": "1x",
+        "type": 2
+    },
+    {
+        "key": 2104,
+        "value": "1y",
+        "type": 2
+    },
+    {
+        "key": 2105,
+        "value": "1z",
+        "type": 2
+    },
+    {
+        "key": 2201,
+        "value": "1A",
+        "type": 2
+    },
+    {
+        "key": 2202,
+        "value": "1B",
+        "type": 2
+    },
+    {
+        "key": 2203,
+        "value": "1C",
+        "type": 2
+    },
+    {
+        "key": 2204,
+        "value": "1D",
+        "type": 2
+    },
+    {
+        "key": 2205,
+        "value": "1E",
+        "type": 2
+    },
+    {
+        "key": 2301,
+        "value": "1F",
+        "type": 2
+    },
+    {
+        "key": 2302,
+        "value": "1G",
+        "type": 2
+    },
+    {
+        "key": 2303,
+        "value": "1H",
+        "type": 2
+    },
+    {
+        "key": 2304,
+        "value": "1I",
+        "type": 2
+    },
+    {
+        "key": 2305,
+        "value": "1J",
+        "type": 2
+    },
+    {
+        "key": 2401,
+        "value": "1K",
+        "type": 2
+    },
+    {
+        "key": 2402,
+        "value": "1L",
+        "type": 2
+    },
+    {
+        "key": 2403,
+        "value": "1M",
+        "type": 2
+    },
+    {
+        "key": 2404,
+        "value": "1N",
+        "type": 2
+    },
+    {
+        "key": 2405,
+        "value": "1O",
+        "type": 2
+    },
+    {
+        "key": 3101,
+        "value": "1P",
+        "type": 2
+    },
+    {
+        "key": 3102,
+        "value": "1Q",
+        "type": 2
+    },
+    {
+        "key": 3103,
+        "value": "1R",
+        "type": 2
+    },
+    {
+        "key": 3104,
+        "value": "1S",
+        "type": 2
+    },
+    {
+        "key": 3105,
+        "value": "1T",
+        "type": 2
+    },
+    {
+        "key": 3201,
+        "value": "1U",
+        "type": 2
+    },
+    {
+        "key": 3202,
+        "value": "1V",
+        "type": 2
+    },
+    {
+        "key": 3203,
+        "value": "1W",
+        "type": 2
+    },
+    {
+        "key": 3204,
+        "value": "1X",
+        "type": 2
+    },
+    {
+        "key": 3205,
+        "value": "1Y",
+        "type": 2
+    },
+    {
+        "key": "1Z",
+        "value": 2
+    },
+    {
+        "key": "3a",
+        "value": 2
+    },
+    {
+        "key": "3b",
+        "value": 2
+    },
+    {
+        "key": "3c",
+        "value": 2
+    },
+    {
+        "key": "3d",
+        "value": 2
+    },
+    {
+        "key": "3e",
+        "value": 2
+    },
+    {
+        "key": "3f",
+        "value": 2
+    },
+    {
+        "key": "3g",
+        "value": 2
+    },
+    {
+        "key": "3h",
+        "value": 2
+    },
+    {
+        "key": "3i",
+        "value": 2
+    },
+    {
+        "key": "3j",
+        "value": 2
+    },
+    {
+        "key": "3k",
+        "value": 2
+    },
+    {
+        "key": "3l",
+        "value": 2
+    },
+    {
+        "key": "3m",
+        "value": 2
+    },
+    {
+        "key": "3n",
+        "value": 2
+    },
+    {
+        "key": "3o",
+        "value": 2
+    },
+    {
+        "key": "3p",
+        "value": 2
+    },
+    {
+        "key": "3q",
+        "value": 2
+    },
+    {
+        "key": "3r",
+        "value": 2
+    },
+    {
+        "key": "3s",
+        "value": 2
+    },
+    {
+        "key": "3t",
+        "value": 2
+    },
+    {
+        "key": "3u",
+        "value": 2
+    },
+    {
+        "key": "3v",
+        "value": 2
+    },
+    {
+        "key": "3w",
+        "value": 2
+    },
+    {
+        "key": "3x",
+        "value": 2
+    },
+    {
+        "key": "3y",
+        "value": 2
+    },
+    {
+        "key": "3z",
+        "value": 2
+    },
+    {
+        "key": "3A",
+        "value": 2
+    },
+    {
+        "key": "3B",
+        "value": 2
+    },
+    {
+        "key": "3C",
+        "value": 2
+    },
+    {
+        "key": "3D",
+        "value": 2
+    },
+    {
+        "key": "3E",
+        "value": 2
+    },
+    {
+        "key": "3F",
+        "value": 2
+    },
+    {
+        "key": "3G",
+        "value": 2
+    },
+    {
+        "key": "3H",
+        "value": 2
+    },
+    {
+        "key": "3I",
+        "value": 2
+    },
+    {
+        "key": "3J",
+        "value": 2
+    },
+    {
+        "key": "3K",
+        "value": 2
+    },
+    {
+        "key": "3L",
+        "value": 2
+    },
+    {
+        "key": "3M",
+        "value": 2
+    },
+    {
+        "key": "3N",
+        "value": 2
+    },
+    {
+        "key": "3O",
+        "value": 2
+    },
+    {
+        "key": "3P",
+        "value": 2
+    },
+    {
+        "key": "3Q",
+        "value": 2
+    },
+    {
+        "key": "3R",
+        "value": 2
+    },
+    {
+        "key": "3S",
+        "value": 2
+    },
+    {
+        "key": "3T",
+        "value": 2
+    },
+    {
+        "key": "3U",
+        "value": 2
+    },
+    {
+        "key": "3V",
+        "value": 2
+    },
+    {
+        "key": "3W",
+        "value": 2
+    },
+    {
+        "key": "3X",
+        "value": 2
+    },
+    {
+        "key": "3Y",
+        "value": 2
+    },
+    {
+        "key": "3Z",
+        "value": 2
+    }
+]

@@ -1,0 +1,832 @@
+[
+    {
+        "Key": 1,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "舍塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "陶，恭喜你，又为自己争取到了时间……没想到，时间竟然成了最昂贵的宝物。",
+        "disable": 0
+    },
+    {
+        "Key": 2,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "舍塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我听说，治疗不太顺利？",
+        "disable": 0
+    },
+    {
+        "Key": 3,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "纳米机器人的疗效正如预期，出现了衰减。",
+        "disable": 0
+    },
+    {
+        "Key": 4,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这次治疗消耗了过多端粒长度，剩余长度应该无法支撑下一次治疗了。",
+        "disable": 0
+    },
+    {
+        "Key": 5,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "就如同隔离墙遭受攻击时一样，这些站在金字塔顶端的世界树公司董事，再次流露出惊慌与不安。陶本人反而未产生任何情绪波动。",
+        "disable": 0
+    },
+    {
+        "Key": 6,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "舍塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "怎么会这样！这和原本的预期不一样！",
+        "disable": 0
+    },
+    {
+        "Key": "6a",
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "没有人能预料这种结果，在治疗过程中，纳米机器人出现了故障。",
+        "disable": 0
+    },
+    {
+        "Key": 7,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "舍塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "那么，你主持的研究该怎么办？",
+        "disable": 0
+    },
+    {
+        "Key": 8,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "伊普西龙",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "提醒一下。",
+        "disable": 0
+    },
+    {
+        "Key": 9,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "伊普西龙",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你拒绝我们介入研究，也不愿意公布成果。",
+        "disable": 0
+    },
+    {
+        "Key": 10,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "伊普西龙",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "一旦不幸出现意外，我们没法从你的大脑中提取研究成果！",
+        "disable": 0
+    },
+    {
+        "Key": 11,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我会如期完成“容器”的准备，计划不会有任何改变。",
+        "disable": 0
+    },
+    {
+        "Key": 12,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "德尔塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "当然，我们对你有充足的信心，只是……我们所能够等待的时间也不多了。",
+        "disable": 0
+    },
+    {
+        "Key": 13,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不用向我施压。时间与进度仍然在预期范围内。",
+        "disable": 0
+    },
+    {
+        "Key": 14,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我更担心军方会介入神格天启的研究。",
+        "disable": 0
+    },
+    {
+        "Key": 15,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "伊普西龙",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "只要我们还掌握着巴德尔抑制剂这张王牌，他们就不敢……",
+        "disable": 0
+    },
+    {
+        "Key": 16,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "隔离墙被泰坦突破以后，成年病带来的社会影响恐怕就不再是军方考量的首位了，那时我们就会失去与军方谈判的筹码。",
+        "disable": 0
+    },
+    {
+        "Key": 17,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "助理刚才告诉我，隔离墙在我离开时，遭到了磁轨炮的炮击。",
+        "disable": 0
+    },
+    {
+        "Key": 18,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "奥米茄",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "舍塔已经派人妥善处理了，不用担心。",
+        "disable": 0
+    },
+    {
+        "Key": 19,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "舍塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "还是姬辰星那个孩子，这次危机她应对得很好。后续的工作我也交给她继续跟进，是可以放心的。",
+        "disable": 0
+    },
+    {
+        "Key": 20,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你确定隔离墙仍在正常运作？",
+        "disable": 0
+    },
+    {
+        "Key": 21,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "舍塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "已经详细排查过了，没有问题。",
+        "disable": 0
+    },
+    {
+        "Key": 22,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "舍塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "陶，你应该考虑一下，让那孩子加入海姆达尔部队。",
+        "disable": 0
+    },
+    {
+        "Key": 23,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "奥米茄",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我们都很欣赏她表现出来的正义。",
+        "disable": 0
+    },
+    {
+        "Key": 24,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": 25,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "既然你们已经讨论过了，我没有意见。",
+        "disable": 0
+    },
+    {
+        "Key": "25a",
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "一名职员带着惊慌的神色，快步走入这间平时只有董事被准许进入的会议室。",
+        "disable": 0
+    },
+    {
+        "Key": "25b",
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "公司职员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "打扰各位董事开会了，发生了非常紧急的状况！",
+        "disable": 0
+    },
+    {
+        "Key": "25c",
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "公司职员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "全球范围内与公司相关的债务同时发生违约，我们的股价正在剧烈波动。",
+        "disable": 0
+    },
+    {
+        "Key": "25d",
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "奥米茄",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "报告被波及到的部门。",
+        "disable": 0
+    },
+    {
+        "Key": "25e",
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "公司职员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "是所，所有……医疗事业部、军工事业群、投资事业群、互动媒体及娱乐事业群……所有主要盈利的事业群都正在受到冲击！",
+        "disable": 0
+    },
+    {
+        "Key": "25f",
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "公司职员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "而且在网络舆论上，之前被压住热度的话题又重新开始被讨论……大家都在抛售我们的股票……包括其他合作伙伴。",
+        "disable": 0
+    },
+    {
+        "Key": "25g",
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "奥米茄",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我们知道了。",
+        "disable": 0
+    },
+    {
+        "Key": "25h",
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "奥米茄",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你先下去吧。",
+        "disable": 0
+    },
+    {
+        "Key": "25i",
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "公司职员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "好……好的。",
+        "disable": 0
+    },
+    {
+        "Key": "25j",
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这是第二个不可思议的事件。",
+        "disable": 0
+    },
+    {
+        "Key": "25k",
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "奥米茄",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "当务之急是召开发布会，让市场恢复对我们的信心。",
+        "disable": 0
+    },
+    {
+        "Key": "25l",
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "伊普西龙",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "如今有什么消息是值得发布出来的吗？",
+        "disable": 0
+    },
+    {
+        "Key": "25m",
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "派",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "任何能够展现公司实力与前景，有利于正面形象塑造的消息都可以。",
+        "disable": 0
+    },
+    {
+        "Key": "25n",
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "伊普西龙",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "那些储备的前沿科技？不行……会影响到后续的产品布局。",
+        "disable": 0
+    },
+    {
+        "Key": "25o",
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "奥米茄",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "或许，我们可以再对泰坦展开一次清剿行动……然后我们宣称在三年之内就能解决泰坦问题。",
+        "disable": 0
+    },
+    {
+        "Key": "25p",
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "舍塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "三年……",
+        "disable": 0
+    },
+    {
+        "Key": "25q",
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "奥米茄",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "只需要能争取时间就够了，等待陶完成“容器”的准备，这些就都不再是问题。",
+        "disable": 0
+    },
+    {
+        "Key": 26,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "又一声突如其来的巨大警报声，再次打断了这场会议。",
+        "disable": 0
+    },
+    {
+        "Key": 27,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "一名研究员在震惊与费解中，闯进了会议室。",
+        "disable": 0
+    },
+    {
+        "Key": 28,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "研究员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "抱歉打断各位董事的会议，零区出现了紧急事态。",
+        "disable": 0
+    },
+    {
+        "Key": 29,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "研究员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "陶董……",
+        "disable": 0
+    },
+    {
+        "Key": 30,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不用避讳，直接汇报情况。",
+        "disable": 0
+    },
+    {
+        "Key": 31,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "研究员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "零区的泰坦污染分布在刚刚发生急剧变化，缓冲区、污染城区的地表污染程度迅速降低。",
+        "disable": 0
+    },
+    {
+        "Key": 32,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "研究员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "相反，深水区与<snowbreak>花园区</>的污染程度急剧上升。",
+        "disable": 0
+    },
+    {
+        "Key": 33,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "变化原因找到了吗？",
+        "disable": 0
+    },
+    {
+        "Key": 34,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "研究员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我们认为跟<snowbreak>尤克特拉希尔</>有关。",
+        "disable": 0
+    },
+    {
+        "Key": 35,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "研究员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "也就是位于花园区中央的巨大树状结晶物体，零区内所有的安全屋与探测仪器都在同时捕获到了来自它的广播讯息。",
+        "disable": 0
+    },
+    {
+        "Key": 36,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "研究员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "同时，泰坦污染分布开始变化……不只是泰坦污染，还有其他……",
+        "disable": 0
+    },
+    {
+        "Key": 37,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "研究员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "正在执勤的海姆达尔队员观测到泰坦与异化人，都正在向深水区与花园区集中！陶董……",
+        "disable": 0
+    },
+    {
+        "Key": 38,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你的意思是，它正在像信号塔一样向零区内所有泰坦进行了广播？并且控制泰坦行动？",
+        "disable": 0
+    },
+    {
+        "Key": 39,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "研究员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "表面上看起来是这样，但我们还无法确认……",
+        "disable": 0
+    },
+    {
+        "Key": 40,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "那就去继续分析，向我汇报确认后的结果。",
+        "disable": 0
+    },
+    {
+        "Key": 41,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "研究员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "好……好的！",
+        "disable": 0
+    },
+    {
+        "Key": "41a",
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "第三个不可思议的事件……",
+        "disable": 0
+    },
+    {
+        "Key": 42,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这应该是我们第一次观测到尤克特拉希尔产生活动迹象，这种规模的影响，很难瞒过军方。",
+        "disable": 0
+    },
+    {
+        "Key": 43,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "或许应该主动向军方请求协助，如果泰坦有组织地向最后一道隔离墙发动攻击，我不确定，仅凭公司的人力是否能够抵挡。",
+        "disable": 0
+    },
+    {
+        "Key": 44,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "派",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "没记错的话，陶董刚刚才提醒我们，军方介入后，会产生神格天启研究无法保持独立性的风险吧？",
+        "disable": 0
+    },
+    {
+        "Key": 45,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "伊普西龙",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我也不明白你提议请求军方介入的底层逻辑。",
+        "disable": 0
+    },
+    {
+        "Key": 46,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "同时发生的意外有些过多了，我认为可以在利益上向军方适度让步。",
+        "disable": 0
+    },
+    {
+        "Key": "46a",
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这有可能是埃达施加的影响力，你们很清楚，它有这个能力。",
+        "disable": 0
+    },
+    {
+        "Key": "45b",
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "奥米茄",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我们已经封锁了它向外发送任何信号的可能。",
+        "disable": 0
+    },
+    {
+        "Key": "45c",
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "奥米茄",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这两三年时间内，它一直都没有行动。",
+        "disable": 0
+    },
+    {
+        "Key": "45d",
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "伊普西龙",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "除了让playername回来……但你已经对他进行了“处理”，对吧？",
+        "disable": 0
+    },
+    {
+        "Key": "46e",
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "没错。",
+        "disable": 0
+    },
+    {
+        "Key": 48,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "伊普西龙",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "军方介入才是我们真正不愿意看到的结果。",
+        "disable": 0
+    },
+    {
+        "Key": 49,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "舍塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "泰坦在三年来一直没有对隔离墙产生明显的攻击意图，尤克特拉希尔产生的活动迹象，未必会对隔离墙产生影响。",
+        "disable": 0
+    },
+    {
+        "Key": 50,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "舍塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "请求军方介入是最后的手段，我认为除非各位董事的生命安全直接受到威胁，不然……",
+        "disable": 0
+    },
+    {
+        "Key": 51,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "奥米茄",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "就这样吧，先让海姆达尔部队出发，确认泰坦的行为会产生何种危害。我相信这对正义无损。",
+        "disable": 0
+    },
+    {
+        "Key": 52,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "伊普西龙",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "如果能够取得一定成果，就能重振市场对我们的信心，挽回股价，这是一举两得的决定，陶……",
+        "disable": 0
+    },
+    {
+        "Key": 53,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": 54,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "陶不再开口，只是漠然点了点头，转身离开会议室。",
+        "disable": 0
+    },
+    {
+        "Key": 55,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "鸟翼系上黄金，就无法再翱翔。",
+        "disable": 0
+    },
+    {
+        "Key": 56,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……人类需要真正的神祇来领导。",
+        "disable": 0
+    },
+    {
+        "Key": "56a",
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "陶将目光投向远处依稀可辨的“巨树”。",
+        "disable": 0
+    },
+    {
+        "Key": 57,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "它宣告自己的名为“尤克特拉希尔”，是想要取而代之的意思吗？",
+        "disable": 0
+    },
+    {
+        "Key": 58,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "抱歉，老板你刚才说的话我没听清……",
+        "disable": 0
+    },
+    {
+        "Key": 59,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "通知分析员，让海姆达尔部队做好进入深水区的准备。",
+        "disable": 0
+    }
+]

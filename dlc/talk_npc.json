@@ -1,0 +1,188 @@
+[
+    {
+        "Id": 1,
+        "NameKey": "dlc2.npc202",
+        "TalkPath": "OpenWorld_DLC2/DLC2_npc202"
+    },
+    {
+        "Id": 2,
+        "NameKey": "dlc2.npc403",
+        "TalkPath": "OpenWorld_DLC2/DLC2_npc403"
+    },
+    {
+        "Id": 3,
+        "NameKey": "dlc2.npc408",
+        "TalkPath": "OpenWorld_DLC2/DLC2_npc408"
+    },
+    {
+        "Id": 4,
+        "NameKey": "dlc2.npc401_1",
+        "TalkPath": "OpenWorld_DLC2/DLC2_npc401_1"
+    },
+    {
+        "Id": 5,
+        "NameKey": "dlc2.npc401_2",
+        "TalkPath": "OpenWorld_DLC2/DLC2_npc401_2"
+    },
+    {
+        "Id": 6,
+        "NameKey": "plotrolename.Chara.158",
+        "TalkPath": "OpenWorld_DLC3/dlc3_npc406",
+        "TitleOffset": 150,
+        "OptionKey": "dlc2.tip_09"
+    },
+    {
+        "Id": 7,
+        "NameKey": "plotrolename.Chara.39",
+        "TalkPath": "OpenWorld_DLC3/dlc3_interaction",
+        "TitleOffset": "",
+        "OptionKey": "ui.TxtChessInteract"
+    },
+    {
+        "Id": 8,
+        "NameKey": "plotrolename.Chara.158",
+        "TalkPath": "OpenWorld_DLC3/dlc3_npc406_02",
+        "TitleOffset": 150
+    },
+    {
+        "Id": 9,
+        "NameKey": "plotrolename.Chara.158",
+        "TalkPath": "OpenWorld_DLC3/dlc3_npc406_03",
+        "TitleOffset": 150
+    },
+    {
+        "Id": 10,
+        "NameKey": "",
+        "TalkPath": "OpenWorld_DLC3/dlc3_interaction_2",
+        "TitleOffset": "",
+        "OptionKey": "ui.TxtChessInteract"
+    },
+    {
+        "Id": 15,
+        "NameKey": "dlc5_TalkNpc_01",
+        "TalkPath": "Task_DLC5/DLC5_TalkNpc_01"
+    },
+    {
+        "Id": 20,
+        "NameKey": "dlc6_TalkNpc_01",
+        "TalkPath": "Task_DLC6/DLC6_TalkNpc_01"
+    },
+    {
+        "Id": 21,
+        "NameKey": "dlc6_TalkNpc_02",
+        "TalkPath": "Task_DLC6/DLC6_TalkNpc_02"
+    },
+    {
+        "Id": 22,
+        "NameKey": "dlc6_TalkNpc_03",
+        "TalkPath": "Task_DLC6/DLC6_TalkNpc_03"
+    },
+    {
+        "Id": 23,
+        "NameKey": "dlc6_TalkNpc_04",
+        "TalkPath": "Task_DLC6/DLC6_TalkNpc_04"
+    },
+    {
+        "Id": 24,
+        "NameKey": "dlc6_TalkNpc_05",
+        "TalkPath": "Task_DLC6/DLC6_TalkNpc_05"
+    },
+    {
+        "Id": 25,
+        "NameKey": "dlc7_TalkNpc_01",
+        "TalkPath": "Task_DLC7/dlc7_TalkNpc_01",
+        "TitleOffset": "",
+        "OptionKey": "TxtNpcInteract02"
+    },
+    {
+        "Id": 26,
+        "NameKey": "dlc7_TalkNpc_02",
+        "TalkPath": "Task_DLC7/dlc7_TalkNpc_02",
+        "TitleOffset": "",
+        "OptionKey": "TxtNpcInteract02"
+    },
+    {
+        "Id": 27,
+        "NameKey": "dlc7_TalkNpc_03",
+        "TalkPath": "Task_DLC7/dlc7_TalkNpc_03",
+        "TitleOffset": "",
+        "OptionKey": "TxtNpcInteract02"
+    },
+    {
+        "Id": 28,
+        "NameKey": "plot_cast.dlc12_TalkNpc_01",
+        "TalkPath": "Task_DLC12/dlc12_TalkNpc_01"
+    },
+    {
+        "Id": 29,
+        "NameKey": "plot_cast.dlc12_TalkNpc_02",
+        "TalkPath": "Task_DLC12/dlc12_TalkNpc_02"
+    },
+    {
+        "Id": 30,
+        "NameKey": "plot_cast.dlc12_TalkNpc_03",
+        "TalkPath": "Task_DLC12/dlc12_TalkNpc_03"
+    },
+    {
+        "Id": 31,
+        "NameKey": "plot_cast.dlc12_TalkNpc_04",
+        "TalkPath": "Task_DLC12/dlc12_TalkNpc_04"
+    },
+    {
+        "Id": 32,
+        "NameKey": "plot_cast.dlc25_TalkNpc_01",
+        "TalkPath": "Task_DLC25/dlc25_TalkNpc_01",
+        "TitleOffset": "",
+        "OptionKey": "ui.TxtNpcInteract02"
+    },
+    {
+        "Id": 33,
+        "NameKey": "plot_cast.dlc25_TalkNpc_02",
+        "TalkPath": "Task_DLC25/dlc25_TalkNpc_02",
+        "TitleOffset": "",
+        "OptionKey": "ui.TxtNpcInteract02"
+    },
+    {
+        "Id": 34,
+        "NameKey": "plot_cast.dlc25_TalkNpc_03",
+        "TalkPath": "Task_DLC25/dlc25_TalkNpc_03",
+        "TitleOffset": "",
+        "OptionKey": "ui.TxtNpcInteract02"
+    },
+    {
+        "Id": 35,
+        "NameKey": "plot_cast.dlc25_TalkNpc_04",
+        "TalkPath": "Task_DLC25/dlc25_TalkNpc_04",
+        "TitleOffset": "",
+        "OptionKey": "ui.TxtNpcInteract02"
+    },
+    {
+        "Id": 36,
+        "NameKey": "plot_cast.dlc25_TalkNpc_05",
+        "TalkPath": "Task_DLC25/dlc25_TalkNpc_05",
+        "TitleOffset": "",
+        "OptionKey": "ui.TxtNpcInteract02"
+    },
+    {
+        "Id": 37,
+        "NameKey": "plot_cast.dlc25_TalkNpc_04",
+        "TalkPath": "Task_DLC25/dlc25_TalkNpc_06",
+        "TitleOffset": "",
+        "OptionKey": "ui.TxtNpcInteract02"
+    },
+    {
+        "Id": 51,
+        "NameKey": "",
+        "TalkPath": "DLC27_event/SC_phase_a_05"
+    },
+    {
+        "Id": 52,
+        "NameKey": "",
+        "TalkPath": "DLC27_event/SC_phase_b_03"
+    },
+    {
+        "Id": 53,
+        "NameKey": "",
+        "TalkPath": "BluePrintIsland/Maintask1_12"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "Name": "TxtRikiMainUI",
+        "scene": [
+            "main",
+            "chapter"
+        ],
+        "Zorder": 7
+    },
+    {
+        "Name": "MainDorm",
+        "scene": [
+            "dorm"
+        ],
+        "Zorder": 6
+    },
+    {
+        "Name": "TxtHealthRoom",
+        "scene": [
+            "dorm_health"
+        ],
+        "Zorder": 5
+    },
+    {
+        "Name": "TxtDorm.Hotspring",
+        "scene": [
+            "dorm_hotspring"
+        ],
+        "Zorder": 4
+    },
+    {
+        "Name": "TxtPubName",
+        "scene": [
+            "dorm_pub"
+        ],
+        "Zorder": 3
+    },
+    {
+        "Name": "TxtBeachName",
+        "scene": [
+            "dorm_beach"
+        ],
+        "Zorder": 2
+    },
+    {
+        "Name": "TxtArcadeName",
+        "scene": [
+            "dorm_Arcade"
+        ],
+        "Zorder": 1
+    }
+]

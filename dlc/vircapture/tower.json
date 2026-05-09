@@ -1,0 +1,3661 @@
+[
+    {
+        "ID": 5820,
+        "Condition": {
+            "20": 5
+        },
+        "MapID": 5820,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001004,
+            4001005
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7080
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_01.pal_tower_01",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 1
+    },
+    {
+        "ID": 5821,
+        "Condition": {
+            "2": 5820
+        },
+        "MapID": 5821,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4003004,
+            4002006
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7081
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_02.pal_tower_02",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 1
+    },
+    {
+        "ID": 5822,
+        "Condition": {
+            "2": 5821
+        },
+        "MapID": 5822,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001004,
+            4002007,
+            4001015
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7080
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_03.pal_tower_03",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 2
+    },
+    {
+        "ID": 5823,
+        "Condition": {
+            "2": 5822
+        },
+        "MapID": 5823,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4002004,
+            4002006,
+            4001007,
+            4002002
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7081
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_04.pal_tower_04",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 2
+    },
+    {
+        "ID": 5824,
+        "Condition": {
+            "2": 5823
+        },
+        "MapID": 5824,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4002004,
+            5002010,
+            5001010
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                4,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7082
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_05.pal_tower_05",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 3
+    },
+    {
+        "ID": 5825,
+        "Condition": {
+            "2": 5824
+        },
+        "MapID": 5825,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4002004,
+            4002007,
+            4002002,
+            4001015
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7080
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_06.pal_tower_06",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 3
+    },
+    {
+        "ID": 5826,
+        "Condition": {
+            "2": 5825
+        },
+        "MapID": 5826,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001013,
+            4002006,
+            4001015,
+            4001017
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7081
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_07.pal_tower_07",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 4
+    },
+    {
+        "ID": 5827,
+        "Condition": {
+            "2": 5826
+        },
+        "MapID": 5827,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4003003,
+            4002002,
+            5001001,
+            400160601
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7080
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_08.pal_tower_08",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 4
+    },
+    {
+        "ID": 5828,
+        "Condition": {
+            "2": 5827
+        },
+        "MapID": 5828,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 75
+        },
+        "Monster": [
+            34003007,
+            400100403,
+            34003006,
+            34001015
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7081
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_09.pal_tower_09",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 5
+    },
+    {
+        "ID": 5829,
+        "Condition": {
+            "2": 5828
+        },
+        "MapID": 5829,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001004,
+            5001018,
+            5001019,
+            400160202
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                4,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7082
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_10.pal_tower_10",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 5
+    },
+    {
+        "ID": 5830,
+        "Condition": {
+            "2": 5829
+        },
+        "MapID": 5830,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001108,
+            4002103,
+            4001112
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7083
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_11.pal_tower_11",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 6
+    },
+    {
+        "ID": 5831,
+        "Condition": {
+            "2": 5830
+        },
+        "MapID": 5831,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001116,
+            4002106,
+            4001112,
+            4003102
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7084
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_12.pal_tower_12",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 6
+    },
+    {
+        "ID": 5832,
+        "Condition": {
+            "2": 5831
+        },
+        "MapID": 5832,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001112,
+            4001114,
+            4001108,
+            4003106,
+            4002103
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7083
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_13.pal_tower_13",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 7
+    },
+    {
+        "ID": 5833,
+        "Condition": {
+            "2": 5832
+        },
+        "MapID": 5833,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001108,
+            4002106,
+            4001116,
+            5001101,
+            4003102
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7084
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_14.pal_tower_14",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 7
+    },
+    {
+        "ID": 5834,
+        "Condition": {
+            "2": 5833
+        },
+        "MapID": 5834,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001108,
+            4001112,
+            5003110,
+            500110901
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                4,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7082
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_15.pal_tower_15",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 8
+    },
+    {
+        "ID": 5835,
+        "Condition": {
+            "2": 5834
+        },
+        "MapID": 5835,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4009013
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7083
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_16.pal_tower_16",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 8
+    },
+    {
+        "ID": 5836,
+        "Condition": {
+            "2": 5835
+        },
+        "MapID": 5836,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001108,
+            4002003,
+            4002006,
+            400100802,
+            5001001
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7084
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_17.pal_tower_17",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 9
+    },
+    {
+        "ID": 5837,
+        "Condition": {
+            "2": 5836
+        },
+        "MapID": 5837,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4002004,
+            4003007,
+            4001005,
+            5002010
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7083
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_18.pal_tower_18",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 9
+    },
+    {
+        "ID": 5838,
+        "Condition": {
+            "2": 5837
+        },
+        "MapID": 5838,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4003004,
+            4003003,
+            4003007,
+            4007013,
+            4001017,
+            4001002
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7084
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_19.pal_tower_19",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 10
+    },
+    {
+        "ID": 5839,
+        "Condition": {
+            "2": 5838
+        },
+        "MapID": 5839,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4003003,
+            500101002,
+            5001009,
+            5001019
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                4,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7082
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_20.pal_tower_20",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 10
+    },
+    {
+        "ID": 5840,
+        "Condition": {
+            "2": 5839
+        },
+        "MapID": 5840,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4003004,
+            4003007,
+            4001005
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7083
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_21.pal_tower_21",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 11
+    },
+    {
+        "ID": 5841,
+        "Condition": {
+            "2": 5840
+        },
+        "MapID": 5841,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001213,
+            4001212,
+            4001215,
+            5001207
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7084
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_22.pal_tower_22",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 12
+    },
+    {
+        "ID": 5842,
+        "Condition": {
+            "2": 5841
+        },
+        "MapID": 5842,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001216,
+            4001213,
+            4001215,
+            5001214
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7083
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_23.pal_tower_23",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 13
+    },
+    {
+        "ID": 5843,
+        "Condition": {
+            "2": 5842
+        },
+        "MapID": 5843,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 75
+        },
+        "Monster": [
+            34003007,
+            400100403,
+            34003006,
+            34001015
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7084
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_24.pal_tower_24",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 14
+    },
+    {
+        "ID": 5844,
+        "Condition": {
+            "2": 5843
+        },
+        "MapID": 5844,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001211,
+            5001205,
+            5001209,
+            4001213,
+            4001215
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                4,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7082
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_25.pal_tower_25",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 15
+    },
+    {
+        "ID": 5845,
+        "Condition": {
+            "2": 5844
+        },
+        "MapID": 5845,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4003003,
+            4003004,
+            4002002,
+            400160202,
+            5001009,
+            4001002
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7083
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_26.pal_tower_26",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 16
+    },
+    {
+        "ID": 5846,
+        "Condition": {
+            "2": 5845
+        },
+        "MapID": 5846,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            400160601,
+            400160202,
+            4002002,
+            5001019,
+            4001002
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7084
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_27.pal_tower_27",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 17
+    },
+    {
+        "ID": 5847,
+        "Condition": {
+            "2": 5846
+        },
+        "MapID": 5847,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4002004,
+            4001005,
+            4009013,
+            4001017
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7083
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_28.pal_tower_28",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 18
+    },
+    {
+        "ID": 5848,
+        "Condition": {
+            "2": 5847
+        },
+        "MapID": 5848,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4002004,
+            500101002,
+            400160202,
+            500201003
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7084
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_29.pal_tower_29",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 19
+    },
+    {
+        "ID": 5849,
+        "Condition": {
+            "2": 5848
+        },
+        "MapID": 5849,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001016,
+            6001003
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                4,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7082
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_30.pal_tower_30",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 20
+    },
+    {
+        "ID": 5850,
+        "Condition": {
+            "2": 5849
+        },
+        "MapID": 5850,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001211,
+            4001213,
+            4001212,
+            5001206,
+            4001215
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7085
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_31.pal_tower_31",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 21
+    },
+    {
+        "ID": 5851,
+        "Condition": {
+            "2": 5850
+        },
+        "MapID": 5851,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001211,
+            4001212,
+            5001209,
+            4001213
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7086
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_32.pal_tower_32",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 22
+    },
+    {
+        "ID": 5852,
+        "Condition": {
+            "2": 5851
+        },
+        "MapID": 5852,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001215,
+            4001213,
+            4001216,
+            5001207
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7085
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_33.pal_tower_33",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 23
+    },
+    {
+        "ID": 5853,
+        "Condition": {
+            "2": 5852
+        },
+        "MapID": 5853,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001216,
+            4001211,
+            4001215,
+            4001213,
+            5002208
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7086
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_34.pal_tower_34",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 24
+    },
+    {
+        "ID": 5854,
+        "Condition": {
+            "2": 5853
+        },
+        "MapID": 5854,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001212,
+            4001213,
+            5001207,
+            4001211,
+            5001209,
+            5003208
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                4,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7087
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_35.pal_tower_35",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 25
+    },
+    {
+        "ID": 5855,
+        "Condition": {
+            "2": 5854
+        },
+        "MapID": 5855,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001008,
+            400160202,
+            4001017,
+            5001018
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7085
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_36.pal_tower_36",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 26
+    },
+    {
+        "ID": 5856,
+        "Condition": {
+            "2": 5855
+        },
+        "MapID": 5856,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001013,
+            4001004,
+            4003006,
+            5001009,
+            4001017
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7086
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_37.pal_tower_37",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 27
+    },
+    {
+        "ID": 5857,
+        "Condition": {
+            "2": 5856
+        },
+        "MapID": 5857,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            400160601,
+            4001004,
+            4003003,
+            4002002,
+            5001001,
+            4001002
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7085
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_38.pal_tower_38",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 28
+    },
+    {
+        "ID": 5858,
+        "Condition": {
+            "2": 5857
+        },
+        "MapID": 5858,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 75
+        },
+        "Monster": [
+            34003007,
+            400100403,
+            34003006,
+            400100802,
+            34001015,
+            35001001
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7086
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_39.pal_tower_39",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 29
+    },
+    {
+        "ID": 5859,
+        "Condition": {
+            "2": 5858
+        },
+        "MapID": 5859,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4003003,
+            5001001,
+            4003007,
+            5001009,
+            5001019,
+            5001018,
+            4001005
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                4,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7087
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_40.pal_tower_40",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 30
+    },
+    {
+        "ID": 5860,
+        "Condition": {
+            "2": 5859
+        },
+        "MapID": 5860,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001108,
+            4002103,
+            4001112,
+            500110902
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7085
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_41.pal_tower_41",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 31
+    },
+    {
+        "ID": 5861,
+        "Condition": {
+            "2": 5860
+        },
+        "MapID": 5861,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001116,
+            4002106,
+            4001112,
+            5001110
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7086
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_42.pal_tower_42",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 32
+    },
+    {
+        "ID": 5862,
+        "Condition": {
+            "2": 5861
+        },
+        "MapID": 5862,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001112,
+            4001114,
+            4001108,
+            5002110
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7085
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_43.pal_tower_43",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 33
+    },
+    {
+        "ID": 5863,
+        "Condition": {
+            "2": 5862
+        },
+        "MapID": 5863,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001108,
+            4001116,
+            4002106,
+            4001104
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7086
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_44.pal_tower_44",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 34
+    },
+    {
+        "ID": 5864,
+        "Condition": {
+            "2": 5863
+        },
+        "MapID": 5864,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001108,
+            4001112,
+            4003106,
+            4001104,
+            5001101,
+            5003110
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                4,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7087
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_45.pal_tower_45",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 35
+    },
+    {
+        "ID": 5865,
+        "Condition": {
+            "2": 5864
+        },
+        "MapID": 5865,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4009013
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7085
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_46.pal_tower_46",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 36
+    },
+    {
+        "ID": 5866,
+        "Condition": {
+            "2": 5865
+        },
+        "MapID": 5866,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4002004,
+            4001005,
+            4003003,
+            5001009,
+            5001010
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7086
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_47.pal_tower_47",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 37
+    },
+    {
+        "ID": 5867,
+        "Condition": {
+            "2": 5866
+        },
+        "MapID": 5867,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            400100802,
+            4003007,
+            4001005,
+            4002004,
+            5002010,
+            5001018
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7085
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_48.pal_tower_48",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 38
+    },
+    {
+        "ID": 5868,
+        "Condition": {
+            "2": 5867
+        },
+        "MapID": 5868,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            400100802,
+            4003003,
+            400160601,
+            4007013,
+            4001017,
+            5001009
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7086
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_49.pal_tower_49",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 39
+    },
+    {
+        "ID": 5869,
+        "Condition": {
+            "2": 5868
+        },
+        "MapID": 5869,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4002004,
+            4001017,
+            400101601,
+            5001018,
+            500101002,
+            500201003,
+            4003003
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                4,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7087
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_50.pal_tower_50",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 40
+    },
+    {
+        "ID": 5870,
+        "Condition": {
+            "2": 5869
+        },
+        "MapID": 5870,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4003004,
+            4003007,
+            4002016,
+            5001019
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7085
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_51.pal_tower_51",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 41
+    },
+    {
+        "ID": 5871,
+        "Condition": {
+            "2": 5870
+        },
+        "MapID": 5871,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4003004,
+            4002003,
+            4003006,
+            400160202,
+            5001018,
+            5001019
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7086
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_52.pal_tower_52",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 42
+    },
+    {
+        "ID": 5872,
+        "Condition": {
+            "2": 5871
+        },
+        "MapID": 5872,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4001008,
+            400160202,
+            4001005,
+            5001009
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7085
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_53.pal_tower_53",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 43
+    },
+    {
+        "ID": 5873,
+        "Condition": {
+            "2": 5872
+        },
+        "MapID": 5873,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 75
+        },
+        "Monster": [
+            34003007,
+            400100403,
+            34003006,
+            34001015,
+            4001016,
+            35001001
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7086
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_54.pal_tower_54",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 44
+    },
+    {
+        "ID": 5874,
+        "Condition": {
+            "2": 5873
+        },
+        "MapID": 5874,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4003003,
+            4002013,
+            5001018,
+            4001017
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                4,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7087
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_55.pal_tower_55",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 45
+    },
+    {
+        "ID": 5875,
+        "Condition": {
+            "2": 5874
+        },
+        "MapID": 5875,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            400160601,
+            4003004,
+            5001010,
+            400160202,
+            5001009,
+            5002010
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7085
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_56.pal_tower_56",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 46
+    },
+    {
+        "ID": 5876,
+        "Condition": {
+            "2": 5875
+        },
+        "MapID": 5876,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            400160202,
+            4002002,
+            5001019
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7086
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_57.pal_tower_57",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 47
+    },
+    {
+        "ID": 5877,
+        "Condition": {
+            "2": 5876
+        },
+        "MapID": 5877,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4002004,
+            4001015,
+            4009013,
+            4001017
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7085
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_58.pal_tower_58",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 48
+    },
+    {
+        "ID": 5878,
+        "Condition": {
+            "2": 5877
+        },
+        "MapID": 5878,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            4002004,
+            500101002,
+            400101601,
+            500201003
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7086
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_59.pal_tower_59",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 49
+    },
+    {
+        "ID": 5879,
+        "Condition": {
+            "2": 5878
+        },
+        "MapID": 5879,
+        "FightID": 1,
+        "StarCondition": {
+            "31": 1,
+            "1": 60
+        },
+        "Monster": [
+            400121203,
+            6001201,
+            400121102,
+            5001207,
+            5001206
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                4,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                1000
+            ]
+        ],
+        "FirstDropID": [
+            7087
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "DLC9Task/Pal/Tower/pal_tower_60.pal_tower_60",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": "",
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "ShowLevelOffset": 50
+    },
+    {
+        "ID": 910,
+        "Condition": {
+            "20": 30
+        },
+        "MapID": 910,
+        "FightID": 1,
+        "StarCondition": "",
+        "Monster": [
+            4001006,
+            4001005,
+            4001007,
+            4002006,
+            5001001,
+            4002007,
+            4001004
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                6,
+                1,
+                2,
+                1
+            ]
+        ],
+        "FirstDropID": [
+            7088
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "PalTask/Tower/pal_tower_h01.pal_tower_h01",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": [
+            [
+                4,
+                [
+                    4,
+                    5
+                ],
+                5000093
+            ]
+        ],
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ]
+    },
+    {
+        "ID": 911,
+        "Condition": {
+            "2": 910
+        },
+        "MapID": 911,
+        "FightID": 1,
+        "StarCondition": "",
+        "Monster": [
+            5001402,
+            400130103,
+            400150602,
+            500100902,
+            400350602,
+            5001403
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                10000
+            ]
+        ],
+        "FirstDropID": [
+            7089
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "PalTask/Tower/pal_tower_h02.pal_tower_h02",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": [
+            [
+                1,
+                7,
+                5000088
+            ]
+        ],
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ]
+    },
+    {
+        "ID": 912,
+        "Condition": {
+            "2": 911
+        },
+        "MapID": 912,
+        "FightID": 1,
+        "StarCondition": "",
+        "Monster": [
+            4001102,
+            4001108,
+            4001103,
+            5001113,
+            500110901,
+            500110902,
+            4002102,
+            4001104
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                6,
+                1,
+                2,
+                1
+            ]
+        ],
+        "FirstDropID": [
+            7088
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "PalTask/Tower/pal_tower_h03.pal_tower_h03",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": [
+            [
+                3,
+                [
+                    2,
+                    4
+                ],
+                5000089
+            ]
+        ],
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ]
+    },
+    {
+        "ID": 913,
+        "Condition": {
+            "2": 912
+        },
+        "MapID": 913,
+        "FightID": 1,
+        "StarCondition": "",
+        "Monster": [
+            4001116,
+            5001118,
+            4001102,
+            4001108,
+            4001103,
+            5001101,
+            500110902,
+            500110901
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                9,
+                1,
+                3,
+                1
+            ]
+        ],
+        "FirstDropID": [
+            7090
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "PalTask/Tower/pal_tower_h04.pal_tower_h04",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": [
+            [
+                3,
+                [
+                    1,
+                    3
+                ],
+                5000089
+            ]
+        ],
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ]
+    },
+    {
+        "ID": 914,
+        "Condition": {
+            "2": 913
+        },
+        "MapID": 914,
+        "FightID": 1,
+        "StarCondition": "",
+        "Monster": [
+            6001003,
+            5001019,
+            5001010,
+            5002010,
+            4001017
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                5,
+                1,
+                4,
+                1
+            ]
+        ],
+        "FirstDropID": [
+            7097
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "PalTask/Tower/pal_tower_h05.pal_tower_h05",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": [
+            [
+                5,
+                0,
+                5000090
+            ]
+        ],
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ]
+    },
+    {
+        "ID": 915,
+        "Condition": {
+            "2": 914
+        },
+        "MapID": 915,
+        "FightID": 1,
+        "StarCondition": "",
+        "Monster": [
+            4002007,
+            4002003,
+            4001002,
+            4001005,
+            4001112,
+            4001114,
+            4001103,
+            500110902,
+            500110901,
+            5001113
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                6,
+                1,
+                2,
+                1
+            ]
+        ],
+        "FirstDropID": [
+            7088
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "PalTask/Tower/pal_tower_h06.pal_tower_h06",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": [
+            [
+                4,
+                [
+                    3,
+                    6
+                ],
+                5000093
+            ]
+        ],
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ]
+    },
+    {
+        "ID": 916,
+        "Condition": {
+            "2": 915
+        },
+        "MapID": 916,
+        "FightID": 1,
+        "StarCondition": "",
+        "Monster": [
+            400160202,
+            4001017,
+            4001002,
+            4002004,
+            5001019,
+            5001010,
+            5001001
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                10000
+            ]
+        ],
+        "FirstDropID": [
+            7089
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "PalTask/Tower/pal_tower_h07.pal_tower_h07",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": [
+            [
+                3,
+                [
+                    1,
+                    4
+                ],
+                5000091
+            ]
+        ],
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ]
+    },
+    {
+        "ID": 917,
+        "Condition": {
+            "2": 916
+        },
+        "MapID": 917,
+        "FightID": 1,
+        "StarCondition": "",
+        "Monster": [
+            4002004,
+            4002003,
+            5001018,
+            5001010,
+            5001019,
+            5001009,
+            5001001,
+            400100304,
+            4001002
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                6,
+                1,
+                2,
+                1
+            ]
+        ],
+        "FirstDropID": [
+            7088
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "PalTask/Tower/pal_tower_h08.pal_tower_h08",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": [
+            [
+                2,
+                15,
+                5000088
+            ]
+        ],
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ]
+    },
+    {
+        "ID": 918,
+        "Condition": {
+            "2": 917
+        },
+        "MapID": 918,
+        "FightID": 1,
+        "StarCondition": "",
+        "Monster": [
+            400121102,
+            4001212,
+            4001213,
+            4001215,
+            4001216,
+            5001214,
+            5001209
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                5,
+                9,
+                1,
+                3,
+                1
+            ]
+        ],
+        "FirstDropID": [
+            7090
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "PalTask/Tower/pal_tower_h09.pal_tower_h09",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": [
+            [
+                3,
+                [
+                    2,
+                    3
+                ],
+                5000092
+            ]
+        ],
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ]
+    },
+    {
+        "ID": 919,
+        "Condition": {
+            "2": 918
+        },
+        "MapID": 919,
+        "FightID": 1,
+        "StarCondition": "",
+        "Monster": [
+            6001206,
+            4001404,
+            500100901
+        ],
+        "LevelStrength": 17,
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ]
+        ],
+        "FirstDropID": [
+            7098
+        ],
+        "PictureBoss": "",
+        "PictureLevel": 1801000,
+        "LevelPower": 1,
+        "TaskPath": "PalTask/Tower/pal_tower_h10.pal_tower_h10",
+        "Buff": [
+            5000055
+        ],
+        "BuffForMonTeam": [
+            [
+                5,
+                0,
+                5000090
+            ]
+        ],
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ]
+    }
+]

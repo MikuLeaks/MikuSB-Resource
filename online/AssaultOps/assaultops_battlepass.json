@@ -1,0 +1,86 @@
+[
+    {
+        "Id": 1,
+        "Icon": 1004250,
+        "NameKey": "assaultops.Bp1Name",
+        "DescriptionKey": "assaultops.Bp1Description",
+        "RewardShow": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                4,
+                1,
+                40,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ]
+        ],
+        "ExpStep": 1000,
+        "MaxLevel": 15
+    },
+    {
+        "Id": 2,
+        "Icon": 1004251,
+        "NameKey": "assaultops.Bp2Name",
+        "DescriptionKey": "assaultops.Bp2Description",
+        "RewardShow": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                4,
+                1,
+                40,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ]
+        ],
+        "ExpStep": 1000,
+        "MaxLevel": 15
+    },
+    {
+        "Id": 3,
+        "Icon": "",
+        "NameKey": "",
+        "DescriptionKey": "",
+        "RewardShow": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                4,
+                1,
+                40,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ]
+        ],
+        "ExpStep": 1000,
+        "MaxLevel": 15
+    }
+]

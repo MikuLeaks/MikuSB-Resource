@@ -1,0 +1,225 @@
+{
+  "pages": [
+    {
+      "id": 1,
+      "name": "Page1",
+      "max_action_id": 28,
+      "traces": [
+        {
+          "id": 1,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 17,
+                  "tpl_id": "screen_fade",
+                  "params": {
+                    "fade_type": "1",
+                    "style": "1",
+                    "time": "0"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 18,
+                  "tpl_id": "hide_scene_character",
+                  "params": {
+                    "radius": "100000",
+                    "pos": "-33224,-31899,-84"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 19,
+                  "tpl_id": "play_level_sequence",
+                  "params": {
+                    "autoDestroy": "1",
+                    "wait": "1",
+                    "path": "LevelSequence'/Game/Cinematics/house/beach_open/Sequence/dlc32_beach_open_Master.dlc32_beach_open_Master'",
+                    "pathFix": "LevelSequence'/Game/Cinematics/house/beach_open_a/Sequence/dlc32_beach_open_Master_a.dlc32_beach_open_Master_a'"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 13
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 20,
+                  "tpl_id": "play_bgm",
+                  "params": {
+                    "name": "BGM|Story|DLC32_Dorm"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 21,
+                  "tpl_id": "show_or_hide_house_player",
+                  "params": {
+                    "type": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 22,
+                  "tpl_id": "screen_fade",
+                  "params": {
+                    "fade_type": "2",
+                    "style": "1",
+                    "time": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 23,
+                  "tpl_id": "hide_actor_by_name",
+                  "params": {
+                    "name": "house_beach_solo01"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 24
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 25
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 26
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 27
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 28
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 16
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "max_page_id": 1,
+  "cur_page_id": 1,
+  "max_fsm_id": 9,
+  "fsm_nodes": [
+    {
+      "id": 1,
+      "tpl_id": "begin",
+      "output_pints": [
+        2
+      ]
+    },
+    {
+      "id": 3,
+      "pos_y": 100,
+      "tpl_id": "play",
+      "input_pints": [
+        4
+      ],
+      "output_pints": [
+        5
+      ],
+      "params": {
+        "page": "1"
+      }
+    },
+    {
+      "id": 7,
+      "pos_y": 200,
+      "tpl_id": "end",
+      "input_pints": [
+        8
+      ]
+    }
+  ],
+  "fsm_links": [
+    {
+      "id": 6,
+      "start_id": 2,
+      "end_id": 4
+    },
+    {
+      "id": 9,
+      "start_id": 5,
+      "end_id": 8
+    }
+  ]
+}

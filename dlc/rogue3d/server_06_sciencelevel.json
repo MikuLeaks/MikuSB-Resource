@@ -1,0 +1,3878 @@
+[
+    {
+        "ID": 1011,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011001,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_101_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1012,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011001,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_101_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1013,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011001,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_101_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1014,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011001,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_101_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1015,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011001,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_101_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1021,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011002,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_102_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1022,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011003,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_102_2",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1023,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011002,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_102_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1024,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011003,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_102_2",
+        "DesNum": [
+            9
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1025,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011002,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_102_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1031,
+        "Level": 1,
+        "EffectType": 2,
+        "EffectParameter": [
+            2,
+            10
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_103_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1032,
+        "Level": 2,
+        "EffectType": 2,
+        "EffectParameter": [
+            1,
+            20
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_103_2",
+        "DesNum": [
+            20
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1033,
+        "Level": 3,
+        "EffectType": 2,
+        "EffectParameter": [
+            2,
+            20
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_103_1",
+        "DesNum": [
+            20
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1034,
+        "Level": 4,
+        "EffectType": 2,
+        "EffectParameter": [
+            1,
+            30
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_103_2",
+        "DesNum": [
+            30
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1035,
+        "Level": 5,
+        "EffectType": 2,
+        "EffectParameter": [
+            2,
+            20
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_103_1",
+        "DesNum": [
+            20
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1041,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011004,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_104_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1042,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011005,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_104_2",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1043,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011004,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_104_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1044,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011005,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_104_2",
+        "DesNum": [
+            9
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1045,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011004,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_104_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1051,
+        "Level": 1,
+        "EffectType": 3,
+        "EffectParameter": [
+            2,
+            1
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_105_1",
+        "DesNum": [
+            1
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1052,
+        "Level": 2,
+        "EffectType": 3,
+        "EffectParameter": [
+            1,
+            1
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_105_2",
+        "DesNum": [
+            1
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1053,
+        "Level": 3,
+        "EffectType": 3,
+        "EffectParameter": [
+            2,
+            1
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_105_1",
+        "DesNum": [
+            1
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1054,
+        "Level": 4,
+        "EffectType": 3,
+        "EffectParameter": [
+            1,
+            1
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_105_2",
+        "DesNum": [
+            1
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1055,
+        "Level": 5,
+        "EffectType": 3,
+        "EffectParameter": [
+            3,
+            1
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_105_5",
+        "DesNum": [
+            1
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1061,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011007,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_106_5",
+        "DesNum": [
+            7
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1062,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011006,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_106_2",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1063,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011007,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_106_5",
+        "DesNum": [
+            7
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1064,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011007,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_106_2",
+        "DesNum": [
+            9
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1065,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011006,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_106_5",
+        "DesNum": [
+            14
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1071,
+        "Level": 1,
+        "EffectType": 3,
+        "EffectParameter": [
+            5,
+            1
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_107_1",
+        "DesNum": [
+            1
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1072,
+        "Level": 2,
+        "EffectType": 3,
+        "EffectParameter": [
+            6,
+            1
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_107_2",
+        "DesNum": [
+            1
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1073,
+        "Level": 3,
+        "EffectType": 3,
+        "EffectParameter": [
+            5,
+            1
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_107_1",
+        "DesNum": [
+            1
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1074,
+        "Level": 4,
+        "EffectType": 3,
+        "EffectParameter": [
+            6,
+            1
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_107_2",
+        "DesNum": [
+            1
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1075,
+        "Level": 5,
+        "EffectType": 3,
+        "EffectParameter": [
+            4,
+            1
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_107_5",
+        "DesNum": [
+            1
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1081,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011008,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_108_1",
+        "DesNum": [
+            7
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1082,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011008,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_108_1",
+        "DesNum": [
+            7
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1083,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011008,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_108_1",
+        "DesNum": [
+            7
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1084,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011008,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_108_1",
+        "DesNum": [
+            7
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1085,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011008,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_108_1",
+        "DesNum": [
+            7
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1091,
+        "Level": 1,
+        "EffectType": 4,
+        "EffectParameter": [
+            10
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_109_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1092,
+        "Level": 2,
+        "EffectType": 4,
+        "EffectParameter": [
+            5
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_109_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1093,
+        "Level": 3,
+        "EffectType": 4,
+        "EffectParameter": [
+            5
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_109_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1094,
+        "Level": 4,
+        "EffectType": 4,
+        "EffectParameter": [
+            10
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_109_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1095,
+        "Level": 5,
+        "EffectType": 4,
+        "EffectParameter": [
+            20
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_109_1",
+        "DesNum": [
+            20
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1101,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011009,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_110_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1102,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011009,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_110_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1103,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011009,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_110_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1104,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011009,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_110_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1105,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011009,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_110_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1111,
+        "Level": 1,
+        "EffectType": 5,
+        "EffectParameter": "",
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_111_1",
+        "DesNum": "",
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1112,
+        "Level": 2,
+        "EffectType": 5,
+        "EffectParameter": "",
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_111_2",
+        "DesNum": "",
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1113,
+        "Level": 3,
+        "EffectType": 5,
+        "EffectParameter": "",
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_111_3",
+        "DesNum": "",
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1121,
+        "Level": 1,
+        "EffectType": 6,
+        "EffectParameter": [
+            10
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_112_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1122,
+        "Level": 2,
+        "EffectType": 6,
+        "EffectParameter": [
+            5
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_112_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1123,
+        "Level": 3,
+        "EffectType": 6,
+        "EffectParameter": [
+            10
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_112_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1124,
+        "Level": 4,
+        "EffectType": 6,
+        "EffectParameter": [
+            10
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_112_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1125,
+        "Level": 5,
+        "EffectType": 6,
+        "EffectParameter": [
+            15
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_112_1",
+        "DesNum": [
+            15
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1131,
+        "Level": 1,
+        "EffectType": 7,
+        "EffectParameter": [
+            104
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_113_1",
+        "DesNum": "",
+        "Cost": [
+            25,
+            300
+        ]
+    },
+    {
+        "ID": 1141,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011010,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_114_1",
+        "DesNum": [
+            4
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1142,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011010,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_114_1",
+        "DesNum": [
+            4
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1143,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011010,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_114_1",
+        "DesNum": [
+            4
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1144,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011010,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_114_1",
+        "DesNum": [
+            4
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1145,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011010,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_114_1",
+        "DesNum": [
+            4
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1151,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011011,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_115_1",
+        "DesNum": [
+            2
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1152,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011012,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_115_2",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1153,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011011,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_115_1",
+        "DesNum": [
+            2
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1154,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011012,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_115_2",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1155,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011013,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_115_5",
+        "DesNum": [
+            15
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1161,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011014,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_116_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1162,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011015,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_116_2",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1163,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011014,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_116_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1164,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011015,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_116_2",
+        "DesNum": [
+            9
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1165,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011014,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_116_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1171,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011016,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_117_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1172,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011017,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_117_2",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1173,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011016,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_117_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1174,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011017,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_117_2",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1175,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011018,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_117_5",
+        "DesNum": [
+            15
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1181,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011019,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_118_1",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1182,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011019,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_118_1",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1183,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011019,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_118_1",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1184,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011019,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_118_1",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1185,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011019,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_118_1",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1191,
+        "Level": 1,
+        "EffectType": 8,
+        "EffectParameter": [
+            4
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_119_1",
+        "DesNum": [
+            4
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1192,
+        "Level": 2,
+        "EffectType": 8,
+        "EffectParameter": [
+            3
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_119_1",
+        "DesNum": [
+            3
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1193,
+        "Level": 3,
+        "EffectType": 8,
+        "EffectParameter": [
+            3
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_119_1",
+        "DesNum": [
+            3
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1194,
+        "Level": 4,
+        "EffectType": 8,
+        "EffectParameter": [
+            4
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_119_1",
+        "DesNum": [
+            4
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1195,
+        "Level": 5,
+        "EffectType": 8,
+        "EffectParameter": [
+            6
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_119_1",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1201,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011020,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_120_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1202,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011020,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_120_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1203,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011020,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_120_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1204,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011020,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_120_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1205,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011020,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_120_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1211,
+        "Level": 1,
+        "EffectType": 10,
+        "EffectParameter": [
+            1
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_121_1",
+        "DesNum": [
+            1
+        ],
+        "Cost": [
+            25,
+            100
+        ]
+    },
+    {
+        "ID": 1212,
+        "Level": 2,
+        "EffectType": 9,
+        "EffectParameter": [
+            1
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_121_2",
+        "DesNum": [
+            1
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1213,
+        "Level": 3,
+        "EffectType": 10,
+        "EffectParameter": [
+            1
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_121_3",
+        "DesNum": [
+            1
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1214,
+        "Level": 4,
+        "EffectType": 11,
+        "EffectParameter": "",
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_121_4",
+        "DesNum": "",
+        "Cost": [
+            25,
+            150
+        ]
+    },
+    {
+        "ID": 1221,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011021,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_122_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1222,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011022,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_122_2",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1223,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011021,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_122_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1224,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011022,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_122_2",
+        "DesNum": [
+            9
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1225,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011021,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_122_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1231,
+        "Level": 1,
+        "EffectType": 7,
+        "EffectParameter": [
+            105
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_123_1",
+        "DesNum": "",
+        "Cost": [
+            25,
+            300
+        ]
+    },
+    {
+        "ID": 1241,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011023,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_124_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1242,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011024,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_124_2",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1243,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011023,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_124_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1244,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011024,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_124_2",
+        "DesNum": [
+            9
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1245,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011023,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_124_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1251,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011025,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_125_1",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1252,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011026,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_125_2",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1253,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011025,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_125_1",
+        "DesNum": [
+            3
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1254,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011026,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_125_2",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1255,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011027,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_125_5",
+        "DesNum": [
+            15
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1261,
+        "Level": 1,
+        "EffectType": 12,
+        "EffectParameter": [
+            5
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_126_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1262,
+        "Level": 2,
+        "EffectType": 12,
+        "EffectParameter": [
+            4
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_126_1",
+        "DesNum": [
+            4
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1263,
+        "Level": 3,
+        "EffectType": 12,
+        "EffectParameter": [
+            4
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_126_1",
+        "DesNum": [
+            4
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1264,
+        "Level": 4,
+        "EffectType": 12,
+        "EffectParameter": [
+            6
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_126_1",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1265,
+        "Level": 5,
+        "EffectType": 12,
+        "EffectParameter": [
+            6
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_126_1",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1271,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011029,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_127_5",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1272,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011028,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_127_2",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1273,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011029,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_127_5",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1274,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011028,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_127_2",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1275,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011029,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_127_5",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1281,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011030,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_128_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1282,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011030,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_128_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1283,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011030,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_128_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1284,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011030,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_128_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1285,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011030,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_128_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1291,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011031,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_129_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1292,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011031,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_129_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1293,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011031,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_129_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1294,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011031,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_129_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1295,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011031,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_129_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1301,
+        "Level": 1,
+        "EffectType": 3,
+        "EffectParameter": [
+            0,
+            50
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_130_1",
+        "DesNum": [
+            50
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1302,
+        "Level": 2,
+        "EffectType": 3,
+        "EffectParameter": [
+            0,
+            20
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_130_1",
+        "DesNum": [
+            20
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1303,
+        "Level": 3,
+        "EffectType": 3,
+        "EffectParameter": [
+            0,
+            30
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_130_1",
+        "DesNum": [
+            30
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1304,
+        "Level": 4,
+        "EffectType": 3,
+        "EffectParameter": [
+            0,
+            50
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_130_1",
+        "DesNum": [
+            50
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1305,
+        "Level": 5,
+        "EffectType": 3,
+        "EffectParameter": [
+            0,
+            100
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_130_1",
+        "DesNum": [
+            100
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1311,
+        "Level": 1,
+        "EffectType": 13,
+        "EffectParameter": [
+            1
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_131_1",
+        "DesNum": [
+            1
+        ],
+        "Cost": [
+            25,
+            300
+        ]
+    },
+    {
+        "ID": 1321,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011032,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_132_1",
+        "DesNum": [
+            8
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1322,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011032,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_132_1",
+        "DesNum": [
+            8
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1323,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011032,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_132_1",
+        "DesNum": [
+            8
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1324,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011032,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_132_1",
+        "DesNum": [
+            8
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1325,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011032,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_132_1",
+        "DesNum": [
+            8
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1331,
+        "Level": 1,
+        "EffectType": 7,
+        "EffectParameter": [
+            106
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_133_1",
+        "DesNum": "",
+        "Cost": [
+            25,
+            300
+        ]
+    },
+    {
+        "ID": 1341,
+        "Level": 1,
+        "EffectType": 14,
+        "EffectParameter": [
+            6
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_134_1",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1342,
+        "Level": 2,
+        "EffectType": 14,
+        "EffectParameter": [
+            4
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_134_1",
+        "DesNum": [
+            4
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1343,
+        "Level": 3,
+        "EffectType": 14,
+        "EffectParameter": [
+            5
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_134_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1344,
+        "Level": 4,
+        "EffectType": 14,
+        "EffectParameter": [
+            6
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_134_1",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1345,
+        "Level": 5,
+        "EffectType": 14,
+        "EffectParameter": [
+            9
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_134_1",
+        "DesNum": [
+            9
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1351,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011033,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_135_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1352,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011033,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_135_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1353,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011033,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_135_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1354,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011033,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_135_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1355,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011033,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_135_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1361,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011034,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_136_1",
+        "DesNum": [
+            3
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1362,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011035,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_136_2",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1363,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011034,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_136_1",
+        "DesNum": [
+            2
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1364,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011035,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_136_2",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1365,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011036,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_136_5",
+        "DesNum": [
+            15
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1371,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011037,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_137_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1372,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011037,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_137_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1373,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011037,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_137_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1374,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011037,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_137_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1375,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011037,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_137_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1381,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011038,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_138_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1382,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011038,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_138_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1383,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011038,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_138_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1384,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011038,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_138_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1385,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011038,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_138_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1391,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011039,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_139_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1392,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011039,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_139_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1393,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011039,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_139_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1394,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011039,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_139_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1395,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011039,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_139_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1401,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011040,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_140_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1402,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011040,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_140_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1403,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011040,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_140_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1404,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011040,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_140_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1405,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011040,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_140_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1411,
+        "Level": 1,
+        "EffectType": 15,
+        "EffectParameter": [
+            6
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_141_1",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1412,
+        "Level": 2,
+        "EffectType": 15,
+        "EffectParameter": [
+            4
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_141_1",
+        "DesNum": [
+            4
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1413,
+        "Level": 3,
+        "EffectType": 15,
+        "EffectParameter": [
+            5
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_141_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1414,
+        "Level": 4,
+        "EffectType": 15,
+        "EffectParameter": [
+            6
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_141_1",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1415,
+        "Level": 5,
+        "EffectType": 15,
+        "EffectParameter": [
+            9
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_141_1",
+        "DesNum": [
+            9
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1421,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011044,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_143_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1422,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011044,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_143_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1423,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011044,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_143_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1424,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011044,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_143_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1425,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011044,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_143_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1431,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011041,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_142_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1432,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011042,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_142_2",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1433,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011041,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_142_1",
+        "DesNum": [
+            20
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1434,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011042,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_142_2",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1435,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011043,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_142_5",
+        "DesNum": [
+            25
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1441,
+        "Level": 1,
+        "EffectType": 16,
+        "EffectParameter": [
+            2
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_144_1",
+        "DesNum": [
+            2
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1442,
+        "Level": 2,
+        "EffectType": 17,
+        "EffectParameter": "",
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_144_2",
+        "DesNum": "",
+        "Cost": [
+            25,
+            100
+        ]
+    },
+    {
+        "ID": 1443,
+        "Level": 3,
+        "EffectType": 16,
+        "EffectParameter": [
+            3
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_144_1",
+        "DesNum": [
+            3
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1444,
+        "Level": 4,
+        "EffectType": 17,
+        "EffectParameter": "",
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_144_4",
+        "DesNum": "",
+        "Cost": [
+            25,
+            150
+        ]
+    },
+    {
+        "ID": 1451,
+        "Level": 1,
+        "EffectType": 19,
+        "EffectParameter": [
+            5
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_145_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1452,
+        "Level": 2,
+        "EffectType": 18,
+        "EffectParameter": [
+            1
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_145_2",
+        "DesNum": "",
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1453,
+        "Level": 3,
+        "EffectType": 19,
+        "EffectParameter": [
+            5
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_145_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1454,
+        "Level": 4,
+        "EffectType": 18,
+        "EffectParameter": [
+            1
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_145_4",
+        "DesNum": "",
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1455,
+        "Level": 5,
+        "EffectType": 19,
+        "EffectParameter": [
+            10
+        ],
+        "Skill": "",
+        "LevelDes": "rogue3.science_des_145_1",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1461,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011079,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_146_1",
+        "DesNum": [
+            1
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1462,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011080,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_146_2",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1463,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011079,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_146_1",
+        "DesNum": [
+            2
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1464,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011080,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_146_2",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1465,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011081,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_146_5",
+        "DesNum": [
+            25
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1471,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011087,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_147_1",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1472,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011088,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_147_2",
+        "DesNum": [
+            5
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1473,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011087,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_147_3",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1474,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011088,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_147_4",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1475,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011087,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_147_5",
+        "DesNum": [
+            10
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    },
+    {
+        "ID": 1491,
+        "Level": 1,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011084,
+            1
+        ],
+        "LevelDes": "rogue3.science_des_149_1",
+        "DesNum": [
+            75
+        ],
+        "Cost": [
+            25,
+            80
+        ]
+    },
+    {
+        "ID": 1492,
+        "Level": 2,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011085,
+            2
+        ],
+        "LevelDes": "rogue3.science_des_149_2",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            60
+        ]
+    },
+    {
+        "ID": 1493,
+        "Level": 3,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011084,
+            3
+        ],
+        "LevelDes": "rogue3.science_des_149_1",
+        "DesNum": [
+            150
+        ],
+        "Cost": [
+            25,
+            70
+        ]
+    },
+    {
+        "ID": 1494,
+        "Level": 4,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011085,
+            4
+        ],
+        "LevelDes": "rogue3.science_des_149_2",
+        "DesNum": [
+            6
+        ],
+        "Cost": [
+            25,
+            90
+        ]
+    },
+    {
+        "ID": 1495,
+        "Level": 5,
+        "EffectType": 1,
+        "EffectParameter": "",
+        "Skill": [
+            7011086,
+            5
+        ],
+        "LevelDes": "rogue3.science_des_149_5",
+        "DesNum": [
+            25
+        ],
+        "Cost": [
+            25,
+            120
+        ]
+    }
+]

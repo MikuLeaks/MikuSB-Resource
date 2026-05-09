@@ -1,0 +1,76 @@
+[
+    {
+        "ID": 1,
+        "Icon": 1545701,
+        "Name": "house.Coinpusher_RewardPropName1",
+        "Desc": "house.Coinpusher_RewardPropDesc1",
+        "Effect": [
+            27,
+            1
+        ],
+        "RepeatChange": 15,
+        "Tag": 10
+    },
+    {
+        "ID": 2,
+        "Icon": 1545702,
+        "Name": "house.Coinpusher_RewardPropName2",
+        "Desc": "house.Coinpusher_RewardPropDesc2",
+        "Effect": [
+            28,
+            1
+        ],
+        "RepeatChange": 15,
+        "Tag": 10
+    },
+    {
+        "ID": 3,
+        "Icon": 1545703,
+        "Name": "house.Coinpusher_RewardPropName3",
+        "Desc": "house.Coinpusher_RewardPropDesc3",
+        "Effect": [
+            29,
+            1,
+            0.1,
+            15
+        ],
+        "RepeatChange": 15,
+        "Tag": 10
+    },
+    {
+        "ID": 4,
+        "Icon": 1545704,
+        "Name": "house.Coinpusher_RewardPropName4",
+        "Desc": "house.Coinpusher_RewardPropDesc4",
+        "Effect": [
+            30,
+            5
+        ],
+        "RepeatChange": 15,
+        "Tag": 10
+    },
+    {
+        "ID": 5,
+        "Icon": 1545705,
+        "Name": "house.Coinpusher_RewardPropName5",
+        "Desc": "house.Coinpusher_RewardPropDesc5",
+        "Effect": [
+            31,
+            1
+        ],
+        "RepeatChange": 15,
+        "Tag": 10
+    },
+    {
+        "ID": 6,
+        "Icon": 1545706,
+        "Name": "house.Coinpusher_RewardPropName6",
+        "Desc": "house.Coinpusher_RewardPropDesc6",
+        "Effect": [
+            32,
+            20
+        ],
+        "RepeatChange": 15,
+        "Tag": 10
+    }
+]

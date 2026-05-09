@@ -1,0 +1,220 @@
+[
+    {
+        "Id": 1,
+        "Explain": "宿舍站",
+        "Type": "sequence",
+        "Name": "girl021_01_house_stand01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_stand01.girl021_01_house_stand01'"
+    },
+    {
+        "Id": 2,
+        "Explain": "讲述",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_talk",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_dialogue_talk.girl021_01_house_dialogue_talk'"
+    },
+    {
+        "Id": 3,
+        "Explain": "打招呼",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_greet",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_dialogue_greet.girl021_01_house_dialogue_greet'"
+    },
+    {
+        "Id": 4,
+        "Explain": "惊讶",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_amaze",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_dialogue_amaze.girl021_01_house_dialogue_amaze'"
+    },
+    {
+        "Id": 5,
+        "Explain": "满足",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_satisfy01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_dialogue_satisfy01.girl021_01_house_dialogue_satisfy01'"
+    },
+    {
+        "Id": 6,
+        "Explain": "抚发",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_fufa",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_dialogue_fufa.girl021_01_house_dialogue_fufa'"
+    },
+    {
+        "Id": 7,
+        "Explain": "愤怒",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_depressed01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_dialogue_depressed01.girl021_01_house_dialogue_depressed01'"
+    },
+    {
+        "Id": 8,
+        "Explain": "肯定",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_sure",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_dialogue_sure.girl021_01_house_dialogue_sure'"
+    },
+    {
+        "Id": 9,
+        "Explain": "否定",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_deny",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_dialogue_deny.girl021_01_house_dialogue_deny'"
+    },
+    {
+        "Id": 10,
+        "Explain": "讲述",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_talk",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_dialogue_talk.girl021_01_house_dialogue_talk'"
+    },
+    {
+        "Id": 11,
+        "Explain": "抱胸-前",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_armshug_start",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_dialogue_armshug_start.girl021_01_house_dialogue_armshug_start'"
+    },
+    {
+        "Id": 12,
+        "Explain": "抱胸-循环",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_armshug_loop",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_dialogue_armshug_loop.girl021_01_house_dialogue_armshug_loop'"
+    },
+    {
+        "Id": 13,
+        "Explain": "抱胸-后",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_armshug_end",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_dialogue_armshug_end.girl021_01_house_dialogue_armshug_end'"
+    },
+    {
+        "Id": 14,
+        "Explain": "思考-前",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_think_start",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_dialogue_think_start.girl021_01_house_dialogue_think_start'"
+    },
+    {
+        "Id": 15,
+        "Explain": "思考-循环",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_think_loop",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_dialogue_think_loop.girl021_01_house_dialogue_think_loop'"
+    },
+    {
+        "Id": 16,
+        "Explain": "思考-后",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_think_end",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_dialogue_think_end.girl021_01_house_dialogue_think_end'"
+    },
+    {
+        "Id": 17,
+        "Explain": "站立2-前",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_stand02_start",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_dialogue_stand02_start.girl021_01_house_dialogue_stand02_start'"
+    },
+    {
+        "Id": 18,
+        "Explain": "站立2-循环",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_stand02_loop",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_dialogue_stand02_loop.girl021_01_house_dialogue_stand02_loop'"
+    },
+    {
+        "Id": 19,
+        "Explain": "站立2-后",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_stand02_end",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_dialogue_stand02_end.girl021_01_house_dialogue_stand02_end'"
+    },
+    {
+        "Id": 20,
+        "Explain": "重重点头",
+        "Type": "sequence",
+        "Name": "girl021_01_house_healthcare_stand01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_healthcare_stand01.girl021_01_house_healthcare_stand01'"
+    },
+    {
+        "Id": 21,
+        "Explain": "床上坐",
+        "Type": "sequence",
+        "Name": "girl021_01_house_bed_sit01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_bed_sit01.girl021_01_house_bed_sit01'"
+    },
+    {
+        "Id": 22,
+        "Explain": "床上躺",
+        "Type": "sequence",
+        "Name": "girl021_01_house_bed_sleep01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_bed_sleep01.girl021_01_house_bed_sleep01'"
+    },
+    {
+        "Id": 23,
+        "Explain": "吧台坐",
+        "Type": "sequence",
+        "Name": "girl021_01_house_stool_sit01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_stool_sit01.girl021_01_house_stool_sit01'"
+    },
+    {
+        "Id": 97,
+        "Explain": "左转",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_turn_L",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_dialogue_turn_L.girl021_01_house_dialogue_turn_L'"
+    },
+    {
+        "Id": 98,
+        "Explain": "右转",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_turn_R",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/girl021_01_house_dialogue_turn_R.girl021_01_house_dialogue_turn_R'"
+    },
+    {
+        "Id": 99,
+        "Explain": "呼吸叠加素材",
+        "Type": "sequence",
+        "Name": "girl021_01_house_dialogue_Tpose",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl021_01/Anim/house/photo/girl021_01_house_dialogue_Tpose.girl021_01_house_dialogue_Tpose'"
+    },
+    {
+        "Id": 100,
+        "Explain": "一次抱胸",
+        "Type": "custom_seq",
+        "Name": "11;12;13"
+    },
+    {
+        "Id": 101,
+        "Explain": "抱胸循环",
+        "Type": "custom_loop_last",
+        "Name": "11;12"
+    },
+    {
+        "Id": 102,
+        "Explain": "一次思考",
+        "Type": "custom_seq",
+        "Name": "14;15;16"
+    },
+    {
+        "Id": 103,
+        "Explain": "思考循环",
+        "Type": "custom_loop_last",
+        "Name": "14;15"
+    },
+    {
+        "Id": 104,
+        "Explain": "一次站立2",
+        "Type": "custom_seq",
+        "Name": "17;18;19"
+    },
+    {
+        "Id": 105,
+        "Explain": "站立2循环",
+        "Type": "custom_loop_last",
+        "Name": "17;18"
+    }
+]

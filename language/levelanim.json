@@ -1,0 +1,782 @@
+[
+    {
+        "Key": "level00ep01_boss_name",
+        "zh_CN": "海拉",
+        "disable": 0
+    },
+    {
+        "Key": "level00ep01_boss_desc",
+        "zh_CN": "自始祖泰坦头部降生",
+        "disable": 0
+    },
+    {
+        "Key": "level00ep01_scence_name",
+        "zh_CN": "逃生舱降落地",
+        "disable": 0
+    },
+    {
+        "Key": "level00ep01_scence_desc",
+        "zh_CN": "深水区城区",
+        "disable": 0
+    },
+    {
+        "Key": "level0108ep01_boss_name",
+        "zh_CN": "二型验证机甲",
+        "disable": 0
+    },
+    {
+        "Key": "level0108ep01_boss_desc",
+        "zh_CN": "被盗的世界树重机甲",
+        "disable": 0
+    },
+    {
+        "Key": "level0108ep01_scence_name",
+        "zh_CN": "广场",
+        "disable": 0
+    },
+    {
+        "Key": "level0108ep01_scence_desc",
+        "zh_CN": "缓冲区北部外围",
+        "disable": 0
+    },
+    {
+        "Key": "level0212ep01_boss_name",
+        "zh_CN": "波伏娃13",
+        "disable": 0
+    },
+    {
+        "Key": "level0212ep01_boss_desc",
+        "zh_CN": "人工智能傀儡系统",
+        "disable": 0
+    },
+    {
+        "Key": "level0212ep01_scence_name",
+        "zh_CN": "布里希嘉曼",
+        "disable": 0
+    },
+    {
+        "Key": "level0212ep01_scence_desc",
+        "zh_CN": "散布污染的神秘装置",
+        "disable": 0
+    },
+    {
+        "Key": "level0312ep01_boss_name",
+        "zh_CN": "“野牛”约瑟夫",
+        "disable": 0
+    },
+    {
+        "Key": "level0312ep01_boss_desc",
+        "zh_CN": "郊狼机甲部队教官",
+        "disable": 0
+    },
+    {
+        "Key": "level0312ep01_scence_name",
+        "zh_CN": "“狼王”领地",
+        "disable": 0
+    },
+    {
+        "Key": "level0312ep01_scence_desc",
+        "zh_CN": "缓冲区第三隔离墙",
+        "disable": 0
+    },
+    {
+        "Key": "level0412ep01_boss_name",
+        "zh_CN": "尤弥尔",
+        "disable": 0
+    },
+    {
+        "Key": "level0412ep01_boss_desc",
+        "zh_CN": "始祖泰坦",
+        "disable": 0
+    },
+    {
+        "Key": "level0412ep01_scence_name",
+        "zh_CN": "高楼顶部",
+        "disable": 0
+    },
+    {
+        "Key": "level0412ep01_scence_desc",
+        "zh_CN": "污染区第三隔离墙附近",
+        "disable": 0
+    },
+    {
+        "Key": "level0512ep01_boss_name",
+        "zh_CN": "加文",
+        "disable": 0
+    },
+    {
+        "Key": "level0512ep01_boss_desc",
+        "zh_CN": "降临团净化官",
+        "disable": 0
+    },
+    {
+        "Key": "level0512ep01_scence_name",
+        "zh_CN": "地下讲坛",
+        "disable": 0
+    },
+    {
+        "Key": "level0512ep01_scence_desc",
+        "zh_CN": "缓冲区降临团领地",
+        "disable": 0
+    },
+    {
+        "Key": "level0612ep01_boss_name",
+        "zh_CN": "海拉",
+        "disable": 0
+    },
+    {
+        "Key": "level0612ep01_boss_desc",
+        "zh_CN": "自始祖泰坦头部降生",
+        "disable": 0
+    },
+    {
+        "Key": "level0612ep01_scence_name",
+        "zh_CN": "高架桥下",
+        "disable": 0
+    },
+    {
+        "Key": "level0612ep01_scence_desc",
+        "zh_CN": "污染区城区",
+        "disable": 0
+    },
+    {
+        "Key": "level0712ep01_boss_name",
+        "zh_CN": "萨特",
+        "disable": 0
+    },
+    {
+        "Key": "level0712ep01_boss_desc",
+        "zh_CN": "降临团主事",
+        "disable": 0
+    },
+    {
+        "Key": "level0712ep01_scence_name",
+        "zh_CN": "英灵之路",
+        "disable": 0
+    },
+    {
+        "Key": "level0712ep01_scence_desc",
+        "zh_CN": "天楼降临团仪式场所",
+        "disable": 0
+    },
+    {
+        "Key": "level0812ep01_boss_name",
+        "zh_CN": "刻耳柏洛斯",
+        "disable": 0
+    },
+    {
+        "Key": "level0812ep01_boss_desc",
+        "zh_CN": "逐光者首领无人机",
+        "disable": 0
+    },
+    {
+        "Key": "level0812ep01_scence_name",
+        "zh_CN": "楼间平台",
+        "disable": 0
+    },
+    {
+        "Key": "level0812ep01_scence_desc",
+        "zh_CN": "缓冲区天楼高区",
+        "disable": 0
+    },
+    {
+        "Key": "level0912ep01_boss_name",
+        "zh_CN": "“秃鹫”爱思特",
+        "disable": 0
+    },
+    {
+        "Key": "level0912ep01_boss_desc",
+        "zh_CN": "郊狼激进派代表",
+        "disable": 0
+    },
+    {
+        "Key": "level0912ep01_scence_name",
+        "zh_CN": "庚号大门前",
+        "disable": 0
+    },
+    {
+        "Key": "level0912ep01_scence_desc",
+        "zh_CN": "缓冲区外围隔离墙",
+        "disable": 0
+    },
+    {
+        "Key": "level1012ep01_boss_name",
+        "zh_CN": "尤弥尔",
+        "disable": 0
+    },
+    {
+        "Key": "level1012ep01_boss_desc",
+        "zh_CN": "始祖泰坦",
+        "disable": 0
+    },
+    {
+        "Key": "level1012ep01_scence_name",
+        "zh_CN": "高楼顶部",
+        "disable": 0
+    },
+    {
+        "Key": "level1012ep01_scence_desc",
+        "zh_CN": "深水区泰坦城",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc1ep01_boss_name",
+        "zh_CN": "未知泰坦",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc1ep01_boss_desc",
+        "zh_CN": "降临于明灯节的灾祸",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc1ep01_scence_name",
+        "zh_CN": "燃灯台",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc1ep01_scence_desc",
+        "zh_CN": "泰古通达零区分部",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc2ep01_boss_name",
+        "zh_CN": "威尔·安德森",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc2ep01_boss_desc",
+        "zh_CN": "跳棋小队队长",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc2ep01_scence_name",
+        "zh_CN": "核心实验室",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc2ep01_scence_desc",
+        "zh_CN": "深水区第五研究所",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc3ep01_boss_name",
+        "zh_CN": "透墨索斯",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc3ep01_boss_desc",
+        "zh_CN": "派对型机器人",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc3ep01_scence_name",
+        "zh_CN": "遗迹区",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc3ep01_scence_desc",
+        "zh_CN": "雅卢岛",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc4ep01_boss_name",
+        "zh_CN": "约瑟夫·顽骨",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc4ep01_boss_desc",
+        "zh_CN": "炽灼燃烧的郊狼教官",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc4ep01_scence_name",
+        "zh_CN": "奥斯维尔钢铁厂",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc4ep01_scence_desc",
+        "zh_CN": "罹难者峡谷",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc5ep01_boss_name",
+        "zh_CN": "尼亚尔",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc5ep01_boss_desc",
+        "zh_CN": "赫瓦雷纳的刽子手",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc5ep01_scence_name",
+        "zh_CN": "纪念碑前",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc5ep01_scence_desc",
+        "zh_CN": "巴伦支仪器地堡",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc5ep02_boss_name",
+        "zh_CN": "凯茜娅·克莱因",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc5ep02_boss_desc",
+        "zh_CN": "再度出现的佣兵",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc5ep02_scence_name",
+        "zh_CN": "舞会大厅",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc5ep02_scence_desc",
+        "zh_CN": "奥尔洛夫公馆",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc6ep01_boss_name",
+        "zh_CN": "耶洛沙之泪",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc6ep01_boss_desc",
+        "zh_CN": "悬于雪原的泰坦",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc6ep01_scence_name",
+        "zh_CN": "发射塔内",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc6ep01_scence_desc",
+        "zh_CN": "苏兹达尔火箭基地",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc7ep01_boss_name",
+        "zh_CN": "二律背反的盟约",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc7ep01_boss_desc",
+        "zh_CN": "纯白哀歌",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc7ep01_scence_name",
+        "zh_CN": "永恒乐土",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc7ep01_scence_desc",
+        "zh_CN": "零区地下",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc8ep01_boss_name",
+        "zh_CN": "派·纯净",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc8ep01_boss_desc",
+        "zh_CN": "盗星者",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc8ep01_scence_name",
+        "zh_CN": "崩塌世界",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc8ep01_scence_desc",
+        "zh_CN": "汉诺塔内",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc9ep01_boss_name",
+        "zh_CN": "初诞的沃坦",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc9ep01_boss_desc",
+        "zh_CN": "神之暗面",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc9ep01_scence_name",
+        "zh_CN": "城心",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc9ep01_scence_desc",
+        "zh_CN": "新恒提罗",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc10ep01_boss_name",
+        "zh_CN": "极夜幽影",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc10ep01_boss_desc",
+        "zh_CN": "沉醉的伪神",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc10ep01_scence_name",
+        "zh_CN": "观景大厅",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc10ep01_scence_desc",
+        "zh_CN": "沉没的离岛",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc11ep01_boss_name",
+        "zh_CN": "尘白恶魔号",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc11ep01_boss_desc",
+        "zh_CN": "立于乐园之上",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc11ep01_scence_name",
+        "zh_CN": "坎达舞台",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc11ep01_scence_desc",
+        "zh_CN": "奥丽拉水上乐园",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc12ep01_boss_name",
+        "zh_CN": "玉节天龙",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc12ep01_boss_desc",
+        "zh_CN": "逃脱的造物",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc12ep01_scence_name",
+        "zh_CN": "禺谷",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc12ep01_scence_desc",
+        "zh_CN": "北庭卫",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc13ep01_boss_name",
+        "zh_CN": "食夜影兽",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc13ep01_boss_desc",
+        "zh_CN": "具象的恐惧",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc13ep01_scence_name",
+        "zh_CN": "地下洞窟",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc13ep01_scence_desc",
+        "zh_CN": "北庭卫",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc14ep01_boss_name",
+        "zh_CN": "舍塔无正觉",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc14ep01_boss_desc",
+        "zh_CN": "悲忿双形",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc14ep01_scence_name",
+        "zh_CN": "两仪密室",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc14ep01_scence_desc",
+        "zh_CN": "北庭卫",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc15ep01_boss_name",
+        "zh_CN": "墨菲斯·徒花",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc15ep01_boss_desc",
+        "zh_CN": "盛放凋零",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc15ep01_scence_name",
+        "zh_CN": "花海",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc15ep01_scence_desc",
+        "zh_CN": "16区",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc16ep01_boss_name",
+        "zh_CN": "海底观测者",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc16ep01_boss_desc",
+        "zh_CN": "迷途的技术奇点",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc16ep01_scence_name",
+        "zh_CN": "海底试验场",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc16ep01_scence_desc",
+        "zh_CN": "卡戎海上平台",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc17ep01_boss_name",
+        "zh_CN": "噬孽机·卡律布狄斯",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc17ep01_boss_desc",
+        "zh_CN": "万物尽噬",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc17ep01_scence_name",
+        "zh_CN": "跨海大桥",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc17ep01_scence_desc",
+        "zh_CN": "前端小镇",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc18ep01_boss_name",
+        "zh_CN": "文明守护者",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc18ep01_boss_desc",
+        "zh_CN": "最终防线",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc18ep01_scence_name",
+        "zh_CN": "地下书库",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc18ep01_scence_desc",
+        "zh_CN": "卫城学院",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc19ep01_boss_name",
+        "zh_CN": "米拉·猩红武装",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc19ep01_boss_desc",
+        "zh_CN": "血缘的棘轮",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc19ep01_scence_name",
+        "zh_CN": "血月庭院",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc19ep01_scence_desc",
+        "zh_CN": "吉诺拉庄园",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc20ep01_boss_name",
+        "zh_CN": "SpH-L12",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc20ep01_boss_desc",
+        "zh_CN": "万念畸变之种",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc20ep01_scence_name",
+        "zh_CN": "怪诞大厅",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc20ep01_scence_desc",
+        "zh_CN": "熙澜海综合体",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc00ep01_boss_name",
+        "zh_CN": "尤弥尔",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc00ep01_boss_desc",
+        "zh_CN": "始祖泰坦",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc00ep01_scence_name",
+        "zh_CN": "模拟战场",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc00ep01_scence_desc",
+        "zh_CN": "模拟空间",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc00ep02_boss_name",
+        "zh_CN": "埃吉尔",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc00ep02_boss_desc",
+        "zh_CN": "洋流与风暴之泰坦",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc00ep02_scence_name",
+        "zh_CN": "北庭卫",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc00ep02_scence_desc",
+        "zh_CN": "朔州地区",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc21ep01_boss_name",
+        "zh_CN": "起源物种",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc21ep01_boss_desc",
+        "zh_CN": "前途未卜之惧",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc21ep01_scence_name",
+        "zh_CN": "歧路宇宙",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc21ep01_scence_desc",
+        "zh_CN": "新恒提罗",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc21ep02_boss_name",
+        "zh_CN": "起源物种·进化之终",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc21ep02_boss_desc",
+        "zh_CN": "穷途末路之怖",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc21ep02_scence_name",
+        "zh_CN": "歧路宇宙",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc21ep02_scence_desc",
+        "zh_CN": "新恒提罗",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc22ep01_boss_name",
+        "zh_CN": "西西弗斯",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc22ep01_boss_desc",
+        "zh_CN": "众神之末",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc22ep01_scence_name",
+        "zh_CN": "燃烧之海",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc22ep01_scence_desc",
+        "zh_CN": "耶洛沙",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc23ep01_boss_name",
+        "zh_CN": "阿帕忒",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc23ep01_boss_desc",
+        "zh_CN": "欺世的佞舌",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc23ep01_scence_name",
+        "zh_CN": "虚妄之庭",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc23ep01_scence_desc",
+        "zh_CN": "罗森兰",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc24ep01_boss_name",
+        "zh_CN": "神座·狐相",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc24ep01_boss_desc",
+        "zh_CN": "万物枢纽",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc24ep01_scence_name",
+        "zh_CN": "极深天穹",
+        "disable": 0
+    },
+    {
+        "Key": "leveldlc24ep01_scence_desc",
+        "zh_CN": "罗森兰",
+        "disable": 0
+    }
+]

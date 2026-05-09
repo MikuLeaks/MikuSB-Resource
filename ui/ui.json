@@ -1,0 +1,1016 @@
+[
+    {
+        "Name": "OpenHouseThrow",
+        "UIWidgetClass": "/Game/UI/UMG/Throw/umg_throw_main.umg_throw_main_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseThrowAnim",
+        "UIWidgetClass": "/Game/UI/UMG/Throw/umg_throw_anim.umg_throw_anim_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseThrowAnim1",
+        "UIWidgetClass": "/Game/UI/UMG/Throw/umg_throw_anim01.umg_throw_anim01_C",
+        "Order": -1.0,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 0
+    },
+    {
+        "Name": "HouseThrowselected",
+        "UIWidgetClass": "/Game/UI/UMG/Throw/umg_throw_selected.umg_throw_selected_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseThrowInteract",
+        "UIWidgetClass": "/Game/UI/UMG/Throw/umg_throw_interact.umg_throw_interact_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseThrowTips",
+        "UIWidgetClass": "/Game/UI/UMG/Throw/umg_throw_tip.umg_throw_tip_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseThrowSettlement",
+        "UIWidgetClass": "/Game/UI/UMG/Throw/umg_throw_settlement.umg_throw_settlement_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseThrowRiki",
+        "UIWidgetClass": "/Game/UI/UMG/Throw/umg_throw_riki.umg_throw_riki_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseThrowLoading",
+        "UIWidgetClass": "/Game/UI/UMG/Throw/umg_throw_loading.umg_throw_loading_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseThrowReward",
+        "UIWidgetClass": "/Game/UI/UMG/Throw/umg_throw_reward.umg_throw_reward_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseMaskWithInOut",
+        "UIWidgetClass": "/Game/UI/UMG/Dorm/Widgets/umg_dorm_mask_inout.umg_dorm_mask_inout_C",
+        "Order": 100,
+        "Priority": 1000,
+        "Type": 2,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc32Main",
+        "UIWidgetClass": "/Game/UI/UMG/DLC32/umg_dlc32_main.umg_dlc32_main_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "BGM|UI|DLC32_Theme",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc32Mission",
+        "UIWidgetClass": "/Game/UI/UMG/DLC32/umg_dlc32_mission.umg_dlc32_mission_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc32Refresh",
+        "UIWidgetClass": "/Game/UI/UMG/DLC32/umg_dlc32_refresh.umg_dlc32_refresh_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc32Shop",
+        "UIWidgetClass": "/Game/UI/UMG/DLC32/umg_dlc32_shop.umg_dlc32_shop_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc32Story",
+        "UIWidgetClass": "/Game/UI/UMG/DLC32/umg_dlc32_story.umg_dlc32_story_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "BGM|UI|DLC32_Theme",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc32StoryAward",
+        "UIWidgetClass": "/Game/UI/UMG/DLC32/umg_dlc32_award.umg_dlc32_award_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "MowFunction",
+        "UIWidgetClass": "/Game/UI/UMG/Mow/umg_mow_function.umg_mow_function_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "MowGirlUnlock",
+        "UIWidgetClass": "/Game/UI/UMG/Mow/umg_mow_girl_unlock.umg_mow_girl_unlock_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "MowGirlLevelup",
+        "UIWidgetClass": "/Game/UI/UMG/Mow/umg_mow_girl_levelup.umg_mow_girl_levelup_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "MowHardUnlock",
+        "UIWidgetClass": "/Game/UI/UMG/Mow/umg_mow_hard_unlock.umg_mow_hard_unlock_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Invited",
+        "UIWidgetClass": "/Game/UI/UMG/ActivityInvited/umg_Invited01.umg_Invited01_C",
+        "Order": 10,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "VoiceDownload",
+        "UIWidgetClass": "/Game/UI/UMG/SetUp/Widgets/uw_setup_voicedownload_pop.uw_setup_voicedownload_pop_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "VoiceDownloadTip",
+        "UIWidgetClass": "/Game/UI/UMG/SetUp/Widgets/uw_setup_voicedownload_back.uw_setup_voicedownload_back_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "WeekSign6",
+        "UIWidgetClass": "/Game/UI/UMG/Activitysign14/umg_weeksign6.umg_weeksign6_C",
+        "Order": 10,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "GirlRoomPhotoBox",
+        "UIWidgetClass": "/Game/UI/UMG/GirlRoom/Widgets/uw_girlroom_RPSpicture_imagebox.uw_girlroom_RPSpicture_imagebox_C",
+        "Order": 10,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc33Main",
+        "UIWidgetClass": "/Game/UI/UMG/DLC33/umg_dlc33_main.umg_dlc33_main_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "BGM|UI|DLC33_Theme",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc33Mission",
+        "UIWidgetClass": "/Game/UI/UMG/DLC33/umg_dlc33_mission.umg_dlc33_mission_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc33Refresh",
+        "UIWidgetClass": "/Game/UI/UMG/DLC33/umg_dlc33_refresh.umg_dlc33_refresh_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc33Shop",
+        "UIWidgetClass": "/Game/UI/UMG/DLC33/umg_dlc33_shop.umg_dlc33_shop_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc33Story",
+        "UIWidgetClass": "/Game/UI/UMG/DLC33/umg_dlc33_story.umg_dlc33_story_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "BGM|UI|DLC33_Theme",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc33StoryAward",
+        "UIWidgetClass": "/Game/UI/UMG/DLC33/umg_dlc33_award.umg_dlc33_award_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "OnlinePurgeMain",
+        "UIWidgetClass": "/Game/UI/UMG/OnlinePurge/umg_onlinepurge_main.umg_onlinepurge_main_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "OnlinePurgeBuffFormation",
+        "UIWidgetClass": "/Game/UI/UMG/OnlinePurge/umg_onlinepurge_buffformation.umg_onlinepurge_buffformation_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "OnlinePurgeShop",
+        "UIWidgetClass": "/Game/UI/UMG/OnlinePurge/umg_onlinepurge_shop.umg_onlinepurge_shop_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "OnlinePurgeRiki",
+        "UIWidgetClass": "/Game/UI/UMG/OnlinePurge/umg_onlinepurge_riki.umg_onlinepurge_riki_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "OnlinePurgePrepare",
+        "UIWidgetClass": "/Game/UI/UMG/OnlinePurge/umg_onlinepurge_prepare.umg_onlinepurge_prepare_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "OnlinePurgeGainTips",
+        "UIWidgetClass": "/Game/UI/UMG/OnlinePurge/umg_onlinepurge_gain_tips.umg_onlinepurge_gain_tips_C",
+        "Order": 31,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "OnlinePurgeRecord",
+        "UIWidgetClass": "/Game/UI/UMG/OnlinePurge/umg_onlinepurge_record.umg_onlinepurge_record_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc34Main",
+        "UIWidgetClass": "/Game/UI/UMG/DLC34/umg_dlc34_main.umg_dlc34_main_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "BGM|UI|DLC34_Theme",
+        "HideOnOpenOther": 1,
+        "Sound": "3196|3197"
+    },
+    {
+        "Name": "Dlc34Mission",
+        "UIWidgetClass": "/Game/UI/UMG/DLC34/umg_dlc34_mission.umg_dlc34_mission_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc34Refresh",
+        "UIWidgetClass": "/Game/UI/UMG/DLC34/umg_dlc34_refresh.umg_dlc34_refresh_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1,
+        "Sound": 3198
+    },
+    {
+        "Name": "Dlc34Shop",
+        "UIWidgetClass": "/Game/UI/UMG/DLC34/umg_dlc34_shop.umg_dlc34_shop_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc34Story",
+        "UIWidgetClass": "/Game/UI/UMG/DLC34/umg_dlc34_story.umg_dlc34_story_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "BGM|UI|DLC34_Theme",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc34StoryAward",
+        "UIWidgetClass": "/Game/UI/UMG/DLC34/umg_dlc34_award.umg_dlc34_award_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc34LevelInfo",
+        "UIWidgetClass": "/Game/UI/UMG/Dlc34/Widgets/uw_dlc34_levelinfo.uw_dlc34_levelinfo_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 0
+    },
+    {
+        "Name": "JigsawPuzzleTimeMission",
+        "UIWidgetClass": "/Game/UI/UMG/Puzzle/umg_puzzle_mission1.umg_puzzle_mission1_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "JigsawPuzzleFixedMission",
+        "UIWidgetClass": "/Game/UI/UMG/Puzzle/umg_puzzle_mission2.umg_puzzle_mission2_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "JigsawPuzzlePlay",
+        "UIWidgetClass": "/Game/UI/UMG/Puzzle/umg_puzzle_play.umg_puzzle_play_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "BGM|UI|DLC33_UI",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "JigsawPuzzleGacha",
+        "UIWidgetClass": "/Game/UI/UMG/Puzzle/umg_puzzle_gacha.umg_puzzle_gacha_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "JigsawPuzzleChoose",
+        "UIWidgetClass": "/Game/UI/UMG/Puzzle/umg_puzzle_choose.umg_puzzle_choose_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "OnlineTDDutySelectFormation",
+        "UIWidgetClass": "/Game/UI/UMG/FightOnline/umg_fightonline_job_formation.umg_fightonline_job_formation_C",
+        "Order": 2,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseArcadeMain",
+        "UIWidgetClass": "/Game/UI/UMG/ArcadeGame/umg_arcade_main.umg_arcade_main_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseArcadeTransition",
+        "UIWidgetClass": "/Game/UI/UMG/ArcadeGame/umg_arcade_Transition.umg_arcade_Transition_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 0
+    },
+    {
+        "Name": "HouseArcadeSelected",
+        "UIWidgetClass": "/Game/UI/UMG/ArcadeGame/umg_arcade_selected.umg_arcade_selected_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseArcadeFight",
+        "UIWidgetClass": "/Game/UI/UMG/ArcadeGame/umg_arcade_fight.umg_arcade_fight_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseArcadeBook",
+        "UIWidgetClass": "/Game/UI/UMG/ArcadeGame/umg_arcade_book.umg_arcade_book_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseArcadeChoose",
+        "UIWidgetClass": "/Game/UI/UMG/ArcadeGame/umg_arcade_choose.umg_arcade_choose_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseArcadeFightShop",
+        "UIWidgetClass": "/Game/UI/UMG/ArcadeGame/umg_arcade_fight_shop.umg_arcade_fight_shop_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseArcadeShopBuy",
+        "UIWidgetClass": "/Game/UI/UMG/ArcadeGame/umg_arcade_shopbuy.umg_arcade_shopbuy_C",
+        "Order": 2,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseArcadeReward",
+        "UIWidgetClass": "/Game/UI/UMG/ArcadeGame/umg_arcade_reward.umg_arcade_reward_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseArcadeItem",
+        "UIWidgetClass": "/Game/UI/UMG/ArcadeGame/umg_arcade_iteminfo.umg_arcade_iteminfo_C",
+        "Order": 2,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseArcadeData",
+        "UIWidgetClass": "/Game/UI/UMG/ArcadeGame/umg_arcade_data.umg_arcade_data_C",
+        "Order": 2,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 0
+    },
+    {
+        "Name": "HouseArcadeFightTip",
+        "UIWidgetClass": "/Game/UI/UMG/ArcadeGame/Widget/uw_arcade_fighttip.uw_arcade_fighttip_C",
+        "Order": 1,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 0
+    },
+    {
+        "Name": "HouseArcadePropTip",
+        "UIWidgetClass": "/Game/UI/UMG/ArcadeGame/Widget/uw_arcade_proptip.uw_arcade_proptip_C",
+        "Order": 30,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 0
+    },
+    {
+        "Name": "FarmwarFormation",
+        "UIWidgetClass": "/Game/UI/UMG/FarmWar/umg_farmwar_formation.umg_farmwar_formation_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseArcadeSettlement",
+        "UIWidgetClass": "/Game/UI/UMG/ArcadeGame/umg_arcade_settlement.umg_arcade_settlement_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "HouseCustomWall",
+        "UIWidgetClass": "/Game/UI/UMG/Dorm/Widgets/CustomWall/umg_dorm_customwall.umg_dorm_customwall_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc35Main",
+        "UIWidgetClass": "/Game/UI/UMG/DLC35/umg_dlc35_main.umg_dlc35_main_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "BGM|UI|DLC35_Theme",
+        "HideOnOpenOther": 1,
+        "Sound": "3201|3202"
+    },
+    {
+        "Name": "Dlc35Mission",
+        "UIWidgetClass": "/Game/UI/UMG/DLC35/umg_dlc35_mission.umg_dlc35_mission_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc35Refresh",
+        "UIWidgetClass": "/Game/UI/UMG/DLC35/umg_dlc35_refresh.umg_dlc35_refresh_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1,
+        "Sound": 3203
+    },
+    {
+        "Name": "Dlc35Shop",
+        "UIWidgetClass": "/Game/UI/UMG/DLC35/umg_dlc35_shop.umg_dlc35_shop_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc35Story",
+        "UIWidgetClass": "/Game/UI/UMG/DLC35/umg_dlc35_story.umg_dlc35_story_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "BGM|UI|DLC35_Theme",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc35StoryAward",
+        "UIWidgetClass": "/Game/UI/UMG/DLC35/umg_dlc35_award.umg_dlc35_award_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc35LevelInfo",
+        "UIWidgetClass": "/Game/UI/UMG/Dlc35/Widgets/uw_dlc35_levelinfo.uw_dlc35_levelinfo_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 0
+    },
+    {
+        "Name": "ActivityShopBuy",
+        "UIWidgetClass": "/Game/UI/UMG/ActivityShopBuy/umg_activityshopbuy.umg_activityshopbuy_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "LimitedResBack",
+        "UIWidgetClass": "/Game/UI/UMG/Common/umg_common_limitlist.umg_common_limitlist_C",
+        "Order": 31,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "OnlineAssaultOpsMain",
+        "UIWidgetClass": "/Game/UI/UMG/Assaultops/umg_assaultops.umg_assaultops_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "BGM|UI|DLC35_UI02",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "OnlineAssaultOpsShop",
+        "UIWidgetClass": "/Game/UI/UMG/Assaultops/umg_assaultops_shop.umg_assaultops_shop_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "OnlineAssaultOpsBP",
+        "UIWidgetClass": "/Game/UI/UMG/Assaultops/umg_assaultops_bp.umg_assaultops_bp_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "OnlineAssaultOpsGainTips",
+        "UIWidgetClass": "/Game/UI/UMG/Assaultops/umg_assaultops_gain_tips.umg_assaultops_gain_tips_C",
+        "Order": 31,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "OnlineAssaultOpsSettlement",
+        "UIWidgetClass": "/Game/UI/UMG/Assaultops/umg_assaultops_settlement.umg_assaultops_settlement_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "OnlineAssaultOpsBuff",
+        "UIWidgetClass": "/Game/UI/UMG/Assaultops/umg_assaultops_buff.umg_assaultops_buff_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "OnlineAssaultOpsBPPop",
+        "UIWidgetClass": "/Game/UI/UMG/Assaultops/Widgets/uw_assaultops_bp_popup.uw_assaultops_bp_popup_C",
+        "Order": 31,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "OnlineAssaultOpsSchemepop",
+        "UIWidgetClass": "/Game/UI/UMG/Assaultops/Widgets/uw_assaultops_schemepop.uw_assaultops_schemepop_C",
+        "Order": 31,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "DonoDuelMap",
+        "UIWidgetClass": "/Game/UI/UMG/DonoDuel/Widgets/uw_donoduel_map.uw_donoduel_map_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "DonoDuelArenaLevel",
+        "UIWidgetClass": "/Game/UI/UMG/DonoDuel/umg_donoduel_arena_level.umg_donoduel_arena_level_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "DonoDuelCulture",
+        "UIWidgetClass": "/Game/UI/UMG/DonoDuel/umg_donoduel_culture.umg_donoduel_culture_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "DonoDuelCultureUpdate",
+        "UIWidgetClass": "/Game/UI/UMG/DonoDuel/umg_donoduel_culture_update.umg_donoduel_culture_update_C",
+        "Order": 31,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "DonoDuelFormation",
+        "UIWidgetClass": "/Game/UI/UMG/DonoDuel/umg_donoduel_formation.umg_donoduel_formation_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "DonoDuelRiki",
+        "UIWidgetClass": "/Game/UI/UMG/DonoDuel/umg_donoduel_riki.umg_donoduel_riki_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "DonoDuelRikiMission",
+        "UIWidgetClass": "/Game/UI/UMG/DonoDuel/umg_donoduel_riki_mission.umg_donoduel_riki_mission_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "DonoDuelMainRoom",
+        "UIWidgetClass": "/Game/UI/UMG/DonoDuel/umg_donoduel_room.umg_donoduel_room_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "BGM|UI|DLC35_UI01",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "DonoDuelSkillTree",
+        "UIWidgetClass": "/Game/UI/UMG/DonoDuel/umg_donoduel_skilltree.umg_donoduel_skilltree_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "DonoDuelTask",
+        "UIWidgetClass": "/Game/UI/UMG/DonoDuel/umg_donoduel_task.umg_donoduel_task_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "DonoDuelCaptainSkill",
+        "UIWidgetClass": "/Game/UI/UMG/DonoDuel/Widgets/uw_donoduel_arena_main_skill.uw_donoduel_arena_main_skill_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "DonoDuelBag",
+        "UIWidgetClass": "/Game/UI/UMG/DonoDuel/umg_donoduel_bag.umg_donoduel_bag_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "DonoDuelSkillStudy",
+        "UIWidgetClass": "/Game/UI/UMG/DonoDuel/umg_donoduel_study.umg_donoduel_study_C",
+        "Order": 31,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "DonoDuelCollect",
+        "UIWidgetClass": "/Game/UI/UMG/DonoDuel/Widgets/uw_donoduel_arena_fight_collect.uw_donoduel_arena_fight_collect_C",
+        "Order": 31,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "DonoDuelUnlockTips",
+        "UIWidgetClass": "/Game/UI/UMG/DonoDuel/Widgets/uw_donoduel_unlock_skill_tips.uw_donoduel_unlock_skill_tips_C",
+        "Order": 31,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "DonoDuelMonsterPop",
+        "UIWidgetClass": "/Game/UI/UMG/DonoDuel/Widgets/uw_donoduel_arena_fight_count.uw_donoduel_arena_fight_count_C",
+        "Order": 31,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "DonoDuelCardTip",
+        "UIWidgetClass": "/Game/UI/UMG/DonoDuel/Widgets/uw_donoduel_fight_monster_tip.uw_donoduel_fight_monster_tip_C",
+        "Order": 31,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc36Main",
+        "UIWidgetClass": "/Game/UI/UMG/DLC36/umg_dlc36_main.umg_dlc36_main_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "BGM|Story|DLC36_Theme",
+        "HideOnOpenOther": 1,
+        "Sound": "3209|3210"
+    },
+    {
+        "Name": "Dlc36Mission",
+        "UIWidgetClass": "/Game/UI/UMG/DLC36/umg_dlc36_mission.umg_dlc36_mission_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "BGM|Story|DLC36_Theme",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc36Refresh",
+        "UIWidgetClass": "/Game/UI/UMG/DLC36/umg_dlc36_refresh.umg_dlc36_refresh_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "BGM|Story|DLC36_Theme",
+        "HideOnOpenOther": 1,
+        "Sound": 3211
+    },
+    {
+        "Name": "Dlc36Shop",
+        "UIWidgetClass": "/Game/UI/UMG/DLC36/umg_dlc36_shop.umg_dlc36_shop_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "BGM|Story|DLC36_Theme",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc36Story",
+        "UIWidgetClass": "/Game/UI/UMG/DLC36/umg_dlc36_story.umg_dlc36_story_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "BGM|Story|DLC36_Theme",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc36StoryAward",
+        "UIWidgetClass": "/Game/UI/UMG/DLC36/umg_dlc36_award.umg_dlc36_award_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Dlc36LevelInfo",
+        "UIWidgetClass": "/Game/UI/UMG/Dlc36/Widgets/uw_dlc36_levelinfo.uw_dlc36_levelinfo_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 0
+    },
+    {
+        "Name": "OnlineSeaSettlement",
+        "UIWidgetClass": "/Game/UI/UMG/OnlineSea/umg_onlinesea_settlement.umg_onlinesea_settlement_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "OnlineSeaRecord",
+        "UIWidgetClass": "/Game/UI/UMG/OnlineSea/umg_onlinesea_record.umg_onlinesea_record_C",
+        "Order": 0,
+        "Priority": -1.0,
+        "Type": 0,
+        "Music": "",
+        "HideOnOpenOther": 1
+    },
+    {
+        "Name": "Invited2",
+        "UIWidgetClass": "/Game/UI/UMG/ActivityInvited/umg_Invited02.umg_Invited02_C",
+        "Order": 10,
+        "Priority": -1.0,
+        "Type": 1,
+        "Music": "",
+        "HideOnOpenOther": 1
+    }
+]

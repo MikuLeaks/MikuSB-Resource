@@ -1,0 +1,7302 @@
+[
+    {
+        "ID": 211,
+        "Type": 1,
+        "MapID": 210,
+        "FightID": 1,
+        "Condition": {
+            "[1, 1]": [
+                2,
+                10205
+            ]
+        },
+        "ConsumeVigor": [
+            0,
+            10
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 212,
+        "PlayerExp": 10,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4001
+        ],
+        "BaseDropID": [
+            4001
+        ],
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                10
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2700
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2700
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask01_01.DTask01_01",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001802
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801002
+    },
+    {
+        "ID": 212,
+        "Type": 1,
+        "MapID": 210,
+        "FightID": 1,
+        "Condition": {
+            "[4, 211]": [
+                2,
+                10306
+            ]
+        },
+        "ConsumeVigor": [
+            0,
+            15
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 213,
+        "PlayerExp": 15,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4002
+        ],
+        "BaseDropID": [
+            4002
+        ],
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                15
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                4200
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                4200
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask01_02.DTask01_02",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001802
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801002
+    },
+    {
+        "ID": 213,
+        "Type": 1,
+        "MapID": 210,
+        "FightID": 1,
+        "Condition": {
+            "[4, 212]": [
+                2,
+                10409
+            ]
+        },
+        "ConsumeVigor": [
+            0,
+            20
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 214,
+        "PlayerExp": 20,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4003
+        ],
+        "BaseDropID": [
+            4003
+        ],
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                6000
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                6000
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask01_03.DTask01_03",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001802
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801002
+    },
+    {
+        "ID": 214,
+        "Type": 1,
+        "MapID": 210,
+        "FightID": 1,
+        "Condition": {
+            "[4, 213]": [
+                2,
+                10511
+            ]
+        },
+        "ConsumeVigor": [
+            0,
+            25
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 215,
+        "PlayerExp": 25,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4004
+        ],
+        "BaseDropID": [
+            4004
+        ],
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                25
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                7500
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                7500
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask01_04.DTask01_04",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001802
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801002
+    },
+    {
+        "ID": 215,
+        "Type": 1,
+        "MapID": 210,
+        "FightID": 1,
+        "Condition": {
+            "[4, 214]": [
+                2,
+                10610
+            ]
+        },
+        "ConsumeVigor": [
+            0,
+            30
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 216,
+        "PlayerExp": 30,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4005
+        ],
+        "BaseDropID": [
+            4005
+        ],
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                30
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                9000
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                9000
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask01_05.DTask01_05",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001802
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801002
+    },
+    {
+        "ID": 216,
+        "Type": 1,
+        "MapID": 210,
+        "FightID": 1,
+        "Condition": {
+            "[4, 215]": [
+                2,
+                10707
+            ]
+        },
+        "ConsumeVigor": [
+            0,
+            40
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": "",
+        "PlayerExp": 40,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4006
+        ],
+        "BaseDropID": [
+            4006
+        ],
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                40
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                12000
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                12000
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask01_06.DTask01_06",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001802
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801002
+    },
+    {
+        "ID": 221,
+        "Type": 2,
+        "MapID": 220,
+        "FightID": 1,
+        "Condition": {
+            "[1, 1]": [
+                2,
+                10205
+            ]
+        },
+        "ConsumeVigor": [
+            0,
+            10
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 222,
+        "PlayerExp": 10,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4007
+        ],
+        "BaseDropID": [
+            4007
+        ],
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                10
+            ],
+            [
+                5,
+                1,
+                1,
+                1,
+                9
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                1,
+                9
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask02_01.DTask02_01",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001108,
+            4001112
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801002
+    },
+    {
+        "ID": 222,
+        "Type": 2,
+        "MapID": 220,
+        "FightID": 1,
+        "Condition": {
+            "[4, 221]": [
+                2,
+                10306
+            ]
+        },
+        "ConsumeVigor": [
+            0,
+            15
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 223,
+        "PlayerExp": 15,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4008
+        ],
+        "BaseDropID": [
+            4008
+        ],
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                15
+            ],
+            [
+                5,
+                1,
+                1,
+                2,
+                7
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                2,
+                7
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask02_02.DTask02_02",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001108,
+            4001112
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801002
+    },
+    {
+        "ID": 223,
+        "Type": 2,
+        "MapID": 220,
+        "FightID": 1,
+        "Condition": {
+            "[4, 222]": [
+                2,
+                10409
+            ]
+        },
+        "ConsumeVigor": [
+            0,
+            20
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 224,
+        "PlayerExp": 20,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4009
+        ],
+        "BaseDropID": [
+            4009
+        ],
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                20
+            ],
+            [
+                5,
+                1,
+                1,
+                2,
+                5
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                2,
+                5
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask02_03.DTask02_03",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001108,
+            4001103,
+            4001112
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801002
+    },
+    {
+        "ID": 224,
+        "Type": 2,
+        "MapID": 220,
+        "FightID": 1,
+        "Condition": {
+            "[4, 223]": [
+                2,
+                10511
+            ]
+        },
+        "ConsumeVigor": [
+            0,
+            25
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 225,
+        "PlayerExp": 25,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4010
+        ],
+        "BaseDropID": [
+            4010
+        ],
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                25
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ],
+            [
+                5,
+                1,
+                1,
+                4,
+                1
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ],
+            [
+                5,
+                1,
+                1,
+                4,
+                1
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask02_04.DTask02_04",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001108,
+            4001103,
+            4001112
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801002
+    },
+    {
+        "ID": 225,
+        "Type": 2,
+        "MapID": 220,
+        "FightID": 1,
+        "Condition": {
+            "[4, 224]": [
+                2,
+                10610
+            ]
+        },
+        "ConsumeVigor": [
+            0,
+            30
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 226,
+        "PlayerExp": 30,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4011
+        ],
+        "BaseDropID": [
+            4011
+        ],
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                30
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                3
+            ],
+            [
+                5,
+                1,
+                1,
+                4,
+                1
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                3
+            ],
+            [
+                5,
+                1,
+                1,
+                4,
+                1
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask02_05.DTask02_05",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001108,
+            4001103,
+            4001112,
+            5001111
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801002
+    },
+    {
+        "ID": 226,
+        "Type": 2,
+        "MapID": 220,
+        "FightID": 1,
+        "Condition": {
+            "[4, 225]": [
+                2,
+                10707
+            ]
+        },
+        "ConsumeVigor": [
+            0,
+            40
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": "",
+        "PlayerExp": 40,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4012
+        ],
+        "BaseDropID": [
+            4012
+        ],
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                40
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ],
+            [
+                5,
+                1,
+                1,
+                4,
+                2
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ],
+            [
+                5,
+                1,
+                1,
+                4,
+                2
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask02_06.DTask02_06",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001108,
+            4001103,
+            4001112,
+            5001111
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801002
+    },
+    {
+        "ID": 231,
+        "Type": 3,
+        "MapID": 230,
+        "FightID": 1,
+        "Condition": {
+            "[1, 1]": [
+                2,
+                10205
+            ]
+        },
+        "ConsumeVigor": [
+            0,
+            10
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 232,
+        "PlayerExp": 10,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4013
+        ],
+        "BaseDropID": [
+            4013
+        ],
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                10
+            ],
+            [
+                5,
+                2,
+                1,
+                1,
+                9
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                5,
+                2,
+                1,
+                1,
+                9
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask03_01.DTask03_01",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001007,
+            4001004,
+            4001006,
+            4001002
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801002
+    },
+    {
+        "ID": 232,
+        "Type": 3,
+        "MapID": 230,
+        "FightID": 1,
+        "Condition": {
+            "[4, 231]": [
+                2,
+                10306
+            ]
+        },
+        "ConsumeVigor": [
+            0,
+            15
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 233,
+        "PlayerExp": 15,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4014
+        ],
+        "BaseDropID": [
+            4014
+        ],
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                15
+            ],
+            [
+                5,
+                2,
+                1,
+                2,
+                7
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                5,
+                2,
+                1,
+                2,
+                7
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask03_02.DTask03_02",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001007,
+            4001004,
+            4001006,
+            4001002
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801002
+    },
+    {
+        "ID": 233,
+        "Type": 3,
+        "MapID": 230,
+        "FightID": 1,
+        "Condition": {
+            "[4, 232]": [
+                2,
+                10409
+            ]
+        },
+        "ConsumeVigor": [
+            0,
+            20
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 234,
+        "PlayerExp": 20,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4015
+        ],
+        "BaseDropID": [
+            4015
+        ],
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                20
+            ],
+            [
+                5,
+                2,
+                1,
+                2,
+                5
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                2
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                5,
+                2,
+                1,
+                2,
+                5
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask03_03.DTask03_03",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001007,
+            4001004,
+            4001006,
+            4001002
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801002
+    },
+    {
+        "ID": 234,
+        "Type": 3,
+        "MapID": 230,
+        "FightID": 1,
+        "Condition": {
+            "[4, 233]": [
+                2,
+                10511
+            ]
+        },
+        "ConsumeVigor": [
+            0,
+            25
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 235,
+        "PlayerExp": 25,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4016
+        ],
+        "BaseDropID": [
+            4016
+        ],
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                25
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                2
+            ],
+            [
+                5,
+                2,
+                1,
+                4,
+                1
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                5,
+                2,
+                1,
+                3,
+                2
+            ],
+            [
+                5,
+                2,
+                1,
+                4,
+                1
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask03_04.DTask03_04",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001007,
+            4001004,
+            4001006,
+            4001002
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801002
+    },
+    {
+        "ID": 235,
+        "Type": 3,
+        "MapID": 230,
+        "FightID": 1,
+        "Condition": {
+            "[4, 234]": [
+                2,
+                10610
+            ]
+        },
+        "ConsumeVigor": [
+            0,
+            30
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 236,
+        "PlayerExp": 30,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4017
+        ],
+        "BaseDropID": [
+            4017
+        ],
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                30
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                3
+            ],
+            [
+                5,
+                2,
+                1,
+                4,
+                1
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                5,
+                2,
+                1,
+                3,
+                3
+            ],
+            [
+                5,
+                2,
+                1,
+                4,
+                1
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask03_05.DTask03_05",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001007,
+            4001004,
+            4001006,
+            4001002
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801002
+    },
+    {
+        "ID": 236,
+        "Type": 3,
+        "MapID": 230,
+        "FightID": 1,
+        "Condition": {
+            "[4, 235]": [
+                2,
+                10707
+            ]
+        },
+        "ConsumeVigor": [
+            0,
+            40
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": "",
+        "PlayerExp": 40,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4018
+        ],
+        "BaseDropID": [
+            4018
+        ],
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                40
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                2
+            ],
+            [
+                5,
+                2,
+                1,
+                4,
+                2
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                5,
+                2,
+                1,
+                3,
+                2
+            ],
+            [
+                5,
+                2,
+                1,
+                4,
+                2
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask03_06.DTask03_06",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001007,
+            4001004,
+            4001006,
+            4001002
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801002
+    },
+    {
+        "ID": 241,
+        "Type": 7,
+        "MapID": 240,
+        "FightID": 1,
+        "Condition": {
+            "[1, 1]": [
+                2,
+                10412
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            9
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 242,
+        "PlayerExp": 10,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4019
+        ],
+        "BaseDropID": [
+            4019
+        ],
+        "RandomDropID": [
+            4119
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                10
+            ],
+            [
+                5,
+                8,
+                1,
+                1,
+                2
+            ],
+            [
+                5,
+                8,
+                1,
+                2,
+                1
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                5,
+                8,
+                1,
+                2,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                8,
+                1,
+                1,
+                2
+            ],
+            [
+                5,
+                8,
+                1,
+                2,
+                1
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask04_01.DTask04_01",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001003,
+            4001005,
+            4001004
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801004
+    },
+    {
+        "ID": 242,
+        "Type": 98,
+        "MapID": 240,
+        "FightID": 1,
+        "Condition": {
+            "[4, 241]": [
+                2,
+                10510
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            14
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 243,
+        "PlayerExp": 15,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4020
+        ],
+        "BaseDropID": [
+            4020
+        ],
+        "RandomDropID": [
+            4120
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                15
+            ],
+            [
+                5,
+                8,
+                1,
+                1,
+                2
+            ],
+            [
+                5,
+                8,
+                1,
+                2,
+                2
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                5,
+                8,
+                1,
+                2,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                8,
+                1,
+                1,
+                2
+            ],
+            [
+                5,
+                8,
+                1,
+                2,
+                2
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask04_02.DTask04_02",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001003,
+            4001005,
+            4001004
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801004
+    },
+    {
+        "ID": 243,
+        "Type": 98,
+        "MapID": 240,
+        "FightID": 1,
+        "Condition": {
+            "[4, 242]": [
+                2,
+                10607
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            19
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 244,
+        "PlayerExp": 20,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4021
+        ],
+        "BaseDropID": [
+            4021
+        ],
+        "RandomDropID": [
+            4121
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                20
+            ],
+            [
+                5,
+                8,
+                1,
+                1,
+                2
+            ],
+            [
+                5,
+                8,
+                1,
+                2,
+                2
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                5,
+                8,
+                1,
+                2,
+                1
+            ],
+            [
+                5,
+                8,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                8,
+                1,
+                1,
+                2
+            ],
+            [
+                5,
+                8,
+                1,
+                2,
+                2
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask04_03.DTask04_03",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001003,
+            4001005,
+            4001004
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801004
+    },
+    {
+        "ID": 244,
+        "Type": 98,
+        "MapID": 240,
+        "FightID": 1,
+        "Condition": {
+            "[4, 243]": [
+                2,
+                10703
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            24
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 245,
+        "PlayerExp": 25,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4022
+        ],
+        "BaseDropID": [
+            4022
+        ],
+        "RandomDropID": [
+            4122
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                25
+            ],
+            [
+                5,
+                8,
+                1,
+                1,
+                2
+            ],
+            [
+                5,
+                8,
+                1,
+                2,
+                2
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                5,
+                8,
+                1,
+                2,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                8,
+                1,
+                1,
+                2
+            ],
+            [
+                5,
+                8,
+                1,
+                2,
+                2
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask04_04.DTask04_04",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001003,
+            4001005,
+            4001004
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801004
+    },
+    {
+        "ID": 245,
+        "Type": 98,
+        "MapID": 240,
+        "FightID": 1,
+        "Condition": {
+            "[4, 244]": [
+                2,
+                10711
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            29
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 246,
+        "PlayerExp": 30,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4023
+        ],
+        "BaseDropID": [
+            4023
+        ],
+        "RandomDropID": [
+            4123
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                30
+            ],
+            [
+                5,
+                8,
+                1,
+                1,
+                3
+            ],
+            [
+                5,
+                8,
+                1,
+                2,
+                3
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                5,
+                8,
+                1,
+                1,
+                1
+            ],
+            [
+                5,
+                8,
+                1,
+                2,
+                1
+            ],
+            [
+                5,
+                8,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                8,
+                1,
+                1,
+                3
+            ],
+            [
+                5,
+                8,
+                1,
+                2,
+                3
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask04_05.DTask04_05",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001003,
+            4001005,
+            4001004
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801004
+    },
+    {
+        "ID": 246,
+        "Type": 98,
+        "MapID": 240,
+        "FightID": 1,
+        "Condition": {
+            "[4, 245]": [
+                2,
+                10809
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            39
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": "",
+        "PlayerExp": 40,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4024
+        ],
+        "BaseDropID": [
+            4024
+        ],
+        "RandomDropID": [
+            4124
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                40
+            ],
+            [
+                5,
+                8,
+                1,
+                1,
+                4
+            ],
+            [
+                5,
+                8,
+                1,
+                2,
+                3
+            ],
+            [
+                5,
+                8,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                5,
+                8,
+                1,
+                1,
+                1
+            ],
+            [
+                5,
+                8,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                8,
+                1,
+                1,
+                4
+            ],
+            [
+                5,
+                8,
+                1,
+                2,
+                3
+            ],
+            [
+                5,
+                8,
+                1,
+                3,
+                1
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask04_06.DTask04_06",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001003,
+            4001005,
+            4001004
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801004
+    },
+    {
+        "ID": 251,
+        "Type": 6,
+        "MapID": 250,
+        "FightID": 1,
+        "Condition": {
+            "[1, 1]": [
+                2,
+                10412
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            24
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 252,
+        "PlayerExp": 25,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4037
+        ],
+        "BaseDropID": [
+            4037
+        ],
+        "RandomDropID": [
+            4137
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                25
+            ],
+            [
+                5,
+                3,
+                1,
+                1,
+                5
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                3,
+                1,
+                7,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                7,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                7,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                8,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                8,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                8,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                9,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                9,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                9,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                10,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                10,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                10,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                11,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                11,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                11,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                12,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                12,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                12,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                18,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                18,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                18,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                19,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                19,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                19,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                20,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                20,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                20,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                21,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                21,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                21,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                1,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                1,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                2,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                2,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                2,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                3,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                3,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                3,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                4,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                4,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                4,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                5,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                5,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                5,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                6,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                6,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                6,
+                1,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                1,
+                5
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask05_01.DTask05_01",
+        "Guarantee": 5,
+        "RareDrop": "",
+        "Monster": [
+            4001016,
+            4001005
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801003
+    },
+    {
+        "ID": 252,
+        "Type": 6,
+        "MapID": 250,
+        "FightID": 1,
+        "Condition": {
+            "[4, 251]": [
+                2,
+                10510
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            29
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 253,
+        "PlayerExp": 30,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4038
+        ],
+        "BaseDropID": [
+            4038
+        ],
+        "RandomDropID": [
+            4138
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                30
+            ],
+            [
+                5,
+                3,
+                1,
+                2,
+                3
+            ],
+            [
+                5,
+                3,
+                1,
+                1,
+                2
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                3,
+                1,
+                7,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                7,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                7,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                8,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                8,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                8,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                9,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                9,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                9,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                10,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                10,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                10,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                11,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                11,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                11,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                12,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                12,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                12,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                18,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                18,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                18,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                19,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                19,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                19,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                20,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                20,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                20,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                21,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                21,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                21,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                1,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                1,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                2,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                2,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                2,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                3,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                3,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                3,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                4,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                4,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                4,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                5,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                5,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                5,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                6,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                6,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                6,
+                1,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                2,
+                3
+            ],
+            [
+                5,
+                3,
+                1,
+                1,
+                2
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask05_02.DTask05_02",
+        "Guarantee": 7,
+        "RareDrop": "",
+        "Monster": [
+            4001016,
+            4001005
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801003
+    },
+    {
+        "ID": 253,
+        "Type": 6,
+        "MapID": 250,
+        "FightID": 1,
+        "Condition": {
+            "[4, 252]": [
+                2,
+                10607
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            34
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 254,
+        "PlayerExp": 35,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4039
+        ],
+        "BaseDropID": [
+            4039
+        ],
+        "RandomDropID": [
+            4139
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                35
+            ],
+            [
+                5,
+                3,
+                1,
+                2,
+                5
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                3,
+                1,
+                13,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                13,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                13,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                14,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                14,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                14,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                15,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                15,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                15,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                16,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                16,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                16,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                22,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                22,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                22,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                24,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                24,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                24,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                25,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                25,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                25,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                27,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                27,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                27,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                7,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                7,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                7,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                8,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                8,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                8,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                9,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                9,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                9,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                10,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                10,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                10,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                11,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                11,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                11,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                12,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                12,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                12,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                18,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                18,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                18,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                19,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                19,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                19,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                20,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                20,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                20,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                21,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                21,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                21,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                1,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                1,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                2,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                2,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                2,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                3,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                3,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                3,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                4,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                4,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                4,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                5,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                5,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                5,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                6,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                6,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                6,
+                1,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                2,
+                5
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask05_03.DTask05_03",
+        "Guarantee": 10,
+        "RareDrop": "",
+        "Monster": [
+            4001016,
+            4001005
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801003
+    },
+    {
+        "ID": 254,
+        "Type": 6,
+        "MapID": 250,
+        "FightID": 1,
+        "Condition": {
+            "[4, 253]": [
+                2,
+                10703
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            34
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 255,
+        "PlayerExp": 35,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4040
+        ],
+        "BaseDropID": [
+            4040
+        ],
+        "RandomDropID": [
+            4140
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                35
+            ],
+            [
+                5,
+                3,
+                1,
+                2,
+                5
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                3,
+                1,
+                13,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                13,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                13,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                14,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                14,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                14,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                15,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                15,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                15,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                16,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                16,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                16,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                22,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                22,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                22,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                24,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                24,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                24,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                25,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                25,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                25,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                27,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                27,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                27,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                7,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                7,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                7,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                8,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                8,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                8,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                9,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                9,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                9,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                10,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                10,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                10,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                11,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                11,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                11,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                12,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                12,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                12,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                18,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                18,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                18,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                19,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                19,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                19,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                20,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                20,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                20,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                21,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                21,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                21,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                1,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                1,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                2,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                2,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                2,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                3,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                3,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                3,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                4,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                4,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                4,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                5,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                5,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                5,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                6,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                6,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                6,
+                1,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                2,
+                5
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask05_04.DTask05_04",
+        "Guarantee": 13,
+        "RareDrop": "",
+        "Monster": [
+            4001016,
+            4001005
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801003
+    },
+    {
+        "ID": 255,
+        "Type": 6,
+        "MapID": 250,
+        "FightID": 1,
+        "Condition": {
+            "[4, 254]": [
+                2,
+                10711
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            39
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 256,
+        "PlayerExp": 40,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4041
+        ],
+        "BaseDropID": [
+            4041
+        ],
+        "RandomDropID": [
+            4141
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                40
+            ],
+            [
+                5,
+                3,
+                1,
+                3,
+                1
+            ],
+            [
+                5,
+                3,
+                1,
+                2,
+                4
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                3,
+                1,
+                13,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                13,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                13,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                14,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                14,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                14,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                15,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                15,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                15,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                16,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                16,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                16,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                22,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                22,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                22,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                24,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                24,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                24,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                25,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                25,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                25,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                27,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                27,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                27,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                7,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                7,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                7,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                8,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                8,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                8,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                9,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                9,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                9,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                10,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                10,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                10,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                11,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                11,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                11,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                12,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                12,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                12,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                18,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                18,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                18,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                19,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                19,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                19,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                20,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                20,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                20,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                21,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                21,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                21,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                1,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                1,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                2,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                2,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                2,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                3,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                3,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                3,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                4,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                4,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                4,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                5,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                5,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                5,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                6,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                6,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                6,
+                1,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                1
+            ],
+            [
+                5,
+                3,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask05_05.DTask05_05",
+        "Guarantee": 16,
+        "RareDrop": "",
+        "Monster": [
+            4001016,
+            4001005
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801003
+    },
+    {
+        "ID": 256,
+        "Type": 6,
+        "MapID": 250,
+        "FightID": 1,
+        "Condition": {
+            "[4, 255]": [
+                2,
+                10809
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            39
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": "",
+        "PlayerExp": 40,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4042
+        ],
+        "BaseDropID": [
+            4042
+        ],
+        "RandomDropID": [
+            4141
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                40
+            ],
+            [
+                5,
+                3,
+                1,
+                3,
+                1
+            ],
+            [
+                5,
+                3,
+                1,
+                2,
+                4
+            ],
+            [
+                5,
+                3,
+                1,
+                1,
+                1
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                3,
+                1,
+                13,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                13,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                13,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                14,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                14,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                14,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                15,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                15,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                15,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                16,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                16,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                16,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                22,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                22,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                22,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                24,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                24,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                24,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                25,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                25,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                25,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                27,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                27,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                27,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                7,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                7,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                7,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                8,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                8,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                8,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                9,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                9,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                9,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                10,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                10,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                10,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                11,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                11,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                11,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                12,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                12,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                12,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                18,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                18,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                18,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                19,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                19,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                19,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                20,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                20,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                20,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                21,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                21,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                21,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                1,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                1,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                2,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                2,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                2,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                3,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                3,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                3,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                4,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                4,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                4,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                5,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                5,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                5,
+                1,
+                1
+            ],
+            [
+                3,
+                1,
+                6,
+                1,
+                1
+            ],
+            [
+                3,
+                2,
+                6,
+                1,
+                1
+            ],
+            [
+                3,
+                3,
+                6,
+                1,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                1
+            ],
+            [
+                5,
+                3,
+                1,
+                2,
+                4
+            ],
+            [
+                5,
+                3,
+                1,
+                1,
+                1
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask05_06.DTask05_06",
+        "Guarantee": 20,
+        "RareDrop": "",
+        "Monster": [
+            4001016,
+            4001005
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801003
+    },
+    {
+        "ID": 257,
+        "Type": 7,
+        "MapID": 291,
+        "FightID": 1,
+        "Condition": [
+            [
+                [
+                    2,
+                    11544
+                ]
+            ],
+            [
+                [
+                    4,
+                    256
+                ],
+                [
+                    2,
+                    10809
+                ]
+            ]
+        ],
+        "ConsumeVigor": [
+            1,
+            39
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": "",
+        "PlayerExp": 40,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": "",
+        "BaseDropID": [
+            4043
+        ],
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                40
+            ],
+            [
+                5,
+                7,
+                1,
+                2,
+                10
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "TaskPath": "DailyTask/DTask10_06.DTask10_06",
+        "Guarantee": 20,
+        "RareDrop": "",
+        "Monster": [
+            4001008,
+            4001016,
+            4003004,
+            4003007,
+            5001019
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801003
+    },
+    {
+        "ID": 261,
+        "Type": 5,
+        "MapID": 260,
+        "FightID": 1,
+        "Condition": {
+            "[1, 1]": [
+                2,
+                10303
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            9
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 262,
+        "PlayerExp": 10,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4031
+        ],
+        "BaseDropID": [
+            4031
+        ],
+        "RandomDropID": [
+            4131
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                10
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                2
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                5,
+                9,
+                1,
+                2,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                9,
+                1,
+                2,
+                2
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask06_01.DTask06_01",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            5001203
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801003
+    },
+    {
+        "ID": 262,
+        "Type": 5,
+        "MapID": 260,
+        "FightID": 1,
+        "Condition": {
+            "[4, 261]": [
+                2,
+                10406
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            14
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 263,
+        "PlayerExp": 15,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4032
+        ],
+        "BaseDropID": [
+            4032
+        ],
+        "RandomDropID": [
+            4132
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                15
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                3
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                5,
+                9,
+                1,
+                2,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                9,
+                1,
+                2,
+                3
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask06_02.DTask06_02",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            5001203
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801003
+    },
+    {
+        "ID": 263,
+        "Type": 5,
+        "MapID": 260,
+        "FightID": 1,
+        "Condition": {
+            "[4, 262]": [
+                2,
+                10506
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            19
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 264,
+        "PlayerExp": 20,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4033
+        ],
+        "BaseDropID": [
+            4033
+        ],
+        "RandomDropID": [
+            4133
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                5,
+                9,
+                1,
+                2,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask06_03.DTask06_03",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            5001203,
+            4001211,
+            4001212
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801003
+    },
+    {
+        "ID": 264,
+        "Type": 5,
+        "MapID": 260,
+        "FightID": 1,
+        "Condition": {
+            "[4, 263]": [
+                2,
+                10606
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            24
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 265,
+        "PlayerExp": 25,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4034
+        ],
+        "BaseDropID": [
+            4034
+        ],
+        "RandomDropID": [
+            4134
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                25
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                5
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                5,
+                9,
+                1,
+                2,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                9,
+                1,
+                2,
+                5
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask06_04.DTask06_04",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            5001203,
+            4001211,
+            4001212
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801003
+    },
+    {
+        "ID": 265,
+        "Type": 5,
+        "MapID": 260,
+        "FightID": 1,
+        "Condition": {
+            "[4, 264]": [
+                2,
+                10706
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            29
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 266,
+        "PlayerExp": 30,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4035
+        ],
+        "BaseDropID": [
+            4035
+        ],
+        "RandomDropID": [
+            4135
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                30
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                7
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                5,
+                9,
+                1,
+                2,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                9,
+                1,
+                2,
+                7
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask06_05.DTask06_05",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            5001203,
+            4001213,
+            4001212
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801003
+    },
+    {
+        "ID": 266,
+        "Type": 5,
+        "MapID": 260,
+        "FightID": 1,
+        "Condition": {
+            "[4, 265]": [
+                2,
+                10803
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            39
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": "",
+        "PlayerExp": 40,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4036
+        ],
+        "BaseDropID": [
+            4036
+        ],
+        "RandomDropID": [
+            4136
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                40
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                9
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                5,
+                9,
+                1,
+                2,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                9,
+                1,
+                2,
+                9
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask06_06.DTask06_06",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            5001203,
+            4001213,
+            4001212
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801003
+    },
+    {
+        "ID": 271,
+        "Type": 4,
+        "MapID": 270,
+        "FightID": 1,
+        "Condition": {
+            "[1, 1]": [
+                2,
+                10401
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            9
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 272,
+        "PlayerExp": 10,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4025
+        ],
+        "BaseDropID": [
+            4025
+        ],
+        "RandomDropID": [
+            4125
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                10
+            ],
+            [
+                5,
+                5,
+                1,
+                1,
+                4
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                5,
+                5,
+                1,
+                2,
+                1
+            ],
+            [
+                5,
+                5,
+                1,
+                1,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                5,
+                1,
+                1,
+                4
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask07_01.DTask07_01",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001212,
+            4001211,
+            4001213
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801004
+    },
+    {
+        "ID": 272,
+        "Type": 4,
+        "MapID": 270,
+        "FightID": 1,
+        "Condition": {
+            "[4, 271]": [
+                2,
+                10504
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            14
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 273,
+        "PlayerExp": 15,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4026
+        ],
+        "BaseDropID": [
+            4026
+        ],
+        "RandomDropID": [
+            4126
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                15
+            ],
+            [
+                5,
+                5,
+                1,
+                1,
+                4
+            ],
+            [
+                5,
+                5,
+                1,
+                2,
+                1
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                5,
+                5,
+                1,
+                2,
+                1
+            ],
+            [
+                5,
+                5,
+                1,
+                1,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                5,
+                1,
+                1,
+                4
+            ],
+            [
+                5,
+                5,
+                1,
+                2,
+                1
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask07_02.DTask07_02",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001212,
+            4001211,
+            4001213
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801004
+    },
+    {
+        "ID": 273,
+        "Type": 4,
+        "MapID": 270,
+        "FightID": 1,
+        "Condition": {
+            "[4, 272]": [
+                2,
+                10604
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            19
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 274,
+        "PlayerExp": 20,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4027
+        ],
+        "BaseDropID": [
+            4027
+        ],
+        "RandomDropID": [
+            4127
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                20
+            ],
+            [
+                5,
+                5,
+                1,
+                1,
+                4
+            ],
+            [
+                5,
+                5,
+                1,
+                2,
+                2
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                5,
+                5,
+                1,
+                2,
+                1
+            ],
+            [
+                5,
+                5,
+                1,
+                1,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                5,
+                1,
+                1,
+                4
+            ],
+            [
+                5,
+                5,
+                1,
+                2,
+                2
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask07_03.DTask07_03",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001212,
+            4001211,
+            4001213
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801004
+    },
+    {
+        "ID": 274,
+        "Type": 4,
+        "MapID": 270,
+        "FightID": 1,
+        "Condition": {
+            "[4, 273]": [
+                2,
+                10612
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            24
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 275,
+        "PlayerExp": 25,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4028
+        ],
+        "BaseDropID": [
+            4028
+        ],
+        "RandomDropID": [
+            4128
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                25
+            ],
+            [
+                5,
+                5,
+                1,
+                1,
+                4
+            ],
+            [
+                5,
+                5,
+                1,
+                2,
+                1
+            ],
+            [
+                5,
+                5,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                5,
+                5,
+                1,
+                2,
+                1
+            ],
+            [
+                5,
+                5,
+                1,
+                1,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                5,
+                1,
+                1,
+                4
+            ],
+            [
+                5,
+                5,
+                1,
+                2,
+                1
+            ],
+            [
+                5,
+                5,
+                1,
+                3,
+                1
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask07_04.DTask07_04",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001212,
+            4001211,
+            4001213
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801004
+    },
+    {
+        "ID": 275,
+        "Type": 4,
+        "MapID": 270,
+        "FightID": 1,
+        "Condition": {
+            "[4, 274]": [
+                2,
+                10705
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            29
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 276,
+        "PlayerExp": 30,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4029
+        ],
+        "BaseDropID": [
+            4029
+        ],
+        "RandomDropID": [
+            4129
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                30
+            ],
+            [
+                5,
+                5,
+                1,
+                1,
+                5
+            ],
+            [
+                5,
+                5,
+                1,
+                2,
+                2
+            ],
+            [
+                5,
+                5,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                5,
+                5,
+                1,
+                1,
+                1
+            ],
+            [
+                5,
+                5,
+                1,
+                2,
+                1
+            ],
+            [
+                5,
+                5,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                5,
+                1,
+                1,
+                5
+            ],
+            [
+                5,
+                5,
+                1,
+                2,
+                2
+            ],
+            [
+                5,
+                5,
+                1,
+                3,
+                1
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask07_05.DTask07_05",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001212,
+            4001211,
+            4001213
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801004
+    },
+    {
+        "ID": 276,
+        "Type": 4,
+        "MapID": 270,
+        "FightID": 1,
+        "Condition": {
+            "[4, 275]": [
+                2,
+                10712
+            ]
+        },
+        "ConsumeVigor": [
+            1,
+            39
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": "",
+        "PlayerExp": 40,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            4030
+        ],
+        "BaseDropID": [
+            4030
+        ],
+        "RandomDropID": [
+            4130
+        ],
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                40
+            ],
+            [
+                5,
+                5,
+                1,
+                1,
+                5
+            ],
+            [
+                5,
+                5,
+                1,
+                2,
+                3
+            ],
+            [
+                5,
+                5,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowRandomAward": [
+            [
+                5,
+                5,
+                1,
+                1,
+                1
+            ],
+            [
+                5,
+                5,
+                1,
+                2,
+                1
+            ],
+            [
+                5,
+                5,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowFirstAward": [
+            [
+                5,
+                5,
+                1,
+                1,
+                5
+            ],
+            [
+                5,
+                5,
+                1,
+                2,
+                3
+            ],
+            [
+                5,
+                5,
+                1,
+                3,
+                1
+            ]
+        ],
+        "TaskPath": "DailyTask/DTask07_06.DTask07_06",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001212,
+            4001211,
+            4001213
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801004
+    },
+    {
+        "ID": 281,
+        "Type": 2,
+        "MapID": 280,
+        "FightID": 1,
+        "Condition": [
+            [
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        "ConsumeVigor": [
+            1,
+            7
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 282,
+        "PlayerExp": 8,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": "",
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "TaskPath": "DailyTask/DTask08_01.DTask08_01",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001212,
+            4001211,
+            4001213
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801000
+    },
+    {
+        "ID": 282,
+        "Type": 2,
+        "MapID": 280,
+        "FightID": 1,
+        "Condition": [
+            [
+                [
+                    4,
+                    281
+                ]
+            ]
+        ],
+        "ConsumeVigor": [
+            1,
+            11
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 283,
+        "PlayerExp": 12,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": "",
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "TaskPath": "DailyTask/DTask08_02.DTask08_02",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001212,
+            4001211,
+            4001213
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801000
+    },
+    {
+        "ID": 283,
+        "Type": 2,
+        "MapID": 280,
+        "FightID": 1,
+        "Condition": [
+            [
+                [
+                    4,
+                    282
+                ]
+            ]
+        ],
+        "ConsumeVigor": [
+            1,
+            19
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 284,
+        "PlayerExp": 20,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": "",
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "TaskPath": "DailyTask/DTask08_03.DTask08_03",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001212,
+            4001211,
+            4001213
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801000
+    },
+    {
+        "ID": 284,
+        "Type": 2,
+        "MapID": 280,
+        "FightID": 1,
+        "Condition": [
+            [
+                [
+                    4,
+                    283
+                ]
+            ]
+        ],
+        "ConsumeVigor": [
+            1,
+            29
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": "",
+        "PlayerExp": 30,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": "",
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "TaskPath": "DailyTask/DTask08_04.DTask08_04",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001212,
+            4001211,
+            4001213
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801000
+    },
+    {
+        "ID": 291,
+        "Type": 2,
+        "MapID": 290,
+        "FightID": 1,
+        "Condition": [
+            [
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        "ConsumeVigor": [
+            1,
+            7
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 292,
+        "PlayerExp": 8,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": "",
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "TaskPath": "DailyTask/DTask09_01.DTask09_01",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001212,
+            4001211,
+            4001213
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801000
+    },
+    {
+        "ID": 292,
+        "Type": 2,
+        "MapID": 290,
+        "FightID": 1,
+        "Condition": [
+            [
+                [
+                    4,
+                    291
+                ]
+            ]
+        ],
+        "ConsumeVigor": [
+            1,
+            11
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 293,
+        "PlayerExp": 12,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": "",
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "TaskPath": "DailyTask/DTask09_02.DTask09_02",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001212,
+            4001211,
+            4001213
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801000
+    },
+    {
+        "ID": 293,
+        "Type": 2,
+        "MapID": 290,
+        "FightID": 1,
+        "Condition": [
+            [
+                [
+                    4,
+                    292
+                ]
+            ]
+        ],
+        "ConsumeVigor": [
+            1,
+            19
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": 294,
+        "PlayerExp": 20,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": "",
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "TaskPath": "DailyTask/DTask09_03.DTask09_03",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001212,
+            4001211,
+            4001213
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801000
+    },
+    {
+        "ID": 294,
+        "Type": 2,
+        "MapID": 290,
+        "FightID": 1,
+        "Condition": [
+            [
+                [
+                    4,
+                    293
+                ]
+            ]
+        ],
+        "ConsumeVigor": [
+            1,
+            29
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": "",
+        "PlayerExp": 30,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": "",
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "TaskPath": "DailyTask/DTask09_04.DTask09_04",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001212,
+            4001211,
+            4001213
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801000
+    },
+    {
+        "ID": 295,
+        "Type": 8,
+        "MapID": 292,
+        "FightID": 1,
+        "Condition": [
+            [
+                [
+                    1,
+                    20
+                ]
+            ]
+        ],
+        "ConsumeVigor": [
+            0,
+            40
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": "",
+        "PlayerExp": 40,
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": "",
+        "BaseDropID": [
+            4044
+        ],
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": [
+            [
+                4,
+                3,
+                3,
+                1,
+                40
+            ],
+            [
+                5,
+                13,
+                2,
+                2,
+                10
+            ]
+        ],
+        "ShowRandomAward": "",
+        "ShowFirstAward": "",
+        "TaskPath": "DailyTask/DTask10_07.DTask10_07",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001116,
+            4001102,
+            4001108,
+            4001106,
+            5001101
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801003
+    },
+    {
+        "ID": 901,
+        "Type": 99,
+        "MapID": 901,
+        "FightID": 1,
+        "Condition": [
+            [
+                [
+                    2,
+                    11502
+                ]
+            ],
+            [
+                [
+                    2,
+                    10304
+                ]
+            ]
+        ],
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": "",
+        "PlayerExp": 0,
+        "RoleExp": "",
+        "TeamRuleID": 20001,
+        "FirstDropID": [
+            1009
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ]
+        ],
+        "TaskPath": "TraningTask/TraningLevel01_01.TraningLevel01_01",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001003
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801000
+    },
+    {
+        "ID": 902,
+        "Type": 99,
+        "MapID": 902,
+        "FightID": 1,
+        "Condition": [
+            [
+                [
+                    2,
+                    11502
+                ]
+            ],
+            [
+                [
+                    2,
+                    10503
+                ]
+            ]
+        ],
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": "",
+        "PlayerExp": 0,
+        "RoleExp": "",
+        "TeamRuleID": 20002,
+        "FirstDropID": [
+            1009
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ]
+        ],
+        "TaskPath": "TraningTask/TraningLevel02.TraningLevel02",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001003
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801000
+    },
+    {
+        "ID": 903,
+        "Type": 99,
+        "MapID": 903,
+        "FightID": 1,
+        "Condition": [
+            [
+                [
+                    2,
+                    11502
+                ]
+            ],
+            [
+                [
+                    2,
+                    10302
+                ]
+            ]
+        ],
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": "",
+        "PlayerExp": 0,
+        "RoleExp": "",
+        "TeamRuleID": 20003,
+        "FirstDropID": [
+            1009
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ]
+        ],
+        "TaskPath": "TraningTask/TraningLevel03.TraningLevel03",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001003
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801000
+    },
+    {
+        "ID": 904,
+        "Type": 99,
+        "MapID": 904,
+        "FightID": 1,
+        "Condition": [
+            [
+                [
+                    2,
+                    11502
+                ]
+            ],
+            [
+                [
+                    2,
+                    10103
+                ]
+            ]
+        ],
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": "",
+        "PlayerExp": 0,
+        "RoleExp": "",
+        "TeamRuleID": 20004,
+        "FirstDropID": [
+            1009
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ]
+        ],
+        "TaskPath": "TraningTask/TraningLevel04.TraningLevel04",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001003
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801000
+    },
+    {
+        "ID": 905,
+        "Type": 99,
+        "MapID": 905,
+        "FightID": 1,
+        "Condition": [
+            [
+                [
+                    2,
+                    11502
+                ]
+            ],
+            [
+                [
+                    2,
+                    10104
+                ]
+            ]
+        ],
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": "",
+        "PlayerExp": 0,
+        "RoleExp": "",
+        "TeamRuleID": 20005,
+        "FirstDropID": [
+            1009
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ]
+        ],
+        "TaskPath": "TraningTask/TraningLevel05.TraningLevel05",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001015
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801000
+    },
+    {
+        "ID": 906,
+        "Type": 99,
+        "MapID": 906,
+        "FightID": 1,
+        "Condition": [
+            [
+                [
+                    2,
+                    11502
+                ]
+            ],
+            [
+                [
+                    2,
+                    10105
+                ]
+            ]
+        ],
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": "",
+        "PlayerExp": 0,
+        "RoleExp": "",
+        "TeamRuleID": 20006,
+        "FirstDropID": [
+            1009
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ]
+        ],
+        "TaskPath": "TraningTask/TraningLevel06.TraningLevel06",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001016
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801000
+    },
+    {
+        "ID": 907,
+        "Type": 99,
+        "MapID": 907,
+        "FightID": 1,
+        "Condition": [
+            [
+                [
+                    2,
+                    11502
+                ]
+            ],
+            [
+                [
+                    2,
+                    10207
+                ]
+            ]
+        ],
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": "",
+        "PlayerExp": 0,
+        "RoleExp": "",
+        "TeamRuleID": 20007,
+        "FirstDropID": [
+            1009
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ]
+        ],
+        "TaskPath": "TraningTask/TraningLevel07.TraningLevel07",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": [
+            4001107
+        ],
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801000
+    },
+    {
+        "ID": 908,
+        "Type": 99,
+        "MapID": 908,
+        "FightID": 1,
+        "Condition": [
+            [
+                [
+                    2,
+                    11502
+                ]
+            ],
+            [
+                [
+                    2,
+                    10506
+                ]
+            ]
+        ],
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 1,
+        "AgainFight": 1,
+        "NextID": "",
+        "PlayerExp": 0,
+        "RoleExp": "",
+        "TeamRuleID": 20006,
+        "FirstDropID": [
+            1009
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ExtraDropID": "",
+        "RankDropID": "",
+        "ActivityConsumeVigor": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ]
+        ],
+        "TaskPath": "TraningTask/TraningLevel08.TraningLevel08",
+        "Guarantee": "",
+        "RareDrop": "",
+        "Monster": "",
+        "ShowListType": 0,
+        "LevelStrength": 3,
+        "PictureLevel": 1801000
+    }
+]

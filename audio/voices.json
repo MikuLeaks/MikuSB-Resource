@@ -1,0 +1,2353 @@
+[
+    {
+        "ID": "skill01",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 30
+    },
+    {
+        "ID": "skill02",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 30
+    },
+    {
+        "ID": "skill03",
+        "Rate": 1,
+        "Priority": 12,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill03a_1",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill03a_1",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill03a_2",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill03a_3",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill03a_4",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill03a_5"
+    },
+    {
+        "ID": "skill03a_6"
+    },
+    {
+        "ID": "skill03a_7",
+        "Rate": 0.75,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 30
+    },
+    {
+        "ID": "skill03a_8",
+        "Rate": 0.75,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 30
+    },
+    {
+        "ID": "skill03a_9",
+        "Rate": 0.75,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 30
+    },
+    {
+        "ID": "skill03a_10",
+        "Rate": 0.75,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 30
+    },
+    {
+        "ID": "skill03a_11",
+        "Rate": 0.75,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 30
+    },
+    {
+        "ID": "skill03a_32",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 30
+    },
+    {
+        "ID": "skill03a_33",
+        "Rate": 0.7,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 10
+    },
+    {
+        "ID": "skill03a_34",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill03b_34",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill03c_34",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill03d_34",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill03a_35",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill03a_36",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill03b_36",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skill04",
+        "Rate": 1,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill04_01",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "skill04b_35",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "skill04a_35",
+        "Rate": 1,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill01a_2",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skill01a_3",
+        "Rate": 1,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 30
+    },
+    {
+        "ID": "skill01a_4",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skill01a_5",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skill01a_6",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skill01a_7",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "skill01a_8",
+        "Rate": 1,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill01a_9",
+        "Rate": 1,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill01a_10",
+        "Rate": 1,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill01a_11",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skill01a_12",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skill01a_13",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skill01a_14",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skill01a_15",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skill01a_16",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skill01a_17",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skill01a_18",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skill01a_19",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skill01a_20",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skill01a_21",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skill01a_22",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skil01a_23",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skil01a_24",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skil01a_25",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skil01a_26",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skill01a_31",
+        "Rate": 0.65,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 30
+    },
+    {
+        "ID": "skill01b_31",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 30
+    },
+    {
+        "ID": "skill01a_32",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "skill01b_32",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "skill01a_33",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 10
+    },
+    {
+        "ID": "skill01b_33",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 10
+    },
+    {
+        "ID": "skill01c_33",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 10
+    },
+    {
+        "ID": "skill01a_34",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill01b_34",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill01c_34",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill01d_34",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "skill01e_34",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "skill01f_34",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "skill01a_35",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 30
+    },
+    {
+        "ID": "skill01b_35",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 30
+    },
+    {
+        "ID": "skill01c_35",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "skill01a_36",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "skill01b_36",
+        "Rate": 1,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill01c_36",
+        "Rate": 1,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "skill01d_36",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "skill01a_0",
+        "Rate": 1,
+        "Priority": 7,
+        "Interrupt": 0,
+        "CD": 30
+    },
+    {
+        "ID": "skill01a_1",
+        "Rate": 1,
+        "Priority": 7,
+        "Interrupt": 0,
+        "CD": 30
+    },
+    {
+        "ID": "skill01b_0",
+        "Rate": 0.65,
+        "Priority": 7,
+        "Interrupt": 0,
+        "CD": 15
+    },
+    {
+        "ID": "skill01b_1",
+        "Rate": 0.65,
+        "Priority": 7,
+        "Interrupt": 0,
+        "CD": 15
+    },
+    {
+        "ID": "skill01c_0",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 30
+    },
+    {
+        "ID": "skillshow01",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 30
+    },
+    {
+        "ID": "girlrush01",
+        "Rate": 1,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "girlrush02",
+        "Rate": 1,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "girlrush03",
+        "Rate": 0.7,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 15
+    },
+    {
+        "ID": "skillshow02",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 30
+    },
+    {
+        "ID": "skillshow03",
+        "Rate": 0.75,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 30
+    },
+    {
+        "ID": "enterlevel",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "win",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikienterlevel1",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikienterlevel2",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikiwin1",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikiwin2",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikigacha",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikimain001",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikimain002",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikimain003",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikimain101",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikimain201",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikiexchange1",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikiexchange2",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikitaskfinish1",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikitaskfinish2",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikiwavelittle",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikiskill04",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikiskill03",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikiskill041",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikiskill042",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikiskill031",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "rikiskill032",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "lose",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "giveup",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "openbox",
+        "Rate": 1,
+        "Priority": 4,
+        "Interrupt": 1,
+        "CD": 60
+    },
+    {
+        "ID": "killmonster001",
+        "Rate": 0.2,
+        "Priority": 4,
+        "Interrupt": 0,
+        "CD": 20
+    },
+    {
+        "ID": "killmonster002",
+        "Rate": 1,
+        "Priority": 4,
+        "Interrupt": 0,
+        "CD": 20
+    },
+    {
+        "ID": "killmonster003",
+        "Rate": 1,
+        "Priority": 12,
+        "Interrupt": 0,
+        "CD": 12
+    },
+    {
+        "ID": "getHPpack",
+        "Rate": 1,
+        "Priority": 2,
+        "Interrupt": 0,
+        "CD": 3
+    },
+    {
+        "ID": "getCDpack",
+        "Rate": 1,
+        "Priority": 2,
+        "Interrupt": 0,
+        "CD": 3
+    },
+    {
+        "ID": "getCoin",
+        "Rate": 0.35,
+        "Priority": 7,
+        "Interrupt": 0,
+        "CD": 35
+    },
+    {
+        "ID": "level01",
+        "Rate": 1,
+        "Priority": 1,
+        "Interrupt": 0,
+        "CD": 0
+    },
+    {
+        "ID": "level02",
+        "Rate": 1,
+        "Priority": 1,
+        "Interrupt": 0,
+        "CD": 0
+    },
+    {
+        "ID": "LevelUp",
+        "Rate": 1,
+        "Priority": 6,
+        "Interrupt": 0,
+        "CD": 0
+    },
+    {
+        "ID": "hurt001",
+        "Rate": 1,
+        "Priority": 9,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "hurt002",
+        "Rate": 1,
+        "Priority": 9,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "hurt003",
+        "Rate": 1,
+        "Priority": 9,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "hurt004",
+        "Rate": 1,
+        "Priority": 9,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "exchange",
+        "Rate": 1,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "reload",
+        "Rate": 0.2,
+        "Priority": 7,
+        "Interrupt": 0,
+        "CD": 45
+    },
+    {
+        "ID": "overload",
+        "Rate": 1,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "touch",
+        "Rate": 1,
+        "Priority": 7,
+        "Interrupt": 1,
+        "CD": 60
+    },
+    {
+        "ID": "taskfinish",
+        "Rate": 0.5,
+        "Priority": 8,
+        "Interrupt": 1,
+        "CD": 60
+    },
+    {
+        "ID": "EntryShop",
+        "Rate": 0.5,
+        "Priority": 1,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "ExitShop",
+        "Rate": 0.5,
+        "Priority": 1,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "PaySuccess",
+        "Rate": 0.5,
+        "Priority": 1,
+        "Interrupt": 1,
+        "CD": 90
+    },
+    {
+        "ID": "repel",
+        "Rate": 0.6,
+        "Priority": 9,
+        "Interrupt": 1,
+        "CD": 2
+    },
+    {
+        "ID": "float",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 2
+    },
+    {
+        "ID": "main001",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main002",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main003",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main099",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main101",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main102",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main103",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main104",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main201",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main202",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main203",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main204",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "wavelittle",
+        "Rate": 0.5,
+        "Priority": 5,
+        "Interrupt": 1,
+        "CD": 30
+    },
+    {
+        "ID": "wavemany",
+        "Rate": 0.8,
+        "Priority": 5,
+        "Interrupt": 1,
+        "CD": 30
+    },
+    {
+        "ID": "gacha",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "Cast01",
+        "Rate": 0.8,
+        "Priority": 5,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "Cast02",
+        "Rate": 0.8,
+        "Priority": 5,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "Cast03",
+        "Rate": 0.8,
+        "Priority": 5,
+        "Interrupt": 1,
+        "CD": 5
+    },
+    {
+        "ID": "ar001",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "ar002",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main700",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main700_01",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main700_02",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main700_03",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main700_04",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main700_05",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main701",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main701_01",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main701_02",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main701_03",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main701_04",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main701_05",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main701_06",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main701_07",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main701_08",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main701_09",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main702",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main702_01",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main702_02",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main703",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main703_01",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main703_02",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main703_03",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main703_04",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main704",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main704_01",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main704_02",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main704_03",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main704_04",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main705",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main706",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main707",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main708",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main709",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main710",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main711",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main712",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main713",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main714",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main715",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main716",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main717",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main718",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main719",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main720",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main721",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main722",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main723",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main724",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main725",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main726",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main727",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main728",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main729",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main730",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main731",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main732",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main733",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main734",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main735",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main736",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main737",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main738",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main739",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main740",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main741",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main742",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main743",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main744",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main745",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main746",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main747",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main748",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main749",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main750",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main751",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main752",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main753",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main754",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main755",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main756",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main757",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main758",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main759",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main760",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main761",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main762",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main763",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main764",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main765",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main766",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main767",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main768",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main769",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main770",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main771",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main772",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main773",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main774",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main775",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main776",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main777",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main778",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main779",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main780",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main781",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main782",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main783",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main784",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main785",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main786",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main787",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main788",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main789",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main790",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main791",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main792",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main793",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main794",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main795",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main796",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main797",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main798",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main799",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main7401",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main7402",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main7403",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main7404",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main7405",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "main7406",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA101",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA102",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA103",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA104",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA105",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA106",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA107",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA108",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA109",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA110",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA111",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA112",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA113",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA201",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA202",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA203",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA204",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA205",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA206",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopAtoB",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopBtoA01",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopBtoA02",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA301",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA302",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA303",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA304",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA305",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA306",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopA307",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMhu5_101",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMhu5_102",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMhu5_201",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMhu30_101",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMhu1h_101",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMhu1h_102",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMhu12h_101",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMhu12h_102",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMhu12h_103",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMhu12h_104",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMclock01",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMclock02",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMclock03",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMclock04",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMclock05",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMclock06",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMclock07",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMclock08",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMclock09",
+        "Rate": 1,
+        "Priority": 11,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopB301",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopB302",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopB303",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopB304",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopB305",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    },
+    {
+        "ID": "CMloopB306",
+        "Rate": 1,
+        "Priority": 10,
+        "Interrupt": 1,
+        "CD": 0
+    }
+]

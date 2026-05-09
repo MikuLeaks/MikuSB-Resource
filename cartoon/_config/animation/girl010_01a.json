@@ -1,0 +1,91 @@
+[
+    {
+        "Id": 1,
+        "Explain": "站立",
+        "Type": "sequence",
+        "Name": "girl010_01a_house_stand01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_stand01.girl010_01a_house_stand01'"
+    },
+    {
+        "Id": 2,
+        "Explain": "感谢",
+        "Type": "sequence",
+        "Name": "girl010_01a_house_thank01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_thank01.girl010_01a_house_thank01'"
+    },
+    {
+        "Id": 3,
+        "Explain": "握拳开心",
+        "Type": "sequence",
+        "Name": "girl010_01a_house_dialogue_satisfy02",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_dialogue_satisfy02.girl010_01a_house_dialogue_satisfy02'"
+    },
+    {
+        "Id": 4,
+        "Explain": "惊讶",
+        "Type": "sequence",
+        "Name": "girl010_01a_house_dialogue_amaze",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_dialogue_amaze.girl010_01a_house_dialogue_amaze'"
+    },
+    {
+        "Id": 5,
+        "Explain": "拒绝",
+        "Type": "sequence",
+        "Name": "girl010_01a_house_dialogue_deny",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_dialogue_deny.girl010_01a_house_dialogue_deny'"
+    },
+    {
+        "Id": 6,
+        "Explain": "肯定",
+        "Type": "sequence",
+        "Name": "girl010_01a_house_dialogue_sure",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_dialogue_sure.girl010_01a_house_dialogue_sure'"
+    },
+    {
+        "Id": 7,
+        "Explain": "伸懒腰",
+        "Type": "sequence",
+        "Name": "girl010_01a_house_dialogue_depressed03",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_dialogue_depressed03.girl010_01a_house_dialogue_depressed03'"
+    },
+    {
+        "Id": 8,
+        "Explain": "打呵欠",
+        "Type": "sequence",
+        "Name": "girl010_01a_house_dialogue_depressed04",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_dialogue_depressed04.girl010_01a_house_dialogue_depressed04'"
+    },
+    {
+        "Id": 9,
+        "Explain": "思考-前",
+        "Type": "sequence",
+        "Name": "girl010_01a_house_dialogue_think_start",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_dialogue_think_start.girl010_01a_house_dialogue_think_start'"
+    },
+    {
+        "Id": 10,
+        "Explain": "思考-循环",
+        "Type": "sequence",
+        "Name": "girl010_01a_house_dialogue_think_loop",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_dialogue_think_loop.girl010_01a_house_dialogue_think_loop'"
+    },
+    {
+        "Id": 11,
+        "Explain": "思考-后",
+        "Type": "sequence",
+        "Name": "girl010_01a_house_dialogue_think_end",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl010_01a/Anim/house/girl010_01a_house_dialogue_think_end.girl010_01a_house_dialogue_think_end'"
+    },
+    {
+        "Id": 100,
+        "Explain": "一次思考",
+        "Type": "custom_seq",
+        "Name": "8;9;10"
+    },
+    {
+        "Id": 101,
+        "Explain": "思考循环",
+        "Type": "custom_loop_last",
+        "Name": "8;9"
+    }
+]

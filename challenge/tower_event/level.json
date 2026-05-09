@@ -1,0 +1,7820 @@
+[
+    {
+        "ID": 6001,
+        "Comments": "RealTower_002",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300059
+        ],
+        "MapID": 908,
+        "FightID": 1,
+        "Condition": "",
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001002
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6002,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "TraningTask/TraningLevel08.TraningLevel08"
+    },
+    {
+        "ID": 6002,
+        "Comments": "RealTower_001",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300064
+        ],
+        "MapID": 601,
+        "FightID": 1,
+        "Condition": {
+            "2": 6001
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001004,
+            44001005,
+            44001002,
+            44003003,
+            44001004,
+            5001001
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6003,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower001.RealTower001"
+    },
+    {
+        "ID": 6003,
+        "Comments": "RealTower_002",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300066
+        ],
+        "MapID": 602,
+        "FightID": 1,
+        "Condition": {
+            "2": 6002
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001103,
+            4001108,
+            400111201,
+            4001112,
+            4001102,
+            4001104
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6004,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower012.RealTower012"
+    },
+    {
+        "ID": 6004,
+        "Comments": "RealTower_004",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 604,
+        "FightID": 1,
+        "Condition": {
+            "2": 6003
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001005,
+            4002007,
+            4001002,
+            4001017,
+            5002010
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6005,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower004.RealTower004"
+    },
+    {
+        "ID": 6005,
+        "Comments": "RealTower_005",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300067,
+            8300065
+        ],
+        "MapID": 605,
+        "FightID": 1,
+        "Condition": "",
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4003003,
+            4002004,
+            4002013,
+            4001002,
+            4003006,
+            4003004,
+            4001004,
+            4001006,
+            4002002
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6006,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower005.RealTower005"
+    },
+    {
+        "ID": 6006,
+        "Comments": "RealTower_013",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300072
+        ],
+        "MapID": 613,
+        "FightID": 1,
+        "Condition": {
+            "2": 6005
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001211,
+            4001212,
+            400121102,
+            4001213,
+            400121302,
+            400121203,
+            5001203
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6007,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower021.RealTower021"
+    },
+    {
+        "ID": 6007,
+        "Comments": "RealTower_015",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300061
+        ],
+        "MapID": 615,
+        "FightID": 1,
+        "Condition": {
+            "2": 6006
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001212,
+            4001211,
+            400121302,
+            5001214
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6008,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower022.RealTower022"
+    },
+    {
+        "ID": 6008,
+        "Comments": "RealTower_009",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300067
+        ],
+        "MapID": 609,
+        "FightID": 1,
+        "Condition": {
+            "2": 6007
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4003103,
+            400110802,
+            4001112,
+            4001115,
+            400111401,
+            5001101
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6009,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower019.RealTower019"
+    },
+    {
+        "ID": 6009,
+        "Comments": "RealTower_008",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 608,
+        "FightID": 1,
+        "Condition": {
+            "2": 6008
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4002003,
+            4003004,
+            4001002,
+            4003006,
+            5002010
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6010,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower008.RealTower008"
+    },
+    {
+        "ID": 6010,
+        "Comments": "RealTower_010",
+        "Type": 1,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300062,
+            8300067
+        ],
+        "MapID": 610,
+        "FightID": 1,
+        "Condition": {
+            "2": 6005
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            6002003
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6011,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": 1804031,
+        "BossId": 6001003,
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower010.RealTower010"
+    },
+    {
+        "ID": 6011,
+        "Comments": "RealTower_012",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300059
+        ],
+        "MapID": 612,
+        "FightID": 1,
+        "Condition": {
+            "2": 6010
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001211,
+            4001212,
+            400121203,
+            4001213,
+            400121102,
+            5003208
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6017,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower028.RealTower028"
+    },
+    {
+        "ID": 6012,
+        "Comments": "RealTower_005",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300060
+        ],
+        "MapID": 605,
+        "FightID": 1,
+        "Condition": {
+            "2": 6011
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001103,
+            4001108,
+            400111201,
+            4002106,
+            400111401,
+            4001114,
+            4002102,
+            4001115
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6016,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower015.RealTower015"
+    },
+    {
+        "ID": 6013,
+        "Comments": "RealTower_013",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300074
+        ],
+        "MapID": 613,
+        "FightID": 1,
+        "Condition": {
+            "2": 6012
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001211,
+            4001212,
+            400121203,
+            4001213,
+            5001206
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6014,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower026.RealTower026"
+    },
+    {
+        "ID": 6014,
+        "Comments": "RealTower_015",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 615,
+        "FightID": 1,
+        "Condition": {
+            "2": 6013
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400121203,
+            4001211,
+            4001213,
+            5001205
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6015,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower027.RealTower027"
+    },
+    {
+        "ID": 6015,
+        "Comments": "RealTower_003",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300068,
+            8300074
+        ],
+        "MapID": 603,
+        "FightID": 1,
+        "Condition": "",
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001004,
+            4001005,
+            4001007,
+            4001015,
+            5001010
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6022,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower003.RealTower003"
+    },
+    {
+        "ID": 6016,
+        "Comments": "RealTower_006",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300068
+        ],
+        "MapID": 606,
+        "FightID": 1,
+        "Condition": {
+            "2": 6015
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4002003,
+            4003006,
+            4001007,
+            4009013,
+            4002004,
+            4001005,
+            4001002,
+            5002010,
+            4001003,
+            4003004,
+            4001006
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6012,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower006.RealTower006"
+    },
+    {
+        "ID": 6017,
+        "Comments": "RealTower_014",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300064
+        ],
+        "MapID": 614,
+        "FightID": 1,
+        "Condition": {
+            "2": 6016
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4003106,
+            4002103,
+            4001115,
+            400111401,
+            4001114,
+            400110601,
+            5001109
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6018,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower017.RealTower017"
+    },
+    {
+        "ID": 6018,
+        "Comments": "RealTower_015",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300067
+        ],
+        "MapID": 615,
+        "FightID": 1,
+        "Condition": {
+            "2": 6017
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001212,
+            4001211,
+            400121302,
+            400121203,
+            5001208
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6019,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower029.RealTower029"
+    },
+    {
+        "ID": 6019,
+        "Comments": "RealTower_009",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 609,
+        "FightID": 1,
+        "Condition": {
+            "2": 6018
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4003007,
+            4003006,
+            4001002,
+            4003016,
+            4003004,
+            5001010
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6020,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower009.RealTower009"
+    },
+    {
+        "ID": 6020,
+        "Comments": "RealTower_010",
+        "Type": 1,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300063,
+            8300059
+        ],
+        "MapID": 610,
+        "FightID": 1,
+        "Condition": {
+            "2": 6015
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            6002102
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6021,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": 1804033,
+        "BossId": 6001102,
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower020.RealTower020"
+    },
+    {
+        "ID": 6021,
+        "Comments": "RealTower_005",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300072
+        ],
+        "MapID": 605,
+        "FightID": 1,
+        "Condition": {
+            "2": 6020
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4003003,
+            4002004,
+            400201608,
+            4001002,
+            400100601,
+            4003004,
+            4001004,
+            4001006,
+            4003006
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6036,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower035.RealTower035"
+    },
+    {
+        "ID": 6022,
+        "Comments": "RealTower_008",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 608,
+        "FightID": 1,
+        "Condition": {
+            "2": 6021
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001108,
+            4003102,
+            4003106,
+            400110802,
+            4001114,
+            400110601,
+            4001115,
+            400111201,
+            5001111
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6023,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower018.RealTower018"
+    },
+    {
+        "ID": 6023,
+        "Comments": "RealTower_001",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300059
+        ],
+        "MapID": 601,
+        "FightID": 1,
+        "Condition": {
+            "2": 6022
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001004,
+            4001005,
+            4001002,
+            4003003,
+            400100403,
+            5001001,
+            400100304
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6024,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower011.RealTower011"
+    },
+    {
+        "ID": 6024,
+        "Comments": "RealTower_014",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 614,
+        "FightID": 1,
+        "Condition": {
+            "2": 6023
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001211,
+            4001212,
+            400121302,
+            400121102,
+            400121203,
+            5001214
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6025,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower023.RealTower023"
+    },
+    {
+        "ID": 6025,
+        "Comments": "RealTower_009",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065,
+            8300072
+        ],
+        "MapID": 609,
+        "FightID": 1,
+        "Condition": "",
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001211,
+            4001212,
+            400121302,
+            400121203,
+            4001213
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6026,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower025.RealTower025"
+    },
+    {
+        "ID": 6026,
+        "Comments": "RealTower_006",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300076
+        ],
+        "MapID": 606,
+        "FightID": 1,
+        "Condition": {
+            "2": 6025
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4002103,
+            4002106,
+            4003102,
+            400111201,
+            4001112,
+            4001108,
+            400110601,
+            4001115,
+            400110802,
+            4001104,
+            5001110
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6027,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower016.RealTower016"
+    },
+    {
+        "ID": 6027,
+        "Comments": "RealTower_003",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300064
+        ],
+        "MapID": 603,
+        "FightID": 1,
+        "Condition": {
+            "2": 6026
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4002103,
+            400111201,
+            4001112,
+            4001107,
+            500110902
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6028,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower013.RealTower013"
+    },
+    {
+        "ID": 6028,
+        "Comments": "RealTower_004",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300068
+        ],
+        "MapID": 604,
+        "FightID": 1,
+        "Condition": {
+            "2": 6027
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001107,
+            4002102,
+            400110802,
+            4001106,
+            400110201,
+            5001110
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6029,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower014.RealTower014"
+    },
+    {
+        "ID": 6029,
+        "Comments": "RealTower_012",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300059
+        ],
+        "MapID": 612,
+        "FightID": 1,
+        "Condition": {
+            "2": 6028
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001211,
+            4001212,
+            400121203,
+            400121302,
+            4001213,
+            5003208
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6030,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower024.RealTower024"
+    },
+    {
+        "ID": 6030,
+        "Comments": "RealTower_011",
+        "Type": 1,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300068,
+            8300064
+        ],
+        "MapID": 611,
+        "FightID": 1,
+        "Condition": {
+            "2": 6025
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            6003201
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6031,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": 1804035,
+        "BossId": 6001201,
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower030.RealTower030"
+    },
+    {
+        "ID": 6031,
+        "Comments": "RealTower_002",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300072
+        ],
+        "MapID": 602,
+        "FightID": 1,
+        "Condition": {
+            "2": 6030
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400100601,
+            4001005,
+            4001007,
+            4001017,
+            500201003
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6032,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower031.RealTower031"
+    },
+    {
+        "ID": 6032,
+        "Comments": "RealTower_001",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300071
+        ],
+        "MapID": 601,
+        "FightID": 1,
+        "Condition": {
+            "2": 6031
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400100403,
+            4001005,
+            4001002,
+            4003003,
+            4001004,
+            5001001
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6033,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower032.RealTower032"
+    },
+    {
+        "ID": 6033,
+        "Comments": "RealTower_002",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300067
+        ],
+        "MapID": 602,
+        "FightID": 1,
+        "Condition": {
+            "2": 6032
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001103,
+            4001108,
+            400111201,
+            4001112,
+            4001102,
+            4001104
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6034,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower033.RealTower033"
+    },
+    {
+        "ID": 6034,
+        "Comments": "RealTower_004",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 604,
+        "FightID": 1,
+        "Condition": {
+            "2": 6033
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001005,
+            4002007,
+            4001002,
+            4001017,
+            500201003
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6035,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower034.RealTower034"
+    },
+    {
+        "ID": 6035,
+        "Comments": "RealTower_013",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300075,
+            8300067
+        ],
+        "MapID": 613,
+        "FightID": 1,
+        "Condition": "",
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001211,
+            400121203,
+            4001212,
+            400121102,
+            4001213,
+            5001205
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6037,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower036.RealTower036"
+    },
+    {
+        "ID": 6036,
+        "Comments": "RealTower_007",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300071
+        ],
+        "MapID": 607,
+        "FightID": 1,
+        "Condition": {
+            "2": 6035
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            34003007,
+            34003006,
+            34001015,
+            35001001
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6013,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower007.RealTower007"
+    },
+    {
+        "ID": 6037,
+        "Comments": "RealTower_015",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300068
+        ],
+        "MapID": 615,
+        "FightID": 1,
+        "Condition": {
+            "2": 6036
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001212,
+            4001211,
+            400121302,
+            400121102,
+            5002208
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6038,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower037.RealTower037"
+    },
+    {
+        "ID": 6038,
+        "Comments": "RealTower_009",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300074
+        ],
+        "MapID": 609,
+        "FightID": 1,
+        "Condition": {
+            "2": 6037
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4003103,
+            400110802,
+            4001112,
+            4001115,
+            400111401,
+            4001108,
+            5001101
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6039,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower038.RealTower038"
+    },
+    {
+        "ID": 6039,
+        "Comments": "RealTower_008",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 608,
+        "FightID": 1,
+        "Condition": {
+            "2": 6038
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4002003,
+            4003004,
+            4001002,
+            400100601,
+            4003006,
+            400100304,
+            5002010
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6040,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower039.RealTower039"
+    },
+    {
+        "ID": 6040,
+        "Comments": "RealTower_010",
+        "Type": 1,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300069,
+            8300066
+        ],
+        "MapID": 610,
+        "FightID": 1,
+        "Condition": {
+            "2": 6035
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            6002002
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6041,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": 1804030,
+        "BossId": 6001002,
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower040.RealTower040"
+    },
+    {
+        "ID": 6041,
+        "Comments": "RealTower_006",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300072
+        ],
+        "MapID": 606,
+        "FightID": 1,
+        "Condition": {
+            "2": 6040
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4002003,
+            4003006,
+            4001007,
+            400901304,
+            4002004,
+            4001005,
+            4001002,
+            400100601,
+            4009013,
+            500201003,
+            4001003,
+            4003004,
+            5002010,
+            400100403,
+            4001006
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6042,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower041.RealTower041"
+    },
+    {
+        "ID": 6042,
+        "Comments": "RealTower_005",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 605,
+        "FightID": 1,
+        "Condition": {
+            "2": 6041
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001103,
+            4001108,
+            400111401,
+            4002106,
+            4001114,
+            4002102,
+            4001115,
+            4003103
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6046,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower045.RealTower045"
+    },
+    {
+        "ID": 6043,
+        "Comments": "RealTower_013",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300059
+        ],
+        "MapID": 613,
+        "FightID": 1,
+        "Condition": {
+            "2": 6042
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001211,
+            4001212,
+            400121102,
+            400121302,
+            400121203,
+            5001204
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6044,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower043.RealTower043"
+    },
+    {
+        "ID": 6044,
+        "Comments": "RealTower_015",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 615,
+        "FightID": 1,
+        "Condition": {
+            "2": 6043
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001212,
+            400121102,
+            4001213,
+            400121203,
+            5001205
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6045,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower044.RealTower044"
+    },
+    {
+        "ID": 6045,
+        "Comments": "RealTower_007",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300071,
+            8300079
+        ],
+        "MapID": 607,
+        "FightID": 1,
+        "Condition": "",
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            34003007,
+            400100403,
+            34003006,
+            400100802,
+            34001015,
+            400101607,
+            35001001,
+            400901304
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6043,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower042.RealTower042"
+    },
+    {
+        "ID": 6046,
+        "Comments": "RealTower_012",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300066
+        ],
+        "MapID": 612,
+        "FightID": 1,
+        "Condition": {
+            "2": 6045
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001211,
+            4001212,
+            400121203,
+            400121302,
+            4001213,
+            400121102,
+            5003208
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6047,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower046.RealTower046"
+    },
+    {
+        "ID": 6047,
+        "Comments": "RealTower_014",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300064
+        ],
+        "MapID": 614,
+        "FightID": 1,
+        "Condition": {
+            "2": 6046
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400110601,
+            4002103,
+            4001115,
+            4003106,
+            400111401,
+            4001114,
+            5001109
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6048,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower047.RealTower047"
+    },
+    {
+        "ID": 6048,
+        "Comments": "RealTower_015",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300068
+        ],
+        "MapID": 615,
+        "FightID": 1,
+        "Condition": {
+            "2": 6047
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001212,
+            4001211,
+            400121302,
+            400121203,
+            4001213,
+            5001206
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6049,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower048.RealTower048"
+    },
+    {
+        "ID": 6049,
+        "Comments": "RealTower_009",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300059
+        ],
+        "MapID": 609,
+        "FightID": 1,
+        "Condition": {
+            "2": 6048
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4003007,
+            400100601,
+            4001002,
+            4003016,
+            400100403,
+            500101002
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6050,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower049.RealTower049"
+    },
+    {
+        "ID": 6050,
+        "Comments": "RealTower_010",
+        "Type": 1,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300068,
+            8300059
+        ],
+        "MapID": 610,
+        "FightID": 1,
+        "Condition": {
+            "2": 6045
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            6003101
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6051,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": 1804032,
+        "BossId": 6001101,
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower050.RealTower050"
+    },
+    {
+        "ID": 6051,
+        "Comments": "RealTower_002",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300059
+        ],
+        "MapID": 602,
+        "FightID": 1,
+        "Condition": {
+            "2": 6050
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400100601,
+            4001005,
+            4001007,
+            4001017,
+            500201003
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6052,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower051.RealTower051"
+    },
+    {
+        "ID": 6052,
+        "Comments": "RealTower_001",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300060
+        ],
+        "MapID": 601,
+        "FightID": 1,
+        "Condition": {
+            "2": 6051
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400100403,
+            4001005,
+            4001002,
+            4001004,
+            5001001,
+            400100304
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6053,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower052.RealTower052"
+    },
+    {
+        "ID": 6053,
+        "Comments": "RealTower_002",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300066
+        ],
+        "MapID": 602,
+        "FightID": 1,
+        "Condition": {
+            "2": 6052
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001103,
+            4001108,
+            400111401,
+            4001112,
+            400110201,
+            400111201,
+            400110401
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6054,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower053.RealTower053"
+    },
+    {
+        "ID": 6054,
+        "Comments": "RealTower_005",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 605,
+        "FightID": 1,
+        "Condition": {
+            "2": 6053
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4003003,
+            4002004,
+            400201608,
+            400100304,
+            4001002,
+            4003006,
+            4003004,
+            4001004,
+            400100601,
+            4003007
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6056,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower055.RealTower055"
+    },
+    {
+        "ID": 6055,
+        "Comments": "RealTower_004",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300068,
+            8300080
+        ],
+        "MapID": 604,
+        "FightID": 1,
+        "Condition": "",
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001005,
+            400100601,
+            4001002,
+            4001017,
+            4002007,
+            500201003
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6055,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower054.RealTower054"
+    },
+    {
+        "ID": 6056,
+        "Comments": "RealTower_013",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300072
+        ],
+        "MapID": 613,
+        "FightID": 1,
+        "Condition": {
+            "2": 6055
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001211,
+            400121203,
+            4001212,
+            400121302,
+            5001209
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6057,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower056.RealTower056"
+    },
+    {
+        "ID": 6057,
+        "Comments": "RealTower_015",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300061
+        ],
+        "MapID": 615,
+        "FightID": 1,
+        "Condition": {
+            "2": 6056
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001212,
+            4001211,
+            400121302,
+            400121203,
+            5001205
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6058,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower057.RealTower057"
+    },
+    {
+        "ID": 6058,
+        "Comments": "RealTower_009",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300067
+        ],
+        "MapID": 609,
+        "FightID": 1,
+        "Condition": {
+            "2": 6057
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4003103,
+            400110802,
+            4001112,
+            4001115,
+            4001114,
+            400111201,
+            400111401,
+            5001101
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6059,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower058.RealTower058"
+    },
+    {
+        "ID": 6059,
+        "Comments": "RealTower_008",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 608,
+        "FightID": 1,
+        "Condition": {
+            "2": 6058
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4002003,
+            400100403,
+            4001002,
+            4003006,
+            4003004,
+            400100601,
+            400100304,
+            500201003
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6060,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower059.RealTower059"
+    },
+    {
+        "ID": 6060,
+        "Comments": "RealTower_010",
+        "Type": 1,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300063,
+            8300077
+        ],
+        "MapID": 610,
+        "FightID": 1,
+        "Condition": {
+            "2": 6055
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            6002005
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6061,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": 1804037,
+        "BossId": 6001005,
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower060.RealTower060"
+    },
+    {
+        "ID": 6061,
+        "Comments": "RealTower_006",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300062
+        ],
+        "MapID": 606,
+        "FightID": 1,
+        "Condition": {
+            "2": 6060
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4002003,
+            400100601,
+            4001007,
+            400901304,
+            4002004,
+            400100403,
+            4009013,
+            4001005,
+            4001002,
+            5002010,
+            400101504,
+            400100304,
+            4001006,
+            4003006,
+            4001003,
+            4003004
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6062,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower061.RealTower061"
+    },
+    {
+        "ID": 6062,
+        "Comments": "RealTower_007",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300060
+        ],
+        "MapID": 607,
+        "FightID": 1,
+        "Condition": {
+            "2": 6061
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            34003007,
+            34003006,
+            34001015,
+            35001001
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6063,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower062.RealTower062"
+    },
+    {
+        "ID": 6063,
+        "Comments": "RealTower_013",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300074
+        ],
+        "MapID": 613,
+        "FightID": 1,
+        "Condition": {
+            "2": 6062
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400121102,
+            4001212,
+            4001213,
+            4001211,
+            400121203,
+            5003208
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6064,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower063.RealTower063"
+    },
+    {
+        "ID": 6064,
+        "Comments": "RealTower_015",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 615,
+        "FightID": 1,
+        "Condition": {
+            "2": 6063
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001212,
+            4001211,
+            4001213,
+            400121203,
+            400121102,
+            5001205
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6065,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower064.RealTower064"
+    },
+    {
+        "ID": 6065,
+        "Comments": "RealTower_012",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300069,
+            8300071
+        ],
+        "MapID": 612,
+        "FightID": 1,
+        "Condition": "",
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001211,
+            4001212,
+            400121203,
+            400121302,
+            4001213,
+            5003208
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6067,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower066.RealTower066"
+    },
+    {
+        "ID": 6066,
+        "Comments": "RealTower_005",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300059
+        ],
+        "MapID": 605,
+        "FightID": 1,
+        "Condition": {
+            "2": 6065
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001103,
+            4001108,
+            400111201,
+            4002106,
+            400110601,
+            4001114,
+            4002102,
+            400111401,
+            4001115,
+            4003102
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6066,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower065.RealTower065"
+    },
+    {
+        "ID": 6067,
+        "Comments": "RealTower_014",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300064
+        ],
+        "MapID": 614,
+        "FightID": 1,
+        "Condition": {
+            "2": 6066
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400110601,
+            4002103,
+            4001115,
+            400111401,
+            4003106,
+            5001109
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6068,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower067.RealTower067"
+    },
+    {
+        "ID": 6068,
+        "Comments": "RealTower_015",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300067
+        ],
+        "MapID": 615,
+        "FightID": 1,
+        "Condition": {
+            "2": 6067
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001212,
+            4001211,
+            400121102,
+            400121302,
+            400121203,
+            5001204
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6069,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower068.RealTower068"
+    },
+    {
+        "ID": 6069,
+        "Comments": "RealTower_009",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 609,
+        "FightID": 1,
+        "Condition": {
+            "2": 6068
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4003007,
+            400100601,
+            4001002,
+            400301609,
+            400100403,
+            4003016,
+            5001010
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6070,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower069.RealTower069"
+    },
+    {
+        "ID": 6070,
+        "Comments": "RealTower_010",
+        "Type": 1,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300082,
+            8300078
+        ],
+        "MapID": 610,
+        "FightID": 1,
+        "Condition": {
+            "2": 6065
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            6002103
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6071,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": 1804034,
+        "BossId": 6001103,
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower070.RealTower070"
+    },
+    {
+        "ID": 6071,
+        "Comments": "RealTower_003",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300062
+        ],
+        "MapID": 603,
+        "FightID": 1,
+        "Condition": {
+            "2": 6070
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001004,
+            400100403,
+            4001005,
+            4001007,
+            400101504,
+            4001015,
+            500101002
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6072,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower071.RealTower071"
+    },
+    {
+        "ID": 6072,
+        "Comments": "RealTower_008",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300068
+        ],
+        "MapID": 608,
+        "FightID": 1,
+        "Condition": {
+            "2": 6071
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001108,
+            4003102,
+            4003106,
+            400110802,
+            4001114,
+            400110601,
+            4001115,
+            4001112,
+            5001111
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6073,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower072.RealTower072"
+    },
+    {
+        "ID": 6073,
+        "Comments": "RealTower_001",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300061
+        ],
+        "MapID": 601,
+        "FightID": 1,
+        "Condition": {
+            "2": 6072
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001004,
+            4001005,
+            4001002,
+            400100304,
+            5001001,
+            400100403
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6074,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower073.RealTower073"
+    },
+    {
+        "ID": 6074,
+        "Comments": "RealTower_014",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 614,
+        "FightID": 1,
+        "Condition": {
+            "2": 6073
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001211,
+            400121203,
+            400121102,
+            4001213,
+            4001212,
+            5001214
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6075,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower074.RealTower074"
+    },
+    {
+        "ID": 6075,
+        "Comments": "RealTower_006",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300068,
+            8300072
+        ],
+        "MapID": 606,
+        "FightID": 1,
+        "Condition": "",
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4002103,
+            4002106,
+            4003102,
+            400111201,
+            4001112,
+            4001108,
+            400110601,
+            4001115,
+            4001104,
+            5001110
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6077,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower076.RealTower076"
+    },
+    {
+        "ID": 6076,
+        "Comments": "RealTower_009",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300074
+        ],
+        "MapID": 609,
+        "FightID": 1,
+        "Condition": {
+            "2": 6075
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001211,
+            4001212,
+            400121102,
+            4001213,
+            400121203,
+            400121302
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6076,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower075.RealTower075"
+    },
+    {
+        "ID": 6077,
+        "Comments": "RealTower_003",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 603,
+        "FightID": 1,
+        "Condition": {
+            "2": 6076
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4002103,
+            400110601,
+            4001112,
+            4001107,
+            400111201,
+            4001103,
+            500110902
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6078,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower077.RealTower077"
+    },
+    {
+        "ID": 6078,
+        "Comments": "RealTower_004",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300059
+        ],
+        "MapID": 604,
+        "FightID": 1,
+        "Condition": {
+            "2": 6077
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001107,
+            4002102,
+            400110802,
+            400110601,
+            4001108,
+            5001110,
+            400110201
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6079,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower078.RealTower078"
+    },
+    {
+        "ID": 6079,
+        "Comments": "RealTower_012",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 612,
+        "FightID": 1,
+        "Condition": {
+            "2": 6078
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400121102,
+            4001212,
+            4001213,
+            400121203,
+            4001211,
+            400121302,
+            5003208
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6080,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower079.RealTower079"
+    },
+    {
+        "ID": 6080,
+        "Comments": "RealTower_011",
+        "Type": 1,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065,
+            8300072
+        ],
+        "MapID": 611,
+        "FightID": 1,
+        "Condition": {
+            "2": 6075
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            6003201
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6081,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": 1804035,
+        "BossId": 6001201,
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower080.RealTower080"
+    },
+    {
+        "ID": 6081,
+        "Comments": "RealTower_002",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300079
+        ],
+        "MapID": 602,
+        "FightID": 1,
+        "Condition": {
+            "2": 6080
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400100601,
+            4001005,
+            4001007,
+            4001017,
+            500201003
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6082,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower081.RealTower081"
+    },
+    {
+        "ID": 6082,
+        "Comments": "RealTower_005",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300061
+        ],
+        "MapID": 605,
+        "FightID": 1,
+        "Condition": {
+            "2": 6081
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4003003,
+            400100403,
+            4002013,
+            4001002,
+            400100601,
+            4003004,
+            400100304
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6086,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower085.RealTower085"
+    },
+    {
+        "ID": 6083,
+        "Comments": "RealTower_002",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 602,
+        "FightID": 1,
+        "Condition": {
+            "2": 6082
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001103,
+            400110802,
+            400111201,
+            4001112,
+            4001108,
+            4001102,
+            400110401
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6084,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower083.RealTower083"
+    },
+    {
+        "ID": 6084,
+        "Comments": "RealTower_004",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300076
+        ],
+        "MapID": 604,
+        "FightID": 1,
+        "Condition": {
+            "2": 6083
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001005,
+            4002007,
+            4001002,
+            4001017,
+            400100601,
+            500201003
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6085,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower084.RealTower084"
+    },
+    {
+        "ID": 6085,
+        "Comments": "RealTower_001",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300066,
+            8300077
+        ],
+        "MapID": 601,
+        "FightID": 1,
+        "Condition": "",
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400100403,
+            4001005,
+            4001002,
+            400100304,
+            4001004,
+            5001001
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6083,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower082.RealTower082"
+    },
+    {
+        "ID": 6086,
+        "Comments": "RealTower_013",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 613,
+        "FightID": 1,
+        "Condition": {
+            "2": 6085
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400121102,
+            4001212,
+            4001211,
+            4001213,
+            400121203,
+            5002208
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6087,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower086.RealTower086"
+    },
+    {
+        "ID": 6087,
+        "Comments": "RealTower_015",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300066
+        ],
+        "MapID": 615,
+        "FightID": 1,
+        "Condition": {
+            "2": 6086
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400121203,
+            4001211,
+            4001213,
+            400121302,
+            4001212,
+            400121102,
+            5001209
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6088,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower087.RealTower087"
+    },
+    {
+        "ID": 6088,
+        "Comments": "RealTower_009",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300074
+        ],
+        "MapID": 609,
+        "FightID": 1,
+        "Condition": {
+            "2": 6087
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4003103,
+            400110802,
+            400111201,
+            4001115,
+            400111401,
+            5001101
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6089,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower088.RealTower088"
+    },
+    {
+        "ID": 6089,
+        "Comments": "RealTower_008",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300075
+        ],
+        "MapID": 608,
+        "FightID": 1,
+        "Condition": {
+            "2": 6088
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400100304,
+            4003004,
+            4001002,
+            400100601,
+            400100403,
+            4003006,
+            4002003,
+            500201003
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6090,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower089.RealTower089"
+    },
+    {
+        "ID": 6090,
+        "Comments": "RealTower_010",
+        "Type": 1,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300068,
+            8300075
+        ],
+        "MapID": 610,
+        "FightID": 1,
+        "Condition": {
+            "2": 6085
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            6002003
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6091,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": 1804031,
+        "BossId": 6001003,
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower090.RealTower090"
+    },
+    {
+        "ID": 6091,
+        "Comments": "RealTower_006",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300063
+        ],
+        "MapID": 606,
+        "FightID": 1,
+        "Condition": {
+            "2": 6090
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4002003,
+            400100601,
+            4001007,
+            400901304,
+            4002004,
+            400100403,
+            4001005,
+            4001002,
+            4003006,
+            4009013,
+            400101504,
+            400100304,
+            500201003,
+            4001003,
+            4001006,
+            5002010,
+            4003004
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6092,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower091.RealTower091"
+    },
+    {
+        "ID": 6092,
+        "Comments": "RealTower_005",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300072
+        ],
+        "MapID": 605,
+        "FightID": 1,
+        "Condition": {
+            "2": 6091
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001103,
+            400110802,
+            400111201,
+            4002106,
+            400111401,
+            4001114,
+            400110201,
+            4001115,
+            400110601
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6096,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower095.RealTower095"
+    },
+    {
+        "ID": 6093,
+        "Comments": "RealTower_013",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 613,
+        "FightID": 1,
+        "Condition": {
+            "2": 6092
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001211,
+            400121203,
+            4001213,
+            5001208
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6094,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower093.RealTower093"
+    },
+    {
+        "ID": 6094,
+        "Comments": "RealTower_015",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300074
+        ],
+        "MapID": 615,
+        "FightID": 1,
+        "Condition": {
+            "2": 6093
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001212,
+            4001211,
+            4001213,
+            400121203,
+            400121102,
+            400121302,
+            5001205
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6095,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower094.RealTower094"
+    },
+    {
+        "ID": 6095,
+        "Comments": "RealTower_007",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300074,
+            8300080
+        ],
+        "MapID": 607,
+        "FightID": 1,
+        "Condition": "",
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            34003007,
+            400100403,
+            34003006,
+            400100802,
+            34001015,
+            400101607,
+            35001001,
+            400901304
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6093,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower092.RealTower092"
+    },
+    {
+        "ID": 6096,
+        "Comments": "RealTower_012",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300077
+        ],
+        "MapID": 612,
+        "FightID": 1,
+        "Condition": {
+            "2": 6095
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001211,
+            400121203,
+            400121302,
+            4001212,
+            4001213,
+            5003208
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6097,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower096.RealTower096"
+    },
+    {
+        "ID": 6097,
+        "Comments": "RealTower_014",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300074
+        ],
+        "MapID": 614,
+        "FightID": 1,
+        "Condition": {
+            "2": 6096
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400110601,
+            4002103,
+            4001115,
+            400111401,
+            4003106,
+            4001114,
+            5001109
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6098,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower097.RealTower097"
+    },
+    {
+        "ID": 6098,
+        "Comments": "RealTower_015",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300081
+        ],
+        "MapID": 615,
+        "FightID": 1,
+        "Condition": {
+            "2": 6097
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400121203,
+            4001211,
+            400121302,
+            5003208
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6099,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower098.RealTower098"
+    },
+    {
+        "ID": 6099,
+        "Comments": "RealTower_009",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300075
+        ],
+        "MapID": 609,
+        "FightID": 1,
+        "Condition": {
+            "2": 6098
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4003007,
+            400100601,
+            4001002,
+            400301609,
+            400100403,
+            4003016,
+            500101002
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6100,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower099.RealTower099"
+    },
+    {
+        "ID": 6100,
+        "Comments": "RealTower_010",
+        "Type": 1,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300076,
+            8300067
+        ],
+        "MapID": 610,
+        "FightID": 1,
+        "Condition": {
+            "2": 6095
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            6002102
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6101,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": 1804033,
+        "BossId": 6001102,
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower100.RealTower100"
+    },
+    {
+        "ID": 6101,
+        "Comments": "RealTower_002",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300080
+        ],
+        "MapID": 602,
+        "FightID": 1,
+        "Condition": {
+            "2": 6100
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400100601,
+            4001005,
+            4001007,
+            4001017,
+            500201003
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6102,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower101.RealTower101"
+    },
+    {
+        "ID": 6102,
+        "Comments": "RealTower_001",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300077
+        ],
+        "MapID": 601,
+        "FightID": 1,
+        "Condition": {
+            "2": 6101
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400100403,
+            4001005,
+            4001002,
+            400100304,
+            5001001
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6103,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower102.RealTower102"
+    },
+    {
+        "ID": 6103,
+        "Comments": "RealTower_002",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 602,
+        "FightID": 1,
+        "Condition": {
+            "2": 6102
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001103,
+            400110802,
+            400111201,
+            4001112,
+            4001108,
+            400110201,
+            400110401
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6104,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower103.RealTower103"
+    },
+    {
+        "ID": 6104,
+        "Comments": "RealTower_004",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300077
+        ],
+        "MapID": 604,
+        "FightID": 1,
+        "Condition": {
+            "2": 6103
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001005,
+            400100403,
+            4001002,
+            4001017,
+            4002007,
+            400100601,
+            500201003
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6105,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower104.RealTower104"
+    },
+    {
+        "ID": 6105,
+        "Comments": "RealTower_006",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300068,
+            8300060
+        ],
+        "MapID": 606,
+        "FightID": 1,
+        "Condition": "",
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400100304,
+            4003006,
+            4001007,
+            4009013,
+            4002004,
+            400100403,
+            4001005,
+            4001002,
+            5002010,
+            400901304,
+            4001003,
+            4001006,
+            500201003
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6112,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower111.RealTower111"
+    },
+    {
+        "ID": 6106,
+        "Comments": "RealTower_013",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300079
+        ],
+        "MapID": 613,
+        "FightID": 1,
+        "Condition": {
+            "2": 6105
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001211,
+            400121203,
+            400121102,
+            4001213,
+            5001207
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6107,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower106.RealTower106"
+    },
+    {
+        "ID": 6107,
+        "Comments": "RealTower_015",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300081
+        ],
+        "MapID": 615,
+        "FightID": 1,
+        "Condition": {
+            "2": 6106
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400121203,
+            4001211,
+            400121302,
+            5001207
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6108,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower107.RealTower107"
+    },
+    {
+        "ID": 6108,
+        "Comments": "RealTower_009",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300074
+        ],
+        "MapID": 609,
+        "FightID": 1,
+        "Condition": {
+            "2": 6107
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4003103,
+            400110802,
+            400111201,
+            4001115,
+            400111401,
+            4001112,
+            5001101
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6109,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower108.RealTower108"
+    },
+    {
+        "ID": 6109,
+        "Comments": "RealTower_005",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300078
+        ],
+        "MapID": 605,
+        "FightID": 1,
+        "Condition": {
+            "2": 6108
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001103,
+            400110802,
+            400110601,
+            4002106,
+            4001114,
+            400111401,
+            400110201,
+            4001115,
+            400111201
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6116,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower115.RealTower115"
+    },
+    {
+        "ID": 6110,
+        "Comments": "RealTower_010",
+        "Type": 1,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300075,
+            8300059
+        ],
+        "MapID": 610,
+        "FightID": 1,
+        "Condition": {
+            "2": 6105
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            6002002
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6111,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": 1804030,
+        "BossId": 6001002,
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower110.RealTower110"
+    },
+    {
+        "ID": 6111,
+        "Comments": "RealTower_005",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300062
+        ],
+        "MapID": 605,
+        "FightID": 1,
+        "Condition": {
+            "2": 6110
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4003003,
+            400100403,
+            4002013,
+            400100304,
+            4001002,
+            400100601,
+            4003004,
+            4001017
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6106,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower105.RealTower105"
+    },
+    {
+        "ID": 6112,
+        "Comments": "RealTower_007",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300075
+        ],
+        "MapID": 607,
+        "FightID": 1,
+        "Condition": {
+            "2": 6111
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            34003007,
+            400100403,
+            34003006,
+            400100802,
+            34001015,
+            400101607,
+            35001001,
+            400901304
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6113,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower112.RealTower112"
+    },
+    {
+        "ID": 6113,
+        "Comments": "RealTower_013",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300074
+        ],
+        "MapID": 613,
+        "FightID": 1,
+        "Condition": {
+            "2": 6112
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400121102,
+            400121203,
+            4001212,
+            4001213,
+            4001211,
+            5001214
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6114,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower113.RealTower113"
+    },
+    {
+        "ID": 6114,
+        "Comments": "RealTower_015",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300075
+        ],
+        "MapID": 615,
+        "FightID": 1,
+        "Condition": {
+            "2": 6113
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4001212,
+            4001213,
+            4001211,
+            400121203,
+            400121102,
+            400121302,
+            5001205
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6115,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower114.RealTower114"
+    },
+    {
+        "ID": 6115,
+        "Comments": "RealTower_008",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300072,
+            8300074
+        ],
+        "MapID": 608,
+        "FightID": 1,
+        "Condition": "",
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4002003,
+            400100403,
+            4001002,
+            400100601,
+            4003006,
+            4003004,
+            400100304,
+            500201003
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6110,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower109.RealTower109"
+    },
+    {
+        "ID": 6116,
+        "Comments": "RealTower_012",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300079
+        ],
+        "MapID": 612,
+        "FightID": 1,
+        "Condition": {
+            "2": 6115
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400121102,
+            400121203,
+            4001212,
+            4001213,
+            5003208
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6117,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower116.RealTower116"
+    },
+    {
+        "ID": 6117,
+        "Comments": "RealTower_014",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300081
+        ],
+        "MapID": 614,
+        "FightID": 1,
+        "Condition": {
+            "2": 6116
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400110601,
+            4002103,
+            4001115,
+            400111401,
+            5001109
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6118,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower117.RealTower117"
+    },
+    {
+        "ID": 6118,
+        "Comments": "RealTower_015",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300065
+        ],
+        "MapID": 615,
+        "FightID": 1,
+        "Condition": {
+            "2": 6117
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            400121203,
+            400121102,
+            4001213,
+            5001203
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6119,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower118.RealTower118"
+    },
+    {
+        "ID": 6119,
+        "Comments": "RealTower_009",
+        "Type": 0,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300076
+        ],
+        "MapID": 609,
+        "FightID": 1,
+        "Condition": {
+            "2": 6118
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            4003007,
+            400100601,
+            4001002,
+            4003016,
+            400100403,
+            400301609,
+            500101002
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6120,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": "",
+        "BossId": "",
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower119.RealTower119"
+    },
+    {
+        "ID": 6120,
+        "Comments": "RealTower_010",
+        "Type": 1,
+        "BuffOnlyAddToPlayer": 1,
+        "BuffID": [
+            8300074,
+            8300082
+        ],
+        "MapID": 610,
+        "FightID": 1,
+        "Condition": {
+            "2": 6115
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Monster": [
+            6003101
+        ],
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 6121,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "StarAward": [],
+        "FirstDropID": [
+            6003
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureBoss": 1804032,
+        "BossId": 6001101,
+        "PictureLevel": 1801000,
+        "TaskPath": "RealTower/RealTower120.RealTower120"
+    }
+]

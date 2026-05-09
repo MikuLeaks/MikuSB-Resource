@@ -1,0 +1,320 @@
+[
+    {
+        "Id": 1,
+        "I18n": "supplies.scene11001",
+        "PropDesc": "supplies.scene11001_des",
+        "Icon": 1008002,
+        "Background": 1008003,
+        "UnlockItem": "",
+        "Item": [
+            21,
+            1,
+            1,
+            1
+        ],
+        "manifestation": "",
+        "SceneID": "Entry_01",
+        "SceneLightID": "CharacterLighting",
+        "wwise": "BGM|UI|Main",
+        "VieCharacter": "main"
+    },
+    {
+        "Id": 2,
+        "I18n": "supplies.scene11002",
+        "PropDesc": "supplies.scene11002_des",
+        "Icon": 1008004,
+        "Background": 1008005,
+        "UnlockItem": "",
+        "Item": [
+            21,
+            1,
+            2,
+            1
+        ],
+        "manifestation": "",
+        "SceneID": "Entry_01b",
+        "SceneLightID": "CharacterLighting",
+        "wwise": "BGM|UI|DLC09_Main",
+        "VieCharacter": "main"
+    },
+    {
+        "Id": 21001,
+        "I18n": "supplies.scene21001",
+        "PropDesc": "supplies.scene21001_des",
+        "Icon": 4200011,
+        "Background": 4200010,
+        "UnlockItem": [
+            19,
+            11,
+            2,
+            2
+        ],
+        "Item": [
+            19,
+            11,
+            2,
+            2
+        ],
+        "manifestation": 111102
+    },
+    {
+        "Id": 21002,
+        "I18n": "supplies.scene21002",
+        "PropDesc": "supplies.scene21002_des",
+        "Icon": 4200021,
+        "Background": 4200020,
+        "UnlockItem": [
+            19,
+            2,
+            3,
+            2
+        ],
+        "Item": [
+            19,
+            2,
+            3,
+            2
+        ],
+        "manifestation": 120202
+    },
+    {
+        "Id": 21003,
+        "I18n": "supplies.scene21003",
+        "PropDesc": "supplies.scene21003_des",
+        "Icon": 4200031,
+        "Background": 4200030,
+        "UnlockItem": [
+            19,
+            8,
+            3,
+            2
+        ],
+        "Item": [
+            19,
+            8,
+            3,
+            2
+        ],
+        "manifestation": 120802
+    },
+    {
+        "Id": 21004,
+        "I18n": "supplies.scene21004",
+        "PropDesc": "supplies.scene21004_des",
+        "Icon": 4200041,
+        "Background": 4200040,
+        "UnlockItem": [
+            19,
+            15,
+            2,
+            2
+        ],
+        "Item": [
+            19,
+            15,
+            2,
+            2
+        ],
+        "manifestation": 111502
+    },
+    {
+        "Id": 21005,
+        "I18n": "supplies.scene21005",
+        "PropDesc": "supplies.scene21005_des",
+        "Icon": 4200051,
+        "Background": 4200050,
+        "UnlockItem": [
+            19,
+            5,
+            3,
+            2
+        ],
+        "Item": [
+            19,
+            5,
+            3,
+            2
+        ],
+        "manifestation": 120502
+    },
+    {
+        "Id": 21006,
+        "I18n": "supplies.scene21006",
+        "PropDesc": "supplies.scene21006_des",
+        "Icon": 4200061,
+        "Background": 4200060,
+        "UnlockItem": [
+            19,
+            14,
+            3,
+            2
+        ],
+        "Item": [
+            19,
+            14,
+            3,
+            2
+        ],
+        "manifestation": 121402
+    },
+    {
+        "Id": 21007,
+        "I18n": "supplies.scene21007",
+        "PropDesc": "supplies.scene21007_des",
+        "Icon": 4200071,
+        "Background": 4200070,
+        "UnlockItem": [
+            19,
+            10,
+            3,
+            2
+        ],
+        "Item": [
+            19,
+            10,
+            3,
+            2
+        ],
+        "manifestation": 121002
+    },
+    {
+        "Id": 21008,
+        "I18n": "supplies.scene21008",
+        "PropDesc": "supplies.scene21008_des",
+        "Icon": 4200081,
+        "Background": 4200080,
+        "UnlockItem": [
+            19,
+            3,
+            2,
+            2
+        ],
+        "Item": [
+            19,
+            3,
+            2,
+            2
+        ],
+        "manifestation": 110302
+    },
+    {
+        "Id": 21009,
+        "I18n": "supplies.scene21009",
+        "PropDesc": "supplies.scene21009_des",
+        "Icon": 4200091,
+        "Background": 4200090,
+        "UnlockItem": [
+            19,
+            15,
+            3,
+            2
+        ],
+        "Item": [
+            19,
+            15,
+            3,
+            2
+        ],
+        "manifestation": 121502
+    },
+    {
+        "Id": 21010,
+        "I18n": "supplies.scene21010",
+        "PropDesc": "supplies.scene21010_des",
+        "Icon": 4200101,
+        "Background": 4200100,
+        "UnlockItem": [
+            19,
+            17,
+            2,
+            2
+        ],
+        "Item": [
+            19,
+            17,
+            2,
+            2
+        ],
+        "manifestation": 111702
+    },
+    {
+        "Id": 21011,
+        "I18n": "supplies.scene21011",
+        "PropDesc": "supplies.scene21011_des",
+        "Icon": 4200105,
+        "Background": 4200104,
+        "UnlockItem": [
+            19,
+            8,
+            4,
+            2
+        ],
+        "Item": [
+            19,
+            8,
+            4,
+            2
+        ],
+        "manifestation": 130802
+    },
+    {
+        "Id": 21012,
+        "I18n": "supplies.scene21012",
+        "PropDesc": "supplies.scene21012_des",
+        "Icon": 4200109,
+        "Background": 4200108,
+        "UnlockItem": [
+            19,
+            13,
+            3,
+            2
+        ],
+        "Item": [
+            19,
+            13,
+            3,
+            2
+        ],
+        "manifestation": 121302
+    },
+    {
+        "Id": 21013,
+        "I18n": "supplies.scene21013",
+        "PropDesc": "supplies.scene21013_des",
+        "Icon": 4200117,
+        "Background": 4200116,
+        "UnlockItem": [
+            19,
+            5,
+            4,
+            2
+        ],
+        "Item": [
+            19,
+            5,
+            4,
+            2
+        ],
+        "manifestation": 130502
+    },
+    {
+        "Id": 21014,
+        "I18n": "supplies.scene21014",
+        "PropDesc": "supplies.scene21014_des",
+        "Icon": 4200113,
+        "Background": 4200112,
+        "UnlockItem": [
+            19,
+            1,
+            3,
+            2
+        ],
+        "Item": [
+            19,
+            1,
+            3,
+            2
+        ],
+        "manifestation": 120102
+    }
+]

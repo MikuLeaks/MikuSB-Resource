@@ -1,0 +1,213 @@
+[
+    {
+        "ID": 1,
+        "Name": "ui.TxtPartyZbug_1",
+        "Type": 2,
+        "Icon": 1001713,
+        "Tachie": 1603141,
+        "Color": 1700259,
+        "TemplateID": 1002,
+        "canSelect": 1,
+        "isOrigin": 0,
+        "SkillUpLevel": [
+            1,
+            2,
+            4,
+            6
+        ],
+        "SkillID": [
+            [
+                4,
+                14
+            ],
+            [
+                4,
+                14
+            ],
+            [
+                4,
+                14
+            ],
+            [
+                4,
+                14,
+                15
+            ]
+        ],
+        "RebornCD": 3,
+        "SkillIDInBag": [
+            4
+        ]
+    },
+    {
+        "ID": 2,
+        "Name": "ui.TxtPartyZbug_2",
+        "Type": 2,
+        "Icon": 1001714,
+        "Tachie": 1603140,
+        "Color": 1700258,
+        "TemplateID": 1003,
+        "canSelect": 1,
+        "isOrigin": 0,
+        "SkillUpLevel": [
+            1,
+            2,
+            4,
+            6
+        ],
+        "SkillID": [
+            [
+                6
+            ],
+            [
+                6
+            ],
+            [
+                6
+            ],
+            [
+                6
+            ]
+        ],
+        "RebornCD": 3,
+        "SkillIDInBag": [
+            6
+        ]
+    },
+    {
+        "ID": 3,
+        "Name": "ui.TxtPartyZbug_3",
+        "Type": 2,
+        "Icon": 1001716,
+        "Tachie": 1603139,
+        "Color": 1700261,
+        "TemplateID": 1004,
+        "canSelect": 1,
+        "isOrigin": 0,
+        "SkillUpLevel": [
+            1,
+            2,
+            4,
+            6
+        ],
+        "SkillID": [
+            [
+                5
+            ],
+            [
+                5
+            ],
+            [
+                5
+            ],
+            [
+                5
+            ]
+        ],
+        "RebornCD": 3,
+        "SkillIDInBag": [
+            5
+        ]
+    },
+    {
+        "ID": 4,
+        "Name": "ui.TxtPartyZbug_4",
+        "Type": 2,
+        "Icon": 1001715,
+        "Tachie": 1603142,
+        "Color": 1700257,
+        "TemplateID": 1005,
+        "canSelect": 1,
+        "isOrigin": 0,
+        "SkillUpLevel": [
+            1,
+            2,
+            4,
+            6
+        ],
+        "SkillID": [
+            [
+                7
+            ],
+            [
+                7
+            ],
+            [
+                7
+            ],
+            [
+                7
+            ]
+        ],
+        "RebornCD": 3,
+        "SkillIDInBag": [
+            7
+        ]
+    },
+    {
+        "ID": 5,
+        "Name": "ui.PartyGoZbugName03",
+        "Type": 1,
+        "Icon": 5230014,
+        "Tachie": 1603138,
+        "Color": 1700258,
+        "TemplateID": 1006,
+        "canSelect": 1,
+        "isOrigin": 1,
+        "SkillUpLevel": [
+            1
+        ],
+        "SkillID": {
+            "2": 3
+        },
+        "RebornCD": 3,
+        "SkillIDInBag": [
+            2,
+            3
+        ]
+    },
+    {
+        "ID": 6,
+        "Name": "ui.PartyGoZbugName01",
+        "Type": 1,
+        "Icon": 5230012,
+        "Tachie": 1603138,
+        "Color": 1700257,
+        "TemplateID": 1006,
+        "canSelect": 1,
+        "isOrigin": 1,
+        "SkillUpLevel": [
+            1
+        ],
+        "SkillID": {
+            "2": 10
+        },
+        "RebornCD": 3,
+        "SkillIDInBag": [
+            2,
+            10
+        ]
+    },
+    {
+        "ID": 7,
+        "Name": "ui.PartyGoZbugName02",
+        "Type": 1,
+        "Icon": 5230011,
+        "Tachie": 1603138,
+        "Color": 1700261,
+        "TemplateID": 1006,
+        "canSelect": 1,
+        "isOrigin": 1,
+        "SkillUpLevel": [
+            1
+        ],
+        "SkillID": {
+            "2": 9
+        },
+        "RebornCD": 3,
+        "SkillIDInBag": [
+            2,
+            9
+        ]
+    }
+]

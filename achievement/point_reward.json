@@ -1,0 +1,142 @@
+[
+    {
+        "Group": 1,
+        "AchievementPoint": 20,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                4,
+                3,
+                3,
+                1,
+                40
+            ]
+        ],
+        "Icon": "Texture2D'/Game/UI/Icon/Props/icon_props01_003.icon_props01_003'"
+    },
+    {
+        "Group": 1,
+        "AchievementPoint": 40,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                4,
+                3,
+                3,
+                1,
+                50
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                5
+            ]
+        ],
+        "Icon": "Texture2D'/Game/UI/Icon/Props/icon_props01_003.icon_props01_003'"
+    },
+    {
+        "Group": 1,
+        "AchievementPoint": 60,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                4,
+                3,
+                3,
+                1,
+                75
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                5
+            ]
+        ],
+        "Icon": "Texture2D'/Game/UI/Icon/Props/icon_props01_003.icon_props01_003'"
+    },
+    {
+        "Group": 1,
+        "AchievementPoint": 80,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                4,
+                3,
+                3,
+                1,
+                75
+            ],
+            [
+                5,
+                3,
+                1,
+                3,
+                5
+            ]
+        ],
+        "Icon": "Texture2D'/Game/UI/Icon/Props/icon_props01_003.icon_props01_003'"
+    },
+    {
+        "Group": 1,
+        "AchievementPoint": 100,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                4,
+                3,
+                3,
+                1,
+                100
+            ],
+            [
+                4,
+                3,
+                2,
+                1,
+                50
+            ],
+            [
+                5,
+                13,
+                2,
+                3,
+                1
+            ]
+        ],
+        "Icon": "Texture2D'/Game/UI/Icon/Props/icon_props01_003.icon_props01_003'"
+    }
+]

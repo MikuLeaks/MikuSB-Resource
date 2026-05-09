@@ -1,0 +1,168 @@
+[
+    {
+        "ID": 1,
+        "ParamType": "number"
+    },
+    {
+        "ID": 2,
+        "ParamType": "number"
+    },
+    {
+        "ID": 3,
+        "ParamType": "number",
+        "FuncName": "SpecialCoinAddBaseScore"
+    },
+    {
+        "ID": 4,
+        "ParamType": "number"
+    },
+    {
+        "ID": 5,
+        "ParamType": "number"
+    },
+    {
+        "ID": 6,
+        "ParamType": "number",
+        "FuncName": "SpecialCoin101"
+    },
+    {
+        "ID": 7,
+        "ParamType": "number"
+    },
+    {
+        "ID": 12,
+        "ParamType": "table"
+    },
+    {
+        "ID": 13,
+        "ParamType": "number"
+    },
+    {
+        "ID": 14,
+        "ParamType": "table"
+    },
+    {
+        "ID": 15,
+        "ParamType": "null"
+    },
+    {
+        "ID": 16,
+        "ParamType": "number"
+    },
+    {
+        "ID": 17,
+        "ParamType": "random"
+    },
+    {
+        "ID": 18,
+        "ParamType": "number"
+    },
+    {
+        "ID": 19,
+        "ParamType": "number"
+    },
+    {
+        "ID": 20,
+        "ParamType": "number"
+    },
+    {
+        "ID": 21,
+        "ParamType": "null"
+    },
+    {
+        "ID": 22,
+        "ParamType": "null"
+    },
+    {
+        "ID": 23,
+        "ParamType": "null"
+    },
+    {
+        "ID": 24,
+        "ParamType": "table"
+    },
+    {
+        "ID": 25,
+        "ParamType": "number"
+    },
+    {
+        "ID": 26,
+        "ParamType": "number"
+    },
+    {
+        "ID": 27,
+        "ParamType": "number",
+        "FuncName": "MagicReward1"
+    },
+    {
+        "ID": 28,
+        "ParamType": "number",
+        "FuncName": "MagicReward2"
+    },
+    {
+        "ID": 29,
+        "ParamType": "null"
+    },
+    {
+        "ID": 30,
+        "ParamType": "number"
+    },
+    {
+        "ID": 31,
+        "ParamType": "number"
+    },
+    {
+        "ID": 32,
+        "ParamType": "number"
+    },
+    {
+        "ID": 101,
+        "ParamType": "table",
+        "FuncName": "RandomDropCoin"
+    },
+    {
+        "ID": 102,
+        "ParamType": "table",
+        "FuncName": "GetMoneyByCoinNum"
+    },
+    {
+        "ID": 103,
+        "ParamType": "table",
+        "FuncName": "DropRandomNumCoin"
+    },
+    {
+        "ID": 1001,
+        "ParamType": "table",
+        "FuncName": "GainCoin"
+    },
+    {
+        "ID": 1002,
+        "ParamType": "number",
+        "FuncName": "GainTicket"
+    },
+    {
+        "ID": 1003,
+        "ParamType": "table",
+        "FuncName": "GainGashapon"
+    },
+    {
+        "ID": 1004,
+        "ParamType": "number",
+        "FuncName": "PullAgain"
+    },
+    {
+        "ID": 1005,
+        "ParamType": "number",
+        "FuncName": "CoinTower"
+    },
+    {
+        "ID": 1006,
+        "ParamType": "number",
+        "FuncName": "BombCoinTowerType1"
+    },
+    {
+        "ID": 1007,
+        "ParamType": "number",
+        "FuncName": "BombCoinTowerType2"
+    }
+]

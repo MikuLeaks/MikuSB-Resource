@@ -1,0 +1,5780 @@
+[
+    {
+        "MapID": 10001,
+        "ID": 10001,
+        "ConsumeVigor": 0,
+        "Node": 0,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10011
+        ]
+    },
+    {
+        "MapID": 10001,
+        "ID": 10011,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 1,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10021,
+            10022,
+            10023
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10021,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4394,
+        "MonsterBuff": 6001,
+        "MonsterGrade": 50,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10031,
+            10042
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10022,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1202,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10032,
+            10033
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10023,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4306,
+        "MonsterBuff": 6001,
+        "MonsterGrade": 50,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10032,
+            10033
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10031,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1103,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10041
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10032,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4311,
+        "MonsterBuff": 6001,
+        "MonsterGrade": 51,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10042
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10033,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4301,
+        "MonsterBuff": 6001,
+        "MonsterGrade": 51,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10043
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10041,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1104,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10051
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10042,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1204,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10052
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10043,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 2,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10053
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10051,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4308,
+        "MonsterBuff": 6002,
+        "MonsterGrade": 52,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10061,
+            10062
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10052,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4334,
+        "MonsterBuff": 6101,
+        "MonsterGrade": 55,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10061,
+            10062
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10053,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1305,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10063
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10061,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 2,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10071
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10062,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1206,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10072
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10063,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1306,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10073
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10071,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1107,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10081
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10072,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4302,
+        "MonsterBuff": 6002,
+        "MonsterGrade": 53,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10082,
+            10083
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10073,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4332,
+        "MonsterBuff": 6201,
+        "MonsterGrade": 55,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10083,
+            10082
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10081,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4335,
+        "MonsterBuff": 6101,
+        "MonsterGrade": 56,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10091,
+            10092
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10082,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 3,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10092,
+            10091
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10083,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            10093
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10091,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4304,
+        "MonsterBuff": 6003,
+        "MonsterGrade": 54,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10101
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10092,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            10102
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10093,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4302,
+        "MonsterBuff": 6003,
+        "MonsterGrade": 54,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10103
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10101,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            10111
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10102,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4334,
+        "MonsterBuff": 6201,
+        "MonsterGrade": 56,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10112,
+            10123
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10103,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1310,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10113
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10111,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4333,
+        "MonsterBuff": 6102,
+        "MonsterGrade": 57,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10121,
+            10122
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10112,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1211,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10122,
+            10121
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10113,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1311,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10123
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10121,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 4,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20001
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10122,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1212,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20001
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 10123,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4331,
+        "MonsterBuff": 6201,
+        "MonsterGrade": 57,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20001
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20001,
+        "ConsumeVigor": 0,
+        "Node": 0,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20011,
+            20012,
+            20013
+        ]
+    },
+    {
+        "MapID": 10001,
+        "ID": 20011,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2201,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20021,
+            20022,
+            20023
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20021,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4305,
+        "MonsterBuff": 6004,
+        "MonsterGrade": 55,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20031
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20022,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4302,
+        "MonsterBuff": 6004,
+        "MonsterGrade": 55,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20032
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20023,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 5,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20033
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20031,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2103,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20041
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20032,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 5,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20042,
+            20043
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20033,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4305,
+        "MonsterBuff": 6004,
+        "MonsterGrade": 55,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20043,
+            20042
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20041,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 5,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20051,
+            20052
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20042,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4331,
+        "MonsterBuff": 6103,
+        "MonsterGrade": 58,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20052,
+            20051
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20043,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            20053
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20051,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4304,
+        "MonsterBuff": 6005,
+        "MonsterGrade": 56,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20061
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20052,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2205,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20062
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20053,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4332,
+        "MonsterBuff": 6202,
+        "MonsterGrade": 58,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20063
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20061,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2106,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20071
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20062,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4303,
+        "MonsterBuff": 6005,
+        "MonsterGrade": 56,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20072,
+            20083
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20063,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2306,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20073
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20071,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4335,
+        "MonsterBuff": 6103,
+        "MonsterGrade": 59,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20081,
+            20082
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20072,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2207,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20082,
+            20081
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20073,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4308,
+        "MonsterBuff": 6005,
+        "MonsterGrade": 57,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20083
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20081,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 6,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20091
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20082,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            20092
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20083,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4334,
+        "MonsterBuff": 6202,
+        "MonsterGrade": 59,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20093
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20091,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4304,
+        "MonsterBuff": 6006,
+        "MonsterGrade": 57,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20101
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20092,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4333,
+        "MonsterBuff": 6104,
+        "MonsterGrade": 59,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20102,
+            20111
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20093,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 6,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20103
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20101,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2110,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20111
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20102,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4332,
+        "MonsterBuff": 6202,
+        "MonsterGrade": 60,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20112
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20103,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2310,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20113
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20111,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2111,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20121
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20112,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2211,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20122
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20113,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4333,
+        "MonsterBuff": 6104,
+        "MonsterGrade": 60,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20123
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20121,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4334,
+        "MonsterBuff": 6202,
+        "MonsterGrade": 60,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20131,
+            20132
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20122,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4308,
+        "MonsterBuff": 6006,
+        "MonsterGrade": 58,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20132,
+            20131
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20123,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            20133
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20131,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            30001
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20132,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            30001
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10001,
+        "ID": 20133,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2313,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30001
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30001,
+        "ConsumeVigor": 0,
+        "Node": 0,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30011
+        ]
+    },
+    {
+        "MapID": 10001,
+        "ID": 30011,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4302,
+        "MonsterBuff": 6007,
+        "MonsterGrade": 59,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30021,
+            30022,
+            30023
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30021,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 3102,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30031
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30022,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4302,
+        "MonsterBuff": 6007,
+        "MonsterGrade": 59,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30032,
+            30033
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30023,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4311,
+        "MonsterBuff": 6007,
+        "MonsterGrade": 59,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30033,
+            30032
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30031,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4331,
+        "MonsterBuff": 6104,
+        "MonsterGrade": 62,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30041,
+            30042
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30032,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 3203,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30042,
+            30041
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30033,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4335,
+        "MonsterBuff": 6203,
+        "MonsterGrade": 62,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30043
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30041,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4305,
+        "MonsterBuff": 6008,
+        "MonsterGrade": 60,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30051
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30042,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4334,
+        "MonsterBuff": 6104,
+        "MonsterGrade": 62,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30052,
+            30053
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30043,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 3304,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30053,
+            30052
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30051,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 3105,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30061,
+            30062
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30052,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 3205,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30062,
+            30061
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30053,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4311,
+        "MonsterBuff": 6008,
+        "MonsterGrade": 60,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30063,
+            30072
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30061,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4332,
+        "MonsterBuff": 6203,
+        "MonsterGrade": 63,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30071
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30062,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4304,
+        "MonsterBuff": 6008,
+        "MonsterGrade": 60,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30072
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30063,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            30073
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30071,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4307,
+        "MonsterBuff": 6009,
+        "MonsterGrade": 61,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30081,
+            30082
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30072,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4331,
+        "MonsterBuff": 6105,
+        "MonsterGrade": 63,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30082,
+            30081
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30073,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4332,
+        "MonsterBuff": 6203,
+        "MonsterGrade": 63,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30083
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30081,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 3108,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30092
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30082,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            30092
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30083,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4301,
+        "MonsterBuff": 6009,
+        "MonsterGrade": 61,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30092
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30092,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 7,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30101
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10001,
+        "ID": 30101,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": "",
+        "LevelID": 4341,
+        "MonsterBuff": 6105,
+        "MonsterGrade": 65,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": "",
+        "Icon": 2200013,
+        "Name": "ui.TxtDlcRogueFight3"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10001,
+        "ConsumeVigor": 0,
+        "Node": 0,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10011
+        ]
+    },
+    {
+        "MapID": 10002,
+        "ID": 10011,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 1,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10021,
+            10022,
+            10023
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10021,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4301,
+        "MonsterBuff": 6001,
+        "MonsterGrade": 50,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10031
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10022,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1104,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10032
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10023,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1212,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10033
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10031,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1306,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10041
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10032,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4391,
+        "MonsterBuff": 6001,
+        "MonsterGrade": 50,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10042,
+            10043
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10033,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4394,
+        "MonsterBuff": 6001,
+        "MonsterGrade": 50,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10042,
+            10043
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10041,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1204,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10051
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10042,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4333,
+        "MonsterBuff": 6301,
+        "MonsterGrade": 53,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10052
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10043,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1206,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10053,
+            10062
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10051,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 2,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10061,
+            10072
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10052,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            10062
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10053,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4335,
+        "MonsterBuff": 6401,
+        "MonsterGrade": 53,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10063
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10061,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4331,
+        "MonsterBuff": 6301,
+        "MonsterGrade": 54,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10071
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10062,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 2,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10072
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10063,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4395,
+        "MonsterBuff": 6002,
+        "MonsterGrade": 51,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10073
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10071,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2306,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10081
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10072,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4398,
+        "MonsterBuff": 6002,
+        "MonsterGrade": 52,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10082
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10073,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1211,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10083
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10081,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4312,
+        "MonsterBuff": 6002,
+        "MonsterGrade": 52,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10091
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10082,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2106,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10092,
+            10093
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10083,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 2,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10092,
+            10093
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10091,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            10101
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10092,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4302,
+        "MonsterBuff": 6003,
+        "MonsterGrade": 53,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10102
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10093,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4334,
+        "MonsterBuff": 6401,
+        "MonsterGrade": 56,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10103
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10101,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4332,
+        "MonsterBuff": "",
+        "MonsterGrade": 56,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10111,
+            10122
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10102,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1103,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10112
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10103,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            10113
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10111,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4303,
+        "MonsterBuff": 6003,
+        "MonsterGrade": 54,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10121
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10112,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4333,
+        "MonsterBuff": 6301,
+        "MonsterGrade": 57,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10122
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10113,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4304,
+        "MonsterBuff": 6003,
+        "MonsterGrade": 54,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10123
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10121,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 3,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20001
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10122,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1202,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20001
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 10123,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1305,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20001
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20001,
+        "ConsumeVigor": 0,
+        "Node": 0,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20011
+        ]
+    },
+    {
+        "MapID": 10002,
+        "ID": 20011,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 3102,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20021,
+            20022,
+            20023
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20021,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2313,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20031
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20022,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4331,
+        "MonsterBuff": 6302,
+        "MonsterGrade": 58,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20032
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20023,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2201,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20033
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20031,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4305,
+        "MonsterBuff": 6004,
+        "MonsterGrade": 55,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20041
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20032,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            20042,
+            20051
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20033,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4335,
+        "MonsterBuff": 6402,
+        "MonsterGrade": 58,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20043
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20041,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1311,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20051
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20042,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4306,
+        "MonsterBuff": 6004,
+        "MonsterGrade": 55,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20052,
+            20053
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20043,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 3205,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20052,
+            20053
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20051,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 4,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20061
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20052,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 4,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20062
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20053,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4398,
+        "MonsterBuff": 6005,
+        "MonsterGrade": 56,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20063
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20061,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4332,
+        "MonsterBuff": 6302,
+        "MonsterGrade": 59,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20071
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20062,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1107,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20072,
+            20083
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20063,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4334,
+        "MonsterBuff": 6402,
+        "MonsterGrade": 59,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20073
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20071,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            20081
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20072,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4335,
+        "MonsterBuff": 6302,
+        "MonsterGrade": 59,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20082
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20073,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 4,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20083
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20081,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4307,
+        "MonsterBuff": 6005,
+        "MonsterGrade": 57,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20091,
+            20092
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20082,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2103,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20091,
+            20092
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20083,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            20093
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20091,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1310,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20101
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20092,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4308,
+        "MonsterBuff": 6005,
+        "MonsterGrade": 57,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20102
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20093,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4301,
+        "MonsterBuff": 6005,
+        "MonsterGrade": 57,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20103,
+            20112
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20101,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4333,
+        "MonsterBuff": 6402,
+        "MonsterGrade": 60,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20111
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20102,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2110,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20112
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20103,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 3203,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20113
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20111,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 3304,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20121
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20112,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 5,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20122,
+            20131
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20113,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4331,
+        "MonsterBuff": 6302,
+        "MonsterGrade": 60,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20123
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20121,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 5,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20131
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20122,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4332,
+        "MonsterBuff": 6402,
+        "MonsterGrade": 61,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20132
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20123,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            20133
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20131,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4311,
+        "MonsterBuff": 6006,
+        "MonsterGrade": 58,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30001
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20132,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2111,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30001
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 20133,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4305,
+        "MonsterBuff": 6006,
+        "MonsterGrade": 58,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30001
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30001,
+        "ConsumeVigor": 0,
+        "Node": 0,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30011
+        ]
+    },
+    {
+        "MapID": 10002,
+        "ID": 30011,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4331,
+        "MonsterBuff": 6303,
+        "MonsterGrade": 61,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30021,
+            30022,
+            30023
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30021,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2205,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30031,
+            30032
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30022,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4391,
+        "MonsterBuff": 6007,
+        "MonsterGrade": 58,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30031,
+            30032
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30023,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            30033
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30031,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4394,
+        "MonsterBuff": 6007,
+        "MonsterGrade": 58,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30041
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30032,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 3108,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30042,
+            30053
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30033,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4395,
+        "MonsterBuff": 6007,
+        "MonsterGrade": 58,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30043
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30041,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4334,
+        "MonsterBuff": 6403,
+        "MonsterGrade": 62,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30051
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30042,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4334,
+        "MonsterBuff": 6303,
+        "MonsterGrade": 62,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30052,
+            30061
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30043,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4303,
+        "MonsterBuff": 6008,
+        "MonsterGrade": 58,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30053
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30051,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2310,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30061
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30052,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4333,
+        "MonsterBuff": 6303,
+        "MonsterGrade": 62,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30062
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30053,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2207,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30063
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30061,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4306,
+        "MonsterBuff": 6008,
+        "MonsterGrade": 59,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30071
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30062,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            30072,
+            30073
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30063,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4335,
+        "MonsterBuff": 6403,
+        "MonsterGrade": 63,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30072,
+            30073
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30071,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4332,
+        "MonsterBuff": 6303,
+        "MonsterGrade": 63,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30081
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30072,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 3105,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30082
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30073,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4307,
+        "MonsterBuff": 6009,
+        "MonsterGrade": 61,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30083
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30081,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            30092
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30082,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4312,
+        "MonsterBuff": 6009,
+        "MonsterGrade": 61,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30092
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30083,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2211,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30092
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30092,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 6,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30101
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10002,
+        "ID": 30101,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 3,
+        "LevelID": 4341,
+        "MonsterBuff": 6105,
+        "MonsterGrade": 65,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": "",
+        "Icon": 2200013,
+        "Name": "ui.TxtDlcRogueFight3"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10001,
+        "ConsumeVigor": 0,
+        "Node": 0,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10011
+        ]
+    },
+    {
+        "MapID": 10003,
+        "ID": 10011,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 1,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10021,
+            10022,
+            10023
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10021,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1202,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10031
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10022,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1305,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10032
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10023,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4302,
+        "MonsterBuff": 6001,
+        "MonsterGrade": 50,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10033
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10031,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4301,
+        "MonsterBuff": 6001,
+        "MonsterGrade": 50,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10041,
+            10042
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10032,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4305,
+        "MonsterBuff": 6001,
+        "MonsterGrade": 50,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10041,
+            10042
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10033,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2103,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10043,
+            10052
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10041,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4332,
+        "MonsterBuff": 6501,
+        "MonsterGrade": 53,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10051
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10042,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            10052
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10043,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4391,
+        "MonsterBuff": 6001,
+        "MonsterGrade": 51,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10053
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10051,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1212,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10061
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10052,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4307,
+        "MonsterBuff": 6002,
+        "MonsterGrade": 51,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10062,
+            10073
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10053,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 2,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10063
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10061,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4308,
+        "MonsterBuff": 6002,
+        "MonsterGrade": 52,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10071
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10062,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1311,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10072,
+            10081
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10063,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4334,
+        "MonsterBuff": 6601,
+        "MonsterGrade": 55,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10073
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10071,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 2,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10081
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10072,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 2,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10082
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10073,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            10083
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10081,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4335,
+        "MonsterBuff": 6501,
+        "MonsterGrade": 56,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10091
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10082,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1306,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10092
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10083,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4331,
+        "MonsterBuff": 6601,
+        "MonsterGrade": 56,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10093
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10091,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1204,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10101,
+            10112
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10092,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4333,
+        "MonsterBuff": 6501,
+        "MonsterGrade": 56,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10102,
+            10103
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10093,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1103,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10102,
+            10103
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10101,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4304,
+        "MonsterBuff": 6003,
+        "MonsterGrade": 53,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10111
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10102,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2306,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10112
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10103,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4394,
+        "MonsterBuff": 6003,
+        "MonsterGrade": 53,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10113
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10111,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            10121
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10112,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4395,
+        "MonsterBuff": 6003,
+        "MonsterGrade": 53,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10122
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10113,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2106,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            10123
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10121,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4306,
+        "MonsterBuff": 6003,
+        "MonsterGrade": 54,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20001
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10122,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1310,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20001
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 10123,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 3,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20001
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20001,
+        "ConsumeVigor": 0,
+        "Node": 0,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20011
+        ]
+    },
+    {
+        "MapID": 10003,
+        "ID": 20011,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4303,
+        "MonsterBuff": 6004,
+        "MonsterGrade": 55,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20021,
+            20022,
+            20023
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20021,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1206,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20031
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20022,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4332,
+        "MonsterBuff": 6602,
+        "MonsterGrade": 57,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20032
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20023,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4302,
+        "MonsterBuff": 6004,
+        "MonsterGrade": 55,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20033
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20031,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4334,
+        "MonsterBuff": 6502,
+        "MonsterGrade": 57,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20041,
+            20042
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20032,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            20041,
+            20042
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20033,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1104,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20043
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20041,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 4,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20051
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20042,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4301,
+        "MonsterBuff": 6004,
+        "MonsterGrade": 56,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20052,
+            20063
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20043,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4331,
+        "MonsterBuff": 6602,
+        "MonsterGrade": 58,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20053
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20051,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2205,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20061
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20052,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2201,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20062
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20053,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1107,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20063
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20061,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4333,
+        "MonsterBuff": 6502,
+        "MonsterGrade": 58,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20071
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20062,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2313,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20072
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20063,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 4,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20073
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20071,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            20081,
+            20082
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20072,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 4,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20081,
+            20082
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20073,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4306,
+        "MonsterBuff": 6005,
+        "MonsterGrade": 56,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20083,
+            20092
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20081,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4307,
+        "MonsterBuff": 6005,
+        "MonsterGrade": 57,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20091
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20082,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4332,
+        "MonsterBuff": 6602,
+        "MonsterGrade": 60,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20092
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20083,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4335,
+        "MonsterBuff": 6502,
+        "MonsterGrade": 60,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20093
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20091,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 1211,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20101
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20092,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 3304,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20102,
+            20111
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20093,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            20103
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20101,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 5,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20111
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20102,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4394,
+        "MonsterBuff": 6006,
+        "MonsterGrade": 57,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20112,
+            20123
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20103,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4395,
+        "MonsterBuff": 6006,
+        "MonsterGrade": 57,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20113
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20111,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4302,
+        "MonsterBuff": 6006,
+        "MonsterGrade": 57,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20121
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20112,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4331,
+        "MonsterBuff": 6602,
+        "MonsterGrade": 60,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20122
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20113,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2110,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20123
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20121,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4333,
+        "MonsterBuff": 6502,
+        "MonsterGrade": 61,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20131
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20122,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            20132
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20123,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 5,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            20133
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20131,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            30001
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20132,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2310,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30001
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 20133,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4332,
+        "MonsterBuff": 6602,
+        "MonsterGrade": 61,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30001
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30001,
+        "ConsumeVigor": 0,
+        "Node": 0,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30011
+        ]
+    },
+    {
+        "MapID": 10003,
+        "ID": 30011,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 3105,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30021,
+            30022,
+            30023
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30021,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2207,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30031
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30022,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4308,
+        "MonsterBuff": 6007,
+        "MonsterGrade": 58,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30032
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30023,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4335,
+        "MonsterBuff": 6503,
+        "MonsterGrade": 61,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30033
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30031,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4303,
+        "MonsterBuff": 6007,
+        "MonsterGrade": 58,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30041,
+            30042
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30032,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4334,
+        "MonsterBuff": 6603,
+        "MonsterGrade": 61,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30041,
+            30042
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30033,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 3108,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30043,
+            30052
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30041,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4331,
+        "MonsterBuff": 6503,
+        "MonsterGrade": 62,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30051
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30042,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4395,
+        "MonsterBuff": 6007,
+        "MonsterGrade": 59,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30052
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30043,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2111,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30053
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30051,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            30061,
+            30072
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30052,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 3203,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30062
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30053,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4332,
+        "MonsterBuff": 6603,
+        "MonsterGrade": 62,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30063
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30061,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 3205,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30071
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30062,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4333,
+        "MonsterBuff": 6503,
+        "MonsterGrade": 63,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30072
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30063,
+        "ConsumeVigor": 0,
+        "Node": 4,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "rogue.TxtRest",
+        "RestOption": {
+            "1": 100,
+            "2": 60,
+            "3": 1
+        },
+        "Next": [
+            30073
+        ],
+        "Icon": 2200016,
+        "Name": "ui.TxtDlcRogueRest"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30071,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 2,
+        "LevelID": 4335,
+        "MonsterBuff": 6603,
+        "MonsterGrade": 63,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30081,
+            30082
+        ],
+        "Icon": 2200012,
+        "Name": "ui.TxtDlcRogueFight2"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30072,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4312,
+        "MonsterBuff": 6008,
+        "MonsterGrade": 60,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30081,
+            30082
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30073,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 3102,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30083
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30081,
+        "ConsumeVigor": 0,
+        "Node": 2,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": 2211,
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30092
+        ],
+        "Icon": 2200015,
+        "Name": "ui.TxtDlcRogueRandom"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30082,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4398,
+        "MonsterBuff": 6009,
+        "MonsterGrade": 61,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30092
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30083,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 1,
+        "LevelID": 4311,
+        "MonsterBuff": 6009,
+        "MonsterGrade": 61,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30092
+        ],
+        "Icon": 2200011,
+        "Name": "ui.TxtDlcRogueFight1"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30092,
+        "ConsumeVigor": 0,
+        "Node": 3,
+        "LevelType": "",
+        "LevelID": "",
+        "MonsterBuff": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": 6,
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": [
+            30101
+        ],
+        "Icon": 2200014,
+        "Name": "ui.TxtDlcRogueShop"
+    },
+    {
+        "MapID": 10003,
+        "ID": 30101,
+        "ConsumeVigor": 0,
+        "Node": 1,
+        "LevelType": 3,
+        "LevelID": 4341,
+        "MonsterBuff": 6105,
+        "MonsterGrade": 65,
+        "RandomID": "",
+        "ShopID": "",
+        "RestDesc": "",
+        "RestOption": "",
+        "Next": "",
+        "Icon": 2200013,
+        "Name": "ui.TxtDlcRogueFight3"
+    }
+]

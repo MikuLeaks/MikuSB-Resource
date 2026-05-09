@@ -1,0 +1,381 @@
+[
+    {
+        "VoiceID": "test006000",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_rich_player_01",
+        "VoiceText": "callme_talk.TxtCMgirl06_talk05",
+        "Weight": "",
+        "PlayState": 0
+    },
+    {
+        "VoiceID": "CMloopA101",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand01_girl020_01",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA01",
+        "Weight": 1,
+        "PlayState": 0
+    },
+    {
+        "VoiceID": "CMloopA102",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand01_girl020_02",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA02",
+        "Weight": 1,
+        "PlayState": 0
+    },
+    {
+        "VoiceID": "CMloopA103",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand01_girl020_03",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA03",
+        "Weight": 1,
+        "PlayState": 0
+    },
+    {
+        "VoiceID": "CMloopA104",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand01_girl020_04",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA04",
+        "Weight": 1,
+        "PlayState": 0
+    },
+    {
+        "VoiceID": "CMloopA105",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand01_girl020_05",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA05",
+        "Weight": 1,
+        "PlayState": 0
+    },
+    {
+        "VoiceID": "CMloopA106",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand01_girl020_06",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA06",
+        "Weight": 1,
+        "PlayState": 0
+    },
+    {
+        "VoiceID": "CMloopA107",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand01_girl020_07",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA07",
+        "Weight": 1
+    },
+    {
+        "VoiceID": "CMloopA108",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand01_girl020_08",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA08",
+        "Weight": 1
+    },
+    {
+        "VoiceID": "CMloopA109",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand01_girl020_09",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA09",
+        "Weight": 1
+    },
+    {
+        "VoiceID": "CMloopA110",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand01_girl020_10",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA10",
+        "Weight": 1
+    },
+    {
+        "VoiceID": "CMloopA111",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand01_girl020_11",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA11",
+        "Weight": 1
+    },
+    {
+        "VoiceID": "CMloopA112",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand01_girl020_12",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA12",
+        "Weight": 1
+    },
+    {
+        "VoiceID": "CMloopA113",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand01_girl020_13",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA13",
+        "Weight": 1,
+        "PlayState": 0
+    },
+    {
+        "VoiceID": "CMloopA201",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand_key_girl020_02",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA_key01",
+        "Weight": 1,
+        "PlayState": 0
+    },
+    {
+        "VoiceID": "CMloopA202",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand_key_girl020_03",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA_key02",
+        "Weight": 1,
+        "PlayState": 0
+    },
+    {
+        "VoiceID": "CMloopA203",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand_key_girl020_04",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA_key03",
+        "Weight": 1,
+        "PlayState": 0
+    },
+    {
+        "VoiceID": "CMloopA204",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand_key_girl020_05",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA_key04",
+        "Weight": 1,
+        "PlayState": 0
+    },
+    {
+        "VoiceID": "CMloopA205",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand_key_girl020_06",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA_key05",
+        "Weight": 1,
+        "PlayState": 0
+    },
+    {
+        "VoiceID": "CMloopA206",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand_key_girl020_07",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA_key06",
+        "Weight": 1,
+        "PlayState": 0
+    },
+    {
+        "VoiceID": "CMloopAtoB",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand_loop_girl020_01",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopB01",
+        "Weight": "",
+        "PlayState": 0
+    },
+    {
+        "VoiceID": "CMloopBtoA01",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand_loop_girl020_02",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopB02"
+    },
+    {
+        "VoiceID": "CMloopBtoA02",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand_loop_girl020_03",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopB03"
+    },
+    {
+        "VoiceID": "CMloopA301",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand02_girl020_01",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA_SC01",
+        "Weight": 1
+    },
+    {
+        "VoiceID": "CMloopA302",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand02_girl020_02",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA_SC02",
+        "Weight": 1
+    },
+    {
+        "VoiceID": "CMloopA303",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand02_girl020_03",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA_SC03",
+        "Weight": 1
+    },
+    {
+        "VoiceID": "CMloopA304",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand02_girl020_04",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA_SC04",
+        "Weight": 1
+    },
+    {
+        "VoiceID": "CMloopA305",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand02_girl020_05",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA_SC05",
+        "Weight": 1
+    },
+    {
+        "VoiceID": "CMloopA306",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand02_girl020_06",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA_SC06",
+        "Weight": 1
+    },
+    {
+        "VoiceID": "CMloopA307",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_stand02_girl020_07",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_loopA_SC07",
+        "Weight": 1
+    },
+    {
+        "VoiceID": "CMhu5_101",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_end_girl020_01",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_hangup5_101"
+    },
+    {
+        "VoiceID": "CMhu5_102",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_end_girl020_02",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_hangup5_102"
+    },
+    {
+        "VoiceID": "CMhu5_201",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_end_girl020_03",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_hangup5_201"
+    },
+    {
+        "VoiceID": "CMhu30_101",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_end_girl020_04",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_hangup30_101"
+    },
+    {
+        "VoiceID": "CMhu1h_101",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_end_girl020_05",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_hangup1h_101"
+    },
+    {
+        "VoiceID": "CMhu1h_102",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_end_girl020_06",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_hangup1h_102"
+    },
+    {
+        "VoiceID": "CMhu12h_101",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_end_girl020_07",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_hangup12h_101"
+    },
+    {
+        "VoiceID": "CMhu12h_102",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_end_girl020_08",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_hangup12h_102"
+    },
+    {
+        "VoiceID": "CMhu12h_103",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_end_girl020_09",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_hangup12h_103"
+    },
+    {
+        "VoiceID": "CMhu12h_104",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_end_girl020_10",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_hangup12h_104"
+    },
+    {
+        "VoiceID": "CMclock01",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_clock_girl020_01",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_clock01"
+    },
+    {
+        "VoiceID": "CMclock02",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_clock_girl020_02",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_clock02"
+    },
+    {
+        "VoiceID": "CMclock03",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_clock_girl020_03",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_clock03"
+    },
+    {
+        "VoiceID": "CMclock04",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_clock_girl020_04",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_clock04"
+    },
+    {
+        "VoiceID": "CMclock05",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_clock_girl020_05",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_clock05"
+    },
+    {
+        "VoiceID": "CMclock06",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_clock_girl020_06",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_clock06"
+    },
+    {
+        "VoiceID": "CMclock07",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_clock_girl020_07",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_clock07"
+    },
+    {
+        "VoiceID": "CMclock08",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_clock_girl020_08",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_clock08"
+    },
+    {
+        "VoiceID": "CMclock09",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_clock_girl020_09",
+        "VoiceText": "callme_talk.TxtCMgirl20a_02_clock09"
+    },
+    {
+        "VoiceID": "CMloopB301",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_mood_girl020_01",
+        "VoiceText": "",
+        "Weight": 1
+    },
+    {
+        "VoiceID": "CMloopB302",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_mood_girl020_02",
+        "VoiceText": "",
+        "Weight": 1
+    },
+    {
+        "VoiceID": "CMloopB303",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_mood_girl020_03",
+        "VoiceText": "",
+        "Weight": 1
+    },
+    {
+        "VoiceID": "CMloopB304",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_mood_girl020_04",
+        "VoiceText": "",
+        "Weight": 1
+    },
+    {
+        "VoiceID": "CMloopB305",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_mood_girl020_05",
+        "VoiceText": "",
+        "Weight": 1
+    },
+    {
+        "VoiceID": "CMloopB306",
+        "CharacterID": 122002,
+        "WwiseEvent": "Play_Vo_call_mood_girl020_06",
+        "VoiceText": "",
+        "Weight": 1
+    }
+]

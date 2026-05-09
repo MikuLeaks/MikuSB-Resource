@@ -1,0 +1,49 @@
+[
+    {
+        "Id": 1,
+        "NameKey": "season_item.TxtRichManLoveCardName1",
+        "Desc": "season_item.TxtRichManLoveCardNameDes1",
+        "Class": "custom_dice",
+        "UseType": 1,
+        "ShowType": 1,
+        "Icon": "chess.601"
+    },
+    {
+        "Id": 2,
+        "NameKey": "season_item.TxtRichManLoveCardName2",
+        "Desc": "season_item.TxtRichManLoveCardNameDes2",
+        "Class": "reverse_card",
+        "UseType": 1,
+        "ShowType": 1,
+        "Icon": "chess.602"
+    },
+    {
+        "Id": 3,
+        "NameKey": "season_item.TxtRichManLoveCardName3",
+        "Desc": "season_item.TxtRichManLoveCardNameDes3",
+        "Class": "slowly_card",
+        "UseType": 1,
+        "ShowType": 1,
+        "Icon": "chess.605",
+        "Params": 8
+    },
+    {
+        "Id": 4,
+        "NameKey": "season_item.TxtRichManLoveCardName4",
+        "Desc": "season_item.TxtRichManLoveCardNameDes4",
+        "Class": "occupation_card",
+        "UseType": 1,
+        "ShowType": 1,
+        "Icon": "chess.603"
+    },
+    {
+        "Id": 5,
+        "NameKey": "season_item.TxtRichManLoveCardName5",
+        "Desc": "season_item.TxtRichManLoveCardNameDes5",
+        "Class": "accounting_card",
+        "UseType": 1,
+        "ShowType": 1,
+        "Icon": "chess.604",
+        "Params": 50
+    }
+]

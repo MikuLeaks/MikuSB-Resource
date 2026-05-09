@@ -1,0 +1,32 @@
+[
+    {
+        "TurnsRange": "[1,4]",
+        "CoinNum": 10,
+        "Cost": 10
+    },
+    {
+        "TurnsRange": "[5,6]",
+        "CoinNum": 10,
+        "Cost": 20
+    },
+    {
+        "TurnsRange": "[7,9]",
+        "CoinNum": 10,
+        "Cost": 40
+    },
+    {
+        "TurnsRange": "[10,14]",
+        "CoinNum": 10,
+        "Cost": 70
+    },
+    {
+        "TurnsRange": "[15,19]",
+        "CoinNum": 10,
+        "Cost": 150
+    },
+    {
+        "TurnsRange": "[20,MAX]",
+        "CoinNum": 10,
+        "Cost": 200
+    }
+]

@@ -1,0 +1,574 @@
+[
+    {
+        "Id": 1,
+        "Name": "",
+        "LevelId": 10101,
+        "MapId": 10101,
+        "LevelStrength": "",
+        "TaskPath": "",
+        "TeamRuleID": "",
+        "TrailCard": "",
+        "FirstDropID": 1000
+    },
+    {
+        "Id": 2,
+        "Name": "season_item.chess10",
+        "LevelId": 4201,
+        "MapId": 4201,
+        "LevelStrength": 4,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_001.Task_Chess_Level_001",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7009,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.2",
+        "Rank": 55
+    },
+    {
+        "Id": 3,
+        "Name": "season_item.chess9",
+        "LevelId": 4202,
+        "MapId": 4202,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_002.Task_Chess_Level_002",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7008,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.3",
+        "Rank": 55
+    },
+    {
+        "Id": 4,
+        "Name": "season_item.chess10",
+        "LevelId": 4203,
+        "MapId": 4203,
+        "LevelStrength": 4,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_003.Task_Chess_Level_003",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7009,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.4",
+        "Rank": 55
+    },
+    {
+        "Id": 5,
+        "Name": "season_item.chess9",
+        "LevelId": 4204,
+        "MapId": 4204,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_004.Task_Chess_Level_004",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7008,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.5",
+        "Rank": 55
+    },
+    {
+        "Id": 6,
+        "Name": "season_item.chess9",
+        "LevelId": 4205,
+        "MapId": 4205,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_005.Task_Chess_Level_005",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7008,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.6",
+        "Rank": 55
+    },
+    {
+        "Id": 7,
+        "Name": "season_item.chess9",
+        "LevelId": 4206,
+        "MapId": 4206,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_006.Task_Chess_Level_006",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7008,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.7",
+        "Rank": 55
+    },
+    {
+        "Id": 8,
+        "Name": "season_item.chess9",
+        "LevelId": 4210,
+        "MapId": 4210,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_010.Task_Chess_Level_010",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7008,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.8",
+        "Rank": 55
+    },
+    {
+        "Id": 9,
+        "Name": "season_item.chess11",
+        "LevelId": 4208,
+        "MapId": 4208,
+        "LevelStrength": 2,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_008.Task_Chess_Level_008",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7010,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.9",
+        "Rank": 55
+    },
+    {
+        "Id": 10,
+        "Name": "season_item.chess9",
+        "LevelId": 4209,
+        "MapId": 4209,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_009.Task_Chess_Level_009",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7008,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.10",
+        "Rank": 55
+    },
+    {
+        "Id": 11,
+        "Name": "season_item.chess9",
+        "LevelId": 4210,
+        "MapId": 4210,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_010.Task_Chess_Level_010",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7008,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.11",
+        "Rank": 55
+    },
+    {
+        "Id": 12,
+        "Name": "season_item.chess9",
+        "LevelId": 4211,
+        "MapId": 4211,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_011.Task_Chess_Level_011",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7008,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.12",
+        "Rank": 55
+    },
+    {
+        "Id": 13,
+        "Name": "season_item.chess9",
+        "LevelId": 4212,
+        "MapId": 4212,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_012.Task_Chess_Level_012",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7008,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.13",
+        "Rank": 55
+    },
+    {
+        "Id": 14,
+        "Name": "season_item.chess10",
+        "LevelId": 4213,
+        "MapId": 4213,
+        "LevelStrength": 4,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_013.Task_Chess_Level_013",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7009,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.14",
+        "Rank": 55
+    },
+    {
+        "Id": 15,
+        "Name": "season_item.chess9",
+        "LevelId": 4214,
+        "MapId": 4214,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_014.Task_Chess_Level_014",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7008,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.15",
+        "Rank": 55
+    },
+    {
+        "Id": 16,
+        "Name": "season_item.chess10",
+        "LevelId": 4215,
+        "MapId": 4215,
+        "LevelStrength": 4,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_015.Task_Chess_Level_015",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7009,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.16",
+        "Rank": 55
+    },
+    {
+        "Id": 17,
+        "Name": "season_item.chess11",
+        "LevelId": 4216,
+        "MapId": 4216,
+        "LevelStrength": 2,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_016.Task_Chess_Level_016",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7010,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.17",
+        "Rank": 55
+    },
+    {
+        "Id": 18,
+        "Name": "season_item.chess9",
+        "LevelId": 4217,
+        "MapId": 4217,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_017.Task_Chess_Level_017",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7008,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.18",
+        "Rank": 55
+    },
+    {
+        "Id": 19,
+        "Name": "season_item.chess9",
+        "LevelId": 4218,
+        "MapId": 4218,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_018.Task_Chess_Level_018",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7008,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.19",
+        "Rank": 55
+    },
+    {
+        "Id": 20,
+        "Name": "season_item.chess11",
+        "LevelId": 4219,
+        "MapId": 4219,
+        "LevelStrength": 2,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_019.Task_Chess_Level_019",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7010,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.20",
+        "Rank": 55
+    },
+    {
+        "Id": 21,
+        "Name": "season_item.chess11",
+        "LevelId": 4220,
+        "MapId": 4220,
+        "LevelStrength": 2,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_020.Task_Chess_Level_020",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7010,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.21",
+        "Rank": 55
+    },
+    {
+        "Id": 22,
+        "Name": "season_item.chess10",
+        "LevelId": 4221,
+        "MapId": 4221,
+        "LevelStrength": 4,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_021.Task_Chess_Level_021",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7009,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.22",
+        "Rank": 55
+    },
+    {
+        "Id": 23,
+        "Name": "season_item.chess11.1",
+        "LevelId": 4222,
+        "MapId": 4222,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_022.Task_Chess_Level_022",
+        "TeamRuleID": 4005,
+        "TrailCard": "",
+        "FirstDropID": 7011,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.23",
+        "Rank": 55
+    },
+    {
+        "Id": 24,
+        "Name": "season_item.chess11.1",
+        "LevelId": 4223,
+        "MapId": 4223,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_023.Task_Chess_Level_023",
+        "TeamRuleID": 4006,
+        "TrailCard": "",
+        "FirstDropID": 7011,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.24",
+        "Rank": 55
+    },
+    {
+        "Id": 25,
+        "Name": "season_item.chess11.1",
+        "LevelId": 4224,
+        "MapId": 4224,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_024.Task_Chess_Level_024",
+        "TeamRuleID": "",
+        "TrailCard": "",
+        "FirstDropID": 7011,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.25",
+        "Rank": 55
+    },
+    {
+        "Id": 26,
+        "Name": "season_item.chess11.1",
+        "LevelId": 4225,
+        "MapId": 4225,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_025.Task_Chess_Level_025",
+        "TeamRuleID": "",
+        "TrailCard": "",
+        "FirstDropID": 7011,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.26",
+        "Rank": 55
+    },
+    {
+        "Id": 27,
+        "Name": "season_item.chess9",
+        "LevelId": 4214,
+        "MapId": 4214,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_014.Task_Chess_Level_014",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7008,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.27",
+        "Rank": 55
+    },
+    {
+        "Id": 28,
+        "Name": "season_item.chess9",
+        "LevelId": 4214,
+        "MapId": 4214,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_014.Task_Chess_Level_014",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7008,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.28",
+        "Rank": 55
+    },
+    {
+        "Id": 29,
+        "Name": "season_item.chess11.1",
+        "LevelId": 4224,
+        "MapId": 4224,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_024.Task_Chess_Level_024",
+        "TeamRuleID": "",
+        "TrailCard": "",
+        "FirstDropID": 7011,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.29",
+        "Rank": 55
+    },
+    {
+        "Id": 30,
+        "Name": "season_item.chess9",
+        "LevelId": 4204,
+        "MapId": 4204,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_004.Task_Chess_Level_004",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7008,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.30",
+        "Rank": 55
+    },
+    {
+        "Id": 31,
+        "Name": "season_item.chess9",
+        "LevelId": 4204,
+        "MapId": 4204,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_004.Task_Chess_Level_004",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7008,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.31",
+        "Rank": 55
+    },
+    {
+        "Id": 32,
+        "Name": "season_item.chess9",
+        "LevelId": 4203,
+        "MapId": 4203,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_004.Task_Chess_Level_004",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7008,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.32",
+        "Rank": 55
+    },
+    {
+        "Id": 33,
+        "Name": "season_item.chess9",
+        "LevelId": 4202,
+        "MapId": 4202,
+        "LevelStrength": 1,
+        "TaskPath": "ChessMapLevel/Task_Chess_Level_002.Task_Chess_Level_002",
+        "TeamRuleID": "",
+        "TrailCard": [
+            103006,
+            103007
+        ],
+        "FirstDropID": 7008,
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "Desc": "season_task.chessbattle1.33",
+        "Rank": 55
+    }
+]

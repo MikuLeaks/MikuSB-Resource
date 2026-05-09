@@ -1,0 +1,569 @@
+[
+    {
+        "Key": "chesstask1",
+        "zh_CN": "灯节·初探",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask1.desc",
+        "zh_CN": "通关第一章：“灯节”阶段行动",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask2",
+        "zh_CN": "灯节·伊始",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask2.desc",
+        "zh_CN": "触发并完成“灯节”的所有节点，并获得全部送福宝箱",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask3",
+        "zh_CN": "祈愿·阵痛",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask3.desc",
+        "zh_CN": "通关第二章：“祈愿”阶段行动",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask4",
+        "zh_CN": "祈愿·忧患",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask4.desc",
+        "zh_CN": "触发并完成“祈愿”的所有节点，并获得全部送福宝箱",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask5",
+        "zh_CN": "隐秘·探悉",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask5.desc",
+        "zh_CN": "通关第三章：“隐秘”阶段行动",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask6",
+        "zh_CN": "隐秘·洞察",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask6.desc",
+        "zh_CN": "触发并完成“隐秘”的所有节点，并获得全部送福宝箱",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask7",
+        "zh_CN": "患失·风波",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask7.desc",
+        "zh_CN": "通关第四章：“患失”阶段行动",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask8",
+        "zh_CN": "患失·难关",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask8.desc",
+        "zh_CN": "触发并完成“患失”的所有节点，并获得全部送福宝箱",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask9",
+        "zh_CN": "难关·抵抗",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask9.desc",
+        "zh_CN": "完成第五章：“难关”阶段行动",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask10",
+        "zh_CN": "难关·攻克",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask10.desc",
+        "zh_CN": "触发并完成“难关”的所有节点，并获得全部送福宝箱",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask11",
+        "zh_CN": "福至·欢游",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask11.desc",
+        "zh_CN": "完成第六章：“福至”阶段行动",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask12",
+        "zh_CN": "福至·团圆",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask12.desc",
+        "zh_CN": "触发并完成“福至”的所有节点，并获得全部送福宝箱",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask100",
+        "zh_CN": "头号守护者",
+        "disable": 0
+    },
+    {
+        "Key": "chesstask100.desc",
+        "zh_CN": "触发并完成活动“灯火照途明”的所有节点，并获得全部送福宝箱",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "m1a.task01",
+        "zh_CN": "会场执勤",
+        "disable": 0
+    },
+    {
+        "Key": "m1a.task01.des",
+        "zh_CN": "协助泰古通达庆典活动现场的安保工作。",
+        "disable": 0
+    },
+    {
+        "Key": "m1a.task02",
+        "zh_CN": "仓尧的求助",
+        "disable": 0
+    },
+    {
+        "Key": "m1a.task02.des",
+        "zh_CN": "帮助仓尧整理混乱的物资箱，保持庆典活动会场的秩序。",
+        "disable": 0
+    },
+    {
+        "Key": "m1a.task03",
+        "zh_CN": "未始祸事",
+        "disable": 0
+    },
+    {
+        "Key": "m1a.task03.des",
+        "zh_CN": "追查出现在庆典活动会场中的不明装置。",
+        "disable": 0
+    },
+    {
+        "Key": "m2a.task01",
+        "zh_CN": "失序因子",
+        "disable": 0
+    },
+    {
+        "Key": "m2a.task04.des",
+        "zh_CN": "调查逐光者一方是否在扰乱庆典活动。",
+        "disable": 0
+    },
+    {
+        "Key": "m2a.task02",
+        "zh_CN": "不谐之音",
+        "disable": 0
+    },
+    {
+        "Key": "m2a.task02.des",
+        "zh_CN": "处理在会场上失控的泰古通达安保机器人。",
+        "disable": 0
+    },
+    {
+        "Key": "m2a.task03",
+        "zh_CN": "清扫行动",
+        "disable": 0
+    },
+    {
+        "Key": "m2a.task03.des",
+        "zh_CN": "排查会场的不明装置，防止发生无法预测的事件。",
+        "disable": 0
+    },
+    {
+        "Key": "m3a.task01",
+        "zh_CN": "木隐于林",
+        "disable": 0
+    },
+    {
+        "Key": "m3a.task01.des",
+        "zh_CN": "集中搜索并处理隐藏在人群聚集处的不明装置。",
+        "disable": 0
+    },
+    {
+        "Key": "m3a.task02",
+        "zh_CN": "清扫行动",
+        "disable": 0
+    },
+    {
+        "Key": "m3a.task02.des",
+        "zh_CN": "在金琅的助力下，进一步处理隐藏在会场中的不明装置。",
+        "disable": 0
+    },
+    {
+        "Key": "m3a.task03",
+        "zh_CN": "罪人自白",
+        "disable": 0
+    },
+    {
+        "Key": "m3a.task03.des",
+        "zh_CN": "根据伊尔提供的线索和门禁卡，前往处理不明装置。",
+        "disable": 0
+    },
+    {
+        "Key": "m4a.task01",
+        "zh_CN": "导火索",
+        "disable": 0
+    },
+    {
+        "Key": "m4a.task01.des",
+        "zh_CN": "追查不明装置的来源，查明幕后人的真实目的。",
+        "disable": 0
+    },
+    {
+        "Key": "m5a.task01",
+        "zh_CN": "会合",
+        "disable": 0
+    },
+    {
+        "Key": "m5a.task01.des",
+        "zh_CN": "向燃灯台的方向前进与队员们会合，同时加强安保力度。",
+        "disable": 0
+    },
+    {
+        "Key": "m5a.task02",
+        "zh_CN": "转圜",
+        "disable": 0
+    },
+    {
+        "Key": "m5a.task02.des",
+        "zh_CN": "在零区居民主动协助疏散的情况下，尽快清理会场的泰坦。",
+        "disable": 0
+    },
+    {
+        "Key": "m6a.task01",
+        "zh_CN": "最后的委托",
+        "disable": 0
+    },
+    {
+        "Key": "m6a.task01.des",
+        "zh_CN": "协助安保工作的同时，带着海姆达尔的大家享受庆典活动。",
+        "disable": 0
+    },
+    {
+        "Key": "m6a.task02",
+        "zh_CN": "燃灯祈福",
+        "disable": 0
+    },
+    {
+        "Key": "m6a.task02.des",
+        "zh_CN": "和大家一起留下美好的回忆。",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "m1b.task01",
+        "zh_CN": "奇怪的视线",
+        "disable": 0
+    },
+    {
+        "Key": "m1b.task01.des",
+        "zh_CN": "一如既往的巡逻任务中，却感受到了群众炙热的视线。",
+        "disable": 0
+    },
+    {
+        "Key": "m1b.task02",
+        "zh_CN": "来者匆匆",
+        "disable": 0
+    },
+    {
+        "Key": "m1b.task02.des",
+        "zh_CN": "突然出现的少女，究竟是谁？",
+        "disable": 0
+    },
+    {
+        "Key": "m2b.task01",
+        "zh_CN": "额外注意事项",
+        "disable": 0
+    },
+    {
+        "Key": "m2b.task01.des",
+        "zh_CN": "追踪意外独自行动的瑟瑞斯。",
+        "disable": 0
+    },
+    {
+        "Key": "m2b.task02",
+        "zh_CN": "雇主与跑腿",
+        "disable": 0
+    },
+    {
+        "Key": "m2b.task02.des",
+        "zh_CN": "确认伊尔与金琅之间的关系。",
+        "disable": 0
+    },
+    {
+        "Key": "m3b.task01",
+        "zh_CN": "欲盖弥彰",
+        "disable": 0
+    },
+    {
+        "Key": "m3b.task01.des",
+        "zh_CN": "弄清伊尔慌慌张张的原因。",
+        "disable": 0
+    },
+    {
+        "Key": "m4b.task01",
+        "zh_CN": "未能传达的信",
+        "disable": 0
+    },
+    {
+        "Key": "m4b.task01.des",
+        "zh_CN": "找个机会，了解手中信石的来源。",
+        "disable": 0
+    },
+    {
+        "Key": "m4b.task02",
+        "zh_CN": "未能传达的信2",
+        "disable": 0
+    },
+    {
+        "Key": "m4b.task02.des",
+        "zh_CN": "查清另一块信石上的内容。",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "chessbattle1.2",
+        "zh_CN": "面对未知真实身份的敌人，海姆达尔的队员们已经准备好战斗了。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.3",
+        "zh_CN": "面对未知真实身份的敌人，海姆达尔的队员们已经准备好战斗了。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.4",
+        "zh_CN": "突然出现的泰坦给活动会场带来巨大的危机，请迅速将其驱逐，保护零区居民。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.5",
+        "zh_CN": "突然出现的泰坦给活动会场带来巨大的危机，请迅速将其驱逐，保护零区居民。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.6",
+        "zh_CN": "几名神色紧张的郊狼成员聚在一处，请及时出手防患于未然。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.7",
+        "zh_CN": "几名神色紧张的郊狼成员聚在一处，请及时出手防患于未然。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.8",
+        "zh_CN": "面对未知真实身份的敌人，海姆达尔的队员们已经准备好战斗了。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.9",
+        "zh_CN": "几名神色紧张的郊狼成员聚在一处，请及时出手防患于未然。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.10",
+        "zh_CN": "一批眼熟的无人机出现在会场上空，该开始执行安保工作了。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.11",
+        "zh_CN": "面对未知真实身份的敌人，海姆达尔的队员们已经准备好战斗了。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.12",
+        "zh_CN": "面对失控的安保机器人，到了分析员出场的时刻了。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.13",
+        "zh_CN": "面对未知真实身份的敌人，海姆达尔的队员们已经准备好战斗了。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.14",
+        "zh_CN": "突然出现的泰坦给活动会场带来巨大的危机，请迅速将其驱逐，保护零区居民。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.15",
+        "zh_CN": "突然出现的泰坦给活动会场带来巨大的危机，请迅速将其驱逐，保护零区居民。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.16",
+        "zh_CN": "降临团成员引发的骚乱亟待解决。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.17",
+        "zh_CN": "一批眼熟的无人机出现在会场上空，该开始执行安保工作了。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.18",
+        "zh_CN": "面对失控的安保机器人，到了分析员出场的时刻了。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.19",
+        "zh_CN": "突然出现的泰坦给活动会场带来巨大的危机，请迅速将其驱逐，保护零区居民。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.20",
+        "zh_CN": "突然出现的泰坦给活动会场带来巨大的危机，请迅速将其驱逐，保护零区居民。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.21",
+        "zh_CN": "突然出现的泰坦给活动会场带来巨大的危机，请迅速将其驱逐，保护零区居民。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.22",
+        "zh_CN": "降临团成员引发的骚乱亟待解决。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.23",
+        "zh_CN": "灯靶猎戏，以灯笼为靶，击中以燃起希望。\\n是明灯新仪结束后，零区人们喜爱的小游戏。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.24",
+        "zh_CN": "灯靶猎戏，以灯笼为靶，击中以燃起希望。\\n是明灯新仪结束后，零区人们喜爱的小游戏。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.25",
+        "zh_CN": "限定时间内击碎所有瓶子，赢取奖励。\\n在零区玩游戏，需要掌握一些特殊的小技巧。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.26",
+        "zh_CN": "限定时间内击碎所有瓶子，赢取奖励。\\n在零区玩游戏，需要掌握一些特殊的小技巧。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.27",
+        "zh_CN": "突然出现的泰坦给活动会场带来巨大的危机，请迅速将其驱逐，保护零区居民。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.28",
+        "zh_CN": "突然出现的泰坦给活动会场带来巨大的危机，请迅速将其驱逐，保护零区居民。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.29",
+        "zh_CN": "远处的摊贩谄媚地向你摇着手，示意你试试零区内独特的定点射击挑战。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.30",
+        "zh_CN": "明灯新仪顺利结束，但会场内可能依旧隐藏着危机，需要分析员一一排除。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.31",
+        "zh_CN": "明灯新仪顺利结束，但会场内可能依旧隐藏着危机，需要分析员一一排除。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.32",
+        "zh_CN": "突然出现的泰坦给活动会场带来巨大的危机，请迅速将其驱逐，保护零区居民。",
+        "disable": 0
+    },
+    {
+        "Key": "chessbattle1.33",
+        "zh_CN": "面对未知真实身份的敌人，海姆达尔的队员们已经准备好战斗了。",
+        "disable": 0
+    },
+    {
+        "Key": "richmantask1",
+        "zh_CN": "逐浪赢家"
+    },
+    {
+        "Key": "richmantask1.desc",
+        "zh_CN": "累计获得派对金币10000枚"
+    },
+    {
+        "Key": "richmantask2",
+        "zh_CN": "密林赢家"
+    },
+    {
+        "Key": "richmantask2.desc",
+        "zh_CN": "累计获得派对金币10000枚"
+    },
+    {
+        "Key": "richmantask3",
+        "zh_CN": "溯影赢家"
+    },
+    {
+        "Key": "richmantask3.desc",
+        "zh_CN": "累计获得派对金币5000枚"
+    },
+    {
+        "Key": "richmantask4",
+        "zh_CN": "共斗领袖"
+    },
+    {
+        "Key": "richmantask4.desc",
+        "zh_CN": "累计获得派对金币20000枚"
+    },
+    {
+        "Key": "richmantask5",
+        "zh_CN": "星光闪闪"
+    },
+    {
+        "Key": "richmantask5.desc"
+    },
+    {
+        "Key": "richmantask6",
+        "zh_CN": "星力满满"
+    },
+    {
+        "Key": "richmantask6.desc"
+    },
+    {
+        "Key": "richmantaskinfo1",
+        "zh_CN": "所在队伍获得金币10000"
+    },
+    {
+        "Key": "richmantaskinfo2",
+        "zh_CN": "所有敌对队伍破产"
+    },
+    {
+        "Key": "richmantaskinfo3",
+        "zh_CN": "击败透墨索斯"
+    }
+]

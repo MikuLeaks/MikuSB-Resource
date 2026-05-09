@@ -1,0 +1,93 @@
+[
+    {
+        "Id": 1,
+        "Desc": "online.Forbidzone_SkillDesc5",
+        "ClassName": "Cooldown",
+        "Args": [
+            50
+        ],
+        "Desc2": "online.Forbidzone_SkillName5",
+        "key": "online.Forbidzone_SkillName5",
+        "icon": 1001419
+    },
+    {
+        "Id": 2,
+        "Desc": "online.Forbidzone_SkillDesc6",
+        "ClassName": "UseCount",
+        "Args": [
+            1
+        ],
+        "Desc2": "online.Forbidzone_SkillName6",
+        "key": "online.Forbidzone_SkillName6",
+        "icon": 1001421
+    },
+    {
+        "Id": 3,
+        "Desc": "online.Forbidzone_SkillDesc7",
+        "ClassName": "PlayerDamage",
+        "Args": [
+            25
+        ],
+        "Desc2": "online.Forbidzone_SkillName7",
+        "key": "online.Forbidzone_SkillName7",
+        "icon": 1001423
+    },
+    {
+        "Id": 4,
+        "Desc": "online.Forbidzone_SkillDesc8",
+        "ClassName": "ItemDamage",
+        "Args": [
+            25
+        ],
+        "Desc2": "online.Forbidzone_SkillName8",
+        "key": "online.Forbidzone_SkillName8",
+        "icon": 1001425
+    },
+    {
+        "Id": 5,
+        "Desc": "online.Forbidzone_SkillDesc9",
+        "ClassName": "Deployment",
+        "Args": [
+            2
+        ],
+        "Desc2": "online.Forbidzone_SkillName9",
+        "key": "online.Forbidzone_SkillName9",
+        "icon": 1001427
+    },
+    {
+        "Id": 6,
+        "Desc": "online.Forbidzone_SkillDesc1",
+        "ClassName": "",
+        "Args": "",
+        "Desc2": "online.Forbidzone_SkillName1",
+        "key": "online.Forbidzone_SkillName1",
+        "icon": 1001417
+    },
+    {
+        "Id": 7,
+        "Desc": "online.Forbidzone_SkillDesc2",
+        "ClassName": "",
+        "Args": "",
+        "Desc2": "online.Forbidzone_SkillName2",
+        "key": "online.Forbidzone_SkillName2",
+        "icon": 1001411
+    },
+    {
+        "Id": 8,
+        "Desc": "online.Forbidzone_SkillDesc3",
+        "ClassName": "",
+        "Args": "",
+        "Desc2": "online.Forbidzone_SkillName3",
+        "key": "online.Forbidzone_SkillName3",
+        "icon": 1001415
+    },
+    {
+        "Id": 9,
+        "Desc": "online.Forbidzone_SkillDesc4",
+        "ClassName": "",
+        "Args": "",
+        "Desc2": "online.Forbidzone_SkillName4",
+        "key": "online.Forbidzone_SkillName4",
+        "icon": 1001413
+    }
+]

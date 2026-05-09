@@ -1,0 +1,942 @@
+[
+    {
+        "Key": 1,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我拎着满满一袋慰问品——都是上一次被芬妮拉去逛街时买的。",
+        "disable": 0
+    },
+    {
+        "Key": 3,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我再次来到病房，想要看望安卡希雅，却被护理员告知：安卡希雅向来不肯老实待在病房里，真要见她，不如去训练室找找。",
+        "disable": 0
+    },
+    {
+        "Key": 4,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我忘记问训练室的方位，也忘记了自己其实还没那么熟悉这栋大楼……这是我不在时新修的。",
+        "disable": 0
+    },
+    {
+        "Key": 6,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "？？？",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "喂！你在找人？",
+        "disable": 0
+    },
+    {
+        "Key": 7,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安卡希雅病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "还是迷路了？",
+        "disable": 0
+    },
+    {
+        "Key": 8,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安卡希雅病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "十分钟之内，你从我门口路过了三次。",
+        "disable": 0
+    },
+    {
+        "Key": "b-3",
+        "Flag": "b-3",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 9,
+        "Flag": "b-3-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "安卡希雅！",
+        "disable": 0
+    },
+    {
+        "Key": 10,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安卡希雅病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "先站在原地别动！",
+        "disable": 0
+    },
+    {
+        "Key": 11,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安卡希雅病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你怎么是一副抽卡终于出金了的表情……",
+        "disable": 0
+    },
+    {
+        "Key": "b-4",
+        "Flag": "b-4",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 12,
+        "Flag": "b-4-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "抽卡？",
+        "disable": 0
+    },
+    {
+        "Key": 13,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安卡希雅病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "啊……现在已经没有这种游戏了吗……",
+        "disable": 0
+    },
+    {
+        "Key": 14,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "安卡希雅说完话，就又自顾自地锻炼起来。",
+        "disable": 0
+    },
+    {
+        "Key": 15,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "少女看似瘦弱的手臂却能挥出一记又一记重拳，挥出的拳风刮得皮肤隐隐作痛……",
+        "disable": 0
+    },
+    {
+        "Key": 16,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "如果挨上一记……",
+        "disable": 0
+    },
+    {
+        "Key": 17,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安卡希雅病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "会很痛，最好打消那种念头。",
+        "disable": 0
+    },
+    {
+        "Key": 18,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她难道会读心术吗？",
+        "disable": 0
+    },
+    {
+        "Key": 19,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安卡希雅病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你要这样一直看下去吗？",
+        "disable": 0
+    },
+    {
+        "Key": "b-5",
+        "Flag": "b-5",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 20,
+        "Flag": "b-5-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不是你让我站着别动的吗？",
+        "disable": 0
+    },
+    {
+        "Key": 21,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安卡希雅病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "哦知道了，是来找我要谢礼的？",
+        "disable": 0
+    },
+    {
+        "Key": "b-6",
+        "Flag": "b-6",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 22,
+        "Flag": "b-6-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "什么谢礼？",
+        "disable": 0
+    },
+    {
+        "Key": 23,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安卡希雅病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "欸？",
+        "disable": 0
+    },
+    {
+        "Key": 24,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安卡希雅病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": 25,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安卡希雅病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你不会……真的是单纯想来看望我吧？",
+        "disable": 0
+    },
+    {
+        "Key": "b-7",
+        "Flag": "b-7",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 26,
+        "Flag": "b-7-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "接下来我可能会离开一段时间，有点担心……",
+        "disable": 0
+    },
+    {
+        "Key": 27,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安卡希雅病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "提醒一下，我不是你从街边捡回来的小猫小狗。",
+        "disable": 0
+    },
+    {
+        "Key": 28,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安卡希雅病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不过还是谢了，毕竟大多数人，都更喜欢索取回报。",
+        "disable": 0
+    },
+    {
+        "Key": 29,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安卡希雅病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你要调走了？",
+        "disable": 0
+    },
+    {
+        "Key": "b-2",
+        "Flag": "b-2",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 30,
+        "Flag": "b-2-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不是，去执行任务，会离开一段时间。",
+        "disable": 0
+    },
+    {
+        "Key": 36,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安卡希雅病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "接下来，我应该也会进海姆达尔部队。",
+        "disable": 0
+    },
+    {
+        "Key": 37,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安卡希雅病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我现在也是天启……这个词真说不出口，到底是谁起的名字啊！",
+        "disable": 0
+    },
+    {
+        "Key": 38,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安卡希雅病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "总之，我好像也会成为你的部下。",
+        "disable": 0
+    },
+    {
+        "Key": 40,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安卡希雅病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "之后可以给我安排那种，不用出门也可以完成的任务吗？",
+        "disable": 0
+    },
+    {
+        "Key": 43,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "告别安卡希雅后，我在安全部的护送下，来到派遣函所指定的安全屋报道，却没有见到在预想中会存在的接应人员。",
+        "disable": 0
+    },
+    {
+        "Key": 44,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "到底是什么任务？连个迎接的人都没有……",
+        "disable": 0
+    },
+    {
+        "Key": 46,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安全部干员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员长官，我们就送您到这里。",
+        "disable": 0
+    },
+    {
+        "Key": 47,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安全部干员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "如果遇到什么情况，请通过通讯跟我们联络。",
+        "disable": 0
+    },
+    {
+        "Key": "b-13",
+        "Flag": "b-13",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 48,
+        "Flag": "b-13-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "好的，谢谢你们。",
+        "disable": 0
+    },
+    {
+        "Key": 49,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安全部干员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "那么，我们就先行撤离了，祝您一切顺利。",
+        "disable": 0
+    },
+    {
+        "Key": 50,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "安全部的武装干员们离开后，我使用虹膜解锁了安全屋的闸门，然后推门进入。",
+        "disable": 0
+    },
+    {
+        "Key": 51,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "跟我之前见过的安全屋，在构造布局上都差不多，除了……",
+        "disable": 0
+    },
+    {
+        "Key": "b-14",
+        "Flag": "b-14",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 52,
+        "Flag": "b-14-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "咳！咳！咳！",
+        "disable": 0
+    },
+    {
+        "Key": 53,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "灰尘有点大！",
+        "disable": 0
+    },
+    {
+        "Key": 54,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "那么，会有新的情报官吗？",
+        "disable": 0
+    },
+    {
+        "Key": 55,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "咦？已经到了吗？还挺准时的嘛。",
+        "disable": 0
+    },
+    {
+        "Key": "auto_b-16",
+        "Flag": "b-16",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": "b-16",
+        "Flag": "b-16",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": "41a",
+        "Flag": "b-16-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "可以。",
+        "disable": 0
+    },
+    {
+        "Key": 58,
+        "Flag": "b-16-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "见到你真好，还以为会换成别人跟我合作。",
+        "disable": 0
+    },
+    {
+        "Key": 59,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "老实说，你嘴这么甜我还有一点不适应……",
+        "disable": 0
+    },
+    {
+        "Key": 60,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "至于为什么还是我……这是一个令人悲伤的故事……“赛博打工人身兼数职，工资却只有一份”，大概能取这样的标题。",
+        "disable": 0
+    },
+    {
+        "Key": "auto_b-17",
+        "Flag": "b-17",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": "b-17",
+        "Flag": "b-17",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": "41b",
+        "Flag": "b-17-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "假如有这种任务的话，我会优先安排你。",
+        "disable": 0
+    },
+    {
+        "Key": "41c",
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安卡希雅病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "没有诚意，我不能算是你的嫡系吗？",
+        "disable": 0
+    },
+    {
+        "Key": "41d",
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "安卡希雅病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "嫡系难道还要干活？",
+        "disable": 0
+    },
+    {
+        "Key": 61,
+        "Flag": "b-17-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "卡罗琳，你好辛苦……",
+        "disable": 0
+    },
+    {
+        "Key": 62,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "被你用这种同情的口吻感慨，突然觉得很火大！",
+        "disable": 0
+    },
+    {
+        "Key": 63,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "现在明白我为什么老加班了吧？如果明白……请你以后少惹麻烦！",
+        "disable": 0
+    },
+    {
+        "Key": 64,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "对了。",
+        "disable": 0
+    },
+    {
+        "Key": 65,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你见过这边的队员了吗？",
+        "disable": 0
+    },
+    {
+        "Key": "auto_b-18",
+        "Flag": "b-18",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 66,
+        "Flag": "b-18-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "还没有。",
+        "disable": 0
+    },
+    {
+        "Key": 67,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我已经通知她们了，应该也快到了。",
+        "disable": 0
+    },
+    {
+        "Key": 68,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "噔~噔噔~噔~噔！",
+        "disable": 0
+    },
+    {
+        "Key": 69,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这位是茉莉安，你们应该挺熟了。",
+        "disable": 0
+    },
+    {
+        "Key": 70,
+        "Flag": "",
+        "Pos": 1,
+        "Speaker": "茉莉安",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "又见面了，分析员，您路途上没遇到什么危险吧？",
+        "disable": 0
+    },
+    {
+        "Key": "b-19",
+        "Flag": "b-19",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 71,
+        "Flag": "b-19-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "都很顺利。",
+        "disable": 0
+    },
+    {
+        "Key": "auto_30907",
+        "Flag": "b-17",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": "71a",
+        "Flag": "b-17-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "见到熟悉的面孔真好。",
+        "disable": 0
+    },
+    {
+        "Key": 72,
+        "Flag": "",
+        "Pos": 1,
+        "Speaker": "茉莉安",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我也和您有相同的感受。",
+        "disable": 0
+    },
+    {
+        "Key": 73,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这边是琴诺……",
+        "disable": 0
+    },
+    {
+        "Key": "b-20",
+        "Flag": "b-20",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 74,
+        "Flag": "b-20-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你好，琴诺，初次见面，请多……",
+        "disable": 0
+    },
+    {
+        "Key": 75,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我习惯性地向琴诺伸出手，她却忽然像受到惊吓般，往卡罗琳的全息影像后缩了缩。",
+        "disable": 0
+    },
+    {
+        "Key": 76,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "嗯……琴诺这孩子稍微有点……敏感。",
+        "disable": 0
+    },
+    {
+        "Key": 77,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员，你和她相处的时候，可能要注意一下方式。",
+        "disable": 0
+    },
+    {
+        "Key": "b-21",
+        "Flag": "b-21",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 78,
+        "Flag": "b-21-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我明白了。",
+        "disable": 0
+    },
+    {
+        "Key": 79,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我把手收了回来，露出自认为最和煦、最自然的微笑。",
+        "disable": 0
+    },
+    {
+        "Key": "b-22",
+        "Flag": "b-22",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 80,
+        "Flag": "b-22-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我叫playername，你也可以叫我分析员。",
+        "disable": 0
+    },
+    {
+        "Key": 81,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "琴诺犹豫了片刻，终于用极细极轻的声音回应我。",
+        "disable": 0
+    },
+    {
+        "Key": 82,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "琴诺",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "琴，琴诺，我叫！",
+        "disable": 0
+    },
+    {
+        "Key": 83,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你别看她这样，关键时刻，可是意外可靠呢。",
+        "disable": 0
+    },
+    {
+        "Key": 84,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "就这样，摆脱了共感神经后，我在世界树公司的工作进入了新阶段。",
+        "disable": 0
+    }
+]

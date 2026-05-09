@@ -1,0 +1,178 @@
+[
+    {
+        "PropID": 1,
+        "Icon": 1545201,
+        "Name": "house.Coinpusher_ActivePropName1",
+        "Desc": "house.Coinpusher_ActivePropDesc1",
+        "Effect": "",
+        "ExtraParam": [
+            [
+                "radius",
+                13
+            ],
+            [
+                "force",
+                90
+            ],
+            [
+                "times",
+                1
+            ]
+        ],
+        "Quality": 3,
+        "Type": 3,
+        "PayPrice": 40,
+        "SalePrice": 20,
+        "Tag": "9,10"
+    },
+    {
+        "PropID": 2,
+        "Icon": 1545202,
+        "Name": "house.Coinpusher_ActivePropName2",
+        "Desc": "house.Coinpusher_ActivePropDesc2",
+        "Effect": "",
+        "ExtraParam": [
+            [
+                "radius",
+                13
+            ],
+            [
+                "times",
+                1
+            ]
+        ],
+        "Quality": 3,
+        "Type": 3,
+        "PayPrice": 40,
+        "SalePrice": 20,
+        "Tag": "9,10"
+    },
+    {
+        "PropID": 3,
+        "Icon": 1545203,
+        "Name": "house.Coinpusher_ActivePropName3",
+        "Desc": "house.Coinpusher_ActivePropDesc3",
+        "Effect": [
+            101,
+            [
+                15,
+                [
+                    6,
+                    12
+                ]
+            ]
+        ],
+        "ExtraParam": [
+            "times",
+            2
+        ],
+        "Quality": 3,
+        "Type": 3,
+        "PayPrice": 25,
+        "SalePrice": 13,
+        "Tag": 9
+    },
+    {
+        "PropID": 4,
+        "Icon": 1545204,
+        "Name": "house.Coinpusher_ActivePropName4",
+        "Desc": "house.Coinpusher_ActivePropDesc4",
+        "Effect": "",
+        "ExtraParam": [
+            [
+                "radius",
+                11
+            ],
+            [
+                "force",
+                90
+            ],
+            [
+                "times",
+                1
+            ]
+        ],
+        "Quality": 3,
+        "Type": 3,
+        "PayPrice": 25,
+        "SalePrice": 13,
+        "Tag": 9
+    },
+    {
+        "PropID": 5,
+        "Icon": 1545205,
+        "Name": "house.Coinpusher_ActivePropName5",
+        "Desc": "house.Coinpusher_ActivePropDesc5",
+        "Effect": [
+            102,
+            [
+                1,
+                1
+            ]
+        ],
+        "ExtraParam": [
+            [
+                "radius",
+                9
+            ],
+            [
+                "times",
+                1
+            ]
+        ],
+        "Quality": 3,
+        "Type": 3,
+        "PayPrice": 25,
+        "SalePrice": 13,
+        "Tag": 9
+    },
+    {
+        "PropID": 6,
+        "Icon": 1545206,
+        "Name": "house.Coinpusher_ActivePropName6",
+        "Desc": "house.Coinpusher_ActivePropDesc6",
+        "Effect": [
+            103,
+            [
+                2,
+                10
+            ]
+        ],
+        "ExtraParam": [
+            "times",
+            1
+        ],
+        "Quality": 2,
+        "Type": 2,
+        "PayPrice": 12,
+        "SalePrice": 6,
+        "Tag": 8
+    },
+    {
+        "PropID": 7,
+        "Icon": 1545207,
+        "Name": "house.Coinpusher_ActivePropName7",
+        "Desc": "house.Coinpusher_ActivePropDesc7",
+        "Effect": "",
+        "ExtraParam": [
+            [
+                "radius",
+                5
+            ],
+            [
+                "times",
+                1
+            ]
+        ],
+        "Quality": 4,
+        "Type": 1,
+        "PayPrice": 50,
+        "SalePrice": 25,
+        "Tag": 7,
+        "LockTip": "house.Coinpusher_ActiveProp7LockTip",
+        "UnlockCondition": [
+            9,
+            10
+        ]
+    }
+]

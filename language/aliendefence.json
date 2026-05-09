@@ -1,0 +1,3405 @@
+[
+    {
+        "Key": "Alien_PalUnlock1",
+        "zh_CN": "通关【星球守护1】后解锁高热属性的新伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalUnlock2",
+        "zh_CN": "通关【星球守护3】后解锁电击属性的新伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalUnlock3",
+        "zh_CN": "通关【星球守护5】后解锁低温属性的新伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalUnlock4",
+        "zh_CN": "通关【星球守护6】后解锁低温属性的新伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalUnlock5",
+        "zh_CN": "通关【星球守护7】后解锁动能属性的新伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalUnlock6",
+        "zh_CN": "通关【星球守护9】后解锁动能属性的新伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalUnlock7",
+        "zh_CN": "通关【星球守护2】后解锁动能属性的新伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalUnlock8",
+        "zh_CN": "通关【星球守护4】后解锁低温属性的新伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalUnlock9",
+        "zh_CN": "通关【星球守护6】后解锁特异属性的新伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalUnlock10",
+        "zh_CN": "通关【星球守护8】后解锁高热属性的新伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalUnlock11",
+        "zh_CN": "通关【星球守护3】后解锁动能属性的新伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalUnlock12",
+        "zh_CN": "通关【星球守护5】后解锁低温属性的新伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalUnlock13",
+        "zh_CN": "通关【星球守护7】后解锁特异属性的新伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalUnlock14",
+        "zh_CN": "通关【星球守护9】后解锁高热属性的新伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalUnlock15",
+        "zh_CN": "通关【星球守护1】后解锁动能属性的新伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalUnlock16",
+        "zh_CN": "通关【星球守护2】后解锁低温属性的新伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalUnlock17",
+        "zh_CN": "通关【星球守护3】后解锁特异属性的新伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalUnlock18",
+        "zh_CN": "通关【星球守护4】后解锁高热属性的新伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalUnlock19",
+        "zh_CN": "通关【星球守护5】后解锁高热属性的新伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_01_01_name",
+        "zh_CN": "多处起爆 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_01_02_name",
+        "zh_CN": "多处起爆 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_01_03_name",
+        "zh_CN": "多处起爆 III",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_01_04_name",
+        "zh_CN": "多处起爆 IV",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_02_name",
+        "zh_CN": "扩散爆炸",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_03_01_name",
+        "zh_CN": "迸裂火焰 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_03_02_name",
+        "zh_CN": "迸裂火焰 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_04_name",
+        "zh_CN": "引火",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_04_01_name",
+        "zh_CN": "引火 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_04_02_name",
+        "zh_CN": "引火 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_05_01_name",
+        "zh_CN": "高亢 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_05_02_name",
+        "zh_CN": "高亢 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_06_01_name",
+        "zh_CN": "火势蔓延 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_06_02_name",
+        "zh_CN": "火势蔓延 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_07_name",
+        "zh_CN": "基础爆破",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_01_01_name",
+        "zh_CN": "再次投掷 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_01_02_name",
+        "zh_CN": "再次投掷 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_02_name",
+        "zh_CN": "扩散灼烧",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_03_01_name",
+        "zh_CN": "持续灼烧 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_03_02_name",
+        "zh_CN": "持续灼烧 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_04_01_name",
+        "zh_CN": "加量燃烧瓶 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_04_02_name",
+        "zh_CN": "加量燃烧瓶 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_05_01_name",
+        "zh_CN": "烈性灼烧 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_05_02_name",
+        "zh_CN": "烈性灼烧 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_06_name",
+        "zh_CN": "炎缓",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_06_01_name",
+        "zh_CN": "炎缓 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_06_02_name",
+        "zh_CN": "炎缓 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_07_01_name",
+        "zh_CN": "陷阱爆破 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_07_02_name",
+        "zh_CN": "陷阱爆破 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_08_name",
+        "zh_CN": "远程投掷",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_09_01_name",
+        "zh_CN": "陷阱针对 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_09_02_name",
+        "zh_CN": "陷阱针对 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_10_name",
+        "zh_CN": "陷阱活跃",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_01_01_name",
+        "zh_CN": "追加落雷 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_01_02_name",
+        "zh_CN": "追加落雷 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_01_03_name",
+        "zh_CN": "追加落雷 III",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_02_name",
+        "zh_CN": "扩散电击",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_03_01_name",
+        "zh_CN": "晕厥 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_03_02_name",
+        "zh_CN": "晕厥 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_04_01_name",
+        "zh_CN": "强效落雷 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_04_02_name",
+        "zh_CN": "强效落雷 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_04_03_name",
+        "zh_CN": "强效落雷 III",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_05_01_name",
+        "zh_CN": "加大电力 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_05_02_name",
+        "zh_CN": "加大电力 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_06_01_name",
+        "zh_CN": "持续电击 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_06_02_name",
+        "zh_CN": "持续电击 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_07_name",
+        "zh_CN": "持续瘫痪",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_08_name",
+        "zh_CN": "广域雷霆",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_09_01_name",
+        "zh_CN": "闪电穿透",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_09_02_name",
+        "zh_CN": "闪电压制",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_01_01_name",
+        "zh_CN": "追加预算 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_01_02_name",
+        "zh_CN": "追加预算 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_02_01_name",
+        "zh_CN": "追加工时 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_02_02_name",
+        "zh_CN": "追加工时 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_03_01_name",
+        "zh_CN": "放电磁暴 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_03_02_name",
+        "zh_CN": "放电磁暴 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_04_01_name",
+        "zh_CN": "脉冲麻痹 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_04_02_name",
+        "zh_CN": "脉冲麻痹 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_05_01_name",
+        "zh_CN": "电磁过激 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_05_02_name",
+        "zh_CN": "电磁过激 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_06_01_name",
+        "zh_CN": "电力麻痹 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_06_02_name",
+        "zh_CN": "电力麻痹 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_07_name",
+        "zh_CN": "贯穿",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_01_01_name",
+        "zh_CN": "多刀流 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_01_02_name",
+        "zh_CN": "多刀流 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_02_01_name",
+        "zh_CN": "连斩 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_02_02_name",
+        "zh_CN": "连斩 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_03_01_name",
+        "zh_CN": "凛冽之刃 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_03_02_name",
+        "zh_CN": "凛冽之刃 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_04_01_name",
+        "zh_CN": "凝冻 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_04_02_name",
+        "zh_CN": "凝冻 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_05_01_name",
+        "zh_CN": "刺骨 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_05_02_name",
+        "zh_CN": "刺骨 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_06_01_name",
+        "zh_CN": "穿透 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_06_02_name",
+        "zh_CN": "穿透 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_07_name",
+        "zh_CN": "极寒之地",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_08_01_name",
+        "zh_CN": "急冻 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_08_02_name",
+        "zh_CN": "急冻 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_09_name",
+        "zh_CN": "链式冰刃",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_10_name",
+        "zh_CN": "丛生冰刃",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_01_01_name",
+        "zh_CN": "裂变激光 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_01_02_name",
+        "zh_CN": "裂变激光 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_02_01_name",
+        "zh_CN": "零点激光 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_02_02_name",
+        "zh_CN": "零点激光 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_03_01_name",
+        "zh_CN": "拦截 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_03_02_name",
+        "zh_CN": "拦截 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_04_01_name",
+        "zh_CN": "能量稳定 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_04_02_name",
+        "zh_CN": "能量稳定 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_05_01_name",
+        "zh_CN": "临界失温 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_05_02_name",
+        "zh_CN": "临界失温 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_05_03_name",
+        "zh_CN": "临界失温 III",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_06_01_name",
+        "zh_CN": "冻伤延续 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_06_02_name",
+        "zh_CN": "冻伤延续 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_07_name",
+        "zh_CN": "急速射线",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_07_01_name",
+        "zh_CN": "急速射线 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_07_02_name",
+        "zh_CN": "急速射线 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_08_name",
+        "zh_CN": "高频射线",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_01_name",
+        "zh_CN": "前方高能",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_02_name",
+        "zh_CN": "加速追踪",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_03_01_name",
+        "zh_CN": "持续充能 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_03_02_name",
+        "zh_CN": "持续充能 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_04_01_name",
+        "zh_CN": "强效电池 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_04_02_name",
+        "zh_CN": "强效电池 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_04_03_name",
+        "zh_CN": "强效电池 III",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_05_01_name",
+        "zh_CN": "急速激光 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_05_02_name",
+        "zh_CN": "急速激光 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_06_01_name",
+        "zh_CN": "适者生存 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_06_02_name",
+        "zh_CN": "适者生存 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_07_name",
+        "zh_CN": "影子分身",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_07_01_name",
+        "zh_CN": "影子分身 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_07_02_name",
+        "zh_CN": "影子分身 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_08_name",
+        "zh_CN": "希望之花",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_09_01_name",
+        "zh_CN": "光明之影 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_09_02_name",
+        "zh_CN": "光明之影 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_10_name",
+        "zh_CN": "合理目眩",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_01_name",
+        "zh_CN": "引力扩散",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_02_01_name",
+        "zh_CN": "引力雷达 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_02_02_name",
+        "zh_CN": "引力雷达 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_03_01_name",
+        "zh_CN": "高频引力 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_03_02_name",
+        "zh_CN": "高频引力 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_03_03_name",
+        "zh_CN": "高频引力 III",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_04_01_name",
+        "zh_CN": "持续吸引 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_04_02_name",
+        "zh_CN": "持续吸引 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_04_03_name",
+        "zh_CN": "增速吸引 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_04_04_name",
+        "zh_CN": "增速吸引 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_05_01_name",
+        "zh_CN": "高能引力 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_05_02_name",
+        "zh_CN": "高能引力 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_06_01_name",
+        "zh_CN": "引力爆破 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_06_02_name",
+        "zh_CN": "引力爆破 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_07_name",
+        "zh_CN": "强效引力",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_07_01_name",
+        "zh_CN": "强效引力 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_07_02_name",
+        "zh_CN": "强效引力 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_08_name",
+        "zh_CN": "引力翻倍",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_09_name",
+        "zh_CN": "迟滞漩涡",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_01_01_name",
+        "zh_CN": "前锋列队 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_01_02_name",
+        "zh_CN": "前锋列队 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_01_03_name",
+        "zh_CN": "前锋列队 III",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_02_01_name",
+        "zh_CN": "极致钻头 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_02_02_name",
+        "zh_CN": "极致钻头 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_02_03_name",
+        "zh_CN": "极致钻头 III",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_03_01_name",
+        "zh_CN": "尖钻掣肘 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_03_02_name",
+        "zh_CN": "尖钻掣肘 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_04_01_name",
+        "zh_CN": "螺纹伤痕 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_04_02_name",
+        "zh_CN": "螺纹伤痕 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_05_01_name",
+        "zh_CN": "旋转视线 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_05_02_name",
+        "zh_CN": "旋转视线 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_06_01_name",
+        "zh_CN": "膨胀钻头",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_01_01_name",
+        "zh_CN": "高频运转 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_01_02_name",
+        "zh_CN": "高频运转 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_01_03_name",
+        "zh_CN": "高频运转 III",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_02_01_name",
+        "zh_CN": "触碰即伤 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_02_02_name",
+        "zh_CN": "触碰即伤 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_02_03_name",
+        "zh_CN": "触碰即伤 III",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_03_01_name",
+        "zh_CN": "多环相扣",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_04_01_name",
+        "zh_CN": "环状辐射 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_04_02_name",
+        "zh_CN": "环状辐射 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_05_01_name",
+        "zh_CN": "减速环区",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_06_01_name",
+        "zh_CN": "能量远行 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_06_02_name",
+        "zh_CN": "能量远行 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_07_01_name",
+        "zh_CN": "多重球阵",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_01_01_name",
+        "zh_CN": "弹药无忧 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_01_02_name",
+        "zh_CN": "弹药无忧 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_02_01_name",
+        "zh_CN": "附赠礼花 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_02_02_name",
+        "zh_CN": "附赠礼花 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_03_01_name",
+        "zh_CN": "射击挽留 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_03_02_name",
+        "zh_CN": "射击挽留 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_04_01_name",
+        "zh_CN": "热烈机枪 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_04_02_name",
+        "zh_CN": "热烈机枪 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_04_03_name",
+        "zh_CN": "热烈机枪 III",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_05_01_name",
+        "zh_CN": "炽热子弹 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_05_02_name",
+        "zh_CN": "炽热子弹 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_06_01_name",
+        "zh_CN": "盛气勃发",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_07_01_name",
+        "zh_CN": "弹药裂变",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_07_02_name",
+        "zh_CN": "弹药散射",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_07_03_name",
+        "zh_CN": "分头追击",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_08_01_name",
+        "zh_CN": "弹雨洪流 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_08_02_name",
+        "zh_CN": "弹雨洪流 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_998_01_name",
+        "zh_CN": "阵地重生",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_998_02_name",
+        "zh_CN": "弹雨倾盆",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_998_03_name",
+        "zh_CN": "羁绊之力",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_997_01_01_name",
+        "zh_CN": "全职伙伴 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_997_01_02_name",
+        "zh_CN": "全职伙伴 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_997_02_01_name",
+        "zh_CN": "百里开外 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_997_02_02_name",
+        "zh_CN": "百里开外 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_997_03_01_name",
+        "zh_CN": "优速职人 I",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_997_03_02_name",
+        "zh_CN": "优速职人 II",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_51_01_name",
+        "zh_CN": "轰炸电球",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_51_02_name",
+        "zh_CN": "威力电球",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_51_03_name",
+        "zh_CN": "酥麻电球",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_52_01_name",
+        "zh_CN": "燃爆光波",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_52_02_name",
+        "zh_CN": "威力光波",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_52_03_name",
+        "zh_CN": "频闪光波",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_53_01_name",
+        "zh_CN": "碎碎刨冰",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_53_02_name",
+        "zh_CN": "碎碎坚冰",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_53_03_name",
+        "zh_CN": "碎碎寒冰",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_54_01_name",
+        "zh_CN": "眩晕领域",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_54_02_name",
+        "zh_CN": "轰炸领域",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_54_03_name",
+        "zh_CN": "多维领域",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_55_01_name",
+        "zh_CN": "返场火榴弹",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_55_02_name",
+        "zh_CN": "频闪火榴弹",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_55_03_name",
+        "zh_CN": "叠加火榴弹",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_01_des",
+        "zh_CN": "爆炸次数增加%s",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_01_01_des",
+        "zh_CN": "爆炸次数增加%s，每次引爆瞬时造成的伤害降低%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_02_des",
+        "zh_CN": "爆炸造成的伤害范围扩大%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_03_des",
+        "zh_CN": "爆炸后对敌方额外施加灼烧效果，每秒对其造成高热类型伤害，效果持续%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_04_des",
+        "zh_CN": "爆炸对敌方目标施加灼烧效果的持续时间增加%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_04_01_des",
+        "zh_CN": "爆炸对敌方目标施加灼烧效果的持续时间增加%s秒，每次造成伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_05_des",
+        "zh_CN": "爆炸将会生成1个火焰陷阱，持续%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_05_01_des",
+        "zh_CN": "火焰陷阱对目标造成的伤害提升%s%%，并施加%s%%的易伤效果",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_06_des",
+        "zh_CN": "爆炸对敌方目标造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_07_des",
+        "zh_CN": "爆炸伤害提升%s%%，并击退敌方目标%s米",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_08_des",
+        "zh_CN": "爆炸将击退敌方目标的距离增加%s米，对处于灼烧状态的目标造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_08_01_des",
+        "zh_CN": "爆炸伤害提升%s%%，并击退敌方目标%s米",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_01_09_des",
+        "zh_CN": "投下炸弹后初次爆炸的次数增加%s",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_01_des",
+        "zh_CN": "投掷燃烧瓶次数增加%s",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_02_des",
+        "zh_CN": "燃烧瓶生成的火焰陷阱范围扩大%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_03_des",
+        "zh_CN": "火焰陷阱对敌方额外施加灼烧效果，每秒对其造成高热类型伤害，效果持续%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_04_des",
+        "zh_CN": "火焰陷阱对敌方目标施加灼烧效果的持续时间增加%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_05_des",
+        "zh_CN": "火焰陷阱对敌方目标造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_06_des",
+        "zh_CN": "灼烧效果造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_07_des",
+        "zh_CN": "火焰陷阱使敌方目标移动速度降低%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_07_01_des",
+        "zh_CN": "火焰陷阱使敌方目标移动速度降低%s%%，持续%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_07_02_des",
+        "zh_CN": "火焰陷阱降低移动速度的效果进一步降低至%s%%，持续时间增加至%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_08_des",
+        "zh_CN": "火焰陷阱消失时，会产生1次%s米范围的爆炸",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_09_des",
+        "zh_CN": "火焰陷阱消失时，产生爆炸的伤害范围扩大%s米",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_10_des",
+        "zh_CN": "燃烧瓶最远投掷距离增加%s米",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_10_01_des",
+        "zh_CN": "燃烧瓶最远投掷距离增加%s米，火焰陷阱造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_11_des",
+        "zh_CN": "火焰陷阱对处于异常状态的目标造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_02_12_des",
+        "zh_CN": "火焰陷阱造成伤害的频率提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_01_des",
+        "zh_CN": "降下落雷的次数增加%s次",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_02_des",
+        "zh_CN": "落雷会生成1片电击地网，持续%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_03_des",
+        "zh_CN": "落雷命中目标后对目标施加麻痹状态，持续%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_04_des",
+        "zh_CN": "落雷命中目标后对目标施加麻痹状态的持续时间增加%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_04_01_des",
+        "zh_CN": "落雷命中目标后对目标施加麻痹状态，持续%s秒，造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_05_des",
+        "zh_CN": "落雷对敌方目标造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_06_des",
+        "zh_CN": "电击地网对敌方目标造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_07_des",
+        "zh_CN": "处于电击地网上的敌方目标受到的伤害增加%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_08_des",
+        "zh_CN": "电击地网存在期间，每%s秒对目标施加1次持续%s秒的麻痹状态",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_08_01_des",
+        "zh_CN": "电击地网施加的麻痹状态增加%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_08_02_des",
+        "zh_CN": "电击地网对目标施加麻痹状态，持续%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_09_des",
+        "zh_CN": "电击地网的面积扩大%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_10_01_des",
+        "zh_CN": "落雷命中目标后，产生能够持续穿透敌人的闪电箭矢，闪电箭矢持续%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_03_10_02_des",
+        "zh_CN": "闪电箭矢命中敌人后会造成敌人%s秒麻痹，同时闪电箭矢的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_01_des",
+        "zh_CN": "发射电磁炮的数量增加%s",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_01_01_des",
+        "zh_CN": "发射电磁炮的数量增加%s，电磁炮对敌方目标造成的伤害降低%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_02_des",
+        "zh_CN": "发射电磁炮的次数增加%s",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_03_des",
+        "zh_CN": "电磁炮命中目标后，会额外造成1次%s米范围的电击类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_04_des",
+        "zh_CN": "电磁炮命中目标后，额外造成电击类型伤害的范围扩大%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_05_des",
+        "zh_CN": "电磁炮命中目标后对目标施加麻痹状态，持续%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_06_des",
+        "zh_CN": "电磁炮命中目标后对目标施加麻痹状态的持续时间增加%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_07_des",
+        "zh_CN": "电磁炮对敌方目标造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_08_des",
+        "zh_CN": "电磁炮命中目标后产生的爆炸会对目标施加麻痹状态，持续%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_09_des",
+        "zh_CN": "电磁炮命中目标后产生的爆炸，对目标施加的麻痹状态持续时间增加%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_04_10_des",
+        "zh_CN": "电磁炮穿透敌方目标的次数增加%s次",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_01_des",
+        "zh_CN": "投出冰刃的数量增加%s",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_01_01_des",
+        "zh_CN": "投出冰刃的数量增加%s，冰刃的伤害降低%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_02_des",
+        "zh_CN": "投出冰刃的次数增加%s",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_03_des",
+        "zh_CN": "冰刃命中目标并击退目标%s米，造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_04_des",
+        "zh_CN": "冰刃命中目标并击退目标的距离增加%s米，造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_05_des",
+        "zh_CN": "冰刃命中目标后对目标施加减速效果，持续%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_06_des",
+        "zh_CN": "冰刃命中目标后对目标施加减速效果的持续时间增加%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_06_01_des",
+        "zh_CN": "冰刃命中目标，目标移动速度降低%s%%，效果持续%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_06_02_des",
+        "zh_CN": "冰刃命中目标后对其施加冻结效果，持续%s秒，冻结状态下的目标%s秒内不会再被冻结",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_07_des",
+        "zh_CN": "冰刃对敌方目标造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_08_des",
+        "zh_CN": "冰刃穿透敌方目标的次数增加%s次",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_09_des",
+        "zh_CN": "冰刃对处于异常状态的敌方目标造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_10_des",
+        "zh_CN": "冰刃命中目标后，造成持续%s秒的冻伤效果",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_11_des",
+        "zh_CN": "冰刃命中目标后，造成的冻伤效果增加%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_12_des",
+        "zh_CN": "冰刃击败敌人后将产生%s个次生冰刃，次生冰刃具有冻结敌人的效果",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_05_13_des",
+        "zh_CN": "冰刃击败敌人后产生的次生冰刃增加至%s个，次生冰刃具有冻结敌人的效果",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_01_des",
+        "zh_CN": "低温激光的数量增加%s",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_02_des",
+        "zh_CN": "低温激光对敌方目标造成持续%s秒的低温类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_03_des",
+        "zh_CN": "低温激光对敌方目标造成低温类型伤害的持续时长增加%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_04_des",
+        "zh_CN": "低温激光命中目标后对目标施加减速效果，持续%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_05_des",
+        "zh_CN": "低温激光命中目标后对目标施加减速效果的持续时间增加%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_05_01_des",
+        "zh_CN": "低温激光造成的伤害提升%s%%，被命中的目标在%s秒内移动速度降低",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_06_des",
+        "zh_CN": "低温激光持续时间增加%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_07_des",
+        "zh_CN": "低温激光对敌方目标造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_08_des",
+        "zh_CN": "低温激光命中目标后对其施加%s秒易伤效果，目标受到的伤害增加%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_09_des",
+        "zh_CN": "低温激光命中目标后施加的易伤效果增加%s秒，目标受到的伤害增加%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_10_des",
+        "zh_CN": "低温激光使用间隔减少%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_06_11_des",
+        "zh_CN": "低温激光造成伤害的频率提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_01_des",
+        "zh_CN": "蓄能激光柱造成伤害的范围扩大%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_01_01_des",
+        "zh_CN": "蓄能激光柱造成伤害的范围扩大%s%%，移动速度提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_02_des",
+        "zh_CN": "蓄能激光柱追踪的移动速度提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_03_des",
+        "zh_CN": "蓄能激光柱持续时间增加%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_04_des",
+        "zh_CN": "蓄能激光柱对敌方目标造成伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_05_des",
+        "zh_CN": "蓄能激光柱使用间隔减少%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_06_des",
+        "zh_CN": "蓄能激光柱对处于异常状态的目标造成的伤害增加%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_07_des",
+        "zh_CN": "蓄能激光柱持续时间减少%s%%，投射的蓄能激光柱数量增加1",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_07_01_des",
+        "zh_CN": "投射的蓄能激光柱数量增加%s",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_07_02_des",
+        "zh_CN": "投射的蓄能激光柱数量进一步增加%s",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_08_des",
+        "zh_CN": "蓄能激光柱消失前，会在某个位置停留%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_09_des",
+        "zh_CN": "蓄能激光柱每存在%s秒会生成1次附属激光柱",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_09_01_des",
+        "zh_CN": "蓄能激光柱每存在%s秒会生成1次附属激光柱，且伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_07_10_des",
+        "zh_CN": "蓄能激光柱每%s秒对半径%s米范围内目标造成眩晕效果，持续%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_01_des",
+        "zh_CN": "引力漩涡造成的伤害范围扩大%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_02_des",
+        "zh_CN": "敌方目标可被引力漩涡吸附的距离范围扩大%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_03_des",
+        "zh_CN": "引力漩涡造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_03_01_des",
+        "zh_CN": "引力漩涡造成的伤害与消失时造成的伤害均提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_04_des",
+        "zh_CN": "引力漩涡的持续时间增加%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_04_01_des",
+        "zh_CN": "引力漩涡的持续时间增加%s%%，且技能间隔降低%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_04_02_des",
+        "zh_CN": "引力漩涡的技能间隔减少%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_05_des",
+        "zh_CN": "被引力漩涡吸附的敌方目标在%s秒内受到的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_06_des",
+        "zh_CN": "引力漩涡消失时会在%s米范围内产生1次爆炸",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_07_des",
+        "zh_CN": "引力漩涡消失时产生爆炸造成的伤害范围扩大%s米",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_08_des",
+        "zh_CN": "引力漩涡吸附目标时，目标位移的距离增加%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_08_01_des",
+        "zh_CN": "引力漩涡的吸附范围扩大%s%%，吸附距离延长%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_09_des",
+        "zh_CN": "引力漩涡的数量增加%s",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_08_10_des",
+        "zh_CN": "引力漩涡可使范围内的目标移动速度降低%s%%，持续%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_01_des",
+        "zh_CN": "特制光钻的数量增加%s",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_02_des",
+        "zh_CN": "特制光钻的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_03_01_des",
+        "zh_CN": "特制光钻命中目标后使其移动速度降低%s%%，持续%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_03_02_des",
+        "zh_CN": "特制光钻命中目标后使其移动速度降低%s%%，持续时间增加%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_04_01_des",
+        "zh_CN": "特制光钻命中目标后对其施加%s%%的易伤效果，持续%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_04_02_des",
+        "zh_CN": "特制光钻施加的易伤效果提升至%s%%，持续时间增加%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_05_01_des",
+        "zh_CN": "特制光钻命中目标后对其施加眩晕效果，持续%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_05_02_des",
+        "zh_CN": "特制光钻对目标施加眩晕效果的持续时间增加%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_09_06_des",
+        "zh_CN": "特制光钻的体积增大",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_01_des",
+        "zh_CN": "特异能量球的发射间隔减少至%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_02_des",
+        "zh_CN": "特异能量球的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_03_des",
+        "zh_CN": "投掷出的特异光晕生成装置个数增加%s",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_04_01_des",
+        "zh_CN": "特异光晕生成装置对范围内目标每秒造成1次伤害",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_04_02_des",
+        "zh_CN": "特异光晕生成装置对范围内目标造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_05_des",
+        "zh_CN": "特异光晕生成装置范围扩大%s%%，且使范围内目标移动速度降低%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_06_des",
+        "zh_CN": "特异能量球的移动距离提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_10_07_des",
+        "zh_CN": "特异能量球的数量增加至%s个",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_51_01_des",
+        "zh_CN": "电球可额外触发地表轰炸",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_51_02_des",
+        "zh_CN": "技能伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_51_03_des",
+        "zh_CN": "电球造成的麻痹效果时间增加至%s秒，麻痹效果结束后对敌人施加减速效果",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_52_01_des",
+        "zh_CN": "发出射线攻击时附带地表燃爆效果，同时对敌人施加减速效果%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_52_02_des",
+        "zh_CN": "技能伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_52_03_des",
+        "zh_CN": "冷却时间缩短%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_53_01_des",
+        "zh_CN": "冰冻能量块命中敌人后引发范围爆炸",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_53_02_des",
+        "zh_CN": "冰冻效果时间延长至%s秒，同时对敌人施加%s%%的易伤效果，持续%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_53_03_des",
+        "zh_CN": "技能伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_54_01_des",
+        "zh_CN": "轰炸同时对敌人施加持续%s秒的眩晕效果",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_54_02_des",
+        "zh_CN": "轰炸频率增加",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_54_03_des",
+        "zh_CN": "减速效果提升至%s%%、易伤效果提升至%s%%及眩晕时间提升至%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_55_01_des",
+        "zh_CN": "额外增加一次附带击退效果的榴弹攻击",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_55_02_des",
+        "zh_CN": "技能伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_55_03_des",
+        "zh_CN": "击退效果增强",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_01_01_des",
+        "zh_CN": "弹药数量增加至%s发",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_01_02_des",
+        "zh_CN": "弹药数量无限",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_02_01_des",
+        "zh_CN": "机枪塔子弹命中目标后爆炸造成伤害，但射速降低",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_02_02_des",
+        "zh_CN": "子弹爆炸范围提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_03_01_des",
+        "zh_CN": "机枪塔攻击会使目标移动速度降低%s%%，持续%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_03_02_des",
+        "zh_CN": "机枪塔攻击的降低移动速度效果进一步降低%s%%，持续时间增加%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_04_des",
+        "zh_CN": "机枪塔造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_05_01_des",
+        "zh_CN": "机枪塔攻击会施加灼烧效果",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_05_02_des",
+        "zh_CN": "机枪塔攻击施加的灼烧效果每次伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_06_des",
+        "zh_CN": "机枪塔攻击对处于异常状态的目标造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_07_01_des",
+        "zh_CN": "机枪塔子弹命中敌人后将裂变，额外产生%s个裂变子弹，裂变子弹命中敌人后不会再次触发裂变",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_07_02_des",
+        "zh_CN": "机枪塔子弹命中敌人后将裂变，额外产生的裂变子弹增加至%s个，裂变子弹命中敌人后不会再次触发裂变",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_999_07_03_des",
+        "zh_CN": "裂变子弹造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_998_01_des",
+        "zh_CN": "修复%s%%的阵地防线血量",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_998_02_des",
+        "zh_CN": "机枪塔造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_998_03_des",
+        "zh_CN": "所有伙伴造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_997_01_des",
+        "zh_CN": "该技能的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_997_02_des",
+        "zh_CN": "该技能的生效范围增加%s米",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_997_03_des",
+        "zh_CN": "该技能的使用间隔降低%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_Difference_01_des",
+        "zh_CN": "\\n<span color=\"#d68238\">下一级：提升%s%%</>",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_Difference_02_des",
+        "zh_CN": "\\n<span color=\"#d68238\">下一级：增加%s米</>",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_Difference_03_des",
+        "zh_CN": "\\n<span color=\"#d68238\">下一级：降低%s%%</>",
+        "disable": 0
+    },
+    {
+        "Key": "Upgrade_Difference_04_des",
+        "zh_CN": "\\n<span color=\"#d68238\">下一级：弹药数量无限</>",
+        "disable": 0
+    },
+    {
+        "Key": "3800101_name",
+        "zh_CN": "炽火艺术",
+        "disable": 0
+    },
+    {
+        "Key": "3800201_name",
+        "zh_CN": "灼热烈炎",
+        "disable": 0
+    },
+    {
+        "Key": "3800301_name",
+        "zh_CN": "暴电堕雷",
+        "disable": 0
+    },
+    {
+        "Key": "3800401_name",
+        "zh_CN": "定向磁炮",
+        "disable": 0
+    },
+    {
+        "Key": "3800501_name",
+        "zh_CN": "寒霜冰刃",
+        "disable": 0
+    },
+    {
+        "Key": "3800601_name",
+        "zh_CN": "零度射线",
+        "disable": 0
+    },
+    {
+        "Key": "3800701_name",
+        "zh_CN": "罪罚之锤",
+        "disable": 0
+    },
+    {
+        "Key": "3800801_name",
+        "zh_CN": "深渊之引",
+        "disable": 0
+    },
+    {
+        "Key": "3800901_name",
+        "zh_CN": "前锋光钻",
+        "disable": 0
+    },
+    {
+        "Key": "3801001_name",
+        "zh_CN": "投掷光晕",
+        "disable": 0
+    },
+    {
+        "Key": "3801701_name",
+        "zh_CN": "扫荡光波",
+        "disable": 0
+    },
+    {
+        "Key": "3801801_name",
+        "zh_CN": "火榴弹",
+        "disable": 0
+    },
+    {
+        "Key": "3801901_name",
+        "zh_CN": "碎碎冰",
+        "disable": 0
+    },
+    {
+        "Key": "3802001_name",
+        "zh_CN": "闪亮电球",
+        "disable": 0
+    },
+    {
+        "Key": "3802101_name",
+        "zh_CN": "领域展开",
+        "disable": 0
+    },
+    {
+        "Key": "3800101_des",
+        "zh_CN": "向敌方目标投下炸弹，对目标造成高热类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "3800201_des",
+        "zh_CN": "向敌方目标投下燃烧瓶，随后生成一片火焰陷阱，对处于陷阱上方的目标造成高热类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "3800301_des",
+        "zh_CN": "向敌方目标降下落雷，对目标造成电击类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "3800401_des",
+        "zh_CN": "向敌方目标射出定向磁炮，对目标造成电击类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "3800501_des",
+        "zh_CN": "向敌方目标投出冰刃，并对目标造成低温类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "3800601_des",
+        "zh_CN": "向敌方目标横向展开低温激光，对穿过激光的目标造成低温类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "3800701_des",
+        "zh_CN": "向敌方目标精准投射蓄能激光柱，追踪目标并对持续造成动能类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "3800801_des",
+        "zh_CN": "向敌方目标投出引力漩涡，吸附目标并对其造成特异类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "3800901_des",
+        "zh_CN": "从阵地防线发射特制光钻，沿直线飞行冲向目标并造成动能类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "3801001_des",
+        "zh_CN": "投掷1个特异光晕生成装置，每隔一段时间发射一圈特异能量球，对目标造成特异类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "3801701_des",
+        "zh_CN": "【选择后将触发伙伴聚合】\\n发出射线扫射全场敌人，造成大量动能伤害",
+        "disable": 0
+    },
+    {
+        "Key": "3801801_des",
+        "zh_CN": "【选择后将触发伙伴聚合】\\n发射榴弹对敌人造成大范围伤害，并留下燃烧的火墙",
+        "disable": 0
+    },
+    {
+        "Key": "3801901_des",
+        "zh_CN": "【选择后将触发伙伴聚合】\\n召唤多重冰冻能量块坠落形成攻击，附带冰冻效果",
+        "disable": 0
+    },
+    {
+        "Key": "3802001_des",
+        "zh_CN": "【选择后将触发伙伴聚合】\\n射出横向排列的一组电球，电球可以穿透敌人持续攻击，附带麻痹效果",
+        "disable": 0
+    },
+    {
+        "Key": "3802101_des",
+        "zh_CN": "【选择后将触发伙伴聚合】\\n生成覆盖全场的领域，对全体领域内敌人持续造成轰炸攻击，并附带减速、易伤效果。",
+        "disable": 0
+    },
+    {
+        "Key": "3801701_des_outside",
+        "zh_CN": "发出射线扫射全场敌人，造成大量动能伤害",
+        "disable": 0
+    },
+    {
+        "Key": "3801801_des_outside",
+        "zh_CN": "发射榴弹对敌人造成大范围伤害，并留下燃烧的火墙",
+        "disable": 0
+    },
+    {
+        "Key": "3801901_des_outside",
+        "zh_CN": "召唤多重冰冻能量块坠落形成攻击，附带冰冻效果",
+        "disable": 0
+    },
+    {
+        "Key": "3802001_des_outside",
+        "zh_CN": "射出横向排列的一组电球，电球可以穿透敌人持续攻击，附带麻痹效果",
+        "disable": 0
+    },
+    {
+        "Key": "3802101_des_outside",
+        "zh_CN": "生成覆盖全场的领域，对全体领域内敌人持续造成轰炸攻击，并附带减速、易伤效果。",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_01_name",
+        "zh_CN": "火势蔓延",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_02_name",
+        "zh_CN": "呲啦呲啦",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_03_name",
+        "zh_CN": "极速降温",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_04_name",
+        "zh_CN": "搏动激化",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_05_name",
+        "zh_CN": "混乱敌阵",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_06_name",
+        "zh_CN": "分秒必争",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_07_name",
+        "zh_CN": "伤口溃烂",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_08_name",
+        "zh_CN": "变异衰减",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_09_name",
+        "zh_CN": "粘合孢子",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_10_name",
+        "zh_CN": "火已渐熄",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_11_name",
+        "zh_CN": "电量告急",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_12_name",
+        "zh_CN": "星球变暖",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_13_name",
+        "zh_CN": "全年无休",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_14_name",
+        "zh_CN": "坚固敌阵",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_15_name",
+        "zh_CN": "防护罩",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_16_name",
+        "zh_CN": "打乱节奏",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_17_name",
+        "zh_CN": "硬骨头",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_18_name",
+        "zh_CN": "躁狂病毒",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_19_name",
+        "zh_CN": "速通体验",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_20_name",
+        "zh_CN": "艺术扩散",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_21_name",
+        "zh_CN": "漆黑火焰",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_22_name",
+        "zh_CN": "暴雨将至",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_23_name",
+        "zh_CN": "旷野狙击",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_24_name",
+        "zh_CN": "寒冷避难所",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_25_name",
+        "zh_CN": "禁行区域",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_26_name",
+        "zh_CN": "天罚时刻",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_27_name",
+        "zh_CN": "深渊抓手",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_28_name",
+        "zh_CN": "异能激荡",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_01_des",
+        "zh_CN": "所有伙伴造成的高热类型伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_02_des",
+        "zh_CN": "所有伙伴造成的电击类型伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_03_des",
+        "zh_CN": "所有伙伴造成的低温类型伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_04_des",
+        "zh_CN": "所有伙伴造成的动能类型伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_05_des",
+        "zh_CN": "异常状态时间持续时间增加%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_06_des",
+        "zh_CN": "所有伙伴的技能使用间隔降低%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_07_des",
+        "zh_CN": "敌方目标的生命降低%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_08_des",
+        "zh_CN": "敌方目标攻击力降低%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_09_des",
+        "zh_CN": "敌方目标移动速度降低%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_10_des",
+        "zh_CN": "所有伙伴造成的高热类型伤害降低%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_11_des",
+        "zh_CN": "所有伙伴造成的电击类型伤害降低%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_12_des",
+        "zh_CN": "所有伙伴造成的低温类型伤害降低%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_13_des",
+        "zh_CN": "所有伙伴造成的动能类型伤害降低%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_14_des",
+        "zh_CN": "异常状态时间持续时间减少%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_15_des",
+        "zh_CN": "敌方目标消除第1次受到的伤害",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_16_des",
+        "zh_CN": "所有伙伴的技能使用间隔增加%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_17_des",
+        "zh_CN": "敌方目标的生命提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_18_des",
+        "zh_CN": "敌方目标的攻击力提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_19_des",
+        "zh_CN": "敌方目标的移动速度提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_20_des",
+        "zh_CN": "炽火艺术造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_21_des",
+        "zh_CN": "灼热烈炎造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_22_des",
+        "zh_CN": "暴电堕雷造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_23_des",
+        "zh_CN": "定向磁炮造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_24_des",
+        "zh_CN": "寒霜冰刃造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_25_des",
+        "zh_CN": "零度射线造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_26_des",
+        "zh_CN": "罪罚之锤造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_27_des",
+        "zh_CN": "深渊之引造成的伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "LevelPassive_28_des",
+        "zh_CN": "所有伙伴造成的特异类型伤害提升%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "PartnerType_01",
+        "zh_CN": "高热属性",
+        "disable": 0
+    },
+    {
+        "Key": "PartnerType_02",
+        "zh_CN": "电击属性",
+        "disable": 0
+    },
+    {
+        "Key": "PartnerType_03",
+        "zh_CN": "低温属性",
+        "disable": 0
+    },
+    {
+        "Key": "PartnerType_04",
+        "zh_CN": "动能属性",
+        "disable": 0
+    },
+    {
+        "Key": "PartnerType_05",
+        "zh_CN": "特异属性",
+        "disable": 0
+    },
+    {
+        "Key": "PartnerTips_01",
+        "zh_CN": "执勤伙伴已达上限",
+        "disable": 0
+    },
+    {
+        "Key": "PartnerTips_02",
+        "zh_CN": "点击选中执勤伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalPassiveUnlock1",
+        "zh_CN": "携带该伙伴参与战斗并击杀【%d/%d】只敌人",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalExtraUnlock1",
+        "zh_CN": "携带该伙伴通关不息守护【%d/%d】次",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_PalExtraUnlock2",
+        "zh_CN": "携带该伙伴参与【%s】模式【%d/%d】次",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_ExtraDamage",
+        "zh_CN": "LV{1} (+{2}% 额外伤害)",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes01",
+        "zh_CN": "完成星球守护第1关",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes02",
+        "zh_CN": "完成星球守护第2关",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes03",
+        "zh_CN": "完成星球守护第3关",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes04",
+        "zh_CN": "完成星球守护第4关",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes05",
+        "zh_CN": "完成星球守护第5关",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes06",
+        "zh_CN": "完成星球守护第6关",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes07",
+        "zh_CN": "完成星球守护第7关",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes08",
+        "zh_CN": "完成星球守护第8关",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes09",
+        "zh_CN": "完成星球守护第9关",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes10",
+        "zh_CN": "完成星球守护第10关",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes11",
+        "zh_CN": "挑战不息守护1次",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes12",
+        "zh_CN": "挑战不息守护3次",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes13",
+        "zh_CN": "挑战不息守护5次",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes14",
+        "zh_CN": "完成星球考验-火之阵其一",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes15",
+        "zh_CN": "完成星球考验-火之阵其二",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes16",
+        "zh_CN": "完成星球考验-雷之阵其一",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes17",
+        "zh_CN": "完成星球考验-雷之阵其二",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes18",
+        "zh_CN": "完成星球考验-霜之阵其一",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes19",
+        "zh_CN": "完成星球考验-霜之阵其二",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes20",
+        "zh_CN": "完成星球考验-力之阵其一",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes21",
+        "zh_CN": "完成星球考验-力之阵其二",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes50",
+        "zh_CN": "完成星球考验-火之阵",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes51",
+        "zh_CN": "完成星球考验-霜之阵",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes52",
+        "zh_CN": "完成星球考验-雷之阵",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes53",
+        "zh_CN": "完成星球考验-力之阵",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes54",
+        "zh_CN": "完成星球考验-异之阵",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes22",
+        "zh_CN": "解锁任意伙伴的强力类奖励技能",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes23",
+        "zh_CN": "解锁任意伙伴的被动类奖励技能",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes24",
+        "zh_CN": "解锁任意2位伙伴的所有技能",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes25",
+        "zh_CN": "解锁任意4位伙伴的所有技能",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes26",
+        "zh_CN": "解锁任意6位伙伴的所有技能",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes27",
+        "zh_CN": "任意1位新的伙伴登场",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes28",
+        "zh_CN": "任意2位新的伙伴登场",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes29",
+        "zh_CN": "任意4位新的伙伴登场",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes30",
+        "zh_CN": "全部新伙伴均已登场",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes31",
+        "zh_CN": "解锁任意1个机枪塔技能",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes32",
+        "zh_CN": "解锁所有机枪塔技能",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes33",
+        "zh_CN": "任意1位助战少女的技能等级达到2级",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes34",
+        "zh_CN": "任意1位助战少女的技能等级达到3级",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes35",
+        "zh_CN": "本期活动所有助战少女的技能等级达到3级",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes36",
+        "zh_CN": "召唤护航伙伴并通关任意战斗1次",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes37",
+        "zh_CN": "召唤5名不同的护航伙伴各自通关任意战斗1次",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Missiondes38",
+        "zh_CN": "将1名护航伙伴的等级提升至3级",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_SystemDes01",
+        "zh_CN": "异星守护",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_SystemDes02",
+        "zh_CN": "执勤日志",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_SystemDes03",
+        "zh_CN": "伙伴手册",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_SystemDes04",
+        "zh_CN": "星球守护",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_SystemDes05",
+        "zh_CN": "不息守护",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_SystemDes06",
+        "zh_CN": "星球考验",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_SystemDes07",
+        "zh_CN": "执勤伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_SystemDes08",
+        "zh_CN": "执勤中",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_SystemDes09",
+        "zh_CN": "查看技能",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_SystemDes10",
+        "zh_CN": "奖励技能解锁",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_SystemDes11",
+        "zh_CN": "完成【%d】后，解锁【%d】属性的新伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_SystemDes12",
+        "zh_CN": "主动技能",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_SystemDes13",
+        "zh_CN": "被动技能",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_SystemDes14",
+        "zh_CN": "解锁条件",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_SystemDes15",
+        "zh_CN": "守护进度",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_SystemDes16",
+        "zh_CN": "最高积分",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_SystemDes17",
+        "zh_CN": "积分奖励",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_SystemDes18",
+        "zh_CN": "新的伙伴赶来了！",
+        "disable": 0
+    },
+    {
+        "Key": "guideui.aliendefece_01",
+        "zh_CN": "还是你熟悉的伙伴，选个你觉得合适的家伙去执勤吧。选对了前线冲锋的伙伴，你会轻松很多的。记得多多解锁伙伴，这样你就能多带一些人去执勤啦！",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_notice01",
+        "zh_CN": "请选择一个buff",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Coin01",
+        "zh_CN": "守护纪念章",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_CoinDes01",
+        "zh_CN": "守护纪念章",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_CoinDes01_use",
+        "zh_CN": "异星守护-不息守护的奖励代币",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_CoinDes01_des",
+        "zh_CN": "用于 异星守护 升级与解锁技能\\n安卡希雅为了庆祝分析员在异星守护-不息守护模式中获得的杰出成就而发放的精美纪念章",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Girlunlock01",
+        "zh_CN": "释放技能【%d/%d】次后升级",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Girlunlock02",
+        "zh_CN": "参与歼敌【%d/%d】后升级",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Girlunlock03",
+        "zh_CN": "通关不息守护后解锁究极对抗模式",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Girlunlock04",
+        "zh_CN": "究极对抗模式已解锁",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Girlunlock05",
+        "zh_CN": "不息守护阶段目标已达成\\n是否继续挑战究极对抗模式？",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Girlunlock06",
+        "zh_CN": "战斗时禁用机枪技能",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Girlunlock07",
+        "zh_CN": "战斗时禁用机枪技能",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Girlunlock08",
+        "zh_CN": "助战少女已达上限",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Girlunlock09",
+        "zh_CN": "自动选择技能",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Girltips01",
+        "zh_CN": "通关【%s】解锁助战少女",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Girltips02",
+        "zh_CN": "升级后:",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlLight01",
+        "zh_CN": "助战少女特性为【强力毁灭】",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlLight02",
+        "zh_CN": "助战少女特性为【持续控制】",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlLight03",
+        "zh_CN": "助战少女特性为【防线保护】",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlLight04",
+        "zh_CN": "助战少女特性为【爆炸艺术】",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlLight05",
+        "zh_CN": "支援少女特性为【剑阵爆破】"
+    },
+    {
+        "Key": "Alien_GirlLight06",
+        "zh_CN": "支援少女特性为【血量守护】"
+    },
+    {
+        "Key": "Alien_GirlUpgrade01",
+        "zh_CN": "升级后【技能伤害效果大幅提升】",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlUpgrade02",
+        "zh_CN": "升级后【战斗中该少女技能可用次数+1】",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlUpgrade03",
+        "zh_CN": "升级后【提升技能效果、范围】",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlUpgrade04",
+        "zh_CN": "升级后【战斗中该少女技能可用次数+1】",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlUpgrade05",
+        "zh_CN": "升级后【技能效果增强，增加护盾机制】",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlUpgrade06",
+        "zh_CN": "升级后【战斗中该少女技能可用次数+1】",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlUpgrade07",
+        "zh_CN": "升级后【伤害提升，技能效果增强】",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlUpgrade08",
+        "zh_CN": "升级后【战斗中该少女技能可用次数+1】",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlUpgrade09",
+        "zh_CN": "升级后【提升技能效果、时长，新增技能攻击】",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlUpgrade11",
+        "zh_CN": "升级后【伤害提升，大范围攻击附带眩晕效果】",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlUpgradeFinish01",
+        "zh_CN": "已满级",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlName01",
+        "zh_CN": "星之激浪奈莉德",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlName02",
+        "zh_CN": "星之蜜约芬妮",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlName03",
+        "zh_CN": "星之浮游瑟瑞斯",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlName04",
+        "zh_CN": "星之鲛梦薇蒂雅",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlName05",
+        "zh_CN": "星之回响安卡希雅",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlName06",
+        "zh_CN": "星之恋羽茉莉安",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Tagdescribe_001",
+        "zh_CN": "阻挡子弹穿透",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Tagdescribe_002",
+        "zh_CN": "空中躲避伤害",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Tagdescribe_003",
+        "zh_CN": "快速移动",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Tagdescribe_004",
+        "zh_CN": "快速攻击",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Tagdescribe_005",
+        "zh_CN": "血量低移动加快",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Tagdescribe_006",
+        "zh_CN": "血量低攻击提升",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Tagdescribe_007",
+        "zh_CN": "免疫首次伤害",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Tagdescribe_008",
+        "zh_CN": "低温类型抗性",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Tagdescribe_009",
+        "zh_CN": "高热类型抗性",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Tagdescribe_010",
+        "zh_CN": "电击类型抗性",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Tagdescribe_011",
+        "zh_CN": "动能类型抗性",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Tagdescribe_012",
+        "zh_CN": "特异类型抗性",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Tagdescribe_013",
+        "zh_CN": "自爆攻击",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkill_Name_01",
+        "zh_CN": "背誓星束",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkill_Name_02",
+        "zh_CN": "星链引爆",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkill_Name_03",
+        "zh_CN": "黄金震慑",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkill_Name_04",
+        "zh_CN": "苏生愈潮",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkill_Name_05",
+        "zh_CN": "月舞飞剑",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkill_Name_06",
+        "zh_CN": "伤痛驱逐",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkillDesLevel1_01",
+        "zh_CN": "可用次数%s\\n施展持续%s秒的范围攻击，附带击败%s%%以下血量的敌人；\\n生成%s波星束，优先攻击更具威胁的敌人",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkillDesLevel2_01",
+        "zh_CN": "可用次数%s\\n施展持续%s秒的范围攻击，附带击败%s%%以下血量的敌人；\\n生成%s波星束，优先攻击更具威胁的敌人",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkillDesLevel3_01",
+        "zh_CN": "可用次数%s\\n施展持续%s秒的范围攻击，附带击败%s%%以下血量的敌人；\\n生成%s波星束，优先攻击更具威胁的敌人",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkillDesLevel1_02",
+        "zh_CN": "可用次数%s\\n所有敌方目标受到的伤害提高%s%%；\\n连续引爆%s个陷阱，由近至远造成范围伤害",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkillDesLevel2_02",
+        "zh_CN": "可用次数%s\\n所有敌方目标受到的伤害提高%s%%；\\n连续引爆%s个陷阱，沿近-远-近路径造成范围伤害",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkillDesLevel3_02",
+        "zh_CN": "可用次数%s\\n所有敌方目标受到的伤害提高%s%%；\\n连续引爆%s个陷阱，沿近-远-近路径造成范围伤害",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkillDesLevel1_03",
+        "zh_CN": "可用次数%s\\n每%s秒对防线前的部分区域造成1次伤害，持续%s秒；\\n受到技能伤害后的普通敌人将被麻痹%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkillDesLevel2_03",
+        "zh_CN": "可用次数%s\\n每%s秒对防线前的大部分区域造成1次伤害，持续%s秒；\\n受到技能伤害后的普通敌人将被麻痹%s秒，所有敌人行动减速%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkillDesLevel3_03",
+        "zh_CN": "可用次数%s\\n每%s秒对防线前的大部分区域造成1次伤害，持续%s秒；\\n受到技能伤害后的普通敌人将被麻痹%s秒，所有敌人行动减速%s秒",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkillDesLevel1_04",
+        "zh_CN": "可用次数%s\\n防线进入无敌模式，持续%s秒；\\n技能施展期间，回复防线%s%%的血量",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkillDesLevel2_04",
+        "zh_CN": "可用次数%s\\n防线进入无敌模式，持续%s秒；\\n技能施展期间，回复防线%s%%的血量，超出的回复量将转为等量护盾",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkillDesLevel3_04",
+        "zh_CN": "可用次数%s\\n防线进入无敌模式，持续%s秒；\\n技能施展期间，回复防线%s%%的血量，超出的回复量将转为等量护盾",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkillDesLevel1_05",
+        "zh_CN": "可用次数%s\\n连续进行%s次小范围攻击，之后施展1次大范围攻击\\n以上攻击流程循环%s次",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkillDesLevel2_05",
+        "zh_CN": "可用次数%s\\n连续进行%s次小范围攻击，之后施展1次大范围攻击，大范围攻击附带眩晕效果，持续%s秒\\n以上攻击流程循环%s次",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkillDesLevel3_05",
+        "zh_CN": "可用次数%s\\n连续进行%s次小范围攻击，之后施展1次大范围攻击，大范围攻击附带眩晕效果，持续%s秒\\n以上攻击流程循环%s次",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkillDesLevel1_06",
+        "zh_CN": "可用次数%s\\n在一定范围内所有敌方目标受到的伤害提高%s%%，持续%s秒\\n为防线施加%s%%血量的护盾。",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkillDesLevel2_06",
+        "zh_CN": "可用次数%s\\n在一定范围内所有敌方目标受到的伤害提高%s%%，且每%s秒进行1次技能攻击，持续%s秒\\n为防线施加%s%%血量的护盾。",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlSkillDesLevel3_06",
+        "zh_CN": "可用次数%s\\n在一定范围内所有敌方目标受到的伤害提高%s%%，且每%s秒进行1次技能攻击，持续%s秒\\n为防线施加%s%%血量的护盾。",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0101",
+        "zh_CN": "我来了，听候你的差遣。",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0102",
+        "zh_CN": "接受制裁吧！",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0103",
+        "zh_CN": "与你强强联手，当然所向披靡。",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0104",
+        "zh_CN": "谁都别想逃！",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0201",
+        "zh_CN": "让硝烟见证我和分析员的爱情~",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0202",
+        "zh_CN": "爆炸~就是我的爱意~",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0203",
+        "zh_CN": "好紧张！好浪漫！",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0204",
+        "zh_CN": "分析员，我随时都在哦~",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0301",
+        "zh_CN": "有达令的地方，怎么能少得了本小姐？",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0302",
+        "zh_CN": "休想靠近我的达令！",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0303",
+        "zh_CN": "有达令指挥，本小姐的光芒更耀眼了！",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0304",
+        "zh_CN": "不论在哪，和达令的配合都是那么默契~",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0401",
+        "zh_CN": "我也来帮忙！",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0402",
+        "zh_CN": "防线的修复就交给我吧！",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0403",
+        "zh_CN": "为守护异星而战，我记得很牢哦！",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0404",
+        "zh_CN": "不能让分析员受伤！",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0501",
+        "zh_CN": "我会为亲爱的消除所有阻碍~",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0502",
+        "zh_CN": "有我在，亲爱的请放心吧！",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0503",
+        "zh_CN": "不错的热身。",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0504",
+        "zh_CN": "和亲爱的一起战斗，果然更让我兴奋呢！",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0601",
+        "zh_CN": "异星的领土，我和亲爱的一起守护！",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0602",
+        "zh_CN": "亲爱的看好了哦，我的必杀技！",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0603",
+        "zh_CN": "不管多少敌人，都会被亲爱的和我通通摆平~",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_GirlDialogue_0604",
+        "zh_CN": "差不多可以清场了，亲爱的也是这么想的吧？",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Endless_tips",
+        "zh_CN": "究极对抗模式已开启",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Boss_Appear_tips",
+        "zh_CN": "高危异星生物群正在靠近！",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Unusable_Skill_tips",
+        "zh_CN": "可用次数不足",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Buff_Box_tips_01",
+        "zh_CN": "奇点宝盒·变形：接下来的300个敌方目标变成易被击倒的小盒子",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Buff_Box_tips_02",
+        "zh_CN": "奇点宝盒·治愈：防线回复100%的血量，并进入无敌模式，持续20秒",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Buff_Box_tips_03",
+        "zh_CN": "奇点宝盒·助力：少女技能可用次数+1",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl0_01",
+        "zh_CN": "初级试炼者",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl0_02",
+        "zh_CN": "进阶践行者",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl0_03",
+        "zh_CN": "卓然突破者",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl1_01",
+        "zh_CN": "星渊威慑",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl1_02",
+        "zh_CN": "星渊威慑II",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl1_03",
+        "zh_CN": "星渊威慑III",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl1_04",
+        "zh_CN": "星渊毁灭者",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl2_01",
+        "zh_CN": "星链锢敌",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl2_02",
+        "zh_CN": "星链锢敌II",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl2_03",
+        "zh_CN": "星链锢敌III",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl2_04",
+        "zh_CN": "星链驭锋者",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl3_01",
+        "zh_CN": "星潮弄璇",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl3_02",
+        "zh_CN": "星潮弄璇II",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl3_03",
+        "zh_CN": "星潮弄璇III",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl3_04",
+        "zh_CN": "星潮运筹者",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl4_01",
+        "zh_CN": "黄金审视",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl4_02",
+        "zh_CN": "黄金审视II",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl4_03",
+        "zh_CN": "黄金审视III",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl4_04",
+        "zh_CN": "黄金俯瞰者",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl5_01",
+        "zh_CN": "星翎拥护",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl5_02",
+        "zh_CN": "星翎拥护II",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl5_03",
+        "zh_CN": "星翎拥护III",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl5_04",
+        "zh_CN": "星翎呵护者",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl6_01",
+        "zh_CN": "星空锁定",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl6_02",
+        "zh_CN": "星空锁定II",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl6_03",
+        "zh_CN": "星空锁定III",
+        "disable": 0
+    },
+    {
+        "Key": "Alien_Evaluation_Girl6_04",
+        "zh_CN": "星空裁定者",
+        "disable": 0
+    }
+]

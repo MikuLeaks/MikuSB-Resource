@@ -1,0 +1,8417 @@
+[
+    {
+        "Key": "item_name_1",
+        "zh_CN": "侦察接收机",
+        "disable": 0
+    },
+    {
+        "Key": "item_name_2",
+        "zh_CN": "急救包",
+        "disable": 0
+    },
+    {
+        "Key": "item_name_3",
+        "zh_CN": "重构芯片",
+        "disable": 0
+    },
+    {
+        "Key": "item_name_4",
+        "zh_CN": "便携屏蔽器",
+        "disable": 0
+    },
+    {
+        "Key": "item_name_5",
+        "zh_CN": "领队权限卡",
+        "disable": 0
+    },
+    {
+        "Key": "item_name_6",
+        "zh_CN": "电磁脉冲发生器",
+        "disable": 0
+    },
+    {
+        "Key": "item_des_1",
+        "zh_CN": "用于抵抗战术干扰，当遭遇战术干扰事件时，通过探测并分析信号，该道具自动抵抗1次战术干扰。成功抵抗后，该道具将被销毁",
+        "disable": 0
+    },
+    {
+        "Key": "item_des_2",
+        "zh_CN": "用于回复生命，内置多个急救瓶，使用后，所有队员生命回复30%（可通过逻辑研习强化）",
+        "disable": 0
+    },
+    {
+        "Key": "item_des_3",
+        "zh_CN": "用于重构意识，相比意识皿更加易于便携，使用后随机为1名队员重构意识，并回复生命30%（可通过逻辑研习强化）",
+        "disable": 0
+    },
+    {
+        "Key": "item_des_4",
+        "zh_CN": "用于移除战术干扰，能阻止屏蔽干扰信号，使用后可随机移除1个战术干扰",
+        "disable": 0
+    },
+    {
+        "Key": "item_des_5",
+        "zh_CN": "用于刷新【军备兑换】中的补给，领队权限的证明，使用后可刷新1次【军备兑换】中的补给",
+        "disable": 0
+    },
+    {
+        "Key": "item_des_6",
+        "zh_CN": "用于降低威胁值，产生的高能量电磁脉冲能干扰或破坏敌方的设备及系统，使用后降低10点威胁值（只能降低至当前威胁级别下限）",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonMasterkey",
+        "zh_CN": "万用思维译码",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey1",
+        "zh_CN": "思维译码·荣耀",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey2",
+        "zh_CN": "思维译码·温柔",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey3",
+        "zh_CN": "思维译码·正义",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey4",
+        "zh_CN": "思维译码·纯净",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey5",
+        "zh_CN": "思维译码·无畏",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey6",
+        "zh_CN": "思维译码·智慧",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey7",
+        "zh_CN": "思维译码·勇气",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey8",
+        "zh_CN": "思维译码",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonMasterkey_des",
+        "zh_CN": "可以用于置换任何类型的思维译码\\n海姆达尔部队的队员们，在长期作战中所展现出的非凡适应性、与随机应变能力的象征。",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey1_des",
+        "zh_CN": "是海姆达尔部队长期的共同作战中，队员们所呈现出的重要的品德之一。",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey2_des",
+        "zh_CN": "是海姆达尔部队长期的共同作战中，队员们所呈现出的重要的品德之一。",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey3_des",
+        "zh_CN": "是海姆达尔部队长期的共同作战中，队员们所呈现出的重要的品德之一。",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey4_des",
+        "zh_CN": "是海姆达尔部队长期的共同作战中，队员们所呈现出的重要的品德之一。",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey5_des",
+        "zh_CN": "是海姆达尔部队长期的共同作战中，队员们所呈现出的重要的品德之一。",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey6_des",
+        "zh_CN": "是海姆达尔部队长期的共同作战中，队员们所呈现出的重要的品德之一。",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey7_des",
+        "zh_CN": "是海姆达尔部队长期的共同作战中，队员们所呈现出的重要的品德之一。",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey8_des",
+        "zh_CN": "海姆达尔部队长期的共同作战中，不同的队员们会呈现出重要品德的象征。",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonMasterkey_use",
+        "zh_CN": "思维译码 兑换道具",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey1_use",
+        "zh_CN": "思维深潜节点解锁道具",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey2_use",
+        "zh_CN": "思维深潜节点解锁道具",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey3_use",
+        "zh_CN": "思维深潜节点解锁道具",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey4_use",
+        "zh_CN": "思维深潜节点解锁道具",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey5_use",
+        "zh_CN": "思维深潜节点解锁道具",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey6_use",
+        "zh_CN": "思维深潜节点解锁道具",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey7_use",
+        "zh_CN": "思维深潜节点解锁道具",
+        "disable": 0
+    },
+    {
+        "Key": "Seasonkey8_use",
+        "zh_CN": "思维深潜节点解锁道具",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem1",
+        "zh_CN": "思维旁路下·密钥1",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem2",
+        "zh_CN": "思维旁路下·密钥2",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem3",
+        "zh_CN": "思维旁路下·密钥3",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem4",
+        "zh_CN": "思维旁路上·密钥1",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem5",
+        "zh_CN": "思维旁路上·密钥2",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem6",
+        "zh_CN": "思维旁路上·密钥3",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem7",
+        "zh_CN": "急救箱",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem8",
+        "zh_CN": "坐标定位器",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem9",
+        "zh_CN": "通讯装置",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem1_des",
+        "zh_CN": "用来打通下行思维旁路的密钥部件之一。挖掘记忆深处的角落，那里一定潜藏着未曾注意到的宝贵之物。",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem2_des",
+        "zh_CN": "用来打通下行思维旁路的密钥部件之一。挖掘记忆深处的角落，那里一定潜藏着未曾注意到的宝贵之物。",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem3_des",
+        "zh_CN": "用来打通下行思维旁路的密钥部件之一。挖掘记忆深处的角落，那里一定潜藏着未曾注意到的宝贵之物。",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem4_des",
+        "zh_CN": "用来打通上行思维旁路的密钥部件之一。挖掘记忆深处的角落，那里一定潜藏着未曾注意到的宝贵之物。",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem5_des",
+        "zh_CN": "用来打通上行思维旁路的密钥部件之一。挖掘记忆深处的角落，那里一定潜藏着未曾注意到的宝贵之物。",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem6_des",
+        "zh_CN": "用来打通上行思维旁路的密钥部件之一。挖掘记忆深处的角落，那里一定潜藏着未曾注意到的宝贵之物。",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem7_des",
+        "zh_CN": "藏在天楼角落的小型急救箱，可以用来给伤者进行紧急治疗。",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem8_des",
+        "zh_CN": "郊狼身上携带的坐标定位器，可以及时定位目标，恢复行动",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem9_des",
+        "zh_CN": "补给点发现的通讯装置，可以恢复通讯，打开前方通路。",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem1_use",
+        "zh_CN": "道具",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem2_use",
+        "zh_CN": "道具",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem3_use",
+        "zh_CN": "道具",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem4_use",
+        "zh_CN": "道具",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem5_use",
+        "zh_CN": "道具",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem6_use",
+        "zh_CN": "道具",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem7_use",
+        "zh_CN": "道具",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem8_use",
+        "zh_CN": "道具",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonItem9_use",
+        "zh_CN": "道具",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonHelp1",
+        "zh_CN": "思维深潜已开启，请与少女们共同踏入这些曾经并肩作战的地方。",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonHelp2",
+        "zh_CN": "在迷宫推演中，上阵不同队员可获得不同类型的思维译码。",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonHelp3",
+        "zh_CN": "使用对应类型思维译码可以解锁思维深潜中的节点，持续推进，获取各种奖励。",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonHelp4",
+        "zh_CN": "完成普通及普通以上难度的悖论迷宫或完成迭战模式悖论迷宫的推演，有机会获得万用思维译码",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonHelp5",
+        "zh_CN": "使用万用思维译码，可以置换同等数量的任意类型思维译码",
+        "disable": 0
+    },
+    {
+        "Key": "SeasonHelp6",
+        "zh_CN": "在悖论迷宫的推演中，可上阵试用队员进行推演。",
+        "disable": 0
+    },
+    {
+        "Key": "coin_Science",
+        "zh_CN": "智略点",
+        "disable": 0
+    },
+    {
+        "Key": "coin_BattleCoin",
+        "zh_CN": "迷宫之钥",
+        "disable": 0
+    },
+    {
+        "Key": "coin_Exp",
+        "zh_CN": "推演经验",
+        "disable": 0
+    },
+    {
+        "Key": "coin_LotteryTicket",
+        "zh_CN": "申领凭证",
+        "disable": 0
+    },
+    {
+        "Key": "coin_Season",
+        "zh_CN": "采购券",
+        "disable": 0
+    },
+    {
+        "Key": "coin_ScoreModel",
+        "zh_CN": "战场经验",
+        "disable": 0
+    },
+    {
+        "Key": "coin_MonsterModel1",
+        "zh_CN": "低阶征伐铭章：{1}",
+        "disable": 0
+    },
+    {
+        "Key": "coin_MonsterModel2",
+        "zh_CN": "中阶征伐铭章：{1}",
+        "disable": 0
+    },
+    {
+        "Key": "coin_MonsterModel3",
+        "zh_CN": "高阶征伐铭章：{1}",
+        "disable": 0
+    },
+    {
+        "Key": "coin_Science_des",
+        "zh_CN": "完成悖论迷宫可获得的系统评估点数。用于解锁、提升不同的逻辑研习科目，让后续的推演过程变得更加轻松。",
+        "disable": 0
+    },
+    {
+        "Key": "coin_BattleCoin_des",
+        "zh_CN": "推演悖论迷宫过程中获得的道具。用于在军备兑换中换取各种类型的增益，是帮助分析员解开这座迷宫的重要物品。",
+        "disable": 0
+    },
+    {
+        "Key": "coin_Exp_des",
+        "zh_CN": "完成悖论迷宫可获得的经验值。用于提升分析员的推演等级，解锁对应等级的评估嘉勉，从而获得公司提供的丰厚奖励。",
+        "disable": 0
+    },
+    {
+        "Key": "coin_LotteryTicket_des",
+        "zh_CN": "特别嘉勉专用的申领凭证，通关悖论迷宫后可以获得凭证，用于在特别嘉勉中兑换奖励",
+        "disable": 0
+    },
+    {
+        "Key": "coin_Season_des",
+        "zh_CN": "研发部给分析员提供的奖励，用于在迷宫配售中购买道具",
+        "disable": 0
+    },
+    {
+        "Key": "coin_ScoreModel_des",
+        "zh_CN": "在增益试炼中可获得的战场经验，用于解锁各种类型的增益，以强化综合战斗能力。",
+        "disable": 0
+    },
+    {
+        "Key": "coin_MonsterModel1_des",
+        "zh_CN": "击败{1}后可以获得的荣誉证明，一枚普通的铭章。可用于解锁征伐图谱和点亮敌方的征伐标记",
+        "disable": 0
+    },
+    {
+        "Key": "coin_MonsterModel2_des",
+        "zh_CN": "击败{1}后可以获得的荣誉证明，一枚优质的铭章。可用于解锁征伐图谱和点亮敌方的征伐标记",
+        "disable": 0
+    },
+    {
+        "Key": "coin_MonsterModel3_des",
+        "zh_CN": "击败{1}后可以获得的荣誉证明，一枚精品的铭章。可用于解锁征伐图谱和点亮敌方的征伐标记",
+        "disable": 0
+    },
+    {
+        "Key": "coin_Science_use",
+        "zh_CN": "悖论迷宫专用道具",
+        "disable": 0
+    },
+    {
+        "Key": "coin_BattleCoin_use",
+        "zh_CN": "悖论迷宫专用道具",
+        "disable": 0
+    },
+    {
+        "Key": "coin_Exp_use",
+        "zh_CN": "悖论迷宫经验素材",
+        "disable": 0
+    },
+    {
+        "Key": "coin_LotteryTicket_use",
+        "zh_CN": "悖论迷宫特别嘉勉申领道具",
+        "disable": 0
+    },
+    {
+        "Key": "coin_Season_use",
+        "zh_CN": "悖论迷宫的奖励代币",
+        "disable": 0
+    },
+    {
+        "Key": "coin_ScoreModel_use",
+        "zh_CN": "增益解锁道具",
+        "disable": 0
+    },
+    {
+        "Key": "coin_MonsterModel1_use",
+        "zh_CN": "征伐标记道具",
+        "disable": 0
+    },
+    {
+        "Key": "coin_MonsterModel2_use",
+        "zh_CN": "征伐标记道具",
+        "disable": 0
+    },
+    {
+        "Key": "coin_MonsterModel3_use",
+        "zh_CN": "征伐标记道具",
+        "disable": 0
+    },
+    {
+        "Key": "difficult_Name_100",
+        "zh_CN": "迭战模式",
+        "disable": 0
+    },
+    {
+        "Key": "difficult_des_101",
+        "zh_CN": "轻松的推演过程，不会遇到战术干扰，可获得较少的推演经验和智略点。",
+        "disable": 0
+    },
+    {
+        "Key": "difficult_des_201",
+        "zh_CN": "轻松的推演过程，偶尔会遇到战术干扰，可获得一般的推演经验和智略点。",
+        "disable": 0
+    },
+    {
+        "Key": "difficult_des_301",
+        "zh_CN": "困难的推演过程，偶尔会遇到战术干扰，敌方显著变强，可获得较多的推演经验和智略点。",
+        "disable": 0
+    },
+    {
+        "Key": "difficult_des_401",
+        "zh_CN": "高压的推演过程，经常遇到战术干扰，敌方数量众多且极具挑战性，可获得较多的推演经验和智略点。",
+        "disable": 0
+    },
+    {
+        "Key": "difficult_des_10001",
+        "zh_CN": "多个幻境构成的训练阵地，在虚实中找寻真正的破解之道",
+        "disable": 1000
+    },
+    {
+        "Key": "event_name_101",
+        "zh_CN": "遭遇作战",
+        "disable": 0
+    },
+    {
+        "Key": "event_name_102",
+        "zh_CN": "生存危机",
+        "disable": 0
+    },
+    {
+        "Key": "event_name_103",
+        "zh_CN": "特别作战",
+        "disable": 0
+    },
+    {
+        "Key": "event_name_104",
+        "zh_CN": "滚石派对",
+        "disable": 0
+    },
+    {
+        "Key": "event_name_105",
+        "zh_CN": "仙人叩关",
+        "disable": 0
+    },
+    {
+        "Key": "event_name_106",
+        "zh_CN": "连战场域",
+        "disable": 0
+    },
+    {
+        "Key": "event_name_201",
+        "zh_CN": "安全屋",
+        "disable": 0
+    },
+    {
+        "Key": "event_name_401",
+        "zh_CN": "战备补给",
+        "disable": 0
+    },
+    {
+        "Key": "event_name_402",
+        "zh_CN": "优质补给",
+        "disable": 0
+    },
+    {
+        "Key": "event_name_601",
+        "zh_CN": "军备兑换",
+        "disable": 0
+    },
+    {
+        "Key": "event_name_602",
+        "zh_CN": "惊喜时刻",
+        "disable": 0
+    },
+    {
+        "Key": "event_name_701",
+        "zh_CN": "突发事件",
+        "disable": 0
+    },
+    {
+        "Key": "event_name_801",
+        "zh_CN": "完成推演",
+        "disable": 0
+    },
+    {
+        "Key": "event_name_802",
+        "zh_CN": "无尽挑战",
+        "disable": 0
+    },
+    {
+        "Key": "event_des_101",
+        "zh_CN": "战士无论何时都应保持戒备，这样就不必临时准备",
+        "disable": 0
+    },
+    {
+        "Key": "event_des_103",
+        "zh_CN": "除自身战斗能力外，这里还考验观察和利用环境作战的能力",
+        "disable": 0
+    },
+    {
+        "Key": "event_des_104",
+        "zh_CN": "面对乐园挑战也要做好战术计划",
+        "disable": 0
+    },
+    {
+        "Key": "event_des_105",
+        "zh_CN": "机缘已至",
+        "disable": 0
+    },
+    {
+        "Key": "event_des_106",
+        "zh_CN": "在限定时间内，根据清除敌方目标的波次，可以获取多个选择增益效果的机会",
+        "disable": 0
+    },
+    {
+        "Key": "event_des_201",
+        "zh_CN": "一处隐匿的安全屋，提供了恰到好处的休憩场所，有助于制定下一步的行动计划",
+        "disable": 0
+    },
+    {
+        "Key": "event_des_401",
+        "zh_CN": "一处战术支援点，善用支援点提供的帮助，把握优势，掌控整个战局",
+        "disable": 0
+    },
+    {
+        "Key": "event_des_402",
+        "zh_CN": "精挑细选的优质补给，可以随机获得一个强力增益",
+        "disable": 0
+    },
+    {
+        "Key": "event_des_601",
+        "zh_CN": "决定成败的不是军备，而是使用军备的人",
+        "disable": 0
+    },
+    {
+        "Key": "event_des_602",
+        "zh_CN": "运气也是实力的一部分",
+        "disable": 0
+    },
+    {
+        "Key": "event_des_701",
+        "zh_CN": "世界是你的。开启这扇门，一切皆有可能发生……",
+        "disable": 0
+    },
+    {
+        "Key": "event_des_801",
+        "zh_CN": "您已完成本次悖论迷宫的战术推演",
+        "disable": 0
+    },
+    {
+        "Key": "event_des_802",
+        "zh_CN": "踏入无尽挑战，追求身体反应与战术判断的极致挑战",
+        "disable": 0
+    },
+    {
+        "Key": "event_des2_101",
+        "zh_CN": "遭遇作战：战胜敌方目标后可随机获得一个增益",
+        "disable": 0
+    },
+    {
+        "Key": "event_des2_102",
+        "zh_CN": "生存危机：战斗难度较高，战胜敌方目标后可随机获得一个增益",
+        "disable": 0
+    },
+    {
+        "Key": "event_des2_201",
+        "zh_CN": "安全屋：可在此收治受伤队员，唤醒倒下的队员、移除战术干扰或收集增益等",
+        "disable": 0
+    },
+    {
+        "Key": "event_des2_401",
+        "zh_CN": "战备补给：可随机获得迷宫之钥、补给或一个稀有增益",
+        "disable": 0
+    },
+    {
+        "Key": "event_des2_601",
+        "zh_CN": "军备兑换：可使用迷宫之钥换取增益",
+        "disable": 0
+    },
+    {
+        "Key": "event_des2_701",
+        "zh_CN": "突发事件：只有选择之后，才能知道会出现什么",
+        "disable": 0
+    },
+    {
+        "Key": "event_restTitle_cure",
+        "zh_CN": "集中收治",
+        "disable": 0
+    },
+    {
+        "Key": "event_restTitle_rebirth",
+        "zh_CN": "重构意识",
+        "disable": 0
+    },
+    {
+        "Key": "event_restTitle_curse",
+        "zh_CN": "移除干扰",
+        "disable": 0
+    },
+    {
+        "Key": "event_restName_cure",
+        "zh_CN": "治疗仪",
+        "disable": 0
+    },
+    {
+        "Key": "event_restName_rebirth",
+        "zh_CN": "意识皿",
+        "disable": 0
+    },
+    {
+        "Key": "event_restName_curse",
+        "zh_CN": "干扰抑制器",
+        "disable": 0
+    },
+    {
+        "Key": "event_restDes_cure",
+        "zh_CN": "所有队员生命回复30%",
+        "disable": 0
+    },
+    {
+        "Key": "event_restDes_rebirth",
+        "zh_CN": "随机为一名队员重构意识 ，并恢复30%生命值",
+        "disable": 0
+    },
+    {
+        "Key": "event_restDes_curse",
+        "zh_CN": "随机移除一个战术干扰",
+        "disable": 0
+    },
+    {
+        "Key": "talent_name_101",
+        "zh_CN": "聚力",
+        "disable": 0
+    },
+    {
+        "Key": "talent_name_102",
+        "zh_CN": "精术",
+        "disable": 0
+    },
+    {
+        "Key": "talent_name_103",
+        "zh_CN": "暗容",
+        "disable": 0
+    },
+    {
+        "Key": "talent_name_104",
+        "zh_CN": "铁卫",
+        "disable": 0
+    },
+    {
+        "Key": "talent_name_105",
+        "zh_CN": "风锥",
+        "disable": 0
+    },
+    {
+        "Key": "talent_name_106",
+        "zh_CN": "鸣雨",
+        "disable": 0
+    },
+    {
+        "Key": "talent_name_107",
+        "zh_CN": "叠袭",
+        "disable": 0
+    },
+    {
+        "Key": "talent_des_101",
+        "zh_CN": "攻击力+{1}%，根据收集的侦讯类效果数量，额外提升：",
+        "disable": 0
+    },
+    {
+        "Key": "talent_des_102",
+        "zh_CN": "技能伤害+{1}%，根据收集的步哨类效果数量，额外提升：",
+        "disable": 0
+    },
+    {
+        "Key": "talent_des_103",
+        "zh_CN": "弹匣容量+{1}%，根据收集的暗网类效果数量，额外提升：",
+        "disable": 0
+    },
+    {
+        "Key": "talent_des_104",
+        "zh_CN": "护盾获取效能+{1}%，根据收集的屏藩类效果数量，额外提升：",
+        "disable": 0
+    },
+    {
+        "Key": "talent_des_105",
+        "zh_CN": "暴击伤害增幅+{1}%，根据收集的突贯类效果数量，额外提升：",
+        "disable": 0
+    },
+    {
+        "Key": "talent_des_106",
+        "zh_CN": "射击速度+{1}%，根据收集的探路类效果数量，额外提升：",
+        "disable": 0
+    },
+    {
+        "Key": "talent_des_107",
+        "zh_CN": "射击伤害+{1}%，根据收集到的灵靶类效果数量，额外提升：",
+        "disable": 0
+    },
+    {
+        "Key": "talent_des_101_1",
+        "zh_CN": "攻击力+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "talent_des_102_1",
+        "zh_CN": "技能伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "talent_des_103_1",
+        "zh_CN": "弹匣容量+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "talent_des_104_1",
+        "zh_CN": "护盾获取效能+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "talent_des_105_1",
+        "zh_CN": "暴击伤害增幅+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "talent_des_106_1",
+        "zh_CN": "射击速度+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "talent_des_107_1",
+        "zh_CN": "射击伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreBattleName1",
+        "zh_CN": "重装战役",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreBattleName2",
+        "zh_CN": "巧袭战役",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreBattleName3",
+        "zh_CN": "坚甲战役",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreBattleName4",
+        "zh_CN": "谋策战役",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreBattleName5",
+        "zh_CN": "高难检验",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreBattleName6",
+        "zh_CN": "特异优势",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreBattleName7",
+        "zh_CN": "电击优势",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreBattleName8",
+        "zh_CN": "动能优势",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreBattleName9",
+        "zh_CN": "温感优势",
+        "disable": 0
+    },
+    {
+        "Key": "MaterialBuffBattleName1",
+        "zh_CN": "增益试炼·简单",
+        "disable": 0
+    },
+    {
+        "Key": "MaterialBuffBattleName2",
+        "zh_CN": "增益试炼·普通",
+        "disable": 0
+    },
+    {
+        "Key": "MaterialBuffBattleName3",
+        "zh_CN": "增益试炼·困难",
+        "disable": 0
+    },
+    {
+        "Key": "MaterialBuffBattleName4",
+        "zh_CN": "增益试炼·厄险",
+        "disable": 0
+    },
+    {
+        "Key": "MaterialBuffBattleName5",
+        "zh_CN": "增益试炼·渊底",
+        "disable": 0
+    },
+    {
+        "Key": "MaterialBuffBattleName6",
+        "zh_CN": "增益试炼·幽馆",
+        "disable": 0
+    },
+    {
+        "Key": "MaterialBuffBattleName7",
+        "zh_CN": "增益试炼·异城",
+        "disable": 0
+    },
+    {
+        "Key": "massage_talentlock",
+        "zh_CN": "获取{1}后解锁",
+        "disable": 0
+    },
+    {
+        "Key": "massage_gameRepeat",
+        "zh_CN": "请先完成上一次关卡或者重置",
+        "disable": 0
+    },
+    {
+        "Key": "massage_gameProcessError",
+        "zh_CN": "流程错误",
+        "disable": 0
+    },
+    {
+        "Key": "massage_gameTimesNum",
+        "zh_CN": "今日剩余推演次数",
+        "disable": 0
+    },
+    {
+        "Key": "massage_noGameTimes",
+        "zh_CN": "今日推演次数已达上限，请明天再来吧！",
+        "disable": 0
+    },
+    {
+        "Key": "massage_adDes",
+        "zh_CN": "在千变万化的战局中，通过不断推演，探索迷宫深处，累积推演等级，从而获取丰厚的奖励",
+        "disable": 0
+    },
+    {
+        "Key": "massage_adDesSeason",
+        "zh_CN": "悖论迷宫-多维解集限时开放，挑战即可解锁思维深潜奖励",
+        "disable": 0
+    },
+    {
+        "Key": "massage_adDesSeason2",
+        "zh_CN": "提前为队员选配合适的增益出战，在多种模式战役中验证战术策略，赢取积分以换取多种奖励",
+        "disable": 0
+    },
+    {
+        "Key": "massage_gameExit",
+        "zh_CN": "离开战局后可随时返回，并从最近的储存点继续推演，是否继续?",
+        "disable": 0
+    },
+    {
+        "Key": "massage_controlTips",
+        "zh_CN": "调查",
+        "disable": 0
+    },
+    {
+        "Key": "massage_taskDes1",
+        "zh_CN": "前往控制台",
+        "disable": 0
+    },
+    {
+        "Key": "massage_trySkipBuff",
+        "zh_CN": "请选择要获取的增益",
+        "disable": 0
+    },
+    {
+        "Key": "massage_trySkipReward",
+        "zh_CN": "请先领取迷宫之钥奖励",
+        "disable": 0
+    },
+    {
+        "Key": "massage_getBuff",
+        "zh_CN": "获得增益：{1}",
+        "disable": 0
+    },
+    {
+        "Key": "massage_getCoin",
+        "zh_CN": "获得迷宫之钥*{1}",
+        "disable": 0
+    },
+    {
+        "Key": "massage_getItem",
+        "zh_CN": "获得{1}*{2}",
+        "disable": 0
+    },
+    {
+        "Key": "massage_tryOpenOtherDoor",
+        "zh_CN": "此处无法选择其他的门",
+        "disable": 0
+    },
+    {
+        "Key": "massage_doorOpen",
+        "zh_CN": "门已开启",
+        "disable": 0
+    },
+    {
+        "Key": "massage_storeRefreshFail",
+        "zh_CN": "领队权限卡不足",
+        "disable": 0
+    },
+    {
+        "Key": "massage_RemoveCurseFail",
+        "zh_CN": "当前未受到战术干扰",
+        "disable": 0
+    },
+    {
+        "Key": "massage_RemoveCurseSuccess",
+        "zh_CN": "战术干扰：{1}已移除",
+        "disable": 0
+    },
+    {
+        "Key": "massage_getCurse",
+        "zh_CN": "{1}已受到战术干扰：{2}",
+        "disable": 0
+    },
+    {
+        "Key": "massage_rebirthSuccess",
+        "zh_CN": "{1}已成功重构意识",
+        "disable": 0
+    },
+    {
+        "Key": "massage_rebirthFail",
+        "zh_CN": "当前无队员倒下",
+        "disable": 0
+    },
+    {
+        "Key": "massage_healSuccess",
+        "zh_CN": "生命回复完成",
+        "disable": 0
+    },
+    {
+        "Key": "massage_healFail",
+        "zh_CN": "当前无队员需要收治",
+        "disable": 0
+    },
+    {
+        "Key": "massage_coinNotEnough",
+        "zh_CN": "迷宫之钥不足",
+        "disable": 0
+    },
+    {
+        "Key": "massage_defendCurse",
+        "zh_CN": "侦察接收机已屏蔽战术干扰",
+        "disable": 0
+    },
+    {
+        "Key": "massage_dangerReduce",
+        "zh_CN": "威胁值已降低",
+        "disable": 0
+    },
+    {
+        "Key": "massage_rewardTips",
+        "zh_CN": "完成悖论迷宫可累积推演经验、提升推演等级",
+        "disable": 0
+    },
+    {
+        "Key": "massage_NoReward",
+        "zh_CN": "当前进度下重置推演不能获得任何奖励，建议继续推演",
+        "disable": 0
+    },
+    {
+        "Key": "massage_PersonalBuffInconsistent",
+        "zh_CN": "该增益仅可{1}-{2}使用",
+        "disable": 0
+    },
+    {
+        "Key": "massage_poolCoinLack",
+        "zh_CN": "申领凭证不足",
+        "disable": 0
+    },
+    {
+        "Key": "massage_seasonEnd",
+        "zh_CN": "悖论迷宫-多维解集已结束，点击退出活动",
+        "disable": 0
+    },
+    {
+        "Key": "massage_sellBuff",
+        "zh_CN": "回收此增益后，可获得一定数量迷宫之钥的补偿，是否继续？",
+        "disable": 0
+    },
+    {
+        "Key": "massage_sellBuffInMaterialBuffBattle",
+        "zh_CN": "丢弃在试炼中选择的增益，完成试炼后将不会获取，是否继续？",
+        "disable": 0
+    },
+    {
+        "Key": "massage_journeyRoadLock",
+        "zh_CN": "该节点尚未解锁",
+        "disable": 0
+    },
+    {
+        "Key": "massage_journeyRoadUnlockTitle",
+        "zh_CN": "解锁",
+        "disable": 0
+    },
+    {
+        "Key": "massage_journeyRoadUnlockDes",
+        "zh_CN": "是否使用以下思维译码解锁节点?",
+        "disable": 0
+    },
+    {
+        "Key": "massage_LowEnergy",
+        "zh_CN": "当精力值低于50时，思维译码获取数量将会降低。当前精力值较低，是否继续挑战？",
+        "disable": 0
+    },
+    {
+        "Key": "massage_EndDoorTips",
+        "zh_CN": "推演已结束，是否完成战局？",
+        "disable": 0
+    },
+    {
+        "Key": "massage_InfinityOpen",
+        "zh_CN": "由于分析员超群的推演能力，无尽挑战已开放。",
+        "disable": 0
+    },
+    {
+        "Key": "massage_InfinityTips",
+        "zh_CN": "在无尽挑战中，敌人的能力将大幅提升。分析员需要在限定时间中，尽可能多地击败敌人。无尽挑战不会影响最终奖励，是否继续？",
+        "disable": 0
+    },
+    {
+        "Key": "massage_InfinityCancelTips",
+        "zh_CN": "进行无尽挑战不会影响最终奖励，离开将直接完成推演并且无法返回无尽挑战，是否继续？",
+        "disable": 0
+    },
+    {
+        "Key": "massage_InfinityCancelTips2",
+        "zh_CN": "退出挑战后，当前已获取积分将会记为最终积分，是否继续？",
+        "disable": 0
+    },
+    {
+        "Key": "massage_MaterialBuffBattleCancelTips",
+        "zh_CN": "退出试炼仍可获得已完成波次的奖励，是否继续？",
+        "disable": 0
+    },
+    {
+        "Key": "massage_KeyMaxTips",
+        "zh_CN": "部分上阵队员可获得思维译码的数量已达到上限，继续上阵将无法获取对应类型的思维译码，是否继续？",
+        "disable": 0
+    },
+    {
+        "Key": "massage_KeyExchangeNotEnough",
+        "zh_CN": "万用思维译码不足",
+        "disable": 0
+    },
+    {
+        "Key": "massage_ScienceLockTips",
+        "zh_CN": "此科目逻辑已被屏蔽，不会在推演中生效",
+        "disable": 0
+    },
+    {
+        "Key": "massage_ScienceLockConfirmTips",
+        "zh_CN": "屏蔽此科目逻辑后，该逻辑的全部效果无法在推演中生效。可随时选择解除屏蔽，是否继续？",
+        "disable": 0
+    },
+    {
+        "Key": "massage_ScienceUnLockTips",
+        "zh_CN": "{1}屏蔽已解除",
+        "disable": 0
+    },
+    {
+        "Key": "massage_BingGoTimesNotEnough",
+        "zh_CN": "可开启次数不足",
+        "disable": 0
+    },
+    {
+        "Key": "massage_ScoreModelChangeRoleTips",
+        "zh_CN": "已为{1}选配了以下单体增益，更换角色需重新选配，是否继续？",
+        "disable": 0
+    },
+    {
+        "Key": "massage_ScoreModelBuffEditTips1",
+        "zh_CN": "未上阵队员，无法选配单体增益",
+        "disable": 0
+    },
+    {
+        "Key": "massage_ScoreModelTeamEditTips1",
+        "zh_CN": "未选配增益，是否开始作战?",
+        "disable": 0
+    },
+    {
+        "Key": "massage_SocreCoinNotEnough",
+        "zh_CN": "战场经验不足",
+        "disable": 0
+    },
+    {
+        "Key": "massage_PersonalBuffMax",
+        "zh_CN": "该队员可选配的单体增益已达上限",
+        "disable": 0
+    },
+    {
+        "Key": "massage_BuffCostMaxTips",
+        "zh_CN": "选配增益已达组合上限",
+        "disable": 0
+    },
+    {
+        "Key": "massage_SchemeCoverTips",
+        "zh_CN": "已应用其他预设，继续保存将替换原预设",
+        "disable": 0
+    },
+    {
+        "Key": "massage_SchemeVacantTips",
+        "zh_CN": "该预设为空",
+        "disable": 0
+    },
+    {
+        "Key": "massage_SchemeDeleteTips",
+        "zh_CN": "是否删除预设?",
+        "disable": 0
+    },
+    {
+        "Key": "massage_SchemeCostAboveTips",
+        "zh_CN": "预设内选配增益已超过增益组合上限，以下增益将无法使用，是否继续?",
+        "disable": 0
+    },
+    {
+        "Key": "massage_SchemeBuffLimitTips",
+        "zh_CN": "该预设中包含禁用增益，因此无法装配以下增益，是否继续？",
+        "disable": 0
+    },
+    {
+        "Key": "massage_SchemeDifferentRoleTips",
+        "zh_CN": "该预设中的部分增益不适配当前出战队员，因此无法装配，是否继续？",
+        "disable": 0
+    },
+    {
+        "Key": "massage_UseTips",
+        "zh_CN": "已应用{1}",
+        "disable": 0
+    },
+    {
+        "Key": "massage_SchemeNameError",
+        "zh_CN": "修改失败，请输入正确的名字",
+        "disable": 0
+    },
+    {
+        "Key": "massage_SchemeUseFailed",
+        "zh_CN": "应用预设失败，该预设中包含禁用增益",
+        "disable": 0
+    },
+    {
+        "Key": "massage_SchemeSaveTips",
+        "zh_CN": "保存成功",
+        "disable": 0
+    },
+    {
+        "Key": "massage_UavPartBagMaxTips",
+        "zh_CN": "部件数量已达上限，无法继续获得，建议前往部件精制进行处理",
+        "disable": 0
+    },
+    {
+        "Key": "massage_UavPartComposeQualityDiscrepancy",
+        "zh_CN": "必须置入相同等级的部件",
+        "disable": 0
+    },
+    {
+        "Key": "massage_UavPartComposeQualityMax",
+        "zh_CN": "置入的部件为最高等级，精制后仅刷新属性",
+        "disable": 0
+    },
+    {
+        "Key": "massage_UavPartThisTypeNone",
+        "zh_CN": "暂无可用的此类部件，可前往增益试炼获取",
+        "disable": 0
+    },
+    {
+        "Key": "massage_UavPartComposeNumLack",
+        "zh_CN": "必须置入4个部件",
+        "disable": 0
+    },
+    {
+        "Key": "massage_UavCoreChange",
+        "zh_CN": "已装配{1}机芯",
+        "disable": 0
+    },
+    {
+        "Key": "massage_UavErrorTips1",
+        "zh_CN": "部件已被装配",
+        "disable": 0
+    },
+    {
+        "Key": "massage_UavErrorTips2",
+        "zh_CN": "部件重复",
+        "disable": 0
+    },
+    {
+        "Key": "massage_UavErrorTips3",
+        "zh_CN": "部件无效",
+        "disable": 0
+    },
+    {
+        "Key": "massage_UavErrorTips4",
+        "zh_CN": "配置错误",
+        "disable": 0
+    },
+    {
+        "Key": "massage_UavErrorTips5",
+        "zh_CN": "机芯不存在",
+        "disable": 0
+    },
+    {
+        "Key": "massage_UavErrorTips6",
+        "zh_CN": "部件类型错误",
+        "disable": 0
+    },
+    {
+        "Key": "massage_UavErrorTips7",
+        "zh_CN": "参数错误",
+        "disable": 0
+    },
+    {
+        "Key": "energyTips1",
+        "zh_CN": "精力值<span color=\"#ffc500\">0-19</>点时，将不再降低，但思维译码获取数量将大幅降低",
+        "disable": 0
+    },
+    {
+        "Key": "energyTips2",
+        "zh_CN": "精力值<span color=\"#c25c02\">20-49</>点时，思维译码获取数量将降低",
+        "disable": 0
+    },
+    {
+        "Key": "energyTips3",
+        "zh_CN": "精力值<span color=\"#91c7ff\">50</>点以上时，思维译码获取数量正常",
+        "disable": 0
+    },
+    {
+        "Key": "energyTips1_A",
+        "zh_CN": "思维译码获取数量<span color=\"#c25c02\">大幅降低</>",
+        "disable": 0
+    },
+    {
+        "Key": "energyTips2_A",
+        "zh_CN": "思维译码获取数量<span color=\"#ffc500\">降低</>",
+        "disable": 0
+    },
+    {
+        "Key": "talk1101",
+        "zh_CN": "天楼区域的模拟作战中，遇到了被重物砸伤需要急救的居民。",
+        "disable": 0
+    },
+    {
+        "Key": "talk1102",
+        "zh_CN": "我开始清理阻碍道路的杂物，并让恩雅来看看伤者的情况。",
+        "disable": 0
+    },
+    {
+        "Key": "talk1103",
+        "zh_CN": "她的伤太重了，现在还不能随便挪动。我需要急救箱先帮她进行紧急处理下。",
+        "disable": 0
+    },
+    {
+        "Key": "talk1104",
+        "zh_CN": "可是这里的环境，已经和当时完全不一样了，希望附近有<orange>急救箱</>，我们四处找找吧……",
+        "disable": 0
+    },
+    {
+        "Key": "talk1201",
+        "zh_CN": "找到这东西了！",
+        "disable": 0
+    },
+    {
+        "Key": "talk1202",
+        "zh_CN": "跑腿的活尽量交给我们。分析员，你的精力可要留着做更、重、要的事哦~",
+        "disable": 0
+    },
+    {
+        "Key": "talk1203",
+        "zh_CN": "恩雅使用急救箱对受伤的居民进行了应急处置，可以继续前进了。",
+        "disable": 0
+    },
+    {
+        "Key": "talk2101",
+        "zh_CN": "由于任务目标的实时定位信息失效，我们暂时无法行动。",
+        "disable": 0
+    },
+    {
+        "Key": "talk2102",
+        "zh_CN": "不会吧……我们就这么把目标给丢了？",
+        "disable": 0
+    },
+    {
+        "Key": "talk2103",
+        "zh_CN": "这里的环境布局发生了改变，照着我记忆里的路线前进完全行不通。",
+        "disable": 0
+    },
+    {
+        "Key": "talk2104",
+        "zh_CN": "等我想想……有办法了！",
+        "disable": 0
+    },
+    {
+        "Key": "talk2105",
+        "zh_CN": "模拟环境会变，但我熟悉那些家伙的行事逻辑！郊狼的装备里，肯定能搜出几个<orange>坐标定位器</>来。",
+        "disable": 0
+    },
+    {
+        "Key": "talk2201",
+        "zh_CN": "果然拿到了。怎么样，分析员儿~我还派得上用场吧！",
+        "disable": 0
+    },
+    {
+        "Key": "talk2202",
+        "zh_CN": "如果只靠这个坐标定位器，想要重新找到路还是有些困难。",
+        "disable": 0
+    },
+    {
+        "Key": "talk2203",
+        "zh_CN": "不过有我的记忆在，就都不是问题了。",
+        "disable": 0
+    },
+    {
+        "Key": "talk2204",
+        "zh_CN": "使用坐标定位器，结合辰星的记忆，重新获取了当前位置信息，并重新得到了任务目标定位。",
+        "disable": 0
+    },
+    {
+        "Key": "talk2205",
+        "zh_CN": "可以继续前进了。",
+        "disable": 0
+    },
+    {
+        "Key": "talk3101",
+        "zh_CN": "极端天气导致通讯装置损坏，通讯障碍让队伍无法继续展开行动。",
+        "disable": 0
+    },
+    {
+        "Key": "talk3102",
+        "zh_CN": "分析员原来在这么冷的地方执行过任务啊……阿嚏！",
+        "disable": 0
+    },
+    {
+        "Key": "talk3103",
+        "zh_CN": "明明是系统模拟的环境，我怎么感觉好像真的变冷了……",
+        "disable": 0
+    },
+    {
+        "Key": "talk3104",
+        "zh_CN": "补给点离这不远了。等拿到全新的<orange>通讯装置</>，就可以继续按原计划行动了。",
+        "disable": 0
+    },
+    {
+        "Key": "talk3201",
+        "zh_CN": "新的通讯装置到手了，接下来就看小老师我的吧！",
+        "disable": 0
+    },
+    {
+        "Key": "talk3202",
+        "zh_CN": "分析员，雪原的风吹在脸上像刀割一样，不过我并不讨厌这种感觉呢。",
+        "disable": 0
+    },
+    {
+        "Key": "talk3203",
+        "zh_CN": "让我走在前面帮你挡风吧。",
+        "disable": 0
+    },
+    {
+        "Key": "talk3204",
+        "zh_CN": "在芙提雅的安全操作下，成功恢复了通讯，可以继续前进了。",
+        "disable": 0
+    },
+    {
+        "Key": "talk4101",
+        "zh_CN": "分析员对创意料理感兴趣吗？",
+        "disable": 0
+    },
+    {
+        "Key": "talk4102",
+        "zh_CN": "哼，怎么可能。我可知道分析员最爱的餐馆，他每次和我吃饭都选那家。那是家很正宗的霍尔姆老派餐厅。",
+        "disable": 0
+    },
+    {
+        "Key": "talk4103",
+        "zh_CN": "但据我所知，分析员对琴诺制作的章鱼脚冰淇淋很是欣赏。所以我推测，分析员最近对创意料理感兴趣。",
+        "disable": 0
+    },
+    {
+        "Key": "talk4104",
+        "zh_CN": "什么！分析员你的口味变得也太快了，而且好极端。",
+        "disable": 0
+    },
+    {
+        "Key": "talk4105",
+        "zh_CN": "一直吃一样的东西当然会腻。",
+        "disable": 0
+    },
+    {
+        "Key": "talk4106",
+        "zh_CN": "不要埋怨分析员口味的改变，我们也要努力学习新的东西，让自己变得更好，更值得分析员喜欢。",
+        "disable": 0
+    },
+    {
+        "Key": "talk4107",
+        "zh_CN": "不就是创意料理嘛。亲爱的，你等着哦~",
+        "disable": 0
+    },
+    {
+        "Key": "talk4108",
+        "zh_CN": "我们不是刚吃完午饭吗？现在不急着聊吃饭的事情吧。",
+        "disable": 0
+    },
+    {
+        "Key": "talk4109",
+        "zh_CN": "双手合起，祈祷晚餐不要吃到奇怪的东西。",
+        "disable": 0
+    },
+    {
+        "Key": "talk5101",
+        "zh_CN": "呜哇……分析员儿！",
+        "disable": 0
+    },
+    {
+        "Key": "talk5102",
+        "zh_CN": "那个大大的、转动的圆圈，好像就是摩天轮吧？",
+        "disable": 0
+    },
+    {
+        "Key": "talk5103",
+        "zh_CN": "没错，是的。嗯？妮塔没玩过摩天轮吗？",
+        "disable": 0
+    },
+    {
+        "Key": "talk5104",
+        "zh_CN": "原来近距离看这么大啊——",
+        "disable": 0
+    },
+    {
+        "Key": "talk5105",
+        "zh_CN": "嘿嘿，我的确没玩过。在孤儿院的时候听其他小朋友讲起过，不过后来就一直在错失体验的机会。",
+        "disable": 0
+    },
+    {
+        "Key": "talk5106",
+        "zh_CN": "比如新恒提罗的那次派对，还有水上乐园的闯关挑战……",
+        "disable": 0
+    },
+    {
+        "Key": "talk5107",
+        "zh_CN": "（常觉亏欠妮塔很多……）",
+        "disable": 0
+    },
+    {
+        "Key": "talk5108",
+        "zh_CN": "妮塔有什么愿望，都告诉我吧。",
+        "disable": 0
+    },
+    {
+        "Key": "talk5109",
+        "zh_CN": "我会一一陪你实现的。",
+        "disable": 0
+    },
+    {
+        "Key": "talk5110",
+        "zh_CN": "啊、哎？！怎么突然感觉这么正式……",
+        "disable": 0
+    },
+    {
+        "Key": "talk6101",
+        "zh_CN": "队员们都在水上乐园好好放松精神，只有晴依然神情紧张。",
+        "disable": 0
+    },
+    {
+        "Key": "talk6102",
+        "zh_CN": "怎么还一脸凝重的？",
+        "disable": 0
+    },
+    {
+        "Key": "talk6103",
+        "zh_CN": "可惜……还好。",
+        "disable": 0
+    },
+    {
+        "Key": "talk6104",
+        "zh_CN": "可惜没能与我共同作战，还好能回到这里？",
+        "disable": 0
+    },
+    {
+        "Key": "talk6105",
+        "zh_CN": "果然，我的一切都能被分析员看穿。",
+        "disable": 0
+    },
+    {
+        "Key": "talk6106",
+        "zh_CN": "那晴猜猜我想说什么？",
+        "disable": 0
+    },
+    {
+        "Key": "talk6107",
+        "zh_CN": "让我不要多想，享受这里吧……",
+        "disable": 0
+    },
+    {
+        "Key": "talk6108",
+        "zh_CN": "看吧，战友。",
+        "disable": 0
+    },
+    {
+        "Key": "talk6109",
+        "zh_CN": "我们一直都最了解彼此。",
+        "disable": 0
+    },
+    {
+        "Key": "talk7101",
+        "zh_CN": "呜哇，好像已经感觉到晒了。",
+        "disable": 0
+    },
+    {
+        "Key": "talk7102",
+        "zh_CN": "说起来，在日光浴小岛上躺倒看你们闯关，也是一种乐趣~",
+        "disable": 0
+    },
+    {
+        "Key": "talk7103",
+        "zh_CN": "打工人可不希望团建也变成任务。",
+        "disable": 0
+    },
+    {
+        "Key": "talk7104",
+        "zh_CN": "瑟瑞斯打开录音笔，仿佛在确认什么。",
+        "disable": 0
+    },
+    {
+        "Key": "talk7105",
+        "zh_CN": "下次、下次一定不能再忘记了！",
+        "disable": 0
+    },
+    {
+        "Key": "talk7106",
+        "zh_CN": "瑟瑞斯又忘记什么？",
+        "disable": 0
+    },
+    {
+        "Key": "talk7107",
+        "zh_CN": "嘿嘿，当时我也在日光浴小岛看着分析员呢~为了能参加闯关我偷偷练了一会儿，嘿嘿~",
+        "disable": 0
+    },
+    {
+        "Key": "talk7108",
+        "zh_CN": "不过，我忘记涂防晒油了……是不是变黑了好多？",
+        "disable": 0
+    },
+    {
+        "Key": "talk7109",
+        "zh_CN": "没有哦，瑟瑞斯的肤色还是很健康很好看。以后我会帮瑟瑞斯想着涂防晒油的事情。",
+        "disable": 0
+    },
+    {
+        "Key": "talk7110",
+        "zh_CN": "不过这么说起来，感觉肴变黑得好像更明显……",
+        "disable": 0
+    },
+    {
+        "Key": "talk7111",
+        "zh_CN": "我可没有提前偷偷练习啊！",
+        "disable": 0
+    },
+    {
+        "Key": "talk8101",
+        "zh_CN": "分析员喜欢什么样子的伊切尔呢？",
+        "disable": 0
+    },
+    {
+        "Key": "talk8102",
+        "zh_CN": "水上乐园闯关那天，大家都穿得凉飕飕地站在大舞台上，分析员看大家的眼神非常满意——",
+        "disable": 0
+    },
+    {
+        "Key": "talk8103",
+        "zh_CN": "分析员一定是喜欢凉飕飕的样子！ 那伊切尔以后也要穿得凉飕飕！",
+        "disable": 0
+    },
+    {
+        "Key": "talk8104",
+        "zh_CN": "呃……不是那样的……",
+        "disable": 0
+    },
+    {
+        "Key": "talk8105",
+        "zh_CN": "伊切尔的什么样子，我都喜欢。",
+        "disable": 0
+    },
+    {
+        "Key": "talk8106",
+        "zh_CN": "不对不对！",
+        "disable": 0
+    },
+    {
+        "Key": "talk8107",
+        "zh_CN": "伊切尔穿了新衣服，分析员会更开心~",
+        "disable": 0
+    },
+    {
+        "Key": "talk8108",
+        "zh_CN": "那以后伊切尔经常穿新衣服给分析员看！",
+        "disable": 0
+    },
+    {
+        "Key": "talk8109",
+        "zh_CN": "好，都听你的。",
+        "disable": 0
+    },
+    {
+        "Key": "talk9101",
+        "zh_CN": "duang~duang~",
+        "disable": 0
+    },
+    {
+        "Key": "talk9102",
+        "zh_CN": "老师，好多水球呀，打破了之后肯定冰冰凉凉的吧！",
+        "disable": 0
+    },
+    {
+        "Key": "talk9103",
+        "zh_CN": "啊！分析员大人是怎么在闯关里躲过这么……这么多水球的？",
+        "disable": 0
+    },
+    {
+        "Key": "talk9104",
+        "zh_CN": "集中注意力在水球上，不要在这么混乱的情况里找我啊——",
+        "disable": 0
+    },
+    {
+        "Key": "talk9105",
+        "zh_CN": "（话是这么说，我现在也没办法集中注意了。）",
+        "disable": 0
+    },
+    {
+        "Key": "talk9106",
+        "zh_CN": "总觉得球好像更多了……",
+        "disable": 0
+    },
+    {
+        "Key": "other_buffTypeName1",
+        "zh_CN": "全队增益",
+        "disable": 0
+    },
+    {
+        "Key": "other_buffTypeName2",
+        "zh_CN": "单体增益",
+        "disable": 0
+    },
+    {
+        "Key": "other_curseTypeName1",
+        "zh_CN": "全队战术干扰",
+        "disable": 0
+    },
+    {
+        "Key": "other_curseTypeName2",
+        "zh_CN": "单体战术干扰",
+        "disable": 0
+    },
+    {
+        "Key": "other_bagName1",
+        "zh_CN": "威胁级别",
+        "disable": 0
+    },
+    {
+        "Key": "other_bagName2",
+        "zh_CN": "增益",
+        "disable": 0
+    },
+    {
+        "Key": "other_bagName3",
+        "zh_CN": "战术干扰",
+        "disable": 0
+    },
+    {
+        "Key": "other_bagName4",
+        "zh_CN": "补给",
+        "disable": 0
+    },
+    {
+        "Key": "other_bagName5",
+        "zh_CN": "迭战效果",
+        "disable": 0
+    },
+    {
+        "Key": "other_bagName6",
+        "zh_CN": "奖励预览",
+        "disable": 0
+    },
+    {
+        "Key": "other_bagName7",
+        "zh_CN": "战役特性",
+        "disable": 0
+    },
+    {
+        "Key": "other_buffType",
+        "zh_CN": "激励",
+        "disable": 0
+    },
+    {
+        "Key": "other_dangerRange1",
+        "zh_CN": "首领",
+        "disable": 0
+    },
+    {
+        "Key": "other_dangerRange2",
+        "zh_CN": "首领与敌方精英",
+        "disable": 0
+    },
+    {
+        "Key": "other_dangerRange3",
+        "zh_CN": "全部敌方目标",
+        "disable": 0
+    },
+    {
+        "Key": "other_defeatButton1",
+        "zh_CN": "暂时离开",
+        "disable": 0
+    },
+    {
+        "Key": "other_defeatButton2",
+        "zh_CN": "返回存档点",
+        "disable": 0
+    },
+    {
+        "Key": "other_floor",
+        "zh_CN": "第{1}层",
+        "disable": 0
+    },
+    {
+        "Key": "other_sellBuff",
+        "zh_CN": "回收",
+        "disable": 0
+    },
+    {
+        "Key": "other_infinitePool",
+        "zh_CN": "无限",
+        "disable": 0
+    },
+    {
+        "Key": "other_probabilityTitle",
+        "zh_CN": "概率详情",
+        "disable": 0
+    },
+    {
+        "Key": "other_probabilityTitle2",
+        "zh_CN": "本轮物品列表",
+        "disable": 0
+    },
+    {
+        "Key": "other_poolOrderTip",
+        "zh_CN": "取得上轮最高等级的特别嘉勉后解锁",
+        "disable": 0
+    },
+    {
+        "Key": "other_poolComplete",
+        "zh_CN": "已取得本轮全部嘉勉",
+        "disable": 0
+    },
+    {
+        "Key": "other_poolName",
+        "zh_CN": "特别嘉勉{1}",
+        "disable": 0
+    },
+    {
+        "Key": "other_modeLockTip",
+        "zh_CN": "悖论迷宫-多维解集开启后解锁",
+        "disable": 0
+    },
+    {
+        "Key": "other_modeLockTip2",
+        "zh_CN": "通关常规战局-普通难度后解锁",
+        "disable": 0
+    },
+    {
+        "Key": "other_keySourceName1",
+        "zh_CN": "按队员查看",
+        "disable": 0
+    },
+    {
+        "Key": "other_keySourceName2",
+        "zh_CN": "按类型查看",
+        "disable": 0
+    },
+    {
+        "Key": "other_energyRuleDes1",
+        "zh_CN": "每次完成悖论迷宫，将根据深入迷宫的层数降低精力值。精力值降低，思维译码获取量也将降低：",
+        "disable": 0
+    },
+    {
+        "Key": "other_energyRuleDes2",
+        "zh_CN": "每{1}分钟自动恢复1点精力值",
+        "disable": 0
+    },
+    {
+        "Key": "other_ManualReward",
+        "zh_CN": "耕耘之路",
+        "disable": 0
+    },
+    {
+        "Key": "other_NoticeDes",
+        "zh_CN": "开启倒计时：",
+        "disable": 0
+    },
+    {
+        "Key": "other_NoticeModeDes",
+        "zh_CN": "迭战模式开启倒计时：",
+        "disable": 0
+    },
+    {
+        "Key": "other_KeySwitchTips1",
+        "zh_CN": "请选择3个需要投入的思维译码",
+        "disable": 0
+    },
+    {
+        "Key": "other_KeySwitchTips2",
+        "zh_CN": "请选择1个需要获取的思维译码",
+        "disable": 0
+    },
+    {
+        "Key": "other_KeySwitchTips3",
+        "zh_CN": "至多可选3个",
+        "disable": 0
+    },
+    {
+        "Key": "other_KeySwitchTips4",
+        "zh_CN": "至多可选1个",
+        "disable": 0
+    },
+    {
+        "Key": "other_JourneyBagTip",
+        "zh_CN": "暂未获得道具",
+        "disable": 0
+    },
+    {
+        "Key": "other_ScienceLockBtn",
+        "zh_CN": "屏蔽",
+        "disable": 0
+    },
+    {
+        "Key": "other_ScienceUnLockBtn",
+        "zh_CN": "解除",
+        "disable": 0
+    },
+    {
+        "Key": "other_ScoreTargetDes",
+        "zh_CN": "挑战积分达到{1}",
+        "disable": 0
+    },
+    {
+        "Key": "other_MonsterManualRewardName",
+        "zh_CN": "战魂不息",
+        "disable": 0
+    },
+    {
+        "Key": "other_MonsterManualRewardDes",
+        "zh_CN": "累计点亮征伐标记{1}个",
+        "disable": 0
+    },
+    {
+        "Key": "other_SchemeName",
+        "zh_CN": "预设{1}",
+        "disable": 0
+    },
+    {
+        "Key": "other_RewardListName1",
+        "zh_CN": "战斗波次",
+        "disable": 0
+    },
+    {
+        "Key": "other_RewardListName2",
+        "zh_CN": "<span color=\"#ffffff\">1级增益概率</>",
+        "disable": 0
+    },
+    {
+        "Key": "other_RewardListName3",
+        "zh_CN": "<span color=\"#128c3d\">2级增益概率</>",
+        "disable": 0
+    },
+    {
+        "Key": "other_RewardListName4",
+        "zh_CN": "<span color=\"#4460ec\">3级增益概率</>",
+        "disable": 0
+    },
+    {
+        "Key": "other_RewardListName5",
+        "zh_CN": "<span color=\"#8d4dcd\">4级增益概率</>",
+        "disable": 0
+    },
+    {
+        "Key": "other_RewardListName6",
+        "zh_CN": "<span color=\"#ffb650\">5级增益概率</>",
+        "disable": 0
+    },
+    {
+        "Key": "other_RewardListName7",
+        "zh_CN": "<span color=\"#fff178\">战场经验</>",
+        "disable": 0
+    },
+    {
+        "Key": "other_RewardListName8",
+        "zh_CN": "推演经验",
+        "disable": 0
+    },
+    {
+        "Key": "other_RewardListName9",
+        "zh_CN": "智略点",
+        "disable": 0
+    },
+    {
+        "Key": "other_BuffListTitle1",
+        "zh_CN": "特殊增益",
+        "disable": 0
+    },
+    {
+        "Key": "other_BuffListDes1",
+        "zh_CN": "使用战场经验直接获取",
+        "disable": 0
+    },
+    {
+        "Key": "other_BuffListTitle2",
+        "zh_CN": "常规增益",
+        "disable": 0
+    },
+    {
+        "Key": "other_BuffListDes2",
+        "zh_CN": "通过增益试炼获取",
+        "disable": 0
+    },
+    {
+        "Key": "other_BuffListTab",
+        "zh_CN": "增益列表",
+        "disable": 0
+    },
+    {
+        "Key": "other_BuffTypeName1",
+        "zh_CN": "全队增益",
+        "disable": 0
+    },
+    {
+        "Key": "other_BuffTypeName2",
+        "zh_CN": "单体增益",
+        "disable": 0
+    },
+    {
+        "Key": "other_FilterName0_1",
+        "zh_CN": "取消筛选",
+        "disable": 0
+    },
+    {
+        "Key": "other_FilterName0_2",
+        "zh_CN": "全部",
+        "disable": 0
+    },
+    {
+        "Key": "other_FilterName1_1",
+        "zh_CN": "1级",
+        "disable": 0
+    },
+    {
+        "Key": "other_FilterName1_2",
+        "zh_CN": "2级",
+        "disable": 0
+    },
+    {
+        "Key": "other_FilterName1_3",
+        "zh_CN": "3级",
+        "disable": 0
+    },
+    {
+        "Key": "other_FilterName1_4",
+        "zh_CN": "4级",
+        "disable": 0
+    },
+    {
+        "Key": "other_FilterName1_5",
+        "zh_CN": "5级",
+        "disable": 0
+    },
+    {
+        "Key": "other_FilterName2_1",
+        "zh_CN": "专属增益",
+        "disable": 0
+    },
+    {
+        "Key": "other_FilterName2_2",
+        "zh_CN": "单体增益",
+        "disable": 0
+    },
+    {
+        "Key": "other_FilterName2_3",
+        "zh_CN": "全队增益",
+        "disable": 0
+    },
+    {
+        "Key": "other_UavEffectShowTitle1",
+        "zh_CN": "验证辅助机",
+        "disable": 0
+    },
+    {
+        "Key": "other_UavEffectShowTitle2",
+        "zh_CN": "上阵队员",
+        "disable": 0
+    },
+    {
+        "Key": "other_ChaosWaveTitle",
+        "zh_CN": "完成波次",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_101",
+        "zh_CN": "躯体强化",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_102",
+        "zh_CN": "低温强化",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_103",
+        "zh_CN": "治疗强化",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_104",
+        "zh_CN": "动能强化",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_105",
+        "zh_CN": "物资强化",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_106",
+        "zh_CN": "弩·精通",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_107",
+        "zh_CN": "后勤强化",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_108",
+        "zh_CN": "支援强化",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_109",
+        "zh_CN": "重构折扣",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_110",
+        "zh_CN": "耐力强化",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_111",
+        "zh_CN": "信息强化",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_112",
+        "zh_CN": "干扰净化",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_113",
+        "zh_CN": "新增激励：铁卫",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_114",
+        "zh_CN": "速度提升",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_115",
+        "zh_CN": "狙击枪·精通",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_116",
+        "zh_CN": "电击强化",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_117",
+        "zh_CN": "冲锋枪·精通",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_118",
+        "zh_CN": "精准提升",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_119",
+        "zh_CN": "幸运匿迹",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_120",
+        "zh_CN": "常规强化",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_121",
+        "zh_CN": "增益强化",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_122",
+        "zh_CN": "高热强化",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_123",
+        "zh_CN": "新增激励：风锥",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_124",
+        "zh_CN": "特异强化",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_125",
+        "zh_CN": "突击步枪·精通",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_126",
+        "zh_CN": "低调作战",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_127",
+        "zh_CN": "霰弹枪·精通",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_128",
+        "zh_CN": "攻击强化",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_129",
+        "zh_CN": "能量流转",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_130",
+        "zh_CN": "第一桶金",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_131",
+        "zh_CN": "精锐单兵",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_132",
+        "zh_CN": "精准打击",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_133",
+        "zh_CN": "新增激励：暗容",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_134",
+        "zh_CN": "额外本金",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_135",
+        "zh_CN": "爆发强化",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_136",
+        "zh_CN": "手枪·精通",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_137",
+        "zh_CN": "高频技能",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_138",
+        "zh_CN": "防御强化",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_139",
+        "zh_CN": "瞄准强化",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_140",
+        "zh_CN": "无缝换弹",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_141",
+        "zh_CN": "兑换优惠",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_142",
+        "zh_CN": "双枪·精通",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_143",
+        "zh_CN": "能量流转·常规",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_144",
+        "zh_CN": "气运增强",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_145",
+        "zh_CN": "补给强化",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_146",
+        "zh_CN": "弓·精通",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_147",
+        "zh_CN": "飞剑·精通",
+        "disable": 0
+    },
+    {
+        "Key": "science_name_149",
+        "zh_CN": "格林机枪·精通",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_101",
+        "zh_CN": "全队最大生命提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_102",
+        "zh_CN": "全队低温类型伤害提升，低温类型抗性提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_103",
+        "zh_CN": "治疗事件和急救瓶的治疗效果提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_104",
+        "zh_CN": "全队动能类型伤害提升，动能类型抗性提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_105",
+        "zh_CN": "前往推演时获得额外补给：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_106",
+        "zh_CN": "使用弩的队员获得正面效果：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_107",
+        "zh_CN": "前往推演时获得额外补给：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_108",
+        "zh_CN": "全队支援技伤害提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_109",
+        "zh_CN": "在安全屋协助重构队友意识消耗的迷宫之钥减少：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_110",
+        "zh_CN": "全队耐力提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_111",
+        "zh_CN": "路线选择时可查看具体情报：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_112",
+        "zh_CN": "在安全屋移除战术干扰消耗的迷宫之钥减少：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_113",
+        "zh_CN": "新增可选激励：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_114",
+        "zh_CN": "全队移动速度提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_115",
+        "zh_CN": "使用狙击枪的队员获得正面效果：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_116",
+        "zh_CN": "全队电击类型伤害提升，电击类型抗性提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_117",
+        "zh_CN": "使用冲锋枪的队员获得正面效果：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_118",
+        "zh_CN": "全队暴击率提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_119",
+        "zh_CN": "完成事件后，有概率不会增加威胁值：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_120",
+        "zh_CN": "全队常规技伤害提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_121",
+        "zh_CN": "战斗后获得增益的效果提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_122",
+        "zh_CN": "全队高热类型伤害提升，高热类型抗性提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_123",
+        "zh_CN": "新增可选激励：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_124",
+        "zh_CN": "全队特异类型伤害提升，特异类型抗性提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_125",
+        "zh_CN": "使用突击步枪的队员获得正面效果",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_126",
+        "zh_CN": "完成事件后，获得对应事件的威胁值减少：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_127",
+        "zh_CN": "使用霰弹枪的队员获得正面效果：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_128",
+        "zh_CN": "全队攻击力提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_129",
+        "zh_CN": "全队爆发能量获取率提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_130",
+        "zh_CN": "前往推演时就获得迷宫之钥：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_131",
+        "zh_CN": "每个队员可使用的个人增益数量增加：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_132",
+        "zh_CN": "全队暴击伤害增幅提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_133",
+        "zh_CN": "新增可选激励：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_134",
+        "zh_CN": "战斗后获得迷宫之钥数量提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_135",
+        "zh_CN": "全队爆发技伤害提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_136",
+        "zh_CN": "使用手枪的队员获得正面效果：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_137",
+        "zh_CN": "全队技能急速增加",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_138",
+        "zh_CN": "全队防御力提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_139",
+        "zh_CN": "全队瞄准射击伤害提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_140",
+        "zh_CN": "全队换弹速度提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_141",
+        "zh_CN": "军备兑换中补给的价格降低：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_142",
+        "zh_CN": "使用双枪·冲锋枪的队员获得正面效果：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_143",
+        "zh_CN": "全队常规能量回复速度提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_144",
+        "zh_CN": "幸运空投装置获得正面效果：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_145",
+        "zh_CN": "常规模式与迭战模式中的赠予增益获得提升：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_146",
+        "zh_CN": "使用弓的队员获得正面效果：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_147",
+        "zh_CN": "使用飞剑的队员获得正面效果：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_149",
+        "zh_CN": "使用格林机枪的队员获得正面效果：",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_101_1",
+        "zh_CN": "最大生命+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_102_1",
+        "zh_CN": "低温类型伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_102_2",
+        "zh_CN": "低温类型抗性+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_103_1",
+        "zh_CN": "集中收治的治疗量+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_103_2",
+        "zh_CN": "急救包的治疗量+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_104_1",
+        "zh_CN": "动能类型伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_104_2",
+        "zh_CN": "动能类型抗性+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_105_1",
+        "zh_CN": "前往推演时，额外获得{1}个急救包",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_105_2",
+        "zh_CN": "前往推演时，额外获得{1}个侦察接收机",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_105_5",
+        "zh_CN": "前往推演时，额外获得{1}个重构芯片",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_106_1",
+        "zh_CN": "弩弹夹数量+{1}；待修改",
+        "disable": 1000
+    },
+    {
+        "Key": "science_des_106_2",
+        "zh_CN": "弩射击速度+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_106_5",
+        "zh_CN": "弩射击伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_107_1",
+        "zh_CN": "前往推演时，额外获得{1}个领队权限卡",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_107_2",
+        "zh_CN": "前往推演时，额外获得{1}个电磁脉冲发生器",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_107_5",
+        "zh_CN": "前往推演时，额外获得{1}个便携屏蔽器",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_108_1",
+        "zh_CN": "支援技伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_109_1",
+        "zh_CN": "协助重构所需迷宫之钥减少{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_110_1",
+        "zh_CN": "耐力+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_111_1",
+        "zh_CN": "路线选择时可查看遭遇作战中的敌方阵容信息",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_111_2",
+        "zh_CN": "路线选择时可查看突发事件的随机范围",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_111_3",
+        "zh_CN": "路线选择时可查看遭遇作战的奖励内容",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_111_4",
+        "zh_CN": "路线选择时可查看遭遇作战中是否存在战术干扰",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_112_1",
+        "zh_CN": "移除战术干扰所需迷宫之钥减少{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_113_1",
+        "zh_CN": "新增激励：铁卫，护盾获取效能提升",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_114_1",
+        "zh_CN": "移动速度+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_115_1",
+        "zh_CN": "狙击枪弹容+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_115_2",
+        "zh_CN": "狙击枪射击速度+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_115_5",
+        "zh_CN": "狙击枪射击伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_116_1",
+        "zh_CN": "电击类型伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_116_2",
+        "zh_CN": "电击类型抗性+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_117_1",
+        "zh_CN": "冲锋枪弹容+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_117_2",
+        "zh_CN": "冲锋枪射击速度+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_117_5",
+        "zh_CN": "冲锋枪射击伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_118_1",
+        "zh_CN": "暴击率+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_119_1",
+        "zh_CN": "威胁值避免概率+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_120_1",
+        "zh_CN": "常规技伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_121_1",
+        "zh_CN": "增益的刷新次数+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_121_2",
+        "zh_CN": "增益的选项+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_121_3",
+        "zh_CN": "增益的刷新次数+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_121_4",
+        "zh_CN": "增益选项中将出现最高等级增益",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_122_1",
+        "zh_CN": "高热类型伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_122_2",
+        "zh_CN": "高热类型抗性+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_123_1",
+        "zh_CN": "新增激励：风锥，暴击伤害提升",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_124_1",
+        "zh_CN": "特异类型伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_124_2",
+        "zh_CN": "特异类型抗性+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_125_1",
+        "zh_CN": "突击步枪弹容+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_125_2",
+        "zh_CN": "突击步枪射击速度+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_125_5",
+        "zh_CN": "突击步枪射击伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_126_1",
+        "zh_CN": "威胁值-{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_127_1",
+        "zh_CN": "霰弹枪弹容+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_127_2",
+        "zh_CN": "霰弹枪射击速度+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_127_5",
+        "zh_CN": "霰弹枪射击伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_128_1",
+        "zh_CN": "攻击力+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_129_1",
+        "zh_CN": "爆发能量获取率+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_130_1",
+        "zh_CN": "初始迷宫之钥+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_131_1",
+        "zh_CN": "可使用的个人增益增加+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_132_1",
+        "zh_CN": "暴击伤害增幅+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_133_1",
+        "zh_CN": "新增激励：暗容，弹匣容量提升",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_134_1",
+        "zh_CN": "战斗后获得迷宫之钥+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_135_1",
+        "zh_CN": "爆发技伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_136_1",
+        "zh_CN": "手枪弹容+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_136_2",
+        "zh_CN": "手枪射击速度+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_136_5",
+        "zh_CN": "手枪射击伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_137_1",
+        "zh_CN": "技能急速+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_138_1",
+        "zh_CN": "防御力+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_139_1",
+        "zh_CN": "瞄准射击伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_140_1",
+        "zh_CN": "换弹速度+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_141_1",
+        "zh_CN": "补给价格-{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_142_1",
+        "zh_CN": "双枪·冲锋枪弹容+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_142_2",
+        "zh_CN": "双枪·冲锋枪射击速度+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_142_5",
+        "zh_CN": "双枪·冲锋枪射击伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_143_1",
+        "zh_CN": "常规能量回复速度提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_144_1",
+        "zh_CN": "开启次数+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_144_2",
+        "zh_CN": "获得高级正面效果的概率少量提升",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_144_4",
+        "zh_CN": "获得高级正面效果的概率较大提升",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_145_1",
+        "zh_CN": "增益组合上限增加{1}",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_145_2",
+        "zh_CN": "赠予强力增益的概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_145_4",
+        "zh_CN": "赠予强力增益的概率大幅提升",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_146_1",
+        "zh_CN": "弓弹容+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_146_2",
+        "zh_CN": "弓射击速度+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_146_5",
+        "zh_CN": "弓射击伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_147_1",
+        "zh_CN": "攻击力+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_147_2",
+        "zh_CN": "技能伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_147_3",
+        "zh_CN": "攻击力+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_147_4",
+        "zh_CN": "技能伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_147_5",
+        "zh_CN": "攻击力+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_149_1",
+        "zh_CN": "格林机枪弹容+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_149_2",
+        "zh_CN": "格林机枪武器适配率+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "science_des_149_5",
+        "zh_CN": "格林机枪射击伤害+{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_1",
+        "zh_CN": "优秀日报",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_2",
+        "zh_CN": "完美周报",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_3",
+        "zh_CN": "快乐老家",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_4",
+        "zh_CN": "摒除杂音",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_5",
+        "zh_CN": "游刃有余",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_6",
+        "zh_CN": "汗流浃背",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_7",
+        "zh_CN": "预判敌人的预判",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_8",
+        "zh_CN": "双子猎手",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_9",
+        "zh_CN": "您完全不需要队友吗",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_10",
+        "zh_CN": "把冲锋枪练到极致",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_11",
+        "zh_CN": "把突击步枪练到极致",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_12",
+        "zh_CN": "把狙击枪练到极致",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_13",
+        "zh_CN": "把手枪练到极致",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_14",
+        "zh_CN": "把弩练到极致",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_15",
+        "zh_CN": "将霰弹枪练到极致",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_16",
+        "zh_CN": "思维殿堂",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_17",
+        "zh_CN": "思维殿堂",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_18",
+        "zh_CN": "思维殿堂",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_19",
+        "zh_CN": "思维殿堂",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_20",
+        "zh_CN": "这下稳了",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_21",
+        "zh_CN": "这下稳了",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_22",
+        "zh_CN": "深谋远虑",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_23",
+        "zh_CN": "深谋远虑",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_24",
+        "zh_CN": "深谋远虑",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_25",
+        "zh_CN": "深谋远虑",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_26",
+        "zh_CN": "深谋远虑",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_27",
+        "zh_CN": "深谋远虑",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_28",
+        "zh_CN": "你来得正好",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_29",
+        "zh_CN": "亿点点准备",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_30",
+        "zh_CN": "你过来啊！",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_31",
+        "zh_CN": "你过来啊！",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_32",
+        "zh_CN": "你过来啊！",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_33",
+        "zh_CN": "有备无患",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_34",
+        "zh_CN": "有备无患",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_35",
+        "zh_CN": "有备无患",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_36",
+        "zh_CN": "如虎添翼",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_37",
+        "zh_CN": "如虎添翼",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_38",
+        "zh_CN": "如虎添翼",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_39",
+        "zh_CN": "下次一定",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_40",
+        "zh_CN": "下次一定",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_41",
+        "zh_CN": "下次一定",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_42",
+        "zh_CN": "全靠勤劳的双手",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_43",
+        "zh_CN": "你能再表演一下那个吗",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_44",
+        "zh_CN": "全副武装",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_45",
+        "zh_CN": "均衡发展",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_46",
+        "zh_CN": "排兵布阵",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_47",
+        "zh_CN": "专项精通",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_48",
+        "zh_CN": "专项精通",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_49",
+        "zh_CN": "专项精通",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_50",
+        "zh_CN": "专项精通",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_51",
+        "zh_CN": "专项精通",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_52",
+        "zh_CN": "专项精通",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_53",
+        "zh_CN": "融会贯通",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_54",
+        "zh_CN": "这就是分析员的实力",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_55",
+        "zh_CN": "这就是分析员的实力",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_56",
+        "zh_CN": "这就是分析员的实力",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_57",
+        "zh_CN": "这就是分析员的实力",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_58",
+        "zh_CN": "大的要来了",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_59",
+        "zh_CN": "完成工作要趁早",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_60",
+        "zh_CN": "标准结局",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_61",
+        "zh_CN": "补救措施",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_62",
+        "zh_CN": "把双枪练到极致",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_63",
+        "zh_CN": "专项精通",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_64",
+        "zh_CN": "把弓练到极致",
+        "disable": 0
+    },
+    {
+        "Key": "task_name_65",
+        "zh_CN": "把格林机枪练到极致",
+        "disable": 0
+    },
+    {
+        "Key": "ManualName1",
+        "zh_CN": "耕耘之路",
+        "disable": 0
+    },
+    {
+        "Key": "ManualName2",
+        "zh_CN": "耕耘之路",
+        "disable": 0
+    },
+    {
+        "Key": "ManualName3",
+        "zh_CN": "耕耘之路",
+        "disable": 0
+    },
+    {
+        "Key": "ManualName4",
+        "zh_CN": "耕耘之路",
+        "disable": 0
+    },
+    {
+        "Key": "ManualName5",
+        "zh_CN": "耕耘之路",
+        "disable": 0
+    },
+    {
+        "Key": "ManualName6",
+        "zh_CN": "耕耘之路",
+        "disable": 0
+    },
+    {
+        "Key": "ManualName7",
+        "zh_CN": "耕耘之路",
+        "disable": 0
+    },
+    {
+        "Key": "ManualName8",
+        "zh_CN": "耕耘之路",
+        "disable": 0
+    },
+    {
+        "Key": "ManualName9",
+        "zh_CN": "队员进阶",
+        "disable": 0
+    },
+    {
+        "Key": "ManualName10",
+        "zh_CN": "队员进阶",
+        "disable": 0
+    },
+    {
+        "Key": "ManualName11",
+        "zh_CN": "队员进阶",
+        "disable": 0
+    },
+    {
+        "Key": "ManualName12",
+        "zh_CN": "队员进阶",
+        "disable": 0
+    },
+    {
+        "Key": "ManualName13",
+        "zh_CN": "策略进阶-聚力",
+        "disable": 0
+    },
+    {
+        "Key": "ManualName14",
+        "zh_CN": "策略进阶-精术",
+        "disable": 0
+    },
+    {
+        "Key": "ManualName15",
+        "zh_CN": "策略进阶-鸣雨",
+        "disable": 0
+    },
+    {
+        "Key": "ManualName16",
+        "zh_CN": "策略进阶-铁卫",
+        "disable": 0
+    },
+    {
+        "Key": "ManualName17",
+        "zh_CN": "策略进阶-风锥",
+        "disable": 0
+    },
+    {
+        "Key": "ManualName18",
+        "zh_CN": "策略进阶-暗容",
+        "disable": 0
+    },
+    {
+        "Key": "ManualName19",
+        "zh_CN": "策略进阶-叠袭",
+        "disable": 0
+    },
+    {
+        "Key": "ManualDes1",
+        "zh_CN": "累计获得{1}个不同的增益",
+        "disable": 0
+    },
+    {
+        "Key": "ManualDes2",
+        "zh_CN": "累计获得{1}个不同的增益",
+        "disable": 0
+    },
+    {
+        "Key": "ManualDes3",
+        "zh_CN": "累计获得{1}个不同的增益",
+        "disable": 0
+    },
+    {
+        "Key": "ManualDes4",
+        "zh_CN": "累计获得{1}个不同的增益",
+        "disable": 0
+    },
+    {
+        "Key": "ManualDes5",
+        "zh_CN": "累计获得{1}个不同的增益",
+        "disable": 0
+    },
+    {
+        "Key": "ManualDes6",
+        "zh_CN": "累计获得{1}个不同的增益",
+        "disable": 0
+    },
+    {
+        "Key": "ManualDes7",
+        "zh_CN": "累计获得{1}个不同的增益",
+        "disable": 0
+    },
+    {
+        "Key": "ManualDes8",
+        "zh_CN": "累计获得{1}个不同的增益",
+        "disable": 0
+    },
+    {
+        "Key": "ManualDes9",
+        "zh_CN": "累计收集{1}个不同的角色专属增益",
+        "disable": 0
+    },
+    {
+        "Key": "ManualDes10",
+        "zh_CN": "累计收集{1}个不同的角色专属增益",
+        "disable": 0
+    },
+    {
+        "Key": "ManualDes11",
+        "zh_CN": "累计收集{1}个不同的角色专属增益",
+        "disable": 0
+    },
+    {
+        "Key": "ManualDes12",
+        "zh_CN": "累计收集{1}个不同的角色专属增益",
+        "disable": 0
+    },
+    {
+        "Key": "ManualDes13",
+        "zh_CN": "累计获得{1}个不同的聚力类激励增益",
+        "disable": 0
+    },
+    {
+        "Key": "ManualDes14",
+        "zh_CN": "累计获得{1}个不同的精术类激励增益",
+        "disable": 0
+    },
+    {
+        "Key": "ManualDes15",
+        "zh_CN": "累计获得{1}个不同的鸣雨类激励增益",
+        "disable": 0
+    },
+    {
+        "Key": "ManualDes16",
+        "zh_CN": "累计获得{1}个不同的铁卫类激励增益",
+        "disable": 0
+    },
+    {
+        "Key": "ManualDes17",
+        "zh_CN": "累计获得{1}个不同的风锥类激励增益",
+        "disable": 0
+    },
+    {
+        "Key": "ManualDes18",
+        "zh_CN": "累计获得{1}个不同的暗容类激励增益",
+        "disable": 0
+    },
+    {
+        "Key": "ManualDes19",
+        "zh_CN": "累计获得{1}个不同的叠袭类激励增益",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_1",
+        "zh_CN": "完成普通或普通以上难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_2",
+        "zh_CN": "完成普通或普通以上难度的悖论迷宫{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_3",
+        "zh_CN": "累计在安全屋内移除战术干扰{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_4",
+        "zh_CN": "使用1次便携屏蔽器",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_5",
+        "zh_CN": "无队员受到战术干扰，完成困难或厄险难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_6",
+        "zh_CN": "全部队员受到战术干扰，完成困难或厄险难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_7",
+        "zh_CN": "累计消耗{1}个侦察接收机",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_8",
+        "zh_CN": "上阵2位队员，完成困难或厄险难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_9",
+        "zh_CN": "上阵1位队员，完成困难或厄险难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_10",
+        "zh_CN": "仅上阵冲锋枪队员，完成困难或厄险难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_11",
+        "zh_CN": "仅上阵突击步枪队员，完成困难或厄险难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_12",
+        "zh_CN": "仅上阵狙击枪队员，完成困难或厄险难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_13",
+        "zh_CN": "仅上阵手枪队员，完成困难或厄险难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_14",
+        "zh_CN": "仅上阵弩队员，完成困难或厄险难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_15",
+        "zh_CN": "仅上阵霰弹枪队员，完成困难或厄险难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_16",
+        "zh_CN": "累计消耗{1}智略点",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_17",
+        "zh_CN": "累计消耗{1}智略点",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_18",
+        "zh_CN": "累计消耗{1}智略点",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_19",
+        "zh_CN": "累计消耗{1}智略点",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_20",
+        "zh_CN": "任意{1}个逻辑研习科目提升至5级",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_21",
+        "zh_CN": "累计{1}个逻辑研习科目提升至5级",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_22",
+        "zh_CN": "推演等级达到{1}级",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_23",
+        "zh_CN": "推演等级达到{1}级",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_24",
+        "zh_CN": "推演等级达到{1}级",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_25",
+        "zh_CN": "推演等级达到{1}级",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_26",
+        "zh_CN": "推演等级达到{1}级",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_27",
+        "zh_CN": "推演等级达到{1}级",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_28",
+        "zh_CN": "获取1次补给",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_29",
+        "zh_CN": "完成悖论迷宫时，持有的迷宫之钥数量大于{1}",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_30",
+        "zh_CN": "累计完成{1}次“遭遇作战”事件",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_31",
+        "zh_CN": "累计完成{1}次“遭遇作战”事件",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_32",
+        "zh_CN": "累计完成{1}次“遭遇作战”事件",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_33",
+        "zh_CN": "累计获取{1}次战备补给",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_34",
+        "zh_CN": "累计获取{1}次战备补给",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_35",
+        "zh_CN": "累计获取{1}次战备补给",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_36",
+        "zh_CN": "累计在军备兑换中获取{1}次增益",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_37",
+        "zh_CN": "累计在军备兑换中获取{1}次增益",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_38",
+        "zh_CN": "累计在军备兑换中获取{1}次增益",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_39",
+        "zh_CN": "累计刷新{1}次军备兑换",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_40",
+        "zh_CN": "累计刷新{1}次军备兑换",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_41",
+        "zh_CN": "累计刷新{1}次军备兑换",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_42",
+        "zh_CN": "全队拥有少于16个增益，完成困难或厄险难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_43",
+        "zh_CN": "所有队员无个人增益，完成困难或厄险难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_44",
+        "zh_CN": "任意一名队员拥有个人增益至少{1}个",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_45",
+        "zh_CN": "累计获得{1}种或{1}种以上激励类型的增益，完成悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_46",
+        "zh_CN": "累计获得{1}个5级增益，完成悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_47",
+        "zh_CN": "选择【聚力】类激励，完成普通或普通以上难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_48",
+        "zh_CN": "选择【精术】类激励，完成普通或普通以上难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_49",
+        "zh_CN": "选择【暗容】类激励，完成普通或普通以上难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_50",
+        "zh_CN": "选择【铁卫】类激励，完成普通或普通以上难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_51",
+        "zh_CN": "选择【风锥】类激励，完成普通或普通以上难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_52",
+        "zh_CN": "选择【鸣雨】类激励，完成普通或普通以上难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_53",
+        "zh_CN": "完成悖论迷宫时，任意1个激励类型达到最高等级",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_54",
+        "zh_CN": "完成【简单】难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_55",
+        "zh_CN": "完成【普通】难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_56",
+        "zh_CN": "完成【困难】难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_57",
+        "zh_CN": "完成【厄险】难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_58",
+        "zh_CN": "威胁级别为5级时，完成困难或厄险难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_59",
+        "zh_CN": "威胁级别不高于2级时，完成困难或厄险难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_60",
+        "zh_CN": "无队员倒下，完成困难或厄险难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_61",
+        "zh_CN": "累计为队员重构意识{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_62",
+        "zh_CN": "仅上阵双枪·冲锋枪队员，完成困难或厄险难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_63",
+        "zh_CN": "选择【叠袭】类激励，完成普通或普通以上难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_64",
+        "zh_CN": "仅上阵弓队员，完成困难或厄险难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "task_des_65",
+        "zh_CN": "仅上阵格林机枪队员，完成困难或厄险难度的悖论迷宫1次",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_1",
+        "zh_CN": "手到擒来",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_2",
+        "zh_CN": "浅浅试探",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_3",
+        "zh_CN": "很有精神！",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_4",
+        "zh_CN": "过硬基本功",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_5",
+        "zh_CN": "顶级协作",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_6",
+        "zh_CN": "高光时刻",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_7",
+        "zh_CN": "谢谢惠顾",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_8",
+        "zh_CN": "谢谢惠顾",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_9",
+        "zh_CN": "谢谢惠顾",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_12",
+        "zh_CN": "再见了，所有的敌人",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_13",
+        "zh_CN": "再见了，所有的敌人",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_14",
+        "zh_CN": "再见了，所有的敌人",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_15",
+        "zh_CN": "秘宝猎人",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_16",
+        "zh_CN": "秘宝猎人",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_17",
+        "zh_CN": "秘宝猎人",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_18",
+        "zh_CN": "本来就很强",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_19",
+        "zh_CN": "本来就很强",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_20",
+        "zh_CN": "本来就很强",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_21",
+        "zh_CN": "摸不透的分析员",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_22",
+        "zh_CN": "摸不透的分析员",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_23",
+        "zh_CN": "摸不透的分析员",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_24",
+        "zh_CN": "真是强到不行",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_25",
+        "zh_CN": "实战应用",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_26",
+        "zh_CN": "实战应用",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_27",
+        "zh_CN": "实战应用",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_28",
+        "zh_CN": "实战应用",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_29",
+        "zh_CN": "实战应用",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_30",
+        "zh_CN": "实战应用",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_31",
+        "zh_CN": "还是那么熟练",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_32",
+        "zh_CN": "还是那么熟练",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_33",
+        "zh_CN": "还是那么熟练",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_34",
+        "zh_CN": "还是那么熟练",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_name_35",
+        "zh_CN": "真是简单到不行",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_1",
+        "zh_CN": "进入悖论迷宫-迭战模式，并完成{1}次“遭遇作战”事件",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_2",
+        "zh_CN": "完成悖论迷宫-迭战模式{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_3",
+        "zh_CN": "无队员受到战术干扰，完成悖论迷宫-迭战模式",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_4",
+        "zh_CN": "不上阵橙色品质队员，完成悖论迷宫-迭战模式{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_5",
+        "zh_CN": "上阵3位不同武器类型的队员，完成悖论迷宫-迭战模式{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_6",
+        "zh_CN": "上阵同一队员不同形态的战术套装，完成悖论迷宫-迭战模式{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_7",
+        "zh_CN": "累计申领{1}次特别嘉勉",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_8",
+        "zh_CN": "累计申领{1}次特别嘉勉",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_9",
+        "zh_CN": "累计申领{1}次特别嘉勉",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_12",
+        "zh_CN": "在悖论迷宫-迭战模式中，累计完成{1}次“遭遇作战”事件",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_13",
+        "zh_CN": "在悖论迷宫-迭战模式中，累计完成{1}次“遭遇作战”事件",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_14",
+        "zh_CN": "在悖论迷宫-迭战模式中，累计完成{1}次“遭遇作战”事件",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_15",
+        "zh_CN": "在悖论迷宫-迭战模式中，累计获取{1}次战备补给",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_16",
+        "zh_CN": "在悖论迷宫-迭战模式中，累计获取{1}次战备补给",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_17",
+        "zh_CN": "在悖论迷宫-迭战模式中，累计获取{1}次战备补给",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_18",
+        "zh_CN": "在悖论迷宫-迭战模式中，累计在军备兑换中获取{1}次增益",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_19",
+        "zh_CN": "在悖论迷宫-迭战模式中，累计在军备兑换中获取{1}次增益",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_20",
+        "zh_CN": "在悖论迷宫-迭战模式中，累计在军备兑换中获取{1}次增益",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_21",
+        "zh_CN": "在悖论迷宫-迭战模式中，累计刷新{1}次军备兑换",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_22",
+        "zh_CN": "在悖论迷宫-迭战模式中，累计刷新{1}次军备兑换",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_23",
+        "zh_CN": "在悖论迷宫-迭战模式中，累计刷新{1}次军备兑换",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_24",
+        "zh_CN": "全队拥有少于20个增益，完成悖论迷宫-迭战模式1次",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_25",
+        "zh_CN": "选择【聚力】类激励，完成1次悖论迷宫-迭战模式，并深入迷宫15层以上",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_26",
+        "zh_CN": "选择【精术】类激励，完成1次悖论迷宫-迭战模式，并深入迷宫15层以上",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_27",
+        "zh_CN": "选择【鸣雨】类激励，完成1次悖论迷宫-迭战模式，并深入迷宫15层以上",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_28",
+        "zh_CN": "选择【铁卫】类激励，完成1次悖论迷宫-迭战模式，并深入迷宫15层以上",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_29",
+        "zh_CN": "选择【风锥】类激励，完成1次悖论迷宫-迭战模式，并深入迷宫15层以上",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_30",
+        "zh_CN": "选择【暗容】类激励，完成1次悖论迷宫-迭战模式，并深入迷宫15层以上",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_31",
+        "zh_CN": "累计完成悖论迷宫-迭战模式{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_32",
+        "zh_CN": "累计完成悖论迷宫-迭战模式{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_33",
+        "zh_CN": "累计完成悖论迷宫-迭战模式{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_34",
+        "zh_CN": "累计完成悖论迷宫-迭战模式{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "saesontask_des_35",
+        "zh_CN": "威胁级别不高于3级时，完成悖论迷宫-迭战模式{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "reward_buff_name1",
+        "zh_CN": "射击·冲浪",
+        "disable": 0
+    },
+    {
+        "Key": "reward_buff_name2",
+        "zh_CN": "援助·冷饮",
+        "disable": 0
+    },
+    {
+        "Key": "reward_buff_name3",
+        "zh_CN": "高温防晒",
+        "disable": 0
+    },
+    {
+        "Key": "reward_buff_name4",
+        "zh_CN": "技能·冰霜",
+        "disable": 0
+    },
+    {
+        "Key": "reward_buff_name5",
+        "zh_CN": "技能·水炮",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_0",
+        "zh_CN": "攻击交叠",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_0_2",
+        "zh_CN": "生命交叠",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_1",
+        "zh_CN": "精进·射击",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_2",
+        "zh_CN": "精进·攻击",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_3",
+        "zh_CN": "精进·技能",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_4",
+        "zh_CN": "反扑",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_5",
+        "zh_CN": "搏乐",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_6",
+        "zh_CN": "狙击手",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_7",
+        "zh_CN": "手感·下次",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_8",
+        "zh_CN": "代价·随机",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_9",
+        "zh_CN": "精进·支援",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_10",
+        "zh_CN": "子弹·眩晕",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_11",
+        "zh_CN": "手感·叠加",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_12",
+        "zh_CN": "射击·加一",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_13",
+        "zh_CN": "代价·报复",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_14",
+        "zh_CN": "加倍·贯电",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_15",
+        "zh_CN": "射击·累积",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_16",
+        "zh_CN": "射击·易伤",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_17",
+        "zh_CN": "技能·控制",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_18",
+        "zh_CN": "反应·正负",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_19",
+        "zh_CN": "射击·失衡",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_20",
+        "zh_CN": "技能·爆电",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_21",
+        "zh_CN": "精进·暴击伤害",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_22",
+        "zh_CN": "精进·瞄准",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_23",
+        "zh_CN": "武器·准确度",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_24",
+        "zh_CN": "弱点·降速",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_25",
+        "zh_CN": "弱点·破防",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_26",
+        "zh_CN": "瞄准·暴击",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_27",
+        "zh_CN": "手感·弱点",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_28",
+        "zh_CN": "距离·远处",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_29",
+        "zh_CN": "瞄准·闪避",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_30",
+        "zh_CN": "趁机",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_31",
+        "zh_CN": "弱点·击飞",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_32",
+        "zh_CN": "弱点·吸取",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_33",
+        "zh_CN": "弱点·伤害",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_34",
+        "zh_CN": "弱点·垫付",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_35",
+        "zh_CN": "霜腐·暴击",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_36",
+        "zh_CN": "弱点·借速",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_37",
+        "zh_CN": "狙击·弱点",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_38",
+        "zh_CN": "弱点·装填",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_39",
+        "zh_CN": "弱点·冻结",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_40",
+        "zh_CN": "瞄准·环境",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_41",
+        "zh_CN": "护盾·获取",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_42",
+        "zh_CN": "护盾·构建",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_43",
+        "zh_CN": "保护·减伤",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_44",
+        "zh_CN": "技能·护盾",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_45",
+        "zh_CN": "代价·对等",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_46",
+        "zh_CN": "护盾·叠加",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_47",
+        "zh_CN": "闪避·强化",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_48",
+        "zh_CN": "距离·近处",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_49",
+        "zh_CN": "护盾·余热",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_50",
+        "zh_CN": "代价·提前",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_51",
+        "zh_CN": "代价·射速",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_52",
+        "zh_CN": "代价·温和",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_53",
+        "zh_CN": "代价·循环",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_54",
+        "zh_CN": "护盾·夺取",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_55",
+        "zh_CN": "护盾·进攻",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_56",
+        "zh_CN": "风伤·护盾",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_57",
+        "zh_CN": "代价·重击",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_58",
+        "zh_CN": "代价·进阶",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_59",
+        "zh_CN": "代价·反击",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_60",
+        "zh_CN": "代价·循序",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_61",
+        "zh_CN": "精进·弹匣",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_62",
+        "zh_CN": "精进·非瞄准",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_63",
+        "zh_CN": "射击·破防",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_64",
+        "zh_CN": "生命·盗用",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_65",
+        "zh_CN": "射击·装填",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_66",
+        "zh_CN": "射击·幸运",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_67",
+        "zh_CN": "射击·击败",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_68",
+        "zh_CN": "囤积·射击",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_69",
+        "zh_CN": "射击·随性",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_70",
+        "zh_CN": "追击·射击",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_71",
+        "zh_CN": "防御借用",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_72",
+        "zh_CN": "射击·持续",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_73",
+        "zh_CN": "浓焰·暴击",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_74",
+        "zh_CN": "射击·愈烈",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_75",
+        "zh_CN": "射击·神枪",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_76",
+        "zh_CN": "射击·霸体",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_77",
+        "zh_CN": "射击·惊吓",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_78",
+        "zh_CN": "弹匣·持续",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_79",
+        "zh_CN": "弹匣·追伤",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_80",
+        "zh_CN": "持续·破防",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_81",
+        "zh_CN": "常规·循环",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_82",
+        "zh_CN": "技能·流转",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_83",
+        "zh_CN": "爆发·循环",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_84",
+        "zh_CN": "射击·回能",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_85",
+        "zh_CN": "距离·灵活",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_86",
+        "zh_CN": "回能·攻击",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_87",
+        "zh_CN": "常规·加速",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_88",
+        "zh_CN": "冲刺·回复",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_89",
+        "zh_CN": "冲刺·循环",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_90",
+        "zh_CN": "移动·强化",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_91",
+        "zh_CN": "爆发·节能",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_92",
+        "zh_CN": "技能·加速",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_93",
+        "zh_CN": "射击·耗能",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_94",
+        "zh_CN": "耐力·流转",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_95",
+        "zh_CN": "击败·霸体",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_96",
+        "zh_CN": "钻筋·回能",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_97",
+        "zh_CN": "技能·互补",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_98",
+        "zh_CN": "移动·回能",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_99",
+        "zh_CN": "闪避·加速",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_100",
+        "zh_CN": "代价·技能",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_101",
+        "zh_CN": "精进·射速",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_102",
+        "zh_CN": "精进·移动",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_103",
+        "zh_CN": "精进·换弹",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_104",
+        "zh_CN": "瞄准·低温",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_105",
+        "zh_CN": "射击·动能",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_106",
+        "zh_CN": "代价·高热",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_107",
+        "zh_CN": "技能·电击",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_108",
+        "zh_CN": "追击·贯电",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_109",
+        "zh_CN": "追击·霜腐",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_110",
+        "zh_CN": "追击·风伤",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_111",
+        "zh_CN": "追击·浓焰",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_112",
+        "zh_CN": "追击·钻筋",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_113",
+        "zh_CN": "慢性·盗用",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_114",
+        "zh_CN": "追击·通用",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_115",
+        "zh_CN": "赋能·提速",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_116",
+        "zh_CN": "慢性·高热",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_117",
+        "zh_CN": "攻击·换弹",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_118",
+        "zh_CN": "赋能·破防",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_119",
+        "zh_CN": "射击·全套",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_120",
+        "zh_CN": "追击·缓刑",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_121",
+        "zh_CN": "安卡希雅·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_122",
+        "zh_CN": "安卡希雅·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_123",
+        "zh_CN": "里芙·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_124",
+        "zh_CN": "里芙·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_125",
+        "zh_CN": "狂猎·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_126",
+        "zh_CN": "狂猎·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_127",
+        "zh_CN": "妮塔·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_128",
+        "zh_CN": "妮塔·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_129",
+        "zh_CN": "芙提雅·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_130",
+        "zh_CN": "芙提雅·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_131",
+        "zh_CN": "茉莉安·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_132",
+        "zh_CN": "茉莉安·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_133",
+        "zh_CN": "雨燕·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_134",
+        "zh_CN": "雨燕·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_135",
+        "zh_CN": "晴·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_136",
+        "zh_CN": "晴·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_137",
+        "zh_CN": "琴诺·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_138",
+        "zh_CN": "琴诺·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_139",
+        "zh_CN": "芬妮·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_140",
+        "zh_CN": "芬妮·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_141",
+        "zh_CN": "咎冠·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_142",
+        "zh_CN": "咎冠·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_143",
+        "zh_CN": "肴·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_144",
+        "zh_CN": "肴·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_145",
+        "zh_CN": "冬至·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_146",
+        "zh_CN": "冬至·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_147",
+        "zh_CN": "恩雅·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_148",
+        "zh_CN": "恩雅·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_149",
+        "zh_CN": "恩雅·III",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_150",
+        "zh_CN": "猫汐尔·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_151",
+        "zh_CN": "猫汐尔·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_152",
+        "zh_CN": "猫汐尔·Ⅲ",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_153",
+        "zh_CN": "辉夜·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_154",
+        "zh_CN": "辉夜·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_155",
+        "zh_CN": "缄默·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_156",
+        "zh_CN": "缄默·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_157",
+        "zh_CN": "姬辰星·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_158",
+        "zh_CN": "姬辰星·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_159",
+        "zh_CN": "瑟瑞斯·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_160",
+        "zh_CN": "瑟瑞斯·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_161",
+        "zh_CN": "云篆·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_162",
+        "zh_CN": "云篆·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_163",
+        "zh_CN": "藏锋·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_164",
+        "zh_CN": "藏锋·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_165",
+        "zh_CN": "溯影·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_166",
+        "zh_CN": "溯影·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_167",
+        "zh_CN": "苔丝·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_168",
+        "zh_CN": "苔丝·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_169",
+        "zh_CN": "凯茜娅·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_170",
+        "zh_CN": "凯茜娅·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_171",
+        "zh_CN": "伊切尔·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_172",
+        "zh_CN": "伊切尔·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_173",
+        "zh_CN": "悖谬·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_174",
+        "zh_CN": "悖谬·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_175",
+        "zh_CN": "羽蜕·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_176",
+        "zh_CN": "羽蜕·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_177",
+        "zh_CN": "瞬刻·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_178",
+        "zh_CN": "瞬刻·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_179",
+        "zh_CN": "无限之视·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_180",
+        "zh_CN": "无限之视·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_181",
+        "zh_CN": "辉耀·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_182",
+        "zh_CN": "辉耀·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_183",
+        "zh_CN": "薇蒂雅·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_184",
+        "zh_CN": "薇蒂雅·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_185",
+        "zh_CN": "朝翼·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_186",
+        "zh_CN": "朝翼·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_187",
+        "zh_CN": "幽潮·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_188",
+        "zh_CN": "幽潮·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_189",
+        "zh_CN": "驰掣·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_190",
+        "zh_CN": "驰掣·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_191",
+        "zh_CN": "卜卜·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_192",
+        "zh_CN": "卜卜·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_193",
+        "zh_CN": "琼弦·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_194",
+        "zh_CN": "琼弦·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_195",
+        "zh_CN": "夜天光·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_196",
+        "zh_CN": "夜天光·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_197",
+        "zh_CN": "澜风·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_198",
+        "zh_CN": "澜风·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_199",
+        "zh_CN": "奈莉德·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_200",
+        "zh_CN": "奈莉德·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_201",
+        "zh_CN": "悸响·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_202",
+        "zh_CN": "悸响·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_203",
+        "zh_CN": "天鹅座·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_204",
+        "zh_CN": "天鹅座·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_205",
+        "zh_CN": "狂诗·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_206",
+        "zh_CN": "狂诗·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_207",
+        "zh_CN": "绮幻·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_208",
+        "zh_CN": "绮幻·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_209",
+        "zh_CN": "绯月·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_210",
+        "zh_CN": "绯月·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_211",
+        "zh_CN": "澄意·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_212",
+        "zh_CN": "澄意·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_213",
+        "zh_CN": "悠游·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_214",
+        "zh_CN": "悠游·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_215",
+        "zh_CN": "星彩·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_216",
+        "zh_CN": "星彩·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_217",
+        "zh_CN": "霆光·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_218",
+        "zh_CN": "霆光·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_219",
+        "zh_CN": "灵鉴·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_220",
+        "zh_CN": "灵鉴·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_221",
+        "zh_CN": "莲驱·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_222",
+        "zh_CN": "莲驱·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_223",
+        "zh_CN": "时之重奏·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_224",
+        "zh_CN": "时之重奏·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_225",
+        "zh_CN": "霄鹰·I",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_226",
+        "zh_CN": "霄鹰·II",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_301",
+        "zh_CN": "耐力·加速",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_302",
+        "zh_CN": "技能·生息",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_303",
+        "zh_CN": "技能·节俭",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_304",
+        "zh_CN": "群斗·热战",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_305",
+        "zh_CN": "技能·延续",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_306",
+        "zh_CN": "技能·开源",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_307",
+        "zh_CN": "技能·侵蚀",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_308",
+        "zh_CN": "技能·夺还",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_309",
+        "zh_CN": "技能·循环",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_310",
+        "zh_CN": "技能·衔接",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_311",
+        "zh_CN": "技能·克扣",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_312",
+        "zh_CN": "技能·装填",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_313",
+        "zh_CN": "援助·领域",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_314",
+        "zh_CN": "技能·陷阱",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_315",
+        "zh_CN": "伤害·交织",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_316",
+        "zh_CN": "伤害·潜伏",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_317",
+        "zh_CN": "伤害·连击",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_318",
+        "zh_CN": "伤害·扩散",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_319",
+        "zh_CN": "伤害·追击",
+        "disable": 0
+    },
+    {
+        "Key": "buff_name_320",
+        "zh_CN": "援助·追袭",
+        "disable": 0
+    },
+    {
+        "Key": "reward_buff_des1",
+        "zh_CN": "队员射击速度每{1}秒提升{2}%，持续{3}秒，且{4}秒内射击不消耗弹药，最终射击伤害降低{5}%。",
+        "disable": 0
+    },
+    {
+        "Key": "reward_buff_des2",
+        "zh_CN": "击败目标时，目标周围生成{1}个能量瓶或急救瓶，可回复{2}爆发能量或回复{3}%最大生命；能量瓶或急救瓶会在{4}秒后消失",
+        "disable": 0
+    },
+    {
+        "Key": "reward_buff_des3",
+        "zh_CN": "每秒获得{1}层【防晒油】，每层【防晒油】使队员受到伤害降低{2}%，至多叠加{3}层。队员受到伤害后，【防晒油】会减少{4}层",
+        "disable": 0
+    },
+    {
+        "Key": "reward_buff_des4",
+        "zh_CN": "常规技命中目标时候，会对目标施加{1}层【冰痕】，【冰痕】叠加至{2}层时，会冻结目标并持续{3}秒。期间不再叠加【冰痕】层数，目标处于冻结状态时，受到的技伤害提升{4}%",
+        "disable": 0
+    },
+    {
+        "Key": "reward_buff_des5",
+        "zh_CN": "爆发技对目标造成伤害时，会让目标携带{1}个持续爆炸的水炮，水炮每次爆炸造成队员攻击力{2}%的低温类型伤害，爆炸{3}次后消失；每个目标最多携带{4}个水炮，且无法刷新；水炮的爆炸速度逐渐加快，每次爆炸后，队员爆发技使用间隔降低{5}%，并回复{6}爆发能量；若目标在携带水炮期间被击败，水炮会提前消失",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_0",
+        "zh_CN": "攻击力提升20%，此效果最多叠加至99层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_0_2",
+        "zh_CN": "生命值提升10%，此效果最多叠加至99层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_1",
+        "zh_CN": "射击伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_2",
+        "zh_CN": "攻击力提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_3",
+        "zh_CN": "技能伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_4",
+        "zh_CN": "队员在受到伤害后，造成的伤害提升{1}%，持续5秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_5",
+        "zh_CN": "对自身周围10米范围内目标造成的伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_6",
+        "zh_CN": "射击命中弱点后，技能伤害提升{1}%，持续5秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_7",
+        "zh_CN": "每次击败目标后的下一次造成的伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_8",
+        "zh_CN": "造成的伤害提升{1}%，但造成伤害时有5%概率消耗自身5%当前生命，触发间隔1秒，队员不会因此倒下",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_9",
+        "zh_CN": "支援技的技能急速增加{1}，队员处于场下时造成的伤害提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_10",
+        "zh_CN": "每次换弹后第一颗子弹具备震荡功能，该次射击会对目标施加持续{1}秒的眩晕效果，触发间隔4秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_11",
+        "zh_CN": "击败目标时全伤害提升{1}%，持续10秒，最多叠加至5层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_12",
+        "zh_CN": "射击速度降低10%，但每次射击有{1}%概率造成2次伤害",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_13",
+        "zh_CN": "射击伤害提升{1}%，每次射击消耗当前生命的5%，同时获得1层【积怨】效果，叠加至5层时下次射击造成的伤害提升{2}%，并回复本次伤害10%的生命",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_14",
+        "zh_CN": "对【贯电】状态下目标造成伤害提升{1}%，并回复本次伤害5%的生命，触发间隔3秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_15",
+        "zh_CN": "射击伤害每1秒提升{1}%，最多叠加{2}层，造成射击伤害时消耗当前层数",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_16",
+        "zh_CN": "射击伤害会为目标施加技能易伤效果，使其3秒内受到的技能伤害提高{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_17",
+        "zh_CN": "技能命中处于控制状态下的目标或造成控制效果时，额外造成1次目标{1}%最大生命的真实伤害，触发间隔3秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_18",
+        "zh_CN": "队员获得【阳】、【阴】两种效果，每次射击切换一次效果，【阳】效果的射击会对目标施加1层【光】效果，最多叠加5层，【阴】效果的射击会对目标施加【影】效果，使其攻击力降低{2}%，持续3秒；当目标处于【光】效果下，再被施加【影】效果时会基于当前【光】效果的层数对目标造成1次爆炸伤害：每层【光】效果造成队员{1}%攻击力的高热类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_19",
+        "zh_CN": "造成射击伤害时，自身技能伤害提升{1}%，造成技能伤害时，则射击伤害提升{2}%，持续5秒；同时拥有这两个效果时，则二者提供的加成均翻倍",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_20",
+        "zh_CN": "技能造成伤害时，为自身和目标施加1层【爆】效果，最多叠加至5层，队员拥有该效果时，技能对目标造成伤害会基于【爆】的层数对目标额外造成1次电击类型伤害，每层造成{1}%攻击力的伤害，视为技能伤害；目标拥有【爆】效果时，每有1层，会使其受到的技能伤害提升{2}%，【爆】效果每秒移除1层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_21",
+        "zh_CN": "暴击伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_22",
+        "zh_CN": "瞄准射击伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_23",
+        "zh_CN": "武器准确度提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_24",
+        "zh_CN": "命中目标弱点可使其移动速度降低30%，持续{1}秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_25",
+        "zh_CN": "对目标弱点造成伤害时，可无视其{1}%防御力",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_26",
+        "zh_CN": "瞄准状态下暴击率提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_27",
+        "zh_CN": "每次通过命中弱点击败目标时，攻击力提升{1}%，最多叠加至40层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_28",
+        "zh_CN": "目标距离自身越远，则对其造成的伤害越高，最多提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_29",
+        "zh_CN": "处于瞄准状态2秒后，受到的最终伤害降低{1}%，移动速度提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_30",
+        "zh_CN": "对处于控制状态下的目标造成的伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_31",
+        "zh_CN": "命中目标弱点时会将其击飞，并额外造成1次自身攻击力{1}%的动能类型伤害，触发间隔2秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_32",
+        "zh_CN": "每次命中弱点都回复本次伤害{1}%的生命，触发间隔10秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_33",
+        "zh_CN": "射击命中弱点时，最终伤害提升{1}%，命中非弱点部位时，最终伤害降低20%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_34",
+        "zh_CN": "射击未命中目标弱点时，会使目标下次弱点受到的伤害提升{1}%，至多提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_35",
+        "zh_CN": "对【霜腐】状态下目标造成的暴击伤害提升{1}%，且无视目标{2}%防御力",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_36",
+        "zh_CN": "射击命中目标弱点时使自身射击速度提升{1}%，最多叠加5层，未命中弱点则清除所有层数",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_37",
+        "zh_CN": "狙击枪命中目标弱点时，有1%的概率造成{1}%最终伤害，每次命中弱点若未触发效果则使概率提升1%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_38",
+        "zh_CN": "命中弱点击败目标，则立即装填2颗子弹，且暴击伤害提升{1}%，持续10秒，最多叠加5层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_39",
+        "zh_CN": "命中目标弱点会施加持续1秒的冻结效果，处于冻结效果的目标受到攻击时或冻结时间结束时会解冻，并被施加【碎碎冰】效果：受到的弱点伤害提升{1}%，移动速度降低30%，持续10秒，10秒内无法再次被施加【碎碎冰】效果",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_40",
+        "zh_CN": "获得【猎视】效果：进入瞄准状态后，暴击伤害增幅提升{1}%，并对周围30米范围内目标施加迟缓效果，持续5秒，触发间隔10秒，效果结束后开始计算",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_41",
+        "zh_CN": "护盾获取效能提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_42",
+        "zh_CN": "护盾构建效能提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_43",
+        "zh_CN": "受到的最终伤害降低{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_44",
+        "zh_CN": "使用技能时获得最大生命{1}%的护盾，持续3秒，不可叠加",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_45",
+        "zh_CN": "队员生命每降低1%，则造成的伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_46",
+        "zh_CN": "每秒获得自身最大生命{1}%的护盾，最多叠加至30层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_47",
+        "zh_CN": "每次战术闪避会消耗5%当前生命，然后伤害提升{1}%，持续10秒，队员不会因该效果倒下",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_48",
+        "zh_CN": "目标距离自身越近，则对其造成的伤害越高，最多提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_49",
+        "zh_CN": "铁卫激励的护盾在失效时，队员获得剩余护盾值{1}%的治疗效果",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_50",
+        "zh_CN": "最大生命降低30%，造成的伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_51",
+        "zh_CN": "若当前生命低于最大生命，则射击速度提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_52",
+        "zh_CN": "当前生命低于最大生命80%时，受到的最终伤害降低{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_53",
+        "zh_CN": "当前生命低于最大生命50%时，所有技能伤害提升{1}%，技能急速提升{2}%，且每秒额外获得{3}常规能量",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_54",
+        "zh_CN": "每当造成伤害时，获得{1}%最大生命的护盾，护盾最多可叠加至{2}层，每秒自然减少{3}层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_55",
+        "zh_CN": "攻击力增加当前护盾的{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_56",
+        "zh_CN": "对【风伤】状态下的目标造成伤害时，获得{1}%最大生命的护盾，最多叠加至{2}层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_57",
+        "zh_CN": "使用技能时会消耗当前生命5%，队员不会因该效果倒下，技能造成的最终伤害提升{1}%，持续5秒，触发间隔5秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_58",
+        "zh_CN": "基于当前生命获得强化，低于80%时获得【愤】：护盾获取效能提升{1}%，低于50%时获得【怒】：射击速度提升{2}%且技能急速提升{3}，低于30%时获得【狂】：攻击力提高{4}%，以上效果可同时存在",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_59",
+        "zh_CN": "队员受到致命伤害时不会倒下并进入【绝命】状态：获得持续10秒的无敌状态，且接下来10秒内射击速度提升{1}%，触发间隔60秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_60",
+        "zh_CN": "进入战斗状态后自身生命每秒降低5%，但造成的全类型伤害提升{1}%，队员不会因该效果倒下，离开战斗状态若当前生命低于50%则每秒回复5%最大生命",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_61",
+        "zh_CN": "弹匣容量提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_62",
+        "zh_CN": "非瞄准射击伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_63",
+        "zh_CN": "射击伤害无视目标{1}%防御力",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_64",
+        "zh_CN": "每次射击造成伤害，该伤害的{1}%转化为自身生命",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_65",
+        "zh_CN": "射击造成伤害时有{1}%概率装填1个子弹",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_66",
+        "zh_CN": "每次换弹后{1}秒内射击不消耗子弹，触发间隔10秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_67",
+        "zh_CN": "击败目标时有{1}%概率装填满弹匣",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_68",
+        "zh_CN": "弹匣内每有1颗子弹，射击伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_69",
+        "zh_CN": "非瞄准射击伤害提升{1}%，武器稳定性提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_70",
+        "zh_CN": "连续射击命中同一目标5次时，射击对其额外造成攻击力{1}%的高热类型伤害并将其击退，切换目标时计数重置",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_71",
+        "zh_CN": "每次射击命中目标，自身防御力增加{1}，持续2秒，最多增加{2}",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_72",
+        "zh_CN": "持续射击状态下移动速度提升{1}%，防御力提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_73",
+        "zh_CN": "对【浓焰】状态下的目标造成伤害提升{1}%，且暴击率提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_74",
+        "zh_CN": "持续射击超过1秒后获得【愈烈】效果：射击速度提升{1}%，每次射击命中使攻击力提升{2}%，至多提升{3}%，退出持续射击状态移除该效果",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_75",
+        "zh_CN": "每次射击命中会使枪械的稳定性和准确度提升10%，持续2秒，最多叠加10层，效果叠加至上限时获得【神枪】效果：弱点伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_76",
+        "zh_CN": "持续射击状态下获得霸体效果，且受到的最终伤害降低{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_77",
+        "zh_CN": "射击命中目标会为其施加1层【惊】效果：每层使目标受到的射击伤害提升{1}%，持续0.5秒，最多叠加30层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_78",
+        "zh_CN": "持续射击状态下，弹容提升{1}%，且每2秒装填{2}%子弹，退出持续射击状态则移除效果",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_79",
+        "zh_CN": "通过射击击败目标后{1}秒内射击不消耗子弹，同时每次射击附带1次当前弹匣容量*{2}%攻击力的高热类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_80",
+        "zh_CN": "连续射击状态下每0.2秒积叠1次【管火】效果，每层使射击速度额外提升{1}%，最多叠加50层，叠加至满层时获得【过热】效果：射击无视目标{2}%防御力；换弹或退出连续射击状态移除所有层数",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_81",
+        "zh_CN": "常规能量回复速度提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_82",
+        "zh_CN": "技能急速提升{1}",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_83",
+        "zh_CN": "爆发能量获取率提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_84",
+        "zh_CN": "每次射击命中，回复{1}常规能量，触发间隔0.2秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_85",
+        "zh_CN": "自身周围10米内有目标存在则移动速度提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_86",
+        "zh_CN": "对目标造成伤害后，立刻回复{1}爆发能量，触发间隔2秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_87",
+        "zh_CN": "常规技造成伤害时，常规技剩余使用间隔降低{1}%，触发间隔1秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_88",
+        "zh_CN": "冲刺状态下每秒回复最大生命{1}%，且常规能量回复速度提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_89",
+        "zh_CN": "移动状态下每秒获得{1}爆发能量，冲刺状态下获得的能量翻倍",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_90",
+        "zh_CN": "移动速度每提升1%，则技能伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_91",
+        "zh_CN": "爆发能量消耗降低{1}%，但使用爆发技结束后，其他所有最终伤害降低50%，持续10秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_92",
+        "zh_CN": "通过技能击败目标时立即使所有技能的使用间隔降低{1}%，并获得{2}常规能量",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_93",
+        "zh_CN": "射击消耗1爆发能量，使该次射击伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_94",
+        "zh_CN": "常规能量回复速度提升{1}%，且冲刺和翻滚将不再消耗体力",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_95",
+        "zh_CN": "击败目标后获得霸体效果，且移动速度提升50%，持续{1}秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_96",
+        "zh_CN": "对【钻筋】状态下目标造成伤害提升{1}%，且造成伤害时回复{2}爆发能量，触发间隔3秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_97",
+        "zh_CN": "使用常规技或支援技后，爆发技使用间隔减少{1}秒；使用爆发技后，刷新常规技和支援技剩余的使用间隔",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_98",
+        "zh_CN": "移动状态下每0.5秒获得1层【能】效果，最多叠加至{1}层，每有1层则移动速度提升5%，技能伤害提升10%，停止移动后清空层数",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_99",
+        "zh_CN": "每次战术闪避会立即换弹1次，所有技能使用间隔降低20%，随后5秒内移动速度提高20%，触发间隔5秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_100",
+        "zh_CN": "技能急速增加{1}，常规能量消耗降低{2}%，每次使用技能后获得1层【疲】：移动速度降低5%，受到的伤害提升10%，最多叠加5层，持续10秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_101",
+        "zh_CN": "射击速度提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_102",
+        "zh_CN": "移动速度提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_103",
+        "zh_CN": "换弹速度提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_104",
+        "zh_CN": "瞄准射击获得低温赋能效果，每次瞄准射击额外造成攻击力{1}%的低温类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_105",
+        "zh_CN": "持续射击状态下，获得赋能效果：每次射击额外造成攻击力{1}%的动能类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_106",
+        "zh_CN": "当前生命低于50%时，获得赋能效果：每次射击额外造成攻击力{1}%的高热类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_107",
+        "zh_CN": "使用技能后，获得赋能效果：每次射击额外造成攻击力{1}%的电击类型伤害，持续10秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_108",
+        "zh_CN": "技能命中目标有{1}%概率对目标施加【贯电】效果，每秒对其造成{2}%攻击力的电击类型伤害，射击命中【贯电】状态下目标，回复1常规能量和1爆发能量，持续10秒，触发间隔2秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_109",
+        "zh_CN": "射击命中弱点有{1}%概率对目标施加【霜腐】效果，每秒对其造成100%攻击力的低温类型伤害，使其移动速度降低20%，持续10秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_110",
+        "zh_CN": "射击有{1}%概率对目标施加【风伤】效果，每秒对其造成20%攻击力的动能类型伤害，持续10秒；击败【风伤】状态下的目标立刻获得攻击力25%的护盾，持续10秒，不可叠加",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_111",
+        "zh_CN": "射击有{1}%概率对目标施加【浓焰】效果，每秒对其造成20%攻击力的高热类型伤害，【浓焰】状态下目标受到的射击伤害提升20%，持续10秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_112",
+        "zh_CN": "技能命中目标有{1}%概率对目标附加【钻筋】效果，每秒对其造成20%攻击力的特异类型伤害，【钻筋】状态下目标受到的技能伤害提升20%，持续10秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_113",
+        "zh_CN": "对目标造成任意伤害时，对其持续1秒的【骨蚀】效果，最多叠加至50层，每层使目标受到的持续伤害提升{1}%，且【骨蚀】状态下的目标被击败时，可回复攻击力{2}%的生命，【骨蚀】每1秒移除1层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_114",
+        "zh_CN": "对处于【贯电】、【霜腐】、【风伤】、【浓焰】、【钻筋】状态的目标造成的伤害提升{1}%，每有1种效果，此加成提升{2}%，最多叠加5层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_115",
+        "zh_CN": "获得赋能效果时，射击速度提升{1}%，换弹速度提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_116",
+        "zh_CN": "每次对目标造成任意伤害时，对其施加【积薪】，最多叠加至50层，达到层数上限时，目标将直接损失队员攻击力{1}%的生命，并清空层数",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_117",
+        "zh_CN": "每换弹1次，全类型伤害提升{1}%，持续10秒，最多叠加5层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_118",
+        "zh_CN": "所有射击的赋能效果造成的最终伤害提升{1}%且无视目标防御力，射击直接造成的最终伤害降低{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_119",
+        "zh_CN": "射击有{1}%的概率造成5次各个类型的伤害，伤害为队员自身攻击力的{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_120",
+        "zh_CN": "射击命中处于【贯电】、【霜腐】、【风伤】、【浓焰】、【钻筋】状态的目标，立即触发1次对应的持续伤害，触发间隔{1}秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_121",
+        "zh_CN": "爆发技使用间隔与能量消耗降低至原本的{1}%，对目标施加的迟缓效果降低至原本的{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_122",
+        "zh_CN": "匕首弹射次数增加，且伤害不再衰减",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_123",
+        "zh_CN": "【渡鸦】发射【耳语之矢】的概率提升至{1}% ，最终伤害提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_124",
+        "zh_CN": "【渡鸦】命中同一目标100次，会被其落下审判之雷，但不会施加麻痹效果",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_125",
+        "zh_CN": "每发射{1}发冰牙，自动引发1次【冰狼利牙】，但不会施加冻结效果",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_126",
+        "zh_CN": "每发冰牙所需雪息减少至{1}，且冰牙发射的速度提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_127",
+        "zh_CN": "【灭世舞步】伤害提升{1}%，同时吸附目标的范围提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_128",
+        "zh_CN": "【新世高歌】有40%概率造成1.5倍伤害，20%概率造成3倍伤害，10%概率造成6倍伤害，5%概率造成12倍伤害",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_129",
+        "zh_CN": "【人间之友】额外为场上队员补充满弹药",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_130",
+        "zh_CN": "队伍中任意队员使用任意技能时，均可获得【人间之友】赋能效果，且赋能的最终伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_131",
+        "zh_CN": "非瞄准状态也可获得【专注】状态，且最多可叠加至{1}层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_132",
+        "zh_CN": "战术闪避后获得【雾影扩散】相同的隐身状态，持续3秒，触发间隔10秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_133",
+        "zh_CN": "【云中穿梭】附带【落地强袭】的击退和阻断特化技能效果",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_134",
+        "zh_CN": "【碎羽】标记被命中时均造成1次范围伤害，该伤害为本次造成的命中伤害的{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_135",
+        "zh_CN": "【誓盟之剑】的触发间隔降低至{1}秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_136",
+        "zh_CN": "【决战领域】从使用时立即开始计算使用间隔，且持续时间增加至永久，场上只能同时存在1个【决战领域】",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_137",
+        "zh_CN": "【贝洛伯格】不再消耗生命，反而回复生命，但琴诺受到的最终伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_138",
+        "zh_CN": "【贝洛伯格】超巨大化，体型、攻击力、最大生命均再次提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_139",
+        "zh_CN": "【拒绝宽恕】命中任意目标，武器每发弹丸数量永久+{1}，若该次攻击直接击败目标则额外+{2}，直至脱离战斗状态",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_140",
+        "zh_CN": "【妒火烧遍山巅 】对任意目标造成的每次伤害均回复{1}%生命",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_141",
+        "zh_CN": "【棘冠】状态下，射击有{1}%概率不消耗子弹",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_142",
+        "zh_CN": "【被选中之人】会同时提升换弹速度，且使用【最佳状态】时也会获得【被选中之人】相同效果，此效果会持续至【最佳状态】提供的【棘冠】状态结束为止",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_143",
+        "zh_CN": "【疗愈冬光】装置对范围内目标造成低温类型伤害，该伤害为其提供回复量的10倍",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_144",
+        "zh_CN": "【偷闲助手】存在上限增加至{1}，【临时加班】的使用间隔减少一半，且部署【疗愈冬光】的存在上限增加至{1}",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_145",
+        "zh_CN": "【新日耀斑】状态下射击不再需要蓄力",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_146",
+        "zh_CN": "【烈日苏醒】会补充{1}颗【烈日公式弹】",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_147",
+        "zh_CN": "【丰饶光极】回复速度提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_148",
+        "zh_CN": "【蛇翎】造成的最终伤害提升{1}%，且每次触发的【蛇翎】额外增加1枚",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_149",
+        "zh_CN": "【蛇翎】变为自动射击最近目标，原本射击命中消耗【丰饶光极】改为回复等量【丰饶光极】",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_150",
+        "zh_CN": "【本我意识体】和【表我意识体】的防御力变为其本体的{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_151",
+        "zh_CN": "（删除）",
+        "disable": 1000
+    },
+    {
+        "Key": "buff_des_152",
+        "zh_CN": "爆发技不再消耗爆发能量，而是回复{1}爆发能量",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_153",
+        "zh_CN": "【下弦月镖】可以永久降低目标所有类型抗性，可叠加至{1}层，但每层只提供1%/1.1%/1.2%/1.3%/1.4%/1.5%抗性降低",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_154",
+        "zh_CN": "爆发技不再消耗爆发能量，且每命中1次目标回复{1}爆发能量",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_155",
+        "zh_CN": "【不休之苦焰】变得更加巨大，造成的最终伤害提升{1}%，且命中点会吸附周围目标",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_156",
+        "zh_CN": "【不休之苦焰】伤害叠加层数增加至{1}，且每次命中叠加2层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_157",
+        "zh_CN": "雷兵的最大存在数量增加至{1}，雷兵的最终伤害提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_158",
+        "zh_CN": "【五明之印】每隔{1}秒会自动投放1次",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_159",
+        "zh_CN": "【亡者守护】面积扩大，形成圆圈将队员包围",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_160",
+        "zh_CN": "【生序之穹】持续时间翻倍，且存在期间，被保护队员的攻击力提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_161",
+        "zh_CN": "【素书灵简】可标记的目标数量增加至{1}，且【灵简】每次被引爆时会造成2次伤害",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_162",
+        "zh_CN": "【灵简】引爆伤害提升至该次射击伤害的{1}%，且每传递1次降低30%改为提升{2}%，但射击造成的最终伤害降低{3}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_163",
+        "zh_CN": "每次命中目标都有{1}%的概率触发【以剑盟誓】效果，造成等同于目标当前生命5倍的真实伤害",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_164",
+        "zh_CN": "【以身为刃】状态下，【有偿正义】不再消耗【胜机值】，但【定局斩】仍需消耗",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_165",
+        "zh_CN": "【小凯贝·束缚者】被命中时，会为场上队员回复猫汐尔最大生命{1}%的生命，触发间隔{2}秒，每触发1次则回复量提升{3}%，最多提升至{4}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_166",
+        "zh_CN": "【小凯贝·束缚者】不会因目标进入无敌状态而被挣脱，传递伤害比例提升至{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_167",
+        "zh_CN": "【最佳助手】提供的加成不再每秒降低，改为每秒提升",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_168",
+        "zh_CN": "【摩登幻厅】结束时，苔丝的爆发能量不再清空",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_169",
+        "zh_CN": "凯茜娅射击命中时，攻击力提升{1}%，持续{2}秒，最多可提升至{3}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_170",
+        "zh_CN": "凯茜娅处于【第三指引】形态时，凯茜娅提供给自己的所有赋能效果的伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_171",
+        "zh_CN": "【捕食之风】吸附目标的范围提升{1}%，【穿林之风】的次数增加至{2}次，且造成的伤害提升{3}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_172",
+        "zh_CN": "每个【越冬爪印】提供的额外攻击力提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_173",
+        "zh_CN": "【自厌旋涡】在放置时立即对周围目标产生1次大范围吸附，且【自厌旋涡】存在时持续吸附目标，并对范围内目标每{1}秒施加{2}层【恶绪】",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_174",
+        "zh_CN": "【自厌旋涡】每{1}秒对附近范围内目标造成{2}%的引爆伤害，此效果不影响当前的【恶绪】层数",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_175",
+        "zh_CN": "常规技【密林温差】的常规能量消耗降低{1}%，最终伤害提升{2}%，且每命中1个目标，常规技使用间隔减少{3}秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_176",
+        "zh_CN": "常规技的【雷霆坠暮】命中目标后的伤害降低转变为提升，且对目标施加的麻痹效果持续时间增加至{1}秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_177",
+        "zh_CN": "使用常规技【十四合一】时，立即吸附大范围内目标到自身前方，且每吸附1个目标，回复{1}常规能量",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_178",
+        "zh_CN": "常规技【十四合一】的力场大小、力场震碎时的伤害范围和造成的最终伤害，均提升{1}%，且命中目标数量不再有限制",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_179",
+        "zh_CN": "闪射每次命中目标有{1}%的概率返还闪射值；每次闪射攻击力提升{2}%，最多叠加至{3}层，持续至脱离战斗",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_180",
+        "zh_CN": "使用爆发技【吞噬神座】，里芙-无限之视进入【通界视主】状态后的移动速度翻倍，造成伤害时，若目标带有【瞬析】标记，则对该目标发射瞬析射线（目标拥有1个以上标记时，瞬析射线的最终伤害也不会降低）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_181",
+        "zh_CN": "所有队员在拥有特殊弹匣时进行射击，有{1}%的概率补充1颗子弹，每触发1次该效果，芬妮-辉耀的攻击力提升{2}%，最多提升至{3}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_182",
+        "zh_CN": "队员拥有特殊弹匣时，射击速度提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_183",
+        "zh_CN": "【个人风格】最多可叠加至{1}层，爆发技【导演剪辑版】的最终伤害提升{2}%，且使用爆发技不再会清除【个人风格】",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_184",
+        "zh_CN": "每次使用等阶4常规技【四维技法】时，常规技造成的伤害提高，每次伤害提升{1}%，无提升上限，常规能量为0时或常规技等级降低会移除该效果",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_185",
+        "zh_CN": "常规技【晶羽留痕】生成【灵羽晶】时造成伤害的范围提升{1}%，若生成时命中目标，立刻刷新常规技的使用间隔",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_186",
+        "zh_CN": "常规技【晶羽留痕】生成【灵羽晶】命中目标不会消失，且凯茜娅-朝翼至多可通过12个【灵羽晶】发射【贯云流】，发射【贯云流】后的【灵羽晶】仍会消失",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_187",
+        "zh_CN": "获得【歌潮值】不再有触发间隔",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_188",
+        "zh_CN": "茉莉安-幽潮在【歌潮值】达到储存上限时，被使用支援技而上场后的{1}秒内射击不消耗子弹",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_189",
+        "zh_CN": "每当【异源值】为满时使用常规技会获得效果：【源点】形态时特殊射击不消耗【异源值】，效果持续期间【源点】形态下无法使用爆发技，且【源点】形态结束时移除该效果并清空所有【异源值】",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_190",
+        "zh_CN": "爆发技伤害提升{1}%，当【异源值】不足40时，可消耗{2}爆发能量使用1次爆发技，效果等同于消耗40【异源值】的爆发技",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_191",
+        "zh_CN": "卜卜处于【辟邪】状态下，高热类型射击伤害加成翻倍，且子弹弹射造成的伤害不再衰减，但消耗常规能量增加{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_192",
+        "zh_CN": "卜卜发射【秘丹】的能量获取率、造成的伤害与物品破坏力不再衰减",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_193",
+        "zh_CN": "常规技【前庭时雨】对同一目标的持续伤害不会逐渐减少，固定为原本伤害的{1}%，且每个目标可被刺嵌的箭矢数量增加至{2}",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_194",
+        "zh_CN": "每次发射【惊蛰箭】会有{1}发箭矢，造成{2}次伤害，并刺嵌{3}支箭矢",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_195",
+        "zh_CN": "爆发技【遇暗愈熠】不再有最低爆发能量限制，且持续期间肴不再消耗爆发能量",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_196",
+        "zh_CN": "所有类型的【勤勉光索】处于链接期间，造成的伤害及其施加的效果会随时间逐渐提升，最多提升至{1}倍",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_197",
+        "zh_CN": "【近海风枢】持续期间，恩雅-澜风每秒获得最大生命{1}%的护盾，最多可通过此方式获得最大生命{2}%的护盾，该护盾会持续存在，且拥有任意护盾时，可每秒获得【启风值】",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_198",
+        "zh_CN": "使用【深谷风枢】不再消耗常规能量，且每持续{1}秒会朝随机方向生成1个移动的模拟【深谷风枢】，碰撞墙体后消失，当恩雅-澜风变身成的【深谷风枢】本体消失时，其他模拟【深谷风枢】会一同消失（中途生成的模拟【深谷风枢】无法获得常规能量、爆发能量、【启风值】）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_199",
+        "zh_CN": "【冥流】状态下，对同一目标造成的伤害不再逐渐降低，且每次命中目标获得的【悔语值】提升{1}%，发射【忏悔束带】额外消耗的【悔语值】降低{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_200",
+        "zh_CN": "【测谎者】持续时间增加至{1}秒，且持续时间内其他队员的技能对目标造成特异类型伤害时，该目标获得的【幻堕值】提升至{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_201",
+        "zh_CN": "完美时机打出【燃意拳】以及打出【焚尽拳】时，会额外对目标造成当前护盾量{1}%的伤害",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_202",
+        "zh_CN": "妮塔-悸响获得{1}层【烈音】效果，且每次完美时机打出【燃意拳】额外获得1层。每层【烈音】效果使妮塔-悸响技能最终伤害提升{2}%，最大生命增加{3}，该效果可持续存在,若触发内焚效果则移除当前一半【烈音】效果",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_203",
+        "zh_CN": "【检索助手】转变对应伤害类型的链接状态后，范围内每击败1个目标，则全队的全类型伤害提升{1}%，最多叠加至{2}层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_204",
+        "zh_CN": "常规技【红鲱鱼】最终伤害提升{1}%，【诱导信标】每升1阶时间减少至{2}秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_205",
+        "zh_CN": "使用【穿云激流】期间凯茜娅移动速度提升{1}%，【钢岚炮】攻击频率提升至{2}倍",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_206",
+        "zh_CN": "【时空力场】持续期间，凯茜娅不再消耗常规能量，且【时空力场】的【时空追击炮】数量增加至{1}，命中后会使目标受到的射击伤害提升{2}%，持续{3}秒，最多叠加至{4}层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_207",
+        "zh_CN": "苔丝-绮幻提供的所有赋能效果的伤害提升{1}%，且持续时间为永久，同时获得赋能效果的队员射击速度提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_208",
+        "zh_CN": "【助理苹果·金蕊】不再消耗常规能量，爆炸范围和伤害均提升{1}%，每次使用【助理苹果·金蕊】后，都可使【助理苹果·金蕊】的最终伤害提升{2}%，持续{3}秒，最多叠加至{4}层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_209",
+        "zh_CN": "神格同调效果【暖液化生】提供的额外生命上限增加至{1}，【暗红射击】命中时的固化治疗量提升{2}%，且【暗红射击】后也能产生【血族视界】",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_210",
+        "zh_CN": "每次成功触发【血族视界】时，可消耗{1}%当前生命，额外制造{2}只赤绒蝠，赤绒蝠命中目标时获得1层【夜鸣】效果：常规技伤害提升{3}%，持续{4}秒，最多叠加至{5}层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_211",
+        "zh_CN": "芬妮-澄意最大爆发能量增加至{1}，且每次【浮澄射击​】回复{2}爆发能量",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_212",
+        "zh_CN": "【澄空】状态下在空中可以恢复耐力，【炽能超载】不再清空弹匣，且【炽能超载】、【浮澄射击​】和【浮澄击球】的伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_213",
+        "zh_CN": "{1}秒内未继续添加【巡洋】标记才会消耗1层，叠加至满层时，场上队员技能的最终伤害提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_214",
+        "zh_CN": "进入【悠浪】状态时和击败目标时，获得最大生命{1}%的护盾，最多叠加至最大生命{2}%，同时【悠浪】状态下造成技能伤害时，会额外造成1次等于护盾吸收量{3}%的伤害",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_215",
+        "zh_CN": "米娅·星彩在【风引星爆】状态下所需【甜星弹】发射数量降低至{1}，在退出【风引星爆】状态后获得{2}【彩绒标记】；为【星爆弹匣】装填【甜星弹】每发所消耗【风味星点】降低至{3}，拆卸【星爆弹匣】时每剩余1发【甜星弹】返还的【风味星点】降低至{4}",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_216",
+        "zh_CN": "米娅·星彩在【风引星爆】状态下使用【逐星微光】不再需要蓄力，可瞬间将范围扩至最大并直接发射",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_217",
+        "zh_CN": "【断穹斩】每命中1个目标，晴-霆光回复{1}爆发能量，通过该方式最多回复{2}爆发能量",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_218",
+        "zh_CN": "【断穹斩】造成的最终伤害提升至原本伤害的{1}%，使用后不再留下【千雷游光屏】",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_219",
+        "zh_CN": "【虚镜】世界中卜卜-灵鉴触发的【虚镜斩】命中目标时会获得{1}【溢光】，且对单个目标添加【裂痕】效果的最多层数增加至{2}层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_220",
+        "zh_CN": "卜卜-灵鉴自身（不包含【镜影】）使用的【镜彩射击】和【镜裂射击】会消耗{1}常规能量，使其最终伤害提升{2}%，且无论处于现实世界还是【虚镜】世界，使用爆发技【吉煞映照】都会获得{3}常规能量",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_221",
+        "zh_CN": "猫汐尔-莲驱布置【臆莲基座】时，直接布置【梦莲】无人机至数量上限；爆发技【顷刻莲潮】不再有使用间隔，且【无尘之祈】状态持续时间增加至无限，期间猫汐尔-莲驱的【臆莲基座】和【梦莲】无人机的伤害额外提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_222",
+        "zh_CN": "【臆莲基座】的最大生命提升至{1}%，且每秒对范围内的目标造成相当于【臆莲基座】最大生命{2}%的伤害",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_223",
+        "zh_CN": "安卡希雅-时之重奏在两种形态下可获得的最大【月刻值】提升{1}%，常规技最终伤害提升{2}%；常规形态下飞剑命中目标获得的【月刻值】增加至{3}，成长形态下【月镰剑势】命中目标时获得的【月刻值】增加至{4}",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_224",
+        "zh_CN": "安卡希雅-时之重奏在常规形态下冲刺的速度提升{1}%，【灵轨月轮】为扩散状态时安卡希雅-时之重奏不再获得【月刻值】，但冲刺状态下会自然获得【月刻值】，反之则【月刻值】逐渐减少，冲刺的同时会周期性朝周围至多{2}个目标释放落剑，其造成的伤害会随当前【月刻值】提升，每有1【月刻值】则落剑伤害提升{3}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_225",
+        "zh_CN": "茉莉安-霄鹰处于【空猎】状态时，为场上队员提供的额外攻击力比例提升100%，每0.1秒获得的【鸟瞰值】提升100%，且每次发射【凌空炮】会使茉莉安-霄鹰的支援技最终伤害提升30%，持续15秒，最多可叠加至4层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_226",
+        "zh_CN": "茉莉安-霄鹰通过【獠牙信标】进行攻击之后，茉莉安-霄鹰为其充能的【械武值】额外增加1，最多可额外增加3【械武值】",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_301",
+        "zh_CN": "耐力回复速度提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_302",
+        "zh_CN": "使用技能会回复{1}%最大生命，触发间隔{2}秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_303",
+        "zh_CN": "常规能量、爆发能量的消耗降{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_304",
+        "zh_CN": "一定范围内，每有1个敌方目标，则队员攻击力提升{1}%，最多提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_305",
+        "zh_CN": "使用技能后{1}秒内射击伤害提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_306",
+        "zh_CN": "每次技能命中目标，都可回复{1}常规能量，触发间隔{2}秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_307",
+        "zh_CN": "技能命中目标时，使其受到的射击伤害提升{1}%，持续{2}秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_308",
+        "zh_CN": "场上队员技能命中目标时对目标施加持续{1}秒的【借贷】标记，对拥有此标记的目标造成射击伤害时，该队员会回收标记，每个标记使该队员所有技能的使用间隔减少{2}秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_309",
+        "zh_CN": "使用主动技能消耗的常规能量，按{1}%的比例转化为爆发能量；使用主动技能消耗的爆发能量，按{2}%的比例转化为常规能量",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_310",
+        "zh_CN": "技能命中目标时对其施加持续{1}秒的眩晕状态，若处于眩晕状态的目标受到射击伤害被击飞，则在被击飞时受到最大生命{2}%的动能类型伤害，对单个目标触发间隔{3}秒，对无法击飞的目标不生效",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_311",
+        "zh_CN": "使用常规技或爆发技后，对应能量储备低于上限{1}%时，则有{2}%概率返还本次消耗能量{3}%的对应能量",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_312",
+        "zh_CN": "使用主动技能立即补充弹容{1}%的子弹",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_313",
+        "zh_CN": "队员周围生成1个安卡希雅特供的【梦魇领域·轻量版】并且跟随队员，【梦魇领域·轻量版】内部对一切目标施加迟缓效果，包括子弹",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_314",
+        "zh_CN": "使用任意主动技能会生成1个跟随自身的电击陷阱，存在{1}秒，目标处于电击陷阱中时会每秒受到队员攻击力{2}%的电击类型伤害并被施加持续{3}秒的麻痹状态，每次电击类型伤害还会使目标受到的射击伤害提升{4}%，电击陷阱同时最多存在{5}个",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_315",
+        "zh_CN": "队员技能命中目标会获得1层【圆心】效果，射击命中目标时会对其施加1层【圆周】效果，当【圆心】叠加至10层立即以队员为中心释放1次震荡冲击，对周围目标造成队员攻击力{1}%的动能类型伤害，当【圆周】叠加至10层会立即以该目标为中心释放1次震荡冲击，对该目标及其周围其他目标造成队员攻击力{1}%的动能类型伤害，两种震荡冲击均会再次给受到伤害的目标施加2层【圆周】效果",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_316",
+        "zh_CN": "队员技能或者射击命中目标时给目标施加1层持续{1}秒的【积劳】效果，最多叠加至{2}层，此效果在持续时间结束时或叠满层后清空时会对目标造成1次队员攻击力{3}%的动能类型伤害；在造成伤害时，每额外有1层【积劳】效果，该伤害提升{4}%，【积劳】效果的持续时间可以被迟缓效果延长。",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_317",
+        "zh_CN": "队员技能命中目标后自身获得持续{1}秒的【连段·技】状态，此状态下射击命中目标会激活【连段】效果，队员射击命中目标后自身获得持续{2}秒的【连段·械】状态，此状态下使用主动技能会激活【连段】效果，每次成功激活【连段】效果会立即为队员回复{3}常规能量并使常规技使用间隔降低{4}%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_318",
+        "zh_CN": "队员在{1}秒内技能和射击都命中目标时，会使目标进入持续{2}秒的【畏惧】状态和1层【毒嗜】效果，【畏惧】状态会对目标施加迟缓效果，【毒嗜】效果最多可叠加至{3}层；当【毒嗜】效果叠至满层或【畏惧】状态结束时，每层【毒嗜】都会对目标造成队员攻击力{4}%的动能类型伤害，若该次伤害直接击败目标则触发【恐慌】效果：使被击败目标周围的敌方目标均进入【畏惧】状态",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_319",
+        "zh_CN": "常规技的技能急速增加{1}，队员使用常规技后{2}秒内通过射击命中目标，则自身获得1层持续{3}秒【评优】效果：自身所有伤害提升{4}%，最多叠加至{5}层",
+        "disable": 0
+    },
+    {
+        "Key": "buff_des_320",
+        "zh_CN": "队员获得芙提雅科技支援，射击命中时有{1}%概率激活【余怒流火】，对目标周围至多{2}个目标造成队员攻击力{3}%的高热类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "Buff_Tag1",
+        "zh_CN": "生命提升",
+        "disable": 0
+    },
+    {
+        "Key": "Buff_Tag2",
+        "zh_CN": "攻击提升",
+        "disable": 0
+    },
+    {
+        "Key": "Buff_Tag3",
+        "zh_CN": "强化射击",
+        "disable": 0
+    },
+    {
+        "Key": "Buff_Tag4",
+        "zh_CN": "强化技能",
+        "disable": 0
+    },
+    {
+        "Key": "Buff_Tag5",
+        "zh_CN": "伤害提升",
+        "disable": 0
+    },
+    {
+        "Key": "Buff_Tag6",
+        "zh_CN": "控制效果",
+        "disable": 0
+    },
+    {
+        "Key": "Buff_Tag7",
+        "zh_CN": "回复",
+        "disable": 0
+    },
+    {
+        "Key": "Buff_Tag8",
+        "zh_CN": "护甲击破",
+        "disable": 0
+    },
+    {
+        "Key": "Buff_Tag9",
+        "zh_CN": "额外伤害",
+        "disable": 0
+    },
+    {
+        "Key": "Buff_Tag10",
+        "zh_CN": "暴击提升",
+        "disable": 0
+    },
+    {
+        "Key": "Buff_Tag11",
+        "zh_CN": "移动加速",
+        "disable": 0
+    },
+    {
+        "Key": "Buff_Tag12",
+        "zh_CN": "弹药补充",
+        "disable": 0
+    },
+    {
+        "Key": "Buff_Tag13",
+        "zh_CN": "护盾",
+        "disable": 0
+    },
+    {
+        "Key": "Buff_Tag14",
+        "zh_CN": "防御",
+        "disable": 0
+    },
+    {
+        "Key": "Buff_Tag15",
+        "zh_CN": "弹容提升",
+        "disable": 0
+    },
+    {
+        "Key": "Buff_Tag16",
+        "zh_CN": "能量获取",
+        "disable": 0
+    },
+    {
+        "Key": "danger_basedes1",
+        "zh_CN": "敌方目标生命提升{1}%、防御力提升{2}%、攻击力提升{3}%。此外，{4}获得以下类型威胁值加成",
+        "disable": 0
+    },
+    {
+        "Key": "danger_skillname1",
+        "zh_CN": "悍匪",
+        "disable": 0
+    },
+    {
+        "Key": "danger_skillname2",
+        "zh_CN": "顽抗",
+        "disable": 0
+    },
+    {
+        "Key": "danger_skillname3",
+        "zh_CN": "撕裂",
+        "disable": 0
+    },
+    {
+        "Key": "danger_skillname4",
+        "zh_CN": "怒涛",
+        "disable": 0
+    },
+    {
+        "Key": "danger_skillname5",
+        "zh_CN": "颓靡",
+        "disable": 0
+    },
+    {
+        "Key": "danger_skillname6",
+        "zh_CN": "侵蚀",
+        "disable": 0
+    },
+    {
+        "Key": "danger_skillname7",
+        "zh_CN": "爆裂",
+        "disable": 0
+    },
+    {
+        "Key": "danger_skillname8",
+        "zh_CN": "掣肘",
+        "disable": 0
+    },
+    {
+        "Key": "danger_skillname9",
+        "zh_CN": "吞噬",
+        "disable": 0
+    },
+    {
+        "Key": "danger_skillname10",
+        "zh_CN": "易损",
+        "disable": 0
+    },
+    {
+        "Key": "danger_skilldes1",
+        "zh_CN": "敌方目标受到的伤害降低{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "danger_skilldes2",
+        "zh_CN": "敌方目标的防御力每秒提升1%，最多叠加至{1}层，被击中会减少1层",
+        "disable": 0
+    },
+    {
+        "Key": "danger_skilldes3",
+        "zh_CN": "队员受到敌方目标攻击后，每3秒降低{1}%最大生命，持续15秒",
+        "disable": 0
+    },
+    {
+        "Key": "danger_skilldes4",
+        "zh_CN": "敌方目标在场上每3秒伤害提升{1}%，最多叠加10层",
+        "disable": 0
+    },
+    {
+        "Key": "danger_skilldes5",
+        "zh_CN": "队员受到敌方目标攻击后，攻击力降低{1}%，持续5秒，最多叠加至10层",
+        "disable": 0
+    },
+    {
+        "Key": "danger_skilldes6",
+        "zh_CN": "敌方目标受到攻击后，受到的伤害降低{1}%，持续1秒，最多叠加至10层",
+        "disable": 0
+    },
+    {
+        "Key": "danger_skilldes7",
+        "zh_CN": "敌方目标被击败时，1.5秒后，对5米范围内队员造成1次目标攻击力{1}%的动能类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "danger_skilldes8",
+        "zh_CN": "队员受到敌方目标攻击后，移动速度降低{1}%，持续3秒，最多叠加至5层",
+        "disable": 0
+    },
+    {
+        "Key": "danger_skilldes9",
+        "zh_CN": "敌方目标造成伤害后，会恢复等同于伤害量{1}%的生命",
+        "disable": 0
+    },
+    {
+        "Key": "danger_skilldes10",
+        "zh_CN": "没有护盾的队员受到攻击时，受到的伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "curse_name1",
+        "zh_CN": "战术干扰·失衡",
+        "disable": 0
+    },
+    {
+        "Key": "curse_name2",
+        "zh_CN": "战术干扰·衰弱",
+        "disable": 0
+    },
+    {
+        "Key": "curse_name3",
+        "zh_CN": "战术干扰·疲惫",
+        "disable": 0
+    },
+    {
+        "Key": "curse_name4",
+        "zh_CN": "战术干扰·沉疴",
+        "disable": 0
+    },
+    {
+        "Key": "curse_name5",
+        "zh_CN": "战术干扰·延误",
+        "disable": 0
+    },
+    {
+        "Key": "curse_name6",
+        "zh_CN": "战术干扰·涣散",
+        "disable": 0
+    },
+    {
+        "Key": "curse_name7",
+        "zh_CN": "战术干扰·迟缓",
+        "disable": 0
+    },
+    {
+        "Key": "curse_name8",
+        "zh_CN": "战术干扰·重荷",
+        "disable": 0
+    },
+    {
+        "Key": "curse_name9",
+        "zh_CN": "战术干扰·磨损",
+        "disable": 0
+    },
+    {
+        "Key": "curse_name10",
+        "zh_CN": "战术干扰·钝感",
+        "disable": 0
+    },
+    {
+        "Key": "curse_name11",
+        "zh_CN": "战术干扰·暗创",
+        "disable": 0
+    },
+    {
+        "Key": "curse_des1",
+        "zh_CN": "全队队员防御力降低{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "curse_des2",
+        "zh_CN": "全队队员最大生命降低{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "curse_des3",
+        "zh_CN": "全队队员攻击力降低{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "curse_des4",
+        "zh_CN": "全队队员受治疗效果降低{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "curse_des5",
+        "zh_CN": "受到战术干扰的队员技能使用间隔提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "curse_des6",
+        "zh_CN": "受到战术干扰的队员每秒失去{1}爆发能量",
+        "disable": 0
+    },
+    {
+        "Key": "curse_des7",
+        "zh_CN": "受到战术干扰的队员移动速度降低{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "curse_des8",
+        "zh_CN": "受到战术干扰的队员耐力消耗提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "curse_des9",
+        "zh_CN": "受到战术干扰的队员弹匣容量降低{1}%，最低降至1",
+        "disable": 0
+    },
+    {
+        "Key": "curse_des10",
+        "zh_CN": "受到战术干扰的队员换弹速度降低{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "curse_des11",
+        "zh_CN": "受到战术干扰的队员每秒降低当前生命{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "season_name",
+        "zh_CN": "多维解集",
+        "disable": 0
+    },
+    {
+        "Key": "season_playType_name1",
+        "zh_CN": "迭战模式",
+        "disable": 0
+    },
+    {
+        "Key": "season_playType_name2",
+        "zh_CN": "常规模式",
+        "disable": 0
+    },
+    {
+        "Key": "season_playType_name3",
+        "zh_CN": "验证战场",
+        "disable": 0
+    },
+    {
+        "Key": "season_taskType_name1",
+        "zh_CN": "常规推演任务",
+        "disable": 0
+    },
+    {
+        "Key": "season_taskType_name2",
+        "zh_CN": "限时推演任务",
+        "disable": 0
+    },
+    {
+        "Key": "season_skill_name1",
+        "zh_CN": "炽盛战意",
+        "disable": 0
+    },
+    {
+        "Key": "season_skill_name2",
+        "zh_CN": "深层运策",
+        "disable": 0
+    },
+    {
+        "Key": "season_skill_name3",
+        "zh_CN": "乐园水炮",
+        "disable": 0
+    },
+    {
+        "Key": "season_skill_name4",
+        "zh_CN": "正面4",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_name5",
+        "zh_CN": "正面5",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_name6",
+        "zh_CN": "正面6",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_name7",
+        "zh_CN": "正面7",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_name8",
+        "zh_CN": "正面8",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_name9",
+        "zh_CN": "正面9",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_name10",
+        "zh_CN": "正面10",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_name11",
+        "zh_CN": "负面1",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_name12",
+        "zh_CN": "恶性顽抗",
+        "disable": 0
+    },
+    {
+        "Key": "season_skill_name13",
+        "zh_CN": "思维共感",
+        "disable": 0
+    },
+    {
+        "Key": "season_skill_name14",
+        "zh_CN": "乐园假日",
+        "disable": 0
+    },
+    {
+        "Key": "season_skill_name15",
+        "zh_CN": "负面5",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_name16",
+        "zh_CN": "负面6",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_name17",
+        "zh_CN": "负面7",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_name18",
+        "zh_CN": "负面8",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_des1",
+        "zh_CN": "队员每深入一层，都会自动回复满爆发能量。使用常规技、爆发技和支援技时，有概率不消耗能量且不进入使用间隔",
+        "disable": 0
+    },
+    {
+        "Key": "season_skill_des2",
+        "zh_CN": "在迭战模式中进行推演，将更容易获得稀有增益，也可获取更多思维译码、推演经验及智略点",
+        "disable": 0
+    },
+    {
+        "Key": "season_skill_des3",
+        "zh_CN": "使用主动技能对目标造成伤害时，会附加一次水炮爆炸，额外对目标造成50%技能伤害的低温类型伤害。每次水炮爆炸为目标施加1层【湿冷】效果，每层【湿冷】效果使目标受到的水炮伤害提升20%，最多叠至10层",
+        "disable": 0
+    },
+    {
+        "Key": "season_skill_des4",
+        "zh_CN": "【正面】射击时，有概率消耗金币发动金币攻击，造成巨额范围伤害",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_des5",
+        "zh_CN": "【正面】低重力环境，允许跳跃，跳跃后将短暂制空并缓慢下落，在空中可以射击，且射击将造成范围爆炸伤害",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_des6",
+        "zh_CN": "【正面】每移动5米，将自动布设一个炸弹",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_des7",
+        "zh_CN": "【正面】通关战斗房间会随机掉落合成配方，在补给点可以合成buff、特殊道具、限定武器",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_des8",
+        "zh_CN": "【正面】可以使用道具烟雾弹，使用后x秒内不会被怪物发现，也不会吸引仇恨",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_des9",
+        "zh_CN": "【正面】场下角色的属性将转移30%至场上角色",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_des10",
+        "zh_CN": "【正面】击败敌人后有概率收服敌人（获得敌人召唤卡道具），战斗中可以使用敌人召唤卡召唤敌人",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_des11",
+        "zh_CN": "【负面】怪物半血以上时，受到的射击伤害减半；半血以下时，受到的技能伤害减半",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_des12",
+        "zh_CN": "每当目标受到10次射击，将会在其周围引爆1次针对队员的范围爆炸",
+        "disable": 0
+    },
+    {
+        "Key": "season_skill_des13",
+        "zh_CN": "挑战悖论迷宫获取思维译码的总量将受到精力值限制，精力值降低时，获取数量降低",
+        "disable": 0
+    },
+    {
+        "Key": "season_skill_des14",
+        "zh_CN": "完成滚石派对将会获得万用思维译码",
+        "disable": 0
+    },
+    {
+        "Key": "season_skill_des15",
+        "zh_CN": "【负面】所有技能cd时间+200%",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_des16",
+        "zh_CN": "【负面】关卡被浓雾笼罩，可见范围极低",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_des17",
+        "zh_CN": "【负面】天空中会掉落鲨鱼，砸到地面发生爆炸伤害玩家",
+        "disable": 1000
+    },
+    {
+        "Key": "season_skill_des18",
+        "zh_CN": "【负面】地面会出现烫脚地板，造成持续伤害，爆开后还会禁锢玩家2s不能移动",
+        "disable": 1000
+    },
+    {
+        "Key": "plan_buff_name1",
+        "zh_CN": "乘胜",
+        "disable": 0
+    },
+    {
+        "Key": "plan_buff_name2",
+        "zh_CN": "燃动",
+        "disable": 0
+    },
+    {
+        "Key": "plan_buff_name3",
+        "zh_CN": "卫护",
+        "disable": 0
+    },
+    {
+        "Key": "plan_buff_name4",
+        "zh_CN": "赋能",
+        "disable": 0
+    },
+    {
+        "Key": "plan_buff_name5",
+        "zh_CN": "精进·破坏",
+        "disable": 0
+    },
+    {
+        "Key": "plan_buff_name6",
+        "zh_CN": "炽盛战意",
+        "disable": 0
+    },
+    {
+        "Key": "plan_buff_des1",
+        "zh_CN": "队员射击造成的最终伤害提升{1}%，任意队员射击伤害暴击时，其主动技能的使用间隔减少{2}秒，该效果每{3}秒最多触发1次",
+        "disable": 0
+    },
+    {
+        "Key": "plan_buff_des2",
+        "zh_CN": "队员主动技能造成伤害时，将产生1次爆炸，每0.5秒至多触发1次，对8米范围内全部敌方目标造成自身攻击力{1}%的真实伤害，爆炸每造成{2}次伤害，队员进入【激切】状态，持续{3}秒，期间所有技能的使用间隔降低{4}%，且不消耗常规能量",
+        "disable": 0
+    },
+    {
+        "Key": "plan_buff_des3",
+        "zh_CN": "队员每次进入战斗，将会获得1个最大生命{1}%+已损失生命{2}%的护盾，该护盾持续存在；队员持续消耗生命，每降低当前生命的{3}%，将会获得最大生命{4}%的护盾，最多获得最大生命{5}%的护盾",
+        "disable": 0
+    },
+    {
+        "Key": "plan_buff_des4",
+        "zh_CN": "队员造成射击伤害时，有{1}%的概率附带1次自身攻击力{2}%的任意类型赋能伤害，队员可以同时附带多种类型的赋能伤害，且每种类型的概率独立计算",
+        "disable": 0
+    },
+    {
+        "Key": "plan_buff_des5",
+        "zh_CN": "物品破坏力提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "plan_buff_des6",
+        "zh_CN": "使用常规技和爆发技时，有概率不消耗能量且不进入使用间隔",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name1",
+        "zh_CN": "潜能活化",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name2",
+        "zh_CN": "强击抵换",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name3",
+        "zh_CN": "涌伤旋涡",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name4",
+        "zh_CN": "劣性流徙",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name5",
+        "zh_CN": "视守为攻",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name6",
+        "zh_CN": "盾击强化",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name7",
+        "zh_CN": "倨地拮抗",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name8",
+        "zh_CN": "全域专长",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name9",
+        "zh_CN": "诊疗匮乏",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name10",
+        "zh_CN": "脆弱防护",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name11",
+        "zh_CN": "乘势追击",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name12",
+        "zh_CN": "备战充分",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name13",
+        "zh_CN": "特异领域",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name14",
+        "zh_CN": "电磁涡流",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name15",
+        "zh_CN": "能量波动",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name16",
+        "zh_CN": "卓越温感",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name17",
+        "zh_CN": "主动击破",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name18",
+        "zh_CN": "战力疲敝",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name19",
+        "zh_CN": "利弊置换",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name20",
+        "zh_CN": "击打弱化",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name21",
+        "zh_CN": "近卫强化",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_name22",
+        "zh_CN": "区限衰减",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des1",
+        "zh_CN": "队员爆发能量获取效率提升{1}%，使用爆发技后，队员增加{2}攻击力，效果持续{3}秒",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des2",
+        "zh_CN": "敌方目标受到的非射击伤害降低{1}%。当受到非射击伤害时，敌方目标受到的射击伤害将会提升{2}%，效果持续{3}秒",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des3",
+        "zh_CN": "角色使用技能击败敌方目标时，会在原地生成1个引力旋涡，吸附{2}米范围内的敌方目标，持续{1}秒。被吸附的敌方目标受到的技能伤害提升{3}%，场上最多存在{4}个引力旋涡",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des4",
+        "zh_CN": "敌方目标受到的射击伤害降低{1}%，且每秒回复自身{2}%的最大生命。但受到队员的主动技能伤害时，移动速度降低{3}%，持续{4}秒，期间无法回复生命",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des5",
+        "zh_CN": "队员拥有护盾时，会增加{1}攻击力，且每存在{2}护盾，队员自身攻击力提升{3}%（最高提升{4}%）",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des6",
+        "zh_CN": "敌方目标最大生命提升{1}%，对没有护盾的队员造成的伤害提升{2}%。当敌方目标受到拥有护盾队员的射击伤害时，其受到的暴击伤害增幅提升{3}%",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des7",
+        "zh_CN": "所有敌人的防御力提升{1}%，但每次受到赋能伤害时防御力降低{2}%，至多{3}%",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des8",
+        "zh_CN": "队员造成赋能伤害时，无视敌方目标{1}%防御力，并为敌人附加一层易伤效果，使敌人受到的赋能伤害提升{2}%，最多提升至{3}%",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des9",
+        "zh_CN": "队员受到治疗的效果降低{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des10",
+        "zh_CN": "敌方对拥有护盾的队员造成伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des11",
+        "zh_CN": "击破敌方可破坏部位后，队员攻击力提升",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des12",
+        "zh_CN": "队员射击速度提升{1}%，弹匣容量提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des13",
+        "zh_CN": "队员造成的特异类型伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des14",
+        "zh_CN": "队员造成的电击类型伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des15",
+        "zh_CN": "队员造成的动能类型伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des16",
+        "zh_CN": "队员造成的高热与低温类型伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des17",
+        "zh_CN": "使用主动技能造成伤害时为敌方附加1层【溃败】效果，使目标受到的技能伤害提升{1}%，效果持续{2}秒，最多叠加{3}层",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des18",
+        "zh_CN": "每射出1颗子弹，队员附加1层【疲敝】效果，使自身易伤效果提升{1}%，持续{2}秒，最多叠加{3}层",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des19",
+        "zh_CN": "进入关卡后，每分钟切换1次以下效果：【阳极】效果可以使队员造成的射击伤害提升{1}%，技能伤害降低{2}%；【阴极】效果可以使队员造成的射击伤害降低{3}%，技能伤害提升{4}%",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des20",
+        "zh_CN": "队员通过射击与技能造成的非赋能伤害降低{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des21",
+        "zh_CN": "队员{1}米范围内存在敌人时，自身攻击力和防御力提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "ScoreLevelBuff_des22",
+        "zh_CN": "队员距离敌方越远，对其造成的伤害越低，至多降低{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "CupDes1",
+        "zh_CN": "禁用部分增益",
+        "disable": 0
+    },
+    {
+        "Key": "CupDes2",
+        "zh_CN": "敌方攻击力、防御力、最大生命提升",
+        "disable": 0
+    },
+    {
+        "Key": "CupDes3",
+        "zh_CN": "敌方对拥有护盾的队员造成伤害提升",
+        "disable": 0
+    },
+    {
+        "Key": "CupDes4",
+        "zh_CN": "敌方生命低时，受到伤害降低，攻击力提升",
+        "disable": 0
+    },
+    {
+        "Key": "CupDes5",
+        "zh_CN": "可配置增益组合上限降低",
+        "disable": 0
+    },
+    {
+        "Key": "CupDes6",
+        "zh_CN": "敌方目标始终处于霸体状态",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualName1",
+        "zh_CN": "降临团前锋派",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualName2",
+        "zh_CN": "降临团远攻派",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualName3",
+        "zh_CN": "郊狼机动派",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualName4",
+        "zh_CN": "郊狼重甲派",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualName5",
+        "zh_CN": "泰古通达",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualName6",
+        "zh_CN": "泰坦之力",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualName7",
+        "zh_CN": "机械之力",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_name1",
+        "zh_CN": "征伐等级",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_name2",
+        "zh_CN": "征伐等级",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_name3",
+        "zh_CN": "征伐等级",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_name4",
+        "zh_CN": "征伐等级",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_name5",
+        "zh_CN": "征伐等级",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_name6",
+        "zh_CN": "征伐等级",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_name7",
+        "zh_CN": "征伐等级",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des1",
+        "zh_CN": "全队受到的伤害降低{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des2",
+        "zh_CN": "全队受到的伤害降低{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des3",
+        "zh_CN": "全队受到的伤害降低{1}%，护盾构建效能提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des4",
+        "zh_CN": "全队瞄准射击伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des5",
+        "zh_CN": "全队瞄准射击伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des6",
+        "zh_CN": "全队瞄准射击伤害提升{1}%，换弹速度提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des7",
+        "zh_CN": "全队最大生命提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des8",
+        "zh_CN": "全队最大生命提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des9",
+        "zh_CN": "全队最大生命提升{1}%，队员生命状态为满时技能伤害提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des10",
+        "zh_CN": "全队武器准确度提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des11",
+        "zh_CN": "全队武器准确度提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des12",
+        "zh_CN": "全队武器准确度提升{1}%，暴击伤害提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des13",
+        "zh_CN": "全队防御力提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des14",
+        "zh_CN": "全队防御力提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des15",
+        "zh_CN": "全队防御力提升{1}%，物品破坏力提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des16",
+        "zh_CN": "全队攻击力提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des17",
+        "zh_CN": "全队攻击力提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des18",
+        "zh_CN": "全队攻击力提升{1}%，技能急速增加{2}",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des19",
+        "zh_CN": "全队射击速度提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des20",
+        "zh_CN": "全队射击速度提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "MonsterManualBuff_des21",
+        "zh_CN": "全队射击速度提升{1}%，受治疗效果提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "combo_buff_name1",
+        "zh_CN": "连击·I",
+        "disable": 0
+    },
+    {
+        "Key": "combo_buff_name2",
+        "zh_CN": "连击·II",
+        "disable": 0
+    },
+    {
+        "Key": "combo_buff_name3",
+        "zh_CN": "连击·III",
+        "disable": 0
+    },
+    {
+        "Key": "combo_buff_des1",
+        "zh_CN": "连击等级达到B级时，队员射击会附带低温类型伤害，额外造成攻击力{1}%的伤害",
+        "disable": 0
+    },
+    {
+        "Key": "combo_buff_des2",
+        "zh_CN": "连击等级达到A级时，敌方目标在被击败时会发生爆炸，造成一次攻击力{1}%的范围伤害",
+        "disable": 0
+    },
+    {
+        "Key": "combo_buff_des3",
+        "zh_CN": "连击等级达到S级时，队员造成的最终伤害提高{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uavName1",
+        "zh_CN": "先锋号",
+        "disable": 0
+    },
+    {
+        "Key": "uavCoreName1",
+        "zh_CN": "高热机芯",
+        "disable": 0
+    },
+    {
+        "Key": "uavCoreName2",
+        "zh_CN": "低温机芯",
+        "disable": 0
+    },
+    {
+        "Key": "uavCoreDes1",
+        "zh_CN": "装配后，验证辅助机的战斗行为会较为激进，擅长进行范围攻击，更适合应对敌方目标较多的场景",
+        "disable": 0
+    },
+    {
+        "Key": "uavCoreDes2",
+        "zh_CN": "装配后，验证辅助机的战斗行为会更加极效，擅长进行专一点对点攻击，更适合应对单一的强力敌方目标",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeDes1",
+        "zh_CN": "辅助机攻击力增加{1}",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeDes2",
+        "zh_CN": "辅助机全元素类型伤害增加{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeDes4",
+        "zh_CN": "队员攻击力增加{1}",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeDes5",
+        "zh_CN": "队员防御力增加{1}",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeDes6",
+        "zh_CN": "队员最大生命增加{1}",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeDes7",
+        "zh_CN": "队员暴击率增加{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeDes8",
+        "zh_CN": "队员暴击伤害增幅增加{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeDes9",
+        "zh_CN": "队员技能急速增加{1}",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeDes10",
+        "zh_CN": "队员技能伤害增加{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeDes11",
+        "zh_CN": "队员常规技伤害增加{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeDes12",
+        "zh_CN": "队员支援技伤害增加{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeDes13",
+        "zh_CN": "队员爆发技伤害增加{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeDes14",
+        "zh_CN": "队员爆发能量获取率增加{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeDes15",
+        "zh_CN": "队员射击伤害增加{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeDes16",
+        "zh_CN": "队员非瞄准射击伤害增加{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeDes17",
+        "zh_CN": "队员瞄准射击伤害增加{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeDes18",
+        "zh_CN": "队员射击速度增加{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeDes19",
+        "zh_CN": "队员全元素类型伤害增加{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeDes20",
+        "zh_CN": "队员常规能量恢复速度增加{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeDes21",
+        "zh_CN": "队员附属单位强度增加{1}",
+        "disable": 0
+    },
+    {
+        "Key": "uav_BuffDes1",
+        "zh_CN": "辅助机攻击力提升{1}%（存在同类效果时仅最高值生效）",
+        "disable": 0
+    },
+    {
+        "Key": "uav_BuffDes2",
+        "zh_CN": "辅助机造成伤害时对目标施加【退怯】效果，当队员射击命中带有【退怯】效果的目标时，对其额外造成自身攻击力{1}%的动能类型伤害，触发间隔{2}秒（存在同类效果时仅最高值生效）",
+        "disable": 0
+    },
+    {
+        "Key": "uav_BuffDes3",
+        "zh_CN": "辅助机攻击敌方将无视目标{1}%的防御力（存在同类效果时仅最高值生效）",
+        "disable": 0
+    },
+    {
+        "Key": "uav_BuffDes4",
+        "zh_CN": "辅助机对处于控制状态下的目标造成的伤害提升{1}%（存在同类效果时仅最高值生效）",
+        "disable": 0
+    },
+    {
+        "Key": "uav_BuffDes5",
+        "zh_CN": "每隔{1}秒，恢复全体队员{2}%生命值（存在同类效果时仅最高值生效）",
+        "disable": 0
+    },
+    {
+        "Key": "uav_BuffDes6",
+        "zh_CN": "辅助机的物品破坏力提升{1}%（存在同类效果时仅最高值生效）",
+        "disable": 0
+    },
+    {
+        "Key": "uav_BuffDes7",
+        "zh_CN": "队员每{1}秒提升{2}%高热类型伤害，持续{3}秒（存在同类效果时仅最高值生效）",
+        "disable": 0
+    },
+    {
+        "Key": "uav_BuffDes8",
+        "zh_CN": "辅助机攻击生命低于{1}%的敌方目标时，有{2}%概率造成【重击】，使本次伤害提升至{3}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_BuffDes9",
+        "zh_CN": "队员单次受到伤害大于自身生命的{1}%时，可回复{2}%的最大生命（存在同类效果时仅最高值生效）",
+        "disable": 0
+    },
+    {
+        "Key": "uav_BuffDes10",
+        "zh_CN": "辅助机每秒对周围{1}米范围内的1个随机敌方目标造成自身攻击力{2}%的低温类型伤害（存在同类效果时仅最高值生效）",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartName1",
+        "zh_CN": "​​微型反应堆",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartName2",
+        "zh_CN": "高压电容",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartName3",
+        "zh_CN": "便携电池",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartName4",
+        "zh_CN": "抗冲击框架",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartName5",
+        "zh_CN": "复合机翼​​",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartName6",
+        "zh_CN": "支撑部件",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartName7",
+        "zh_CN": "巡飞弹",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartName8",
+        "zh_CN": "轻型战术导弹​",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartName9",
+        "zh_CN": "外接机炮",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartName10",
+        "zh_CN": "主控处理器",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartName11",
+        "zh_CN": "传感单元",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartName12",
+        "zh_CN": "补充芯片",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillName1",
+        "zh_CN": "炙热弹雨",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillName2",
+        "zh_CN": "炎坠之域",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillName3",
+        "zh_CN": "高热机芯增量",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillName4",
+        "zh_CN": "凌寒狙击",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillName5",
+        "zh_CN": "极寒照射",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillName6",
+        "zh_CN": "低温机芯增量",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes1_0",
+        "zh_CN": "辅助机每{1}秒向敌方发射{2}枚【炙灼弹】，命中敌方后立即引爆并对其造成辅助机攻击力{3}%的伤害，对周围{4}米范围内的全部敌方造成自身攻击力{5}%的高热类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes2_0",
+        "zh_CN": "辅助机每{1}秒落下1颗【炎坠】，落地后立即引爆，对周围{2}米范围内的目标造成自身攻击力{3}%的高热类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes3_0",
+        "zh_CN": "队员技能伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes4_0",
+        "zh_CN": "辅助机每{1}秒发射{2}枚【寒凌】攻击随机1个敌方目标，造成自身攻击力{3}%的低温类型伤害，同时目标移动速度降低{4}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes5_0",
+        "zh_CN": "辅助机每{1}秒向敌方发射一道持续存在{4}秒的【寒冰束】，每{2}秒对目标造成自身攻击力{3}%的低温类型伤害，距离目标过远时【寒冰束】会消失",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes6_0",
+        "zh_CN": "队员射击伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes1_1_lv1",
+        "zh_CN": "命中敌方时造成的高热类型伤害提升至自身攻击力的{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes1_1_lv2",
+        "zh_CN": "引爆后造成伤害的范围提升至{1}米",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes1_1_lv3",
+        "zh_CN": "【炙灼弹】的发射数量提升至{1}，命中敌方时的伤害降低至自身攻击的{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes1_2_lv1",
+        "zh_CN": "【炙灼弹】引爆时对受到伤害的敌方附加眩晕效果，持续{1}秒",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes1_2_lv2",
+        "zh_CN": "【炙灼弹】物品破坏力增加{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes1_2_lv3",
+        "zh_CN": "发射【炙灼弹】的间隔时间降低至{1}秒",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes2_1_lv1",
+        "zh_CN": "【炎坠】落下的间隔时间降低至{1}秒，造成的高热类型伤害提升至自身攻击力的{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes2_1_lv2",
+        "zh_CN": "造成伤害时降低目标{1}%的高热抗性，持续{2}秒",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes2_1_lv3",
+        "zh_CN": "【炎坠】区域之外额外引爆{1}次爆炸，对周围{2}米范围内的全部敌方造成自身攻击力{3}%的高热类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes2_2_lv1",
+        "zh_CN": "【炎坠】造成伤害的范围提升至{1}米",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes2_2_lv2",
+        "zh_CN": "【炎坠】引爆后会原地留下持续{1}秒的【炎域】效果，处于其中的目标持续受到高热类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes2_2_lv3",
+        "zh_CN": "【炎坠】引爆后会吸附敌方目标，持续{1}秒",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes3_1_lv1",
+        "zh_CN": "队员最大生命提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes3_1_lv2",
+        "zh_CN": "队员常规技能伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes3_1_lv3",
+        "zh_CN": "队员每击倒1位敌人，该队员造成的高热类型伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes3_2_lv1",
+        "zh_CN": "队员防御力提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes3_2_lv2",
+        "zh_CN": "队员爆发技伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes3_2_lv3",
+        "zh_CN": "队员每使用1次技能，攻击力提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes4_1_lv1",
+        "zh_CN": "【寒凌】发射的间隔时间降低至{1}秒",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes4_1_lv2",
+        "zh_CN": "【寒凌】每命中目标1次，降低其{1}%攻击力，至多叠加{2}次",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes4_1_lv3",
+        "zh_CN": "【寒凌】每命中目标1次，降低其{1}%防御力，至多叠加{2}次",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes4_2_lv1",
+        "zh_CN": "目标移动速度降低至{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes4_2_lv2",
+        "zh_CN": "【寒凌】命中目标{1}次后，为其附加冰冻效果，持续{2}秒",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes4_2_lv3",
+        "zh_CN": "辅助机发射的【寒凌】数量提升至{1}枚",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes5_1_lv1",
+        "zh_CN": "【寒冰束】持续存在的时间提升至{1}秒",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes5_1_lv2",
+        "zh_CN": "【寒冰束】物品破坏力提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes5_1_lv3",
+        "zh_CN": "【寒冰束】每次造成的伤害提升至{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes5_2_lv1",
+        "zh_CN": "【寒冰束】造成伤害的间隔时间降低至{1}秒",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes5_2_lv2",
+        "zh_CN": "【寒冰束】命中目标后可以弹射至另1个最近的目标身上，弹射效果可造成等额伤害，但范围更小，当【寒冰束】消失时，弹射效果同时消失",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes5_2_lv3",
+        "zh_CN": "【寒冰束】每次对目标造成伤害时还降低其{1}%低温抗性，持续{2}秒，至多叠加{3}次",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes6_1_lv1",
+        "zh_CN": "射击伤害提升效果增加至{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes6_1_lv2",
+        "zh_CN": "队员射击暴击时，恢复{1}%最大生命值，触发间隔{2}秒",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes6_1_lv3",
+        "zh_CN": "队员电击类型伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes6_2_lv1",
+        "zh_CN": "队员射击速度提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes6_2_lv2",
+        "zh_CN": "队员连续射击状态下受到的伤害降低{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_SkillDes6_2_lv3",
+        "zh_CN": "队员对敌方首领造成的射击伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartShowName1",
+        "zh_CN": "动力类部件",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartShowName2",
+        "zh_CN": "兵械类部件",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartShowName3",
+        "zh_CN": "结构类部件",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartShowName4",
+        "zh_CN": "算力类部件",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartShowName1_des",
+        "zh_CN": "在悖论迷宫-验证战场模式中掉落的各类部件，装配在验证辅助机上，用来提升其在战斗中的表现。",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartShowName2_des",
+        "zh_CN": "在悖论迷宫-验证战场模式中掉落的各类部件，装配在验证辅助机上，用来提升其在战斗中的表现。",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartShowName3_des",
+        "zh_CN": "在悖论迷宫-验证战场模式中掉落的各类部件，装配在验证辅助机上，用来提升其在战斗中的表现。",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartShowName4_des",
+        "zh_CN": "在悖论迷宫-验证战场模式中掉落的各类部件，装配在验证辅助机上，用来提升其在战斗中的表现。",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartShowName1_use",
+        "zh_CN": "验证辅助机装配道具",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartShowName2_use",
+        "zh_CN": "验证辅助机装配道具",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartShowName3_use",
+        "zh_CN": "验证辅助机装配道具",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartShowName4_use",
+        "zh_CN": "验证辅助机装配道具",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartTypeName1",
+        "zh_CN": "动力",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartTypeName2",
+        "zh_CN": "结构",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartTypeName3",
+        "zh_CN": "兵械",
+        "disable": 0
+    },
+    {
+        "Key": "uav_PartTypeName4",
+        "zh_CN": "算力",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeName1",
+        "zh_CN": "攻击力",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeName2",
+        "zh_CN": "防御力",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeName3",
+        "zh_CN": "最大生命",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeName4",
+        "zh_CN": "暴击率",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeName5",
+        "zh_CN": "暴击伤害",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeName6",
+        "zh_CN": "技能急速",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeName7",
+        "zh_CN": "技能伤害",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeName8",
+        "zh_CN": "常规技伤害",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeName9",
+        "zh_CN": "支援技伤害",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeName10",
+        "zh_CN": "爆发技伤害",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeName11",
+        "zh_CN": "爆发能量获取率",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeName12",
+        "zh_CN": "射击伤害",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeName13",
+        "zh_CN": "非瞄准射击伤害",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeName14",
+        "zh_CN": "瞄准射击伤害",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeName15",
+        "zh_CN": "射击速度",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeName16",
+        "zh_CN": "换弹速度",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeName17",
+        "zh_CN": "常规能量回复速度",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeName18",
+        "zh_CN": "附属单位强度",
+        "disable": 0
+    },
+    {
+        "Key": "uav_AttributeName19",
+        "zh_CN": "全元素类伤害加成",
+        "disable": 0
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "ID": 1,
+        "OrderNum": 2,
+        "Icon": 1001144,
+        "Name": "rogue3.season_playType_name1",
+        "DifficultList": [
+            100
+        ],
+        "OpenCondition": 2,
+        "SeasonLimit": 0,
+        "IsOpen": 1
+    },
+    {
+        "ID": 2,
+        "OrderNum": 1,
+        "Icon": 1001143,
+        "Name": "rogue3.season_playType_name2",
+        "DifficultList": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "OpenCondition": "",
+        "SeasonLimit": "",
+        "IsOpen": 1
+    },
+    {
+        "ID": 3,
+        "OrderNum": 3,
+        "Icon": 1001144,
+        "Name": "rogue3.season_playType_name3",
+        "DifficultList": "",
+        "OpenCondition": "",
+        "SeasonLimit": 1,
+        "IsOpen": 1
+    }
+]

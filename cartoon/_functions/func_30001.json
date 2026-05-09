@@ -1,0 +1,228 @@
+{
+  "pages": [
+    {
+      "id": 1,
+      "name": "Page1",
+      "max_action_id": 48,
+      "traces": [
+        {
+          "id": 1,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 17,
+                  "tpl_id": "screen_fade",
+                  "params": {
+                    "fade_type": "1",
+                    "style": "1",
+                    "time": "0"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 26,
+                  "tpl_id": "load_3d_npc",
+                  "params": {
+                    "name": "",
+                    "npcId": "{{role}}",
+                    "rot": "{{rotation}}",
+                    "pos": "{{position}}"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 25,
+                  "tpl_id": "set_player_3d_pos",
+                  "params": {
+                    "pos": "1",
+                    "npcId": "{{role}}"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 33,
+                  "tpl_id": "play_single_camera_sequence",
+                  "params": {
+                    "wait": "",
+                    "loop": "",
+                    "camera": "{{camtype}}",
+                    "targetId": "{{role}}"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 37,
+                  "tpl_id": "screen_fade",
+                  "params": {
+                    "fade_type": "2",
+                    "style": "1",
+                    "time": "1"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 18,
+                  "tpl_id": "play_bgm",
+                  "params": {
+                    "name": "{{music}}"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 24,
+                  "tpl_id": "load_3d_npc",
+                  "params": {
+                    "npcId": "{{player}}",
+                    "rot": "",
+                    "name": "",
+                    "suitid": "{{suitID}}",
+                    "pos": ""
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 27
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 30
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 34
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 19,
+                  "tpl_id": "hide_actor_by_name",
+                  "params": {
+                    "name": "area03_05_bp"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 22,
+                  "tpl_id": "hide_scene_character",
+                  "params": {
+                    "radius": "10000",
+                    "pos": "{{position}}"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 21
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 31
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 29,
+                  "tpl_id": "hide_character_in_screen"
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 20,
+                  "tpl_id": "show_or_hide_house_player",
+                  "params": {
+                    "type": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 28
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 32
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 36
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

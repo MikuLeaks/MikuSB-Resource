@@ -1,0 +1,68 @@
+[
+    {
+        "Id": 1,
+        "Explain": "待机",
+        "Type": "spine",
+        "Name": "sp_girl001_stand"
+    },
+    {
+        "Id": 2,
+        "Explain": "笑",
+        "Type": "spine",
+        "Name": "sp_girl001_xiao"
+    },
+    {
+        "Id": 3,
+        "Explain": "疑惑",
+        "Type": "spine",
+        "Name": "sp_girl001_yihuo"
+    },
+    {
+        "Id": 4,
+        "Explain": "待机-落寞",
+        "Type": "spine",
+        "Name": "sp_girl001_stand_luomo"
+    },
+    {
+        "Id": 5,
+        "Explain": "看啥呢",
+        "Type": "spine",
+        "Name": "sp_girl001_konghe"
+    },
+    {
+        "Id": 6,
+        "Explain": "玩小刀",
+        "Type": "spine",
+        "Name": "sp_girl001_knife"
+    },
+    {
+        "Id": 7,
+        "Explain": "鼓掌",
+        "Type": "spine",
+        "Name": "sp_girl001_guzhang"
+    },
+    {
+        "Id": 8,
+        "Explain": "打招呼",
+        "Type": "spine",
+        "Name": "sp_girl001_dazhaohu"
+    },
+    {
+        "Id": 100,
+        "Explain": "一次思考",
+        "Type": "custom_seq",
+        "Name": "2;3;5"
+    },
+    {
+        "Id": 101,
+        "Explain": "思考循环",
+        "Type": "custom_loop_last",
+        "Name": "8;7"
+    },
+    {
+        "Id": 102,
+        "Explain": "一次思考",
+        "Type": "custom_loop",
+        "Name": "2;3;5"
+    }
+]

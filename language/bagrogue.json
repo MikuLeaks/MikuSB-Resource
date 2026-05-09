@@ -1,0 +1,2167 @@
+[
+    {
+        "Key": "CoinName1",
+        "zh_CN": "漠北星砂",
+        "disable": 0
+    },
+    {
+        "Key": "CoinName1_des",
+        "zh_CN": "用于在 沙漠商队 购买物品\\n行走于沙漠之地时，偶尔能在细腻黄沙中发现闪着耀眼光辉的神奇沙砾",
+        "disable": 0
+    },
+    {
+        "Key": "CoinName1_use",
+        "zh_CN": "蜃梦笔谈专用道具",
+        "disable": 0
+    },
+    {
+        "Key": "CoinName2",
+        "zh_CN": "初晨露滴",
+        "disable": 0
+    },
+    {
+        "Key": "CoinName2_des",
+        "zh_CN": "用于在 密书残卷 兑换奖励\\n梦间初醒时滴落的神秘露水，不知为何会让密书残卷上的空白处显现出来一些文字",
+        "disable": 0
+    },
+    {
+        "Key": "CoinName2_use",
+        "zh_CN": "蜃梦笔谈专用道具",
+        "disable": 0
+    },
+    {
+        "Key": "CoinName3",
+        "zh_CN": "神秘古钥",
+        "disable": 0
+    },
+    {
+        "Key": "CoinName3_des",
+        "zh_CN": "用于解锁更好的奖励，也可以使用它速战完成固定类型的关卡\\n沙漠穿行中，偶然拾到的神秘古钥。使用它，也许可以打开某个埋藏的宝箱，又或打开某扇隐藏的大门",
+        "disable": 0
+    },
+    {
+        "Key": "CoinName3_use",
+        "zh_CN": "蜃梦笔谈专用道具",
+        "disable": 0
+    },
+    {
+        "Key": "BattleJigsawRewardName",
+        "zh_CN": "迷雾的回馈",
+        "disable": 0
+    },
+    {
+        "Key": "Other_BagTab",
+        "zh_CN": "秘宝归置",
+        "disable": 0
+    },
+    {
+        "Key": "Other_BuffTab",
+        "zh_CN": "组合效果",
+        "disable": 0
+    },
+    {
+        "Key": "Other_ManualTab1",
+        "zh_CN": "篆痕",
+        "disable": 0
+    },
+    {
+        "Key": "Other_ManualTab2",
+        "zh_CN": "秘宝",
+        "disable": 0
+    },
+    {
+        "Key": "Other_ManualTab3",
+        "zh_CN": "奇器",
+        "disable": 0
+    },
+    {
+        "Key": "Other_FinishTalentTitle",
+        "zh_CN": "篆痕总览",
+        "disable": 0
+    },
+    {
+        "Key": "Other_TaskTitle1",
+        "zh_CN": "限时任务",
+        "disable": 0
+    },
+    {
+        "Key": "massage_StoreCoinNotEnough",
+        "zh_CN": "漠北星砂不足",
+        "disable": 0
+    },
+    {
+        "Key": "massage_FlushCountNotEnough",
+        "zh_CN": "刷新次数不足",
+        "disable": 0
+    },
+    {
+        "Key": "massage_CraftingCountNotEnough",
+        "zh_CN": "可锻造次数不足",
+        "disable": 0
+    },
+    {
+        "Key": "massage_ReforgeCountNotEnough",
+        "zh_CN": "可淬炼次数不足",
+        "disable": 0
+    },
+    {
+        "Key": "massage_StartItemCountNotEnough",
+        "zh_CN": "预备秘宝已达上限",
+        "disable": 0
+    },
+    {
+        "Key": "massage_KeyCountNotEnough",
+        "zh_CN": "神秘古钥数量不足",
+        "disable": 0
+    },
+    {
+        "Key": "massage_ManualNotGet",
+        "zh_CN": "尚未获取",
+        "disable": 0
+    },
+    {
+        "Key": "massage_ResetTip",
+        "zh_CN": "重置将立即结算并获得奖励，是否继续？",
+        "disable": 0
+    },
+    {
+        "Key": "massage_StockroomNotEnough",
+        "zh_CN": "缓存空间不足",
+        "disable": 0
+    },
+    {
+        "Key": "massage_StockroomNotEnough_Store",
+        "zh_CN": "缓存空间已满，无法到达下一个节点。是否继续购买？",
+        "disable": 0
+    },
+    {
+        "Key": "massage_DiscardTip",
+        "zh_CN": "是否售出该秘宝？",
+        "disable": 0
+    },
+    {
+        "Key": "massage_ChooseNode",
+        "zh_CN": "选择后无法返回，是否继续？",
+        "disable": 0
+    },
+    {
+        "Key": "massage_NodeLock",
+        "zh_CN": "迷雾中的未来尚不可见",
+        "disable": 0
+    },
+    {
+        "Key": "massage_NodeNotSelected",
+        "zh_CN": "无法前往",
+        "disable": 0
+    },
+    {
+        "Key": "massage_NodeComplete",
+        "zh_CN": "已通过",
+        "disable": 0
+    },
+    {
+        "Key": "massage_NodeExecuted",
+        "zh_CN": "无法返回",
+        "disable": 0
+    },
+    {
+        "Key": "massage_ComposeTips",
+        "zh_CN": "熔铸后，增益效果将随机刷新，是否继续？",
+        "disable": 0
+    },
+    {
+        "Key": "massage_VolumeTransformTips",
+        "zh_CN": "背包空间已扩充至最大，再次获得的铭文拓印将转化为漠北星砂奖励",
+        "disable": 0
+    },
+    {
+        "Key": "massage_StartNewGame",
+        "zh_CN": "开始后无法中途调整行前整备，是否继续？",
+        "disable": 0
+    },
+    {
+        "Key": "massage_SaveVolumeFull",
+        "zh_CN": "外部缓存空间已达上限，无法开始",
+        "disable": 0
+    },
+    {
+        "Key": "massage_NoReforgeAffix",
+        "zh_CN": "至少选择1个增益效果",
+        "disable": 0
+    },
+    {
+        "Key": "AdventureDes1",
+        "zh_CN": "绿洲穿行",
+        "disable": 0
+    },
+    {
+        "Key": "AdventureDes2",
+        "zh_CN": "铭文拓印",
+        "disable": 0
+    },
+    {
+        "Key": "AdventureDes3",
+        "zh_CN": "北庭卫奇遇",
+        "disable": 0
+    },
+    {
+        "Key": "AdventureDes4",
+        "zh_CN": "珍奇馈赠",
+        "disable": 0
+    },
+    {
+        "Key": "AdventureDes5",
+        "zh_CN": "空灵的咏唱",
+        "disable": 0
+    },
+    {
+        "Key": "AdventureDes6",
+        "zh_CN": "彷徨时刻",
+        "disable": 0
+    },
+    {
+        "Key": "AdventureDes7",
+        "zh_CN": "最终抉择",
+        "disable": 0
+    },
+    {
+        "Key": "AdventureDes101",
+        "zh_CN": "你来到绿洲稍作休息，忽然看到一名衣着清凉的朔州少女站在一汪池水前。她笑盈盈地表示，这里的池水有神奇的功效。",
+        "disable": 0
+    },
+    {
+        "Key": "AdventureDes102",
+        "zh_CN": "前方传来了激烈的打斗声，你走近察看，发现一只白色的猫妖正和一只黑色的蛇妖打得不可开交，它们似乎还没发现你……",
+        "disable": 0
+    },
+    {
+        "Key": "AdventureDes103",
+        "zh_CN": "你发觉随身的水袋破了个洞，正在头疼的时候，忽然看到前方出现了一座小城。奇怪的是，这里的建筑都是黄金制成的……",
+        "disable": 0
+    },
+    {
+        "Key": "AdventureDes104",
+        "zh_CN": "你的眼前是一眼看不到尽头的峡谷，而在入口两侧，耸立着两座巨大的神像。“就此止步吧，凡人，你还没有准备好接受真相。”你听到了神像发出低沉而悲伤的声音……",
+        "disable": 0
+    },
+    {
+        "Key": "EventName1",
+        "zh_CN": "直面蜃景",
+        "disable": 0
+    },
+    {
+        "Key": "EventName2",
+        "zh_CN": "禁忌回响",
+        "disable": 0
+    },
+    {
+        "Key": "EventName3",
+        "zh_CN": "终局考验",
+        "disable": 0
+    },
+    {
+        "Key": "EventName4",
+        "zh_CN": "绿洲穿行",
+        "disable": 0
+    },
+    {
+        "Key": "EventName5",
+        "zh_CN": "珍奇馈赠",
+        "disable": 0
+    },
+    {
+        "Key": "EventName6",
+        "zh_CN": "铭文拓印",
+        "disable": 0
+    },
+    {
+        "Key": "EventName7",
+        "zh_CN": "空灵的咏唱",
+        "disable": 0
+    },
+    {
+        "Key": "EventName8",
+        "zh_CN": "奇遇抉择",
+        "disable": 0
+    },
+    {
+        "Key": "EventName9",
+        "zh_CN": "彷徨时刻",
+        "disable": 0
+    },
+    {
+        "Key": "EventName10",
+        "zh_CN": "沙漠商队",
+        "disable": 0
+    },
+    {
+        "Key": "EventName11",
+        "zh_CN": "随机事件",
+        "disable": 0
+    },
+    {
+        "Key": "EventDes1",
+        "zh_CN": "战胜敌方可获取漠北星砂和随机秘宝奖励",
+        "disable": 0
+    },
+    {
+        "Key": "EventDes2",
+        "zh_CN": "战胜精英敌方可获取大量漠北星砂与随机秘宝奖励",
+        "disable": 0
+    },
+    {
+        "Key": "EventDes3",
+        "zh_CN": "拨开眼前迷雾，获得最终的战斗胜利，拿到独属于自己的故事结局",
+        "disable": 0
+    },
+    {
+        "Key": "EventDes4",
+        "zh_CN": "在绿洲行进的途中，可以意外获得各种奖励",
+        "disable": 0
+    },
+    {
+        "Key": "EventDes5",
+        "zh_CN": "沿途搭救了村民，获得了一些珍贵的宝物",
+        "disable": 0
+    },
+    {
+        "Key": "EventDes6",
+        "zh_CN": "遗迹的铭文拓印帮助你更了解秘宝。获取后可以扩充背包，携带更多秘宝了",
+        "disable": 0
+    },
+    {
+        "Key": "EventDes7",
+        "zh_CN": "跟随歌声找到了一处藏宝地，可以获得极其珍贵的宝物",
+        "disable": 0
+    },
+    {
+        "Key": "EventDes8",
+        "zh_CN": "蜃景中的一切抉择，都会影响到迷雾中的未来与最终的结局",
+        "disable": 0
+    },
+    {
+        "Key": "EventDes9",
+        "zh_CN": "解决了异常事件，队员们得到了奖励但也承受了负面效果",
+        "disable": 0
+    },
+    {
+        "Key": "EventDes10",
+        "zh_CN": "可使用漠北星砂在商队处购买各类秘宝",
+        "disable": 0
+    },
+    {
+        "Key": "EventDes11",
+        "zh_CN": "前路被巨大风沙所遮挡，到达后才能看清来到了何处",
+        "disable": 0
+    },
+    {
+        "Key": "CommonEvent1",
+        "zh_CN": "探索收获",
+        "disable": 0
+    },
+    {
+        "Key": "CommonOption1",
+        "zh_CN": "漠北星砂*{1}",
+        "disable": 0
+    },
+    {
+        "Key": "CommonDes1",
+        "zh_CN": "在穿行绿洲的途中，你收集到一些漠北星砂。积攒一些后，可以用来从沙漠商队处购买物品",
+        "disable": 0
+    },
+    {
+        "Key": "CommonEvent2",
+        "zh_CN": "铭文拓印",
+        "disable": 0
+    },
+    {
+        "Key": "CommonOption2",
+        "zh_CN": "背包空间+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "CommonDes2",
+        "zh_CN": "神秘的铭文帮助你更加了解秘宝，你可以随身携带并利用更多秘宝进行冒险了",
+        "disable": 0
+    },
+    {
+        "Key": "CommonEvent3",
+        "zh_CN": "沙土之下",
+        "disable": 0
+    },
+    {
+        "Key": "CommonOption3",
+        "zh_CN": "神秘古钥+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "CommonDes3",
+        "zh_CN": "穿行沙漠的某一天，脚下感到了奇妙的异物感，在沙土之下，找到了一枚神秘古钥。",
+        "disable": 0
+    },
+    {
+        "Key": "StoryEvent1_1",
+        "zh_CN": "稍作休息",
+        "disable": 0
+    },
+    {
+        "Key": "StoryOption1_1",
+        "zh_CN": "漠北星砂*{1}",
+        "disable": 0
+    },
+    {
+        "Key": "StoryDes1_1",
+        "zh_CN": "你在水边休息了片刻，感觉身体变得轻盈了许多，能够携带的物品也增加了，不过少女似乎不太满意。",
+        "disable": 0
+    },
+    {
+        "Key": "StoryEvent1_2",
+        "zh_CN": "泡澡养神",
+        "disable": 0
+    },
+    {
+        "Key": "StoryOption1_2",
+        "zh_CN": "漠北星砂*{1}",
+        "disable": 0
+    },
+    {
+        "Key": "StoryDes1_2",
+        "zh_CN": "你在氤氲的水汽中逐渐睡去，醒来时只觉得腰酸背痛，而少女也不见踪影，只留下一堆衣物和金币。",
+        "disable": 0
+    },
+    {
+        "Key": "StoryEvent1_3",
+        "zh_CN": "调查少女",
+        "disable": 0
+    },
+    {
+        "Key": "StoryOption1_3",
+        "zh_CN": "背包空间+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "StoryDes1_3",
+        "zh_CN": "你发现少女的身后有一条尾巴，被戳穿后，少女变成白狐逃走了，你对北庭卫的认识又多了几分。",
+        "disable": 0
+    },
+    {
+        "Key": "StoryEvent2_1",
+        "zh_CN": "协助黑蛇",
+        "disable": 0
+    },
+    {
+        "Key": "StoryOption2_1",
+        "zh_CN": "背包空间+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "StoryDes2_1",
+        "zh_CN": "你和黑蛇联手打败了白猫，作为感谢，黑蛇用智慧协助你扩充了背包。",
+        "disable": 0
+    },
+    {
+        "Key": "StoryEvent2_2",
+        "zh_CN": "协助白猫",
+        "disable": 0
+    },
+    {
+        "Key": "StoryOption2_2",
+        "zh_CN": "漠北星砂*{1}",
+        "disable": 0
+    },
+    {
+        "Key": "StoryDes2_2",
+        "zh_CN": "你和白猫联手打败了黑蛇，作为感谢，白猫赠送了你一些珍宝。",
+        "disable": 0
+    },
+    {
+        "Key": "StoryEvent2_3",
+        "zh_CN": "调停矛盾",
+        "disable": 0
+    },
+    {
+        "Key": "StoryOption2_3",
+        "zh_CN": "背包空间+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "StoryDes2_3",
+        "zh_CN": "你阻止了双方，与它们沟通后你才知道，它们似乎都认为是对方把自己变成了怪物。解决了误会后，对北庭卫的认识又多了几分。",
+        "disable": 0
+    },
+    {
+        "Key": "StoryEvent3_1",
+        "zh_CN": "远离那里",
+        "disable": 0
+    },
+    {
+        "Key": "StoryOption3_1",
+        "zh_CN": "背包空间+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "StoryDes3_1",
+        "zh_CN": "你感觉那座黄金城很古怪，于是绕开了那里。没走多远，你在一个土地庙前幸运地发现了一个装满水的葫芦，解决了补给问题。",
+        "disable": 0
+    },
+    {
+        "Key": "StoryEvent3_2",
+        "zh_CN": "进城补给",
+        "disable": 0
+    },
+    {
+        "Key": "StoryOption3_2",
+        "zh_CN": "漠北星砂*{1}",
+        "disable": 0
+    },
+    {
+        "Key": "StoryDes3_2",
+        "zh_CN": "你决定进入黄金城。然而，城中并没有居民，也完全没有水源和食物。你只能带上各种黄金制品离开了这里。",
+        "disable": 0
+    },
+    {
+        "Key": "StoryEvent3_3",
+        "zh_CN": "观察外围",
+        "disable": 0
+    },
+    {
+        "Key": "StoryOption3_3",
+        "zh_CN": "漠北星砂*{1}",
+        "disable": 0
+    },
+    {
+        "Key": "StoryDes3_3",
+        "zh_CN": "你在城外遇到了一支商队，他们告诉你，不久前，这座城的居民在一夜之间都变成了老鼠，现在为了求生都离开了这里。你对北庭卫的认识又多了几分。",
+        "disable": 0
+    },
+    {
+        "Key": "StoryEvent4_1",
+        "zh_CN": "无视它们",
+        "disable": 0
+    },
+    {
+        "Key": "StoryOption4_1",
+        "zh_CN": "漠北星砂*{1}",
+        "disable": 0
+    },
+    {
+        "Key": "StoryDes4_1",
+        "zh_CN": "你无视了神像的声音，朝着山谷深处前进。直到你走出峡谷，也没有发生任何事情，你觉得一身轻松。",
+        "disable": 0
+    },
+    {
+        "Key": "StoryEvent4_2",
+        "zh_CN": "接受告诫",
+        "disable": 0
+    },
+    {
+        "Key": "StoryOption4_2",
+        "zh_CN": "背包空间+{1}",
+        "disable": 0
+    },
+    {
+        "Key": "StoryDes4_2",
+        "zh_CN": "你决定绕开这里。在回程的路上，你又在沿途发现了一些之前没有注意到的宝藏。",
+        "disable": 0
+    },
+    {
+        "Key": "StoryEvent4_3",
+        "zh_CN": "攻击神像",
+        "disable": 0
+    },
+    {
+        "Key": "StoryOption4_3",
+        "zh_CN": "漠北星砂*{1}",
+        "disable": 0
+    },
+    {
+        "Key": "StoryDes4_3",
+        "zh_CN": "你朝着神像扣下扳机，枪声响起，却只看到几只怪鸟从神像背后飞出，原来刚才的声音是它们发出的。你放下心继续前进，对北庭卫的了解又多了几分。",
+        "disable": 0
+    },
+    {
+        "Key": "EndingName1",
+        "zh_CN": "大梦初醒",
+        "disable": 0
+    },
+    {
+        "Key": "EndingName2",
+        "zh_CN": "锋刃归鞘",
+        "disable": 0
+    },
+    {
+        "Key": "EndingName3",
+        "zh_CN": "月光终曲",
+        "disable": 0
+    },
+    {
+        "Key": "EndingName4",
+        "zh_CN": "蜃梦终焉",
+        "disable": 0
+    },
+    {
+        "Key": "EndingDes1",
+        "zh_CN": "浓雾再次升起，你又回到了熟悉的篝火前，而那些或真或假的故事的结局已经无人知晓。",
+        "disable": 0
+    },
+    {
+        "Key": "EndingDes2",
+        "zh_CN": "你让誓死战斗的甲胄得到解脱，那些迷失在黄沙中的士兵终于得以安息。",
+        "disable": 0
+    },
+    {
+        "Key": "EndingDes3",
+        "zh_CN": "你破除了永无止境的循环，在温柔的月光之下，孤独的少女终于不必再哭泣。",
+        "disable": 0
+    },
+    {
+        "Key": "EndingDes4",
+        "zh_CN": "你终结了伪神，也解除了这个世界的诅咒。迷雾逐渐散去，变成妖怪的人类得以恢复。",
+        "disable": 0
+    },
+    {
+        "Key": "FinishDataName1",
+        "zh_CN": "累计通过节点",
+        "disable": 0
+    },
+    {
+        "Key": "FinishDataName2",
+        "zh_CN": "累计战斗回合数",
+        "disable": 0
+    },
+    {
+        "Key": "FinishDataName3",
+        "zh_CN": "累计收集秘宝数量",
+        "disable": 0
+    },
+    {
+        "Key": "FinishDataName4",
+        "zh_CN": "累计增益效果数量",
+        "disable": 0
+    },
+    {
+        "Key": "FinishDataName5",
+        "zh_CN": "当前背包空间",
+        "disable": 0
+    },
+    {
+        "Key": "TeamBuffTitle1",
+        "zh_CN": "获得负面效果：{1}",
+        "disable": 0
+    },
+    {
+        "Key": "TeamBuffTitle2",
+        "zh_CN": "获得负面效果：{1}",
+        "disable": 0
+    },
+    {
+        "Key": "TeamBuffTitle3",
+        "zh_CN": "获得负面效果：{1}",
+        "disable": 0
+    },
+    {
+        "Key": "TeamBuffName1",
+        "zh_CN": "丢三落四",
+        "disable": 0
+    },
+    {
+        "Key": "TeamBuffDes1",
+        "zh_CN": "队员弹容降低{1}%，持续5回合",
+        "disable": 0
+    },
+    {
+        "Key": "TeamBuffName2",
+        "zh_CN": "寒夜失温",
+        "disable": 0
+    },
+    {
+        "Key": "TeamBuffDes2",
+        "zh_CN": "队员射击速度降低{1}%，持续5回合",
+        "disable": 0
+    },
+    {
+        "Key": "TeamBuffName3",
+        "zh_CN": "有气无力",
+        "disable": 0
+    },
+    {
+        "Key": "TeamBuffDes3",
+        "zh_CN": "队员造成的最终伤害降低{1}%，持续5回合",
+        "disable": 0
+    },
+    {
+        "Key": "TeamBuffName4",
+        "zh_CN": "伤痕累累",
+        "disable": 0
+    },
+    {
+        "Key": "TeamBuffDes4",
+        "zh_CN": "队员受到的最终伤害增加{1}%，持续5回合",
+        "disable": 0
+    },
+    {
+        "Key": "TeamBuffName5",
+        "zh_CN": "士气低迷",
+        "disable": 0
+    },
+    {
+        "Key": "TeamBuffDes5",
+        "zh_CN": "队员上阵射击时，回复的爆发能量降低{1}%，持续5回合",
+        "disable": 0
+    },
+    {
+        "Key": "TeamBuffName6",
+        "zh_CN": "精神衰弱",
+        "disable": 0
+    },
+    {
+        "Key": "TeamBuffDes6",
+        "zh_CN": "队员所有技能的使用间隔增加{1}%，持续5回合",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName101",
+        "zh_CN": "钻石",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName102",
+        "zh_CN": "珍珠",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName103",
+        "zh_CN": "猫眼石",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName104",
+        "zh_CN": "白玉棋子",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName105",
+        "zh_CN": "飞羽",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName106",
+        "zh_CN": "隼爪",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName107",
+        "zh_CN": "猛兽利齿",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName108",
+        "zh_CN": "绿水晶",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName109",
+        "zh_CN": "菊石",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName110",
+        "zh_CN": "异极矿石",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName111",
+        "zh_CN": "棺冢之钥",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName112",
+        "zh_CN": "探险镐",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName113",
+        "zh_CN": "异兽化石",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName114",
+        "zh_CN": "巨象獠牙",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName115",
+        "zh_CN": "仙人掌",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName116",
+        "zh_CN": "奇异的鳞片",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName117",
+        "zh_CN": "奇异的兽角",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName118",
+        "zh_CN": "枯木枝",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName119",
+        "zh_CN": "黄金城徽章",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName120",
+        "zh_CN": "刚玉镖",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName121",
+        "zh_CN": "晶石蕈",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName122",
+        "zh_CN": "红宝石",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName123",
+        "zh_CN": "残损古籍",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName124",
+        "zh_CN": "异色矿石",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName125",
+        "zh_CN": "转录芯片",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName126",
+        "zh_CN": "锐爪",
+        "disable": 0
+    },
+    {
+        "Key": "JigsawName127",
+        "zh_CN": "指虎",
+        "disable": 0
+    },
+    {
+        "Key": "TalentName1",
+        "zh_CN": "生机",
+        "disable": 0
+    },
+    {
+        "Key": "TalentName2",
+        "zh_CN": "甲胄",
+        "disable": 0
+    },
+    {
+        "Key": "TalentName3",
+        "zh_CN": "宝石",
+        "disable": 0
+    },
+    {
+        "Key": "TalentName4",
+        "zh_CN": "猎枪",
+        "disable": 0
+    },
+    {
+        "Key": "TalentName5",
+        "zh_CN": "秘药",
+        "disable": 0
+    },
+    {
+        "Key": "TalentName6",
+        "zh_CN": "神秘礼器",
+        "disable": 0
+    },
+    {
+        "Key": "TalentName7",
+        "zh_CN": "远古科技",
+        "disable": 0
+    },
+    {
+        "Key": "TalentName8",
+        "zh_CN": "风雪",
+        "disable": 0
+    },
+    {
+        "Key": "TalentName9",
+        "zh_CN": "雷电",
+        "disable": 0
+    },
+    {
+        "Key": "TalentName10",
+        "zh_CN": "学者",
+        "disable": 0
+    },
+    {
+        "Key": "TalentName11",
+        "zh_CN": "锋刃",
+        "disable": 0
+    },
+    {
+        "Key": "TalentDes1",
+        "zh_CN": "队员自身周围50米范围内每有1个敌方目标，则攻击力提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "TalentDes2",
+        "zh_CN": "队员受到的来自敌方目标的伤害，将以{1}倍返还给该敌方目标",
+        "disable": 0
+    },
+    {
+        "Key": "TalentDes3",
+        "zh_CN": "每秒对自身周围20米范围内的目标造成自身最大生命{1}%的特异类型伤害。敌方目标距离自身越近，伤害越高。对10米范围内的目标造成的伤害提升至最大生命的{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "TalentDes4",
+        "zh_CN": "每10秒随机标记1个目标，射击对其造成的伤害提升至{1}倍，每次射击后标记消失，同时随机另外标记1个目标，每个目标10秒内无法重复被标记",
+        "disable": 0
+    },
+    {
+        "Key": "TalentDes5",
+        "zh_CN": "对敌方目标造成伤害后，回复本次伤害{1}%的生命",
+        "disable": 0
+    },
+    {
+        "Key": "TalentDes6",
+        "zh_CN": "队员全部防御力降低至0，攻击力增加等同于{1}倍防御力的数值",
+        "disable": 0
+    },
+    {
+        "Key": "TalentDes7",
+        "zh_CN": "队员技能命中目标并造成高热类型伤害时，额外施加1层灼烧效果，每秒造成敌方目标攻击力{1}%的高热类型伤害，并对敌方目标周围10米范围内最近的目标施加1层灼烧效果。该效果持续30秒，多层效果叠加，不会刷新效果持续时间",
+        "disable": 0
+    },
+    {
+        "Key": "TalentDes8",
+        "zh_CN": "队员对敌方目标造成低温类型伤害时，会施加持续{1}秒的冻结效果，对每个敌方目标仅生效1次。对处于冻结效果的敌方目标造成的伤害提升{2}%",
+        "disable": 0
+    },
+    {
+        "Key": "TalentDes9",
+        "zh_CN": "队员每3秒对自身周围10米范围内距离最近的敌方目标造成自身攻击力{1}%的电击类型伤害，并传递到该敌方目标周围10米范围内最近的另一目标，每次造成的伤害降低50%，最多可传递3次",
+        "disable": 0
+    },
+    {
+        "Key": "TalentDes10",
+        "zh_CN": "分别获得10层【刃】效果和【盾】效果，每层【刃】效果使攻击力提升{1}%，每层【盾】效果使防御力提升{2}%；每次使用技能，1层【盾】效果转化为【刃】效果，每当受到伤害，则1层【刃】效果转化为【盾】效果",
+        "disable": 0
+    },
+    {
+        "Key": "TalentDes11",
+        "zh_CN": "通过射击造成动能类型伤害时，对敌方目标施加【创痍】效果，【创痍】每秒对其造成队员攻击力{1}%的动能类型伤害，最多叠加10层",
+        "disable": 0
+    },
+    {
+        "Key": "TalentDes12",
+        "zh_CN": "每次进入战斗时，队员会召唤1个助战单元持续跟随自身，助战单元每2秒对敌方造成队员攻击力{1}%的伤害",
+        "disable": 0
+    },
+    {
+        "Key": "TalentDes13",
+        "zh_CN": "队员射击或技能命中目标并造成高热类型伤害时，额外施加1层灼烧效果，每层灼烧效果对敌方目标造成自身攻击力{1}%的高热类型伤害。灼烧效果叠加至80层时，清空层数并附加一次“炎爆”，造成队员攻击力{2}%的高热类型伤害",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes1",
+        "zh_CN": "攻击力提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes2",
+        "zh_CN": "防御力提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes3",
+        "zh_CN": "最大生命提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes4",
+        "zh_CN": "暴击率提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes5",
+        "zh_CN": "暴击伤害增幅提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes6",
+        "zh_CN": "技能急速提升{1}",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes7",
+        "zh_CN": "技能伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes8",
+        "zh_CN": "常规技造成伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes9",
+        "zh_CN": "支援技造成伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes10",
+        "zh_CN": "爆发技造成伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes11",
+        "zh_CN": "爆发能量获取率提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes12",
+        "zh_CN": "射击伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes13",
+        "zh_CN": "非瞄准射击伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes14",
+        "zh_CN": "瞄准射击伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes15",
+        "zh_CN": "射击速度提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes16",
+        "zh_CN": "换弹速度提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes17",
+        "zh_CN": "常规能量回复速度提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes18",
+        "zh_CN": "附属单位强度提升{1}",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes19",
+        "zh_CN": "秘宝自身的基础属性提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes20",
+        "zh_CN": "秘宝自身的篆刻经验提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes21",
+        "zh_CN": "秘宝自身的基础属性和篆刻经验均提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes22",
+        "zh_CN": "使紧邻自身的其他秘宝基础属性提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes23",
+        "zh_CN": "使紧邻自身的其他秘宝篆刻经验提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "AffixDes24",
+        "zh_CN": "使紧邻自身的其他秘宝基础属性和篆刻经验均提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName1",
+        "zh_CN": "斩断梦魇",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName2",
+        "zh_CN": "遗迹考古",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName3",
+        "zh_CN": "遗迹考古",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName4",
+        "zh_CN": "遗迹考古",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName5",
+        "zh_CN": "遗迹考古",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName6",
+        "zh_CN": "遗迹考古",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName7",
+        "zh_CN": "遗迹考古",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName8",
+        "zh_CN": "遗迹考古",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName9",
+        "zh_CN": "遗迹考古",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName10",
+        "zh_CN": "遗迹考古",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName11",
+        "zh_CN": "遗迹考古",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName12",
+        "zh_CN": "手工匠人",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName13",
+        "zh_CN": "手工匠人",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName14",
+        "zh_CN": "手工匠人",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName15",
+        "zh_CN": "藏品猎手",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName16",
+        "zh_CN": "藏品猎手",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName17",
+        "zh_CN": "藏品猎手",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName18",
+        "zh_CN": "藏品猎手",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName19",
+        "zh_CN": "重装出行",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName20",
+        "zh_CN": "重装出行",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName21",
+        "zh_CN": "重装出行",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName22",
+        "zh_CN": "重装出行",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName23",
+        "zh_CN": "生存专家",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName24",
+        "zh_CN": "从零开始",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName25",
+        "zh_CN": "真理探寻",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName26",
+        "zh_CN": "精工雕琢",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName27",
+        "zh_CN": "精工雕琢",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName28",
+        "zh_CN": "精工雕琢",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName29",
+        "zh_CN": "大收藏家",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName30",
+        "zh_CN": "大收藏家",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName31",
+        "zh_CN": "大收藏家",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName32",
+        "zh_CN": "雕刻师",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName33",
+        "zh_CN": "雕刻师",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName34",
+        "zh_CN": "雕刻师",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes1",
+        "zh_CN": "累计完成{1}次及以上【蜃梦笔谈】的战斗关",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes2",
+        "zh_CN": "累计获得{1}个初晨露滴",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes3",
+        "zh_CN": "累计获得{1}个初晨露滴",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes4",
+        "zh_CN": "累计获得{1}个初晨露滴",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes5",
+        "zh_CN": "累计获得{1}个初晨露滴",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes6",
+        "zh_CN": "累计获得{1}个初晨露滴",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes7",
+        "zh_CN": "累计获得{1}个初晨露滴",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes8",
+        "zh_CN": "累计获得{1}个初晨露滴",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes9",
+        "zh_CN": "累计获得{1}个初晨露滴",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes10",
+        "zh_CN": "累计获得{1}个初晨露滴",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes11",
+        "zh_CN": "累计获得{1}个初晨露滴",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes12",
+        "zh_CN": "累计熔铸秘宝{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes13",
+        "zh_CN": "累计熔铸秘宝{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes14",
+        "zh_CN": "累计熔铸秘宝{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes15",
+        "zh_CN": "累计获得5级秘宝{1}个",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes16",
+        "zh_CN": "累计获得5级秘宝{1}个",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes17",
+        "zh_CN": "累计获得5级秘宝{1}个",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes18",
+        "zh_CN": "累计获得5级秘宝{1}个",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes19",
+        "zh_CN": "背包空间达到{1}格",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes20",
+        "zh_CN": "背包空间达到{1}格",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes21",
+        "zh_CN": "背包空间达到{1}格",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes22",
+        "zh_CN": "背包空间达到{1}格",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes23",
+        "zh_CN": "队伍同时叠加{1}个及{1}个以上的限时负面效果",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes24",
+        "zh_CN": "达成“月光终曲”结局",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes25",
+        "zh_CN": "达成“蜃梦终焉”结局",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes26",
+        "zh_CN": "在1局【蜃梦笔谈】中，累计{1}个篆痕达到最高等级",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes27",
+        "zh_CN": "在1局【蜃梦笔谈】中，累计{1}个篆痕达到最高等级",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes28",
+        "zh_CN": "在1局【蜃梦笔谈】中，累计{1}个篆痕达到最高等级",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes29",
+        "zh_CN": "累计获得{1}种不同的秘宝",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes30",
+        "zh_CN": "累计获得{1}种不同的秘宝",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes31",
+        "zh_CN": "累计获得{1}种不同的秘宝",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes32",
+        "zh_CN": "在1局【蜃梦笔谈】中，累计获得{1}种等级至少为1级的篆痕",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes33",
+        "zh_CN": "在1局【蜃梦笔谈】中，累计获得{1}种等级至少为1级的篆痕",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes34",
+        "zh_CN": "在1局【蜃梦笔谈】中，累计获得{1}种等级至少为1级的篆痕",
+        "disable": 0
+    },
+    {
+        "Key": "HelpDes1",
+        "zh_CN": "在光怪陆离的幻境中，经历一个个奇遇，解决掉拦路的敌人们，获得秘宝，直至探索出蜃梦的真相。",
+        "disable": 0
+    },
+    {
+        "Key": "HelpDes2",
+        "zh_CN": "蜃景中的路线复杂多变，需要认真选择前进的方向",
+        "disable": 0
+    },
+    {
+        "Key": "HelpDes3",
+        "zh_CN": "在奇遇抉择中的选择会对未来产生影响，最终导向不同的结局",
+        "disable": 0
+    },
+    {
+        "Key": "HelpDes4",
+        "zh_CN": "冒险途中将会获得各种各样的秘宝，可以依靠秘宝获得能力提升，也可组合激活不同类型的篆痕",
+        "disable": 0
+    },
+    {
+        "Key": "HelpDes5",
+        "zh_CN": "秘宝放入背包后，会激活自身各种属性与增益效果。背包空间有限，请尽可能利用好背包空间",
+        "disable": 0
+    },
+    {
+        "Key": "HelpDes6",
+        "zh_CN": "秘宝以不同的方式摆放与排列，也会获得不同的组合效果。想要获得更强的基础属性与更多的增益效果，请多多尝试不同的归置方式",
+        "disable": 0
+    },
+    {
+        "Key": "HelpDes7",
+        "zh_CN": "在冒险途中，有机会获得神秘的铭文拓印，可以用来增加背包空间",
+        "disable": 0
+    },
+    {
+        "Key": "HelpDes8",
+        "zh_CN": "缓存空间中可以存储暂时不被归置进入背包的物品，但缓存空间有限，可以选择不重要的珍宝售出",
+        "disable": 0
+    },
+    {
+        "Key": "HelpDes9",
+        "zh_CN": "获得初晨露滴完成密书残卷中的任务，可以得到各种奖励",
+        "disable": 0
+    },
+    {
+        "Key": "HelpDes10",
+        "zh_CN": "当感受到冒险有些吃力时，可以出战试用队员",
+        "disable": 0
+    },
+    {
+        "Key": "HelpDes11",
+        "zh_CN": "通过篆刻经验，可以激活不同类型的篆痕，以提升能力。点击篆痕可查看详情",
+        "disable": 0
+    },
+    {
+        "Key": "HelpDes12",
+        "zh_CN": "在经历一些特殊的冒险后，将会获得比秘宝更强力的“奇器”，背包中最多可以放入3个奇器",
+        "disable": 0
+    },
+    {
+        "Key": "HelpDes13",
+        "zh_CN": "每完成1局【蜃梦笔谈】时，可选择留存1个秘宝以供下局使用",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName1",
+        "zh_CN": "含羞草",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName2",
+        "zh_CN": "生花",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName3",
+        "zh_CN": "荆棘",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName4",
+        "zh_CN": "盾牌",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName5",
+        "zh_CN": "珠宝耳环",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName6",
+        "zh_CN": "宝石吊坠",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName7",
+        "zh_CN": "猎鹰",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName8",
+        "zh_CN": "鹿角",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName9",
+        "zh_CN": "短兵",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName10",
+        "zh_CN": "双剑",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName11",
+        "zh_CN": "冠冕",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName12",
+        "zh_CN": "舞会面具",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName13",
+        "zh_CN": "火石",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName14",
+        "zh_CN": "炙热炉火",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName15",
+        "zh_CN": "零度冰晶",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName16",
+        "zh_CN": "极寒冰晶",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName17",
+        "zh_CN": "超导晶石",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName18",
+        "zh_CN": "电石",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName19",
+        "zh_CN": "羽毛笔",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName20",
+        "zh_CN": "羊皮卷轴",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName21",
+        "zh_CN": "植物化石",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName22",
+        "zh_CN": "头盔",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName23",
+        "zh_CN": "锻造锤",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName24",
+        "zh_CN": "飓风",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName25",
+        "zh_CN": "火炬",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName26",
+        "zh_CN": "巧器",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName27",
+        "zh_CN": "望远镜",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName28",
+        "zh_CN": "许愿灯",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName29",
+        "zh_CN": "宝匣",
+        "disable": 0
+    },
+    {
+        "Key": "RelicName30",
+        "zh_CN": "兽形图腾",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes1",
+        "zh_CN": "队员自身周围50米范围内每有1个敌方目标，则防御力提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes2",
+        "zh_CN": "【生机】类篆痕生效时，视作队员周围额外有{1}个敌方目标",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes3",
+        "zh_CN": "【宝石】类篆痕造成的伤害增加{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes4",
+        "zh_CN": "队员自身15米范围内的敌方目标全类型抗性降低{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes5",
+        "zh_CN": "【甲胄】类篆痕造成伤害时，同时对目标8米范围内的目标造成伤害",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes6",
+        "zh_CN": "队员当前生命值越低，【甲胄】类篆痕造成的伤害越高，伤害最高提升{1}%",
+        "disable": 1
+    },
+    {
+        "Key": "RelicAffixDes7",
+        "zh_CN": "敌方目标生命高于70%时，队员对其造成的最终伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes8",
+        "zh_CN": "换弹后，下一发子弹必定造成暴击",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes9",
+        "zh_CN": "【创痍】叠满层时，非敌方首领的目标立即被击倒",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes10",
+        "zh_CN": "【创痍】可以叠加的最大层数减少{1}层，但每层造成伤害翻倍",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes11",
+        "zh_CN": "队员单次受到的伤害最高不超过自身最大生命的{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes12",
+        "zh_CN": "队员生命低于50%时，获得1个最大生命{1}%的护盾，每场战斗仅触发1次",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes13",
+        "zh_CN": "队员对敌方目标造成任意类型伤害，都可以让【远古科技】类篆痕激活",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes14",
+        "zh_CN": "【远古科技】类篆痕激活对敌方施加的灼烧效果使目标的高热抗性降低{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes15",
+        "zh_CN": "【雷电】类篆痕只对队员自身周围最近的敌方目标生效，但伤害提升100%",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes16",
+        "zh_CN": "【雷电】类篆痕激活造成伤害的触发间隔由原来的3秒降低为{1}秒",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes17",
+        "zh_CN": "【风雪】类篆痕激活所冻结的敌方目标低温抗性降低{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes18",
+        "zh_CN": "队员对敌方目标造成任意类型伤害，都可以让【风雪】类篆痕激活",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes19",
+        "zh_CN": "每放入背包内1个有【学者】篆痕的秘宝，队员的射击速度提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes20",
+        "zh_CN": "每放入背包内1个有【学者】篆痕的秘宝，队员的技能伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes21",
+        "zh_CN": "【生机】类篆痕等级达到上限后，每获得1点篆刻经验，附属单位强度提升{1}",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes22",
+        "zh_CN": "【甲胄】类篆痕等级达到上限后，每获得1点篆刻经验，队员防御力增加{1}",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes23",
+        "zh_CN": "当背包内每存在1个【锋刃】类篆痕的秘宝，队员的射击伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes24",
+        "zh_CN": "【风雪】类篆痕等级达到上限后，每获得1点篆刻经验，队员造成的低温类型伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes25",
+        "zh_CN": "【远古科技】类篆痕等级达到上限后，每获得1点篆刻经验，队员造成的高热类型伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes26",
+        "zh_CN": "【雷电】类篆痕等级达到上限后，每获得1点篆刻经验，队员造成的电击类型伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes27",
+        "zh_CN": "击倒敌方目标时，有15%的概率获得1个急救瓶，可回复当前队员{1}%最大生命",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes28",
+        "zh_CN": "【神秘礼器】类篆痕等级达到上限后，每获得1点篆刻经验，队员对目标造成的伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes29",
+        "zh_CN": "【宝石】类篆痕等级达到上限后，每获得1点篆刻经验，队员生命上限提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes30",
+        "zh_CN": "【猎枪】类篆痕等级达到上限后，每获得1点篆刻经验，队员暴击伤害提升{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes31",
+        "zh_CN": "【生机】类篆痕生效时，召唤的助战单元攻击速度翻倍",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes32",
+        "zh_CN": "【生机】类篆痕生效时，额外召唤1个助战单元",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes33",
+        "zh_CN": "【远古科技】类篆痕生效时，不再清空灼烧效果的层数也不再附加“炎爆”，但灼烧效果造成的伤害提升至{1}%",
+        "disable": 0
+    },
+    {
+        "Key": "RelicAffixDes34",
+        "zh_CN": "对敌方首领造成低温类型伤害时，使其受到的伤害增加{1}%，持续10s",
+        "disable": 0
+    },
+    {
+        "Key": "FinishNodeOption1",
+        "zh_CN": "新的开始",
+        "disable": 0
+    },
+    {
+        "Key": "FinishNodeDes1",
+        "zh_CN": "完成本局蜃梦笔谈，并再次沉入梦境",
+        "disable": 0
+    },
+    {
+        "Key": "FinishNodeOption2",
+        "zh_CN": "梦魇试炼",
+        "disable": 0
+    },
+    {
+        "Key": "FinishNodeDes2",
+        "zh_CN": "继续踏入试炼之境，寻求自身极限\\n越快完成试炼获得越多积分；当前关卡无额外奖励\\n最高积分：{1}\\n当前积分：{2}",
+        "disable": 0
+    },
+    {
+        "Key": "AdventureDes8",
+        "zh_CN": "岔路口",
+        "disable": 0
+    },
+    {
+        "Key": "RoadoOption1",
+        "zh_CN": "废弃大楼",
+        "disable": 0
+    },
+    {
+        "Key": "RoadoOption2",
+        "zh_CN": "幽暗的洞窟",
+        "disable": 0
+    },
+    {
+        "Key": "RoadoOption3",
+        "zh_CN": "死寂小径",
+        "disable": 0
+    },
+    {
+        "Key": "RoadoOption4",
+        "zh_CN": "蜃梦终点",
+        "disable": 0
+    },
+    {
+        "Key": "RoadoDes1",
+        "zh_CN": "点亮火烛谨慎前行，却在即将离开洞窟时骤然遭险",
+        "disable": 0
+    },
+    {
+        "Key": "RoadoDes2",
+        "zh_CN": "点亮火烛谨慎前行，却在即将离开洞窟时骤然遭险",
+        "disable": 0
+    },
+    {
+        "Key": "RoadoDes3",
+        "zh_CN": "前行路中小心翼翼，危机却已显于面前",
+        "disable": 0
+    },
+    {
+        "Key": "RoadoDes4",
+        "zh_CN": "前行路中小心翼翼，危机却已显于面前",
+        "disable": 0
+    },
+    {
+        "Key": "RoadoDes5",
+        "zh_CN": "已经到了旅程的终点，该面对迷雾之后的试炼了",
+        "disable": 0
+    },
+    {
+        "Key": "UnlockDes",
+        "zh_CN": "隐藏的选项",
+        "disable": 0
+    },
+    {
+        "Key": "HideOptionDes",
+        "zh_CN": "似乎还缺少一些重要信息，还无法抵达那个故事的结局",
+        "disable": 0
+    },
+    {
+        "Key": "EventName12",
+        "zh_CN": "梦魇回廊",
+        "disable": 0
+    },
+    {
+        "Key": "EventDes12",
+        "zh_CN": "通关梦魇回廊，根据通关成绩可获得不同数量的随机秘宝和漠北星砂奖励",
+        "disable": 0
+    },
+    {
+        "Key": "EventName13",
+        "zh_CN": "禁忌震鸣",
+        "disable": 0
+    },
+    {
+        "Key": "EventDes13",
+        "zh_CN": "通关禁忌震鸣可获得大量漠北星砂与随机奇器奖励",
+        "disable": 0
+    },
+    {
+        "Key": "EventDes14",
+        "zh_CN": "可使用漠北星砂在商队处购买各类秘宝，同时可以进入铸造处，通过淬炼、锻造使已有秘宝获得更好的属性",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName35",
+        "zh_CN": "逆天改命",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName36",
+        "zh_CN": "逆天改命",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName37",
+        "zh_CN": "逆天改命",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName38",
+        "zh_CN": "机巧天工",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName39",
+        "zh_CN": "机巧天工",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName40",
+        "zh_CN": "机巧天工",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName41",
+        "zh_CN": "无惧梦魇",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName42",
+        "zh_CN": "无惧梦魇",
+        "disable": 0
+    },
+    {
+        "Key": "TaskName43",
+        "zh_CN": "无惧梦魇",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes35",
+        "zh_CN": "累计在铸造处进行{1}次淬炼",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes36",
+        "zh_CN": "累计在铸造处进行{1}次淬炼",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes37",
+        "zh_CN": "累计在铸造处进行{1}次淬炼",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes38",
+        "zh_CN": "累计在铸造处进行{1}次锻造",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes39",
+        "zh_CN": "累计在铸造处进行{1}次锻造",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes40",
+        "zh_CN": "累计在铸造处进行{1}次锻造",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes41",
+        "zh_CN": "在梦魇试炼中获得的积分超过{1}",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes42",
+        "zh_CN": "在梦魇试炼中获得的积分超过{1}",
+        "disable": 0
+    },
+    {
+        "Key": "TaskDes43",
+        "zh_CN": "在梦魇试炼中获得的积分超过{1}",
+        "disable": 0
+    },
+    {
+        "Key": "ChallengeAgainButton",
+        "zh_CN": "再次挑战",
+        "disable": 0
+    },
+    {
+        "Key": "massage_MaxQualityTip",
+        "zh_CN": "锻造后秘宝等级不再提高，是否继续",
+        "disable": 0
+    },
+    {
+        "Key": "ChallengeType1",
+        "zh_CN": "关卡用时：",
+        "disable": 0
+    },
+    {
+        "Key": "ChallengeType2",
+        "zh_CN": "击败目标：",
+        "disable": 0
+    },
+    {
+        "Key": "ChallengeType3",
+        "zh_CN": "累计造成伤害：",
+        "disable": 0
+    },
+    {
+        "Key": "HelpDes14",
+        "zh_CN": "通过沙漠商队进入铸造处，可对秘宝进行锻造和淬炼，让其获得更好的属性",
+        "disable": 0
+    },
+    {
+        "Key": "HelpDes15",
+        "zh_CN": "消耗漠北星砂，可以通过铸造处的锻造功能，将2个任意秘宝锻造成1个新的秘宝",
+        "disable": 0
+    },
+    {
+        "Key": "HelpDes16",
+        "zh_CN": "消耗漠北星砂，可以通过铸造处的淬炼功能，选择秘宝的任意增益效果进行刷新",
+        "disable": 0
+    },
+    {
+        "Key": "AdventureDes105",
+        "zh_CN": "你吃力地踩着被滚烫的软沙前进，突然感到脚下刺痛，你敏锐地察觉并及时卸力避免了外伤。在拨扫开沙子后才发现，踩中的是一片尖锐的白骨，在它的周围，还散落着字迹模糊的笔记与破旧的行囊。",
+        "disable": 0
+    },
+    {
+        "Key": "AdventureDes106",
+        "zh_CN": "又过去了一段时间，周遭的沙漠一望无垠，身边的景色丝毫没有变化。你不确定接下来的方向是否正确，坐下来思考了一会儿之后，你决定……",
+        "disable": 0
+    },
+    {
+        "Key": "StoryEvent5_1",
+        "zh_CN": "翻找行囊",
+        "disable": 0
+    },
+    {
+        "Key": "StoryEvent5_2",
+        "zh_CN": "拾起笔记",
+        "disable": 0
+    },
+    {
+        "Key": "StoryEvent5_3",
+        "zh_CN": "祭拜逝者",
+        "disable": 0
+    },
+    {
+        "Key": "StoryEvent6_1",
+        "zh_CN": "掉头返回",
+        "disable": 0
+    },
+    {
+        "Key": "StoryEvent6_2",
+        "zh_CN": "继续前进",
+        "disable": 0
+    },
+    {
+        "Key": "StoryEvent6_3",
+        "zh_CN": "等待日落",
+        "disable": 0
+    },
+    {
+        "Key": "StoryDes5_1",
+        "zh_CN": "你在破旧的行囊中仔细翻找，很幸运地找到了许多应急干粮，还意外获得了一个备用的指南针，这下可以放心地继续前进了。",
+        "disable": 0
+    },
+    {
+        "Key": "StoryDes5_2",
+        "zh_CN": "你小心翼翼地拍去笔记中夹杂的沙粒，并将撕裂的内页重新接好。你终于在整理好的笔记中发现了重要的信息，你确认了所探寻的秘密就在这片沙漠之中。",
+        "disable": 0
+    },
+    {
+        "Key": "StoryDes5_3",
+        "zh_CN": "你将白骨深深埋入沙土之下，并把所剩不多的水分出一点作为供奉，用来祭拜在此殒命的学者。水滴渗入软沙后，你听到了远处传来一些不太真实的响动。",
+        "disable": 0
+    },
+    {
+        "Key": "StoryDes6_1",
+        "zh_CN": "掉头之后，你根据记忆很快找到了返回的路。虽然度过了几天缺水的日子，但这次出行让你对这片沙漠更加了解，也许再次踏入这里，就会有新的收获。",
+        "disable": 0
+    },
+    {
+        "Key": "StoryDes6_2",
+        "zh_CN": "你吃力地在沙漠中继续前行，干粮快要耗尽，水也几乎见底。烈日的直射让你突然一阵晕眩，你下意识低头躲避，再抬起头来时，面前的景色突然变得不一样了……",
+        "disable": 0
+    },
+    {
+        "Key": "StoryDes6_3",
+        "zh_CN": "夜晚的空气让呼吸不再灼烧，你继续前进。在翻越沙丘后，又听到脚下传来响动。你挖开脚下的沙子，借由月光看清了埋在黄沙之下的东西。那是一扇雕刻工艺复杂的图书馆大门。大门上雕刻的文字在汲取月光后慢慢亮起幽蓝色的光。随之，你所处的大地开始震颤，大门缓缓打开。你不受控制地走入，逐渐听清了那声响，竟是一首悠扬的乐曲。",
+        "disable": 0
+    },
+    {
+        "Key": "EndingName5",
+        "zh_CN": "回归重启",
+        "disable": 0
+    },
+    {
+        "Key": "EndingName6",
+        "zh_CN": "烈日之谎",
+        "disable": 0
+    },
+    {
+        "Key": "EndingName7",
+        "zh_CN": "遗迹图书馆",
+        "disable": 0
+    },
+    {
+        "Key": "EndingDes5",
+        "zh_CN": "再次站在起点上，也许这次就可以找到正确的路。",
+        "disable": 0
+    },
+    {
+        "Key": "EndingDes6",
+        "zh_CN": "虚假的楼宇不断出现，似乎再也找不到正确的方向了。",
+        "disable": 0
+    },
+    {
+        "Key": "EndingDes7",
+        "zh_CN": "这里记载了生物进化的秘密与修复基因的技术，可以将生命无限延长。你带着这些信息离开了图书馆，却不知人类的未来究竟会走向何处。",
+        "disable": 0
+    },
+    {
+        "Key": "UnlockDes1",
+        "zh_CN": "1-3",
+        "disable": 1000
+    },
+    {
+        "Key": "UnlockDes2",
+        "zh_CN": "2-3",
+        "disable": 1000
+    }
+]

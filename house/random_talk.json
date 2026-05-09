@@ -1,0 +1,1594 @@
+[
+    {
+        "NpcId": 1,
+        "Index": 1,
+        "RandomKey": "house.girl01_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 1,
+        "Index": 2,
+        "RandomKey": "house.girl01_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 1,
+        "Index": 3,
+        "RandomKey": "house.girl01_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 1,
+        "Index": 4,
+        "RandomKey": "house.girl01_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 1,
+        "Index": 5,
+        "RandomKey": "house.girl01_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 1,
+        "Index": 6,
+        "RandomKey": "house.girl01_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 1,
+        "Index": 7,
+        "RandomKey": "house.girl01_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 2,
+        "Index": 1,
+        "RandomKey": "house.girl02_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 2,
+        "Index": 2,
+        "RandomKey": "house.girl02_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 2,
+        "Index": 3,
+        "RandomKey": "house.girl02_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 2,
+        "Index": 4,
+        "RandomKey": "house.girl02_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 2,
+        "Index": 5,
+        "RandomKey": "house.girl02_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 2,
+        "Index": 6,
+        "RandomKey": "house.girl02_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 2,
+        "Index": 7,
+        "RandomKey": "house.girl02_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 3,
+        "Index": 1,
+        "RandomKey": "house.girl03_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 3,
+        "Index": 2,
+        "RandomKey": "house.girl03_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 3,
+        "Index": 3,
+        "RandomKey": "house.girl03_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 3,
+        "Index": 4,
+        "RandomKey": "house.girl03_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 3,
+        "Index": 5,
+        "RandomKey": "house.girl03_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 3,
+        "Index": 6,
+        "RandomKey": "house.girl03_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 3,
+        "Index": 7,
+        "RandomKey": "house.girl03_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 4,
+        "Index": 1,
+        "RandomKey": "house.girl04_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 4,
+        "Index": 2,
+        "RandomKey": "house.girl04_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 4,
+        "Index": 3,
+        "RandomKey": "house.girl04_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 4,
+        "Index": 4,
+        "RandomKey": "house.girl04_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 4,
+        "Index": 5,
+        "RandomKey": "house.girl04_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 4,
+        "Index": 6,
+        "RandomKey": "house.girl04_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 4,
+        "Index": 7,
+        "RandomKey": "house.girl04_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 5,
+        "Index": 1,
+        "RandomKey": "house.girl05_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 5,
+        "Index": 2,
+        "RandomKey": "house.girl05_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 5,
+        "Index": 3,
+        "RandomKey": "house.girl05_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 5,
+        "Index": 4,
+        "RandomKey": "house.girl05_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 5,
+        "Index": 5,
+        "RandomKey": "house.girl05_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 5,
+        "Index": 6,
+        "RandomKey": "house.girl05_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 5,
+        "Index": 7,
+        "RandomKey": "house.girl05_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 6,
+        "Index": 1,
+        "RandomKey": "house.girl06_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 6,
+        "Index": 2,
+        "RandomKey": "house.girl06_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 6,
+        "Index": 3,
+        "RandomKey": "house.girl06_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 6,
+        "Index": 4,
+        "RandomKey": "house.girl06_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 6,
+        "Index": 5,
+        "RandomKey": "house.girl06_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 6,
+        "Index": 6,
+        "RandomKey": "house.girl06_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 6,
+        "Index": 7,
+        "RandomKey": "house.girl06_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 7,
+        "Index": 1,
+        "RandomKey": "house.girl07_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 7,
+        "Index": 2,
+        "RandomKey": "house.girl07_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 7,
+        "Index": 3,
+        "RandomKey": "house.girl07_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 7,
+        "Index": 4,
+        "RandomKey": "house.girl07_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 7,
+        "Index": 5,
+        "RandomKey": "house.girl07_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 7,
+        "Index": 6,
+        "RandomKey": "house.girl07_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 7,
+        "Index": 7,
+        "RandomKey": "house.girl07_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 8,
+        "Index": 1,
+        "RandomKey": "house.girl08_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 8,
+        "Index": 2,
+        "RandomKey": "house.girl08_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 8,
+        "Index": 3,
+        "RandomKey": "house.girl08_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 8,
+        "Index": 4,
+        "RandomKey": "house.girl08_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 8,
+        "Index": 5,
+        "RandomKey": "house.girl08_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 8,
+        "Index": 6,
+        "RandomKey": "house.girl08_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 8,
+        "Index": 7,
+        "RandomKey": "house.girl08_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 10,
+        "Index": 1,
+        "RandomKey": "house.girl10_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 10,
+        "Index": 2,
+        "RandomKey": "house.girl10_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 10,
+        "Index": 3,
+        "RandomKey": "house.girl10_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 10,
+        "Index": 4,
+        "RandomKey": "house.girl10_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 10,
+        "Index": 5,
+        "RandomKey": "house.girl10_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 10,
+        "Index": 6,
+        "RandomKey": "house.girl10_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 10,
+        "Index": 7,
+        "RandomKey": "house.girl10_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 11,
+        "Index": 1,
+        "RandomKey": "house.girl11_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 11,
+        "Index": 2,
+        "RandomKey": "house.girl11_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 11,
+        "Index": 3,
+        "RandomKey": "house.girl11_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 11,
+        "Index": 4,
+        "RandomKey": "house.girl11_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 11,
+        "Index": 5,
+        "RandomKey": "house.girl11_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 11,
+        "Index": 6,
+        "RandomKey": "house.girl11_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 11,
+        "Index": 7,
+        "RandomKey": "house.girl11_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed"
+        ]
+    },
+    {
+        "NpcId": 12,
+        "Index": 1,
+        "RandomKey": "house.girl12_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 12,
+        "Index": 2,
+        "RandomKey": "house.girl12_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 12,
+        "Index": 3,
+        "RandomKey": "house.girl12_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 12,
+        "Index": 4,
+        "RandomKey": "house.girl12_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 12,
+        "Index": 5,
+        "RandomKey": "house.girl12_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 12,
+        "Index": 6,
+        "RandomKey": "house.girl12_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 12,
+        "Index": 7,
+        "RandomKey": "house.girl12_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 13,
+        "Index": 1,
+        "RandomKey": "house.girl13_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 13,
+        "Index": 2,
+        "RandomKey": "house.girl13_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 13,
+        "Index": 3,
+        "RandomKey": "house.girl13_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 13,
+        "Index": 4,
+        "RandomKey": "house.girl13_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 13,
+        "Index": 5,
+        "RandomKey": "house.girl13_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 13,
+        "Index": 6,
+        "RandomKey": "house.girl13_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 13,
+        "Index": 7,
+        "RandomKey": "house.girl13_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 14,
+        "Index": 1,
+        "RandomKey": "house.girl14_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 14,
+        "Index": 2,
+        "RandomKey": "house.girl14_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 14,
+        "Index": 3,
+        "RandomKey": "house.girl14_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 14,
+        "Index": 4,
+        "RandomKey": "house.girl14_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 14,
+        "Index": 5,
+        "RandomKey": "house.girl14_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 14,
+        "Index": 6,
+        "RandomKey": "house.girl14_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 14,
+        "Index": 7,
+        "RandomKey": "house.girl14_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 17,
+        "Index": 1,
+        "RandomKey": "house.girl17_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 17,
+        "Index": 2,
+        "RandomKey": "house.girl17_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 17,
+        "Index": 3,
+        "RandomKey": "house.girl17_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 17,
+        "Index": 4,
+        "RandomKey": "house.girl17_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 17,
+        "Index": 5,
+        "RandomKey": "house.girl17_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 17,
+        "Index": 6,
+        "RandomKey": "house.girl17_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 17,
+        "Index": 7,
+        "RandomKey": "house.girl17_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 15,
+        "Index": 1,
+        "RandomKey": "house.girl15_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 15,
+        "Index": 2,
+        "RandomKey": "house.girl15_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 15,
+        "Index": 3,
+        "RandomKey": "house.girl15_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 15,
+        "Index": 4,
+        "RandomKey": "house.girl15_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 15,
+        "Index": 5,
+        "RandomKey": "house.girl15_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 15,
+        "Index": 6,
+        "RandomKey": "house.girl15_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 15,
+        "Index": 7,
+        "RandomKey": "house.girl15_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 16,
+        "Index": 1,
+        "RandomKey": "house.girl16_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 16,
+        "Index": 2,
+        "RandomKey": "house.girl16_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 16,
+        "Index": 3,
+        "RandomKey": "house.girl16_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 16,
+        "Index": 4,
+        "RandomKey": "house.girl16_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 16,
+        "Index": 5,
+        "RandomKey": "house.girl16_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 16,
+        "Index": 6,
+        "RandomKey": "house.girl16_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 16,
+        "Index": 7,
+        "RandomKey": "house.girl16_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 18,
+        "Index": 1,
+        "RandomKey": "house.girl18_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 18,
+        "Index": 2,
+        "RandomKey": "house.girl18_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 18,
+        "Index": 3,
+        "RandomKey": "house.girl18_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 18,
+        "Index": 4,
+        "RandomKey": "house.girl18_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 18,
+        "Index": 5,
+        "RandomKey": "house.girl18_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 18,
+        "Index": 6,
+        "RandomKey": "house.girl18_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 18,
+        "Index": 7,
+        "RandomKey": "house.girl18_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 20,
+        "Index": 1,
+        "RandomKey": "house.girl20_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 20,
+        "Index": 2,
+        "RandomKey": "house.girl20_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 20,
+        "Index": 3,
+        "RandomKey": "house.girl20_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 20,
+        "Index": 4,
+        "RandomKey": "house.girl20_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 20,
+        "Index": 5,
+        "RandomKey": "house.girl20_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 20,
+        "Index": 6,
+        "RandomKey": "house.girl20_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 20,
+        "Index": 7,
+        "RandomKey": "house.girl20_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 21,
+        "Index": 1,
+        "RandomKey": "house.girl21_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 21,
+        "Index": 2,
+        "RandomKey": "house.girl21_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 21,
+        "Index": 3,
+        "RandomKey": "house.girl21_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 21,
+        "Index": 4,
+        "RandomKey": "house.girl21_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 21,
+        "Index": 5,
+        "RandomKey": "house.girl21_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 21,
+        "Index": 6,
+        "RandomKey": "house.girl21_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 21,
+        "Index": 7,
+        "RandomKey": "house.girl21_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 22,
+        "Index": 1,
+        "RandomKey": "house.girl22_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 22,
+        "Index": 2,
+        "RandomKey": "house.girl22_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 22,
+        "Index": 3,
+        "RandomKey": "house.girl22_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 22,
+        "Index": 4,
+        "RandomKey": "house.girl22_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 22,
+        "Index": 5,
+        "RandomKey": "house.girl22_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 22,
+        "Index": 6,
+        "RandomKey": "house.girl22_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 22,
+        "Index": 7,
+        "RandomKey": "house.girl22_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 23,
+        "Index": 1,
+        "RandomKey": "house.girl23_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 23,
+        "Index": 2,
+        "RandomKey": "house.girl23_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 23,
+        "Index": 3,
+        "RandomKey": "house.girl23_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 23,
+        "Index": 4,
+        "RandomKey": "house.girl23_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 23,
+        "Index": 5,
+        "RandomKey": "house.girl23_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 23,
+        "Index": 6,
+        "RandomKey": "house.girl23_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 23,
+        "Index": 7,
+        "RandomKey": "house.girl23_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 24,
+        "Index": 1,
+        "RandomKey": "house.girl24_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 24,
+        "Index": 2,
+        "RandomKey": "house.girl24_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 24,
+        "Index": 3,
+        "RandomKey": "house.girl24_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 24,
+        "Index": 4,
+        "RandomKey": "house.girl24_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 24,
+        "Index": 5,
+        "RandomKey": "house.girl24_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 24,
+        "Index": 6,
+        "RandomKey": "house.girl24_RandomTalk06",
+        "Weight": 5,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": 30
+    },
+    {
+        "NpcId": 24,
+        "Index": 7,
+        "RandomKey": "house.girl24_RandomTalk07",
+        "Weight": 1000,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": [
+            "house_bed1"
+        ]
+    },
+    {
+        "NpcId": 94,
+        "Index": 1,
+        "RandomKey": "house.npc94_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 94,
+        "Index": 2,
+        "RandomKey": "house.npc94_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 94,
+        "Index": 3,
+        "RandomKey": "house.npc94_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 94,
+        "Index": 4,
+        "RandomKey": "house.npc94_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 94,
+        "Index": 5,
+        "RandomKey": "house.npc94_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 95,
+        "Index": 1,
+        "RandomKey": "house.npc95_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 95,
+        "Index": 2,
+        "RandomKey": "house.npc95_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 95,
+        "Index": 3,
+        "RandomKey": "house.npc95_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 95,
+        "Index": 4,
+        "RandomKey": "house.npc95_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 95,
+        "Index": 5,
+        "RandomKey": "house.npc95_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 96,
+        "Index": 1,
+        "RandomKey": "house.npc96_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 96,
+        "Index": 2,
+        "RandomKey": "house.npc96_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 96,
+        "Index": 3,
+        "RandomKey": "house.npc96_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 96,
+        "Index": 4,
+        "RandomKey": "house.npc96_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 96,
+        "Index": 5,
+        "RandomKey": "house.npc96_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 97,
+        "Index": 1,
+        "RandomKey": "house.npc97_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 97,
+        "Index": 2,
+        "RandomKey": "house.npc97_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 97,
+        "Index": 3,
+        "RandomKey": "house.npc97_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 97,
+        "Index": 4,
+        "RandomKey": "house.npc97_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 97,
+        "Index": 5,
+        "RandomKey": "house.npc97_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 98,
+        "Index": 1,
+        "RandomKey": "house.npc99_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 98,
+        "Index": 2,
+        "RandomKey": "house.npc99_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 98,
+        "Index": 3,
+        "RandomKey": "house.npc99_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 98,
+        "Index": 4,
+        "RandomKey": "house.npc99_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 98,
+        "Index": 5,
+        "RandomKey": "house.npc99_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 99,
+        "Index": 1,
+        "RandomKey": "house.npc99_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 99,
+        "Index": 2,
+        "RandomKey": "house.npc99_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 99,
+        "Index": 3,
+        "RandomKey": "house.npc99_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 99,
+        "Index": 4,
+        "RandomKey": "house.npc99_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 99,
+        "Index": 5,
+        "RandomKey": "house.npc99_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 101,
+        "Index": 1,
+        "RandomKey": "house.npc101_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 101,
+        "Index": 2,
+        "RandomKey": "house.npc101_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 101,
+        "Index": 3,
+        "RandomKey": "house.npc101_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 101,
+        "Index": 4,
+        "RandomKey": "house.npc101_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 101,
+        "Index": 5,
+        "RandomKey": "house.npc101_RandomTalk05",
+        "Weight": 1
+    },
+    {
+        "NpcId": 101,
+        "Index": 6,
+        "RandomKey": "house.npc101_RandomTalk06",
+        "Weight": 1,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": "",
+        "TargetStage": [
+            11,
+            1
+        ]
+    },
+    {
+        "NpcId": 101,
+        "Index": 7,
+        "RandomKey": "house.npc101_RandomTalk07",
+        "Weight": 1,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": "",
+        "TargetStage": [
+            11,
+            2
+        ]
+    },
+    {
+        "NpcId": 101,
+        "Index": 8,
+        "RandomKey": "house.npc101_RandomTalk08",
+        "Weight": 1,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": "",
+        "TargetStage": [
+            11,
+            3
+        ]
+    },
+    {
+        "NpcId": 101,
+        "Index": 9,
+        "RandomKey": "house.npc101_RandomTalk09",
+        "Weight": 1,
+        "BeginTime": "",
+        "EndTime": "",
+        "NeedItem": "",
+        "TargetAction": "",
+        "NeedLevel": "",
+        "TargetStage": [
+            11,
+            4
+        ]
+    },
+    {
+        "NpcId": 201,
+        "Index": 1,
+        "RandomKey": "house.npc201_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 201,
+        "Index": 2,
+        "RandomKey": "house.npc201_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 201,
+        "Index": 3,
+        "RandomKey": "house.npc201_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 202,
+        "Index": 1,
+        "RandomKey": "house.npc202_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 202,
+        "Index": 2,
+        "RandomKey": "house.npc202_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 202,
+        "Index": 3,
+        "RandomKey": "house.npc202_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 203,
+        "Index": 1,
+        "RandomKey": "house.npc203_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 203,
+        "Index": 2,
+        "RandomKey": "house.npc203_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 203,
+        "Index": 3,
+        "RandomKey": "house.npc203_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 204,
+        "Index": 1,
+        "RandomKey": "house.npc204_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 204,
+        "Index": 2,
+        "RandomKey": "house.npc204_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 204,
+        "Index": 3,
+        "RandomKey": "house.npc204_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 205,
+        "Index": 1,
+        "RandomKey": "house.npc205_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 205,
+        "Index": 2,
+        "RandomKey": "house.npc205_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 205,
+        "Index": 3,
+        "RandomKey": "house.npc205_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 206,
+        "Index": 1,
+        "RandomKey": "house.npc206_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 206,
+        "Index": 2,
+        "RandomKey": "house.npc206_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 206,
+        "Index": 3,
+        "RandomKey": "house.npc206_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 207,
+        "Index": 1,
+        "RandomKey": "house.npc207_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 207,
+        "Index": 2,
+        "RandomKey": "house.npc207_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 207,
+        "Index": 3,
+        "RandomKey": "house.npc207_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 103,
+        "Index": 1,
+        "RandomKey": "house.npc103_RandomTalk01",
+        "Weight": 1
+    },
+    {
+        "NpcId": 103,
+        "Index": 2,
+        "RandomKey": "house.npc103_RandomTalk02",
+        "Weight": 1
+    },
+    {
+        "NpcId": 103,
+        "Index": 3,
+        "RandomKey": "house.npc103_RandomTalk03",
+        "Weight": 1
+    },
+    {
+        "NpcId": 103,
+        "Index": 4,
+        "RandomKey": "house.npc103_RandomTalk04",
+        "Weight": 1
+    },
+    {
+        "NpcId": 103,
+        "Index": 5,
+        "RandomKey": "house.npc103_RandomTalk05",
+        "Weight": 1
+    }
+]

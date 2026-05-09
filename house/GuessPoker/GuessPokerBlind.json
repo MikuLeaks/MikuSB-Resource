@@ -1,0 +1,172 @@
+[
+    {
+        "BlindID": 101,
+        "BlindType": 2,
+        "BlindName": "house.GuessPoker_BlindName01",
+        "BlindDesc": "house.GuessPoker_BlindDesc01",
+        "BlindDescGame": "house.GuessPoker_BlindDesc01",
+        "BlindIcon": 1001545,
+        "BlindBg": 1700224,
+        "Weight": 100
+    },
+    {
+        "BlindID": 102,
+        "BlindType": 2,
+        "BlindName": "house.GuessPoker_BlindName02",
+        "BlindDesc": "house.GuessPoker_BlindDesc02",
+        "BlindDescGame": "house.GuessPoker_BlindDesc02",
+        "BlindIcon": 1001545,
+        "BlindBg": 1700224,
+        "Weight": 100
+    },
+    {
+        "BlindID": 103,
+        "BlindType": 2,
+        "BlindName": "house.GuessPoker_BlindName03",
+        "BlindDesc": "house.GuessPoker_BlindDesc03",
+        "BlindDescGame": "house.GuessPoker_BlindDesc03",
+        "BlindIcon": 1001545,
+        "BlindBg": 1700224,
+        "Weight": 100
+    },
+    {
+        "BlindID": 104,
+        "BlindType": 2,
+        "BlindName": "house.GuessPoker_BlindName04",
+        "BlindDesc": "house.GuessPoker_BlindDesc04",
+        "BlindDescGame": "house.GuessPoker_BlindDesc04",
+        "BlindIcon": 1001545,
+        "BlindBg": 1700224,
+        "Weight": 100,
+        "MutuallyExclusive": [
+            203
+        ]
+    },
+    {
+        "BlindID": 105,
+        "BlindType": 2,
+        "BlindName": "house.GuessPoker_BlindName05",
+        "BlindDesc": "house.GuessPoker_BlindDesc05",
+        "BlindDescGame": "house.GuessPoker_BlindDesc05",
+        "BlindIcon": 1001545,
+        "BlindBg": 1700224,
+        "Weight": 100,
+        "MutuallyExclusive": [
+            203
+        ]
+    },
+    {
+        "BlindID": 106,
+        "BlindType": 2,
+        "BlindName": "house.GuessPoker_BlindName06",
+        "BlindDesc": "house.GuessPoker_BlindDesc06",
+        "BlindDescGame": "house.GuessPoker_BlindDesc06",
+        "BlindIcon": 1001545,
+        "BlindBg": 1700224,
+        "Weight": 100
+    },
+    {
+        "BlindID": 107,
+        "BlindType": 2,
+        "BlindName": "house.GuessPoker_BlindName07",
+        "BlindDesc": "house.GuessPoker_BlindDesc07",
+        "BlindDescGame": "house.GuessPoker_BlindDesc07",
+        "BlindIcon": 1001545,
+        "BlindBg": 1700224,
+        "Weight": 100
+    },
+    {
+        "BlindID": 108,
+        "BlindType": 2,
+        "BlindName": "house.GuessPoker_BlindName08",
+        "BlindDesc": "house.GuessPoker_BlindDesc08",
+        "BlindDescGame": "house.GuessPoker_BlindDesc08",
+        "BlindIcon": 1001545,
+        "BlindBg": 1700224,
+        "Weight": 100
+    },
+    {
+        "BlindID": 109,
+        "BlindType": 2,
+        "BlindName": "house.GuessPoker_BlindName09",
+        "BlindDesc": "house.GuessPoker_BlindDesc09_1",
+        "BlindDescGame": "house.GuessPoker_BlindDesc09",
+        "BlindIcon": 1001544,
+        "BlindBg": 1700224,
+        "Weight": 100
+    },
+    {
+        "BlindID": 110,
+        "BlindType": 2,
+        "BlindName": "house.GuessPoker_BlindName10",
+        "BlindDesc": "house.GuessPoker_BlindDesc10_1",
+        "BlindDescGame": "house.GuessPoker_BlindDesc10",
+        "BlindIcon": 1001544,
+        "BlindBg": 1700224,
+        "Weight": 100
+    },
+    {
+        "BlindID": 111,
+        "BlindType": 2,
+        "BlindName": "house.GuessPoker_BlindName11",
+        "BlindDesc": "house.GuessPoker_BlindDesc11_1",
+        "BlindDescGame": "house.GuessPoker_BlindDesc11",
+        "BlindIcon": 1001543,
+        "BlindBg": 1700224,
+        "Weight": 100
+    },
+    {
+        "BlindID": 201,
+        "BlindType": 1,
+        "BlindName": "house.GuessPoker_BlindName12",
+        "BlindDesc": "house.GuessPoker_BlindDesc12",
+        "BlindDescGame": "house.GuessPoker_BlindDesc12",
+        "BlindIcon": 1001546,
+        "BlindBg": 1700225,
+        "Weight": 100
+    },
+    {
+        "BlindID": 202,
+        "BlindType": 1,
+        "BlindName": "house.GuessPoker_BlindName13",
+        "BlindDesc": "house.GuessPoker_BlindDesc13",
+        "BlindDescGame": "house.GuessPoker_BlindDesc13",
+        "BlindIcon": 1001546,
+        "BlindBg": 1700225,
+        "Weight": 100
+    },
+    {
+        "BlindID": 203,
+        "BlindType": 1,
+        "BlindName": "house.GuessPoker_BlindName14",
+        "BlindDesc": "house.GuessPoker_BlindDesc14",
+        "BlindDescGame": "house.GuessPoker_BlindDesc14",
+        "BlindIcon": 1001546,
+        "BlindBg": 1700225,
+        "Weight": 100,
+        "MutuallyExclusive": [
+            104,
+            105
+        ]
+    },
+    {
+        "BlindID": 204,
+        "BlindType": 1,
+        "BlindName": "house.GuessPoker_BlindName15",
+        "BlindDesc": "house.GuessPoker_BlindDesc15_1",
+        "BlindDescGame": "house.GuessPoker_BlindDesc15",
+        "BlindIcon": 1001546,
+        "BlindBg": 1700225,
+        "Weight": 100
+    },
+    {
+        "BlindID": 205,
+        "BlindType": 1,
+        "BlindName": "house.GuessPoker_BlindName16",
+        "BlindDesc": "house.GuessPoker_BlindDesc16_1",
+        "BlindDescGame": "house.GuessPoker_BlindDesc16",
+        "BlindIcon": 1001546,
+        "BlindBg": 1700225,
+        "Weight": 100
+    }
+]

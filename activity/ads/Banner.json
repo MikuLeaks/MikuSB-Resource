@@ -1,0 +1,85 @@
+[
+    {
+        "Id": 1,
+        "ShowType": "",
+        "Sort": 2,
+        "Bg": 1602054,
+        "StartTime": "",
+        "EndTime": "",
+        "Jump": 3,
+        "JumpParam": [
+            1
+        ]
+    },
+    {
+        "Id": 2,
+        "ShowType": "",
+        "Sort": 1,
+        "Bg": 1602053,
+        "StartTime": "",
+        "EndTime": "",
+        "Jump": 3,
+        "JumpParam": [
+            2
+        ]
+    },
+    {
+        "Id": 3,
+        "ShowType": "",
+        "Sort": 5,
+        "Bg": 1602047,
+        "StartTime": "",
+        "EndTime": "",
+        "Jump": 15,
+        "JumpParam": [
+            10
+        ]
+    },
+    {
+        "Id": 4,
+        "ShowType": "",
+        "Sort": 3,
+        "Bg": 1602069,
+        "StartTime": "",
+        "EndTime": "",
+        "Jump": 8,
+        "JumpParam": [
+            3
+        ]
+    },
+    {
+        "Id": 5,
+        "ShowType": "",
+        "Sort": 4,
+        "Bg": 1602069,
+        "StartTime": "",
+        "EndTime": "",
+        "Jump": 8,
+        "JumpParam": [
+            3
+        ],
+        "Url": "",
+        "Unlock": "",
+        "LevelEndTime": "",
+        "LevelEndJump": "",
+        "LevelEndText": "",
+        "GroupTaskId": [
+            7,
+            2,
+            2,
+            2
+        ],
+        "GoodsIdLimit": 601
+    },
+    {
+        "Id": 6,
+        "ShowType": "",
+        "Sort": 6,
+        "Bg": 1602054,
+        "StartTime": "",
+        "EndTime": "",
+        "Jump": "",
+        "JumpParam": "",
+        "Url": "openurl?=www.baidu.com"
+    }
+]

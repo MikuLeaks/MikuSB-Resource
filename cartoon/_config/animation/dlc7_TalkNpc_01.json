@@ -1,0 +1,24 @@
+[
+    {
+        "Id": 1,
+        "Explain": "待机",
+        "Type": "sequence",
+        "Name": "mon003_base_idle06_01",
+        "Path": "AnimSequence'/Game/Characters/Monster/mon003d/Anim/mon003_base_idle06_01.mon003_base_idle06_01'"
+    },
+    {
+        "Id": 100,
+        "Explain": "组合动作",
+        "Type": "custom_seq"
+    },
+    {
+        "Id": 101,
+        "Explain": "全部循环",
+        "Type": "custom_loop"
+    },
+    {
+        "Id": 102,
+        "Explain": "循环最后一个",
+        "Type": "custom_loop_last"
+    }
+]

@@ -1,0 +1,3998 @@
+[
+    {
+        "Id": 1101,
+        "SkillId": 380010101,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_01_01_01_name",
+        "Des": "aliendefence.Upgrade_01_01_01_des",
+        "DescValue": [
+            1,
+            20
+        ]
+    },
+    {
+        "Id": 1102,
+        "SkillId": 380010102,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 1101,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_01_01_02_name",
+        "Des": "aliendefence.Upgrade_01_01_01_des",
+        "DescValue": [
+            1,
+            20
+        ]
+    },
+    {
+        "Id": 1103,
+        "SkillId": 380010103,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 1102,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_01_01_03_name",
+        "Des": "aliendefence.Upgrade_01_01_01_des",
+        "DescValue": [
+            1,
+            20
+        ]
+    },
+    {
+        "Id": 1104,
+        "SkillId": 380010104,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 1103,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_01_01_04_name",
+        "Des": "aliendefence.Upgrade_01_01_01_des",
+        "DescValue": [
+            1,
+            20
+        ]
+    },
+    {
+        "Id": 1105,
+        "SkillId": 380010201,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001335,
+        "Name": "aliendefence.Upgrade_01_02_name",
+        "Des": "aliendefence.Upgrade_01_02_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 1106,
+        "SkillId": 380010301,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001342,
+        "Name": "aliendefence.Upgrade_01_03_01_name",
+        "Des": "aliendefence.Upgrade_01_03_des",
+        "DescValue": [
+            2
+        ]
+    },
+    {
+        "Id": 1107,
+        "SkillId": 380010801,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 1106,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001342,
+        "Name": "aliendefence.Upgrade_01_03_02_name",
+        "Des": "aliendefence.Upgrade_01_04_01_des",
+        "DescValue": [
+            2,
+            60
+        ]
+    },
+    {
+        "Id": 1108,
+        "SkillId": 380010901,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001339,
+        "Name": "aliendefence.Upgrade_01_06_01_name",
+        "Des": "aliendefence.Upgrade_01_07_des",
+        "DescValue": [
+            20,
+            2
+        ]
+    },
+    {
+        "Id": 1109,
+        "SkillId": 380010501,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_01_05_01_name",
+        "Des": "aliendefence.Upgrade_01_06_des",
+        "DescValue": [
+            60
+        ]
+    },
+    {
+        "Id": 1110,
+        "SkillId": 380010502,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 1109,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_01_05_02_name",
+        "Des": "aliendefence.Upgrade_01_06_des",
+        "DescValue": [
+            60
+        ]
+    },
+    {
+        "Id": 1201,
+        "SkillId": 380010401,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001342,
+        "Name": "aliendefence.Upgrade_01_04_01_name",
+        "Des": "aliendefence.Upgrade_01_05_des",
+        "DescValue": [
+            3
+        ]
+    },
+    {
+        "Id": 1202,
+        "SkillId": 380011001,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 1201,
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001342,
+        "Name": "aliendefence.Upgrade_01_04_02_name",
+        "Des": "aliendefence.Upgrade_01_05_01_des",
+        "DescValue": [
+            60,
+            20
+        ]
+    },
+    {
+        "Id": 1301,
+        "SkillId": 380010701,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 3,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_01_07_name",
+        "Des": "aliendefence.Upgrade_01_09_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 2101,
+        "SkillId": 380020101,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_02_01_01_name",
+        "Des": "aliendefence.Upgrade_02_01_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 2102,
+        "SkillId": 380020102,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 2101,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_02_01_02_name",
+        "Des": "aliendefence.Upgrade_02_01_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 2103,
+        "SkillId": 380020201,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001335,
+        "Name": "aliendefence.Upgrade_02_02_name",
+        "Des": "aliendefence.Upgrade_02_02_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 2104,
+        "SkillId": 380020901,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001342,
+        "Name": "aliendefence.Upgrade_02_09_01_name",
+        "Des": "aliendefence.Upgrade_02_11_des",
+        "DescValue": [
+            30
+        ]
+    },
+    {
+        "Id": 2105,
+        "SkillId": 380020902,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 2104,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001342,
+        "Name": "aliendefence.Upgrade_02_09_02_name",
+        "Des": "aliendefence.Upgrade_02_11_des",
+        "DescValue": [
+            30
+        ]
+    },
+    {
+        "Id": 2106,
+        "SkillId": 380020401,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_02_04_01_name",
+        "Des": "aliendefence.Upgrade_02_05_des",
+        "DescValue": [
+            60
+        ]
+    },
+    {
+        "Id": 2107,
+        "SkillId": 380020402,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 2106,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_02_04_02_name",
+        "Des": "aliendefence.Upgrade_02_05_des",
+        "DescValue": [
+            60
+        ]
+    },
+    {
+        "Id": 2108,
+        "SkillId": 380020701,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001346,
+        "Name": "aliendefence.Upgrade_02_07_01_name",
+        "Des": "aliendefence.Upgrade_02_08_des",
+        "DescValue": [
+            3
+        ]
+    },
+    {
+        "Id": 2109,
+        "SkillId": 380020702,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 2108,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001346,
+        "Name": "aliendefence.Upgrade_02_07_02_name",
+        "Des": "aliendefence.Upgrade_02_09_des",
+        "DescValue": [
+            3
+        ]
+    },
+    {
+        "Id": 2110,
+        "SkillId": 380021001,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001346,
+        "Name": "aliendefence.Upgrade_02_10_name",
+        "Des": "aliendefence.Upgrade_02_12_des",
+        "DescValue": [
+            20
+        ]
+    },
+    {
+        "Id": 2201,
+        "SkillId": 380021101,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_02_06_01_name",
+        "Des": "aliendefence.Upgrade_02_07_01_des",
+        "DescValue": [
+            30,
+            3
+        ]
+    },
+    {
+        "Id": 2202,
+        "SkillId": 380021102,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 2201,
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_02_06_02_name",
+        "Des": "aliendefence.Upgrade_02_07_02_des",
+        "DescValue": [
+            50,
+            5
+        ]
+    },
+    {
+        "Id": 2301,
+        "SkillId": 380020801,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": 1000,
+        "TurretBulletNum": "",
+        "UpgradeType": 3,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001335,
+        "Name": "aliendefence.Upgrade_02_08_name",
+        "Des": "aliendefence.Upgrade_02_10_01_des",
+        "DescValue": [
+            10,
+            30
+        ]
+    },
+    {
+        "Id": 3101,
+        "SkillId": 380030101,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_03_01_01_name",
+        "Des": "aliendefence.Upgrade_03_01_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 3102,
+        "SkillId": 380030102,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 3101,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_03_01_02_name",
+        "Des": "aliendefence.Upgrade_03_01_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 3103,
+        "SkillId": 380030103,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 3102,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_03_01_03_name",
+        "Des": "aliendefence.Upgrade_03_01_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 3104,
+        "SkillId": 380030201,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001344,
+        "Name": "aliendefence.Upgrade_03_02_name",
+        "Des": "aliendefence.Upgrade_03_02_des",
+        "DescValue": [
+            5
+        ]
+    },
+    {
+        "Id": 3105,
+        "SkillId": 380030301,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 3104,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001344,
+        "Name": "aliendefence.Upgrade_03_07_name",
+        "Des": "aliendefence.Upgrade_03_08_02_des",
+        "DescValue": [
+            0.5
+        ]
+    },
+    {
+        "Id": 3106,
+        "SkillId": 380030401,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_03_04_01_name",
+        "Des": "aliendefence.Upgrade_03_05_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 3107,
+        "SkillId": 380030402,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 3106,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_03_04_02_name",
+        "Des": "aliendefence.Upgrade_03_05_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 3108,
+        "SkillId": 380030403,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 3107,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_03_04_03_name",
+        "Des": "aliendefence.Upgrade_03_05_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 3109,
+        "SkillId": 380030501,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 3104,
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_03_05_01_name",
+        "Des": "aliendefence.Upgrade_03_06_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 3110,
+        "SkillId": 380030801,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 3104,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001344,
+        "Name": "aliendefence.Upgrade_03_08_name",
+        "Des": "aliendefence.Upgrade_03_09_des",
+        "DescValue": [
+            50
+        ]
+    },
+    {
+        "Id": 3201,
+        "SkillId": 380030903,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_03_09_01_name",
+        "Des": "aliendefence.Upgrade_03_10_01_des",
+        "DescValue": [
+            8
+        ]
+    },
+    {
+        "Id": 3202,
+        "SkillId": 380030904,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 3201,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_03_09_02_name",
+        "Des": "aliendefence.Upgrade_03_10_02_des",
+        "DescValue": [
+            1,
+            60
+        ]
+    },
+    {
+        "Id": 3301,
+        "SkillId": 380030701,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 3,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001344,
+        "Name": "aliendefence.Upgrade_03_07_name",
+        "Des": "aliendefence.Upgrade_03_04_01_des",
+        "DescValue": [
+            3,
+            60
+        ]
+    },
+    {
+        "Id": 4101,
+        "SkillId": 380040101,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_04_01_01_name",
+        "Des": "aliendefence.Upgrade_04_01_01_des",
+        "DescValue": [
+            1,
+            20
+        ]
+    },
+    {
+        "Id": 4102,
+        "SkillId": 380040102,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 4101,
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_04_01_02_name",
+        "Des": "aliendefence.Upgrade_04_01_01_des",
+        "DescValue": [
+            1,
+            20
+        ]
+    },
+    {
+        "Id": 4103,
+        "SkillId": 380040201,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_04_02_01_name",
+        "Des": "aliendefence.Upgrade_04_02_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 4104,
+        "SkillId": 380040202,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 4103,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_04_02_02_name",
+        "Des": "aliendefence.Upgrade_04_02_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 4105,
+        "SkillId": 380040301,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001346,
+        "Name": "aliendefence.Upgrade_04_03_01_name",
+        "Des": "aliendefence.Upgrade_04_03_des",
+        "DescValue": [
+            1.5
+        ]
+    },
+    {
+        "Id": 4106,
+        "SkillId": 380040302,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 4105,
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001346,
+        "Name": "aliendefence.Upgrade_04_03_02_name",
+        "Des": "aliendefence.Upgrade_04_04_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 4107,
+        "SkillId": 380040401,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001344,
+        "Name": "aliendefence.Upgrade_04_04_01_name",
+        "Des": "aliendefence.Upgrade_04_05_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 4108,
+        "SkillId": 380040402,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 4107,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001344,
+        "Name": "aliendefence.Upgrade_04_04_02_name",
+        "Des": "aliendefence.Upgrade_04_06_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 4109,
+        "SkillId": 380040501,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_04_05_01_name",
+        "Des": "aliendefence.Upgrade_04_07_des",
+        "DescValue": [
+            60
+        ]
+    },
+    {
+        "Id": 4110,
+        "SkillId": 380040502,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 4109,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_04_05_02_name",
+        "Des": "aliendefence.Upgrade_04_07_des",
+        "DescValue": [
+            60
+        ]
+    },
+    {
+        "Id": 4201,
+        "SkillId": 380040601,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 4105,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001344,
+        "Name": "aliendefence.Upgrade_04_06_01_name",
+        "Des": "aliendefence.Upgrade_04_08_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 4202,
+        "SkillId": 380040602,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 4201,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001344,
+        "Name": "aliendefence.Upgrade_04_06_02_name",
+        "Des": "aliendefence.Upgrade_04_09_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 4301,
+        "SkillId": 380040701,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 3,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001341,
+        "Name": "aliendefence.Upgrade_04_07_name",
+        "Des": "aliendefence.Upgrade_04_10_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 5101,
+        "SkillId": 380050801,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_05_01_01_name",
+        "Des": "aliendefence.Upgrade_05_01_01_des",
+        "DescValue": [
+            1,
+            20
+        ]
+    },
+    {
+        "Id": 5102,
+        "SkillId": 380050802,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 5101,
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_05_01_02_name",
+        "Des": "aliendefence.Upgrade_05_01_01_des",
+        "DescValue": [
+            1,
+            20
+        ]
+    },
+    {
+        "Id": 5103,
+        "SkillId": 380050201,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_05_02_01_name",
+        "Des": "aliendefence.Upgrade_05_02_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 5104,
+        "SkillId": 380050202,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 5103,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_05_02_02_name",
+        "Des": "aliendefence.Upgrade_05_02_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 5105,
+        "SkillId": 380050301,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001339,
+        "Name": "aliendefence.Upgrade_05_03_01_name",
+        "Des": "aliendefence.Upgrade_05_03_des",
+        "DescValue": [
+            3,
+            45
+        ]
+    },
+    {
+        "Id": 5106,
+        "SkillId": 380050302,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 5105,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001339,
+        "Name": "aliendefence.Upgrade_05_03_02_name",
+        "Des": "aliendefence.Upgrade_05_04_des",
+        "DescValue": [
+            3,
+            45
+        ]
+    },
+    {
+        "Id": 5107,
+        "SkillId": 380050401,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001343,
+        "Name": "aliendefence.Upgrade_05_04_01_name",
+        "Des": "aliendefence.Upgrade_05_05_des",
+        "DescValue": [
+            3
+        ]
+    },
+    {
+        "Id": 5108,
+        "SkillId": 380050901,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 5107,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001343,
+        "Name": "aliendefence.Upgrade_05_04_02_name",
+        "Des": "aliendefence.Upgrade_05_06_02_des",
+        "DescValue": [
+            3,
+            10
+        ]
+    },
+    {
+        "Id": 5109,
+        "SkillId": 380050501,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_05_05_01_name",
+        "Des": "aliendefence.Upgrade_05_07_des",
+        "DescValue": [
+            60
+        ]
+    },
+    {
+        "Id": 5110,
+        "SkillId": 380050502,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 5109,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_05_05_02_name",
+        "Des": "aliendefence.Upgrade_05_07_des",
+        "DescValue": [
+            60
+        ]
+    },
+    {
+        "Id": 5201,
+        "SkillId": 380051101,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 5108,
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001343,
+        "Name": "aliendefence.Upgrade_05_09_name",
+        "Des": "aliendefence.Upgrade_05_12_des",
+        "DescValue": [
+            2
+        ]
+    },
+    {
+        "Id": 5202,
+        "SkillId": 380051102,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 5201,
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001343,
+        "Name": "aliendefence.Upgrade_05_10_name",
+        "Des": "aliendefence.Upgrade_05_13_des",
+        "DescValue": [
+            4
+        ]
+    },
+    {
+        "Id": 5301,
+        "SkillId": 380050601,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 3,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001341,
+        "Name": "aliendefence.Upgrade_05_06_01_name",
+        "Des": "aliendefence.Upgrade_05_08_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 6101,
+        "SkillId": 380060101,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_06_01_01_name",
+        "Des": "aliendefence.Upgrade_06_01_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 6102,
+        "SkillId": 380060102,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 6101,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_06_01_02_name",
+        "Des": "aliendefence.Upgrade_06_01_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 6103,
+        "SkillId": 380060701,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_06_06_01_name",
+        "Des": "aliendefence.Upgrade_06_08_des",
+        "DescValue": [
+            5,
+            30
+        ]
+    },
+    {
+        "Id": 6104,
+        "SkillId": 380060702,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 6103,
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_06_06_02_name",
+        "Des": "aliendefence.Upgrade_06_09_des",
+        "DescValue": [
+            5,
+            30
+        ]
+    },
+    {
+        "Id": 6105,
+        "SkillId": 380060401,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001343,
+        "Name": "aliendefence.Upgrade_06_03_01_name",
+        "Des": "aliendefence.Upgrade_06_05_01_des",
+        "DescValue": [
+            50,
+            5
+        ]
+    },
+    {
+        "Id": 6106,
+        "SkillId": 380060901,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": 1,
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001345,
+        "Name": "aliendefence.Upgrade_06_07_01_name",
+        "Des": "aliendefence.Upgrade_06_10_des",
+        "DescValue": [
+            30
+        ]
+    },
+    {
+        "Id": 6107,
+        "SkillId": 380060902,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 6106,
+        "IsReduceCd": 1,
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001345,
+        "Name": "aliendefence.Upgrade_06_07_02_name",
+        "Des": "aliendefence.Upgrade_06_10_des",
+        "DescValue": [
+            30
+        ]
+    },
+    {
+        "Id": 6108,
+        "SkillId": 380060601,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_06_05_01_name",
+        "Des": "aliendefence.Upgrade_06_07_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 6109,
+        "SkillId": 380060602,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 6108,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_06_05_02_name",
+        "Des": "aliendefence.Upgrade_06_07_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 6110,
+        "SkillId": 380060603,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 6109,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_06_05_03_name",
+        "Des": "aliendefence.Upgrade_06_07_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 6201,
+        "SkillId": 380060301,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001343,
+        "Name": "aliendefence.Upgrade_06_02_01_name",
+        "Des": "aliendefence.Upgrade_06_02_des",
+        "DescValue": [
+            5
+        ]
+    },
+    {
+        "Id": 6202,
+        "SkillId": 380060302,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 6201,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001343,
+        "Name": "aliendefence.Upgrade_06_02_02_name",
+        "Des": "aliendefence.Upgrade_06_03_des",
+        "DescValue": [
+            5
+        ]
+    },
+    {
+        "Id": 6301,
+        "SkillId": 380060201,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 3,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_06_08_name",
+        "Des": "aliendefence.Upgrade_06_11_des",
+        "DescValue": [
+            40
+        ]
+    },
+    {
+        "Id": 7101,
+        "SkillId": 380070101,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001335,
+        "Name": "aliendefence.Upgrade_07_01_name",
+        "Des": "aliendefence.Upgrade_07_01_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 7102,
+        "SkillId": 380070201,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001340,
+        "Name": "aliendefence.Upgrade_07_02_name",
+        "Des": "aliendefence.Upgrade_07_02_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 7103,
+        "SkillId": 380070701,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_07_07_01_name",
+        "Des": "aliendefence.Upgrade_07_07_01_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 7104,
+        "SkillId": 380070702,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 7103,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_07_07_02_name",
+        "Des": "aliendefence.Upgrade_07_07_02_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 7105,
+        "SkillId": 380070401,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_07_04_01_name",
+        "Des": "aliendefence.Upgrade_07_04_des",
+        "DescValue": [
+            60
+        ]
+    },
+    {
+        "Id": 7106,
+        "SkillId": 380070402,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 7105,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_07_04_02_name",
+        "Des": "aliendefence.Upgrade_07_04_des",
+        "DescValue": [
+            60
+        ]
+    },
+    {
+        "Id": 7107,
+        "SkillId": 380070403,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 7106,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_07_04_03_name",
+        "Des": "aliendefence.Upgrade_07_04_des",
+        "DescValue": [
+            60
+        ]
+    },
+    {
+        "Id": 7108,
+        "SkillId": 380070501,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": 1,
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001345,
+        "Name": "aliendefence.Upgrade_07_05_01_name",
+        "Des": "aliendefence.Upgrade_07_05_des",
+        "DescValue": [
+            30
+        ]
+    },
+    {
+        "Id": 7109,
+        "SkillId": 380070502,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 7108,
+        "IsReduceCd": 1,
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001345,
+        "Name": "aliendefence.Upgrade_07_05_02_name",
+        "Des": "aliendefence.Upgrade_07_05_des",
+        "DescValue": [
+            30
+        ]
+    },
+    {
+        "Id": 7110,
+        "SkillId": 380070601,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_07_06_01_name",
+        "Des": "aliendefence.Upgrade_07_06_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 7201,
+        "SkillId": 380070901,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_07_09_01_name",
+        "Des": "aliendefence.Upgrade_07_09_des",
+        "DescValue": [
+            2
+        ]
+    },
+    {
+        "Id": 7202,
+        "SkillId": 380070902,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 7201,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_07_09_02_name",
+        "Des": "aliendefence.Upgrade_07_09_01_des",
+        "DescValue": [
+            1,
+            60
+        ]
+    },
+    {
+        "Id": 7301,
+        "SkillId": 380071001,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 3,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_07_10_name",
+        "Des": "aliendefence.Upgrade_07_10_des",
+        "DescValue": [
+            2,
+            3,
+            1
+        ]
+    },
+    {
+        "Id": 8101,
+        "SkillId": 380080101,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001335,
+        "Name": "aliendefence.Upgrade_08_01_name",
+        "Des": "aliendefence.Upgrade_08_01_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 8102,
+        "SkillId": 380080901,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_08_07_01_name",
+        "Des": "aliendefence.Upgrade_08_08_01_des",
+        "DescValue": [
+            100,
+            100
+        ]
+    },
+    {
+        "Id": 8103,
+        "SkillId": 380080902,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 8102,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_08_07_02_name",
+        "Des": "aliendefence.Upgrade_08_08_01_des",
+        "DescValue": [
+            100,
+            100
+        ]
+    },
+    {
+        "Id": 8104,
+        "SkillId": 380081201,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_08_08_name",
+        "Des": "aliendefence.Upgrade_08_09_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 8105,
+        "SkillId": 380080301,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_08_03_01_name",
+        "Des": "aliendefence.Upgrade_08_03_01_des",
+        "DescValue": [
+            50
+        ]
+    },
+    {
+        "Id": 8106,
+        "SkillId": 380080401,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 8105,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_08_03_02_name",
+        "Des": "aliendefence.Upgrade_08_03_01_des",
+        "DescValue": [
+            50
+        ]
+    },
+    {
+        "Id": 8107,
+        "SkillId": 380081001,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": 1,
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001336,
+        "Name": "aliendefence.Upgrade_08_04_03_name",
+        "Des": "aliendefence.Upgrade_08_04_02_des",
+        "DescValue": [
+            30
+        ]
+    },
+    {
+        "Id": 8108,
+        "SkillId": 380081002,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 8107,
+        "IsReduceCd": 1,
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001336,
+        "Name": "aliendefence.Upgrade_08_04_04_name",
+        "Des": "aliendefence.Upgrade_08_04_02_des",
+        "DescValue": [
+            30
+        ]
+    },
+    {
+        "Id": 8109,
+        "SkillId": 380080601,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_08_05_01_name",
+        "Des": "aliendefence.Upgrade_08_05_des",
+        "DescValue": [
+            5,
+            50
+        ]
+    },
+    {
+        "Id": 8110,
+        "SkillId": 380080602,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 8109,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_08_05_02_name",
+        "Des": "aliendefence.Upgrade_08_05_des",
+        "DescValue": [
+            5,
+            50
+        ]
+    },
+    {
+        "Id": 8201,
+        "SkillId": 380080701,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001346,
+        "Name": "aliendefence.Upgrade_08_06_01_name",
+        "Des": "aliendefence.Upgrade_08_06_des",
+        "DescValue": [
+            5
+        ]
+    },
+    {
+        "Id": 8202,
+        "SkillId": 380080702,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 8201,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001346,
+        "Name": "aliendefence.Upgrade_08_06_02_name",
+        "Des": "aliendefence.Upgrade_08_07_des",
+        "DescValue": [
+            5
+        ]
+    },
+    {
+        "Id": 8301,
+        "SkillId": 380081101,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 3,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001343,
+        "Name": "aliendefence.Upgrade_08_09_name",
+        "Des": "aliendefence.Upgrade_08_10_des",
+        "DescValue": [
+            50,
+            5
+        ]
+    },
+    {
+        "Id": 9101,
+        "SkillId": 380090101,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001335,
+        "Name": "aliendefence.Upgrade_09_01_01_name",
+        "Des": "aliendefence.Upgrade_09_01_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 9102,
+        "SkillId": 380090102,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 9101,
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_09_01_02_name",
+        "Des": "aliendefence.Upgrade_09_01_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 9103,
+        "SkillId": 380090103,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 9102,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_09_01_03_name",
+        "Des": "aliendefence.Upgrade_09_01_des",
+        "DescValue": [
+            2
+        ]
+    },
+    {
+        "Id": 9104,
+        "SkillId": 380090201,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_09_02_01_name",
+        "Des": "aliendefence.Upgrade_09_02_des",
+        "DescValue": [
+            60
+        ]
+    },
+    {
+        "Id": 9105,
+        "SkillId": 380090202,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 9104,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_09_02_02_name",
+        "Des": "aliendefence.Upgrade_09_02_des",
+        "DescValue": [
+            60
+        ]
+    },
+    {
+        "Id": 9106,
+        "SkillId": 380090203,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 9105,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_09_02_03_name",
+        "Des": "aliendefence.Upgrade_09_02_des",
+        "DescValue": [
+            60
+        ]
+    },
+    {
+        "Id": 9107,
+        "SkillId": 380090301,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001336,
+        "Name": "aliendefence.Upgrade_09_03_01_name",
+        "Des": "aliendefence.Upgrade_09_03_01_des",
+        "DescValue": [
+            50,
+            3
+        ]
+    },
+    {
+        "Id": 9108,
+        "SkillId": 380090302,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 9107,
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001336,
+        "Name": "aliendefence.Upgrade_09_03_02_name",
+        "Des": "aliendefence.Upgrade_09_03_02_des",
+        "DescValue": [
+            50,
+            3
+        ]
+    },
+    {
+        "Id": 9109,
+        "SkillId": 380090401,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_09_04_01_name",
+        "Des": "aliendefence.Upgrade_09_04_01_des",
+        "DescValue": [
+            30,
+            4
+        ]
+    },
+    {
+        "Id": 9110,
+        "SkillId": 380090402,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 9109,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_09_04_02_name",
+        "Des": "aliendefence.Upgrade_09_04_02_des",
+        "DescValue": [
+            60,
+            4
+        ]
+    },
+    {
+        "Id": 9201,
+        "SkillId": 380090501,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001346,
+        "Name": "aliendefence.Upgrade_09_05_01_name",
+        "Des": "aliendefence.Upgrade_09_05_01_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 9202,
+        "SkillId": 380090502,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 9201,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001346,
+        "Name": "aliendefence.Upgrade_09_05_02_name",
+        "Des": "aliendefence.Upgrade_09_05_02_des",
+        "DescValue": [
+            2
+        ]
+    },
+    {
+        "Id": 9301,
+        "SkillId": 380090601,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 3,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_09_06_01_name",
+        "Des": "aliendefence.Upgrade_09_06_des"
+    },
+    {
+        "Id": 10101,
+        "SkillId": 380100101,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001335,
+        "Name": "aliendefence.Upgrade_10_01_01_name",
+        "Des": "aliendefence.Upgrade_10_01_des",
+        "DescValue": [
+            2.5
+        ]
+    },
+    {
+        "Id": 10102,
+        "SkillId": 380100102,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 10101,
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_10_01_02_name",
+        "Des": "aliendefence.Upgrade_10_01_des",
+        "DescValue": [
+            2
+        ]
+    },
+    {
+        "Id": 10103,
+        "SkillId": 380100103,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 10102,
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_10_01_03_name",
+        "Des": "aliendefence.Upgrade_10_01_des",
+        "DescValue": [
+            1.5
+        ]
+    },
+    {
+        "Id": 10104,
+        "SkillId": 380100201,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_10_02_01_name",
+        "Des": "aliendefence.Upgrade_10_02_des",
+        "DescValue": [
+            60
+        ]
+    },
+    {
+        "Id": 10105,
+        "SkillId": 380100202,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 10104,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_10_02_02_name",
+        "Des": "aliendefence.Upgrade_10_02_des",
+        "DescValue": [
+            60
+        ]
+    },
+    {
+        "Id": 10106,
+        "SkillId": 380100203,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 10105,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_10_02_03_name",
+        "Des": "aliendefence.Upgrade_10_02_des",
+        "DescValue": [
+            60
+        ]
+    },
+    {
+        "Id": 10107,
+        "SkillId": 380100301,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001336,
+        "Name": "aliendefence.Upgrade_10_03_01_name",
+        "Des": "aliendefence.Upgrade_10_03_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 10108,
+        "SkillId": 380100401,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001336,
+        "Name": "aliendefence.Upgrade_10_04_01_name",
+        "Des": "aliendefence.Upgrade_10_04_01_des"
+    },
+    {
+        "Id": 10109,
+        "SkillId": 380100402,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 10108,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_10_04_02_name",
+        "Des": "aliendefence.Upgrade_10_04_02_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 10110,
+        "SkillId": 380100501,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_10_05_01_name",
+        "Des": "aliendefence.Upgrade_10_05_des",
+        "DescValue": [
+            50,
+            30
+        ]
+    },
+    {
+        "Id": 10201,
+        "SkillId": 380100601,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001346,
+        "Name": "aliendefence.Upgrade_10_06_01_name",
+        "Des": "aliendefence.Upgrade_10_06_des",
+        "DescValue": [
+            50
+        ]
+    },
+    {
+        "Id": 10202,
+        "SkillId": 380100602,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 10201,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001346,
+        "Name": "aliendefence.Upgrade_10_06_02_name",
+        "Des": "aliendefence.Upgrade_10_06_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 10301,
+        "SkillId": 380100701,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 3,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_10_07_01_name",
+        "Des": "aliendefence.Upgrade_10_07_des",
+        "DescValue": [
+            16
+        ]
+    },
+    {
+        "Id": 51101,
+        "SkillId": 380200101,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 5,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_51_01_name",
+        "Des": "aliendefence.Upgrade_51_01_des"
+    },
+    {
+        "Id": 51102,
+        "SkillId": 380200102,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 5,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_51_02_name",
+        "Des": "aliendefence.Upgrade_51_02_des",
+        "DescValue": [
+            60
+        ]
+    },
+    {
+        "Id": 51103,
+        "SkillId": 380200103,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 51101,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 5,
+        "Icon": 1001346,
+        "Name": "aliendefence.Upgrade_51_03_name",
+        "Des": "aliendefence.Upgrade_51_03_des",
+        "DescValue": [
+            6
+        ]
+    },
+    {
+        "Id": 52101,
+        "SkillId": 380170101,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 5,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_52_01_name",
+        "Des": "aliendefence.Upgrade_52_01_des",
+        "DescValue": [
+            5
+        ]
+    },
+    {
+        "Id": 52102,
+        "SkillId": 380170102,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 52101,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 5,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_52_02_name",
+        "Des": "aliendefence.Upgrade_52_02_des",
+        "DescValue": [
+            30
+        ]
+    },
+    {
+        "Id": 52103,
+        "SkillId": 380170103,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 5,
+        "Icon": 1001346,
+        "Name": "aliendefence.Upgrade_52_03_name",
+        "Des": "aliendefence.Upgrade_52_03_des",
+        "DescValue": [
+            40
+        ]
+    },
+    {
+        "Id": 53101,
+        "SkillId": 380190101,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 5,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_53_01_name",
+        "Des": "aliendefence.Upgrade_53_01_des"
+    },
+    {
+        "Id": 53102,
+        "SkillId": 380190102,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 53101,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 5,
+        "Icon": 1001346,
+        "Name": "aliendefence.Upgrade_53_02_name",
+        "Des": "aliendefence.Upgrade_53_02_des",
+        "DescValue": [
+            8,
+            200,
+            8
+        ]
+    },
+    {
+        "Id": 53103,
+        "SkillId": 380190103,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 5,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_53_03_name",
+        "Des": "aliendefence.Upgrade_53_03_des",
+        "DescValue": [
+            50
+        ]
+    },
+    {
+        "Id": 54101,
+        "SkillId": 380210101,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 5,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_54_01_name",
+        "Des": "aliendefence.Upgrade_54_01_des",
+        "DescValue": [
+            2
+        ]
+    },
+    {
+        "Id": 54102,
+        "SkillId": 380210102,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 5,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_54_02_name",
+        "Des": "aliendefence.Upgrade_54_02_des"
+    },
+    {
+        "Id": 54103,
+        "SkillId": 380210103,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 54101,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 5,
+        "Icon": 1001346,
+        "Name": "aliendefence.Upgrade_54_03_name",
+        "Des": "aliendefence.Upgrade_54_03_des",
+        "DescValue": [
+            80,
+            200,
+            4
+        ]
+    },
+    {
+        "Id": 55101,
+        "SkillId": 380180101,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 5,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_55_01_name",
+        "Des": "aliendefence.Upgrade_55_01_des"
+    },
+    {
+        "Id": 55102,
+        "SkillId": 380180102,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 5,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_55_02_name",
+        "Des": "aliendefence.Upgrade_55_02_des",
+        "DescValue": [
+            60
+        ]
+    },
+    {
+        "Id": 55103,
+        "SkillId": 380180103,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 55101,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 5,
+        "Icon": 1001346,
+        "Name": "aliendefence.Upgrade_55_03_name",
+        "Des": "aliendefence.Upgrade_55_03_des"
+    },
+    {
+        "Id": 97001,
+        "SkillId": "",
+        "ModifierId": 3809801,
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": "",
+        "SpecialUpgrade": 2,
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001335,
+        "Name": "aliendefence.Upgrade_998_01_name",
+        "Des": "aliendefence.Upgrade_998_01_des",
+        "DescValue": [
+            20
+        ]
+    },
+    {
+        "Id": 97002,
+        "SkillId": "",
+        "ModifierId": 3809802,
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": "",
+        "SpecialUpgrade": 4,
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_998_02_name",
+        "Des": "aliendefence.Upgrade_998_02_des",
+        "DescValue": [
+            20
+        ]
+    },
+    {
+        "Id": 97003,
+        "SkillId": "",
+        "ModifierId": 3809803,
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": "",
+        "SpecialUpgrade": 3,
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001335,
+        "Name": "aliendefence.Upgrade_998_03_name",
+        "Des": "aliendefence.Upgrade_998_03_des",
+        "DescValue": [
+            20
+        ]
+    },
+    {
+        "Id": 98001,
+        "SkillId": 380990701,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": 1,
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_999_07_01_name",
+        "Des": "aliendefence.Upgrade_999_07_01_des",
+        "DescValue": [
+            2
+        ]
+    },
+    {
+        "Id": 98002,
+        "SkillId": 380990702,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": 1,
+        "PreUpgradeId": 98001,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001335,
+        "Name": "aliendefence.Upgrade_999_07_02_name",
+        "Des": "aliendefence.Upgrade_999_07_02_des",
+        "DescValue": [
+            4
+        ]
+    },
+    {
+        "Id": 98003,
+        "SkillId": 380990703,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": 1,
+        "PreUpgradeId": 98002,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_999_07_03_name",
+        "Des": "aliendefence.Upgrade_999_07_03_des",
+        "DescValue": [
+            60
+        ]
+    },
+    {
+        "Id": 98004,
+        "SkillId": "",
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": 1,
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001335,
+        "Name": "aliendefence.Upgrade_999_02_01_name",
+        "Des": "aliendefence.Upgrade_999_02_01_des"
+    },
+    {
+        "Id": 98005,
+        "SkillId": 380990201,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": 1,
+        "PreUpgradeId": 98004,
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_999_02_02_name",
+        "Des": "aliendefence.Upgrade_999_02_02_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 98006,
+        "SkillId": 380990301,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": 1,
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001335,
+        "Name": "aliendefence.Upgrade_999_03_01_name",
+        "Des": "aliendefence.Upgrade_999_03_01_des",
+        "DescValue": [
+            30,
+            3
+        ]
+    },
+    {
+        "Id": 98007,
+        "SkillId": 380990302,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": 1,
+        "PreUpgradeId": 98006,
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_999_03_02_name",
+        "Des": "aliendefence.Upgrade_999_03_02_des",
+        "DescValue": [
+            50,
+            5
+        ]
+    },
+    {
+        "Id": 98008,
+        "SkillId": 380990401,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": 1,
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001335,
+        "Name": "aliendefence.Upgrade_999_04_01_name",
+        "Des": "aliendefence.Upgrade_999_04_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 98009,
+        "SkillId": 380990402,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": 1,
+        "PreUpgradeId": 98008,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_999_04_02_name",
+        "Des": "aliendefence.Upgrade_999_04_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 98010,
+        "SkillId": 380990403,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": 1,
+        "PreUpgradeId": 98009,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001335,
+        "Name": "aliendefence.Upgrade_999_04_03_name",
+        "Des": "aliendefence.Upgrade_999_04_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 98011,
+        "SkillId": 380990501,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": 1,
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_999_05_01_name",
+        "Des": "aliendefence.Upgrade_999_05_01_des"
+    },
+    {
+        "Id": 98012,
+        "SkillId": 380990502,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": 1,
+        "PreUpgradeId": 98011,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001335,
+        "Name": "aliendefence.Upgrade_999_05_02_name",
+        "Des": "aliendefence.Upgrade_999_05_02_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 98013,
+        "SkillId": 380990601,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 3,
+        "SpecialUpgrade": 5,
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_999_06_01_name",
+        "Des": "aliendefence.Upgrade_999_06_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 98014,
+        "SkillId": "",
+        "ModifierId": 3809911,
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 3,
+        "SpecialUpgrade": 5,
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001335,
+        "Name": "aliendefence.Upgrade_999_08_01_name",
+        "Des": "aliendefence.Upgrade_999_04_des",
+        "DescValue": [
+            20
+        ],
+        "DifferenceDes": "aliendefence.Upgrade_Difference_01_des"
+    },
+    {
+        "Id": 98015,
+        "SkillId": "",
+        "ModifierId": 3809912,
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 3,
+        "SpecialUpgrade": 5,
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_999_08_02_name",
+        "Des": "aliendefence.Upgrade_999_04_des",
+        "DescValue": [
+            40
+        ]
+    },
+    {
+        "Id": 98016,
+        "SkillId": "",
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": 600,
+        "UpgradeType": 3,
+        "SpecialUpgrade": 5,
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001335,
+        "Name": "aliendefence.Upgrade_999_01_01_name",
+        "Des": "aliendefence.Upgrade_999_01_01_des",
+        "DescValue": [
+            600
+        ],
+        "DifferenceDes": "aliendefence.Upgrade_Difference_04_des"
+    },
+    {
+        "Id": 98017,
+        "SkillId": "",
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": -1.0,
+        "UpgradeType": 3,
+        "SpecialUpgrade": 5,
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_999_01_02_name",
+        "Des": "aliendefence.Upgrade_999_01_02_des",
+        "DescValue": [
+            -1
+        ]
+    },
+    {
+        "Id": 99001,
+        "SkillId": "",
+        "ModifierId": 3809804,
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 4,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 1,
+        "AutoChooseLevel": 1,
+        "Icon": 1001335,
+        "Name": "aliendefence.Upgrade_997_01_01_name",
+        "Des": "aliendefence.Upgrade_997_01_des",
+        "DescValue": [
+            20
+        ],
+        "DifferenceDes": "aliendefence.Upgrade_Difference_01_des"
+    },
+    {
+        "Id": 99002,
+        "SkillId": "",
+        "ModifierId": 3809805,
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 4,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 1,
+        "AutoChooseLevel": 1,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_997_01_02_name",
+        "Des": "aliendefence.Upgrade_997_01_des",
+        "DescValue": [
+            40
+        ]
+    },
+    {
+        "Id": 99003,
+        "SkillId": "",
+        "ModifierId": "",
+        "SkillAttackDistanceFix": 500,
+        "TurretBulletNum": "",
+        "UpgradeType": 4,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 1,
+        "AutoChooseLevel": 1,
+        "Icon": 1001335,
+        "Name": "aliendefence.Upgrade_997_02_01_name",
+        "Des": "aliendefence.Upgrade_997_02_des",
+        "DescValue": [
+            5
+        ],
+        "DifferenceDes": "aliendefence.Upgrade_Difference_02_des"
+    },
+    {
+        "Id": 99004,
+        "SkillId": "",
+        "ModifierId": "",
+        "SkillAttackDistanceFix": 1000,
+        "TurretBulletNum": "",
+        "UpgradeType": 4,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 1,
+        "AutoChooseLevel": 1,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_997_02_02_name",
+        "Des": "aliendefence.Upgrade_997_02_des",
+        "DescValue": [
+            10
+        ]
+    },
+    {
+        "Id": 99005,
+        "SkillId": "",
+        "ModifierId": 3809806,
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 4,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 1,
+        "AutoChooseLevel": 1,
+        "Icon": 1001335,
+        "Name": "aliendefence.Upgrade_997_03_01_name",
+        "Des": "aliendefence.Upgrade_997_03_des",
+        "DescValue": [
+            10
+        ],
+        "DifferenceDes": "aliendefence.Upgrade_Difference_03_des"
+    },
+    {
+        "Id": 99006,
+        "SkillId": "",
+        "ModifierId": 3809807,
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 4,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 1,
+        "AutoChooseLevel": 1,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_997_03_02_name",
+        "Des": "aliendefence.Upgrade_997_03_des",
+        "DescValue": [
+            20
+        ]
+    },
+    {
+        "Id": 1,
+        "SkillId": 380010302,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 1106,
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001342,
+        "Name": "aliendefence.Upgrade_01_03_02_name",
+        "Des": "aliendefence.Upgrade_01_04_des",
+        "DescValue": [
+            3
+        ]
+    },
+    {
+        "Id": 2,
+        "SkillId": 380010401,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001342,
+        "Name": "aliendefence.Upgrade_01_04_name",
+        "Des": "aliendefence.Upgrade_01_05_des",
+        "DescValue": [
+            4
+        ]
+    },
+    {
+        "Id": 3,
+        "SkillId": 380010601,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001339,
+        "Name": "aliendefence.Upgrade_01_06_01_name",
+        "Des": "aliendefence.Upgrade_01_07_des",
+        "DescValue": [
+            2,
+            15
+        ]
+    },
+    {
+        "Id": 4,
+        "SkillId": 380010602,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 3,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001339,
+        "Name": "aliendefence.Upgrade_01_06_02_name",
+        "Des": "aliendefence.Upgrade_01_08_des",
+        "DescValue": [
+            2,
+            15
+        ]
+    },
+    {
+        "Id": 5,
+        "SkillId": 380020301,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 1,
+        "AutoChooseLevel": 1,
+        "Icon": 1001342,
+        "Name": "aliendefence.Upgrade_02_03_01_name",
+        "Des": "aliendefence.Upgrade_02_03_des",
+        "DescValue": [
+            5
+        ]
+    },
+    {
+        "Id": 6,
+        "SkillId": 380020302,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 5,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001342,
+        "Name": "aliendefence.Upgrade_02_03_02_name",
+        "Des": "aliendefence.Upgrade_02_04_des",
+        "DescValue": [
+            5
+        ]
+    },
+    {
+        "Id": 7,
+        "SkillId": 380020501,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 5,
+        "IsReduceCd": "",
+        "UpgradeLevel": 1,
+        "AutoChooseLevel": 1,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_02_05_01_name",
+        "Des": "aliendefence.Upgrade_02_06_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 8,
+        "SkillId": 380020502,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 7,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_02_05_02_name",
+        "Des": "aliendefence.Upgrade_02_06_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 9,
+        "SkillId": 380020601,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_02_06_name",
+        "Des": "aliendefence.Upgrade_02_07_des",
+        "DescValue": [
+            50
+        ]
+    },
+    {
+        "Id": 10,
+        "SkillId": 380020701,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001346,
+        "Name": "aliendefence.Upgrade_02_07_01_name",
+        "Des": "aliendefence.Upgrade_02_08_des",
+        "DescValue": [
+            3
+        ]
+    },
+    {
+        "Id": 11,
+        "SkillId": 380020702,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 10,
+        "IsReduceCd": "",
+        "UpgradeLevel": 1,
+        "AutoChooseLevel": 1,
+        "Icon": 1001346,
+        "Name": "aliendefence.Upgrade_02_07_02_name",
+        "Des": "aliendefence.Upgrade_02_09_des",
+        "DescValue": [
+            3
+        ]
+    },
+    {
+        "Id": 12,
+        "SkillId": 380030502,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 3109,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_03_05_02_name",
+        "Des": "aliendefence.Upgrade_03_06_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 13,
+        "SkillId": 380030601,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 3104,
+        "IsReduceCd": "",
+        "UpgradeLevel": 1,
+        "AutoChooseLevel": 1,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_03_06_01_name",
+        "Des": "aliendefence.Upgrade_03_07_des",
+        "DescValue": [
+            30
+        ]
+    },
+    {
+        "Id": 14,
+        "SkillId": 380030602,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 13,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_03_06_02_name",
+        "Des": "aliendefence.Upgrade_03_07_des",
+        "DescValue": [
+            30
+        ]
+    },
+    {
+        "Id": 15,
+        "SkillId": 380050101,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 1,
+        "AutoChooseLevel": 1,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_05_01_01_name",
+        "Des": "aliendefence.Upgrade_05_01_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 16,
+        "SkillId": 380050102,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 15,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001334,
+        "Name": "aliendefence.Upgrade_05_01_02_name",
+        "Des": "aliendefence.Upgrade_05_01_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 17,
+        "SkillId": 380050402,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 5107,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001343,
+        "Name": "aliendefence.Upgrade_05_04_02_name",
+        "Des": "aliendefence.Upgrade_05_06_des",
+        "DescValue": [
+            3
+        ]
+    },
+    {
+        "Id": 18,
+        "SkillId": 380050601,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001341,
+        "Name": "aliendefence.Upgrade_05_06_01_name",
+        "Des": "aliendefence.Upgrade_05_08_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 19,
+        "SkillId": 380050602,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 18,
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001341,
+        "Name": "aliendefence.Upgrade_05_06_02_name",
+        "Des": "aliendefence.Upgrade_05_08_des",
+        "DescValue": [
+            1
+        ]
+    },
+    {
+        "Id": 20,
+        "SkillId": 380050701,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 3,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 1,
+        "AutoChooseLevel": 1,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_05_07_name",
+        "Des": "aliendefence.Upgrade_05_09_des",
+        "DescValue": [
+            30
+        ]
+    },
+    {
+        "Id": 21,
+        "SkillId": 380060801,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": 1,
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001345,
+        "Name": "aliendefence.Upgrade_06_07_name",
+        "Des": "aliendefence.Upgrade_06_10_des",
+        "DescValue": [
+            50
+        ]
+    },
+    {
+        "Id": 22,
+        "SkillId": 380060301,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 1,
+        "AutoChooseLevel": 1,
+        "Icon": 1001343,
+        "Name": "aliendefence.Upgrade_06_02_01_name",
+        "Des": "aliendefence.Upgrade_06_02_des",
+        "DescValue": [
+            5
+        ]
+    },
+    {
+        "Id": 23,
+        "SkillId": 380060302,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 22,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001343,
+        "Name": "aliendefence.Upgrade_06_02_02_name",
+        "Des": "aliendefence.Upgrade_06_03_des",
+        "DescValue": [
+            5
+        ]
+    },
+    {
+        "Id": 24,
+        "SkillId": 380060701,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_06_06_01_name",
+        "Des": "aliendefence.Upgrade_06_08_des",
+        "DescValue": [
+            5,
+            30
+        ]
+    },
+    {
+        "Id": 25,
+        "SkillId": 380060702,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 24,
+        "IsReduceCd": "",
+        "UpgradeLevel": 1,
+        "AutoChooseLevel": 1,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_06_06_02_name",
+        "Des": "aliendefence.Upgrade_06_09_des",
+        "DescValue": [
+            5,
+            30
+        ]
+    },
+    {
+        "Id": 26,
+        "SkillId": 380060501,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001336,
+        "Name": "aliendefence.Upgrade_06_04_01_name",
+        "Des": "aliendefence.Upgrade_06_06_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 27,
+        "SkillId": 380060502,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 26,
+        "IsReduceCd": "",
+        "UpgradeLevel": 1,
+        "AutoChooseLevel": 1,
+        "Icon": 1001336,
+        "Name": "aliendefence.Upgrade_06_04_02_name",
+        "Des": "aliendefence.Upgrade_06_06_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 28,
+        "SkillId": 380070301,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 1,
+        "AutoChooseLevel": 1,
+        "Icon": 1001336,
+        "Name": "aliendefence.Upgrade_07_03_01_name",
+        "Des": "aliendefence.Upgrade_07_03_des",
+        "DescValue": [
+            80
+        ]
+    },
+    {
+        "Id": 29,
+        "SkillId": 380070302,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 28,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001336,
+        "Name": "aliendefence.Upgrade_07_03_02_name",
+        "Des": "aliendefence.Upgrade_07_03_des",
+        "DescValue": [
+            80
+        ]
+    },
+    {
+        "Id": 30,
+        "SkillId": 380070601,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 1,
+        "AutoChooseLevel": 1,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_07_06_01_name",
+        "Des": "aliendefence.Upgrade_07_06_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 31,
+        "SkillId": 380070602,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 2,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 30,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_07_06_02_name",
+        "Des": "aliendefence.Upgrade_07_06_des",
+        "DescValue": [
+            100
+        ]
+    },
+    {
+        "Id": 32,
+        "SkillId": 380070801,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 3,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001338,
+        "Name": "aliendefence.Upgrade_07_08_name",
+        "Des": "aliendefence.Upgrade_07_08_des",
+        "DescValue": [
+            4
+        ]
+    },
+    {
+        "Id": 33,
+        "SkillId": 380080201,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 1,
+        "AutoChooseLevel": 1,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_08_02_01_name",
+        "Des": "aliendefence.Upgrade_08_02_des",
+        "DescValue": [
+            50
+        ]
+    },
+    {
+        "Id": 34,
+        "SkillId": 380080202,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 33,
+        "IsReduceCd": "",
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_08_02_02_name",
+        "Des": "aliendefence.Upgrade_08_02_des",
+        "DescValue": [
+            50
+        ]
+    },
+    {
+        "Id": 35,
+        "SkillId": 380080402,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 8105,
+        "IsReduceCd": "",
+        "UpgradeLevel": 1,
+        "AutoChooseLevel": 1,
+        "Icon": 1001337,
+        "Name": "aliendefence.Upgrade_08_03_03_name",
+        "Des": "aliendefence.Upgrade_08_03_01_des",
+        "DescValue": [
+            150
+        ]
+    },
+    {
+        "Id": 36,
+        "SkillId": 380080501,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": 1,
+        "UpgradeLevel": 2,
+        "AutoChooseLevel": 2,
+        "Icon": 1001336,
+        "Name": "aliendefence.Upgrade_08_04_01_name",
+        "Des": "aliendefence.Upgrade_08_04_01_des",
+        "DescValue": [
+            20,
+            40
+        ]
+    },
+    {
+        "Id": 37,
+        "SkillId": 380080502,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 1,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": 36,
+        "IsReduceCd": 1,
+        "UpgradeLevel": 3,
+        "AutoChooseLevel": 3,
+        "Icon": 1001336,
+        "Name": "aliendefence.Upgrade_08_04_02_name",
+        "Des": "aliendefence.Upgrade_08_04_01_des",
+        "DescValue": [
+            20,
+            40
+        ]
+    },
+    {
+        "Id": 38,
+        "SkillId": 380080801,
+        "ModifierId": "",
+        "SkillAttackDistanceFix": "",
+        "TurretBulletNum": "",
+        "UpgradeType": 3,
+        "SpecialUpgrade": "",
+        "PreUpgradeId": "",
+        "IsReduceCd": "",
+        "UpgradeLevel": 4,
+        "AutoChooseLevel": 4,
+        "Icon": 1001347,
+        "Name": "aliendefence.Upgrade_08_07_name",
+        "Des": "aliendefence.Upgrade_08_08_des",
+        "DescValue": [
+            100
+        ]
+    }
+]

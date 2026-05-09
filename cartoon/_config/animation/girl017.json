@@ -1,0 +1,21 @@
+[
+    {
+        "Id": 1,
+        "Explain": "待机",
+        "Type": "sequence",
+        "Name": "girl017_ui_stand01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl017/Anim/girl017_ui_stand01.girl017_ui_stand01'"
+    },
+    {
+        "Id": 100,
+        "Explain": "一次思考",
+        "Type": "custom_seq",
+        "Name": "11;12;13"
+    },
+    {
+        "Id": 101,
+        "Explain": "思考循环",
+        "Type": "custom_loop_last",
+        "Name": "11;12"
+    }
+]

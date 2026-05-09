@@ -1,0 +1,95 @@
+[
+    {
+        "Id": 1,
+        "StartTime": "[202401010400]",
+        "EndTime": "[202401010400]",
+        "WaLLId": "",
+        "AreaName": "ui.TxtVircaptureNewArea1",
+        "Path": "/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area11.uw_fight_catch_area11_C",
+        "Position": [
+            -415,
+            -656
+        ],
+        "InfoPosition": [
+            -415,
+            -656
+        ],
+        "UnlockLevel": 15
+    },
+    {
+        "Id": 2,
+        "StartTime": "[202401010400]",
+        "EndTime": "[202406071640]",
+        "WaLLId": [
+            2201,
+            2202
+        ],
+        "AreaName": "ui.TxtVircaptureNewArea2",
+        "Path": "/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area07.uw_fight_catch_area07_C",
+        "Position": [
+            320,
+            -512
+        ],
+        "InfoPosition": [
+            320,
+            -512
+        ],
+        "UnlockLevel": 17
+    },
+    {
+        "Id": 3,
+        "StartTime": "[202401010400]",
+        "EndTime": "[202406071640]",
+        "WaLLId": [
+            2301,
+            2302,
+            2303,
+            2304
+        ],
+        "AreaName": "ui.TxtVircaptureNewArea3",
+        "Path": "/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area08.uw_fight_catch_area08_C",
+        "Position": [
+            -275,
+            0
+        ],
+        "InfoPosition": [
+            -275,
+            0
+        ],
+        "UnlockLevel": 20
+    },
+    {
+        "Id": 4,
+        "StartTime": "[202401010400]",
+        "EndTime": "[202406071700]",
+        "WaLLId": "",
+        "AreaName": "ui.TxtVircaptureUnknown",
+        "Path": "/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area09.uw_fight_catch_area09_C",
+        "Position": [
+            -378,
+            816
+        ],
+        "InfoPosition": [
+            -378,
+            816
+        ],
+        "UnlockLevel": -1.0
+    },
+    {
+        "Id": 5,
+        "StartTime": "[202401010400]",
+        "EndTime": "[202406071700]",
+        "WaLLId": "",
+        "AreaName": "ui.TxtVircaptureUnknown",
+        "Path": "/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area09.uw_fight_catch_area09_C",
+        "Position": [
+            672,
+            574
+        ],
+        "InfoPosition": [
+            672,
+            574
+        ],
+        "UnlockLevel": -1.0
+    }
+]

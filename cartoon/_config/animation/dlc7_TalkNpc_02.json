@@ -1,0 +1,24 @@
+[
+    {
+        "Id": 1,
+        "Explain": "待机",
+        "Type": "sequence",
+        "Name": "mon004_task_scared_loop",
+        "Path": "AnimSequence'/Game/Characters/Monster/mon004c/Anim/mon004_task_scared_loop.mon004_task_scared_loop'"
+    },
+    {
+        "Id": 100,
+        "Explain": "组合动作",
+        "Type": "custom_seq"
+    },
+    {
+        "Id": 101,
+        "Explain": "全部循环",
+        "Type": "custom_loop"
+    },
+    {
+        "Id": 102,
+        "Explain": "循环最后一个",
+        "Type": "custom_loop_last"
+    }
+]

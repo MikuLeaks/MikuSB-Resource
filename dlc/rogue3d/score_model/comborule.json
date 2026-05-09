@@ -1,0 +1,72 @@
+[
+    {
+        "ComboLevel": 1,
+        "Buff": "",
+        "Score": 500,
+        "DecreaseParameter": [
+            20,
+            1
+        ],
+        "ProteceTime": 0,
+        "ScoreNumByDmg": [
+            5000,
+            1
+        ],
+        "SingleScoreLimit": 100,
+        "Music": "BGM|Fight|Activity|DLC30,DLC|Fight04,Stage|Stage01"
+    },
+    {
+        "ComboLevel": 2,
+        "Buff": [
+            5006
+        ],
+        "Score": 2000,
+        "DecreaseParameter": [
+            40,
+            1
+        ],
+        "ProteceTime": 2,
+        "ScoreNumByDmg": [
+            5000,
+            1
+        ],
+        "SingleScoreLimit": 200,
+        "Music": "BGM|Fight|Activity|DLC30,DLC|Fight04,Stage|Stage02"
+    },
+    {
+        "ComboLevel": 3,
+        "Buff": [
+            5007
+        ],
+        "Score": 4000,
+        "DecreaseParameter": [
+            50,
+            1
+        ],
+        "ProteceTime": 2,
+        "ScoreNumByDmg": [
+            5000,
+            1
+        ],
+        "SingleScoreLimit": 200,
+        "Music": "BGM|Fight|Activity|DLC30,DLC|Fight04,Stage|Stage03"
+    },
+    {
+        "ComboLevel": 4,
+        "Buff": [
+            5008
+        ],
+        "Score": 600,
+        "DecreaseParameter": [
+            60,
+            1
+        ],
+        "ProteceTime": 2,
+        "ScoreNumByDmg": [
+            5000,
+            1
+        ],
+        "SingleScoreLimit": 200,
+        "Music": "BGM|Fight|Activity|DLC30,DLC|Fight04,Stage|Stage04"
+    }
+]

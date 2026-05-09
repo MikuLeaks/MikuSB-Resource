@@ -1,0 +1,305 @@
+[
+    {
+        "MapID": 101,
+        "SubMapID": 1,
+        "NodeID": 1,
+        "NodePosition": 3,
+        "NearNodeList": [
+            13
+        ],
+        "RouteList": [
+            [
+                3,
+                8,
+                13
+            ]
+        ],
+        "ShowCondition": -1.0,
+        "NodeEvent": [
+            1000,
+            9000
+        ],
+        "IsUnknownNode": "",
+        "LevelID": {
+            "1001": 10000
+        },
+        "MonsterBuffList": "",
+        "MonsterGrade": "",
+        "RandomID": "",
+        "ShopID": {
+            "2001": 5000,
+            "2002": 5000
+        }
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 1,
+        "NodeID": 2,
+        "NodePosition": 13,
+        "NearNodeList": [
+            3,
+            20,
+            21
+        ],
+        "RouteList": [
+            [
+                13,
+                8,
+                3
+            ],
+            [
+                13,
+                14,
+                15,
+                20
+            ],
+            [
+                13,
+                12,
+                11,
+                16,
+                21
+            ]
+        ],
+        "ShowCondition": -1.0
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 1,
+        "NodeID": 3,
+        "NodePosition": 20
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 1,
+        "NodeID": 4,
+        "NodePosition": 21
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 1,
+        "NodeID": 5,
+        "NodePosition": 28
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 1,
+        "NodeID": 6,
+        "NodePosition": 30
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 1,
+        "NodeID": 7,
+        "NodePosition": 37
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 1,
+        "NodeID": 8,
+        "NodePosition": 39
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 1,
+        "NodeID": 9,
+        "NodePosition": 46
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 1,
+        "NodeID": 10,
+        "NodePosition": 48
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 1,
+        "NodeID": 11,
+        "NodePosition": 57
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 1,
+        "NodeID": 12,
+        "NodePosition": 60
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 1,
+        "NodeID": 13,
+        "NodePosition": 68
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 2,
+        "NodeID": 1,
+        "NodePosition": 3
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 2,
+        "NodeID": 2,
+        "NodePosition": 13
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 2,
+        "NodeID": 3,
+        "NodePosition": 20
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 2,
+        "NodeID": 4,
+        "NodePosition": 21
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 2,
+        "NodeID": 5,
+        "NodePosition": 28
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 2,
+        "NodeID": 6,
+        "NodePosition": 30
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 2,
+        "NodeID": 7,
+        "NodePosition": 37
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 2,
+        "NodeID": 8,
+        "NodePosition": 39
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 2,
+        "NodeID": 9,
+        "NodePosition": 46
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 2,
+        "NodeID": 10,
+        "NodePosition": 48
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 2,
+        "NodeID": 11,
+        "NodePosition": 57
+    },
+    {
+        "MapID": 101,
+        "SubMapID": 2,
+        "NodeID": 12,
+        "NodePosition": 60
+    },
+    {
+        "MapID": 102,
+        "SubMapID": "",
+        "NodeID": 1,
+        "NodePosition": 68
+    },
+    {
+        "MapID": 102,
+        "SubMapID": "",
+        "NodeID": 2
+    },
+    {
+        "MapID": 102,
+        "SubMapID": "",
+        "NodeID": 3
+    },
+    {
+        "MapID": 102,
+        "SubMapID": "",
+        "NodeID": 4
+    },
+    {
+        "MapID": 102,
+        "SubMapID": "",
+        "NodeID": 5
+    },
+    {
+        "MapID": 102,
+        "SubMapID": "",
+        "NodeID": 6
+    },
+    {
+        "MapID": 102,
+        "SubMapID": "",
+        "NodeID": 7
+    },
+    {
+        "MapID": 102,
+        "SubMapID": "",
+        "NodeID": 8
+    },
+    {
+        "MapID": 102,
+        "SubMapID": "",
+        "NodeID": 9
+    },
+    {
+        "MapID": 102,
+        "SubMapID": "",
+        "NodeID": 10
+    },
+    {
+        "MapID": 102,
+        "SubMapID": "",
+        "NodeID": 11
+    },
+    {
+        "MapID": 102,
+        "SubMapID": "",
+        "NodeID": 12
+    },
+    {
+        "MapID": 102,
+        "SubMapID": "",
+        "NodeID": 13
+    },
+    {
+        "MapID": 102,
+        "SubMapID": "",
+        "NodeID": 14
+    },
+    {
+        "MapID": 102,
+        "SubMapID": "",
+        "NodeID": 15
+    },
+    {
+        "MapID": 102,
+        "SubMapID": "",
+        "NodeID": 16
+    },
+    {
+        "MapID": 102,
+        "SubMapID": "",
+        "NodeID": 17
+    },
+    {
+        "MapID": 102,
+        "SubMapID": "",
+        "NodeID": 18
+    },
+    {
+        "MapID": 102,
+        "SubMapID": "",
+        "NodeID": 19
+    },
+    {
+        "MapID": 102,
+        "SubMapID": "",
+        "NodeID": 20
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "day_price_rise": 4,
+        "init_cards": "1,100;2,50;3,100;5,400;9,50;13,50;7,10",
+        "card_num": 2,
+        "type": 0,
+        "max_round": 30,
+        "init_money": 30000,
+        "max_money": "",
+        "map_id": 1001,
+        "map_des": "season_item.TxtRichUIMapdes1",
+        "map_target": "season_task.richmantask1.desc"
+    },
+    {
+        "id": 2,
+        "day_price_rise": 4,
+        "init_cards": "1,100;2,50;3,100;5,400;9,50;13,50;7,10",
+        "card_num": 2,
+        "type": 0,
+        "max_round": 30,
+        "init_money": 40000,
+        "max_money": "",
+        "map_id": 1002,
+        "map_des": "season_item.TxtRichUIMapdes2",
+        "map_target": "season_task.richmantask2.desc"
+    },
+    {
+        "id": 3,
+        "day_price_rise": 4,
+        "init_cards": "1,100;2,50;3,100;5,400;9,50;13,50;7,10",
+        "card_num": 2,
+        "type": 1,
+        "max_round": 30,
+        "init_money": 40000,
+        "max_money": "",
+        "map_id": 1003,
+        "map_des": "season_item.TxtRichUIMapdes3",
+        "map_target": "season_task.richmantask3.desc"
+    },
+    {
+        "id": 4,
+        "day_price_rise": 4,
+        "init_cards": "1,100;2,50;3,300;5,400;9,50;13,50;7,300",
+        "card_num": 2,
+        "type": 0,
+        "max_round": 30,
+        "init_money": 0,
+        "max_money": "",
+        "map_id": 1004,
+        "map_des": "season_item.TxtRichUIMapdes4",
+        "map_target": "season_task.richmantask4.desc"
+    }
+]

@@ -1,0 +1,693 @@
+[
+    {
+        "ShopId": 12,
+        "GroupId": 12,
+        "GroupName": "",
+        "Name": "shop.shop1.Name",
+        "GroupIcon": 1701031,
+        "ShopIcon": "",
+        "UnselectIcon": 1701152,
+        "GroupBg": "",
+        "Sort": "",
+        "OnOff": 1,
+        "Condition": "",
+        "FragmentLimit": "",
+        "GotoUI": "",
+        "tbParam": "",
+        "WidgetType": 1,
+        "BannerImg": "",
+        "Begin": "[202109010000]",
+        "End": "[209909191400]",
+        "Columns": 12,
+        "RefreshRule": 1,
+        "RefreshTime": "[0400]",
+        "Activity": "",
+        "RefreshFee": [
+            50,
+            50,
+            50,
+            50,
+            50
+        ],
+        "RefreshLimits": 5,
+        "MoneyType": 2,
+        "ShopMoneyType": [
+            2,
+            3
+        ],
+        "Version": 3,
+        "ListVersion": "",
+        "Label": 1
+    },
+    {
+        "ShopId": 23,
+        "GroupId": 23,
+        "GroupName": "shop.shop3.GroupName",
+        "Name": "shop.shop16.Name",
+        "GroupIcon": 1701128,
+        "ShopIcon": 1701129,
+        "UnselectIcon": 1701156,
+        "GroupBg": "",
+        "Sort": 1,
+        "OnOff": 1,
+        "Condition": [
+            [
+                [
+                    2,
+                    11514
+                ]
+            ],
+            [
+                [
+                    2,
+                    10503
+                ]
+            ]
+        ],
+        "FragmentLimit": "",
+        "GotoUI": "",
+        "tbParam": "",
+        "WidgetType": 1,
+        "BannerImg": "",
+        "Begin": "[202109010000]",
+        "End": "[209909191400]",
+        "Columns": 13,
+        "RefreshRule": 4,
+        "RefreshTime": "",
+        "Activity": "ClimbTower",
+        "RefreshFee": "",
+        "RefreshLimits": "",
+        "MoneyType": "",
+        "ShopMoneyType": [
+            [
+                5,
+                14,
+                1,
+                1
+            ]
+        ],
+        "Version": 3,
+        "ListVersion": "",
+        "Label": 1
+    },
+    {
+        "ShopId": 24,
+        "GroupId": 23,
+        "GroupName": "shop.shop3.GroupName",
+        "Name": "shop.shop17.Name",
+        "GroupIcon": 1701128,
+        "ShopIcon": 1701129,
+        "UnselectIcon": 1701156,
+        "GroupBg": "",
+        "Sort": 2,
+        "OnOff": 1,
+        "Condition": [
+            [
+                [
+                    2,
+                    11512
+                ]
+            ],
+            [
+                [
+                    2,
+                    10406
+                ]
+            ]
+        ],
+        "FragmentLimit": "",
+        "GotoUI": "",
+        "tbParam": "",
+        "WidgetType": 1,
+        "BannerImg": "",
+        "Begin": "[202109010000]",
+        "End": "[209909191400]",
+        "Columns": 9,
+        "RefreshRule": 2,
+        "RefreshTime": "[0400]",
+        "Activity": "",
+        "RefreshFee": "",
+        "RefreshLimits": "",
+        "MoneyType": "",
+        "ShopMoneyType": [
+            [
+                5,
+                15,
+                1,
+                1
+            ]
+        ],
+        "Version": 3,
+        "ListVersion": "",
+        "Label": 1
+    },
+    {
+        "ShopId": 13,
+        "GroupId": 13,
+        "GroupName": "shop.shop4.GroupName",
+        "Name": "shop.shop20.Name",
+        "GroupIcon": 1701128,
+        "ShopIcon": 1701129,
+        "UnselectIcon": 1701153,
+        "GroupBg": "",
+        "Sort": 1,
+        "OnOff": 1,
+        "Condition": "",
+        "FragmentLimit": "",
+        "GotoUI": "",
+        "tbParam": "",
+        "WidgetType": 1,
+        "BannerImg": "",
+        "Begin": "[202109010000]",
+        "End": "[209909191400]",
+        "Columns": 100,
+        "RefreshRule": 3,
+        "RefreshTime": "[0400]",
+        "Activity": "",
+        "RefreshFee": "",
+        "RefreshLimits": "",
+        "MoneyType": "",
+        "ShopMoneyType": [
+            [
+                5,
+                13,
+                1,
+                4
+            ]
+        ],
+        "Version": 3,
+        "ListVersion": 1,
+        "Label": 1,
+        "CashLimit": 1
+    },
+    {
+        "ShopId": 14,
+        "GroupId": 13,
+        "GroupName": "shop.shop4.GroupName",
+        "Name": "shop.shop21.Name",
+        "GroupIcon": 1701128,
+        "ShopIcon": 1701129,
+        "UnselectIcon": 1701156,
+        "GroupBg": "",
+        "Sort": 2,
+        "OnOff": 1,
+        "Condition": "",
+        "FragmentLimit": "",
+        "GotoUI": "",
+        "tbParam": "",
+        "WidgetType": 1,
+        "BannerImg": "",
+        "Begin": "[202109010000]",
+        "End": "[209909191400]",
+        "Columns": 100,
+        "RefreshRule": 3,
+        "RefreshTime": "[0400]",
+        "Activity": "",
+        "RefreshFee": "",
+        "RefreshLimits": "",
+        "MoneyType": "",
+        "ShopMoneyType": [
+            [
+                5,
+                13,
+                1,
+                3
+            ]
+        ],
+        "Version": 3,
+        "ListVersion": 1,
+        "Label": 1,
+        "CashLimit": 1
+    },
+    {
+        "ShopId": 18,
+        "GroupId": 13,
+        "GroupName": "shop.shop4.GroupName",
+        "Name": "shop.shop12.Name",
+        "GroupIcon": 1701128,
+        "ShopIcon": 1701129,
+        "UnselectIcon": 1701156,
+        "GroupBg": "",
+        "Sort": 3,
+        "OnOff": 1,
+        "Condition": [
+            [
+                [
+                    2,
+                    11508
+                ]
+            ],
+            [
+                [
+                    2,
+                    10412
+                ]
+            ]
+        ],
+        "FragmentLimit": "",
+        "GotoUI": "",
+        "tbParam": "",
+        "WidgetType": 1,
+        "BannerImg": "",
+        "Begin": "[202211070400]",
+        "End": "[209909191400]",
+        "Columns": 99,
+        "RefreshRule": 3,
+        "RefreshTime": "[0400]",
+        "Activity": "",
+        "RefreshFee": "",
+        "RefreshLimits": "",
+        "MoneyType": "",
+        "ShopMoneyType": [
+            [
+                5,
+                7,
+                1,
+                1
+            ]
+        ],
+        "Version": 3,
+        "ListVersion": "",
+        "Label": 1
+    },
+    {
+        "ShopId": 19,
+        "GroupId": 13,
+        "GroupName": "shop.shop4.GroupName",
+        "Name": "shop.shop7.Name",
+        "GroupIcon": 1701128,
+        "ShopIcon": 1701129,
+        "UnselectIcon": 1701153,
+        "GroupBg": "",
+        "Sort": 5,
+        "OnOff": 1,
+        "Condition": "",
+        "FragmentLimit": 1,
+        "GotoUI": "",
+        "tbParam": "",
+        "WidgetType": 1,
+        "BannerImg": "",
+        "Begin": "[202109010000]",
+        "End": "[209909191400]",
+        "Columns": 100,
+        "RefreshRule": 2,
+        "RefreshTime": "[0400]",
+        "Activity": "",
+        "RefreshFee": "",
+        "RefreshLimits": "",
+        "MoneyType": "",
+        "ShopMoneyType": [
+            [
+                5,
+                19,
+                1,
+                1
+            ],
+            [
+                5,
+                19,
+                1,
+                2
+            ]
+        ],
+        "Version": 12,
+        "ListVersion": "",
+        "Label": 1,
+        "CashLimit": 1
+    },
+    {
+        "ShopId": 20,
+        "GroupId": 13,
+        "GroupName": "shop.shop4.GroupName",
+        "Name": "shop.shop22.Name",
+        "GroupIcon": 1701128,
+        "ShopIcon": 1701129,
+        "UnselectIcon": 1701153,
+        "GroupBg": "",
+        "Sort": 6,
+        "OnOff": 1,
+        "Condition": "",
+        "FragmentLimit": 1,
+        "GotoUI": "",
+        "tbParam": "",
+        "WidgetType": 1,
+        "BannerImg": "",
+        "Begin": "[202109010000]",
+        "End": "[209909191400]",
+        "Columns": 100,
+        "RefreshRule": "",
+        "RefreshTime": "",
+        "Activity": "",
+        "RefreshFee": "",
+        "RefreshLimits": "",
+        "MoneyType": "",
+        "ShopMoneyType": [
+            [
+                5,
+                13,
+                2,
+                1
+            ]
+        ],
+        "Version": 13,
+        "ListVersion": "",
+        "Label": 1,
+        "CashLimit": 1
+    },
+    {
+        "ShopId": 21,
+        "GroupId": 13,
+        "GroupName": "shop.shop4.GroupName",
+        "Name": "shop.shop24.Name",
+        "GroupIcon": 1701128,
+        "ShopIcon": 1701129,
+        "UnselectIcon": 1701156,
+        "GroupBg": "",
+        "Sort": 4,
+        "OnOff": 1,
+        "Condition": [
+            [
+                [
+                    2,
+                    11544
+                ]
+            ],
+            [
+                [
+                    4,
+                    256
+                ],
+                [
+                    2,
+                    10809
+                ]
+            ]
+        ],
+        "FragmentLimit": "",
+        "GotoUI": "",
+        "tbParam": "",
+        "WidgetType": 1,
+        "BannerImg": "",
+        "Begin": "[202109010000]",
+        "End": "[209909191400]",
+        "Columns": 100,
+        "RefreshRule": "",
+        "RefreshTime": "",
+        "Activity": "",
+        "RefreshFee": "",
+        "RefreshLimits": "",
+        "MoneyType": "",
+        "ShopMoneyType": [
+            [
+                5,
+                7,
+                1,
+                2
+            ]
+        ],
+        "Version": 4,
+        "ListVersion": "",
+        "Label": 1
+    },
+    {
+        "ShopId": 22,
+        "GroupId": 13,
+        "GroupName": "shop.shop4.GroupName",
+        "Name": "shop.shop25.Name",
+        "GroupIcon": 1701128,
+        "ShopIcon": 1701129,
+        "UnselectIcon": 1701153,
+        "GroupBg": "",
+        "Sort": 7,
+        "OnOff": 1,
+        "Condition": [
+            [
+                [
+                    1,
+                    20
+                ]
+            ]
+        ],
+        "FragmentLimit": "",
+        "GotoUI": "",
+        "tbParam": "",
+        "WidgetType": 1,
+        "BannerImg": "",
+        "Begin": "[202109010000]",
+        "End": "[209909191400]",
+        "Columns": 100,
+        "RefreshRule": "",
+        "RefreshTime": "",
+        "Activity": "",
+        "RefreshFee": "",
+        "RefreshLimits": "",
+        "MoneyType": "",
+        "ShopMoneyType": [
+            [
+                5,
+                13,
+                2,
+                2
+            ]
+        ],
+        "Version": 4,
+        "ListVersion": "",
+        "Label": 1
+    },
+    {
+        "ShopId": 26,
+        "GroupId": 13,
+        "GroupName": "shop.shop4.GroupName",
+        "Name": "shop.shop26.Name",
+        "GroupIcon": 1701128,
+        "ShopIcon": 1701129,
+        "UnselectIcon": 1701153,
+        "GroupBg": "",
+        "Sort": 8,
+        "OnOff": 1,
+        "Condition": [
+            [
+                [
+                    2,
+                    11532
+                ]
+            ],
+            [
+                [
+                    2,
+                    10506
+                ]
+            ]
+        ],
+        "FragmentLimit": "",
+        "GotoUI": "",
+        "tbParam": "",
+        "WidgetType": 1,
+        "BannerImg": "",
+        "Begin": "[202109010000]",
+        "End": "[209909191400]",
+        "Columns": 100,
+        "RefreshRule": "",
+        "RefreshTime": "",
+        "Activity": "",
+        "RefreshFee": "",
+        "RefreshLimits": "",
+        "MoneyType": "",
+        "ShopMoneyType": [
+            [
+                5,
+                13,
+                2,
+                3
+            ]
+        ],
+        "Version": 1,
+        "ListVersion": 1,
+        "Label": 1
+    },
+    {
+        "ShopId": 25,
+        "GroupId": 25,
+        "GroupName": "",
+        "Name": "shop.shop18.Name",
+        "GroupIcon": 1701033,
+        "ShopIcon": "",
+        "UnselectIcon": 1701154,
+        "GroupBg": "",
+        "Sort": "",
+        "OnOff": 1,
+        "Condition": "",
+        "FragmentLimit": "",
+        "GotoUI": "",
+        "tbParam": "",
+        "WidgetType": 1,
+        "BannerImg": "",
+        "Begin": "[202109010000]",
+        "End": "[209909191400]",
+        "Columns": 4,
+        "RefreshRule": "",
+        "RefreshTime": "",
+        "Activity": "",
+        "RefreshFee": "",
+        "RefreshLimits": "",
+        "MoneyType": "",
+        "ShopMoneyType": [
+            2
+        ],
+        "Version": 3,
+        "ListVersion": "",
+        "Label": 1
+    },
+    {
+        "ShopId": 50,
+        "GroupId": 50,
+        "GroupName": "shop.shop23.Name",
+        "Name": "shop.shop27.Name",
+        "GroupIcon": 1701031,
+        "ShopIcon": "",
+        "UnselectIcon": 1701152,
+        "GroupBg": "",
+        "Sort": "",
+        "OnOff": 1,
+        "Condition": "",
+        "FragmentLimit": "",
+        "GotoUI": "",
+        "tbParam": "",
+        "WidgetType": 1,
+        "BannerImg": "",
+        "Begin": "[202109010000]",
+        "End": "[209909191400]",
+        "Columns": 100,
+        "RefreshRule": "",
+        "RefreshTime": "",
+        "Activity": "",
+        "RefreshFee": "",
+        "RefreshLimits": "",
+        "MoneyType": "",
+        "ShopMoneyType": [
+            [
+                5,
+                28,
+                1,
+                1
+            ]
+        ],
+        "Version": 3,
+        "ListVersion": 9,
+        "Label": 1
+    },
+    {
+        "ShopId": 51,
+        "GroupId": 50,
+        "GroupName": "shop.shop23.Name",
+        "Name": "shop.shop28.Name",
+        "GroupIcon": 1701031,
+        "ShopIcon": "",
+        "UnselectIcon": 1701152,
+        "GroupBg": "",
+        "Sort": "",
+        "OnOff": 1,
+        "Condition": "",
+        "FragmentLimit": "",
+        "GotoUI": "",
+        "tbParam": "",
+        "WidgetType": 1,
+        "BannerImg": "",
+        "Begin": "[202109010000]",
+        "End": "[209909191400]",
+        "Columns": 100,
+        "RefreshRule": "",
+        "RefreshTime": "",
+        "Activity": "",
+        "RefreshFee": "",
+        "RefreshLimits": "",
+        "MoneyType": "",
+        "ShopMoneyType": [
+            [
+                5,
+                28,
+                1,
+                1
+            ]
+        ],
+        "Version": 3,
+        "ListVersion": 9,
+        "Label": 1
+    },
+    {
+        "ShopId": 52,
+        "GroupId": 50,
+        "GroupName": "shop.shop23.Name",
+        "Name": "shop.shop30.Name",
+        "GroupIcon": 1701031,
+        "ShopIcon": "",
+        "UnselectIcon": 1701152,
+        "GroupBg": "",
+        "Sort": "",
+        "OnOff": 1,
+        "Condition": "",
+        "FragmentLimit": "",
+        "GotoUI": "",
+        "tbParam": "",
+        "WidgetType": 1,
+        "BannerImg": "",
+        "Begin": "[202109010000]",
+        "End": "[209909191400]",
+        "Columns": 100,
+        "RefreshRule": "",
+        "RefreshTime": "",
+        "Activity": "",
+        "RefreshFee": "",
+        "RefreshLimits": "",
+        "MoneyType": "",
+        "ShopMoneyType": [
+            [
+                5,
+                28,
+                1,
+                1
+            ]
+        ],
+        "Version": 3,
+        "ListVersion": 9,
+        "Label": 1
+    },
+    {
+        "ShopId": 53,
+        "GroupId": 50,
+        "GroupName": "shop.shop23.Name",
+        "Name": "shop.shop29.Name",
+        "GroupIcon": 1701031,
+        "ShopIcon": "",
+        "UnselectIcon": 1701152,
+        "GroupBg": "",
+        "Sort": "",
+        "OnOff": 1,
+        "Condition": "",
+        "FragmentLimit": "",
+        "GotoUI": "",
+        "tbParam": "",
+        "WidgetType": 1,
+        "BannerImg": "",
+        "Begin": "[202109010000]",
+        "End": "[209909191400]",
+        "Columns": 100,
+        "RefreshRule": "",
+        "RefreshTime": "",
+        "Activity": "",
+        "RefreshFee": "",
+        "RefreshLimits": "",
+        "MoneyType": "",
+        "ShopMoneyType": [
+            [
+                5,
+                28,
+                1,
+                1
+            ]
+        ],
+        "Version": 3,
+        "ListVersion": 9,
+        "Label": 1
+    }
+]

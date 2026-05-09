@@ -1,0 +1,854 @@
+[
+    {
+        "Id": 1,
+        "SkinName": "test",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "start",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueReal/Transfer/RogueRealStart_Logic.RogueRealStart_Logic"
+    },
+    {
+        "Id": 2,
+        "SkinName": "test",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "easy",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueReal/PreDev/RogueReal_PreDev_001.RogueReal_PreDev_001",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueReal/PreDev/Task_RogueReal_PreDev_001.Task_RogueReal_PreDev_001"
+    },
+    {
+        "Id": 3,
+        "SkinName": "test",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "normal",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueReal/PreDev/RogueReal_PreDev_005.RogueReal_PreDev_005",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueReal/PreDev/Task_RogueReal_PreDev_005.Task_RogueReal_PreDev_005"
+    },
+    {
+        "Id": 4,
+        "SkinName": "test",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueReal/PreDev/RogueReal_PreDev_003.RogueReal_PreDev_003",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueReal/PreDev/Task_RogueReal_PreDev_003.Task_RogueReal_PreDev_003"
+    },
+    {
+        "Id": 5,
+        "SkinName": "test",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "boss",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueReal/PreDev/RogueReal_PreDev_004.RogueReal_PreDev_004",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueReal/PreDev/Task_RogueReal_PreDev_004.Task_RogueReal_PreDev_004"
+    },
+    {
+        "Id": 6,
+        "SkinName": "test",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "lounge",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueReal/PreDev/RogueReal_PreDev_002.RogueReal_PreDev_002",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueReal/PreDev/Task_RogueReal_PreDev_002.Task_RogueReal_PreDev_002"
+    },
+    {
+        "Id": 10,
+        "SkinName": "transfer",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "start",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueReal/Transfer/RogueRealTransfer_Logic.RogueRealTransfer_Logic"
+    },
+    {
+        "Id": 100,
+        "SkinName": "origin",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "start",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/RogueSeasonStartRoom.RogueSeasonStartRoom"
+    },
+    {
+        "Id": 1001,
+        "SkinName": "area08",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "easy",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/EasyLevel/RogueSeason_Easy_001.RogueSeason_Easy_001",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/EasyLevel/Task_RogueSeason_Easy_001.Task_RogueSeason_Easy_001"
+    },
+    {
+        "Id": 1002,
+        "SkinName": "area10",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "easy",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/EasyLevel/RogueSeason_Easy_002.RogueSeason_Easy_002",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/EasyLevel/Task_RogueSeason_Easy_002.Task_RogueSeason_Easy_002"
+    },
+    {
+        "Id": 1003,
+        "SkinName": "area02",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "easy",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/EasyLevel/RogueSeason_Easy_003.RogueSeason_Easy_003",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/EasyLevel/Task_RogueSeason_Easy_003.Task_RogueSeason_Easy_003"
+    },
+    {
+        "Id": 1004,
+        "SkinName": "area11",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "easy",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/EasyLevel/RogueSeason_Easy_004.RogueSeason_Easy_004",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/EasyLevel/Task_RogueSeason_Easy_004.Task_RogueSeason_Easy_004"
+    },
+    {
+        "Id": 1005,
+        "SkinName": "area25",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "easy",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/EasyLevel/RogueSeason_Easy_005.RogueSeason_Easy_005",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/EasyLevel/Task_RogueSeason_Easy_005.Task_RogueSeason_Easy_005"
+    },
+    {
+        "Id": 1006,
+        "SkinName": "area27",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "easy",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/EasyLevel/RogueSeason_Easy_006.RogueSeason_Easy_006",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/EasyLevel/Task_RogueSeason_Easy_006.Task_RogueSeason_Easy_006"
+    },
+    {
+        "Id": 2001,
+        "SkinName": "area08",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "normal",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/NormalLevel/RogueSeason_Normal_001.RogueSeason_Normal_001",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/NormalLevel/Task_RogueSeason_Normal_001.Task_RogueSeason_Normal_001"
+    },
+    {
+        "Id": 2002,
+        "SkinName": "area10",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "normal",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/NormalLevel/RogueSeason_Normal_002.RogueSeason_Normal_002",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/NormalLevel/Task_RogueSeason_Normal_002.Task_RogueSeason_Normal_002"
+    },
+    {
+        "Id": 2003,
+        "SkinName": "area02",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "normal",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/NormalLevel/RogueSeason_Normal_003.RogueSeason_Normal_003",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/NormalLevel/Task_RogueSeason_Normal_003.Task_RogueSeason_Normal_003"
+    },
+    {
+        "Id": 2004,
+        "SkinName": "area11",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "normal",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/NormalLevel/RogueSeason_Normal_004.RogueSeason_Normal_004",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/NormalLevel/Task_RogueSeason_Normal_004.Task_RogueSeason_Normal_004"
+    },
+    {
+        "Id": 2005,
+        "SkinName": "area08",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "normal",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/NormalLevel/RogueSeason_Normal_005.RogueSeason_Normal_005",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/NormalLevel/Task_RogueSeason_Normal_005.Task_RogueSeason_Normal_005"
+    },
+    {
+        "Id": 2006,
+        "SkinName": "area10",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "normal",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/NormalLevel/RogueSeason_Normal_006.RogueSeason_Normal_006",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/NormalLevel/Task_RogueSeason_Normal_006.Task_RogueSeason_Normal_006"
+    },
+    {
+        "Id": 2007,
+        "SkinName": "area02",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "normal",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/NormalLevel/RogueSeason_Normal_007.RogueSeason_Normal_007",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/NormalLevel/Task_RogueSeason_Normal_007.Task_RogueSeason_Normal_007"
+    },
+    {
+        "Id": 2008,
+        "SkinName": "area11",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "normal",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/NormalLevel/RogueSeason_Normal_008.RogueSeason_Normal_008",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/NormalLevel/Task_RogueSeason_Normal_008.Task_RogueSeason_Normal_008"
+    },
+    {
+        "Id": 2009,
+        "SkinName": "area18",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "normal",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/NormalLevel/RogueSeason_Normal_009.RogueSeason_Normal_009",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/NormalLevel/Task_RogueSeason_Normal_009.Task_RogueSeason_Normal_009"
+    },
+    {
+        "Id": 2010,
+        "SkinName": "area25",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "normal",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/NormalLevel/RogueSeason_Normal_010.RogueSeason_Normal_010",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/NormalLevel/Task_RogueSeason_Normal_010.Task_RogueSeason_Normal_010"
+    },
+    {
+        "Id": 2011,
+        "SkinName": "area27",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "normal",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/NormalLevel/RogueSeason_Normal_011.RogueSeason_Normal_011",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/NormalLevel/Task_RogueSeason_Normal_011.Task_RogueSeason_Normal_011"
+    },
+    {
+        "Id": 3001,
+        "SkinName": "area08",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_001.RogueSeason_Hard_001",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_001.Task_RogueSeason_Hard_001"
+    },
+    {
+        "Id": 3002,
+        "SkinName": "area10",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_002.RogueSeason_Hard_002",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_002.Task_RogueSeason_Hard_002"
+    },
+    {
+        "Id": 3003,
+        "SkinName": "area02",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_003.RogueSeason_Hard_003",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_003.Task_RogueSeason_Hard_003"
+    },
+    {
+        "Id": 3004,
+        "SkinName": "area11",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_004.RogueSeason_Hard_004",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_004.Task_RogueSeason_Hard_004"
+    },
+    {
+        "Id": 3005,
+        "SkinName": "area08",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_005.RogueSeason_Hard_005",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_005.Task_RogueSeason_Hard_005"
+    },
+    {
+        "Id": 3006,
+        "SkinName": "area10",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_006.RogueSeason_Hard_006",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_006.Task_RogueSeason_Hard_006"
+    },
+    {
+        "Id": 3007,
+        "SkinName": "area02",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_007.RogueSeason_Hard_007",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_007.Task_RogueSeason_Hard_007"
+    },
+    {
+        "Id": 3008,
+        "SkinName": "area11",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_008.RogueSeason_Hard_008",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_008.Task_RogueSeason_Hard_008"
+    },
+    {
+        "Id": 3009,
+        "SkinName": "area08",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_009.RogueSeason_Hard_009",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_009.Task_RogueSeason_Hard_009"
+    },
+    {
+        "Id": 3010,
+        "SkinName": "area10",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_010.RogueSeason_Hard_010",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_010.Task_RogueSeason_Hard_010"
+    },
+    {
+        "Id": 3011,
+        "SkinName": "area02",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_011.RogueSeason_Hard_011",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_011.Task_RogueSeason_Hard_011"
+    },
+    {
+        "Id": 3012,
+        "SkinName": "area11",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_012.RogueSeason_Hard_012",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_012.Task_RogueSeason_Hard_012"
+    },
+    {
+        "Id": 3013,
+        "SkinName": "area08",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_013.RogueSeason_Hard_013",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_013.Task_RogueSeason_Hard_013"
+    },
+    {
+        "Id": 3014,
+        "SkinName": "area10",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_014.RogueSeason_Hard_014",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_014.Task_RogueSeason_Hard_014"
+    },
+    {
+        "Id": 3015,
+        "SkinName": "area02",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_015.RogueSeason_Hard_015",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_015.Task_RogueSeason_Hard_015"
+    },
+    {
+        "Id": 3016,
+        "SkinName": "area11",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_016.RogueSeason_Hard_016",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_016.Task_RogueSeason_Hard_016"
+    },
+    {
+        "Id": 3017,
+        "SkinName": "area08",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_017.RogueSeason_Hard_017",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_017.Task_RogueSeason_Hard_017"
+    },
+    {
+        "Id": 3018,
+        "SkinName": "area10",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_018.RogueSeason_Hard_018",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_018.Task_RogueSeason_Hard_018"
+    },
+    {
+        "Id": 3019,
+        "SkinName": "area02",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_019.RogueSeason_Hard_019",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_019.Task_RogueSeason_Hard_019"
+    },
+    {
+        "Id": 3020,
+        "SkinName": "area11",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_020.RogueSeason_Hard_020",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_020.Task_RogueSeason_Hard_020"
+    },
+    {
+        "Id": 3021,
+        "SkinName": "area18",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_021.RogueSeason_Hard_021",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_021.Task_RogueSeason_Hard_021"
+    },
+    {
+        "Id": 3022,
+        "SkinName": "area25",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_022.RogueSeason_Hard_022",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_022.Task_RogueSeason_Hard_022"
+    },
+    {
+        "Id": 3023,
+        "SkinName": "area27",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "hard",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/HardLevel/RogueSeason_Hard_023.RogueSeason_Hard_023",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/HardLevel/Task_RogueSeason_Hard_023.Task_RogueSeason_Hard_023"
+    },
+    {
+        "Id": 4001,
+        "SkinName": "area08",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "boss",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/BossLevel/RogueSeason_Boss_001.RogueSeason_Boss_001",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/BossLevel/Task_RogueSeason_Boss_001.Task_RogueSeason_Boss_001"
+    },
+    {
+        "Id": 4002,
+        "SkinName": "area10",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "boss",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/BossLevel/RogueSeason_Boss_002.RogueSeason_Boss_002",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/BossLevel/Task_RogueSeason_Boss_002.Task_RogueSeason_Boss_002"
+    },
+    {
+        "Id": 4003,
+        "SkinName": "area02",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "boss",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/BossLevel/RogueSeason_Boss_003.RogueSeason_Boss_003",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/BossLevel/Task_RogueSeason_Boss_003.Task_RogueSeason_Boss_003"
+    },
+    {
+        "Id": 4004,
+        "SkinName": "area11",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "boss",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/BossLevel/RogueSeason_Boss_004.RogueSeason_Boss_004",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/BossLevel/Task_RogueSeason_Boss_004.Task_RogueSeason_Boss_004"
+    },
+    {
+        "Id": 4005,
+        "SkinName": "area08",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "boss",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/BossLevel/RogueSeason_Boss_005.RogueSeason_Boss_005",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/BossLevel/Task_RogueSeason_Boss_005.Task_RogueSeason_Boss_005"
+    },
+    {
+        "Id": 4006,
+        "SkinName": "area10",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "boss",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/BossLevel/RogueSeason_Boss_006.RogueSeason_Boss_006",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/BossLevel/Task_RogueSeason_Boss_006.Task_RogueSeason_Boss_006"
+    },
+    {
+        "Id": 4007,
+        "SkinName": "area02",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "boss",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/BossLevel/RogueSeason_Boss_007.RogueSeason_Boss_007",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/BossLevel/Task_RogueSeason_Boss_007.Task_RogueSeason_Boss_007"
+    },
+    {
+        "Id": 4008,
+        "SkinName": "area11",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "boss",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/BossLevel/RogueSeason_Boss_008.RogueSeason_Boss_008",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/BossLevel/Task_RogueSeason_Boss_008.Task_RogueSeason_Boss_008"
+    },
+    {
+        "Id": 4009,
+        "SkinName": "area08",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "boss",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/BossLevel/RogueSeason_Boss_009.RogueSeason_Boss_009",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/BossLevel/Task_RogueSeason_Boss_009.Task_RogueSeason_Boss_009"
+    },
+    {
+        "Id": 4010,
+        "SkinName": "area10",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "boss",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/BossLevel/RogueSeason_Boss_010.RogueSeason_Boss_010",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/BossLevel/Task_RogueSeason_Boss_010.Task_RogueSeason_Boss_010"
+    },
+    {
+        "Id": 4011,
+        "SkinName": "area10",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "boss",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/BossLevel/RogueSeason_Boss_002.RogueSeason_Boss_002",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/BossLevel/Task_RogueSeason_Boss_002.Task_RogueSeason_Boss_002"
+    },
+    {
+        "Id": 4012,
+        "SkinName": "area11",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "boss",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/BossLevel/RogueSeason_Boss_012.RogueSeason_Boss_012",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/BossLevel/Task_RogueSeason_Boss_012.Task_RogueSeason_Boss_012"
+    },
+    {
+        "Id": 4013,
+        "SkinName": "area18",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "boss",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/BossLevel/RogueSeason_Boss_013.RogueSeason_Boss_013",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/BossLevel/Task_RogueSeason_Boss_013.Task_RogueSeason_Boss_013"
+    },
+    {
+        "Id": 4014,
+        "SkinName": "area25",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "boss",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/BossLevel/RogueSeason_Boss_014.RogueSeason_Boss_014",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/BossLevel/Task_RogueSeason_Boss_014.Task_RogueSeason_Boss_014"
+    },
+    {
+        "Id": 4015,
+        "SkinName": "area27",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "boss",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/BossLevel/RogueSeason_Boss_015.RogueSeason_Boss_015",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/BossLevel/Task_RogueSeason_Boss_015.Task_RogueSeason_Boss_015"
+    },
+    {
+        "Id": 5001,
+        "SkinName": "area08",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "lounge",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/OtherLevel/RogueSeason_Lounge_001.RogueSeason_Lounge_001",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/OtherLevel/Task_RogueSeason_Lounge_001.Task_RogueSeason_Lounge_001"
+    },
+    {
+        "Id": 5002,
+        "SkinName": "area10",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "lounge",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/OtherLevel/RogueSeason_Lounge_002.RogueSeason_Lounge_002",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/OtherLevel/Task_RogueSeason_Lounge_002.Task_RogueSeason_Lounge_002"
+    },
+    {
+        "Id": 5003,
+        "SkinName": "area02",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "lounge",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/OtherLevel/RogueSeason_Lounge_003.RogueSeason_Lounge_003",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/OtherLevel/Task_RogueSeason_Lounge_003.Task_RogueSeason_Lounge_003"
+    },
+    {
+        "Id": 5004,
+        "SkinName": "area11",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "lounge",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/OtherLevel/RogueSeason_Lounge_004.RogueSeason_Lounge_004",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/OtherLevel/Task_RogueSeason_Lounge_004.Task_RogueSeason_Lounge_004"
+    },
+    {
+        "Id": 5005,
+        "SkinName": "area08",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "lounge",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/OtherLevel/RogueSeason_Lounge_005.RogueSeason_Lounge_005",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/OtherLevel/Task_RogueSeason_Lounge_005.Task_RogueSeason_Lounge_005"
+    },
+    {
+        "Id": 5006,
+        "SkinName": "area10",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "lounge",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/OtherLevel/RogueSeason_Lounge_006.RogueSeason_Lounge_006",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/OtherLevel/Task_RogueSeason_Lounge_006.Task_RogueSeason_Lounge_006"
+    },
+    {
+        "Id": 5007,
+        "SkinName": "area02",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "lounge",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/OtherLevel/RogueSeason_Lounge_007.RogueSeason_Lounge_007",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/OtherLevel/Task_RogueSeason_Lounge_007.Task_RogueSeason_Lounge_007"
+    },
+    {
+        "Id": 5008,
+        "SkinName": "area11",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "lounge",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/OtherLevel/RogueSeason_Lounge_008.RogueSeason_Lounge_008",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/OtherLevel/Task_RogueSeason_Lounge_008.Task_RogueSeason_Lounge_008"
+    },
+    {
+        "Id": 5009,
+        "SkinName": "area18",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "lounge",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/OtherLevel/RogueSeason_Lounge_009.RogueSeason_Lounge_009",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/OtherLevel/Task_RogueSeason_Lounge_009.Task_RogueSeason_Lounge_009"
+    },
+    {
+        "Id": 5010,
+        "SkinName": "area25",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "lounge",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/OtherLevel/RogueSeason_Lounge_011.RogueSeason_Lounge_011",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/OtherLevel/Task_RogueSeason_Lounge_010.Task_RogueSeason_Lounge_010"
+    },
+    {
+        "Id": 5011,
+        "SkinName": "area27",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "lounge",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/OtherLevel/RogueSeason_Lounge_010.RogueSeason_Lounge_010",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/OtherLevel/Task_RogueSeason_Lounge_011.Task_RogueSeason_Lounge_011"
+    },
+    {
+        "Id": 6001,
+        "SkinName": "area08",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "fun_area08",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/FunLevel/RogueSeason_Fun_001.RogueSeason_Fun_001",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/FunLevel/Task_RogueSeason_Fun_001.Task_RogueSeason_Fun_001"
+    },
+    {
+        "Id": 6002,
+        "SkinName": "area08",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "fun_area08",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/FunLevel/RogueSeason_Fun_002.RogueSeason_Fun_002",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/FunLevel/Task_RogueSeason_Fun_002.Task_RogueSeason_Fun_002"
+    },
+    {
+        "Id": 6051,
+        "SkinName": "area18",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "challenge",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/ChallengeLevel/RogueSeason_Challenge_001.RogueSeason_Challenge_001",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/ChallengeLevel/Task_RogueSeason_Challenge_001.Task_RogueSeason_Challenge_001"
+    },
+    {
+        "Id": 6052,
+        "SkinName": "area18",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "challenge",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/ChallengeLevel/RogueSeason_Challenge_002.RogueSeason_Challenge_002",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/ChallengeLevel/Task_RogueSeason_Challenge_002.Task_RogueSeason_Challenge_002"
+    },
+    {
+        "Id": 6053,
+        "SkinName": "area18",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "challenge",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/ChallengeLevel/RogueSeason_Challenge_003.RogueSeason_Challenge_003",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/ChallengeLevel/Task_RogueSeason_Challenge_003.Task_RogueSeason_Challenge_003"
+    },
+    {
+        "Id": 6054,
+        "SkinName": "area18",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "challenge",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/ChallengeLevel/RogueSeason_Challenge_004.RogueSeason_Challenge_004",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/ChallengeLevel/Task_RogueSeason_Challenge_004.Task_RogueSeason_Challenge_004"
+    },
+    {
+        "Id": 7001,
+        "SkinName": "area08",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": Infinity,
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/InfiniteLevel/RogueSeason_Inf_001.RogueSeason_Inf_001",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/InfiniteLevel/Task_RogueSeason_Inf_001.Task_RogueSeason_Inf_001"
+    },
+    {
+        "Id": 7002,
+        "SkinName": "area08",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "chaos",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/ChaosLevel/RogueSeason_chaos_002.RogueSeason_chaos_002",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/ChaosLevel/RogueSeason_chaos_002.RogueSeason_chaos_002"
+    },
+    {
+        "Id": 7003,
+        "SkinName": "area10",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "chaos",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/ChaosLevel/RogueSeason_chaos_003.RogueSeason_chaos_003",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/ChaosLevel/RogueSeason_chaos_003.RogueSeason_chaos_003"
+    },
+    {
+        "Id": 7004,
+        "SkinName": "area02",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "chaos",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/ChaosLevel/RogueSeason_chaos_004.RogueSeason_chaos_004",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/ChaosLevel/RogueSeason_chaos_004.RogueSeason_chaos_004"
+    },
+    {
+        "Id": 7005,
+        "SkinName": "area11",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "chaos",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/ChaosLevel/RogueSeason_chaos_005.RogueSeason_chaos_005",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/ChaosLevel/RogueSeason_chaos_005.RogueSeason_chaos_005"
+    },
+    {
+        "Id": 7006,
+        "SkinName": "area18",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "chaos",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/ChaosLevel/RogueSeason_chaos_006.RogueSeason_chaos_006",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/ChaosLevel/RogueSeason_chaos_006.RogueSeason_chaos_006"
+    },
+    {
+        "Id": 7007,
+        "SkinName": "area25",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "chaos",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/ChaosLevel/RogueSeason_chaos_007.RogueSeason_chaos_007",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/ChaosLevel/RogueSeason_chaos_007.RogueSeason_chaos_007"
+    },
+    {
+        "Id": 7008,
+        "SkinName": "area27",
+        "AIDirector": 7200,
+        "Strength": "",
+        "Tag": "chaos",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/ChaosLevel/RogueSeason_chaos_008.RogueSeason_chaos_008",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/ChaosLevel/RogueSeason_chaos_008.RogueSeason_chaos_008"
+    },
+    {
+        "Id": 7051,
+        "SkinName": "area18",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "gacha",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/GachaLevel/RogueSeason_gacha_001.RogueSeason_gacha_001",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/GachaLevel/Task_RogueSeason_gacha_001.Task_RogueSeason_gacha_001"
+    },
+    {
+        "Id": 7052,
+        "SkinName": "area08",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "gacha",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/GachaLevel/RogueSeason_gacha_002.RogueSeason_gacha_002",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/GachaLevel/Task_RogueSeason_gacha_002.Task_RogueSeason_gacha_002"
+    },
+    {
+        "Id": 7053,
+        "SkinName": "area10",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "gacha",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/GachaLevel/RogueSeason_gacha_003.RogueSeason_gacha_003",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/GachaLevel/Task_RogueSeason_gacha_003.Task_RogueSeason_gacha_003"
+    },
+    {
+        "Id": 7054,
+        "SkinName": "area02",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "gacha",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/GachaLevel/RogueSeason_gacha_004.RogueSeason_gacha_004",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/GachaLevel/Task_RogueSeason_gacha_004.Task_RogueSeason_gacha_004"
+    },
+    {
+        "Id": 7055,
+        "SkinName": "area11",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "gacha",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/GachaLevel/RogueSeason_gacha_005.RogueSeason_gacha_005",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/GachaLevel/Task_RogueSeason_gacha_005.Task_RogueSeason_gacha_005"
+    },
+    {
+        "Id": 7056,
+        "SkinName": "area25",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "gacha",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/GachaLevel/RogueSeason_gacha_006.RogueSeason_gacha_006",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/GachaLevel/Task_RogueSeason_gacha_006.Task_RogueSeason_gacha_006"
+    },
+    {
+        "Id": 7057,
+        "SkinName": "area27",
+        "AIDirector": "",
+        "Strength": "",
+        "Tag": "gacha",
+        "Logic": "/Game/Blueprints/LevelTask/Level/RogueSeason/GachaLevel/RogueSeason_gacha_007.RogueSeason_gacha_007",
+        "Task": "/Game/Blueprints/LevelTask/Tasks/RogueSeason/GachaLevel/Task_RogueSeason_gacha_007.Task_RogueSeason_gacha_007"
+    }
+]

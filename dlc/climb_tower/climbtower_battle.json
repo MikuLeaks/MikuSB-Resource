@@ -1,0 +1,482 @@
+[
+    {
+        "ID": 1,
+        "Icon": 1701234,
+        "LastId": "",
+        "Type": 1,
+        "OpenTime": "[202512041000]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            4,
+            7,
+            9
+        ],
+        "NeedLockTime": 1,
+        "Level": 8861,
+        "TryCard": [
+            104007,
+            104008,
+            104009
+        ]
+    },
+    {
+        "ID": 2,
+        "Icon": 1701234,
+        "LastId": 1,
+        "Type": 1,
+        "OpenTime": "[202512041000]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            4,
+            7,
+            9
+        ],
+        "NeedLockTime": "",
+        "Level": 8862,
+        "TryCard": [
+            104007,
+            104008,
+            104009
+        ]
+    },
+    {
+        "ID": 3,
+        "Icon": 1701234,
+        "LastId": 2,
+        "Type": 1,
+        "OpenTime": "[202512041000]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            4,
+            7,
+            9
+        ],
+        "NeedLockTime": "",
+        "Level": 8863,
+        "TryCard": [
+            104007,
+            104008,
+            104009
+        ]
+    },
+    {
+        "ID": 4,
+        "Icon": 1701237,
+        "LastId": 3,
+        "Type": 2,
+        "OpenTime": "[202512041000]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            4,
+            7,
+            9
+        ],
+        "NeedLockTime": "",
+        "Level": 8864,
+        "TryCard": [
+            104007,
+            104008,
+            104009
+        ]
+    },
+    {
+        "ID": 5,
+        "Icon": 1701234,
+        "LastId": 3,
+        "Type": 1,
+        "OpenTime": "[202512050400]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            3,
+            6,
+            10
+        ],
+        "NeedLockTime": 1,
+        "Level": 8865,
+        "TryCard": [
+            104010,
+            104011,
+            104012
+        ]
+    },
+    {
+        "ID": 6,
+        "Icon": 1701234,
+        "LastId": 5,
+        "Type": 1,
+        "OpenTime": "[202512050400]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            3,
+            6,
+            10
+        ],
+        "NeedLockTime": "",
+        "Level": 8866,
+        "TryCard": [
+            104010,
+            104011,
+            104012
+        ]
+    },
+    {
+        "ID": 7,
+        "Icon": 1701234,
+        "LastId": 6,
+        "Type": 1,
+        "OpenTime": "[202512050400]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            3,
+            6,
+            10
+        ],
+        "NeedLockTime": "",
+        "Level": 8867,
+        "TryCard": [
+            104010,
+            104011,
+            104012
+        ]
+    },
+    {
+        "ID": 8,
+        "Icon": 1701237,
+        "LastId": 7,
+        "Type": 2,
+        "OpenTime": "[202512050400]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            3,
+            6,
+            10
+        ],
+        "NeedLockTime": "",
+        "Level": 8868,
+        "TryCard": [
+            104010,
+            104011,
+            104012
+        ]
+    },
+    {
+        "ID": 9,
+        "Icon": 1701234,
+        "LastId": 7,
+        "Type": 1,
+        "OpenTime": "[202512060400]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            2,
+            8,
+            9
+        ],
+        "NeedLockTime": 1,
+        "Level": 8869,
+        "TryCard": [
+            104013,
+            104014,
+            104015
+        ]
+    },
+    {
+        "ID": 10,
+        "Icon": 1701234,
+        "LastId": 9,
+        "Type": 1,
+        "OpenTime": "[202512060400]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            2,
+            8,
+            9
+        ],
+        "NeedLockTime": "",
+        "Level": 8870,
+        "TryCard": [
+            104013,
+            104014,
+            104015
+        ]
+    },
+    {
+        "ID": 11,
+        "Icon": 1701234,
+        "LastId": 10,
+        "Type": 1,
+        "OpenTime": "[202512060400]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            2,
+            8,
+            9
+        ],
+        "NeedLockTime": "",
+        "Level": 8871,
+        "TryCard": [
+            104013,
+            104014,
+            104015
+        ]
+    },
+    {
+        "ID": 12,
+        "Icon": 1701237,
+        "LastId": 11,
+        "Type": 2,
+        "OpenTime": "[202512060400]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            2,
+            8,
+            9
+        ],
+        "NeedLockTime": "",
+        "Level": 8872,
+        "TryCard": [
+            104013,
+            104014,
+            104015
+        ]
+    },
+    {
+        "ID": 13,
+        "Icon": 1701234,
+        "LastId": 11,
+        "Type": 1,
+        "OpenTime": "[202512070400]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            1,
+            5,
+            10
+        ],
+        "NeedLockTime": 1,
+        "Level": 8873,
+        "TryCard": [
+            104013,
+            104014,
+            104015
+        ]
+    },
+    {
+        "ID": 14,
+        "Icon": 1701234,
+        "LastId": 13,
+        "Type": 1,
+        "OpenTime": "[202512070400]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            1,
+            5,
+            10
+        ],
+        "NeedLockTime": "",
+        "Level": 8874,
+        "TryCard": [
+            104013,
+            104014,
+            104015
+        ]
+    },
+    {
+        "ID": 15,
+        "Icon": 1701234,
+        "LastId": 14,
+        "Type": 1,
+        "OpenTime": "[202512070400]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            1,
+            5,
+            10
+        ],
+        "NeedLockTime": "",
+        "Level": 8875,
+        "TryCard": [
+            104013,
+            104014,
+            104015
+        ]
+    },
+    {
+        "ID": 16,
+        "Icon": 1701237,
+        "LastId": 15,
+        "Type": 2,
+        "OpenTime": "[202512070400]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            1,
+            5,
+            10
+        ],
+        "NeedLockTime": "",
+        "Level": 8876,
+        "TryCard": [
+            104013,
+            104014,
+            104015
+        ]
+    },
+    {
+        "ID": 17,
+        "Icon": 1701234,
+        "LastId": 15,
+        "Type": 1,
+        "OpenTime": "[202512080400]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            4,
+            6,
+            9
+        ],
+        "NeedLockTime": 1,
+        "Level": 8877,
+        "TryCard": [
+            104016,
+            104017,
+            104018
+        ]
+    },
+    {
+        "ID": 18,
+        "Icon": 1701234,
+        "LastId": 17,
+        "Type": 1,
+        "OpenTime": "[202512080400]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            4,
+            6,
+            9
+        ],
+        "NeedLockTime": "",
+        "Level": 8878,
+        "TryCard": [
+            104016,
+            104017,
+            104018
+        ]
+    },
+    {
+        "ID": 19,
+        "Icon": 1701234,
+        "LastId": 18,
+        "Type": 1,
+        "OpenTime": "[202512080400]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            4,
+            6,
+            9
+        ],
+        "NeedLockTime": "",
+        "Level": 8879,
+        "TryCard": [
+            104016,
+            104017,
+            104018
+        ]
+    },
+    {
+        "ID": 20,
+        "Icon": 1701237,
+        "LastId": 19,
+        "Type": 2,
+        "OpenTime": "[202512080400]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            4,
+            6,
+            9
+        ],
+        "NeedLockTime": "",
+        "Level": 8880,
+        "TryCard": [
+            104016,
+            104017,
+            104018
+        ]
+    },
+    {
+        "ID": 21,
+        "Icon": 1701234,
+        "LastId": 19,
+        "Type": 1,
+        "OpenTime": "[202512090400]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            3,
+            7,
+            10
+        ],
+        "NeedLockTime": 1,
+        "Level": 8881,
+        "TryCard": [
+            104016,
+            104017,
+            104018
+        ]
+    },
+    {
+        "ID": 22,
+        "Icon": 1701234,
+        "LastId": 21,
+        "Type": 1,
+        "OpenTime": "[202512090400]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            3,
+            7,
+            10
+        ],
+        "NeedLockTime": "",
+        "Level": 8882,
+        "TryCard": [
+            104016,
+            104017,
+            104018
+        ]
+    },
+    {
+        "ID": 23,
+        "Icon": 1701234,
+        "LastId": 22,
+        "Type": 1,
+        "OpenTime": "[202512090400]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            3,
+            7,
+            10
+        ],
+        "NeedLockTime": "",
+        "Level": 8883,
+        "TryCard": [
+            104016,
+            104017,
+            104018
+        ]
+    },
+    {
+        "ID": 24,
+        "Icon": 1701237,
+        "LastId": 23,
+        "Type": 2,
+        "OpenTime": "[202512090400]",
+        "CloseTime": "[202512180400]",
+        "Buffs": [
+            3,
+            7,
+            10
+        ],
+        "NeedLockTime": "",
+        "Level": 8884,
+        "TryCard": [
+            104016,
+            104017,
+            104018
+        ]
+    }
+]

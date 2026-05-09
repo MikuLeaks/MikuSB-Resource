@@ -1,0 +1,1280 @@
+[
+    {
+        "Id": 10001,
+        "NameKey": "rmol.LevelName01",
+        "StartMoney": 1000,
+        "AIId": 2,
+        "AIPassives": [],
+        "ChessFile": "dlc32/map_01.bytes",
+        "MapName": "RMOL_01",
+        "MapId": 8840,
+        "Condition": "",
+        "OnlineId": "",
+        "GridNames": "",
+        "VictoryBuildValue": 8,
+        "VictoryCondition": [
+            1,
+            1,
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Rewards_1st": "",
+        "Rewards_Win": [
+            [
+                4,
+                1,
+                30,
+                1,
+                400
+            ]
+        ],
+        "Rewards_Lose": "",
+        "GuidePath": "/Game/Mod/RMOL/Blueprints/Guide/RMOL_Guide1.RMOL_Guide1_C",
+        "HelpId": 230,
+        "NpcAI": [
+            [
+                0,
+                -1,
+                4
+            ]
+        ],
+        "PlayerAI": [
+            [
+                0,
+                -1,
+                3
+            ]
+        ]
+    },
+    {
+        "Id": 10002,
+        "NameKey": "rmol.LevelName02",
+        "StartMoney": 2000,
+        "AIId": 3,
+        "AIPassives": [
+            207
+        ],
+        "ChessFile": "dlc32/map_01.bytes",
+        "MapName": "RMOL_01",
+        "MapId": 8840,
+        "Condition": {
+            "27": 10001
+        },
+        "OnlineId": "",
+        "GridNames": "",
+        "VictoryBuildValue": 10,
+        "VictoryCondition": [
+            1,
+            1,
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Rewards_1st": "",
+        "Rewards_Win": [
+            [
+                4,
+                1,
+                30,
+                1,
+                400
+            ]
+        ],
+        "Rewards_Lose": "",
+        "GuidePath": "/Game/Mod/RMOL/Blueprints/Guide/RMOL_Guide2.RMOL_Guide2_C",
+        "HelpId": 231,
+        "NpcAI": [
+            [
+                0,
+                -1,
+                4
+            ]
+        ],
+        "PlayerAI": [
+            [
+                0,
+                -1,
+                3
+            ]
+        ]
+    },
+    {
+        "Id": 10003,
+        "NameKey": "rmol.LevelName03",
+        "StartMoney": 2000,
+        "AIId": 4,
+        "AIPassives": [
+            210,
+            211
+        ],
+        "ChessFile": "dlc32/map_01.bytes",
+        "MapName": "RMOL_01",
+        "MapId": 8840,
+        "Condition": {
+            "27": 10002
+        },
+        "OnlineId": "",
+        "GridNames": "",
+        "VictoryBuildValue": 12,
+        "VictoryCondition": [
+            1,
+            1,
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Rewards_1st": "",
+        "Rewards_Win": [
+            [
+                4,
+                1,
+                30,
+                1,
+                400
+            ]
+        ],
+        "Rewards_Lose": "",
+        "GuidePath": "/Game/Mod/RMOL/Blueprints/Guide/RMOL_Guide3.RMOL_Guide3_C",
+        "HelpId": 232,
+        "NpcAI": [
+            [
+                0,
+                -1,
+                4
+            ]
+        ],
+        "PlayerAI": [
+            [
+                0,
+                -1,
+                3
+            ]
+        ]
+    },
+    {
+        "Id": 10004,
+        "NameKey": "rmol.LevelName04",
+        "StartMoney": 2000,
+        "AIId": 5,
+        "AIPassives": [
+            213,
+            214,
+            215
+        ],
+        "ChessFile": "dlc32/map_01.bytes",
+        "MapName": "RMOL_01",
+        "MapId": 8840,
+        "Condition": {
+            "27": 10003
+        },
+        "OnlineId": "",
+        "GridNames": "",
+        "VictoryBuildValue": 12,
+        "VictoryCondition": [
+            1,
+            1,
+            0,
+            0
+        ],
+        "StarCondition": "",
+        "Rewards_1st": "",
+        "Rewards_Win": [
+            [
+                4,
+                1,
+                30,
+                1,
+                400
+            ]
+        ],
+        "Rewards_Lose": "",
+        "GuidePath": "/Game/Mod/RMOL/Blueprints/Guide/RMOL_Guide4.RMOL_Guide4_C",
+        "HelpId": 232,
+        "NpcAI": [
+            [
+                0,
+                -1,
+                2
+            ]
+        ],
+        "PlayerAI": [
+            [
+                0,
+                -1,
+                3
+            ]
+        ]
+    },
+    {
+        "Id": 10005,
+        "NameKey": "rmol.LevelName05",
+        "StartMoney": 4000,
+        "AIId": 6,
+        "AIPassives": [
+            216,
+            217,
+            218
+        ],
+        "ChessFile": "dlc32/map_02.bytes",
+        "MapName": "RMOL_02",
+        "MapId": 8841,
+        "Condition": {
+            "27": 10004
+        },
+        "OnlineId": "",
+        "GridNames": "",
+        "VictoryBuildValue": 12,
+        "VictoryCondition": [
+            1,
+            1,
+            0,
+            1
+        ],
+        "StarCondition": "",
+        "Rewards_1st": "",
+        "Rewards_Win": [
+            [
+                4,
+                1,
+                30,
+                1,
+                400
+            ]
+        ],
+        "Rewards_Lose": "",
+        "GuidePath": "/Game/Mod/RMOL/Blueprints/Guide/RMOL_Guide5.RMOL_Guide5_C",
+        "HelpId": 233,
+        "NpcAI": [
+            [
+                0,
+                3,
+                1
+            ],
+            [
+                3,
+                4,
+                2
+            ],
+            [
+                4,
+                -1,
+                6
+            ]
+        ],
+        "PlayerAI": [
+            [
+                0,
+                -1,
+                3
+            ]
+        ]
+    },
+    {
+        "Id": 10006,
+        "NameKey": "rmol.LevelName06",
+        "StartMoney": 6000,
+        "AIId": 7,
+        "AIPassives": [
+            219,
+            220,
+            221
+        ],
+        "ChessFile": "dlc32/map_02.bytes",
+        "MapName": "RMOL_02",
+        "MapId": 8841,
+        "Condition": {
+            "27": 10005
+        },
+        "OnlineId": "",
+        "GridNames": "",
+        "VictoryBuildValue": 12,
+        "VictoryCondition": [
+            1,
+            1,
+            0,
+            1
+        ],
+        "StarCondition": "",
+        "Rewards_1st": "",
+        "Rewards_Win": [
+            [
+                4,
+                1,
+                30,
+                1,
+                400
+            ]
+        ],
+        "Rewards_Lose": "",
+        "GuidePath": "",
+        "HelpId": 233,
+        "NpcAI": [
+            [
+                0,
+                3,
+                1
+            ],
+            [
+                3,
+                4,
+                2
+            ],
+            [
+                4,
+                -1,
+                6
+            ]
+        ],
+        "PlayerAI": [
+            [
+                0,
+                -1,
+                3
+            ]
+        ]
+    },
+    {
+        "Id": 10007,
+        "NameKey": "rmol.LevelName07",
+        "StartMoney": 6000,
+        "AIId": 8,
+        "AIPassives": [
+            222,
+            223,
+            224
+        ],
+        "ChessFile": "dlc32/map_02.bytes",
+        "MapName": "RMOL_02",
+        "MapId": 8841,
+        "Condition": {
+            "27": 10006
+        },
+        "OnlineId": "",
+        "GridNames": "",
+        "VictoryBuildValue": 14,
+        "VictoryCondition": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "StarCondition": "",
+        "Rewards_1st": "",
+        "Rewards_Win": [
+            [
+                4,
+                1,
+                30,
+                1,
+                400
+            ]
+        ],
+        "Rewards_Lose": "",
+        "GuidePath": "/Game/Mod/RMOL/Blueprints/Guide/RMOL_Guide7.RMOL_Guide7_C",
+        "HelpId": 244,
+        "NpcAI": [
+            [
+                0,
+                3,
+                1
+            ],
+            [
+                3,
+                4,
+                2
+            ],
+            [
+                4,
+                -1,
+                6
+            ]
+        ],
+        "PlayerAI": [
+            [
+                0,
+                -1,
+                3
+            ]
+        ]
+    },
+    {
+        "Id": 10008,
+        "NameKey": "rmol.LevelName08",
+        "StartMoney": 8000,
+        "AIId": 9,
+        "AIPassives": [
+            225,
+            226,
+            227
+        ],
+        "ChessFile": "dlc32/map_03.bytes",
+        "MapName": "RMOL_03",
+        "MapId": 8842,
+        "Condition": {
+            "27": 10007
+        },
+        "OnlineId": "",
+        "GridNames": "",
+        "VictoryBuildValue": 16,
+        "VictoryCondition": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "StarCondition": "",
+        "Rewards_1st": "",
+        "Rewards_Win": [
+            [
+                4,
+                1,
+                30,
+                1,
+                400
+            ]
+        ],
+        "Rewards_Lose": "",
+        "GuidePath": "",
+        "HelpId": 245,
+        "NpcAI": [
+            [
+                0,
+                3,
+                1
+            ],
+            [
+                3,
+                4,
+                2
+            ],
+            [
+                4,
+                -1,
+                6
+            ]
+        ],
+        "PlayerAI": [
+            [
+                0,
+                -1,
+                3
+            ]
+        ]
+    },
+    {
+        "Id": 10009,
+        "NameKey": "rmol.LevelName09",
+        "StartMoney": 8000,
+        "AIId": 2,
+        "AIPassives": [
+            228,
+            229,
+            230
+        ],
+        "ChessFile": "dlc32/map_03.bytes",
+        "MapName": "RMOL_03",
+        "MapId": 8842,
+        "Condition": {
+            "27": 10008
+        },
+        "OnlineId": "",
+        "GridNames": "",
+        "VictoryBuildValue": 16,
+        "VictoryCondition": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "StarCondition": "",
+        "Rewards_1st": "",
+        "Rewards_Win": [
+            [
+                4,
+                1,
+                30,
+                1,
+                400
+            ]
+        ],
+        "Rewards_Lose": "",
+        "GuidePath": "",
+        "HelpId": 245,
+        "NpcAI": [
+            [
+                0,
+                3,
+                1
+            ],
+            [
+                3,
+                4,
+                2
+            ],
+            [
+                4,
+                -1,
+                6
+            ]
+        ],
+        "PlayerAI": [
+            [
+                0,
+                -1,
+                3
+            ]
+        ]
+    },
+    {
+        "Id": 20001,
+        "NameKey": "rmol.LevelName10",
+        "StartMoney": 8000,
+        "AIId": 5,
+        "AIPassives": [
+            213,
+            211,
+            218,
+            219
+        ],
+        "ChessFile": "dlc32/map_03.bytes",
+        "MapName": "RMOL_03",
+        "MapId": 8842,
+        "Condition": {
+            "27": 10009
+        },
+        "OnlineId": "",
+        "GridNames": "",
+        "VictoryBuildValue": 16,
+        "VictoryCondition": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "StarCondition": [
+            [
+                1
+            ],
+            [
+                10,
+                4
+            ],
+            [
+                11,
+                3
+            ]
+        ],
+        "Rewards_1st": "",
+        "Rewards_Win": [
+            [
+                4,
+                1,
+                30,
+                1,
+                600
+            ]
+        ],
+        "Rewards_Lose": "",
+        "GuidePath": "",
+        "HelpId": 245,
+        "NpcAI": [
+            [
+                0,
+                3,
+                1
+            ],
+            [
+                3,
+                4,
+                2
+            ],
+            [
+                4,
+                -1,
+                6
+            ]
+        ],
+        "PlayerAI": [
+            [
+                0,
+                -1,
+                3
+            ]
+        ]
+    },
+    {
+        "Id": 20002,
+        "NameKey": "rmol.LevelName11",
+        "StartMoney": 8000,
+        "AIId": 8,
+        "AIPassives": [
+            201,
+            217,
+            213,
+            226
+        ],
+        "ChessFile": "dlc32/map_03.bytes",
+        "MapName": "RMOL_03",
+        "MapId": 8842,
+        "Condition": {
+            "27": 10009
+        },
+        "OnlineId": "",
+        "GridNames": "",
+        "VictoryBuildValue": 16,
+        "VictoryCondition": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "StarCondition": [
+            [
+                1
+            ],
+            [
+                13,
+                1
+            ],
+            [
+                12,
+                2
+            ]
+        ],
+        "Rewards_1st": "",
+        "Rewards_Win": [
+            [
+                4,
+                1,
+                30,
+                1,
+                600
+            ]
+        ],
+        "Rewards_Lose": "",
+        "GuidePath": "",
+        "HelpId": 245,
+        "NpcAI": [
+            [
+                0,
+                3,
+                1
+            ],
+            [
+                3,
+                4,
+                2
+            ],
+            [
+                4,
+                -1,
+                6
+            ]
+        ],
+        "PlayerAI": [
+            [
+                0,
+                -1,
+                3
+            ]
+        ]
+    },
+    {
+        "Id": 20003,
+        "NameKey": "rmol.LevelName12",
+        "StartMoney": 8000,
+        "AIId": 9,
+        "AIPassives": [
+            210,
+            212,
+            216,
+            218
+        ],
+        "ChessFile": "dlc32/map_03.bytes",
+        "MapName": "RMOL_03",
+        "MapId": 8842,
+        "Condition": {
+            "27": 10009
+        },
+        "OnlineId": "",
+        "GridNames": "",
+        "VictoryBuildValue": 16,
+        "VictoryCondition": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "StarCondition": [
+            [
+                1
+            ],
+            [
+                18,
+                1
+            ],
+            [
+                16,
+                3
+            ]
+        ],
+        "Rewards_1st": "",
+        "Rewards_Win": [
+            [
+                4,
+                1,
+                30,
+                1,
+                600
+            ]
+        ],
+        "Rewards_Lose": "",
+        "GuidePath": "",
+        "HelpId": 245,
+        "NpcAI": [
+            [
+                0,
+                3,
+                1
+            ],
+            [
+                3,
+                -1,
+                2
+            ]
+        ],
+        "PlayerAI": [
+            [
+                0,
+                -1,
+                5
+            ]
+        ]
+    },
+    {
+        "Id": 20004,
+        "NameKey": "rmol.LevelName13",
+        "StartMoney": 8000,
+        "AIId": 2,
+        "AIPassives": [
+            215,
+            209,
+            221,
+            227
+        ],
+        "ChessFile": "dlc32/map_03.bytes",
+        "MapName": "RMOL_03",
+        "MapId": 8842,
+        "Condition": [
+            [
+                27,
+                10009
+            ],
+            [
+                30,
+                1,
+                4
+            ]
+        ],
+        "OnlineId": "",
+        "GridNames": "",
+        "VictoryBuildValue": 16,
+        "VictoryCondition": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "StarCondition": [
+            [
+                1
+            ],
+            [
+                15,
+                3
+            ],
+            [
+                17,
+                2
+            ]
+        ],
+        "Rewards_1st": "",
+        "Rewards_Win": [
+            [
+                4,
+                1,
+                30,
+                1,
+                600
+            ]
+        ],
+        "Rewards_Lose": "",
+        "GuidePath": "",
+        "HelpId": 245,
+        "NpcAI": [
+            [
+                0,
+                3,
+                1
+            ],
+            [
+                3,
+                -1,
+                2
+            ]
+        ],
+        "PlayerAI": [
+            [
+                0,
+                -1,
+                5
+            ]
+        ]
+    },
+    {
+        "Id": 20005,
+        "NameKey": "rmol.LevelName14",
+        "StartMoney": 8000,
+        "AIId": 4,
+        "AIPassives": [
+            203,
+            210,
+            226,
+            229
+        ],
+        "ChessFile": "dlc32/map_03.bytes",
+        "MapName": "RMOL_03",
+        "MapId": 8842,
+        "Condition": [
+            [
+                27,
+                10009
+            ],
+            [
+                30,
+                1,
+                4
+            ]
+        ],
+        "OnlineId": "",
+        "GridNames": "",
+        "VictoryBuildValue": 16,
+        "VictoryCondition": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "StarCondition": [
+            [
+                1
+            ],
+            [
+                3
+            ],
+            [
+                7,
+                4
+            ]
+        ],
+        "Rewards_1st": "",
+        "Rewards_Win": [
+            [
+                4,
+                1,
+                30,
+                1,
+                600
+            ]
+        ],
+        "Rewards_Lose": "",
+        "GuidePath": "",
+        "HelpId": 245,
+        "NpcAI": [
+            [
+                0,
+                3,
+                1
+            ],
+            [
+                3,
+                -1,
+                2
+            ]
+        ],
+        "PlayerAI": [
+            [
+                0,
+                -1,
+                5
+            ]
+        ]
+    },
+    {
+        "Id": 20006,
+        "NameKey": "rmol.LevelName15",
+        "StartMoney": 8000,
+        "AIId": 6,
+        "AIPassives": [
+            210,
+            229,
+            230,
+            202
+        ],
+        "ChessFile": "dlc32/map_03.bytes",
+        "MapName": "RMOL_03",
+        "MapId": 8842,
+        "Condition": [
+            [
+                27,
+                10009
+            ],
+            [
+                30,
+                1,
+                4
+            ]
+        ],
+        "OnlineId": "",
+        "GridNames": "",
+        "VictoryBuildValue": 16,
+        "VictoryCondition": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "StarCondition": [
+            [
+                1
+            ],
+            [
+                4
+            ],
+            [
+                8,
+                3
+            ]
+        ],
+        "Rewards_1st": "",
+        "Rewards_Win": [
+            [
+                4,
+                1,
+                30,
+                1,
+                600
+            ]
+        ],
+        "Rewards_Lose": "",
+        "GuidePath": "",
+        "HelpId": 245,
+        "NpcAI": [
+            [
+                0,
+                3,
+                1
+            ],
+            [
+                3,
+                -1,
+                2
+            ]
+        ],
+        "PlayerAI": [
+            [
+                0,
+                -1,
+                5
+            ]
+        ]
+    },
+    {
+        "Id": 20007,
+        "NameKey": "rmol.LevelName16",
+        "StartMoney": 8000,
+        "AIId": 3,
+        "AIPassives": [
+            225,
+            205,
+            224,
+            226
+        ],
+        "ChessFile": "dlc32/map_03.bytes",
+        "MapName": "RMOL_03",
+        "MapId": 8842,
+        "Condition": [
+            [
+                27,
+                10009
+            ],
+            [
+                30,
+                1,
+                8
+            ]
+        ],
+        "OnlineId": "",
+        "GridNames": "",
+        "VictoryBuildValue": 16,
+        "VictoryCondition": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "StarCondition": [
+            [
+                1
+            ],
+            [
+                5
+            ],
+            [
+                14,
+                5
+            ]
+        ],
+        "Rewards_1st": "",
+        "Rewards_Win": [
+            [
+                4,
+                1,
+                30,
+                1,
+                600
+            ]
+        ],
+        "Rewards_Lose": "",
+        "GuidePath": "",
+        "HelpId": 245,
+        "NpcAI": [
+            [
+                0,
+                3,
+                1
+            ],
+            [
+                3,
+                -1,
+                2
+            ]
+        ],
+        "PlayerAI": [
+            [
+                0,
+                -1,
+                5
+            ]
+        ]
+    },
+    {
+        "Id": 20008,
+        "NameKey": "rmol.LevelName17",
+        "StartMoney": 8000,
+        "AIId": 7,
+        "AIPassives": [
+            204,
+            209,
+            224,
+            225
+        ],
+        "ChessFile": "dlc32/map_03.bytes",
+        "MapName": "RMOL_03",
+        "MapId": 8842,
+        "Condition": [
+            [
+                27,
+                10009
+            ],
+            [
+                30,
+                1,
+                8
+            ]
+        ],
+        "OnlineId": "",
+        "GridNames": "",
+        "VictoryBuildValue": 22,
+        "VictoryCondition": [
+            1,
+            1,
+            0,
+            0
+        ],
+        "StarCondition": [
+            [
+                1
+            ],
+            [
+                2
+            ],
+            [
+                6,
+                10000
+            ]
+        ],
+        "Rewards_1st": "",
+        "Rewards_Win": [
+            [
+                4,
+                1,
+                30,
+                1,
+                600
+            ]
+        ],
+        "Rewards_Lose": "",
+        "GuidePath": "",
+        "HelpId": 245,
+        "NpcAI": [
+            [
+                0,
+                3,
+                1
+            ],
+            [
+                3,
+                -1,
+                2
+            ]
+        ],
+        "PlayerAI": [
+            [
+                0,
+                -1,
+                5
+            ]
+        ]
+    },
+    {
+        "Id": 30001,
+        "NameKey": "rmol.LevelName18",
+        "StartMoney": 8000,
+        "AIId": 2,
+        "AIPassives": "",
+        "ChessFile": "dlc32/map_03.bytes",
+        "MapName": "RMOL_03",
+        "MapId": 8842,
+        "Condition": {
+            "27": 10009
+        },
+        "OnlineId": 94,
+        "GridNames": "",
+        "VictoryBuildValue": 16,
+        "VictoryCondition": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "StarCondition": "",
+        "Rewards_1st": "",
+        "Rewards_Win": [
+            [
+                4,
+                1,
+                30,
+                1,
+                1000
+            ]
+        ],
+        "Rewards_Lose": [
+            [
+                4,
+                1,
+                30,
+                1,
+                800
+            ]
+        ],
+        "GuidePath": "",
+        "HelpId": 245,
+        "NpcAI": [
+            [
+                0,
+                3,
+                1
+            ],
+            [
+                3,
+                -1,
+                2
+            ]
+        ],
+        "PlayerAI": [
+            [
+                0,
+                3,
+                1
+            ],
+            [
+                3,
+                -1,
+                2
+            ]
+        ]
+    },
+    {
+        "Id": 99,
+        "NameKey": "",
+        "StartMoney": 10000,
+        "AIId": 2,
+        "AIPassives": "",
+        "ChessFile": "dlc32/map_99.bytes",
+        "MapName": "dtest_RichmanOL",
+        "MapId": "",
+        "Condition": "",
+        "OnlineId": "",
+        "GridNames": "",
+        "VictoryBuildValue": 140000,
+        "VictoryCondition": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "StarCondition": [
+            [
+                1
+            ],
+            [
+                2
+            ],
+            [
+                6,
+                10000
+            ]
+        ],
+        "Rewards_1st": "",
+        "Rewards_Win": "",
+        "Rewards_Lose": "",
+        "GuidePath": "",
+        "HelpId": 232,
+        "NpcAI": [
+            [
+                0,
+                3,
+                1
+            ],
+            [
+                3,
+                -1,
+                2
+            ]
+        ],
+        "PlayerAI": [
+            [
+                0,
+                2,
+                3
+            ],
+            [
+                2,
+                -1,
+                1
+            ]
+        ]
+    }
+]

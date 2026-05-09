@@ -1,0 +1,433 @@
+[
+    {
+        "LevelID": 5505,
+        "ArenaType": 1,
+        "Prerequisite": "",
+        "Condition": "",
+        "Icon": "",
+        "Name": "donoduel.arena_level_name_01",
+        "Desc": "donoduel.arena_level_name_01_des",
+        "BuffID": "",
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "Reward": [
+            [
+                5,
+                5,
+                1,
+                2,
+                5
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                6000
+            ]
+        ]
+    },
+    {
+        "LevelID": 5506,
+        "ArenaType": 1,
+        "Prerequisite": 5505,
+        "Condition": {
+            "36": 105
+        },
+        "Icon": "",
+        "Name": "donoduel.arena_level_name_02",
+        "Desc": "donoduel.arena_level_name_02_des",
+        "BuffID": "",
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "Reward": [
+            [
+                5,
+                3,
+                1,
+                3,
+                6
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                6000
+            ]
+        ]
+    },
+    {
+        "LevelID": 5507,
+        "ArenaType": 1,
+        "Prerequisite": 5506,
+        "Condition": {
+            "36": 108
+        },
+        "Icon": "",
+        "Name": "donoduel.arena_level_name_03",
+        "Desc": "donoduel.arena_level_name_03_des",
+        "BuffID": "",
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "Reward": [
+            [
+                5,
+                1,
+                1,
+                3,
+                8
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                6000
+            ]
+        ]
+    },
+    {
+        "LevelID": 5508,
+        "ArenaType": 1,
+        "Prerequisite": 5507,
+        "Condition": {
+            "36": 109
+        },
+        "Icon": "",
+        "Name": "donoduel.arena_level_name_04",
+        "Desc": "donoduel.arena_level_name_04_des",
+        "BuffID": "",
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "Reward": [
+            [
+                5,
+                2,
+                1,
+                3,
+                8
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                6000
+            ]
+        ]
+    },
+    {
+        "LevelID": 5509,
+        "ArenaType": 1,
+        "Prerequisite": 5508,
+        "Condition": {
+            "36": 110
+        },
+        "Icon": "",
+        "Name": "donoduel.arena_level_name_05",
+        "Desc": "donoduel.arena_level_name_05_des",
+        "BuffID": "",
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                10
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                4000
+            ]
+        ]
+    },
+    {
+        "LevelID": 5510,
+        "ArenaType": 1,
+        "Prerequisite": 5509,
+        "Condition": {
+            "36": 111
+        },
+        "Icon": "",
+        "Name": "donoduel.arena_level_name_06",
+        "Desc": "donoduel.arena_level_name_06_des",
+        "BuffID": "",
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "Reward": [
+            [
+                5,
+                5,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                4000
+            ]
+        ]
+    },
+    {
+        "LevelID": 5511,
+        "ArenaType": 1,
+        "Prerequisite": 5510,
+        "Condition": {
+            "36": 112
+        },
+        "Icon": "",
+        "Name": "donoduel.arena_level_name_07",
+        "Desc": "donoduel.arena_level_name_07_des",
+        "BuffID": "",
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                10
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                4000
+            ]
+        ]
+    },
+    {
+        "LevelID": 5512,
+        "ArenaType": 1,
+        "Prerequisite": 5511,
+        "Condition": {
+            "36": 113
+        },
+        "Icon": "",
+        "Name": "donoduel.arena_level_name_08",
+        "Desc": "donoduel.arena_level_name_08_des",
+        "BuffID": "",
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "Reward": [
+            [
+                13,
+                1,
+                42,
+                1,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                4000
+            ]
+        ]
+    },
+    {
+        "LevelID": 5513,
+        "ArenaType": 2,
+        "Prerequisite": "",
+        "Condition": {
+            "36": 114
+        },
+        "Icon": "",
+        "Name": "donoduel.arena_level_name_10",
+        "Desc": "donoduel.arena_level_name_10_des",
+        "BuffID": [
+            5001,
+            5006,
+            5007
+        ],
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "Reward": [
+            [
+                5,
+                5,
+                1,
+                4,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                9000
+            ]
+        ]
+    },
+    {
+        "LevelID": 5514,
+        "ArenaType": 2,
+        "Prerequisite": 5513,
+        "Condition": {
+            "37": 5513
+        },
+        "Icon": "",
+        "Name": "donoduel.arena_level_name_11",
+        "Desc": "donoduel.arena_level_name_11_des",
+        "BuffID": [
+            5002,
+            5008,
+            5009
+        ],
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                10
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                9000
+            ]
+        ]
+    },
+    {
+        "LevelID": 5515,
+        "ArenaType": 2,
+        "Prerequisite": 5514,
+        "Condition": {
+            "37": 5514
+        },
+        "Icon": "",
+        "Name": "donoduel.arena_level_name_12",
+        "Desc": "donoduel.arena_level_name_12_des",
+        "BuffID": [
+            5003,
+            5010,
+            5011
+        ],
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "Reward": [
+            [
+                5,
+                6,
+                1,
+                2,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                9000
+            ]
+        ]
+    },
+    {
+        "LevelID": 5516,
+        "ArenaType": 2,
+        "Prerequisite": 5515,
+        "Condition": {
+            "37": 5515
+        },
+        "Icon": "",
+        "Name": "donoduel.arena_level_name_13",
+        "Desc": "donoduel.arena_level_name_13_des",
+        "BuffID": [
+            5004,
+            5012,
+            5013
+        ],
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                10
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                9000
+            ]
+        ]
+    },
+    {
+        "LevelID": 5517,
+        "ArenaType": 2,
+        "Prerequisite": 5516,
+        "Condition": {
+            "37": 5516
+        },
+        "Icon": "",
+        "Name": "donoduel.arena_level_name_14",
+        "Desc": "donoduel.arena_level_name_14_des",
+        "BuffID": [
+            5005,
+            5014,
+            5015
+        ],
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "Reward": [
+            [
+                5,
+                9,
+                1,
+                3,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                9000
+            ]
+        ]
+    },
+    {
+        "LevelID": 5518,
+        "ArenaType": 3,
+        "Prerequisite": "",
+        "Condition": {
+            "36": 503
+        },
+        "Icon": "",
+        "Name": "donoduel.arena_level_name_15",
+        "Desc": "donoduel.arena_level_name_15_des",
+        "BuffID": "",
+        "OpenTime": "[202602050400]",
+        "CloseTime": "[202603120400]",
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                6000
+            ]
+        ]
+    }
+]

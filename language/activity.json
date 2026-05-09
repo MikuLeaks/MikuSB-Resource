@@ -1,0 +1,2681 @@
+[
+    {
+        "Key": "refreshtime",
+        "zh_CN": "刷新时间：",
+        "disable": 0
+    },
+    {
+        "Key": "TxtEventTime",
+        "zh_CN": "开放时间：",
+        "disable": 0
+    },
+    {
+        "Key": "sign",
+        "zh_CN": "签到",
+        "disable": 0
+    },
+    {
+        "Key": "signed",
+        "zh_CN": "已领取",
+        "disable": 0
+    },
+    {
+        "Key": "month",
+        "zh_CN": "月",
+        "disable": 0
+    },
+    {
+        "Key": 1,
+        "zh_CN": "一",
+        "disable": 0
+    },
+    {
+        "Key": 2,
+        "zh_CN": "二",
+        "disable": 0
+    },
+    {
+        "Key": 3,
+        "zh_CN": "三",
+        "disable": 0
+    },
+    {
+        "Key": 4,
+        "zh_CN": "四",
+        "disable": 0
+    },
+    {
+        "Key": 5,
+        "zh_CN": "五",
+        "disable": 0
+    },
+    {
+        "Key": 6,
+        "zh_CN": "六",
+        "disable": 0
+    },
+    {
+        "Key": 7,
+        "zh_CN": "七",
+        "disable": 0
+    },
+    {
+        "Key": 8,
+        "zh_CN": "八",
+        "disable": 0
+    },
+    {
+        "Key": 9,
+        "zh_CN": "九",
+        "disable": 0
+    },
+    {
+        "Key": 10,
+        "zh_CN": "十",
+        "disable": 0
+    },
+    {
+        "Key": 11,
+        "zh_CN": "十一",
+        "disable": 0
+    },
+    {
+        "Key": 12,
+        "zh_CN": "十二",
+        "disable": 0
+    },
+    {
+        "Key": "name1",
+        "zh_CN": "任务一",
+        "disable": 0
+    },
+    {
+        "Key": "name2",
+        "zh_CN": "任务二",
+        "disable": 0
+    },
+    {
+        "Key": "name3",
+        "zh_CN": "任务三",
+        "disable": 0
+    },
+    {
+        "Key": "name4",
+        "zh_CN": "任务四",
+        "disable": 0
+    },
+    {
+        "Key": "name5",
+        "zh_CN": "任务五",
+        "disable": 0
+    },
+    {
+        "Key": "name6",
+        "zh_CN": "任务六",
+        "disable": 0
+    },
+    {
+        "Key": "name7",
+        "zh_CN": "任务七",
+        "disable": 0
+    },
+    {
+        "Key": "name8",
+        "zh_CN": "任务八",
+        "disable": 0
+    },
+    {
+        "Key": "name9",
+        "zh_CN": "任务九",
+        "disable": 0
+    },
+    {
+        "Key": "name10",
+        "zh_CN": "任务十",
+        "disable": 0
+    },
+    {
+        "Key": "name11",
+        "zh_CN": "任务十一",
+        "disable": 0
+    },
+    {
+        "Key": "name12",
+        "zh_CN": "任务十二",
+        "disable": 0
+    },
+    {
+        "Key": "name13",
+        "zh_CN": "任务十三",
+        "disable": 0
+    },
+    {
+        "Key": "name14",
+        "zh_CN": "任务十四",
+        "disable": 0
+    },
+    {
+        "Key": "name15",
+        "zh_CN": "任务十五",
+        "disable": 0
+    },
+    {
+        "Key": "name16",
+        "zh_CN": "任务十六",
+        "disable": 0
+    },
+    {
+        "Key": "name17",
+        "zh_CN": "任务十七",
+        "disable": 0
+    },
+    {
+        "Key": "name18",
+        "zh_CN": "任务十八",
+        "disable": 0
+    },
+    {
+        "Key": "name19",
+        "zh_CN": "任务十九",
+        "disable": 0
+    },
+    {
+        "Key": "name20",
+        "zh_CN": "任务二十",
+        "disable": 0
+    },
+    {
+        "Key": "name21",
+        "zh_CN": "任务二一",
+        "disable": 0
+    },
+    {
+        "Key": "name22",
+        "zh_CN": "任务二二",
+        "disable": 0
+    },
+    {
+        "Key": "name23",
+        "zh_CN": "任务二三",
+        "disable": 0
+    },
+    {
+        "Key": "name24",
+        "zh_CN": "任务二四",
+        "disable": 0
+    },
+    {
+        "Key": "name25",
+        "zh_CN": "任务二五",
+        "disable": 0
+    },
+    {
+        "Key": "name26",
+        "zh_CN": "任务二六",
+        "disable": 0
+    },
+    {
+        "Key": "name27",
+        "zh_CN": "任务二七",
+        "disable": 0
+    },
+    {
+        "Key": "name28",
+        "zh_CN": "任务二八",
+        "disable": 0
+    },
+    {
+        "Key": "name29",
+        "zh_CN": "任务二九",
+        "disable": 0
+    },
+    {
+        "Key": "name30",
+        "zh_CN": "任务三十",
+        "disable": 0
+    },
+    {
+        "Key": "template_2_des",
+        "zh_CN": "每日登录即可领取对应奖励\\n第二日即可领取狙击角色-<span color=\"#f7be37\">茉莉安·雨燕</>",
+        "disable": 0
+    },
+    {
+        "Key": "template_3_des",
+        "zh_CN": "每日登录即可领取对应奖励\\n第七日即可领取狙击角色-<span color=\"#f7be37\">茉莉安·雨燕</>\\n第十四日即可领取突击步枪-<span color=\"#f7be37\">审判前夜</>",
+        "disable": 0
+    },
+    {
+        "Key": "template_4_des",
+        "zh_CN": "每日登录即可领取对应奖励\\n累计签到七天即可领取狙击角色:肴-养生专家\\n累计签到十四天即可领取专属时装:肴-工作宗旨",
+        "disable": 0
+    },
+    {
+        "Key": "template_5_des",
+        "zh_CN": "活动期间，每日登录即可领取对应奖励",
+        "disable": 0
+    },
+    {
+        "Key": "template_6_des",
+        "zh_CN": "1、活动期间，完成每日活动任务，可获取强力队员和大量物资补给\\n2、每天04:00会开启新阶段的活动任务，共3个阶段\\n3、需要完成当前阶段任务，才可进行下一阶段的对应任务",
+        "disable": 1000
+    },
+    {
+        "Key": "template_7_des",
+        "zh_CN": "每日登录即可领取对应奖励\\n累计签到七天即可领取狙击角色:芙提雅-小太阳\\n累计签到十四天即可领取狙击角色:肴-养生专家",
+        "disable": 0
+    },
+    {
+        "Key": "template_8_des",
+        "zh_CN": "活动期间，完成活动任务，可获取大量物资补给",
+        "disable": 0
+    },
+    {
+        "Key": "template_9_des",
+        "zh_CN": "1.本活动开放时间为8月7日维护后-8月21日4：00\\n2.本活动仅对7天以上未登录且等级≥20级的分析员开放，用以物资补偿，仅开放一次",
+        "disable": 0
+    },
+    {
+        "Key": "template_10_des",
+        "zh_CN": "我们为分析员准备了提高安全系数的方案，请按照引导完成任务，保障安全和体验的同时，还能获得奖励！",
+        "disable": 0
+    },
+    {
+        "Key": "template_11_des",
+        "zh_CN": "我们为分析员提供了更多获取官方情报的途径，按照引导完成任务即可获得奖励！",
+        "disable": 0
+    },
+    {
+        "Key": "template_12_des",
+        "zh_CN": "【基础规则】\\n活动期间，分析员每日登录游戏后即可在【活动分页】领取签到奖励\\n【补签规则】\\n1.在活动开启一段时间后，如分析员在本期活动中存在漏签，可以通过补签功能领取签到奖励。\\n2.分析员完成【活动】面板内的任务即可获得【溯星币】。每1枚【溯星币】可自动转换为1次补签机会。\\n3.当分析员拥有大于等于1枚数量的【溯星币】时，点击签到奖励内容，即可按签到顺序获得对应奖励。签到奖励无法跳过或任选。\\n4.当分析员已经领取完成当前活动的所有签到奖励或签到活动结束时，补签次数将归0。\\n"
+    },
+    {
+        "Key": "template_13_des",
+        "zh_CN": "温柔又坚韧的姐姐大人，携带全新战术套装登场！\\n活动期间登录游戏即可直接邀请【恩雅-羽蜕】和【沙叶小队（特长1、2定制版）】加入队伍！"
+    },
+    {
+        "Key": "template_14_des",
+        "zh_CN": "骄傲而耀眼的黄金狮子，身着全新战术套装自信登场！\\n活动期间登录游戏即可直接邀请【芬妮-辉耀】和【清乐小队（特长1、2定制版）】加入队伍！"
+    },
+    {
+        "Key": "template_15_des",
+        "zh_CN": "优雅从容的绷带小姐，穿戴专属战术套装登场！\\n活动期间登录游戏即可直接邀请【茉莉安-幽潮】和【钢羽小队（特长1、2定制版）】加入队伍！"
+    },
+    {
+        "Key": "template_16_des",
+        "zh_CN": "爱好摸鱼却也作战骁勇的养生专家。身着全新战术套装干练登场！！\\n活动期间登录游戏即可直接邀请【肴-夜天光】和【闻风小队（特长1、2定制版）】加入队伍！",
+        "disable": 0
+    },
+    {
+        "Key": "template_17_des",
+        "zh_CN": "未来世界第一魔术师，身着华丽战术套装闪耀登场！\\n活动期间登录游戏即可直接邀请【苔丝-绮幻】和【秘源小队（特长1、2定制版）】加入队伍！",
+        "disable": 0
+    },
+    {
+        "Key": "template_18_des",
+        "zh_CN": "追逐波光与记忆的海风少女，身着沁蓝战术套装惊喜登场！\\n活动期间登录游戏即可直接邀请【瑟瑞斯-悠游】和【天秤小队（特长1、2定制版）】加入队伍！",
+        "disable": 0
+    },
+    {
+        "Key": "template_18_face_des",
+        "zh_CN": "活动期间，登录即可获得【瑟瑞斯-悠游】和专属定制后勤【天秤小队】",
+        "disable": 0
+    },
+    {
+        "Key": "template_19_des",
+        "zh_CN": "每日登录得好礼，连续登录七天即可领取全部奖励\\n第二日可领取橙色品质角色自选礼包：<span color=\"#ffc67f\">高级天启者邀请函</>\\n第七日可领取角色时装：<span color=\"#ffc67f\">肴-工作宗旨</>",
+        "disable": 0
+    },
+    {
+        "Key": "template_20_des",
+        "zh_CN": "无畏奋勇的军火世家家主，身着新制战术套装【霄鹰】隆重登场！\\n活动期间登录游戏即可直接邀请【茉莉安-霄鹰 】和【松露小队（特长1、2定制版）】加入队伍！",
+        "disable": 0
+    },
+    {
+        "Key": "template_20_face_des",
+        "zh_CN": "活动期间，登录即可获得【茉莉安-霄鹰】和专属定制后勤【松露小队】",
+        "disable": 0
+    },
+    {
+        "Key": "not_open",
+        "zh_CN": "活动未开放",
+        "disable": 0
+    },
+    {
+        "Key": "not_exists",
+        "zh_CN": "活动不存在",
+        "disable": 0
+    },
+    {
+        "Key": "not_implement",
+        "zh_CN": "活动未生效",
+        "disable": 0
+    },
+    {
+        "Key": "level_limit",
+        "zh_CN": "等级未达到",
+        "disable": 0
+    },
+    {
+        "Key": "Lable1",
+        "zh_CN": "每日签到",
+        "disable": 0
+    },
+    {
+        "Key": "Lable2",
+        "zh_CN": "世界树的馈赠",
+        "disable": 0
+    },
+    {
+        "Key": "Lable3",
+        "zh_CN": "破晓链接",
+        "disable": 0
+    },
+    {
+        "Key": "Lable4",
+        "zh_CN": "活动商店模板",
+        "disable": 0
+    },
+    {
+        "Key": "Lable5",
+        "zh_CN": "美宣图跳转",
+        "disable": 0
+    },
+    {
+        "Key": "Lable6",
+        "zh_CN": "触雪寻踪",
+        "disable": 0
+    },
+    {
+        "Key": "Lable7",
+        "zh_CN": "垂直丛林",
+        "disable": 0
+    },
+    {
+        "Key": "Lable8",
+        "zh_CN": "起程回馈",
+        "disable": 0
+    },
+    {
+        "Key": "Lable9",
+        "zh_CN": "感知激活",
+        "disable": 0
+    },
+    {
+        "Key": "Lable10",
+        "zh_CN": "灯盏铭福",
+        "disable": 0
+    },
+    {
+        "Key": "Lable11",
+        "zh_CN": "偶像登台",
+        "disable": 0
+    },
+    {
+        "Key": "Lable12",
+        "zh_CN": "雪之约定",
+        "disable": 0
+    },
+    {
+        "Key": "Lable13",
+        "zh_CN": "精锐入队",
+        "disable": 0
+    },
+    {
+        "Key": "Lable14",
+        "zh_CN": "闲情逸致",
+        "disable": 0
+    },
+    {
+        "Key": "Lable15",
+        "zh_CN": "永续联战",
+        "disable": 0
+    },
+    {
+        "Key": "Lable16",
+        "zh_CN": "提灯巡礼",
+        "disable": 0
+    },
+    {
+        "Key": "Lable17",
+        "zh_CN": "旧墟新痕",
+        "disable": 0
+    },
+    {
+        "Key": "Lable18",
+        "zh_CN": "指挥进阶",
+        "disable": 0
+    },
+    {
+        "Key": "Lable19",
+        "zh_CN": "逐日沐潮",
+        "disable": 0
+    },
+    {
+        "Key": "Lable20",
+        "zh_CN": "镂刻战痕",
+        "disable": 0
+    },
+    {
+        "Key": "Lable21",
+        "zh_CN": "新居入住",
+        "disable": 0
+    },
+    {
+        "Key": "Lable22",
+        "zh_CN": "北境巡游",
+        "disable": 0
+    },
+    {
+        "Key": "Lable23",
+        "zh_CN": "斑斓漫想",
+        "disable": 0
+    },
+    {
+        "Key": "Lable24",
+        "zh_CN": "荣光盛宴",
+        "disable": 0
+    },
+    {
+        "Key": "Lable25",
+        "zh_CN": "春之狂想",
+        "disable": 0
+    },
+    {
+        "Key": "Lable26",
+        "zh_CN": "逆焰勇进",
+        "disable": 0
+    },
+    {
+        "Key": "Lable27",
+        "zh_CN": "独家委托",
+        "disable": 0
+    },
+    {
+        "Key": "Lable28",
+        "zh_CN": "特别邀请",
+        "disable": 0
+    },
+    {
+        "Key": "Lable29",
+        "zh_CN": "花朝月夜",
+        "disable": 0
+    },
+    {
+        "Key": "Lable30",
+        "zh_CN": "月满花落",
+        "disable": 0
+    },
+    {
+        "Key": "Lable31",
+        "zh_CN": "家具上新",
+        "disable": 0
+    },
+    {
+        "Key": "Lable32",
+        "zh_CN": "俱卢采风",
+        "disable": 0
+    },
+    {
+        "Key": "Lable33",
+        "zh_CN": "浮城漫步",
+        "disable": 0
+    },
+    {
+        "Key": "Lable34",
+        "zh_CN": "相聚此时",
+        "disable": 0
+    },
+    {
+        "Key": "Lable35",
+        "zh_CN": "疗愈中心",
+        "disable": 0
+    },
+    {
+        "Key": "Lable36",
+        "zh_CN": "重燃炬火",
+        "disable": 0
+    },
+    {
+        "Key": "Lable37",
+        "zh_CN": "缤纷曙色",
+        "disable": 0
+    },
+    {
+        "Key": "Lable38",
+        "zh_CN": "悠然暇光",
+        "disable": 0
+    },
+    {
+        "Key": "Lable39",
+        "zh_CN": "荒野之行",
+        "disable": 0
+    },
+    {
+        "Key": "Lable40",
+        "zh_CN": "秉烛夜游",
+        "disable": 0
+    },
+    {
+        "Key": "Lable41",
+        "zh_CN": "愿遂顺途",
+        "disable": 0
+    },
+    {
+        "Key": "Lable43",
+        "zh_CN": "迎春绮筵",
+        "disable": 0
+    },
+    {
+        "Key": "Lable44",
+        "zh_CN": "模因记录",
+        "disable": 0
+    },
+    {
+        "Key": "Lable45",
+        "zh_CN": "破晓之日",
+        "disable": 0
+    },
+    {
+        "Key": "Lable46",
+        "zh_CN": "追根究底",
+        "disable": 0
+    },
+    {
+        "Key": "Lable47",
+        "zh_CN": "庆典赠礼",
+        "disable": 0
+    },
+    {
+        "Key": "Lable48",
+        "zh_CN": "卫城新风",
+        "disable": 0
+    },
+    {
+        "Key": "Lable49",
+        "zh_CN": "芳约花途",
+        "disable": 0
+    },
+    {
+        "Key": "Lable50",
+        "zh_CN": "清风融意",
+        "disable": 0
+    },
+    {
+        "Key": "Lable51",
+        "zh_CN": "拾忆成集",
+        "disable": 0
+    },
+    {
+        "Key": "Lable52",
+        "zh_CN": "新程启礼",
+        "disable": 0
+    },
+    {
+        "Key": "Lable53",
+        "zh_CN": "巡游之星",
+        "disable": 0
+    },
+    {
+        "Key": "Lable54",
+        "zh_CN": "静赴心途",
+        "disable": 0
+    },
+    {
+        "Key": "Lable55",
+        "zh_CN": "至北初星",
+        "disable": 0
+    },
+    {
+        "Key": "Lable56",
+        "zh_CN": "水色漫游",
+        "disable": 0
+    },
+    {
+        "Key": "Lable57",
+        "zh_CN": "瑞雪映春",
+        "disable": 0
+    },
+    {
+        "Key": "Lable58",
+        "zh_CN": "冰释春回",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1",
+        "zh_CN": "队员试用",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_1",
+        "zh_CN": "辉夜",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_2",
+        "zh_CN": "云篆",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_3",
+        "zh_CN": "狂猎",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_4",
+        "zh_CN": "藏锋",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_5",
+        "zh_CN": "缄默",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_6",
+        "zh_CN": "溯影",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_7",
+        "zh_CN": "苔丝",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_8",
+        "zh_CN": "凯茜娅",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_9",
+        "zh_CN": "伊切尔",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_10",
+        "zh_CN": "悖谬",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_11",
+        "zh_CN": "羽蜕",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_12",
+        "zh_CN": "瞬刻",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_13",
+        "zh_CN": "无限之视",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_14",
+        "zh_CN": "辉耀",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_15",
+        "zh_CN": "薇蒂雅",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_16",
+        "zh_CN": "朝翼",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_17",
+        "zh_CN": "幽潮",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_18",
+        "zh_CN": "驰掣",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_20",
+        "zh_CN": "卜卜",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_21",
+        "zh_CN": "琼弦",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_22",
+        "zh_CN": "夜天光",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_23",
+        "zh_CN": "澜风",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_24",
+        "zh_CN": "冥河代理人",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_25",
+        "zh_CN": "天鹅座",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_26",
+        "zh_CN": "狂诗",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_27",
+        "zh_CN": "绮幻",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_28",
+        "zh_CN": "绯月",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_29",
+        "zh_CN": "澄意",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_30",
+        "zh_CN": "悠游",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_31",
+        "zh_CN": "星彩",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_32",
+        "zh_CN": "灵鉴",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_33",
+        "zh_CN": "时之重奏",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_34",
+        "zh_CN": "霄鹰",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry1_35",
+        "zh_CN": "瑞狐",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2",
+        "zh_CN": "潮流体验",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry3",
+        "zh_CN": "新品体验",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_1",
+        "zh_CN": "凛冽冬花",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_2",
+        "zh_CN": "行疾脱兔",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_3",
+        "zh_CN": "蜂刺蔷薇",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_4",
+        "zh_CN": "灼阳假期",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_5",
+        "zh_CN": "波光倩影",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_6",
+        "zh_CN": "情迷炎日",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_7",
+        "zh_CN": "一掷千金",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_8",
+        "zh_CN": "不灭残辉",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_9",
+        "zh_CN": "粼粼尾浪",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_10",
+        "zh_CN": "流放欢愉",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_11",
+        "zh_CN": "霜舞盛典",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_12",
+        "zh_CN": "初晴金雪",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_13",
+        "zh_CN": "雪岭焰行",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_14",
+        "zh_CN": "远曲独舞",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_15",
+        "zh_CN": "狂曲雅跃",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_16",
+        "zh_CN": "循风谍舞",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_17",
+        "zh_CN": "不灭傲姿",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_18",
+        "zh_CN": "宵宴绯盏",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_19",
+        "zh_CN": "东流映荷",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_20",
+        "zh_CN": "甜蜜统治",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_21",
+        "zh_CN": "迟到花蕾",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_22",
+        "zh_CN": "街头规则",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_23",
+        "zh_CN": "见习侍奉",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_24",
+        "zh_CN": "轻语疗法",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_25",
+        "zh_CN": "秘密约会",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_26",
+        "zh_CN": "须臾蹁跹",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_27",
+        "zh_CN": "贴身特助",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_28",
+        "zh_CN": "不灭耀心",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_29",
+        "zh_CN": "喵步巧跃",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_30",
+        "zh_CN": "爱意凝晶",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_31",
+        "zh_CN": "绽于恋时",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_32",
+        "zh_CN": "绯染夜幕",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_33",
+        "zh_CN": "归航一心",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_34",
+        "zh_CN": "绒绒漫步",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_35",
+        "zh_CN": "翠翎倩姿",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_36",
+        "zh_CN": "点墨化龙",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_37",
+        "zh_CN": "不灭榜首",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_38",
+        "zh_CN": "沐浪倦姿",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_39",
+        "zh_CN": "灿阳一刻",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_40",
+        "zh_CN": "浅憩之处",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_41",
+        "zh_CN": "静聆潮韵",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_42",
+        "zh_CN": "毛绒派对",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_43",
+        "zh_CN": "斑斓水色",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_44",
+        "zh_CN": "不灭守望",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_45",
+        "zh_CN": "专属教练",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_46",
+        "zh_CN": "捕猎演习",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_47",
+        "zh_CN": "清荷雅弈",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_48",
+        "zh_CN": "秘密彩蛋",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_49",
+        "zh_CN": "欣描红妆",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_50",
+        "zh_CN": "暖夜情醺",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_51",
+        "zh_CN": "金狮舞瑞",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_52",
+        "zh_CN": "纯白午后",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_53",
+        "zh_CN": "望云清咏",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_54",
+        "zh_CN": "绒尾迷梦",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_55",
+        "zh_CN": "舞夜与焰",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_56",
+        "zh_CN": "草莓甜心",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_57",
+        "zh_CN": "不灭银星",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_58",
+        "zh_CN": "晨曦统令",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_59",
+        "zh_CN": "林间潋滟",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_60",
+        "zh_CN": "绮锦流韵",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_61",
+        "zh_CN": "元气愈养",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_62",
+        "zh_CN": "暧馨侍奉",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_63",
+        "zh_CN": "疾速耀星",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_64",
+        "zh_CN": "云端之邀",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_65",
+        "zh_CN": "泳池护卫",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_66",
+        "zh_CN": "慵倚花阴",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_67",
+        "zh_CN": "引风飒意",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_68",
+        "zh_CN": "不灭恒忆",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_69",
+        "zh_CN": "星抚恋音",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_70",
+        "zh_CN": "恋如花舞",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_71",
+        "zh_CN": "畅饮狂欢",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_72",
+        "zh_CN": "秘密侍奉",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_73",
+        "zh_CN": "甜蜜困扰",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_74",
+        "zh_CN": "皎月幽祈",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_75",
+        "zh_CN": "轻罗曼舞",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_76",
+        "zh_CN": "共待曙明",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_77",
+        "zh_CN": "雨沁轻衫",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_78",
+        "zh_CN": "不灭灵影",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_79",
+        "zh_CN": "夕晖蜜约",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_80",
+        "zh_CN": "碧波浮游",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_81",
+        "zh_CN": "海境鲛梦",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_82",
+        "zh_CN": "热沙激浪",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_83",
+        "zh_CN": "柔倚身畔",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_84",
+        "zh_CN": "暗空魅影",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_85",
+        "zh_CN": "清光虔愿",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_86",
+        "zh_CN": "花间蝶踪",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_87",
+        "zh_CN": "暖雾凝眸",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_88",
+        "zh_CN": "绮恋星灵",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_89",
+        "zh_CN": "喵语祈念",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_90",
+        "zh_CN": "颂夜欢歌",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_91",
+        "zh_CN": "恋恋秋行",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_92",
+        "zh_CN": "不灭锋铭",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_93",
+        "zh_CN": "缘音回响",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_94",
+        "zh_CN": "纯白恋羽",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_95",
+        "zh_CN": "霄倾君怀",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_96",
+        "zh_CN": "祥云徜戏",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_97",
+        "zh_CN": "游闲心舒",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_98",
+        "zh_CN": "珠光曳影",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_99",
+        "zh_CN": "国主驾到",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_100",
+        "zh_CN": "剑意逍遥",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_101",
+        "zh_CN": "轻纱暖寐",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityTry2_102",
+        "zh_CN": "不灭柔情",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityDrop1",
+        "zh_CN": "优速整备",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityRoad1",
+        "zh_CN": "感知巡游",
+        "disable": 0
+    },
+    {
+        "Key": "newbieEvent",
+        "zh_CN": "完成任务获得【雪之形】，达到数量要求可领取奖励， 最终可获得武器：<span color=\"#f7be37\">狙击枪-奥林匹斯</>",
+        "disable": 0
+    },
+    {
+        "Key": "vipReward",
+        "zh_CN": "月卡额外获得",
+        "disable": 0
+    },
+    {
+        "Key": "navigateTo",
+        "zh_CN": "测试跳转的文本",
+        "disable": 0
+    },
+    {
+        "Key": "firstDrop",
+        "zh_CN": "首通",
+        "disable": 0
+    },
+    {
+        "Key": "baseDrop",
+        "zh_CN": "固定",
+        "disable": 0
+    },
+    {
+        "Key": "randomDrop",
+        "zh_CN": "随机",
+        "disable": 0
+    },
+    {
+        "Key": "specialDrop",
+        "zh_CN": "特殊",
+        "disable": 0
+    },
+    {
+        "Key": "extraDrop",
+        "zh_CN": "额外",
+        "disable": 0
+    },
+    {
+        "Key": "cpDrop",
+        "zh_CN": "定制",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "character10",
+        "zh_CN": "肴-养生专家",
+        "disable": 0
+    },
+    {
+        "Key": "character11",
+        "zh_CN": "肴-工作宗旨",
+        "disable": 0
+    },
+    {
+        "Key": "character12",
+        "zh_CN": "芙提雅-小太阳",
+        "disable": 0
+    },
+    {
+        "Key": "Bprules",
+        "zh_CN": "1.每期凭证活动中，初级凭证默认解锁获取，分析员还可通过兑换【高级凭证】 或【特级凭证】 ,获取更丰厚的奖励。购买【特级凭证】 后，解锁\"时装专项扩充\"购买资格，可额外购买1次本期时装资金自选箱。每日任务将在凌晨4点刷新，每周任务将在每周一凌晨4点刷新【UTC+8】\\n2.分析员可通过完成凭证任务，来获取经验，提高凭证等级，获取丰厚的奖励。\\n3.在当期凭证等级达到50级后，每提升1级可获得1个“追加物资包”，解锁高级凭证或特级凭证的分析员则可额外获得1个“追加物资包”。“追加物资包”数量可累积，单次最多领取10级经验的“追加物资包”奖励，超出数量需要分多次领取。\\n4.每周通过本期凭证每日、每周任务获得的经验最多不能超过10000点，超过后则不能通过每日、每周任务获得经验，但仍可通过本期限定任务获得经验。（本期限定任务获取的经验不会计入每周10000点上限）",
+        "disable": 0
+    },
+    {
+        "Key": "Bprules_oversea",
+        "zh_CN": "1.每期凭证活动中，初级凭证默认解锁获取，分析员还可通过兑换【高级凭证】 或【特级凭证】 ,获取更丰厚的奖励。购买【特级凭证】 后，解锁\"时装专项扩充\"购买资格，可额外购买1次本期时装资金自选箱。每日任务将在凌晨4点刷新，每周任务将在每周一凌晨4点刷新【UTC+8】\\n2.分析员可通过完成凭证任务，来获取经验，提高凭证等级，获取丰厚的奖励。\\n3.在当期凭证等级达到50级后，每提升1级可获得1个“追加物资包”，解锁高级凭证或特级凭证的分析员则可额外获得1个“追加物资包”。“追加物资包”数量可累积，单次最多领取10级经验的“追加物资包”奖励，超出数量需要分多次领取。\\n4.每周通过本期凭证每日、每周任务获得的经验最多不能超过10000点，超过后则不能通过每日、每周任务获得经验，但仍可通过本期限定任务获得经验。（本期限定任务获取的经验不会计入每周10000点上限）",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "try_girl_test",
+        "zh_CN": "1.在【队员试用】活动开启时间内，分析员可使用固定队员阵容进入指定关卡进行体验。\\n2.试用的队员等级、搭配的武器与后勤小队仅为活动固定。\\n3.场景中会掉落额外的能量瓶，方便分析员体验队员的爆发技。\\n4.本活动内的同一关卡可多次体验，但仅首次通关可获取奖励。\\n5.本活动关卡内增加了技能详情界面，分析员可通过关卡内的【暂停-技能详情】查看试用角色的技能信息。",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_test1",
+        "zh_CN": "1.【时装试用】活动期间，分析员可进入指定关卡，使用固定队员阵容进行体验。\\n2. 试用队员的时装、等级，以及配备武器及后勤小队都仅限活动内使用。\\n3. 试用关卡中会额外掉落能量瓶，以便分析员体验队员的技能演出效果。\\n4. 本活动内，同一关卡可重复多次体验，仅首次通关可领取奖励。\\n5. 本次活动关卡中，敌方目标会不断出现，在击败第一波次敌方目标后，移动至黄色区域即可退出该关卡，并且首次通关时可获得奖励。",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "try_girl_Name1",
+        "zh_CN": "肴-冬至试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name2",
+        "zh_CN": "里芙-狂猎试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name3",
+        "zh_CN": "辰星-云篆试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name4",
+        "zh_CN": "瑟瑞斯试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name5",
+        "zh_CN": "安卡希雅-辉夜试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name6",
+        "zh_CN": "行疾脱兔-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name7",
+        "zh_CN": "凛冽冬花-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name8",
+        "zh_CN": "蜂刺蔷薇-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name9",
+        "zh_CN": "芙提雅-缄默试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name10",
+        "zh_CN": "晴-藏锋试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name11",
+        "zh_CN": "猫汐尔-溯影试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name12",
+        "zh_CN": "安卡希雅-辉夜试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name13",
+        "zh_CN": "灼阳假期-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name14",
+        "zh_CN": "波光倩影-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name15",
+        "zh_CN": "情迷炎日-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name16",
+        "zh_CN": "一掷千金-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name17",
+        "zh_CN": "不灭残辉-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name18",
+        "zh_CN": "粼粼尾浪-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name19",
+        "zh_CN": "流放欢愉-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name20",
+        "zh_CN": "霜舞盛典-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name21",
+        "zh_CN": "初晴金雪-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name22",
+        "zh_CN": "雪岭焰行-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name23",
+        "zh_CN": "苔丝试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name24",
+        "zh_CN": "凯茜娅试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name25",
+        "zh_CN": "远曲独舞-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name26",
+        "zh_CN": "狂曲雅跃-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name27",
+        "zh_CN": "循风谍舞-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name28",
+        "zh_CN": "不灭傲姿-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name29",
+        "zh_CN": "宵宴绯盏-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name30",
+        "zh_CN": "东流映荷-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name31",
+        "zh_CN": "伊切尔试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name32",
+        "zh_CN": "甜蜜统治-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name33",
+        "zh_CN": "迟到花蕾-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name34",
+        "zh_CN": "街头规则-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name35",
+        "zh_CN": "琴诺-悖谬试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name36",
+        "zh_CN": "恩雅-羽蜕试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name37",
+        "zh_CN": "见习侍奉-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name38",
+        "zh_CN": "轻语疗法-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name39",
+        "zh_CN": "秘密约会-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name40",
+        "zh_CN": "瑟瑞斯-瞬刻试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name41",
+        "zh_CN": "须臾蹁跹-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name42",
+        "zh_CN": "贴身特助-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name43",
+        "zh_CN": "不灭耀心-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name44",
+        "zh_CN": "喵步巧跃-时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name45",
+        "zh_CN": "里芙-无限之视试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name46",
+        "zh_CN": "芬妮-辉耀试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name47",
+        "zh_CN": "爱意凝晶—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name48",
+        "zh_CN": "绽于恋时—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name49",
+        "zh_CN": "绯染夜幕—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name50",
+        "zh_CN": "归航一心—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name51",
+        "zh_CN": "绒绒漫步—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name52",
+        "zh_CN": "薇蒂雅-龙舌兰试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name53",
+        "zh_CN": "翠翎倩姿—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name54",
+        "zh_CN": "点墨化龙—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name55",
+        "zh_CN": "不灭榜首—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name56",
+        "zh_CN": "治愈准则—武器外观试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name57",
+        "zh_CN": "凯茜娅-朝翼试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name58",
+        "zh_CN": "茉莉安-幽潮试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name59",
+        "zh_CN": "沐浪倦姿—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name60",
+        "zh_CN": "灿阳一刻—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name61",
+        "zh_CN": "浅憩之处—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name62",
+        "zh_CN": "静聆潮韵—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name63",
+        "zh_CN": "芙提雅-驰掣试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name64",
+        "zh_CN": "毛绒派对—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name65",
+        "zh_CN": "斑斓水色—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name66",
+        "zh_CN": "不灭守望—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name67",
+        "zh_CN": "专属教练—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name68",
+        "zh_CN": "卜卜-小天师试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name69",
+        "zh_CN": "捕猎演习—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name70",
+        "zh_CN": "清荷雅弈—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name71",
+        "zh_CN": "秘密彩蛋—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name72",
+        "zh_CN": "辰星-琼弦试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name73",
+        "zh_CN": "肴-夜天光试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name74",
+        "zh_CN": "欣描红妆—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name75",
+        "zh_CN": "暖夜情醺—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name76",
+        "zh_CN": "金狮舞瑞—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name77",
+        "zh_CN": "纯白午后—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name78",
+        "zh_CN": "恩雅-澜风试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name79",
+        "zh_CN": "望云清咏—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name80",
+        "zh_CN": "绒尾迷梦—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name81",
+        "zh_CN": "舞夜与焰—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name82",
+        "zh_CN": "草莓甜心—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name83",
+        "zh_CN": "不灭银星—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name84",
+        "zh_CN": "奈莉德-冥河代理人试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name85",
+        "zh_CN": "晨曦统令—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name86",
+        "zh_CN": "林间潋滟—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name87",
+        "zh_CN": "绮锦流韵—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name88",
+        "zh_CN": "元气愈养—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name89",
+        "zh_CN": "暧馨侍奉—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name90",
+        "zh_CN": "疾速耀星—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name91",
+        "zh_CN": "薇蒂雅-天鹅座试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name92",
+        "zh_CN": "云端之邀—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name93",
+        "zh_CN": "泳池护卫—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name94",
+        "zh_CN": "慵倚花阴—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name95",
+        "zh_CN": "引风飒意—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name96",
+        "zh_CN": "不灭恒忆—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name97",
+        "zh_CN": "凯茜娅-狂诗试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name98",
+        "zh_CN": "苔丝-绮幻试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name99",
+        "zh_CN": "星抚恋音—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name100",
+        "zh_CN": "恋如花舞—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name101",
+        "zh_CN": "畅饮狂欢—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name102",
+        "zh_CN": "秘密侍奉—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name103",
+        "zh_CN": "甜蜜困扰—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name104",
+        "zh_CN": "克罗瑞娜-绯月试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name105",
+        "zh_CN": "皎月幽祈—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name106",
+        "zh_CN": "轻罗曼舞—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name107",
+        "zh_CN": "共待曙明—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name108",
+        "zh_CN": "雨沁轻衫—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name109",
+        "zh_CN": "不灭灵影—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name110",
+        "zh_CN": "芬妮-澄意试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name111",
+        "zh_CN": "瑟瑞斯-悠游试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name112",
+        "zh_CN": "夕晖蜜约—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name113",
+        "zh_CN": "碧波浮游—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name114",
+        "zh_CN": "海境鲛梦—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name115",
+        "zh_CN": "热沙激浪—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name116",
+        "zh_CN": "柔倚身畔—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name117",
+        "zh_CN": "米娅-星彩试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name118",
+        "zh_CN": "暗空魅影—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name119",
+        "zh_CN": "清光虔愿—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name120",
+        "zh_CN": "花间蝶踪—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name121",
+        "zh_CN": "暖雾凝眸—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name122",
+        "zh_CN": "卜卜-灵鉴试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name123",
+        "zh_CN": "绮恋星灵—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name124",
+        "zh_CN": "喵语祈念—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name125",
+        "zh_CN": "颂夜欢歌—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name126",
+        "zh_CN": "恋恋秋行—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name127",
+        "zh_CN": "不灭锋铭—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name128",
+        "zh_CN": "安卡希雅-时之重奏试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name129",
+        "zh_CN": "茉莉安-霄鹰试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name130",
+        "zh_CN": "缘音回响—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name131",
+        "zh_CN": "纯白恋羽—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name132",
+        "zh_CN": "霄倾君怀—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name133",
+        "zh_CN": "祥云徜戏—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name134",
+        "zh_CN": "游闲心舒—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name135",
+        "zh_CN": "胧嫣-瑞狐试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name136",
+        "zh_CN": "珠光曳影—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name137",
+        "zh_CN": "国主驾到—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name138",
+        "zh_CN": "剑意逍遥—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name139",
+        "zh_CN": "轻纱暖寐—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Name140",
+        "zh_CN": "不灭柔情—时装试用",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Icon1",
+        "zh_CN": "前往共鸣",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Icon2",
+        "zh_CN": "前往凭证",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Icon3",
+        "zh_CN": "前往供应站",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Icon4",
+        "zh_CN": "查看回馈",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Icon5",
+        "zh_CN": "前往活动商店",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Icon6",
+        "zh_CN": "查看员工惠利",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Icon7",
+        "zh_CN": "前往商店",
+        "disable": 0
+    },
+    {
+        "Key": "try_girl_Icon8",
+        "zh_CN": "前往签到",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "try_girl_Desc0",
+        "zh_CN": "首次通关当前队员试用关卡，即可获取试用通过奖励",
+        "disable": 0
+    },
+    {
+        "Key": "ssrSelectRules",
+        "zh_CN": "用于邀请里芙-狂猎、茉莉安-雨燕、芬妮-咎冠、肴-冬至、芙提雅-缄默中的任意1位队员加入队伍，是世界树对高级别分析员的特殊关照",
+        "disable": 1000
+    },
+    {
+        "Key": "MianStoryTarget_name",
+        "zh_CN": "指挥历程",
+        "disable": 0
+    },
+    {
+        "Key": "Online2_des",
+        "zh_CN": "超元链接-永续联战 限时开放",
+        "disable": 0
+    },
+    {
+        "Key": "Online2Finish",
+        "zh_CN": "永续联战已关闭",
+        "disable": 0
+    },
+    {
+        "Key": "return_icon1",
+        "zh_CN": "重逢增援",
+        "disable": 0
+    },
+    {
+        "Key": "return_icon2",
+        "zh_CN": "回归签到",
+        "disable": 0
+    },
+    {
+        "Key": "return_icon3",
+        "zh_CN": "回归进程",
+        "disable": 0
+    },
+    {
+        "Key": "return_icon4",
+        "zh_CN": "回归剧情",
+        "disable": 0
+    },
+    {
+        "Key": "return_template_1_des",
+        "zh_CN": "回归活动期间，可领取数据金、通用银等奖励以及经验获取率提升持续效果\\n回归活动期间，奖励仅可领取一次",
+        "disable": 0
+    },
+    {
+        "Key": "return_template_2_des",
+        "zh_CN": "分析员等级＜80生效",
+        "disable": 0
+    },
+    {
+        "Key": "return_template_3_des",
+        "zh_CN": "回归活动期间，每日登录即可领取对应奖励",
+        "disable": 0
+    },
+    {
+        "Key": "return_template_4_des",
+        "zh_CN": "解锁并完成当前阶段的所有任务后可领取",
+        "disable": 0
+    },
+    {
+        "Key": "return_template_5_des",
+        "zh_CN": "回归活动期间，可领取数据金、通用银等奖励\\n回归活动期间，奖励仅可领取一次",
+        "disable": 0
+    },
+    {
+        "Key": "return_template_6_des",
+        "zh_CN": "【重逢增援】\\n完成【回归签到】活动后即可领取全部奖励\\n【回归签到】\\n回归活动期间，每日登录即可获取奖励\\n【回归进程】\\n活动期间 ，回归进程每日解锁一个新阶段任务\\n【参与条件】\\n分析员等级达到30级\\n连续未登录游戏天数≥14天\\n非首次参与需距离上一次触发【归途道标】活动>42天\\n"
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "return_button1",
+        "zh_CN": "领取",
+        "disable": 0
+    },
+    {
+        "Key": "return_button2",
+        "zh_CN": "阶段\\%d",
+        "disable": 0
+    },
+    {
+        "Key": "dlc4house_detail1",
+        "zh_CN": "恩雅&苔丝",
+        "disable": 0
+    },
+    {
+        "Key": "dlc4house_detail2",
+        "zh_CN": "豪华烘焙套组&精致茶组",
+        "disable": 0
+    },
+    {
+        "Key": "dlc4house_detail3",
+        "zh_CN": "12.14-01.18 双人家具限时折扣中！",
+        "disable": 0
+    },
+    {
+        "Key": "drop1_des",
+        "zh_CN": "优速整备期间，常规行动中【富饶之壶】、【百足之市】、【止战之人】、【重铸之炎】、【永冬之境】，每日前4次挑战可获得双倍资源。",
+        "disable": 0
+    },
+    {
+        "Key": "road1_des",
+        "zh_CN": "消耗理智值获取等量智识巡游度，兑换奖励",
+        "disable": 0
+    },
+    {
+        "Key": "dlc5house_detail1",
+        "zh_CN": "凯茜娅",
+        "disable": 0
+    },
+    {
+        "Key": "dlc5house_detail2",
+        "zh_CN": "至臻藏品展柜&智能吧台",
+        "disable": 0
+    },
+    {
+        "Key": "dlc5house_detail3",
+        "zh_CN": "01.18-03.06 双人家具限时折扣中！",
+        "disable": 0
+    },
+    {
+        "Key": "ChatActivity",
+        "zh_CN": "聊门作战",
+        "disable": 1000
+    },
+    {
+        "Key": "dlc6house_detail1",
+        "zh_CN": "伊切尔",
+        "disable": 0
+    },
+    {
+        "Key": "dlc6house_detail2",
+        "zh_CN": "智能黑板套组&「大魔王」游戏机",
+        "disable": 0
+    },
+    {
+        "Key": "dlc6house_detail3",
+        "zh_CN": "03.07-04.17 双人家具限时折扣中！",
+        "disable": 0
+    },
+    {
+        "Key": "dlc7house_detail1",
+        "zh_CN": "妮塔",
+        "disable": 0
+    },
+    {
+        "Key": "dlc7house_detail2",
+        "zh_CN": "精装藏书角&专业特训跑步机",
+        "disable": 0
+    },
+    {
+        "Key": "dlc7house_detail3",
+        "zh_CN": "04.18-05.29 双人家具限时折扣中！",
+        "disable": 0
+    },
+    {
+        "Key": "dlc8house_detail",
+        "zh_CN": "高级造景鱼缸&温馨餐桌椅组合\\n高级飞镖套装&健身器械组合\\n05.30-07.10 双人家具限时折扣中！"
+    },
+    {
+        "Key": "dlc9house_detail",
+        "zh_CN": "基地全新区域疗愈中心开放\\n疗愈中心家具上新\\n神经调理玩法开放",
+        "disable": 0
+    },
+    {
+        "Key": "dlc2.5house_detail",
+        "zh_CN": "基地全新区域温泉中心开放\\n赢取全新家具，打造美好空间\\n与少女游戏，享受独特的放松体验",
+        "disable": 0
+    },
+    {
+        "Key": "dlc3.0house_detail",
+        "zh_CN": "基地全新区域暖调闲聚开放\\n与少女浪漫小聚，享受慵懒一刻\\n牌局对战之间，解锁丰富家具",
+        "disable": 0
+    },
+    {
+        "Key": "dlc3.2house_detail",
+        "zh_CN": "<span color=\"#E3F6FF\">基地全新区域恋风漪岸开放</>\\n<span color=\"#E3F6FF\">与少女戏沙逐浪，享受恋恋海风</>\\n<span color=\"#E3F6FF\">一起制作冰趣甜品，解锁丰富沙滩家具</>",
+        "disable": 0
+    },
+    {
+        "Key": "dlc3.5house_detail",
+        "zh_CN": "<span color=\"#f3f0f5\">【推币大赢家】在“电玩次元”邂逅少女游戏身影，更要来一场酣畅游戏！分析员将在少女的助阵下畅爽推币，引爆属于你的硬币瀑布！</>",
+        "disable": 0
+    },
+    {
+        "Key": "dlc10house_detail1",
+        "zh_CN": "薇蒂雅",
+        "disable": 0
+    },
+    {
+        "Key": "dlc10house_detail2",
+        "zh_CN": "双人观影套组",
+        "disable": 0
+    },
+    {
+        "Key": "dlc10house_detail3",
+        "zh_CN": "08.22-09.25 双人家具限时折扣中！",
+        "disable": 0
+    },
+    {
+        "Key": "dlc11house_detail1",
+        "zh_CN": "茉莉安&凯茜娅",
+        "disable": 0
+    },
+    {
+        "Key": "dlc11house_detail2",
+        "zh_CN": "蒙眼辨物&独家留影",
+        "disable": 0
+    },
+    {
+        "Key": "dlc11house_detail3",
+        "zh_CN": "09.26-11.06 双人家具限时折扣中！",
+        "disable": 0
+    },
+    {
+        "Key": "dlc12house_detail1",
+        "zh_CN": "里芙&芬妮",
+        "disable": 0
+    },
+    {
+        "Key": "dlc12house_detail2",
+        "zh_CN": "亲密相伴&甜蜜揉捏",
+        "disable": 0
+    },
+    {
+        "Key": "dlc12house_detail3",
+        "zh_CN": "11.07-12.18 双人家具限时折扣中！",
+        "disable": 0
+    },
+    {
+        "Key": "dlc13house_detail1",
+        "zh_CN": "晴",
+        "disable": 0
+    },
+    {
+        "Key": "dlc13house_detail2",
+        "zh_CN": "温热软“枕”",
+        "disable": 0
+    },
+    {
+        "Key": "dlc13house_detail3",
+        "zh_CN": "12.19-01.22 双人家具限时折扣中！",
+        "disable": 0
+    },
+    {
+        "Key": "dlc15house_detail1",
+        "zh_CN": "恩雅&苔丝",
+        "disable": 0
+    },
+    {
+        "Key": "dlc15house_detail2",
+        "zh_CN": "耳畔柔触&绵软轻压",
+        "disable": 0
+    },
+    {
+        "Key": "dlc15house_detail3",
+        "zh_CN": "03.06-04.16 双人家具限时折扣中！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivitySeries",
+        "zh_CN": "怦然密语",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivitySeries_des",
+        "zh_CN": "1.该活动为玩家共同助力破译“怦然密语”，玩家可在活动期间破译“怦然密语”，助力累计心语破译人数。\\n2.活动期间内达成指定人数后将为当前服务器所有玩家发放奖励邮件，发放时限持续整个活动期间，即达成条件后新进的玩家均可收到奖励邮件。\\n3.活动结束后将停止发放奖励邮件。\\n4.心语破译人数每隔5分钟刷新1次。",
+        "disable": 0
+    },
+    {
+        "Key": "PhotoStudio",
+        "zh_CN": "基地全新功能契影定格开放\\n多种合影姿势，自选拍照角度\\n与少女一起定格美好时刻",
+        "disable": 0
+    },
+    {
+        "Key": "dlc27house_detail1",
+        "zh_CN": "卜卜",
+        "disable": 0
+    },
+    {
+        "Key": "dlc27house_detail2",
+        "zh_CN": "卜居雅案",
+        "disable": 0
+    },
+    {
+        "Key": "dlc27house_detail3",
+        "zh_CN": "04.17-05.28 双人家具限时折扣中！",
+        "disable": 0
+    },
+    {
+        "Key": "dlc28house_detail1",
+        "zh_CN": "奈莉德",
+        "disable": 0
+    },
+    {
+        "Key": "dlc28house_detail2",
+        "zh_CN": "浪漫潮汐氛围灯",
+        "disable": 0
+    },
+    {
+        "Key": "dlc28house_detail3",
+        "zh_CN": "05.29-07.09 双人家具限时折扣中！",
+        "disable": 0
+    },
+    {
+        "Key": "FormerDlc7_title",
+        "zh_CN": "素影遗痕-追忆",
+        "disable": 0
+    },
+    {
+        "Key": "FormerDlc7_des",
+        "zh_CN": "活动期间内可体验追忆活动“素影遗痕”主线关卡",
+        "disable": 0
+    },
+    {
+        "Key": "FormerDlc3_title",
+        "zh_CN": "翠星假日-追忆",
+        "disable": 0
+    },
+    {
+        "Key": "FormerDlc3_des",
+        "zh_CN": "活动期间内可体验追忆活动“翠星假日”主线关卡",
+        "disable": 0
+    },
+    {
+        "Key": "FormerDlc11_title",
+        "zh_CN": "碧水假日-追忆",
+        "disable": 0
+    },
+    {
+        "Key": "FormerDlc11_des",
+        "zh_CN": "活动期间内可体验追忆活动“碧水假日”主线关卡",
+        "disable": 0
+    },
+    {
+        "Key": "FormerDlc26_title",
+        "zh_CN": "荒城栖花-追忆",
+        "disable": 0
+    },
+    {
+        "Key": "FormerDlc26_des",
+        "zh_CN": "活动期间内可体验追忆活动“荒城栖花”主线关卡",
+        "disable": 0
+    },
+    {
+        "Key": "dlc31house_detail1",
+        "zh_CN": "肴&辰星",
+        "disable": 0
+    },
+    {
+        "Key": "dlc31house_detail2",
+        "zh_CN": "懒日偷闲&柔荑纾倦",
+        "disable": 0
+    },
+    {
+        "Key": "dlc31house_detail3",
+        "zh_CN": "08.21-09.24 双人家具限时折扣中！",
+        "disable": 0
+    },
+    {
+        "Key": "dlc33house_detail1",
+        "zh_CN": "克罗瑞娜",
+        "disable": 0
+    },
+    {
+        "Key": "dlc33house_detail2",
+        "zh_CN": "奢享茶点桌套组",
+        "disable": 0
+    },
+    {
+        "Key": "dlc33house_detail3",
+        "zh_CN": "11.06-12.17 双人家具限时折扣中！",
+        "disable": 0
+    },
+    {
+        "Key": "dlc34house_detail1",
+        "zh_CN": "米娅",
+        "disable": 0
+    },
+    {
+        "Key": "dlc34house_detail2",
+        "zh_CN": "星梦同愿墙",
+        "disable": 0
+    },
+    {
+        "Key": "dlc34house_detail3",
+        "zh_CN": "12.18-1.28 双人家具限时折扣中！",
+        "disable": 0
+    },
+    {
+        "Key": "dlc36house_detail1",
+        "zh_CN": "芙提雅&安卡希雅",
+        "disable": 0
+    },
+    {
+        "Key": "dlc36house_detail2",
+        "zh_CN": "爱心练习？& 游戏时间！",
+        "disable": 0
+    },
+    {
+        "Key": "dlc36house_detail3",
+        "zh_CN": "03.12-04.22 双人家具限时折扣中！",
+        "disable": 0
+    },
+    {
+        "Key": "limitedItem_button_card",
+        "zh_CN": "获取角色",
+        "disable": 0
+    },
+    {
+        "Key": "limitedItem_button_weapon",
+        "zh_CN": "获取武器",
+        "disable": 0
+    },
+    {
+        "Key": "limitedItem_button_support",
+        "zh_CN": "获取后勤",
+        "disable": 0
+    },
+    {
+        "Key": "limitedItem_button_getweapon",
+        "zh_CN": "获取限时武器",
+        "disable": 0
+    },
+    {
+        "Key": "limitedItem_button_getsupport",
+        "zh_CN": "获取限时后勤",
+        "disable": 0
+    },
+    {
+        "Key": "limitedItem_NotStart",
+        "zh_CN": "限时入队活动，将在解锁<span color=\"#bbf1ff\">后勤装配功能</>7天后关闭",
+        "disable": 0
+    },
+    {
+        "Key": "limitedItem_StartTiming",
+        "zh_CN": "剩余时间：%s",
+        "disable": 0
+    },
+    {
+        "Key": "limitedItem_HaveCard",
+        "zh_CN": "已拥有该角色",
+        "disable": 0
+    },
+    {
+        "Key": "limitedItem_HaveWeaponAndSupport",
+        "zh_CN": "已拥有该武器与后勤",
+        "disable": 0
+    },
+    {
+        "Key": "limitedItem_Expired",
+        "zh_CN": "体验已过期",
+        "disable": 0
+    },
+    {
+        "Key": "limitedItem_Des",
+        "zh_CN": "限时入队活动结束前，获取角色、武器或后勤，将保留其养成状态\\n限时入队活动结束后，如果尚未获取角色、武器与后勤，将返还全部养成材料",
+        "disable": 0
+    },
+    {
+        "Key": "limitedItem_Tip1",
+        "zh_CN": "解锁武器装备功能后，可以领取限时体验武器<span color=\"#5082f1\">【九夜之冕】</>",
+        "disable": 0
+    },
+    {
+        "Key": "limitedItem_Tip2",
+        "zh_CN": "解锁后勤装配功能后，可以领取限时体验后勤<span color=\"#5082f1\">星朗小队</>",
+        "disable": 0
+    },
+    {
+        "Key": "limitedItem_Tip3",
+        "zh_CN": "限时体验武器与后勤无法被分解",
+        "disable": 0
+    },
+    {
+        "Key": "limitedItem_Tip4",
+        "zh_CN": "限时体验武器与后勤无法作为材料使用",
+        "disable": 0
+    },
+    {
+        "Key": "limitedItem_Tip5",
+        "zh_CN": "限时体验武器升级后的奖励配件无法领取",
+        "disable": 0
+    },
+    {
+        "Key": "limitedItem_Tip6",
+        "zh_CN": "限时体验后勤无法进行重修",
+        "disable": 0
+    },
+    {
+        "Key": "limitedItem_ActivityName",
+        "zh_CN": "限时入队",
+        "disable": 0
+    }
+]

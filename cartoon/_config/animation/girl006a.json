@@ -1,0 +1,34 @@
+[
+    {
+        "Id": 1,
+        "Explain": "宿舍站",
+        "Type": "sequence",
+        "Name": "girl006a_ui_stand01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl006a/Anim/girl006a_ui_stand01.girl006a_ui_stand01'"
+    },
+    {
+        "Id": 2,
+        "Explain": "思考",
+        "Type": "sequence",
+        "Name": "girl006a_ui_sikao01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl006a/Anim/girl006a_ui_sikao01.girl006a_ui_sikao01'"
+    },
+    {
+        "Id": 100,
+        "Explain": "一次思考",
+        "Type": "custom_seq",
+        "Name": "10;11;12"
+    },
+    {
+        "Id": 101,
+        "Explain": "思考循环",
+        "Type": "custom_loop_last",
+        "Name": "10;11"
+    },
+    {
+        "Id": 102,
+        "Explain": "喝咖啡随后吧台坐",
+        "Type": "custom_loop_last",
+        "Name": "16;4"
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "ID": 1,
+        "DangerNum": 0,
+        "BaseSkill": [
+            7012001,
+            1
+        ],
+        "SkillEffect": "",
+        "BaseDes": "rogue3.danger_basedes1",
+        "DesNum": [
+            0,
+            0,
+            0,
+            "rogue3.other_dangerRange1"
+        ]
+    },
+    {
+        "ID": 2,
+        "DangerNum": 20,
+        "BaseSkill": [
+            7012001,
+            2
+        ],
+        "SkillEffect": "",
+        "BaseDes": "rogue3.danger_basedes1",
+        "DesNum": [
+            3,
+            3,
+            3,
+            "rogue3.other_dangerRange1"
+        ],
+        "RandomLevel": [
+            501,
+            [
+                1,
+                2
+            ]
+        ],
+        "RandomObject": [
+            3
+        ]
+    },
+    {
+        "ID": 3,
+        "DangerNum": 40,
+        "BaseSkill": [
+            7012001,
+            3
+        ],
+        "SkillEffect": "",
+        "BaseDes": "rogue3.danger_basedes1",
+        "DesNum": [
+            5,
+            5,
+            5,
+            "rogue3.other_dangerRange2"
+        ],
+        "RandomLevel": [
+            501,
+            [
+                2,
+                3
+            ]
+        ],
+        "RandomObject": [
+            2,
+            3
+        ]
+    },
+    {
+        "ID": 4,
+        "DangerNum": 70,
+        "BaseSkill": [
+            7012001,
+            4
+        ],
+        "SkillEffect": "",
+        "BaseDes": "rogue3.danger_basedes1",
+        "DesNum": [
+            10,
+            10,
+            10,
+            "rogue3.other_dangerRange2"
+        ],
+        "RandomLevel": [
+            501,
+            [
+                3,
+                4
+            ]
+        ],
+        "RandomObject": [
+            2,
+            3
+        ]
+    },
+    {
+        "ID": 5,
+        "DangerNum": 100,
+        "BaseSkill": [
+            7012001,
+            5
+        ],
+        "SkillEffect": "",
+        "BaseDes": "rogue3.danger_basedes1",
+        "DesNum": [
+            15,
+            15,
+            15,
+            "rogue3.other_dangerRange3"
+        ],
+        "RandomLevel": [
+            501,
+            [
+                4,
+                5
+            ]
+        ],
+        "RandomObject": [
+            1,
+            2,
+            3
+        ]
+    }
+]

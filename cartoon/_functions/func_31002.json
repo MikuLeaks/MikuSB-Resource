@@ -1,0 +1,243 @@
+{
+  "pages": [
+    {
+      "id": 1,
+      "name": "Page1",
+      "max_action_id": 60,
+      "traces": [
+        {
+          "id": 1,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 33,
+                  "tpl_id": "screen_fade",
+                  "params": {
+                    "fade_type": "1",
+                    "style": "1",
+                    "time": "{{BlendOut}}"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 34,
+                  "tpl_id": "show_or_hide_text_full_screen",
+                  "params": {
+                    "show": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 35,
+                  "tpl_id": "set_text",
+                  "params": {
+                    "align": "2",
+                    "lang": "{{msg}}",
+                    "name": "_fs_text"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 36,
+                  "tpl_id": "wait_time",
+                  "params": {
+                    "time": "{{time}}"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 37,
+                  "tpl_id": "wait_time",
+                  "params": {
+                    "time": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 38,
+                  "tpl_id": "show_or_hide_text_full_screen",
+                  "params": {
+                    "show": ""
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 40
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 41,
+                  "tpl_id": "play_fade",
+                  "params": {
+                    "alpha_from": "0",
+                    "style": "1",
+                    "time": "1",
+                    "alpha_to": "1",
+                    "name": "_fs_text"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 42
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 43
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 44,
+                  "tpl_id": "play_fade",
+                  "params": {
+                    "alpha_from": "1",
+                    "alpha_to": "0",
+                    "time": "1",
+                    "style": "1",
+                    "name": "_fs_text"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 45
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 47
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 48
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 49
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 50
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 51
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 52
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 54
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 55
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 56
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 57
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 58
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 59
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

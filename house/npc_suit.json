@@ -1,0 +1,77 @@
+[
+    {
+        "NpcId": 0,
+        "SuitId": 1,
+        "NeedItem": "",
+        "AutoGet": 1,
+        "Icon": 1701229,
+        "SourceTxt": "",
+        "SkinId": 79900
+    },
+    {
+        "NpcId": 0,
+        "SuitId": 2,
+        "NeedItem": [
+            16,
+            1,
+            1,
+            1
+        ],
+        "AutoGet": "",
+        "Icon": 1701230,
+        "SourceTxt": "house.playersuit1.source",
+        "SkinId": 79901
+    },
+    {
+        "NpcId": 0,
+        "SuitId": 3,
+        "NeedItem": [
+            16,
+            3,
+            1,
+            1
+        ],
+        "AutoGet": "",
+        "Icon": 1701276,
+        "SourceTxt": "house.playersuit1.source",
+        "SkinId": 79902
+    },
+    {
+        "NpcId": 0,
+        "SuitId": 60,
+        "NeedItem": "",
+        "AutoGet": "",
+        "Icon": "",
+        "SourceTxt": "",
+        "SkinId": 79903,
+        "IntoClothes": 1
+    },
+    {
+        "NpcId": 0,
+        "SuitId": 4,
+        "NeedItem": [
+            16,
+            4,
+            1,
+            1
+        ],
+        "AutoGet": "",
+        "Icon": 1701388,
+        "SourceTxt": "house.playersuit1.source",
+        "SkinId": 79904
+    },
+    {
+        "NpcId": 0,
+        "SuitId": 5,
+        "NeedItem": [
+            16,
+            5,
+            1,
+            1
+        ],
+        "AutoGet": "",
+        "Icon": 1701403,
+        "SourceTxt": "house.playersuit1.source",
+        "SkinId": 79905
+    }
+]

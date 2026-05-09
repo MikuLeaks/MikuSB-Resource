@@ -1,0 +1,4752 @@
+[
+    {
+        "ID": 1,
+        "BuffID": 1001,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 1,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 2,
+        "BuffID": 1002,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 3,
+        "BuffID": 1003,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 1,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 4,
+        "BuffID": 1004,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 1,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 5,
+        "BuffID": 1005,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 6,
+        "BuffID": 1006,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 7,
+        "BuffID": 1007,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 8,
+        "BuffID": 1008,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 9,
+        "BuffID": 1009,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 10,
+        "BuffID": 1010,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 11,
+        "BuffID": 1011,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 12,
+        "BuffID": 1012,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 1,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 13,
+        "BuffID": 1013,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 14,
+        "BuffID": 1014,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 15,
+        "BuffID": 1015,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 16,
+        "BuffID": 1016,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 17,
+        "BuffID": 1017,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 18,
+        "BuffID": 1018,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 19,
+        "BuffID": 1019,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 20,
+        "BuffID": 1020,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 21,
+        "BuffID": 1101,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 22,
+        "BuffID": 1102,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 23,
+        "BuffID": 1103,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 24,
+        "BuffID": 1104,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 25,
+        "BuffID": 1105,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 26,
+        "BuffID": 1106,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 27,
+        "BuffID": 1107,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 28,
+        "BuffID": 1108,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 29,
+        "BuffID": 1109,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 30,
+        "BuffID": 1110,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 31,
+        "BuffID": 1111,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 32,
+        "BuffID": 1112,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 33,
+        "BuffID": 1113,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 34,
+        "BuffID": 1114,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 35,
+        "BuffID": 1115,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 36,
+        "BuffID": 1116,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 37,
+        "BuffID": 1117,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 38,
+        "BuffID": 1118,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 39,
+        "BuffID": 1119,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 40,
+        "BuffID": 1120,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 41,
+        "BuffID": 1201,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 42,
+        "BuffID": 1202,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 43,
+        "BuffID": 1203,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 1,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 44,
+        "BuffID": 1204,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 1,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 45,
+        "BuffID": 1205,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 46,
+        "BuffID": 1206,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 1,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 47,
+        "BuffID": 1207,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 48,
+        "BuffID": 1208,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 49,
+        "BuffID": 1209,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 50,
+        "BuffID": 1210,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 1,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 51,
+        "BuffID": 1211,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 52,
+        "BuffID": 1212,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 53,
+        "BuffID": 1213,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 54,
+        "BuffID": 1214,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 55,
+        "BuffID": 1215,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 56,
+        "BuffID": 1216,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 57,
+        "BuffID": 1217,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 58,
+        "BuffID": 1218,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 59,
+        "BuffID": 1219,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 60,
+        "BuffID": 1220,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 61,
+        "BuffID": 1301,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 1,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 62,
+        "BuffID": 1302,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 63,
+        "BuffID": 1303,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 64,
+        "BuffID": 1304,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 1,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 65,
+        "BuffID": 1305,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 66,
+        "BuffID": 1306,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 67,
+        "BuffID": 1307,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 68,
+        "BuffID": 1308,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 69,
+        "BuffID": 1309,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 70,
+        "BuffID": 1310,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 71,
+        "BuffID": 1311,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 72,
+        "BuffID": 1312,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 73,
+        "BuffID": 1313,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 74,
+        "BuffID": 1314,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 75,
+        "BuffID": 1315,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 76,
+        "BuffID": 1316,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 1,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 77,
+        "BuffID": 1317,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 78,
+        "BuffID": 1318,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 79,
+        "BuffID": 1319,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 80,
+        "BuffID": 1320,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 81,
+        "BuffID": 1401,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 82,
+        "BuffID": 1402,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 83,
+        "BuffID": 1403,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 84,
+        "BuffID": 1404,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 85,
+        "BuffID": 1405,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 86,
+        "BuffID": 1406,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 87,
+        "BuffID": 1407,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 1,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 88,
+        "BuffID": 1408,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 89,
+        "BuffID": 1409,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 90,
+        "BuffID": 1410,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 91,
+        "BuffID": 1411,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 92,
+        "BuffID": 1412,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 1,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 93,
+        "BuffID": 1413,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 94,
+        "BuffID": 1414,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 95,
+        "BuffID": 1415,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 96,
+        "BuffID": 1416,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 97,
+        "BuffID": 1417,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 98,
+        "BuffID": 1418,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 99,
+        "BuffID": 1419,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 100,
+        "BuffID": 1420,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 101,
+        "BuffID": 1501,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 1,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 102,
+        "BuffID": 1502,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 103,
+        "BuffID": 1503,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 1,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 104,
+        "BuffID": 1504,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 105,
+        "BuffID": 1505,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 106,
+        "BuffID": 1506,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 107,
+        "BuffID": 1507,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 108,
+        "BuffID": 1508,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 1,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 109,
+        "BuffID": 1509,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 110,
+        "BuffID": 1510,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 111,
+        "BuffID": 1511,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 112,
+        "BuffID": 1512,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 113,
+        "BuffID": 1513,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 114,
+        "BuffID": 1514,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 115,
+        "BuffID": 1515,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 116,
+        "BuffID": 1516,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 117,
+        "BuffID": 1517,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 1,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 118,
+        "BuffID": 1518,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 119,
+        "BuffID": 1519,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 120,
+        "BuffID": 1520,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 121,
+        "BuffID": 1601,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 122,
+        "BuffID": 1602,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 123,
+        "BuffID": 1603,
+        "Quality": 1,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            30
+        ],
+        "Cost": 5,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            10
+        ]
+    },
+    {
+        "ID": 124,
+        "BuffID": 1604,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 1,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 125,
+        "BuffID": 1605,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 126,
+        "BuffID": 1606,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 127,
+        "BuffID": 1607,
+        "Quality": 2,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            50
+        ],
+        "Cost": 6,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            20
+        ]
+    },
+    {
+        "ID": 128,
+        "BuffID": 1608,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 129,
+        "BuffID": 1609,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 130,
+        "BuffID": 1610,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 131,
+        "BuffID": 1611,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 132,
+        "BuffID": 1612,
+        "Quality": 3,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            100
+        ],
+        "Cost": 7,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            40
+        ]
+    },
+    {
+        "ID": 133,
+        "BuffID": 1613,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 134,
+        "BuffID": 1614,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 135,
+        "BuffID": 1615,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 136,
+        "BuffID": 1616,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 137,
+        "BuffID": 1617,
+        "Quality": 4,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            200
+        ],
+        "Cost": 10,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            60
+        ]
+    },
+    {
+        "ID": 138,
+        "BuffID": 1618,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 139,
+        "BuffID": 1619,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 140,
+        "BuffID": 1620,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            300
+        ],
+        "Cost": 15,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 201,
+        "BuffID": 2001,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 202,
+        "BuffID": 2002,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 203,
+        "BuffID": 2003,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 204,
+        "BuffID": 2004,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 205,
+        "BuffID": 2005,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 206,
+        "BuffID": 2006,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 207,
+        "BuffID": 2007,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 208,
+        "BuffID": 2008,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 209,
+        "BuffID": 2009,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 210,
+        "BuffID": 2010,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 211,
+        "BuffID": 2011,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 212,
+        "BuffID": 2012,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 213,
+        "BuffID": 2013,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 214,
+        "BuffID": 2014,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 215,
+        "BuffID": 2015,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 216,
+        "BuffID": 2016,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 217,
+        "BuffID": 2017,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 218,
+        "BuffID": 2018,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 219,
+        "BuffID": 2019,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 220,
+        "BuffID": 2020,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 221,
+        "BuffID": 2021,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 222,
+        "BuffID": 2022,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 223,
+        "BuffID": 2023,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 224,
+        "BuffID": 2024,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 225,
+        "BuffID": 2025,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 226,
+        "BuffID": 2026,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 227,
+        "BuffID": 2027,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 228,
+        "BuffID": 2028,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 229,
+        "BuffID": 2029,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 230,
+        "BuffID": 2030,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 231,
+        "BuffID": 2032,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 232,
+        "BuffID": 2033,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 233,
+        "BuffID": 2034,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 234,
+        "BuffID": 2035,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 235,
+        "BuffID": 2036,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 236,
+        "BuffID": 2037,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 237,
+        "BuffID": 2038,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 238,
+        "BuffID": 2039,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 239,
+        "BuffID": 2040,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            400
+        ],
+        "Cost": 20,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 240,
+        "BuffID": 2041,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 241,
+        "BuffID": 2042,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 242,
+        "BuffID": 2043,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 243,
+        "BuffID": 2044,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 244,
+        "BuffID": 2045,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 245,
+        "BuffID": 2046,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 246,
+        "BuffID": 2047,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 247,
+        "BuffID": 2048,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 248,
+        "BuffID": 2049,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 249,
+        "BuffID": 2050,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 250,
+        "BuffID": 2051,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 251,
+        "BuffID": 2052,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 252,
+        "BuffID": 2053,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 253,
+        "BuffID": 2054,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 254,
+        "BuffID": 2055,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 255,
+        "BuffID": 2056,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 256,
+        "BuffID": 2057,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 257,
+        "BuffID": 2058,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 258,
+        "BuffID": 2059,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 259,
+        "BuffID": 2060,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 260,
+        "BuffID": 2061,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 261,
+        "BuffID": 2062,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 262,
+        "BuffID": 2063,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 263,
+        "BuffID": 2064,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 264,
+        "BuffID": 2065,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 265,
+        "BuffID": 2066,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 266,
+        "BuffID": 2067,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 267,
+        "BuffID": 2068,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 268,
+        "BuffID": 2069,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 269,
+        "BuffID": 2070,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 270,
+        "BuffID": 2071,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 271,
+        "BuffID": 2072,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 272,
+        "BuffID": 2073,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 273,
+        "BuffID": 2074,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 274,
+        "BuffID": 2075,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 275,
+        "BuffID": 2076,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 276,
+        "BuffID": 2077,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 277,
+        "BuffID": 2078,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 278,
+        "BuffID": 2079,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 279,
+        "BuffID": 2080,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 280,
+        "BuffID": 2081,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 281,
+        "BuffID": 2082,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 282,
+        "BuffID": 2083,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 283,
+        "BuffID": 2084,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 284,
+        "BuffID": 2085,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 285,
+        "BuffID": 2086,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 286,
+        "BuffID": 2087,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 287,
+        "BuffID": 2088,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 288,
+        "BuffID": 2089,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 289,
+        "BuffID": 2090,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 290,
+        "BuffID": 2091,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 291,
+        "BuffID": 2092,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 292,
+        "BuffID": 2093,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 293,
+        "BuffID": 2094,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 294,
+        "BuffID": 2095,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 295,
+        "BuffID": 2096,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 296,
+        "BuffID": 2097,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 297,
+        "BuffID": 2098,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 298,
+        "BuffID": 2099,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 299,
+        "BuffID": 2100,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 300,
+        "BuffID": 2101,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 301,
+        "BuffID": 2102,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 302,
+        "BuffID": 2103,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 303,
+        "BuffID": 2104,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 304,
+        "BuffID": 2105,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 305,
+        "BuffID": 2106,
+        "Quality": 5,
+        "Type": 2,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            500
+        ],
+        "Cost": 22,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 401,
+        "BuffID": 5101,
+        "Quality": 5,
+        "Type": 1,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            1800
+        ],
+        "Cost": 25,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 403,
+        "BuffID": 5104,
+        "Quality": 5,
+        "Type": 1,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            1800
+        ],
+        "Cost": 25,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 404,
+        "BuffID": 5106,
+        "Quality": 5,
+        "Type": 1,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            1800
+        ],
+        "Cost": 25,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 405,
+        "BuffID": 5105,
+        "Quality": 5,
+        "Type": 1,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            1800
+        ],
+        "Cost": 25,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    },
+    {
+        "ID": 406,
+        "BuffID": 5102,
+        "Quality": 5,
+        "Type": 1,
+        "Unlock": 0,
+        "UnlockCoin": [
+            50,
+            1800
+        ],
+        "Cost": 25,
+        "CoinReward": [
+            4,
+            1,
+            23,
+            9,
+            100
+        ]
+    }
+]

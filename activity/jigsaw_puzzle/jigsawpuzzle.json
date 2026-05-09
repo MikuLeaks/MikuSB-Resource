@@ -1,0 +1,401 @@
+[
+    {
+        "ScheduleID": 1,
+        "RoleID": [
+            1,
+            6,
+            3,
+            1,
+            1,
+            13
+        ],
+        "HelpImages": 246,
+        "TaskID": [
+            22000,
+            22001,
+            22002,
+            22003,
+            22004,
+            22005,
+            22006,
+            22007,
+            22008,
+            22009,
+            22010,
+            22011,
+            22012,
+            22013,
+            22014,
+            22015,
+            22016,
+            22017
+        ],
+        "Time-limitedTaskID": "",
+        "StartTime": "",
+        "EndTime": "",
+        "JigsawCG": [
+            5100137,
+            5100138
+        ],
+        "ExpChangeVo1": {
+            "Play_Vo_dlc33_girl006_pintu_02": "jigsawpuzzle.jigsawpuzzle_vo2",
+            "Play_Vo_dlc33_girl006_pintu_07": "jigsawpuzzle.jigsawpuzzle_vo7",
+            "Play_Vo_dlc33_girl006_pintu_08": "jigsawpuzzle.jigsawpuzzle_vo8"
+        },
+        "ExpChangeVo2": {
+            "Play_Vo_dlc33_girl006_pintu_04": "jigsawpuzzle.jigsawpuzzle_vo4",
+            "Play_Vo_dlc33_girl006_pintu_06": "jigsawpuzzle.jigsawpuzzle_vo6",
+            "Play_Vo_dlc33_girl006_pintu_09": "jigsawpuzzle.jigsawpuzzle_vo9"
+        },
+        "RoleChosenAvatar": 5100133,
+        "ActivityResource": [
+            1602946,
+            1602947,
+            1602948
+        ],
+        "HitInterval": 60,
+        "PhaseTime": [
+            0,
+            604800,
+            1209600
+        ],
+        "PhasePiece": [
+            [
+                4,
+                5,
+                11,
+                12,
+                13,
+                19,
+                20,
+                21,
+                28,
+                29,
+                30
+            ],
+            [
+                17,
+                18,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                31,
+                32
+            ],
+            [
+                1,
+                2,
+                3,
+                8,
+                7,
+                6,
+                9,
+                10,
+                14,
+                15,
+                16
+            ]
+        ],
+        "PhaseLines": {
+            "Play_Vo_dlc33_girl006_pintu_01": "jigsawpuzzle.jigsawpuzzle_vo1",
+            "Play_Vo_dlc33_girl006_pintu_02": "jigsawpuzzle.jigsawpuzzle_vo2",
+            "Play_Vo_dlc33_girl006_pintu_03": "jigsawpuzzle.jigsawpuzzle_vo3"
+        },
+        "TuningLines": [
+            "Play_Vo_dlc33_girl006_pintu_04",
+            "jigsawpuzzle.jigsawpuzzle_vo4"
+        ],
+        "KeyID": 58,
+        "KeyLimit": 999,
+        "ExchangeRate": 30,
+        "Multiple": [
+            2,
+            12
+        ],
+        "FaceSlapping": [
+            1603186,
+            1602945,
+            1603218,
+            1603219,
+            "jigsawpuzzle.jigsawpuzzle_ui15"
+        ]
+    },
+    {
+        "ScheduleID": 2,
+        "RoleID": [
+            1,
+            12,
+            3,
+            1,
+            1,
+            17
+        ],
+        "HelpImages": 246,
+        "TaskID": [
+            22100,
+            22101,
+            22102,
+            22103,
+            22104,
+            22105,
+            22106,
+            22107,
+            22108,
+            22109,
+            22110,
+            22111,
+            22112,
+            22113,
+            22114,
+            22115,
+            22116,
+            22117
+        ],
+        "Time-limitedTaskID": "",
+        "StartTime": "",
+        "EndTime": "",
+        "JigsawCG": [
+            5100237,
+            5100238
+        ],
+        "ExpChangeVo1": {
+            "Play_Vo_dlc34_girl012b_pintu_02": "jigsawpuzzle.jigsawpuzzle_vo12",
+            "Play_Vo_dlc34_girl012b_pintu_07": "jigsawpuzzle.jigsawpuzzle_vo17",
+            "Play_Vo_dlc34_girl012b_pintu_08": "jigsawpuzzle.jigsawpuzzle_vo18"
+        },
+        "ExpChangeVo2": {
+            "Play_Vo_dlc34_girl012b_pintu_04": "jigsawpuzzle.jigsawpuzzle_vo14",
+            "Play_Vo_dlc34_girl012b_pintu_06": "jigsawpuzzle.jigsawpuzzle_vo16",
+            "Play_Vo_dlc34_girl012b_pintu_09": "jigsawpuzzle.jigsawpuzzle_vo19"
+        },
+        "RoleChosenAvatar": 5100239,
+        "ActivityResource": [
+            1602946,
+            1603055,
+            1603056
+        ],
+        "HitInterval": 60,
+        "PhaseTime": [
+            0,
+            604800,
+            1209600
+        ],
+        "PhasePiece": [
+            [
+                16,
+                5,
+                11,
+                12,
+                13,
+                19,
+                20,
+                21,
+                28,
+                29,
+                27
+            ],
+            [
+                17,
+                18,
+                22,
+                23,
+                24,
+                25,
+                26,
+                30,
+                31,
+                32
+            ],
+            [
+                1,
+                2,
+                3,
+                8,
+                7,
+                6,
+                9,
+                10,
+                14,
+                15,
+                4
+            ]
+        ],
+        "PhaseLines": {
+            "Play_Vo_dlc34_girl012b_pintu_01": "jigsawpuzzle.jigsawpuzzle_vo11",
+            "Play_Vo_dlc34_girl012b_pintu_02": "jigsawpuzzle.jigsawpuzzle_vo12",
+            "Play_Vo_dlc34_girl012b_pintu_03": "jigsawpuzzle.jigsawpuzzle_vo13"
+        },
+        "TuningLines": [
+            "Play_Vo_dlc34_girl012b_pintu_04",
+            "jigsawpuzzle.jigsawpuzzle_vo14"
+        ],
+        "KeyID": 58,
+        "KeyLimit": 999,
+        "ExchangeRate": 30,
+        "Multiple": [
+            2,
+            12
+        ]
+    },
+    {
+        "ScheduleID": 3,
+        "RoleID": [
+            1,
+            4,
+            4,
+            1,
+            1,
+            16
+        ],
+        "HelpImages": 246,
+        "TaskID": [
+            22200,
+            22201,
+            22202,
+            22203,
+            22204,
+            22205,
+            22206,
+            22207,
+            22208,
+            22209,
+            22210,
+            22211,
+            22212,
+            22213,
+            22214,
+            22215,
+            22216,
+            22217
+        ],
+        "Time-limitedTaskID": "",
+        "StartTime": "",
+        "EndTime": "",
+        "JigsawCG": [
+            5100335,
+            5100336
+        ],
+        "ExpChangeVo1": [
+            [
+                "Play_Vo_dlc36_girl004c_pintu_02",
+                "jigsawpuzzle.jigsawpuzzle_girl004c_02"
+            ],
+            [
+                "Play_Vo_dlc36_girl004c_pintu_07",
+                "jigsawpuzzle.jigsawpuzzle_girl004c_07",
+                "7"
+            ],
+            [
+                "Play_Vo_dlc36_girl004c_pintu_08",
+                "jigsawpuzzle.jigsawpuzzle_girl004c_08",
+                "7"
+            ]
+        ],
+        "ExpChangeVo2": [
+            [
+                "Play_Vo_dlc36_girl004c_pintu_04",
+                "jigsawpuzzle.jigsawpuzzle_girl004c_04",
+                "6"
+            ],
+            [
+                "Play_Vo_dlc36_girl004c_pintu_06",
+                "jigsawpuzzle.jigsawpuzzle_girl004c_06"
+            ],
+            [
+                "Play_Vo_dlc36_girl004c_pintu_09",
+                "jigsawpuzzle.jigsawpuzzle_girl004c_09",
+                "6"
+            ]
+        ],
+        "RoleChosenAvatar": 5100337,
+        "ActivityResource": [
+            1602946,
+            1603185,
+            1603186
+        ],
+        "HitInterval": 60,
+        "PhaseTime": [
+            0,
+            604800,
+            1209600
+        ],
+        "PhasePiece": [
+            [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23
+            ],
+            [
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32
+            ]
+        ],
+        "PhaseLines": [
+            [
+                "Play_Vo_dlc36_girl004c_pintu_01",
+                "jigsawpuzzle.jigsawpuzzle_girl004c_01",
+                "7"
+            ],
+            [
+                "Play_Vo_dlc36_girl004c_pintu_02",
+                "jigsawpuzzle.jigsawpuzzle_girl004c_02"
+            ],
+            [
+                "Play_Vo_dlc36_girl004c_pintu_03",
+                "jigsawpuzzle.jigsawpuzzle_girl004c_03",
+                "7"
+            ]
+        ],
+        "TuningLines": [
+            "Play_Vo_dlc36_girl004c_pintu_04",
+            "jigsawpuzzle.jigsawpuzzle_girl004c_04",
+            "6"
+        ],
+        "KeyID": 58,
+        "KeyLimit": 999,
+        "ExchangeRate": 30,
+        "Multiple": [
+            2,
+            12
+        ],
+        "FaceSlapping": [
+            1603186,
+            1603184,
+            1603188,
+            1603189,
+            "jigsawpuzzle.jigsawpuzzle_ui19"
+        ]
+    }
+]

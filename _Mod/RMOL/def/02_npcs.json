@@ -1,0 +1,164 @@
+[
+    {
+        "Id": 1,
+        "LangName": "party_card.player02_p",
+        "Scale": [
+            1.3,
+            1.3,
+            1.3
+        ],
+        "IconId": "chess.347",
+        "Image": 1602494,
+        "ModelPath": "/Game/Mod/RMOL/Blueprints/Player002/BP_RMOL_Player002.BP_RMOL_Player002_C",
+        "SkillId": 101,
+        "Condition": {
+            "1": 1
+        },
+        "WWise": "",
+        "ResNameDec": "player002_q"
+    },
+    {
+        "Id": 2,
+        "LangName": "party_card.girl084_p",
+        "Scale": [
+            1.3,
+            1.3,
+            1.3
+        ],
+        "IconId": "chess.901",
+        "Image": 1602884,
+        "ModelPath": "/Game/Mod/RMOL/Blueprints/Npc08/BP_RMOL_Npc08.BP_RMOL_Npc08_C",
+        "SkillId": 102,
+        "Condition": {
+            "27": 10001
+        },
+        "WWise": "girl008c",
+        "ResNameDec": "girl008c_q"
+    },
+    {
+        "Id": 3,
+        "LangName": "party_card.girl133_p",
+        "Scale": [
+            1.3,
+            1.3,
+            1.3
+        ],
+        "IconId": "chess.901",
+        "Image": 1602885,
+        "ModelPath": "/Game/Mod/RMOL/Blueprints/Npc09/BP_RMOL_Npc09.BP_RMOL_Npc09_C",
+        "SkillId": 103,
+        "Condition": {
+            "27": 10002
+        },
+        "WWise": "girl013b",
+        "ResNameDec": "girl013b_q"
+    },
+    {
+        "Id": 4,
+        "LangName": "party_card.girl023_p",
+        "Scale": [
+            1.3,
+            1.3,
+            1.3
+        ],
+        "IconId": "chess.901",
+        "Image": 1602490,
+        "ModelPath": "/Game/Mod/RMOL/Blueprints/Npc02/BP_RMOL_Npc02.BP_RMOL_Npc02_C",
+        "SkillId": 104,
+        "Condition": {
+            "27": 10003
+        },
+        "WWise": "girl002b",
+        "ResNameDec": "girl002b_q"
+    },
+    {
+        "Id": 5,
+        "LangName": "party_card.girl053_p",
+        "Scale": [
+            1.3,
+            1.3,
+            1.3
+        ],
+        "IconId": "chess.901",
+        "Image": 1602491,
+        "ModelPath": "/Game/Mod/RMOL/Blueprints/Npc03/BP_RMOL_Npc03.BP_RMOL_Npc03_C",
+        "SkillId": 105,
+        "Condition": {
+            "27": 10004
+        },
+        "WWise": "girl005b",
+        "ResNameDec": "girl005b_q"
+    },
+    {
+        "Id": 6,
+        "LangName": "party_card.girl083_p",
+        "Scale": [
+            1.3,
+            1.3,
+            1.3
+        ],
+        "IconId": "chess.901",
+        "Image": 1602492,
+        "ModelPath": "/Game/Mod/RMOL/Blueprints/Npc04/BP_RMOL_Npc04.BP_RMOL_Npc04_C",
+        "SkillId": 106,
+        "Condition": {
+            "27": 10005
+        },
+        "WWise": "girl008b",
+        "ResNameDec": "girl008b_q"
+    },
+    {
+        "Id": 7,
+        "LangName": "party_card.girl152_p",
+        "Scale": [
+            1.3,
+            1.3,
+            1.3
+        ],
+        "IconId": "chess.901",
+        "Image": 1602493,
+        "ModelPath": "/Game/Mod/RMOL/Blueprints/Npc05/BP_RMOL_Npc05.BP_RMOL_Npc05_C",
+        "SkillId": 107,
+        "Condition": {
+            "27": 10006
+        },
+        "WWise": "girl015a",
+        "ResNameDec": "girl015a_q"
+    },
+    {
+        "Id": 8,
+        "LangName": "party_card.girl103_p",
+        "Scale": [
+            1.3,
+            1.3,
+            1.3
+        ],
+        "IconId": "chess.901",
+        "Image": 1602636,
+        "ModelPath": "/Game/Mod/RMOL/Blueprints/Npc06/BP_RMOL_Npc06.BP_RMOL_Npc06_C",
+        "SkillId": 108,
+        "Condition": {
+            "27": 10007
+        },
+        "WWise": "girl010b",
+        "ResNameDec": "girl010b_q"
+    },
+    {
+        "Id": 9,
+        "LangName": "party_card.girl143_p",
+        "Scale": [
+            1.3,
+            1.3,
+            1.3
+        ],
+        "IconId": "chess.901",
+        "Image": 1602637,
+        "ModelPath": "/Game/Mod/RMOL/Blueprints/Npc07/BP_RMOL_Npc07.BP_RMOL_Npc07_C",
+        "SkillId": 109,
+        "Condition": {
+            "27": 10008
+        },
+        "WWise": "girl014b",
+        "ResNameDec": "girl014b_q"
+    }
+]

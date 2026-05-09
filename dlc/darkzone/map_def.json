@@ -1,0 +1,38 @@
+[
+    {
+        "MapName": "owlevel_01",
+        "MapSize": [
+            2048,
+            2304
+        ],
+        "MapPieceNum": [
+            8,
+            9
+        ],
+        "PieceSize": [
+            256,
+            256
+        ],
+        "ImgBigMap": 1010000,
+        "ImgBigMapBg": 1010001,
+        "ImgSmallMapStart": 1010003
+    },
+    {
+        "MapName": "dlc3_openworld",
+        "MapSize": [
+            2304,
+            2304
+        ],
+        "MapPieceNum": [
+            9,
+            9
+        ],
+        "PieceSize": [
+            256,
+            256
+        ],
+        "ImgBigMap": 1011000,
+        "ImgBigMapBg": 1011001,
+        "ImgSmallMapStart": 1011002
+    }
+]

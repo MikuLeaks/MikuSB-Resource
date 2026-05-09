@@ -1,0 +1,4752 @@
+[
+    {
+        "GiftId": 101,
+        "FurnitureTmpId": 101,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            1
+        ],
+        "SendMessage": "house.SendMessage101",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 102,
+        "FurnitureTmpId": 102,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            1
+        ],
+        "SendMessage": "house.SendMessage102",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 103,
+        "FurnitureTmpId": 103,
+        "GiftResorce": 3,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            1
+        ],
+        "SendMessage": "house.SendMessage103",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 3
+    },
+    {
+        "GiftId": 104,
+        "FurnitureTmpId": 104,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            1
+        ],
+        "SendMessage": "house.SendMessage104",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 105,
+        "FurnitureTmpId": 105,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            1
+        ],
+        "SendMessage": "house.SendMessage105",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 106,
+        "FurnitureTmpId": 106,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            1
+        ],
+        "SendMessage": "house.SendMessage106",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 107,
+        "FurnitureTmpId": 107,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            1
+        ],
+        "SendMessage": "house.SendMessage107",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 108,
+        "FurnitureTmpId": 108,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            1
+        ],
+        "SendMessage": "house.SendMessage108",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 109,
+        "FurnitureTmpId": 109,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            1
+        ],
+        "SendMessage": "house.SendMessage109",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 110,
+        "FurnitureTmpId": 110,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            1
+        ],
+        "SendMessage": "house.SendMessage110",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 111,
+        "FurnitureTmpId": 111,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            1
+        ],
+        "SendMessage": "house.SendMessage111",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 121,
+        "FurnitureTmpId": 121,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            1
+        ],
+        "SendMessage": "house.SendMessage121",
+        "CanInteract": 0,
+        "CanCPInteract": 0,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2,
+        "ShowIcon": "",
+        "ShowGirl": "",
+        "ShowOnlyOwned": "",
+        "DefaultHad": 1
+    },
+    {
+        "GiftId": 122,
+        "FurnitureTmpId": 122,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            1
+        ],
+        "SendMessage": "house.SendMessage122",
+        "CanInteract": 0,
+        "CanCPInteract": 0,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2,
+        "ShowIcon": "",
+        "ShowGirl": "",
+        "ShowOnlyOwned": "",
+        "DefaultHad": 1
+    },
+    {
+        "GiftId": 120,
+        "FurnitureTmpId": 120,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            1
+        ],
+        "SendMessage": "house.SendMessage120",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 201,
+        "FurnitureTmpId": 201,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            2
+        ],
+        "SendMessage": "house.SendMessage201",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 202,
+        "FurnitureTmpId": 202,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            2
+        ],
+        "SendMessage": "house.SendMessage202",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 4
+    },
+    {
+        "GiftId": 203,
+        "FurnitureTmpId": 203,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            2
+        ],
+        "SendMessage": "house.SendMessage203",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 204,
+        "FurnitureTmpId": 204,
+        "GiftResorce": 3,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            2
+        ],
+        "SendMessage": "house.SendMessage204",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 3
+    },
+    {
+        "GiftId": 205,
+        "FurnitureTmpId": 205,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            2
+        ],
+        "SendMessage": "house.SendMessage205",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 206,
+        "FurnitureTmpId": 206,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            2
+        ],
+        "SendMessage": "house.SendMessage206",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 207,
+        "FurnitureTmpId": 207,
+        "GiftResorce": 3,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            2
+        ],
+        "SendMessage": "house.SendMessage207",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 3
+    },
+    {
+        "GiftId": 208,
+        "FurnitureTmpId": 208,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            2
+        ],
+        "SendMessage": "house.SendMessage208",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 209,
+        "FurnitureTmpId": 209,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            2
+        ],
+        "SendMessage": "house.SendMessage209",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 210,
+        "FurnitureTmpId": 210,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            2
+        ],
+        "SendMessage": "house.SendMessage210",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 213,
+        "FurnitureTmpId": 213,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            2
+        ],
+        "SendMessage": "house.SendMessage213",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 220,
+        "FurnitureTmpId": 220,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            2
+        ],
+        "SendMessage": "house.SendMessage220",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 221,
+        "FurnitureTmpId": 221,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            2
+        ],
+        "SendMessage": "house.SendMessage221",
+        "CanInteract": 0,
+        "CanCPInteract": 0,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2,
+        "ShowIcon": "",
+        "ShowGirl": "",
+        "ShowOnlyOwned": "",
+        "DefaultHad": 1
+    },
+    {
+        "GiftId": 401,
+        "FurnitureTmpId": 401,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            4
+        ],
+        "SendMessage": "house.SendMessage401",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 402,
+        "FurnitureTmpId": 402,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            4
+        ],
+        "SendMessage": "house.SendMessage402",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 403,
+        "FurnitureTmpId": 403,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            4
+        ],
+        "SendMessage": "house.SendMessage403",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 404,
+        "FurnitureTmpId": 404,
+        "GiftResorce": 3,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            4
+        ],
+        "SendMessage": "house.SendMessage404",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 3
+    },
+    {
+        "GiftId": 405,
+        "FurnitureTmpId": 405,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            4
+        ],
+        "SendMessage": "house.SendMessage405",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 406,
+        "FurnitureTmpId": 406,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            4
+        ],
+        "SendMessage": "house.SendMessage406",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 407,
+        "FurnitureTmpId": 407,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            4
+        ],
+        "SendMessage": "house.SendMessage407",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 408,
+        "FurnitureTmpId": 408,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            4
+        ],
+        "SendMessage": "house.SendMessage408",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 409,
+        "FurnitureTmpId": 409,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            4
+        ],
+        "SendMessage": "house.SendMessage409",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 410,
+        "FurnitureTmpId": 410,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            4
+        ],
+        "SendMessage": "house.SendMessage410",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 414,
+        "FurnitureTmpId": 414,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            4
+        ],
+        "SendMessage": "house.SendMessage414",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 420,
+        "FurnitureTmpId": 420,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            4
+        ],
+        "SendMessage": "house.SendMessage420",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 701,
+        "FurnitureTmpId": 701,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            7
+        ],
+        "SendMessage": "house.SendMessage701",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 702,
+        "FurnitureTmpId": 702,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            7
+        ],
+        "SendMessage": "house.SendMessage702",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 703,
+        "FurnitureTmpId": 703,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            7
+        ],
+        "SendMessage": "house.SendMessage703",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 704,
+        "FurnitureTmpId": 704,
+        "GiftResorce": 3,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            7
+        ],
+        "SendMessage": "house.SendMessage704",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 3
+    },
+    {
+        "GiftId": 705,
+        "FurnitureTmpId": 705,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            7
+        ],
+        "SendMessage": "house.SendMessage705",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 706,
+        "FurnitureTmpId": 706,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            7
+        ],
+        "SendMessage": "house.SendMessage706",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 707,
+        "FurnitureTmpId": 707,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            7
+        ],
+        "SendMessage": "house.SendMessage707",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 708,
+        "FurnitureTmpId": 708,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            7
+        ],
+        "SendMessage": "house.SendMessage708",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 709,
+        "FurnitureTmpId": 709,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            7
+        ],
+        "SendMessage": "house.SendMessage709",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 710,
+        "FurnitureTmpId": 710,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            7
+        ],
+        "SendMessage": "house.SendMessage710",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 711,
+        "FurnitureTmpId": 711,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            7
+        ],
+        "SendMessage": "house.SendMessage711",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 801,
+        "FurnitureTmpId": 801,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            8
+        ],
+        "SendMessage": "house.SendMessage801",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 802,
+        "FurnitureTmpId": 802,
+        "GiftResorce": 3,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            8
+        ],
+        "SendMessage": "house.SendMessage802",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 3
+    },
+    {
+        "GiftId": 803,
+        "FurnitureTmpId": 803,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            8
+        ],
+        "SendMessage": "house.SendMessage803",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 804,
+        "FurnitureTmpId": 804,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            8
+        ],
+        "SendMessage": "house.SendMessage804",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 805,
+        "FurnitureTmpId": 805,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            8
+        ],
+        "SendMessage": "house.SendMessage805",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 806,
+        "FurnitureTmpId": 806,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            8
+        ],
+        "SendMessage": "house.SendMessage806",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 807,
+        "FurnitureTmpId": 807,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            8
+        ],
+        "SendMessage": "house.SendMessage807",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 808,
+        "FurnitureTmpId": 808,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            8
+        ],
+        "SendMessage": "house.SendMessage808",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 809,
+        "FurnitureTmpId": 809,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            8
+        ],
+        "SendMessage": "house.SendMessage809",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 810,
+        "FurnitureTmpId": 810,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            8
+        ],
+        "SendMessage": "house.SendMessage810",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 811,
+        "FurnitureTmpId": 811,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            8
+        ],
+        "SendMessage": "house.SendMessage811",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 820,
+        "FurnitureTmpId": 820,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            8
+        ],
+        "SendMessage": "house.SendMessage820",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 821,
+        "FurnitureTmpId": 821,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            8
+        ],
+        "SendMessage": "house.SendMessage821",
+        "CanInteract": 0,
+        "CanCPInteract": 0,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2,
+        "ShowIcon": "",
+        "ShowGirl": "",
+        "ShowOnlyOwned": "",
+        "DefaultHad": 1
+    },
+    {
+        "GiftId": 1301,
+        "FurnitureTmpId": 1301,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            13
+        ],
+        "SendMessage": "house.SendMessage1301",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1302,
+        "FurnitureTmpId": 1302,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            13
+        ],
+        "SendMessage": "house.SendMessage1302",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1303,
+        "FurnitureTmpId": 1303,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            13
+        ],
+        "SendMessage": "house.SendMessage1303",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1304,
+        "FurnitureTmpId": 1304,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            13
+        ],
+        "SendMessage": "house.SendMessage1304",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1305,
+        "FurnitureTmpId": 1305,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            13
+        ],
+        "SendMessage": "house.SendMessage1305",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1306,
+        "FurnitureTmpId": 1306,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            13
+        ],
+        "SendMessage": "house.SendMessage1306",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1307,
+        "FurnitureTmpId": 1307,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            13
+        ],
+        "SendMessage": "house.SendMessage1307",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1308,
+        "FurnitureTmpId": 1308,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            13
+        ],
+        "SendMessage": "house.SendMessage1308",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1309,
+        "FurnitureTmpId": 1309,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            13
+        ],
+        "SendMessage": "house.SendMessage1309",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1310,
+        "FurnitureTmpId": 1310,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            13
+        ],
+        "SendMessage": "house.SendMessage1310",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1314,
+        "FurnitureTmpId": 1314,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            13
+        ],
+        "SendMessage": "house.SendMessage1314",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 1401,
+        "FurnitureTmpId": 1401,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            14
+        ],
+        "SendMessage": "house.SendMessage1401",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1402,
+        "FurnitureTmpId": 1402,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            14
+        ],
+        "SendMessage": "house.SendMessage1402",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1403,
+        "FurnitureTmpId": 1403,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            14
+        ],
+        "SendMessage": "house.SendMessage1403",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1404,
+        "FurnitureTmpId": 1404,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            14
+        ],
+        "SendMessage": "house.SendMessage1404",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1405,
+        "FurnitureTmpId": 1405,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            14
+        ],
+        "SendMessage": "house.SendMessage1405",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1406,
+        "FurnitureTmpId": 1406,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            14
+        ],
+        "SendMessage": "house.SendMessage1406",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1407,
+        "FurnitureTmpId": 1407,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            14
+        ],
+        "SendMessage": "house.SendMessage1407",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1408,
+        "FurnitureTmpId": 1408,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            14
+        ],
+        "SendMessage": "house.SendMessage1408",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1409,
+        "FurnitureTmpId": 1409,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            14
+        ],
+        "SendMessage": "house.SendMessage1409",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1410,
+        "FurnitureTmpId": 1410,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            14
+        ],
+        "SendMessage": "house.SendMessage1410",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1412,
+        "FurnitureTmpId": 1412,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            14
+        ],
+        "SendMessage": "house.SendMessage1412",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 1420,
+        "FurnitureTmpId": 1420,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            14
+        ],
+        "SendMessage": "house.SendMessage1420",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 1421,
+        "FurnitureTmpId": 1421,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            14
+        ],
+        "SendMessage": "house.SendMessage1421",
+        "CanInteract": 0,
+        "CanCPInteract": 0,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2,
+        "ShowIcon": "",
+        "ShowGirl": "",
+        "ShowOnlyOwned": "",
+        "DefaultHad": 1
+    },
+    {
+        "GiftId": 501,
+        "FurnitureTmpId": 501,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            5
+        ],
+        "SendMessage": "house.SendMessage501",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 502,
+        "FurnitureTmpId": 502,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            5
+        ],
+        "SendMessage": "house.SendMessage502",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 503,
+        "FurnitureTmpId": 503,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            5
+        ],
+        "SendMessage": "house.SendMessage503",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 504,
+        "FurnitureTmpId": 504,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            5
+        ],
+        "SendMessage": "house.SendMessage504",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 505,
+        "FurnitureTmpId": 505,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            5
+        ],
+        "SendMessage": "house.SendMessage505",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 506,
+        "FurnitureTmpId": 506,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            5
+        ],
+        "SendMessage": "house.SendMessage506",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 507,
+        "FurnitureTmpId": 507,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            5
+        ],
+        "SendMessage": "house.SendMessage507",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 508,
+        "FurnitureTmpId": 508,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            5
+        ],
+        "SendMessage": "house.SendMessage508",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 509,
+        "FurnitureTmpId": 509,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            5
+        ],
+        "SendMessage": "house.SendMessage509",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 510,
+        "FurnitureTmpId": 510,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            5
+        ],
+        "SendMessage": "house.SendMessage510",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 514,
+        "FurnitureTmpId": 514,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            5
+        ],
+        "SendMessage": "house.SendMessage514",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 520,
+        "FurnitureTmpId": 520,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            5
+        ],
+        "SendMessage": "house.SendMessage520",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 521,
+        "FurnitureTmpId": 521,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            5
+        ],
+        "SendMessage": "house.SendMessage521",
+        "CanInteract": 0,
+        "CanCPInteract": 0,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2,
+        "ShowIcon": "",
+        "ShowGirl": "",
+        "ShowOnlyOwned": "",
+        "DefaultHad": 1
+    },
+    {
+        "GiftId": 601,
+        "FurnitureTmpId": 601,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            6
+        ],
+        "SendMessage": "house.SendMessage601",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 602,
+        "FurnitureTmpId": 602,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            6
+        ],
+        "SendMessage": "house.SendMessage602",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 603,
+        "FurnitureTmpId": 603,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            6
+        ],
+        "SendMessage": "house.SendMessage603",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 604,
+        "FurnitureTmpId": 604,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            6
+        ],
+        "SendMessage": "house.SendMessage604",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 605,
+        "FurnitureTmpId": 605,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            6
+        ],
+        "SendMessage": "house.SendMessage605",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 606,
+        "FurnitureTmpId": 606,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            6
+        ],
+        "SendMessage": "house.SendMessage606",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 607,
+        "FurnitureTmpId": 607,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            6
+        ],
+        "SendMessage": "house.SendMessage607",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 608,
+        "FurnitureTmpId": 608,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            6
+        ],
+        "SendMessage": "house.SendMessage608",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 609,
+        "FurnitureTmpId": 609,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            6
+        ],
+        "SendMessage": "house.SendMessage609",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 610,
+        "FurnitureTmpId": 610,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            6
+        ],
+        "SendMessage": "house.SendMessage610",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 613,
+        "FurnitureTmpId": 613,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            6
+        ],
+        "SendMessage": "house.SendMessage613",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 620,
+        "FurnitureTmpId": 620,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            6
+        ],
+        "SendMessage": "house.SendMessage620",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 1001,
+        "FurnitureTmpId": 1001,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            10
+        ],
+        "SendMessage": "house.SendMessage1001",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1002,
+        "FurnitureTmpId": 1002,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            10
+        ],
+        "SendMessage": "house.SendMessage1002",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1003,
+        "FurnitureTmpId": 1003,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            10
+        ],
+        "SendMessage": "house.SendMessage1003",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1004,
+        "FurnitureTmpId": 1004,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            10
+        ],
+        "SendMessage": "house.SendMessage1004",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1005,
+        "FurnitureTmpId": 1005,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            10
+        ],
+        "SendMessage": "house.SendMessage1005",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1006,
+        "FurnitureTmpId": 1006,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            10
+        ],
+        "SendMessage": "house.SendMessage1006",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1007,
+        "FurnitureTmpId": 1007,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            10
+        ],
+        "SendMessage": "house.SendMessage1007",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1008,
+        "FurnitureTmpId": 1008,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            10
+        ],
+        "SendMessage": "house.SendMessage1008",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1009,
+        "FurnitureTmpId": 1009,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            10
+        ],
+        "SendMessage": "house.SendMessage1009",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1010,
+        "FurnitureTmpId": 1010,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            10
+        ],
+        "SendMessage": "house.SendMessage1010",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1012,
+        "FurnitureTmpId": 1012,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            10
+        ],
+        "SendMessage": "house.SendMessage1012",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 1020,
+        "FurnitureTmpId": 1020,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            10
+        ],
+        "SendMessage": "house.SendMessage1020",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 1021,
+        "FurnitureTmpId": 1021,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            10
+        ],
+        "SendMessage": "house.SendMessage1021",
+        "CanInteract": 0,
+        "CanCPInteract": 0,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2,
+        "ShowIcon": "",
+        "ShowGirl": "",
+        "ShowOnlyOwned": "",
+        "DefaultHad": 1
+    },
+    {
+        "GiftId": 1201,
+        "FurnitureTmpId": 1201,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            12
+        ],
+        "SendMessage": "house.SendMessage1201",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1202,
+        "FurnitureTmpId": 1202,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            12
+        ],
+        "SendMessage": "house.SendMessage1202",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1203,
+        "FurnitureTmpId": 1203,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            12
+        ],
+        "SendMessage": "house.SendMessage1203",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1204,
+        "FurnitureTmpId": 1204,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            12
+        ],
+        "SendMessage": "house.SendMessage1204",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1205,
+        "FurnitureTmpId": 1205,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            12
+        ],
+        "SendMessage": "house.SendMessage1205",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1206,
+        "FurnitureTmpId": 1206,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            12
+        ],
+        "SendMessage": "house.SendMessage1206",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1207,
+        "FurnitureTmpId": 1207,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            12
+        ],
+        "SendMessage": "house.SendMessage1207",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1208,
+        "FurnitureTmpId": 1208,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            12
+        ],
+        "SendMessage": "house.SendMessage1208",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1209,
+        "FurnitureTmpId": 1209,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            12
+        ],
+        "SendMessage": "house.SendMessage1209",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1210,
+        "FurnitureTmpId": 1210,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            12
+        ],
+        "SendMessage": "house.SendMessage1210",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1214,
+        "FurnitureTmpId": 1214,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            12
+        ],
+        "SendMessage": "house.SendMessage1214",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 1101,
+        "FurnitureTmpId": 1101,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            11
+        ],
+        "SendMessage": "house.SendMessage1101",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1102,
+        "FurnitureTmpId": 1102,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            11
+        ],
+        "SendMessage": "house.SendMessage1102",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1103,
+        "FurnitureTmpId": 1103,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            11
+        ],
+        "SendMessage": "house.SendMessage1103",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1104,
+        "FurnitureTmpId": 1104,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            11
+        ],
+        "SendMessage": "house.SendMessage1104",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1105,
+        "FurnitureTmpId": 1105,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            11
+        ],
+        "SendMessage": "house.SendMessage1105",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1106,
+        "FurnitureTmpId": 1106,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            11
+        ],
+        "SendMessage": "house.SendMessage1106",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1107,
+        "FurnitureTmpId": 1107,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            11
+        ],
+        "SendMessage": "house.SendMessage1107",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1108,
+        "FurnitureTmpId": 1108,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            11
+        ],
+        "SendMessage": "house.SendMessage1108",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1109,
+        "FurnitureTmpId": 1109,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            11
+        ],
+        "SendMessage": "house.SendMessage1109",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1110,
+        "FurnitureTmpId": 1110,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            11
+        ],
+        "SendMessage": "house.SendMessage1110",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1113,
+        "FurnitureTmpId": 1113,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            11
+        ],
+        "SendMessage": "house.SendMessage1113",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 1120,
+        "FurnitureTmpId": 1120,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            11
+        ],
+        "SendMessage": "house.SendMessage1120",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 1701,
+        "FurnitureTmpId": 1701,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            17
+        ],
+        "SendMessage": "house.SendMessage1701",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1702,
+        "FurnitureTmpId": 1702,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            17
+        ],
+        "SendMessage": "house.SendMessage1702",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1703,
+        "FurnitureTmpId": 1703,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            17
+        ],
+        "SendMessage": "house.SendMessage1703",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1704,
+        "FurnitureTmpId": 1704,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            17
+        ],
+        "SendMessage": "house.SendMessage1704",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1705,
+        "FurnitureTmpId": 1705,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            17
+        ],
+        "SendMessage": "house.SendMessage1705",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1706,
+        "FurnitureTmpId": 1706,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            17
+        ],
+        "SendMessage": "house.SendMessage1706",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1707,
+        "FurnitureTmpId": 1707,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            17
+        ],
+        "SendMessage": "house.SendMessage1707",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1708,
+        "FurnitureTmpId": 1708,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            17
+        ],
+        "SendMessage": "house.SendMessage1708",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1709,
+        "FurnitureTmpId": 1709,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            17
+        ],
+        "SendMessage": "house.SendMessage1709",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1710,
+        "FurnitureTmpId": 1710,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            17
+        ],
+        "SendMessage": "house.SendMessage1710",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1714,
+        "FurnitureTmpId": 1714,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            17
+        ],
+        "SendMessage": "house.SendMessage1714",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 1720,
+        "FurnitureTmpId": 1720,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            17
+        ],
+        "SendMessage": "house.SendMessage1720",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 1721,
+        "FurnitureTmpId": 1721,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            17
+        ],
+        "SendMessage": "house.SendMessage1721",
+        "CanInteract": 0,
+        "CanCPInteract": 0,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2,
+        "ShowIcon": "",
+        "ShowGirl": "",
+        "ShowOnlyOwned": "",
+        "DefaultHad": 1
+    },
+    {
+        "GiftId": 1501,
+        "FurnitureTmpId": 1501,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            15
+        ],
+        "SendMessage": "house.SendMessage1501",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1502,
+        "FurnitureTmpId": 1502,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            15
+        ],
+        "SendMessage": "house.SendMessage1502",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1503,
+        "FurnitureTmpId": 1503,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            15
+        ],
+        "SendMessage": "house.SendMessage1503",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1504,
+        "FurnitureTmpId": 1504,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            15
+        ],
+        "SendMessage": "house.SendMessage1504",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1505,
+        "FurnitureTmpId": 1505,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            15
+        ],
+        "SendMessage": "house.SendMessage1505",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1506,
+        "FurnitureTmpId": 1506,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            15
+        ],
+        "SendMessage": "house.SendMessage1506",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1507,
+        "FurnitureTmpId": 1507,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            15
+        ],
+        "SendMessage": "house.SendMessage1507",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1508,
+        "FurnitureTmpId": 1508,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            15
+        ],
+        "SendMessage": "house.SendMessage1508",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1509,
+        "FurnitureTmpId": 1509,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            15
+        ],
+        "SendMessage": "house.SendMessage1509",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1510,
+        "FurnitureTmpId": 1510,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            15
+        ],
+        "SendMessage": "house.SendMessage1510",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1513,
+        "FurnitureTmpId": 1513,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            15
+        ],
+        "SendMessage": "house.SendMessage1513",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 1520,
+        "FurnitureTmpId": 1520,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            15
+        ],
+        "SendMessage": "house.SendMessage1520",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 1521,
+        "FurnitureTmpId": 1521,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            15
+        ],
+        "SendMessage": "house.SendMessage1521",
+        "CanInteract": 0,
+        "CanCPInteract": 0,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2,
+        "ShowIcon": "",
+        "ShowGirl": "",
+        "ShowOnlyOwned": "",
+        "DefaultHad": 1
+    },
+    {
+        "GiftId": 1601,
+        "FurnitureTmpId": 1601,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            16
+        ],
+        "SendMessage": "house.SendMessage1601",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1602,
+        "FurnitureTmpId": 1602,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            16
+        ],
+        "SendMessage": "house.SendMessage1602",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1603,
+        "FurnitureTmpId": 1603,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            16
+        ],
+        "SendMessage": "house.SendMessage1603",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1604,
+        "FurnitureTmpId": 1604,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            16
+        ],
+        "SendMessage": "house.SendMessage1604",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1605,
+        "FurnitureTmpId": 1605,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            16
+        ],
+        "SendMessage": "house.SendMessage1605",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1606,
+        "FurnitureTmpId": 1606,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            16
+        ],
+        "SendMessage": "house.SendMessage1606",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1607,
+        "FurnitureTmpId": 1607,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            16
+        ],
+        "SendMessage": "house.SendMessage1607",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1608,
+        "FurnitureTmpId": 1608,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            16
+        ],
+        "SendMessage": "house.SendMessage1608",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1609,
+        "FurnitureTmpId": 1609,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            16
+        ],
+        "SendMessage": "house.SendMessage1609",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1610,
+        "FurnitureTmpId": 1610,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            16
+        ],
+        "SendMessage": "house.SendMessage1610",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1611,
+        "FurnitureTmpId": 1611,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            16
+        ],
+        "SendMessage": "house.SendMessage1611",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 301,
+        "FurnitureTmpId": 301,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            3
+        ],
+        "SendMessage": "house.SendMessage301",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 302,
+        "FurnitureTmpId": 302,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            3
+        ],
+        "SendMessage": "house.SendMessage302",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 303,
+        "FurnitureTmpId": 303,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            3
+        ],
+        "SendMessage": "house.SendMessage303",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 304,
+        "FurnitureTmpId": 304,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            3
+        ],
+        "SendMessage": "house.SendMessage304",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 305,
+        "FurnitureTmpId": 305,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            3
+        ],
+        "SendMessage": "house.SendMessage305",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 306,
+        "FurnitureTmpId": 306,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            3
+        ],
+        "SendMessage": "house.SendMessage306",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 307,
+        "FurnitureTmpId": 307,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            3
+        ],
+        "SendMessage": "house.SendMessage307",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 308,
+        "FurnitureTmpId": 308,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            3
+        ],
+        "SendMessage": "house.SendMessage308",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 309,
+        "FurnitureTmpId": 309,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            3
+        ],
+        "SendMessage": "house.SendMessage309",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 310,
+        "FurnitureTmpId": 310,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            3
+        ],
+        "SendMessage": "house.SendMessage310",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 313,
+        "FurnitureTmpId": 313,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            3
+        ],
+        "SendMessage": "house.SendMessage313",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 314,
+        "FurnitureTmpId": 314,
+        "GiftResorce": 2,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            3
+        ],
+        "SendMessage": "house.SendMessage314",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 2,
+        "ShowIcon": "",
+        "ShowGirl": "",
+        "ShowOnlyOwned": 1
+    },
+    {
+        "GiftId": 316,
+        "FurnitureTmpId": 316,
+        "GiftResorce": 2,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            3
+        ],
+        "SendMessage": "house.SendMessage316",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 2,
+        "ShowIcon": "",
+        "ShowGirl": "",
+        "ShowOnlyOwned": 1
+    },
+    {
+        "GiftId": 1801,
+        "FurnitureTmpId": 1801,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            18
+        ],
+        "SendMessage": "house.SendMessage1801",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1802,
+        "FurnitureTmpId": 1802,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            18
+        ],
+        "SendMessage": "house.SendMessage1802",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1803,
+        "FurnitureTmpId": 1803,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            18
+        ],
+        "SendMessage": "house.SendMessage1803",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1804,
+        "FurnitureTmpId": 1804,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            18
+        ],
+        "SendMessage": "house.SendMessage1804",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1805,
+        "FurnitureTmpId": 1805,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            18
+        ],
+        "SendMessage": "house.SendMessage1805",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1806,
+        "FurnitureTmpId": 1806,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            18
+        ],
+        "SendMessage": "house.SendMessage1806",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1807,
+        "FurnitureTmpId": 1807,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            18
+        ],
+        "SendMessage": "house.SendMessage1807",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1808,
+        "FurnitureTmpId": 1808,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            18
+        ],
+        "SendMessage": "house.SendMessage1808",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1809,
+        "FurnitureTmpId": 1809,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            18
+        ],
+        "SendMessage": "house.SendMessage1809",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1810,
+        "FurnitureTmpId": 1810,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            18
+        ],
+        "SendMessage": "house.SendMessage1810",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 1811,
+        "FurnitureTmpId": 1811,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            18
+        ],
+        "SendMessage": "house.SendMessage1811",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 2001,
+        "FurnitureTmpId": 2001,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            20
+        ],
+        "SendMessage": "house.SendMessage2001",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2002,
+        "FurnitureTmpId": 2002,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            20
+        ],
+        "SendMessage": "house.SendMessage2002",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2003,
+        "FurnitureTmpId": 2003,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            20
+        ],
+        "SendMessage": "house.SendMessage2003",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2004,
+        "FurnitureTmpId": 2004,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            20
+        ],
+        "SendMessage": "house.SendMessage2004",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2005,
+        "FurnitureTmpId": 2005,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            20
+        ],
+        "SendMessage": "house.SendMessage2005",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2006,
+        "FurnitureTmpId": 2006,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            20
+        ],
+        "SendMessage": "house.SendMessage2006",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2007,
+        "FurnitureTmpId": 2007,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            20
+        ],
+        "SendMessage": "house.SendMessage2007",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2008,
+        "FurnitureTmpId": 2008,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            20
+        ],
+        "SendMessage": "house.SendMessage2008",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2009,
+        "FurnitureTmpId": 2009,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            20
+        ],
+        "SendMessage": "house.SendMessage2009",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2010,
+        "FurnitureTmpId": 2010,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            20
+        ],
+        "SendMessage": "house.SendMessage2010",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2011,
+        "FurnitureTmpId": 2011,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            20
+        ],
+        "SendMessage": "house.SendMessage2011",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 2101,
+        "FurnitureTmpId": 2101,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            21
+        ],
+        "SendMessage": "house.SendMessage2101",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2102,
+        "FurnitureTmpId": 2102,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            21
+        ],
+        "SendMessage": "house.SendMessage2102",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2103,
+        "FurnitureTmpId": 2103,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            21
+        ],
+        "SendMessage": "house.SendMessage2103",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2104,
+        "FurnitureTmpId": 2104,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            21
+        ],
+        "SendMessage": "house.SendMessage2104",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2105,
+        "FurnitureTmpId": 2105,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            21
+        ],
+        "SendMessage": "house.SendMessage2105",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2106,
+        "FurnitureTmpId": 2106,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            21
+        ],
+        "SendMessage": "house.SendMessage2106",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2107,
+        "FurnitureTmpId": 2107,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            21
+        ],
+        "SendMessage": "house.SendMessage2107",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2108,
+        "FurnitureTmpId": 2108,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            21
+        ],
+        "SendMessage": "house.SendMessage2108",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2109,
+        "FurnitureTmpId": 2109,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            21
+        ],
+        "SendMessage": "house.SendMessage2109",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2110,
+        "FurnitureTmpId": 2110,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            21
+        ],
+        "SendMessage": "house.SendMessage2110",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2111,
+        "FurnitureTmpId": 2111,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            21
+        ],
+        "SendMessage": "house.SendMessage2111",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 2201,
+        "FurnitureTmpId": 2201,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            22
+        ],
+        "SendMessage": "house.SendMessage2201",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2202,
+        "FurnitureTmpId": 2202,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            22
+        ],
+        "SendMessage": "house.SendMessage2202",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2203,
+        "FurnitureTmpId": 2203,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            22
+        ],
+        "SendMessage": "house.SendMessage2203",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2204,
+        "FurnitureTmpId": 2204,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            22
+        ],
+        "SendMessage": "house.SendMessage2204",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2205,
+        "FurnitureTmpId": 2205,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            22
+        ],
+        "SendMessage": "house.SendMessage2205",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2206,
+        "FurnitureTmpId": 2206,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            22
+        ],
+        "SendMessage": "house.SendMessage2206",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2207,
+        "FurnitureTmpId": 2207,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            22
+        ],
+        "SendMessage": "house.SendMessage2207",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2208,
+        "FurnitureTmpId": 2208,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            22
+        ],
+        "SendMessage": "house.SendMessage2208",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2209,
+        "FurnitureTmpId": 2209,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            22
+        ],
+        "SendMessage": "house.SendMessage2209",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2210,
+        "FurnitureTmpId": 2210,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            22
+        ],
+        "SendMessage": "house.SendMessage2210",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2211,
+        "FurnitureTmpId": 2211,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            22
+        ],
+        "SendMessage": "house.SendMessage2211",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 2301,
+        "FurnitureTmpId": 2301,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            23
+        ],
+        "SendMessage": "house.SendMessage2301",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2302,
+        "FurnitureTmpId": 2302,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            23
+        ],
+        "SendMessage": "house.SendMessage2302",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2303,
+        "FurnitureTmpId": 2303,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            23
+        ],
+        "SendMessage": "house.SendMessage2303",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2304,
+        "FurnitureTmpId": 2304,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            23
+        ],
+        "SendMessage": "house.SendMessage2304",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2305,
+        "FurnitureTmpId": 2305,
+        "GiftResorce": 1,
+        "AddLoveNum": 9000,
+        "SupportTargets": [
+            23
+        ],
+        "SendMessage": "house.SendMessage2305",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2306,
+        "FurnitureTmpId": 2306,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            23
+        ],
+        "SendMessage": "house.SendMessage2306",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2307,
+        "FurnitureTmpId": 2307,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            23
+        ],
+        "SendMessage": "house.SendMessage2307",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2308,
+        "FurnitureTmpId": 2308,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            23
+        ],
+        "SendMessage": "house.SendMessage2308",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2309,
+        "FurnitureTmpId": 2309,
+        "GiftResorce": 1,
+        "AddLoveNum": 6000,
+        "SupportTargets": [
+            23
+        ],
+        "SendMessage": "house.SendMessage2309",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2310,
+        "FurnitureTmpId": 2310,
+        "GiftResorce": 1,
+        "AddLoveNum": 3000,
+        "SupportTargets": [
+            23
+        ],
+        "SendMessage": "house.SendMessage2310",
+        "CanInteract": 0,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 1
+    },
+    {
+        "GiftId": 2311,
+        "FurnitureTmpId": 2311,
+        "GiftResorce": 2,
+        "AddLoveNum": 0,
+        "SupportTargets": [
+            23
+        ],
+        "SendMessage": "house.SendMessage2311",
+        "CanInteract": 1,
+        "CanCPInteract": 1,
+        "AddHouseLoveNum": 4000,
+        "GiftResource": 2
+    },
+    {
+        "GiftId": 1,
+        "FurnitureTmpId": 1,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage001",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 5,
+        "ShowIcon": 110007503
+    },
+    {
+        "GiftId": 2,
+        "FurnitureTmpId": 2,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage002",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 6,
+        "ShowIcon": 110007703
+    },
+    {
+        "GiftId": 3,
+        "FurnitureTmpId": 3,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage003",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 7,
+        "ShowIcon": 110007903
+    },
+    {
+        "GiftId": 4,
+        "FurnitureTmpId": 4,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage004",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 8,
+        "ShowIcon": 110008303
+    },
+    {
+        "GiftId": 5,
+        "FurnitureTmpId": 5,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage005",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 9,
+        "ShowIcon": 110008403
+    },
+    {
+        "GiftId": 7,
+        "FurnitureTmpId": 7,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage007",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 11,
+        "ShowIcon": 110310602
+    },
+    {
+        "GiftId": 8,
+        "FurnitureTmpId": 8,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage008",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 12,
+        "ShowIcon": 110310732
+    },
+    {
+        "GiftId": 9,
+        "FurnitureTmpId": 9,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage009",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 13,
+        "ShowIcon": 110310802
+    },
+    {
+        "GiftId": 10,
+        "FurnitureTmpId": 10,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage010",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 14,
+        "ShowIcon": 110310792
+    },
+    {
+        "GiftId": 14,
+        "FurnitureTmpId": 14,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage014",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 15,
+        "ShowIcon": 110310852
+    },
+    {
+        "GiftId": 15,
+        "FurnitureTmpId": 15,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage015",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 16,
+        "ShowIcon": 110310972
+    },
+    {
+        "GiftId": 16,
+        "FurnitureTmpId": 16,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage016",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 17,
+        "ShowIcon": 110311002
+    },
+    {
+        "GiftId": 17,
+        "FurnitureTmpId": 17,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage017",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 18,
+        "ShowIcon": 110311032
+    },
+    {
+        "GiftId": 20,
+        "FurnitureTmpId": 20,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage020",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 21,
+        "ShowIcon": 110311202
+    },
+    {
+        "GiftId": 21,
+        "FurnitureTmpId": 21,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage021",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 10,
+        "ShowIcon": 110008503
+    },
+    {
+        "GiftId": 25,
+        "FurnitureTmpId": 25,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage025",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 25,
+        "ShowIcon": 110311232
+    },
+    {
+        "GiftId": 26,
+        "FurnitureTmpId": 26,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage026",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 26,
+        "ShowIcon": 110311382
+    },
+    {
+        "GiftId": 27,
+        "FurnitureTmpId": 27,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage027",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 27,
+        "ShowIcon": 110311522
+    },
+    {
+        "GiftId": 28,
+        "FurnitureTmpId": 28,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage028",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 28,
+        "ShowIcon": 110311532
+    },
+    {
+        "GiftId": 29,
+        "FurnitureTmpId": 29,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage029",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 29,
+        "ShowIcon": 110311552
+    },
+    {
+        "GiftId": 30,
+        "FurnitureTmpId": 30,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage030",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 30,
+        "ShowIcon": 110311672
+    },
+    {
+        "GiftId": 31,
+        "FurnitureTmpId": 31,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage031",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 31,
+        "ShowIcon": 110311782
+    },
+    {
+        "GiftId": 32,
+        "FurnitureTmpId": 32,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage032",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 32,
+        "ShowIcon": 110311792
+    },
+    {
+        "GiftId": 33,
+        "FurnitureTmpId": 33,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage033",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 33,
+        "ShowIcon": 110311912
+    },
+    {
+        "GiftId": 34,
+        "FurnitureTmpId": 34,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage034",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 34,
+        "ShowIcon": 110311922,
+        "ShowGirl": "",
+        "ShowOnlyOwned": 1
+    },
+    {
+        "GiftId": 35,
+        "FurnitureTmpId": 35,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage035",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 35,
+        "ShowIcon": 110312042
+    },
+    {
+        "GiftId": 37,
+        "FurnitureTmpId": 37,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [],
+        "SendMessage": "house.SendMessage037",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 37,
+        "ShowIcon": "",
+        "ShowGirl": "",
+        "ShowOnlyOwned": "",
+        "DefaultHad": 1
+    },
+    {
+        "GiftId": 38,
+        "FurnitureTmpId": 38,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            60
+        ],
+        "SendMessage": "house.SendMessage038",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 38,
+        "ShowIcon": 110312152,
+        "ShowGirl": "",
+        "ShowOnlyOwned": 1
+    },
+    {
+        "GiftId": 39,
+        "FurnitureTmpId": 39,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            51
+        ],
+        "SendMessage": "house.SendMessage039",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 39,
+        "ShowIcon": 110312162,
+        "ShowGirl": "",
+        "ShowOnlyOwned": 1
+    },
+    {
+        "GiftId": 40,
+        "FurnitureTmpId": 40,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [],
+        "SendMessage": "house.SendMessage040",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 40
+    },
+    {
+        "GiftId": 41,
+        "FurnitureTmpId": 41,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            0
+        ],
+        "SendMessage": "house.SendMessage041",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 41,
+        "ShowIcon": 110312202
+    },
+    {
+        "GiftId": 5101,
+        "FurnitureTmpId": 5101,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            51
+        ],
+        "SendMessage": "dormgift.gift5101_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 5100,
+        "ShowIcon": 110310812,
+        "ShowGirl": [
+            1
+        ]
+    },
+    {
+        "GiftId": 5102,
+        "FurnitureTmpId": 5102,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            51
+        ],
+        "SendMessage": "dormgift.gift5102_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 5100,
+        "ShowIcon": 110310822,
+        "ShowGirl": [
+            5
+        ]
+    },
+    {
+        "GiftId": 5103,
+        "FurnitureTmpId": 5103,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            51
+        ],
+        "SendMessage": "dormgift.gift5103_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 5100,
+        "ShowIcon": 110310842,
+        "ShowGirl": [
+            17
+        ]
+    },
+    {
+        "GiftId": 5104,
+        "FurnitureTmpId": 5104,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            51
+        ],
+        "SendMessage": "dormgift.gift5104_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 5100,
+        "ShowIcon": 110310832,
+        "ShowGirl": [
+            6,
+            11
+        ]
+    },
+    {
+        "GiftId": 5105,
+        "FurnitureTmpId": 5105,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            51
+        ],
+        "SendMessage": "house.SendMessage5105",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 5105,
+        "ShowIcon": 110311072
+    },
+    {
+        "GiftId": 5106,
+        "FurnitureTmpId": 5106,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            51
+        ],
+        "SendMessage": "house.SendMessage5106",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 5106,
+        "ShowIcon": 110311063,
+        "ShowGirl": "",
+        "ShowOnlyOwned": 1
+    },
+    {
+        "GiftId": 5107,
+        "FurnitureTmpId": 5107,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            51
+        ],
+        "SendMessage": "house.SendMessage5107",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 5106,
+        "ShowIcon": 110311052,
+        "ShowGirl": "",
+        "ShowOnlyOwned": 1
+    },
+    {
+        "GiftId": 5108,
+        "FurnitureTmpId": 5108,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            51
+        ],
+        "SendMessage": "dormgift.gift5108_des",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 5108,
+        "ShowIcon": 110311082,
+        "ShowGirl": "",
+        "ShowOnlyOwned": "",
+        "DefaultHad": 1
+    },
+    {
+        "GiftId": 5109,
+        "FurnitureTmpId": 5109,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            51
+        ],
+        "SendMessage": "house.SendMessage5109",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 5109,
+        "ShowIcon": 110311402,
+        "ShowGirl": "",
+        "ShowOnlyOwned": 1
+    },
+    {
+        "GiftId": 5110,
+        "FurnitureTmpId": 5110,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            51
+        ],
+        "SendMessage": "house.SendMessage5110",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 5110,
+        "ShowIcon": 110311392,
+        "ShowGirl": "",
+        "ShowOnlyOwned": 1
+    },
+    {
+        "GiftId": 5111,
+        "FurnitureTmpId": 5111,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            51
+        ],
+        "SendMessage": "house.SendMessage5111",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 5111,
+        "ShowIcon": 110311642,
+        "ShowGirl": "",
+        "ShowOnlyOwned": 1
+    },
+    {
+        "GiftId": 5112,
+        "FurnitureTmpId": 5112,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            51
+        ],
+        "SendMessage": "house.SendMessage5112",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 5112,
+        "ShowIcon": 110311662,
+        "ShowGirl": "",
+        "ShowOnlyOwned": 1
+    },
+    {
+        "GiftId": 5113,
+        "FurnitureTmpId": 5113,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            51
+        ],
+        "SendMessage": "house.SendMessage5113",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 5113,
+        "ShowIcon": 110311652,
+        "ShowGirl": "",
+        "ShowOnlyOwned": 1
+    },
+    {
+        "GiftId": 5114,
+        "FurnitureTmpId": 5114,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            51
+        ],
+        "SendMessage": "house.SendMessage5114",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 5114,
+        "ShowIcon": 110311702,
+        "ShowGirl": "",
+        "ShowOnlyOwned": 1
+    },
+    {
+        "GiftId": 5115,
+        "FurnitureTmpId": 5115,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            51
+        ],
+        "SendMessage": "house.SendMessage5115",
+        "CanInteract": "",
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 5115,
+        "ShowIcon": 110311712,
+        "ShowGirl": "",
+        "ShowOnlyOwned": 1
+    },
+    {
+        "GiftId": 6001,
+        "FurnitureTmpId": 6001,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            60
+        ],
+        "SendMessage": "dormgift.gift6001_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 6000,
+        "ShowIcon": 110311092,
+        "ShowGirl": [
+            3
+        ]
+    },
+    {
+        "GiftId": 6002,
+        "FurnitureTmpId": 6002,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            60
+        ],
+        "SendMessage": "dormgift.gift6002_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 6000,
+        "ShowIcon": 110311102,
+        "ShowGirl": [
+            12,
+            18
+        ]
+    },
+    {
+        "GiftId": 6003,
+        "FurnitureTmpId": 6003,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            60
+        ],
+        "SendMessage": "dormgift.gift6003_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 6000,
+        "ShowIcon": 110311112,
+        "ShowGirl": [
+            4,
+            15
+        ]
+    },
+    {
+        "GiftId": 6004,
+        "FurnitureTmpId": 6004,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            60
+        ],
+        "SendMessage": "dormgift.gift6004_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 6000,
+        "ShowIcon": 110311122,
+        "ShowGirl": [
+            7
+        ]
+    },
+    {
+        "GiftId": 6005,
+        "FurnitureTmpId": 6005,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            60
+        ],
+        "SendMessage": "dormgift.gift6005_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 6000,
+        "ShowIcon": 110311132,
+        "ShowGirl": [
+            2,
+            8,
+            10,
+            14
+        ]
+    },
+    {
+        "GiftId": 6006,
+        "FurnitureTmpId": 6006,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            60
+        ],
+        "SendMessage": "dormgift.gift6006_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 6000,
+        "ShowIcon": 110311142
+    },
+    {
+        "GiftId": 6007,
+        "FurnitureTmpId": 6007,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            60
+        ],
+        "SendMessage": "dormgift.gift6007_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 6000,
+        "ShowIcon": 110311152
+    },
+    {
+        "GiftId": 7021,
+        "FurnitureTmpId": 7021,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            70
+        ],
+        "SendMessage": "dormgift.gift7021_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 7000,
+        "ShowIcon": 110311582,
+        "ShowGirl": [
+            1,
+            13
+        ]
+    },
+    {
+        "GiftId": 7022,
+        "FurnitureTmpId": 7022,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            70
+        ],
+        "SendMessage": "dormgift.gift7022_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 7000,
+        "ShowIcon": 110311592,
+        "ShowGirl": [
+            15,
+            17
+        ]
+    },
+    {
+        "GiftId": 7023,
+        "FurnitureTmpId": 7023,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            70
+        ],
+        "SendMessage": "dormgift.gift7023_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 7000,
+        "ShowIcon": 110311602,
+        "ShowGirl": [
+            16,
+            20
+        ]
+    },
+    {
+        "GiftId": 7024,
+        "FurnitureTmpId": 7024,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            70
+        ],
+        "SendMessage": "dormgift.gift7024_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 7000,
+        "ShowIcon": 110311612,
+        "ShowGirl": [
+            7,
+            18,
+            21
+        ]
+    },
+    {
+        "GiftId": 7025,
+        "FurnitureTmpId": 7025,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            70
+        ],
+        "SendMessage": "dormgift.gift7025_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 7000,
+        "ShowIcon": 110311622
+    },
+    {
+        "GiftId": 7026,
+        "FurnitureTmpId": 7026,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            70
+        ],
+        "SendMessage": "dormgift.gift7026_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 7000,
+        "ShowIcon": 110311632
+    },
+    {
+        "GiftId": 8001,
+        "FurnitureTmpId": 8001,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            80
+        ],
+        "SendMessage": "dormgift.gift8001_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 8000,
+        "ShowIcon": 110311722,
+        "ShowGirl": [
+            1,
+            13
+        ]
+    },
+    {
+        "GiftId": 8002,
+        "FurnitureTmpId": 8002,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            80
+        ],
+        "SendMessage": "dormgift.gift8002_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 8000,
+        "ShowIcon": 110311732,
+        "ShowGirl": [
+            18
+        ]
+    },
+    {
+        "GiftId": 8003,
+        "FurnitureTmpId": 8003,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            80
+        ],
+        "SendMessage": "dormgift.gift8003_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 8000,
+        "ShowIcon": 110311742,
+        "ShowGirl": [
+            8
+        ]
+    },
+    {
+        "GiftId": 8004,
+        "FurnitureTmpId": 8004,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            80
+        ],
+        "SendMessage": "dormgift.gift8004_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 8000,
+        "ShowIcon": 110311752,
+        "ShowGirl": [
+            21
+        ]
+    },
+    {
+        "GiftId": 8005,
+        "FurnitureTmpId": 8005,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            80
+        ],
+        "SendMessage": "dormgift.gift8005_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 8000,
+        "ShowIcon": 110311762
+    },
+    {
+        "GiftId": 8006,
+        "FurnitureTmpId": 8006,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            80
+        ],
+        "SendMessage": "dormgift.gift8006_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 8000,
+        "ShowIcon": 110311772
+    },
+    {
+        "GiftId": 9001,
+        "FurnitureTmpId": 9001,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            90
+        ],
+        "SendMessage": "dormgift.gift9001_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 9000,
+        "ShowIcon": 110312062,
+        "ShowGirl": [
+            23
+        ]
+    },
+    {
+        "GiftId": 9002,
+        "FurnitureTmpId": 9002,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            90
+        ],
+        "SendMessage": "dormgift.gift9002_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 9000,
+        "ShowIcon": 110312072,
+        "ShowGirl": [
+            1,
+            5
+        ]
+    },
+    {
+        "GiftId": 9003,
+        "FurnitureTmpId": 9003,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            90
+        ],
+        "SendMessage": "dormgift.gift9003_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 9000,
+        "ShowIcon": 110312082,
+        "ShowGirl": [
+            13
+        ]
+    },
+    {
+        "GiftId": 9004,
+        "FurnitureTmpId": 9004,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            90
+        ],
+        "SendMessage": "dormgift.gift9004_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 9000,
+        "ShowIcon": 110312092,
+        "ShowGirl": [
+            10
+        ]
+    },
+    {
+        "GiftId": 9005,
+        "FurnitureTmpId": 9005,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            90
+        ],
+        "SendMessage": "dormgift.gift9005_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 9000,
+        "ShowIcon": 110312102
+    },
+    {
+        "GiftId": 9006,
+        "FurnitureTmpId": 9006,
+        "GiftResorce": "",
+        "AddLoveNum": "",
+        "SupportTargets": [
+            90
+        ],
+        "SendMessage": "dormgift.gift9006_des",
+        "CanInteract": 1,
+        "CanCPInteract": "",
+        "AddHouseLoveNum": "",
+        "GiftResource": 9000,
+        "ShowIcon": 110312112
+    }
+]

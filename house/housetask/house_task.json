@@ -1,0 +1,297 @@
+[
+    {
+        "ID": 1,
+        "Name": "ui.TxtHouseGuide_name001",
+        "ActiveDes": "ui.TxtHouseGuide_des001",
+        "PreID": 0,
+        "Type": 2,
+        "tbParam": [
+            10224
+        ],
+        "GuideId": 10224,
+        "TransTag": [
+            1,
+            "trans011",
+            0,
+            1
+        ],
+        "GuideTag": {
+            "0": "guide011"
+        },
+        "HideBtn": [
+            "BtnNavigation",
+            "BtnTask"
+        ],
+        "TipsShow": "",
+        "Condition": {
+            "28": "202509250400"
+        }
+    },
+    {
+        "ID": 2,
+        "Name": "ui.TxtHouseGuide_name002",
+        "ActiveDes": "ui.TxtHouseGuide_des002",
+        "PreID": 1,
+        "Type": 3,
+        "tbParam": [
+            2,
+            202
+        ],
+        "GuideId": "",
+        "TransTag": [
+            2,
+            2
+        ],
+        "GuideTag": {
+            "2": "lifuguide"
+        },
+        "HideBtn": [
+            "BtnNavigation",
+            "BtnTask"
+        ],
+        "TipsShow": "",
+        "Condition": {
+            "28": "202509250400"
+        }
+    },
+    {
+        "ID": 3,
+        "Name": "ui.TxtHouseGuide_name003",
+        "ActiveDes": "ui.TxtHouseGuide_des003",
+        "PreID": 2,
+        "Type": 2,
+        "tbParam": [
+            10226
+        ],
+        "GuideId": 10226,
+        "TransTag": [
+            2,
+            2
+        ],
+        "GuideTag": {
+            "2": "lifuguide"
+        },
+        "HideBtn": [
+            "BtnNavigation",
+            "BtnTask"
+        ],
+        "TipsShow": "",
+        "Condition": {
+            "28": "202509250400"
+        }
+    },
+    {
+        "ID": 4,
+        "Name": "ui.TxtHouseGuide_name004",
+        "ActiveDes": "ui.TxtHouseGuide_des004",
+        "PreID": 3,
+        "Type": 2,
+        "tbParam": [
+            10227
+        ],
+        "GuideId": 10227,
+        "TransTag": [
+            2,
+            2
+        ],
+        "GuideTag": {
+            "2": "lifuguide"
+        },
+        "HideBtn": [
+            "BtnNavigation",
+            "BtnTask"
+        ],
+        "TipsShow": "",
+        "Condition": {
+            "28": "202509250400"
+        }
+    },
+    {
+        "ID": 5,
+        "Name": "ui.TxtHouseGuide_name005",
+        "ActiveDes": "ui.TxtHouseGuide_des005",
+        "PreID": 4,
+        "Type": 3,
+        "tbParam": [
+            8,
+            820
+        ],
+        "GuideId": "",
+        "TransTag": [
+            2,
+            8
+        ],
+        "GuideTag": {
+            "8": "fenniguide"
+        },
+        "HideBtn": [
+            "BtnNavigation",
+            "BtnTask"
+        ],
+        "TipsShow": "",
+        "Condition": {
+            "28": "202509250400"
+        }
+    },
+    {
+        "ID": 6,
+        "Name": "ui.TxtHouseGuide_name006",
+        "ActiveDes": "ui.TxtHouseGuide_des006",
+        "PreID": 5,
+        "Type": 4,
+        "tbParam": [
+            101
+        ],
+        "GuideId": "",
+        "TransTag": [
+            1,
+            "trans061",
+            0,
+            1
+        ],
+        "GuideTag": {
+            "0": "guide061"
+        },
+        "HideBtn": [
+            "BtnNavigation",
+            "BtnTask"
+        ],
+        "TipsShow": "",
+        "Condition": {
+            "28": "202509250400"
+        }
+    },
+    {
+        "ID": 7,
+        "Name": "ui.TxtHouseGuide_name007",
+        "ActiveDes": "ui.TxtHouseGuide_des007",
+        "PreID": 6,
+        "Type": 5,
+        "tbParam": "",
+        "GuideId": "",
+        "TransTag": [
+            1,
+            "trans061",
+            0,
+            1
+        ],
+        "GuideTag": {
+            "0": "guide061"
+        },
+        "HideBtn": [
+            "BtnNavigation",
+            "BtnTask"
+        ],
+        "TipsShow": "",
+        "Condition": {
+            "28": "202509250400"
+        }
+    },
+    {
+        "ID": 8,
+        "Name": "ui.TxtHouseGuide_name008",
+        "ActiveDes": "ui.TxtHouseGuide_des008",
+        "PreID": 7,
+        "Type": 2,
+        "tbParam": [
+            10228
+        ],
+        "GuideId": 10228,
+        "TransTag": [
+            1,
+            "trans081",
+            0,
+            1
+        ],
+        "GuideTag": {
+            "0": "guide081"
+        },
+        "HideBtn": [
+            "BtnNavigation",
+            "BtnTask"
+        ],
+        "TipsShow": "",
+        "Condition": {
+            "28": "202509250400"
+        }
+    },
+    {
+        "ID": 9,
+        "Name": "ui.TxtHouseGuide_name009",
+        "ActiveDes": "ui.TxtHouseGuide_des009",
+        "PreID": 8,
+        "Type": 2,
+        "tbParam": [
+            10229
+        ],
+        "GuideId": 10229,
+        "TransTag": [
+            1,
+            "trans081",
+            0,
+            1
+        ],
+        "GuideTag": {
+            "0": "guide081"
+        },
+        "HideBtn": [
+            "BtnTask"
+        ],
+        "TipsShow": "",
+        "Condition": {
+            "28": "202509250400"
+        }
+    },
+    {
+        "ID": 10,
+        "Name": "ui.TxtHouseGuide_name010",
+        "ActiveDes": "ui.TxtHouseGuide_des010",
+        "PreID": 9,
+        "Type": 2,
+        "tbParam": [
+            10230
+        ],
+        "GuideId": 10230,
+        "TransTag": [
+            1,
+            "trans101",
+            0,
+            1
+        ],
+        "GuideTag": {
+            "0": "guide101"
+        },
+        "HideBtn": [
+            "BtnTask"
+        ],
+        "TipsShow": "",
+        "Condition": {
+            "28": "202509250400"
+        }
+    },
+    {
+        "ID": 11,
+        "Name": "ui.TxtHouseGuide_name011",
+        "ActiveDes": "ui.TxtHouseGuide_des011",
+        "PreID": 10,
+        "Type": 1,
+        "tbParam": [
+            11
+        ],
+        "GuideId": "",
+        "TransTag": [
+            2,
+            80,
+            "BeachTransPos2"
+        ],
+        "GuideTag": {
+            "0": "guide101",
+            "80": "guide111"
+        },
+        "HideBtn": "",
+        "TipsShow": "tip.TxtRoomGuidecomplete",
+        "Condition": {
+            "28": "202509250400"
+        }
+    }
+]

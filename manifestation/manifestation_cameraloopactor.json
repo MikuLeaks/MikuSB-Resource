@@ -1,0 +1,2674 @@
+[
+    {
+        "Id": 1,
+        "StandbyId": [
+            1
+        ],
+        "LensId": "/Game/Cinematics/girl011a_02_manifestation/Sequence/girl011a_02_manifestation_standby_stand01_Master.girl011a_02_manifestation_standby_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl011a_02/Anim/manifestation/girl011a_02_manifestation_standby_stand01.girl011a_02_manifestation_standby_stand01",
+        "FaceID": "/Game/Characters/Girl/girl011a_02/AnimPart00/manifestation/girl011a_02_manifestation_standby_stand01.girl011a_02_manifestation_standby_stand01",
+        "LensMode": [
+            1
+        ],
+        "LensMove": {
+            "12": 12,
+            "2": 0
+        },
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": [
+            [
+                701,
+                100,
+                "uw_girlroom_touch"
+            ],
+            [
+                702,
+                100,
+                "uw_girlroom_touch",
+                30
+            ],
+            [
+                703,
+                100,
+                "uw_girlroom_touch"
+            ]
+        ],
+        "UiMouse": [
+            [
+                701,
+                "uw_girlroom_mouse"
+            ],
+            [
+                702,
+                "uw_girlroom_mouse",
+                30
+            ],
+            [
+                703,
+                "uw_girlroom_mouse"
+            ]
+        ],
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl011a_02_ma_standby_stand01"
+    },
+    {
+        "Id": 2,
+        "StandbyId": [
+            2
+        ],
+        "LensId": "/Game/Cinematics/girl011a_02_manifestation/Sequence/girl011a_02_manifestation_show_stand02_Master.girl011a_02_manifestation_show_stand02_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl011a_02/Anim/manifestation/girl011a_02_manifestation_show_stand02.girl011a_02_manifestation_show_stand02",
+        "FaceID": "/Game/Characters/Girl/girl011a_02/AnimPart00/manifestation/girl011a_02_manifestation_show_stand02.girl011a_02_manifestation_show_stand02",
+        "LensMode": [
+            1
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": [
+            [
+                708,
+                15,
+                "uw_girlroom_touch"
+            ],
+            [
+                701,
+                100,
+                "uw_girlroom_touch"
+            ]
+        ],
+        "UiMouse": {
+            "708": "uw_girlroom_mouse",
+            "701": "uw_girlroom_mouse"
+        },
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl011a_02_ma_show_stand02",
+        "HolyLight": [
+            [
+                1101,
+                1,
+                "Bip001-Pelvis",
+                "uw_girlroom_peace"
+            ],
+            [
+                1108,
+                1,
+                "Bip001-Pelvis",
+                "uw_girlroom_peace"
+            ]
+        ]
+    },
+    {
+        "Id": 4,
+        "StandbyId": [
+            4
+        ],
+        "LensId": "/Game/Cinematics/girl011a_02_manifestation/Sequence/girl011a_02_manifestation_show_stand04_Master.girl011a_02_manifestation_show_stand04_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl011a_02/Anim/manifestation/girl011a_02_manifestation_show_stand04.girl011a_02_manifestation_show_stand04",
+        "FaceID": "/Game/Characters/Girl/girl011a_02/AnimPart00/manifestation/girl011a_02_manifestation_show_stand04.girl011a_02_manifestation_show_stand04",
+        "LensMode": [
+            1
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": [
+            [
+                704,
+                14,
+                "uw_girlroom_touch"
+            ],
+            [
+                701,
+                100,
+                "uw_girlroom_touch"
+            ],
+            [
+                705,
+                14,
+                "uw_girlroom_touch"
+            ]
+        ],
+        "UiMouse": {
+            "704": "uw_girlroom_mouse",
+            "701": "uw_girlroom_mouse",
+            "705": "uw_girlroom_mouse"
+        },
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl011a_02_ma_show_stand04",
+        "HolyLight": [
+            [
+                1204,
+                1,
+                "Bip001-Pelvis",
+                "uw_girlroom_peace"
+            ],
+            [
+                1205,
+                1,
+                "Bip001-Pelvis",
+                "uw_girlroom_peace"
+            ]
+        ]
+    },
+    {
+        "Id": 5,
+        "StandbyId": [
+            5
+        ],
+        "LensId": "/Game/Cinematics/girl011a_02_manifestation/Sequence/girl011a_02_manifestation_show_stand05_Master.girl011a_02_manifestation_show_stand05_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl011a_02/Anim/manifestation/girl011a_02_manifestation_show_stand05.girl011a_02_manifestation_show_stand05",
+        "FaceID": "/Game/Characters/Girl/girl011a_02/AnimPart00/manifestation/girl011a_02_manifestation_show_stand05.girl011a_02_manifestation_show_stand05",
+        "LensMode": [
+            1
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": [
+            [
+                704,
+                15,
+                "uw_girlroom_touch"
+            ],
+            [
+                701,
+                100,
+                "uw_girlroom_touch"
+            ],
+            [
+                705,
+                15,
+                "uw_girlroom_touch"
+            ]
+        ],
+        "UiMouse": {
+            "704": "uw_girlroom_mouse",
+            "701": "uw_girlroom_mouse",
+            "705": "uw_girlroom_mouse"
+        },
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl011a_02_ma_show_stand05",
+        "HolyLight": [
+            [
+                1304,
+                1,
+                "Bip001-Pelvis",
+                "uw_girlroom_peace"
+            ],
+            [
+                1305,
+                1,
+                "Bip001-Pelvis",
+                "uw_girlroom_peace"
+            ]
+        ]
+    },
+    {
+        "Id": 6,
+        "StandbyId": [
+            6
+        ],
+        "LensId": "/Game/Cinematics/girl011a_02_manifestation/Sequence/girl011a_02_manifestation_show_stand05_Master.girl011a_02_manifestation_show_stand05_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl011_02/Anim/girl011_02_ui_stand01.girl011_02_ui_stand01",
+        "FaceID": "/Game/Characters/Girl/girl011a_02/AnimPart00/manifestation/girl011a_02_manifestation_show_stand01.girl011a_02_manifestation_show_stand01",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": [
+            [
+                1,
+                15,
+                "uw_girlroom_touch"
+            ]
+        ],
+        "UiMouse": {
+            "1": "uw_girlroom_mouse"
+        },
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl011a_02_ma_show_stand01",
+        "HolyLight": [
+            [
+                1,
+                1,
+                "Bip001-Pelvis",
+                "uw_girlroom_peace"
+            ]
+        ]
+    },
+    {
+        "Id": 7,
+        "StandbyId": [
+            1,
+            7,
+            8,
+            9
+        ],
+        "LensId": "/Game/Cinematics/girl008b_02_manifestation/sequence/girl008b_02_ma_standby_stand01_Master.girl008b_02_ma_standby_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl008b_02/Anim/manifestation/girl008b_02_ma_standby_stand01.girl008b_02_ma_standby_stand01",
+        "FaceID": "/Game/Characters/Girl/girl008b_02/AnimPart00/manifestation/girl008b_02_ma_standby_stand01.girl008b_02_ma_standby_stand01",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl008b_02_ma_standby_stand01",
+        "HolyLight": [
+            [
+                708,
+                1,
+                "Bip001-Spine",
+                "uw_girlroom_peace"
+            ]
+        ]
+    },
+    {
+        "Id": 8,
+        "StandbyId": [
+            2
+        ],
+        "LensId": "/Game/Cinematics/girl008b_02_manifestation/sequence/girl008b_02_ma_show_stand01_Master.girl008b_02_ma_show_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl008b_02/Anim/manifestation/girl008b_02_ma_show_stand01.girl008b_02_ma_show_stand01",
+        "FaceID": "/Game/Characters/Girl/girl008b_02/AnimPart00/manifestation/girl008b_02_ma_show_stand01.girl008b_02_ma_show_stand01",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl008b_02_ma_show_stand01",
+        "HolyLight": [
+            [
+                704,
+                1,
+                "Bip001-Spine",
+                "uw_girlroom_peace"
+            ],
+            [
+                705,
+                1,
+                "Bip001-Spine",
+                "uw_girlroom_peace"
+            ]
+        ]
+    },
+    {
+        "Id": 9,
+        "StandbyId": [
+            3
+        ],
+        "LensId": "/Game/Cinematics/girl008b_02_manifestation/sequence/girl008b_02_ma_show_stand02_Master.girl008b_02_ma_show_stand02_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl008b_02/Anim/manifestation/girl008b_02_ma_show_stand02.girl008b_02_ma_show_stand02",
+        "FaceID": "/Game/Characters/Girl/girl008b_02/AnimPart00/manifestation/girl008b_02_ma_show_stand02.girl008b_02_ma_show_stand02",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl008b_02_ma_show_stand02",
+        "HolyLight": [
+            [
+                704,
+                1,
+                "Bip001-Spine",
+                "uw_girlroom_peace"
+            ],
+            [
+                707,
+                1,
+                "Bip001-Spine",
+                "uw_girlroom_peace"
+            ]
+        ]
+    },
+    {
+        "Id": 10,
+        "StandbyId": [
+            6
+        ],
+        "LensId": "/Game/Cinematics/girl008b_02_manifestation/sequence/girl008b_02_ma_show_stand05_Master.girl008b_02_ma_show_stand05_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl008b_02/Anim/manifestation/girl008b_02_ma_show_stand05.girl008b_02_ma_show_stand05",
+        "FaceID": "/Game/Characters/Girl/girl008b_02/AnimPart00/manifestation/girl008b_02_ma_show_stand05.girl008b_02_ma_show_stand05",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl008b_02_ma_show_stand05",
+        "HolyLight": [
+            [
+                706,
+                1,
+                "Bip001-Spine",
+                "uw_girlroom_peace"
+            ]
+        ]
+    },
+    {
+        "Id": 11,
+        "StandbyId": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "LensId": "/Game/Cinematics/girl002b_02_manifestation/Sequence/girl002b_02_ma_standby_stand01_Master.girl002b_02_ma_standby_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl002b_02/Anim/manifestation/girl002b_02_ma_standby_stand01.girl002b_02_ma_standby_stand01",
+        "FaceID": "/Game/Characters/Girl/girl002b_02/AnimPart00/manifestation/girl002b_02_ma_standby_stand01.girl002b_02_ma_standby_stand01",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl002b_02_ma_standby_stand01"
+    },
+    {
+        "Id": 12,
+        "StandbyId": [
+            20
+        ],
+        "LensId": "/Game/Cinematics/girl008b_02_manifestation/sequence/girl008b_02_ma_show_stand01_Master.girl008b_02_ma_show_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl008b_02/Anim/manifestation/girl008b_02_ma_love_idle01.girl008b_02_ma_love_idle01",
+        "FaceID": "/Game/Characters/Girl/girl008b_02/AnimPart00/manifestation/girl008b_02_ma_show_stand05.girl008b_02_ma_show_stand05",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": [
+            1,
+            2
+        ],
+        "CharacterActor": "girl008b_02_ma_love_idle01"
+    },
+    {
+        "Id": 13,
+        "StandbyId": [
+            25,
+            23,
+            24
+        ],
+        "LensId": "/Game/Cinematics/girl008b_02_manifestation/sequence/girl008b_02_ma_show_stand01_Master.girl008b_02_ma_show_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl008b_02/Anim/manifestation/girl008b_02_ma_prop_idle01.girl008b_02_ma_prop_idle01",
+        "FaceID": "/Game/Characters/Girl/girl008b_02/AnimPart00/manifestation/girl008b_02_ma_show_stand05.girl008b_02_ma_show_stand05",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": [
+            2
+        ],
+        "CharacterActor": "girl008b_02_ma_prop_idle01"
+    },
+    {
+        "Id": 14,
+        "StandbyId": [
+            5
+        ],
+        "LensId": "/Game/Cinematics/girl002b_02_manifestation/sequence/girl002b_02_ma_show_stand01_Master.girl002b_02_ma_show_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl002b_02/Anim/manifestation/girl002b_02_ma_show_stand01.girl002b_02_ma_show_stand01",
+        "FaceID": "/Game/Characters/Girl/girl008b_02/AnimPart00/manifestation/girl008b_02_ma_show_stand01.girl008b_02_ma_show_stand01",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl002b_02_ma_show_stand01"
+    },
+    {
+        "Id": 15,
+        "StandbyId": [
+            6
+        ],
+        "LensId": "/Game/Cinematics/girl002b_02_manifestation/sequence/girl002b_02_ma_show_stand02_Master.girl002b_02_ma_show_stand02_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl002b_02/Anim/manifestation/girl002b_02_ma_show_stand02.girl002b_02_ma_show_stand02",
+        "FaceID": "/Game/Characters/Girl/girl008b_02/AnimPart00/manifestation/girl008b_02_ma_show_stand02.girl008b_02_ma_show_stand02",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl002b_02_ma_show_stand02",
+        "HolyLight": [
+            [
+                715,
+                1,
+                "Bone_body01",
+                "uw_girlroom_peace"
+            ],
+            [
+                717,
+                1,
+                "Bone_body01",
+                "uw_girlroom_peace"
+            ]
+        ]
+    },
+    {
+        "Id": 16,
+        "StandbyId": [
+            7
+        ],
+        "LensId": "/Game/Cinematics/girl002b_02_manifestation/sequence/girl002b_02_ma_show_stand03_Master.girl002b_02_ma_show_stand03_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl002b_02/Anim/manifestation/girl002b_02_ma_show_stand03.girl002b_02_ma_show_stand03",
+        "FaceID": "/Game/Characters/Girl/girl008b_02/AnimPart00/manifestation/girl008b_02_ma_show_stand05.girl008b_02_ma_show_stand05",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl002b_02_ma_show_stand03",
+        "HolyLight": [
+            [
+                707,
+                1,
+                "Bip001-Spine",
+                "uw_girlroom_peace"
+            ]
+        ]
+    },
+    {
+        "Id": 17,
+        "StandbyId": [
+            11
+        ],
+        "LensId": "/Game/Cinematics/girl002b_02_manifestation/sequence/girl002b_02_ma_show_stand01_Master.girl002b_02_ma_show_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl002b_02/Anim/manifestation/girl002b_02_ma_love_idle01.girl002b_02_ma_love_idle01",
+        "FaceID": "/Game/Characters/Girl/girl002b_02/AnimPart00/manifestation/girl002b_02_ma_show_stand05.girl002b_02_ma_show_stand05",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": [
+            1,
+            2
+        ],
+        "CharacterActor": "girl002b_02_ma_love_idle01"
+    },
+    {
+        "Id": 18,
+        "StandbyId": [
+            8,
+            9,
+            10
+        ],
+        "LensId": "/Game/Cinematics/girl002b_02_manifestation/sequence/girl002b_02_ma_show_stand01_Master.girl002b_02_ma_show_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl002b_02/Anim/manifestation/girl002b_02_ma_prop_idle01.girl002b_02_ma_prop_idle01",
+        "FaceID": "/Game/Characters/Girl/girl002b_02/AnimPart00/manifestation/girl002b_02_ma_show_stand05.girl002b_02_ma_show_stand05",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": [
+            2
+        ],
+        "CharacterActor": "girl002b_02_ma_prop_idle01"
+    },
+    {
+        "Id": 19,
+        "StandbyId": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "LensId": "/Game/Cinematics/girl015a_02_manifestation/Sequence/girl015a_02_ma_standby_stand01_Master.girl015a_02_ma_standby_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl015a_02/Anim/manifestation/girl015a_02_ma_standby_stand01.girl015a_02_ma_standby_stand01",
+        "FaceID": "/Game/Characters/Girl/girl015a_02/AnimPart00/manifestation/girl015a_02_ma_standby_stand01.girl015a_02_ma_standby_stand01",
+        "LensMode": [
+            1
+        ],
+        "LensMove": {
+            "12": 12
+        },
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": [
+            [
+                701,
+                100,
+                "uw_girlroom_touch"
+            ],
+            [
+                702,
+                100,
+                "uw_girlroom_touch",
+                30
+            ],
+            [
+                703,
+                100,
+                "uw_girlroom_touch"
+            ]
+        ],
+        "UiMouse": [
+            [
+                701,
+                "uw_girlroom_mouse"
+            ],
+            [
+                702,
+                "uw_girlroom_mouse",
+                30
+            ],
+            [
+                703,
+                "uw_girlroom_mouse"
+            ]
+        ],
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl015a_02_ma_standby_stand01"
+    },
+    {
+        "Id": 20,
+        "StandbyId": [
+            5
+        ],
+        "LensId": "/Game/Cinematics/girl015a_02_manifestation/Sequence/girl015a_02_ma_show_stand01_Master.girl015a_02_ma_show_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl015a_02/Anim/manifestation/girl015a_02_ma_show_stand01.girl015a_02_ma_show_stand01",
+        "FaceID": "/Game/Characters/Girl/girl015a_02/AnimPart00/manifestation/girl015a_02_ma_show_stand01.girl015a_02_ma_show_stand01",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": [
+            [
+                708,
+                15,
+                "uw_girlroom_touch"
+            ],
+            [
+                701,
+                100,
+                "uw_girlroom_touch"
+            ]
+        ],
+        "UiMouse": {
+            "708": "uw_girlroom_mouse",
+            "701": "uw_girlroom_mouse"
+        },
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl015a_02_ma_show_stand01",
+        "HolyLight": [
+            [
+                1101,
+                1,
+                "Bip001-Pelvis",
+                "uw_girlroom_peace"
+            ],
+            [
+                1108,
+                1,
+                "Bip001-Pelvis",
+                "uw_girlroom_peace"
+            ]
+        ]
+    },
+    {
+        "Id": 21,
+        "StandbyId": [
+            6
+        ],
+        "LensId": "/Game/Cinematics/girl015a_02_manifestation/Sequence/girl015a_02_ma_show_stand02_Master.girl015a_02_ma_show_stand02_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl015a_02/Anim/manifestation/girl015a_02_ma_show_stand01.girl015a_02_ma_show_stand02",
+        "FaceID": "/Game/Characters/Girl/girl015a_02/AnimPart00/manifestation/girl015a_02_ma_show_stand01.girl015a_02_ma_show_stand02",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": [
+            [
+                704,
+                14,
+                "uw_girlroom_touch"
+            ],
+            [
+                701,
+                100,
+                "uw_girlroom_touch"
+            ],
+            [
+                705,
+                14,
+                "uw_girlroom_touch"
+            ]
+        ],
+        "UiMouse": {
+            "704": "uw_girlroom_mouse",
+            "701": "uw_girlroom_mouse",
+            "705": "uw_girlroom_mouse"
+        },
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl015a_02_ma_show_stand02",
+        "HolyLight": [
+            [
+                1204,
+                1,
+                "Bip001-Pelvis",
+                "uw_girlroom_peace"
+            ],
+            [
+                1205,
+                1,
+                "Bip001-Pelvis",
+                "uw_girlroom_peace"
+            ]
+        ]
+    },
+    {
+        "Id": 22,
+        "StandbyId": [
+            7
+        ],
+        "LensId": "/Game/Cinematics/girl015a_02_manifestation/Sequence/girl015a_02_ma_show_stand03_Master.girl015a_02_ma_show_stand03_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl015a_02/Anim/manifestation/girl015a_02_ma_show_stand01.girl015a_02_ma_show_stand03",
+        "FaceID": "/Game/Characters/Girl/girl015a_02/AnimPart00/manifestation/girl015a_02_ma_show_stand01.girl015a_02_ma_show_stand03",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": [
+            [
+                704,
+                15,
+                "uw_girlroom_touch"
+            ],
+            [
+                701,
+                100,
+                "uw_girlroom_touch"
+            ],
+            [
+                705,
+                15,
+                "uw_girlroom_touch"
+            ]
+        ],
+        "UiMouse": {
+            "704": "uw_girlroom_mouse",
+            "701": "uw_girlroom_mouse",
+            "705": "uw_girlroom_mouse"
+        },
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl015a_02_ma_show_stand03",
+        "HolyLight": [
+            [
+                1304,
+                1,
+                "Bip001-Pelvis",
+                "uw_girlroom_peace"
+            ],
+            [
+                1305,
+                1,
+                "Bip001-Pelvis",
+                "uw_girlroom_peace"
+            ]
+        ]
+    },
+    {
+        "Id": 23,
+        "StandbyId": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "LensId": "/Game/Cinematics/girl005b_02_manifestation/Sequence/girl005b_02_ma_standby_stand01_Master.girl005b_02_ma_standby_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl005b_02/Anim/manifestation/girl005b_02_ma_standby_stand01.girl005b_02_ma_standby_stand01",
+        "FaceID": "/Game/Characters/Girl/girl005b_02/AnimPart00/manifestation/girl005b_02_ma_standby_stand01.girl005b_02_ma_standby_stand01",
+        "LensMode": [
+            1
+        ],
+        "LensMove": {
+            "6": 6,
+            "0": 0
+        },
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": [
+            [
+                701,
+                100,
+                "uw_girlroom_touch"
+            ],
+            [
+                702,
+                100,
+                "uw_girlroom_touch",
+                30
+            ],
+            [
+                703,
+                100,
+                "uw_girlroom_touch"
+            ]
+        ],
+        "UiMouse": [
+            [
+                701,
+                "uw_girlroom_mouse"
+            ],
+            [
+                702,
+                "uw_girlroom_mouse",
+                30
+            ],
+            [
+                703,
+                "uw_girlroom_mouse"
+            ]
+        ],
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl005b_02_ma_standby_stand01"
+    },
+    {
+        "Id": 24,
+        "StandbyId": [
+            5
+        ],
+        "LensId": "/Game/Cinematics/girl005b_02_manifestation/Sequence/girl005b_02_ma_show_stand01_Master.girl005b_02_ma_show_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl005b_02/Anim/manifestation/girl005b_02_ma_show_stand01.girl005b_02_ma_show_stand01",
+        "FaceID": "/Game/Characters/Girl/girl005b_02/AnimPart00/manifestation/girl005b_02_ma_show_stand01.girl005b_02_ma_show_stand01",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                2,
+                2
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                10
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": [
+            [
+                708,
+                15,
+                "uw_girlroom_touch"
+            ],
+            [
+                701,
+                100,
+                "uw_girlroom_touch"
+            ]
+        ],
+        "UiMouse": {
+            "708": "uw_girlroom_mouse",
+            "701": "uw_girlroom_mouse"
+        },
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl005b_02_ma_show_stand01"
+    },
+    {
+        "Id": 25,
+        "StandbyId": [
+            6
+        ],
+        "LensId": "/Game/Cinematics/girl005b_02_manifestation/Sequence/girl005b_02_ma_show_stand02_Master.girl005b_02_ma_show_stand02_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl005b_02/Anim/manifestation/girl005b_02_ma_show_stand01.girl005b_02_ma_show_stand02",
+        "FaceID": "/Game/Characters/Girl/girl005b_02/AnimPart00/manifestation/girl005b_02_ma_show_stand01.girl005b_02_ma_show_stand02",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": [
+            [
+                704,
+                14,
+                "uw_girlroom_touch"
+            ],
+            [
+                701,
+                100,
+                "uw_girlroom_touch"
+            ],
+            [
+                705,
+                14,
+                "uw_girlroom_touch"
+            ]
+        ],
+        "UiMouse": {
+            "704": "uw_girlroom_mouse",
+            "701": "uw_girlroom_mouse",
+            "705": "uw_girlroom_mouse"
+        },
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl005b_02_ma_show_stand02"
+    },
+    {
+        "Id": 26,
+        "StandbyId": [
+            7
+        ],
+        "LensId": "/Game/Cinematics/girl005b_02_manifestation/Sequence/girl005b_02_ma_show_stand03_Master.girl005b_02_ma_show_stand03_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl005b_02/Anim/manifestation/girl005b_02_ma_show_stand01.girl005b_02_ma_show_stand03",
+        "FaceID": "/Game/Characters/Girl/girl005b_02/AnimPart00/manifestation/girl005b_02_ma_show_stand01.girl005b_02_ma_show_stand03",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": [
+            [
+                704,
+                15,
+                "uw_girlroom_touch"
+            ],
+            [
+                701,
+                100,
+                "uw_girlroom_touch"
+            ],
+            [
+                705,
+                15,
+                "uw_girlroom_touch"
+            ]
+        ],
+        "UiMouse": {
+            "704": "uw_girlroom_mouse",
+            "701": "uw_girlroom_mouse",
+            "705": "uw_girlroom_mouse"
+        },
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl005b_02_ma_show_stand03"
+    },
+    {
+        "Id": 27,
+        "StandbyId": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "LensId": "/Game/Cinematics/girl014b_02_manifestation/Sequence/girl014b_02_ma_standby_stand01_Master.girl014b_02_ma_standby_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl014b_02/Anim/manifestation/girl014b_02_ma_standby_stand01.girl014b_02_ma_standby_stand01",
+        "FaceID": "/Game/Characters/Girl/girl014b_02/AnimPart00/manifestation/girl014b_02_ma_standby_stand01.girl014b_02_ma_standby_stand01",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl014b_02_ma_standby_stand01",
+        "HolyLight": "",
+        "StaticPixels_a": "",
+        "HideTipInGuide": 1
+    },
+    {
+        "Id": 28,
+        "StandbyId": [
+            5
+        ],
+        "LensId": "/Game/Cinematics/girl014b_02_manifestation/sequence/girl014b_02_ma_show_stand01_Master.girl014b_02_ma_show_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl014b_02/Anim/manifestation/girl014b_02_ma_show_stand01.girl014b_02_ma_show_stand01",
+        "FaceID": "/Game/Characters/Girl/girl014b_02/AnimPart00/manifestation/girl014b_02_ma_show_stand01.girl014b_02_ma_show_stand01",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl014b_02_ma_show_stand01",
+        "HolyLight": "",
+        "StaticPixels_a": "",
+        "HideTipInGuide": 1
+    },
+    {
+        "Id": 29,
+        "StandbyId": [
+            6
+        ],
+        "LensId": "/Game/Cinematics/girl014b_02_manifestation/sequence/girl014b_02_ma_show_stand02_Master.girl014b_02_ma_show_stand02_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl014b_02/Anim/manifestation/girl014b_02_ma_show_stand02.girl014b_02_ma_show_stand02",
+        "FaceID": "/Game/Characters/Girl/girl014b_02/AnimPart00/manifestation/girl014b_02_ma_show_stand02.girl014b_02_ma_show_stand02",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl014b_02_ma_show_stand02",
+        "HolyLight": [
+            [
+                715,
+                1,
+                "Bone_body01",
+                "uw_girlroom_peace"
+            ],
+            [
+                717,
+                1,
+                "Bone_body01",
+                "uw_girlroom_peace"
+            ]
+        ],
+        "StaticPixels_a": "",
+        "HideTipInGuide": 1
+    },
+    {
+        "Id": 30,
+        "StandbyId": [
+            7
+        ],
+        "LensId": "/Game/Cinematics/girl014b_02_manifestation/sequence/girl014b_02_ma_show_stand03_Master.girl014b_02_ma_show_stand03_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl014b_02/Anim/manifestation/girl014b_02_ma_show_stand03.girl014b_02_ma_show_stand03",
+        "FaceID": "/Game/Characters/Girl/girl014b_02/AnimPart00/manifestation/girl014b_02_ma_show_stand05.girl014b_02_ma_show_stand05",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl014b_02_ma_show_stand03",
+        "HolyLight": [
+            [
+                707,
+                1,
+                "Bip001-Spine",
+                "uw_girlroom_peace"
+            ]
+        ],
+        "StaticPixels_a": "",
+        "HideTipInGuide": 1
+    },
+    {
+        "Id": 31,
+        "StandbyId": [
+            11
+        ],
+        "LensId": "/Game/Cinematics/girl014b_02_manifestation/sequence/girl014b_02_ma_love_01_Master.girl014b_02_ma_love_01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl014b_02/Anim/manifestation/girl014b_02_ma_love_idle01.girl014b_02_ma_love_idle01",
+        "FaceID": "/Game/Characters/Girl/girl014b_02/AnimPart00/manifestation/girl014b_02_ma_show_stand05.girl014b_02_ma_show_stand05",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": [
+            1,
+            2
+        ],
+        "CharacterActor": "girl014b_02_ma_love_idle01",
+        "HolyLight": "",
+        "StaticPixels_a": "",
+        "HideTipInGuide": 1,
+        "ResetBGM": 1
+    },
+    {
+        "Id": 32,
+        "StandbyId": [
+            8,
+            9,
+            10
+        ],
+        "LensId": "/Game/Cinematics/girl014b_02_manifestation/sequence/girl014b_02_ma_prop_Master.girl014b_02_ma_prop_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl014b_02/Anim/manifestation/girl014b_02_ma_prop_idle01.girl014b_02_ma_prop_idle01",
+        "FaceID": "/Game/Characters/Girl/girl014b_02/AnimPart00/manifestation/girl014b_02_ma_show_stand05.girl014b_02_ma_show_stand05",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": [
+            2
+        ],
+        "CharacterActor": "girl014b_02_ma_prop_idle01",
+        "HolyLight": "",
+        "StaticPixels_a": "",
+        "HideTipInGuide": 1
+    },
+    {
+        "Id": 33,
+        "StandbyId": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "LensId": "/Game/Cinematics/girl010b_02_manifestation/Sequence/girl010b_02_ma_standby_stand01_Master.girl010b_02_ma_standby_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl010b_02/Anim/manifestation/girl010b_02_ma_standby_stand01.girl010b_02_ma_standby_stand01",
+        "FaceID": "/Game/Characters/Girl/girl010b_02/AnimPart00/manifestation/girl010b_02_ma_standby_stand01.girl010b_02_ma_standby_stand01",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                6,
+                6
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl010b_02_ma_standby_stand01"
+    },
+    {
+        "Id": 34,
+        "StandbyId": [
+            5
+        ],
+        "LensId": "/Game/Cinematics/girl010b_02_manifestation/sequence/girl010b_02_ma_show_stand01_Master.girl010b_02_ma_show_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl010b_02/Anim/manifestation/girl010b_02_ma_show_stand01.girl010b_02_ma_show_stand01",
+        "FaceID": "/Game/Characters/Girl/girl010b_02/AnimPart00/manifestation/girl010b_02_ma_show_stand01.girl010b_02_ma_show_stand01",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl010b_02_ma_show_stand01"
+    },
+    {
+        "Id": 35,
+        "StandbyId": [
+            6
+        ],
+        "LensId": "/Game/Cinematics/girl010b_02_manifestation/sequence/girl010b_02_ma_show_stand02_Master.girl010b_02_ma_show_stand02_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl010b_02/Anim/manifestation/girl010b_02_ma_show_stand02.girl010b_02_ma_show_stand02",
+        "FaceID": "/Game/Characters/Girl/girl010b_02/AnimPart00/manifestation/girl010b_02_ma_show_stand02.girl010b_02_ma_show_stand02",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl010b_02_ma_show_stand02",
+        "HolyLight": [
+            [
+                715,
+                1,
+                "Bone_body01",
+                "uw_girlroom_peace"
+            ],
+            [
+                717,
+                1,
+                "Bone_body01",
+                "uw_girlroom_peace"
+            ]
+        ]
+    },
+    {
+        "Id": 36,
+        "StandbyId": [
+            7
+        ],
+        "LensId": "/Game/Cinematics/girl010b_02_manifestation/sequence/girl010b_02_ma_show_stand03_Master.girl010b_02_ma_show_stand03_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl010b_02/Anim/manifestation/girl010b_02_ma_show_stand03.girl010b_02_ma_show_stand03",
+        "FaceID": "/Game/Characters/Girl/girl010b_02/AnimPart00/manifestation/girl010b_02_ma_show_stand05.girl010b_02_ma_show_stand05",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl010b_02_ma_show_stand03",
+        "HolyLight": [
+            [
+                707,
+                1,
+                "Bip001-Spine",
+                "uw_girlroom_peace"
+            ]
+        ]
+    },
+    {
+        "Id": 37,
+        "StandbyId": [
+            11
+        ],
+        "LensId": "/Game/Cinematics/girl010b_02_manifestation/sequence/girl010b_02_ma_show_stand01_Master.girl010b_02_ma_show_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl010b_02/Anim/manifestation/girl010b_02_ma_love_idle01.girl010b_02_ma_love_idle01",
+        "FaceID": "/Game/Characters/Girl/girl010b_02/AnimPart00/manifestation/girl010b_02_ma_show_stand05.girl010b_02_ma_show_stand05",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": [
+            1,
+            2
+        ],
+        "CharacterActor": "girl010b_02_ma_love_idle01"
+    },
+    {
+        "Id": 38,
+        "StandbyId": [
+            8,
+            9,
+            10
+        ],
+        "LensId": "/Game/Cinematics/girl010b_02_manifestation/sequence/girl010b_02_ma_show_stand01_Master.girl010b_02_ma_show_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl010b_02/Anim/manifestation/girl010b_02_ma_prop_idle01.girl010b_02_ma_prop_idle01",
+        "FaceID": "/Game/Characters/Girl/girl010b_02/AnimPart00/manifestation/girl010b_02_ma_show_stand05.girl010b_02_ma_show_stand05",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": "",
+        "UiMouse": "",
+        "UiDelay": "",
+        "FunctionButtons": [
+            2
+        ],
+        "CharacterActor": "girl010b_02_ma_prop_idle01"
+    },
+    {
+        "Id": 39,
+        "StandbyId": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "LensId": "/Game/Cinematics/girl003a_02_manifestation/Sequence/girl003a_02_ma_standby_stand01_Master.girl003a_02_ma_standby_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl003a_02/Anim/manifestation/girl003a_02_ma_standby_stand01.girl003a_02_ma_standby_stand01",
+        "FaceID": "/Game/Characters/Girl/girl003a_02/AnimPart00/manifestation/girl003a_02_ma_standby_stand01.girl003a_02_ma_standby_stand01",
+        "LensMode": [
+            1
+        ],
+        "LensMove": {
+            "6": 6,
+            "0": 0
+        },
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": [
+            [
+                701,
+                100,
+                "uw_girlroom_touch"
+            ],
+            [
+                702,
+                100,
+                "uw_girlroom_touch",
+                30
+            ],
+            [
+                703,
+                100,
+                "uw_girlroom_touch"
+            ]
+        ],
+        "UiMouse": [
+            [
+                701,
+                "uw_girlroom_mouse"
+            ],
+            [
+                702,
+                "uw_girlroom_mouse",
+                30
+            ],
+            [
+                703,
+                "uw_girlroom_mouse"
+            ]
+        ],
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl003a_02_ma_standby_stand01"
+    },
+    {
+        "Id": 40,
+        "StandbyId": [
+            5
+        ],
+        "LensId": "/Game/Cinematics/girl003a_02_manifestation/Sequence/girl003a_02_ma_show_stand01_Master.girl003a_02_ma_show_stand01_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl003a_02/Anim/manifestation/girl003a_02_ma_show_stand01.girl003a_02_ma_show_stand01",
+        "FaceID": "/Game/Characters/Girl/girl003a_02/AnimPart00/manifestation/girl003a_02_ma_show_stand01.girl003a_02_ma_show_stand01",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                2,
+                2
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                10
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": [
+            [
+                708,
+                15,
+                "uw_girlroom_touch"
+            ],
+            [
+                701,
+                100,
+                "uw_girlroom_touch"
+            ]
+        ],
+        "UiMouse": {
+            "708": "uw_girlroom_mouse",
+            "701": "uw_girlroom_mouse"
+        },
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl003a_02_ma_show_stand01"
+    },
+    {
+        "Id": 41,
+        "StandbyId": [
+            6
+        ],
+        "LensId": "/Game/Cinematics/girl003a_02_manifestation/Sequence/girl003a_02_ma_show_stand02_Master.girl003a_02_ma_show_stand02_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl003a_02/Anim/manifestation/girl003a_02_ma_show_stand01.girl003a_02_ma_show_stand02",
+        "FaceID": "/Game/Characters/Girl/girl003a_02/AnimPart00/manifestation/girl003a_02_ma_show_stand01.girl003a_02_ma_show_stand02",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                10,
+                75
+            ],
+            [
+                60,
+                10,
+                2
+            ],
+            [
+                130,
+                "Ma_Girl003a_01_distance"
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl003a_02_sequence01_sd_01",
+            "Ma_Girl003a_02_sequence01_sd_01"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": [
+            [
+                704,
+                14,
+                "uw_girlroom_touch"
+            ],
+            [
+                701,
+                100,
+                "uw_girlroom_touch"
+            ],
+            [
+                705,
+                14,
+                "uw_girlroom_touch"
+            ]
+        ],
+        "UiMouse": {
+            "704": "uw_girlroom_mouse",
+            "701": "uw_girlroom_mouse",
+            "705": "uw_girlroom_mouse"
+        },
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl003a_02_ma_show_stand02"
+    },
+    {
+        "Id": 42,
+        "StandbyId": [
+            7
+        ],
+        "LensId": "/Game/Cinematics/girl003a_02_manifestation/Sequence/girl003a_02_ma_show_stand03_Master.girl003a_02_ma_show_stand03_Master",
+        "LoopId": "",
+        "StandID": "/Game/Characters/Girl/girl003a_02/Anim/manifestation/girl003a_02_ma_show_stand01.girl003a_02_ma_show_stand03",
+        "FaceID": "/Game/Characters/Girl/girl003a_02/AnimPart00/manifestation/girl003a_02_ma_show_stand01.girl003a_02_ma_show_stand03",
+        "LensMode": [
+            2
+        ],
+        "LensMove": [
+            [
+                12,
+                12
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                100
+            ]
+        ],
+        "LensMoveCurve": [
+            "Ma_Girl011a_02_sequence01_zn_01",
+            "Ma_Girl011a_02_sequence01_zn_02"
+        ],
+        "SpeedMoveCurve": [
+            "Ma_Girl011a_02_sequence01_sd_01",
+            "Ma_Girl011a_02_sequence01_sd_02"
+        ],
+        "ResilienceCurve": [
+            [
+                "Ma_Girl011a_02_sequence01_htjl_01",
+                "Ma_Girl011a_02_sequence01_htsd_01",
+                "Ma_Girl011a_02_sequence01_htsj_01"
+            ],
+            [
+                "Ma_Girl011a_02_sequence01_htjl_02",
+                "Ma_Girl011a_02_sequence01_htsd_02",
+                "Ma_Girl011a_02_sequence01_htsj_02"
+            ]
+        ],
+        "UiBox": [
+            [
+                704,
+                15,
+                "uw_girlroom_touch"
+            ],
+            [
+                701,
+                100,
+                "uw_girlroom_touch"
+            ],
+            [
+                705,
+                15,
+                "uw_girlroom_touch"
+            ]
+        ],
+        "UiMouse": {
+            "704": "uw_girlroom_mouse",
+            "701": "uw_girlroom_mouse",
+            "705": "uw_girlroom_mouse"
+        },
+        "UiDelay": "",
+        "FunctionButtons": "",
+        "CharacterActor": "girl003a_02_ma_show_stand03"
+    }
+]

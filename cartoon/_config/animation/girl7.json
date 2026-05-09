@@ -1,0 +1,236 @@
+[
+    {
+        "Id": 1,
+        "Explain": "宿舍站",
+        "Type": "sequence",
+        "Name": "girl007_01_house_stand01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_stand01.girl007_01_house_stand01'"
+    },
+    {
+        "Id": 2,
+        "Explain": "宿舍靠站",
+        "Type": "sequence",
+        "Name": "girl007_01_house_lean_stand01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_lean_stand01.girl007_01_house_lean_stand01'"
+    },
+    {
+        "Id": 3,
+        "Explain": "宿舍站说话",
+        "Type": "sequence",
+        "Name": "girl007_01_house_talk01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_talk01.girl007_01_house_talk01'"
+    },
+    {
+        "Id": 4,
+        "Explain": "坐沉思",
+        "Type": "sequence",
+        "Name": "girl007_01_house_bed_sit01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_bed_sit01.girl007_01_house_bed_sit01'"
+    },
+    {
+        "Id": 5,
+        "Explain": "坐喝咖啡",
+        "Type": "sequence",
+        "Name": "girl007_01_house_stool_idle01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_stool_idle01.girl007_01_house_stool_idle01'"
+    },
+    {
+        "Id": 6,
+        "Explain": "吧台椅子坐循环",
+        "Type": "sequence",
+        "Name": "girl007_01_house_stool_sit01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_stool_sit01.girl007_01_house_stool_sit01'"
+    },
+    {
+        "Id": 7,
+        "Explain": "侧卧睡觉",
+        "Type": "sequence",
+        "Name": "girl007_01_house_bed_sleep01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_bed_sleep01.girl007_01_house_bed_sleep01'"
+    },
+    {
+        "Id": 8,
+        "Explain": "椅子坐循环",
+        "Type": "sequence",
+        "Name": "girl007_01_house_sofa_sit01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_sofa_sit01.girl007_01_house_sofa_sit01'"
+    },
+    {
+        "Id": 9,
+        "Explain": "下厨试味",
+        "Type": "sequence",
+        "Name": "girl007_01_house_cook_idle01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_cook_idle01.girl007_01_house_cook_idle01'"
+    },
+    {
+        "Id": 10,
+        "Explain": "下厨爆炸",
+        "Type": "sequence",
+        "Name": "girl007_01_house_cook_idle02",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_cook_idle02.girl007_01_house_cook_idle02'"
+    },
+    {
+        "Id": 11,
+        "Explain": "下厨循环",
+        "Type": "sequence",
+        "Name": "girl007_01_house_cook_stand01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_cook_stand01.girl007_01_house_cook_stand01'"
+    },
+    {
+        "Id": 12,
+        "Explain": "斜卧睡觉循环",
+        "Type": "sequence",
+        "Name": "girl007_01_house_dollsleep_stand01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_dollsleep_stand01.girl007_01_house_dollsleep_stand01'"
+    },
+    {
+        "Id": 13,
+        "Explain": "斜卧睡觉醒来",
+        "Type": "sequence",
+        "Name": "girl007_01_house_dollsleep_idle01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_dollsleep_idle01.girl007_01_house_dollsleep_idle01'"
+    },
+    {
+        "Id": 14,
+        "Explain": "戳手害羞感谢",
+        "Type": "sequence",
+        "Name": "girl007_01_house_thank01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_thank01.girl007_01_house_thank01'"
+    },
+    {
+        "Id": 15,
+        "Explain": "抱胸",
+        "Type": "sequence",
+        "Name": "girl007_01_house_dialogue_armshug",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_dialogue_armshug.girl007_01_house_dialogue_armshug'"
+    },
+    {
+        "Id": 16,
+        "Explain": "思考-前",
+        "Type": "sequence",
+        "Name": "girl007_01_house_dialogue_think_strat",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_dialogue_think_strat.girl007_01_house_dialogue_think_strat'"
+    },
+    {
+        "Id": 17,
+        "Explain": "思考-循环",
+        "Type": "sequence",
+        "Name": "girl007_01_house_dialogue_think_loop",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_dialogue_think_loop.girl007_01_house_dialogue_think_loop'"
+    },
+    {
+        "Id": 18,
+        "Explain": "思考-后",
+        "Type": "sequence",
+        "Name": "girl007_01_house_dialogue_think_end",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_dialogue_think_end.girl007_01_house_dialogue_think_end'"
+    },
+    {
+        "Id": 19,
+        "Explain": "积极",
+        "Type": "sequence",
+        "Name": "girl007_01_house_dialogue_satisfy",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_dialogue_satisfy.girl007_01_house_dialogue_satisfy'"
+    },
+    {
+        "Id": 20,
+        "Explain": "惊讶",
+        "Type": "sequence",
+        "Name": "girl007_01_house_dialogue_amaze",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_dialogue_amaze.girl007_01_house_dialogue_amaze'"
+    },
+    {
+        "Id": 21,
+        "Explain": "打招呼",
+        "Type": "sequence",
+        "Name": "girl007_01_house_dialogue_greet",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_dialogue_greet.girl007_01_house_dialogue_greet'"
+    },
+    {
+        "Id": 22,
+        "Explain": "肯定",
+        "Type": "sequence",
+        "Name": "girl007_01_house_dialogue_sure",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_dialogue_sure.girl007_01_house_dialogue_sure'"
+    },
+    {
+        "Id": 23,
+        "Explain": "否定",
+        "Type": "sequence",
+        "Name": "girl007_01_house_dialogue_deny",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_dialogue_deny.girl007_01_house_dialogue_deny'"
+    },
+    {
+        "Id": 24,
+        "Explain": "床上坐",
+        "Type": "sequence",
+        "Name": "girl007_01_house_bed_sit01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_bed_sit01.girl007_01_house_bed_sit01'"
+    },
+    {
+        "Id": 25,
+        "Explain": "兴奋-前",
+        "Type": "sequence",
+        "Name": "girl007_01_house_dialogue_satisfy02_start",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_dialogue_satisfy02_start.girl007_01_house_dialogue_satisfy02_start'"
+    },
+    {
+        "Id": 26,
+        "Explain": "兴奋-循环",
+        "Type": "sequence",
+        "Name": "girl007_01_house_dialogue_satisfy02_loop",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_dialogue_satisfy02_loop.girl007_01_house_dialogue_satisfy02_loop'"
+    },
+    {
+        "Id": 27,
+        "Explain": "兴奋-后",
+        "Type": "sequence",
+        "Name": "girl007_01_house_dialogue_satisfy02_end",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_dialogue_satisfy02_end.girl007_01_house_dialogue_satisfy02_end'"
+    },
+    {
+        "Id": 97,
+        "Explain": "左转",
+        "Type": "sequence",
+        "Name": "girl007_01_house_dialogue_turn_L",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_dialogue_turn_L.girl007_01_house_dialogue_turn_L'"
+    },
+    {
+        "Id": 98,
+        "Explain": "右转",
+        "Type": "sequence",
+        "Name": "girl007_01_house_dialogue_turn_R",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_dialogue_turn_R.girl007_01_house_dialogue_turn_R'"
+    },
+    {
+        "Id": 99,
+        "Explain": "呼吸叠加素材",
+        "Type": "sequence",
+        "Name": "girl007_01_house_dialogue_Tpose",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007_01/Anim/house/girl007_01_house_dialogue_Tpose.girl007_01_house_dialogue_Tpose'"
+    },
+    {
+        "Id": 100,
+        "Explain": "一次思考",
+        "Type": "custom_seq",
+        "Name": "16;17;18"
+    },
+    {
+        "Id": 101,
+        "Explain": "思考循环",
+        "Type": "custom_loop_last",
+        "Name": "16;17"
+    },
+    {
+        "Id": 102,
+        "Explain": "一次兴奋",
+        "Type": "custom_seq",
+        "Name": "25;26;27"
+    },
+    {
+        "Id": 103,
+        "Explain": "兴奋循环",
+        "Type": "custom_loop_last",
+        "Name": "25;26"
+    }
+]

@@ -1,0 +1,686 @@
+[
+    {
+        "ID": 1,
+        "CellId": 1,
+        "CellQuality": 1,
+        "RewardType": 2,
+        "CoinNum": "",
+        "ItemId": [
+            2,
+            1
+        ],
+        "BuffBox": "",
+        "Weight1": 500,
+        "Weight2": 500,
+        "Weight3": 500
+    },
+    {
+        "ID": 1,
+        "CellId": 2,
+        "CellQuality": 2,
+        "RewardType": 3,
+        "CoinNum": "",
+        "ItemId": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                3,
+                3
+            ]
+        ],
+        "Weight1": 445,
+        "Weight2": 445,
+        "Weight3": 500
+    },
+    {
+        "ID": 1,
+        "CellId": 3,
+        "CellQuality": 4,
+        "RewardType": 3,
+        "CoinNum": "",
+        "ItemId": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                5,
+                5
+            ]
+        ],
+        "Weight1": 5,
+        "Weight2": 10,
+        "Weight3": 15
+    },
+    {
+        "ID": 1,
+        "CellId": 4,
+        "CellQuality": 3,
+        "RewardType": 1,
+        "CoinNum": 300,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 100,
+        "Weight2": 150,
+        "Weight3": 200
+    },
+    {
+        "ID": 1,
+        "CellId": 5,
+        "CellQuality": 2,
+        "RewardType": 1,
+        "CoinNum": 100,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 300,
+        "Weight2": 300,
+        "Weight3": 300
+    },
+    {
+        "ID": 1,
+        "CellId": 6,
+        "CellQuality": 1,
+        "RewardType": 3,
+        "CoinNum": "",
+        "ItemId": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                2,
+                2
+            ]
+        ],
+        "Weight1": 500,
+        "Weight2": 445,
+        "Weight3": 335
+    },
+    {
+        "ID": 1,
+        "CellId": 7,
+        "CellQuality": 1,
+        "RewardType": 1,
+        "CoinNum": 30,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 1600,
+        "Weight2": 1700,
+        "Weight3": 1750
+    },
+    {
+        "ID": 1,
+        "CellId": 8,
+        "CellQuality": 3,
+        "RewardType": 3,
+        "CoinNum": "",
+        "ItemId": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                4,
+                4
+            ]
+        ],
+        "Weight1": 50,
+        "Weight2": 100,
+        "Weight3": 150
+    },
+    {
+        "ID": 1,
+        "CellId": 9,
+        "CellQuality": 4,
+        "RewardType": 1,
+        "CoinNum": 500,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 25,
+        "Weight2": 40,
+        "Weight3": 50
+    },
+    {
+        "ID": 1,
+        "CellId": 10,
+        "CellQuality": 2,
+        "RewardType": 1,
+        "CoinNum": 50,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 700,
+        "Weight2": 700,
+        "Weight3": 700
+    },
+    {
+        "ID": 1,
+        "CellId": 11,
+        "CellQuality": 1,
+        "RewardType": 1,
+        "CoinNum": 10,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 600,
+        "Weight2": 575,
+        "Weight3": 550
+    },
+    {
+        "ID": 1,
+        "CellId": 12,
+        "CellQuality": 1,
+        "RewardType": 2,
+        "CoinNum": "",
+        "ItemId": [
+            3,
+            1
+        ],
+        "BuffBox": "",
+        "Weight1": 500,
+        "Weight2": 500,
+        "Weight3": 500
+    },
+    {
+        "ID": 1,
+        "CellId": 13,
+        "CellQuality": 2,
+        "RewardType": 3,
+        "CoinNum": "",
+        "ItemId": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                3,
+                3
+            ]
+        ],
+        "Weight1": 445,
+        "Weight2": 445,
+        "Weight3": 500
+    },
+    {
+        "ID": 1,
+        "CellId": 14,
+        "CellQuality": 4,
+        "RewardType": 3,
+        "CoinNum": "",
+        "ItemId": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                5,
+                5
+            ]
+        ],
+        "Weight1": 5,
+        "Weight2": 10,
+        "Weight3": 15
+    },
+    {
+        "ID": 1,
+        "CellId": 15,
+        "CellQuality": 3,
+        "RewardType": 1,
+        "CoinNum": 200,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 250,
+        "Weight2": 270,
+        "Weight3": 350
+    },
+    {
+        "ID": 1,
+        "CellId": 16,
+        "CellQuality": 2,
+        "RewardType": 1,
+        "CoinNum": 100,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 300,
+        "Weight2": 300,
+        "Weight3": 300
+    },
+    {
+        "ID": 1,
+        "CellId": 17,
+        "CellQuality": 1,
+        "RewardType": 3,
+        "CoinNum": "",
+        "ItemId": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                2,
+                2
+            ]
+        ],
+        "Weight1": 500,
+        "Weight2": 445,
+        "Weight3": 335
+    },
+    {
+        "ID": 1,
+        "CellId": 18,
+        "CellQuality": 1,
+        "RewardType": 1,
+        "CoinNum": 20,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 1800,
+        "Weight2": 1650,
+        "Weight3": 1500
+    },
+    {
+        "ID": 1,
+        "CellId": 19,
+        "CellQuality": 3,
+        "RewardType": 3,
+        "CoinNum": "",
+        "ItemId": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                4,
+                4
+            ]
+        ],
+        "Weight1": 50,
+        "Weight2": 100,
+        "Weight3": 150
+    },
+    {
+        "ID": 1,
+        "CellId": 20,
+        "CellQuality": 4,
+        "RewardType": 1,
+        "CoinNum": 500,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 25,
+        "Weight2": 40,
+        "Weight3": 50
+    },
+    {
+        "ID": 1,
+        "CellId": 21,
+        "CellQuality": 2,
+        "RewardType": 1,
+        "CoinNum": 50,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 700,
+        "Weight2": 700,
+        "Weight3": 700
+    },
+    {
+        "ID": 1,
+        "CellId": 22,
+        "CellQuality": 1,
+        "RewardType": 1,
+        "CoinNum": 10,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 600,
+        "Weight2": 575,
+        "Weight3": 550
+    },
+    {
+        "ID": 2,
+        "CellId": 1,
+        "CellQuality": 2,
+        "RewardType": 3,
+        "CoinNum": "",
+        "ItemId": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                3,
+                3
+            ]
+        ],
+        "Weight1": 700,
+        "Weight2": 600,
+        "Weight3": 500
+    },
+    {
+        "ID": 2,
+        "CellId": 2,
+        "CellQuality": 3,
+        "RewardType": 1,
+        "CoinNum": 200,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 350,
+        "Weight2": 350,
+        "Weight3": 375
+    },
+    {
+        "ID": 2,
+        "CellId": 3,
+        "CellQuality": 4,
+        "RewardType": 1,
+        "CoinNum": 1000,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 50,
+        "Weight2": 50,
+        "Weight3": 100
+    },
+    {
+        "ID": 2,
+        "CellId": 4,
+        "CellQuality": 3,
+        "RewardType": 1,
+        "CoinNum": 300,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 200,
+        "Weight2": 225,
+        "Weight3": 250
+    },
+    {
+        "ID": 2,
+        "CellId": 5,
+        "CellQuality": 2,
+        "RewardType": 1,
+        "CoinNum": 50,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 1500,
+        "Weight2": 1500,
+        "Weight3": 1500
+    },
+    {
+        "ID": 2,
+        "CellId": 6,
+        "CellQuality": 1,
+        "RewardType": 2,
+        "CoinNum": "",
+        "ItemId": [
+            5,
+            1
+        ],
+        "BuffBox": "",
+        "Weight1": 500,
+        "Weight2": 500,
+        "Weight3": 500
+    },
+    {
+        "ID": 2,
+        "CellId": 7,
+        "CellQuality": 4,
+        "RewardType": 3,
+        "CoinNum": "",
+        "ItemId": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                5,
+                5
+            ]
+        ],
+        "Weight1": 25,
+        "Weight2": 50,
+        "Weight3": 75
+    },
+    {
+        "ID": 2,
+        "CellId": 8,
+        "CellQuality": 3,
+        "RewardType": 3,
+        "CoinNum": "",
+        "ItemId": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                4,
+                4
+            ]
+        ],
+        "Weight1": 250,
+        "Weight2": 275,
+        "Weight3": 300
+    },
+    {
+        "ID": 2,
+        "CellId": 9,
+        "CellQuality": 3,
+        "RewardType": 3,
+        "CoinNum": "",
+        "ItemId": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                4,
+                4
+            ]
+        ],
+        "Weight1": 250,
+        "Weight2": 275,
+        "Weight3": 300
+    },
+    {
+        "ID": 2,
+        "CellId": 10,
+        "CellQuality": 4,
+        "RewardType": 3,
+        "CoinNum": "",
+        "ItemId": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                5,
+                5
+            ]
+        ],
+        "Weight1": 25,
+        "Weight2": 50,
+        "Weight3": 75
+    },
+    {
+        "ID": 2,
+        "CellId": 11,
+        "CellQuality": 1,
+        "RewardType": 1,
+        "CoinNum": 30,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 1300,
+        "Weight2": 1250,
+        "Weight3": 1200
+    },
+    {
+        "ID": 2,
+        "CellId": 12,
+        "CellQuality": 2,
+        "RewardType": 3,
+        "CoinNum": "",
+        "ItemId": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                3,
+                3
+            ]
+        ],
+        "Weight1": 700,
+        "Weight2": 600,
+        "Weight3": 500
+    },
+    {
+        "ID": 2,
+        "CellId": 13,
+        "CellQuality": 3,
+        "RewardType": 1,
+        "CoinNum": 200,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 350,
+        "Weight2": 350,
+        "Weight3": 375
+    },
+    {
+        "ID": 2,
+        "CellId": 14,
+        "CellQuality": 4,
+        "RewardType": 1,
+        "CoinNum": 500,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 200,
+        "Weight2": 250,
+        "Weight3": 250
+    },
+    {
+        "ID": 2,
+        "CellId": 15,
+        "CellQuality": 3,
+        "RewardType": 1,
+        "CoinNum": 300,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 200,
+        "Weight2": 225,
+        "Weight3": 250
+    },
+    {
+        "ID": 2,
+        "CellId": 16,
+        "CellQuality": 2,
+        "RewardType": 1,
+        "CoinNum": 100,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 1500,
+        "Weight2": 1500,
+        "Weight3": 1500
+    },
+    {
+        "ID": 2,
+        "CellId": 17,
+        "CellQuality": 1,
+        "RewardType": 2,
+        "CoinNum": "",
+        "ItemId": [
+            6,
+            1
+        ],
+        "BuffBox": "",
+        "Weight1": 500,
+        "Weight2": 500,
+        "Weight3": 500
+    },
+    {
+        "ID": 2,
+        "CellId": 18,
+        "CellQuality": 4,
+        "RewardType": 3,
+        "CoinNum": "",
+        "ItemId": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                5,
+                5
+            ]
+        ],
+        "Weight1": 25,
+        "Weight2": 50,
+        "Weight3": 75
+    },
+    {
+        "ID": 2,
+        "CellId": 19,
+        "CellQuality": 3,
+        "RewardType": 3,
+        "CoinNum": "",
+        "ItemId": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                4,
+                4
+            ]
+        ],
+        "Weight1": 250,
+        "Weight2": 275,
+        "Weight3": 300
+    },
+    {
+        "ID": 2,
+        "CellId": 20,
+        "CellQuality": 3,
+        "RewardType": 3,
+        "CoinNum": "",
+        "ItemId": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                4,
+                4
+            ]
+        ],
+        "Weight1": 250,
+        "Weight2": 275,
+        "Weight3": 300
+    },
+    {
+        "ID": 2,
+        "CellId": 21,
+        "CellQuality": 4,
+        "RewardType": 3,
+        "CoinNum": "",
+        "ItemId": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                5,
+                5
+            ]
+        ],
+        "Weight1": 25,
+        "Weight2": 50,
+        "Weight3": 75
+    },
+    {
+        "ID": 2,
+        "CellId": 22,
+        "CellQuality": 1,
+        "RewardType": 1,
+        "CoinNum": 20,
+        "ItemId": "",
+        "BuffBox": "",
+        "Weight1": 850,
+        "Weight2": 800,
+        "Weight3": 700
+    }
+]

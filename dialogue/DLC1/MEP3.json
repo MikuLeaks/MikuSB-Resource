@@ -1,0 +1,552 @@
+[
+    {
+        "Key": 1,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "青鸟倏地飞起，化作仓尧的模样。",
+        "disable": 0
+    },
+    {
+        "Key": 2,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "赭毫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "发生什么事了，主管？",
+        "disable": 0
+    },
+    {
+        "Key": 3,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "仓尧",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "会场多处爆发骚乱，我已经派人去处理。",
+        "disable": 0
+    },
+    {
+        "Key": 4,
+        "Flag": "",
+        "Pos": 1,
+        "Speaker": "玄铠",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "是那群伪装者干的，还是又有机器人失控？",
+        "disable": 0
+    },
+    {
+        "Key": 5,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "仓尧",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不，都是些来参加庆典的平民。",
+        "disable": 0
+    },
+    {
+        "Key": 6,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "赭毫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "平民，为什么？",
+        "disable": 0
+    },
+    {
+        "Key": 7,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "辰星",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "…………",
+        "disable": 0
+    },
+    {
+        "Key": 8,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "辰星",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "（分析员方才在通讯中说，瑟瑞斯和他们失去了联系。）",
+        "disable": 0
+    },
+    {
+        "Key": 9,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "辰星",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "（就算是海姆达尔部队，也不能轻易对平民出手，若是遇上骚乱，那她……）",
+        "disable": 0
+    },
+    {
+        "Key": 10,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "仓尧",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "姬辰星小姐？",
+        "disable": 0
+    },
+    {
+        "Key": 11,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "辰星",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我没事，请继续。",
+        "disable": 0
+    },
+    {
+        "Key": 12,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "仓尧",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "有人慌不择路，进入了运输路线，那里恐怕不再安全。",
+        "disable": 0
+    },
+    {
+        "Key": 13,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "辰星",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这是你们该解决的问题。",
+        "disable": 0
+    },
+    {
+        "Key": 14,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "仓尧",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "抱歉，看来赭毫他们没有告知清楚。",
+        "disable": 0
+    },
+    {
+        "Key": 15,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "仓尧",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我们还有另外一条轨道运输系统，可以按时将货送到目的地。",
+        "disable": 0
+    },
+    {
+        "Key": 16,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "仓尧",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不过轨道运输只能运货，姬辰星小姐需要另行前往。",
+        "disable": 0
+    },
+    {
+        "Key": 17,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "仓尧",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "只要能在燃灯仪式开始时到达燃灯台，确认东西送达收件人手上，你作为代理人的任务便也算完成了。",
+        "disable": 0
+    },
+    {
+        "Key": 18,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "仓尧",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "当然，如何抉择，由你来定。",
+        "disable": 0
+    },
+    {
+        "Key": 191.0,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "辰星没有犹豫太久便采纳了仓尧的提议，对于这中间会有什么隐患，她并没有思考太多。她清楚地知道比起完成任务，这一次私心占了上风。",
+        "disable": 0
+    },
+    {
+        "Key": 20,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她坚定地转身，迈出了脚步。",
+        "disable": 0
+    },
+    {
+        "Key": 21,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "起码在这一点有限的时间里，她可以依照自己的心意行动。",
+        "disable": 0
+    },
+    {
+        "Key": 22,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "仓尧",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "赭毫，玄铠。你们也跟上去吧，不要怠慢我们的代理人小姐。",
+        "disable": 0
+    },
+    {
+        "Key": 23,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "仓尧",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "顺便，把麻烦解决掉。",
+        "disable": 0
+    },
+    {
+        "Key": 24,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "赭毫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你这算盘打得可真响啊。",
+        "disable": 0
+    },
+    {
+        "Key": 25,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "仓尧",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "是代理人自己选择改变执行方案，之后若出了问题，泰古通达无需负责。",
+        "disable": 0
+    },
+    {
+        "Key": 26,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "赭毫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你怎么知道她会听取你的建议？",
+        "disable": 0
+    },
+    {
+        "Key": 27,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "仓尧",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "作为分部主管，要看清客户的真正诉求。你要想成为我的副手，要学的还有很多。",
+        "disable": 0
+    },
+    {
+        "Key": 28,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "赭毫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "那你是不是早就料到会发生这些？",
+        "disable": 0
+    },
+    {
+        "Key": 29,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "仓尧",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "哎呀呀……不可说，不可说。",
+        "disable": 0
+    },
+    {
+        "Key": 30,
+        "Flag": "",
+        "Pos": 1,
+        "Speaker": "玄铠",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "哼，老夫就是看不惯你们这些弯弯绕绕。再不跟上，人就要走没影了！",
+        "disable": 0
+    },
+    {
+        "Key": 31,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "赭毫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "呼呼……可算是追上你了！",
+        "disable": 0
+    },
+    {
+        "Key": 32,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "辰星",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "既然货物无需护送，那就不劳烦二位了。",
+        "disable": 0
+    },
+    {
+        "Key": 33,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "赭毫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "现在会场内乱成一团，有我们跟着能帮你省掉很多麻烦。",
+        "disable": 0
+    },
+    {
+        "Key": 34,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "赭毫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "还有这个，喏，没了这只“青鸟”，就无法使用仓尧的授权，那些“捷径”也就走不了啦。",
+        "disable": 0
+    },
+    {
+        "Key": 35,
+        "Flag": "",
+        "Pos": 1,
+        "Speaker": "玄铠",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "距离燃灯仪式还有一段时间，丫头，你现在有什么打算？",
+        "disable": 0
+    },
+    {
+        "Key": 36,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "辰星",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我打算深入会场，往燃灯台方向行进。",
+        "disable": 0
+    },
+    {
+        "Key": 37,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "辰星",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我有一位朋友，暂时失去联系，我猜她应该也在往那边走，我想确认一下她的安危。",
+        "disable": 0
+    },
+    {
+        "Key": 38,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "辰星的视线仿佛穿透了层层楼宇的遮蔽，看向燃灯台。",
+        "disable": 0
+    },
+    {
+        "Key": 39,
+        "Flag": "",
+        "Pos": 1,
+        "Speaker": "玄铠",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "朋友啊……",
+        "disable": 0
+    },
+    {
+        "Key": 40,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "瑟瑞斯",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员给的这个巡逻路线图我怎么看不懂，刚刚不是来过吗。哎，人好多，挤得我都看不清路了。",
+        "disable": 0
+    },
+    {
+        "Key": 41,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "瑟瑞斯",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "上次人这么多还是上次——",
+        "disable": 0
+    },
+    {
+        "Key": 42,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "主持人",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "现在比赛已经到了焦灼的阶段！芬妮选手主动发起了进——",
+        "disable": 0
+    },
+    {
+        "Key": 43,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "瑟瑞斯",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "（比赛？什么比赛……我怎么在这里。）",
+        "disable": 0
+    },
+    {
+        "Key": 44,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "瑟瑞斯",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "（好像，在等谁。为什么我会这么想？）",
+        "disable": 0
+    },
+    {
+        "Key": 45,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "主持人",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "芬妮选手被里芙选手击中了腹部！哎，时机不佳。等等，她又站了起来！芬妮选手，又……",
+        "disable": 0
+    },
+    {
+        "Key": 46,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "瑟瑞斯",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "（看不清他们的脸。我在等谁呢？感觉，有点空荡荡的。）",
+        "disable": 0
+    },
+    {
+        "Key": 47,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "瑟瑞斯",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我去看了比赛，然后就……哎，想不起来。",
+        "disable": 0
+    },
+    {
+        "Key": 48,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "瑟瑞斯",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "是什么时候的事呢，呃，脑袋好懵。",
+        "disable": 0
+    },
+    {
+        "Key": 49,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "瑟瑞斯",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……诶？！路怎么又不一样了！",
+        "disable": 0
+    },
+    {
+        "Key": 50,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "辰星",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "嗯……她叫瑟瑞斯。我最好的朋友。我曾经和她约好一起去看一场比赛。",
+        "disable": 0
+    },
+    {
+        "Key": 51,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "辰星",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "因为一些事情，我没赶上。",
+        "disable": 0
+    },
+    {
+        "Key": 52,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "辰星",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她呢，也忘记我失约了……",
+        "disable": 0
+    },
+    {
+        "Key": 53,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "辰星",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这一次，我们重新约好了。",
+        "disable": 0
+    },
+    {
+        "Key": 54,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "辰星",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "等任务完成。",
+        "disable": 0
+    },
+    {
+        "Key": 55,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "辰星",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "要和大家一起去看燃灯仪式……",
+        "disable": 0
+    }
+]

@@ -1,0 +1,1152 @@
+[
+    {
+        "ID": 9000,
+        "StartTime": "[202311271000]",
+        "EndTime": "[202312130400]",
+        "Type": 0,
+        "MapID": 9000,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "6001302": 40
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803038,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9000.MultTask_9000",
+        "MaxDamage": 176601,
+        "LevelDes": "ui.TxtOnlineBossDes1"
+    },
+    {
+        "ID": 9001,
+        "StartTime": "[202311280400]",
+        "EndTime": "[202312130400]",
+        "Type": 0,
+        "MapID": 9000,
+        "FightID": 1,
+        "Condition": {
+            "2": 9000
+        },
+        "Monster": {
+            "6001302": 50
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803038,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9001.MultTask_9001",
+        "MaxDamage": 305395,
+        "LevelDes": "ui.TxtOnlineBossDes1"
+    },
+    {
+        "ID": 9002,
+        "StartTime": "[202311290400]",
+        "EndTime": "[202312130400]",
+        "Type": 0,
+        "MapID": 9000,
+        "FightID": 1,
+        "Condition": {
+            "2": 9001
+        },
+        "Monster": {
+            "6001302": 60
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803038,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9002.MultTask_9002",
+        "MaxDamage": 491443,
+        "LevelDes": "ui.TxtOnlineBossDes1"
+    },
+    {
+        "ID": 9003,
+        "StartTime": "[202311300400]",
+        "EndTime": "[202312130400]",
+        "Type": 0,
+        "MapID": 9000,
+        "FightID": 1,
+        "Condition": {
+            "2": 9002
+        },
+        "Monster": {
+            "6001302": 70
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803038,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9003.MultTask_9003",
+        "MaxDamage": 736531,
+        "LevelDes": "ui.TxtOnlineBossDes1"
+    },
+    {
+        "ID": 9010,
+        "StartTime": "[202312201000]",
+        "EndTime": "[202401030400]",
+        "Type": 0,
+        "MapID": 9010,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "6001302": 40
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1801017,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9010.MultTask_9010",
+        "MaxDamage": 119022,
+        "LevelDes": "chapter.level_des_9010"
+    },
+    {
+        "ID": 9011,
+        "StartTime": "[202312210400]",
+        "EndTime": "[202401030400]",
+        "Type": 0,
+        "MapID": 9010,
+        "FightID": 1,
+        "Condition": {
+            "2": 9010
+        },
+        "Monster": {
+            "6001302": 50
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1801017,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9011.MultTask_9011",
+        "MaxDamage": 205823,
+        "LevelDes": "chapter.level_des_9011"
+    },
+    {
+        "ID": 9012,
+        "StartTime": "[202312220400]",
+        "EndTime": "[202401030400]",
+        "Type": 0,
+        "MapID": 9010,
+        "FightID": 1,
+        "Condition": {
+            "2": 9011
+        },
+        "Monster": {
+            "6001302": 60
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1801017,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9012.MultTask_9012",
+        "MaxDamage": 331212,
+        "LevelDes": "chapter.level_des_9012"
+    },
+    {
+        "ID": 9013,
+        "StartTime": "[202312230400]",
+        "EndTime": "[202401030400]",
+        "Type": 0,
+        "MapID": 9010,
+        "FightID": 1,
+        "Condition": {
+            "2": 9012
+        },
+        "Monster": {
+            "6001302": 70
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1801017,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9013.MultTask_9013",
+        "MaxDamage": 496391,
+        "LevelDes": "chapter.level_des_9013"
+    },
+    {
+        "ID": 9020,
+        "StartTime": "[202401221000]",
+        "EndTime": "[202402050400]",
+        "Type": 0,
+        "MapID": 9020,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "6001206": 40
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1801018,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9020.MultTask_9020",
+        "MaxDamage": 81739,
+        "LevelDes": "chapter.level_des_9020"
+    },
+    {
+        "ID": 9021,
+        "StartTime": "[202401230400]",
+        "EndTime": "[202402050400]",
+        "Type": 0,
+        "MapID": 9020,
+        "FightID": 1,
+        "Condition": {
+            "2": 9020
+        },
+        "Monster": {
+            "6001206": 50
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1801018,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9021.MultTask_9021",
+        "MaxDamage": 141351,
+        "LevelDes": "chapter.level_des_9021"
+    },
+    {
+        "ID": 9022,
+        "StartTime": "[202401240400]",
+        "EndTime": "[202402050400]",
+        "Type": 0,
+        "MapID": 9020,
+        "FightID": 1,
+        "Condition": {
+            "2": 9021
+        },
+        "Monster": {
+            "6001206": 60
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1801018,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9022.MultTask_9022",
+        "MaxDamage": 227463,
+        "LevelDes": "chapter.level_des_9022"
+    },
+    {
+        "ID": 9023,
+        "StartTime": "[202401250400]",
+        "EndTime": "[202402050400]",
+        "Type": 0,
+        "MapID": 9020,
+        "FightID": 1,
+        "Condition": {
+            "2": 9022
+        },
+        "Monster": {
+            "6001206": 70
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1801018,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9023.MultTask_9023",
+        "MaxDamage": 340901,
+        "LevelDes": "chapter.level_des_9023"
+    },
+    {
+        "ID": 9030,
+        "StartTime": "[202403111000]",
+        "EndTime": "[202403250400]",
+        "Type": 0,
+        "MapID": 9030,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "6001207": 40
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1801020,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9030.MultTask_9030",
+        "MaxDamage": 260610,
+        "LevelDes": "chapter.level_des_9030"
+    },
+    {
+        "ID": 9031,
+        "StartTime": "[202403120400]",
+        "EndTime": "[202403250400]",
+        "Type": 0,
+        "MapID": 9030,
+        "FightID": 1,
+        "Condition": {
+            "2": 9030
+        },
+        "Monster": {
+            "6001207": 50
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1801020,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9031.MultTask_9031",
+        "MaxDamage": 450670,
+        "LevelDes": "chapter.level_des_9031"
+    },
+    {
+        "ID": 9032,
+        "StartTime": "[202403130400]",
+        "EndTime": "[202403250400]",
+        "Type": 0,
+        "MapID": 9030,
+        "FightID": 1,
+        "Condition": {
+            "2": 9031
+        },
+        "Monster": {
+            "6001207": 60
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1801020,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9032.MultTask_9032",
+        "MaxDamage": 725220,
+        "LevelDes": "chapter.level_des_9032"
+    },
+    {
+        "ID": 9033,
+        "StartTime": "[202403140400]",
+        "EndTime": "[202403250400]",
+        "Type": 0,
+        "MapID": 9030,
+        "FightID": 1,
+        "Condition": {
+            "2": 9032
+        },
+        "Monster": {
+            "6001207": 70
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1801020,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9033.MultTask_9033",
+        "MaxDamage": 1086895,
+        "LevelDes": "chapter.level_des_9033"
+    },
+    {
+        "ID": 9040,
+        "StartTime": "[202404221000]",
+        "EndTime": "[202405060400]",
+        "Type": 0,
+        "MapID": 9040,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "6001208": 40
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803051,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9040.MultTask_9040",
+        "MaxDamage": 199290,
+        "LevelDes": "chapter.level_des_9040"
+    },
+    {
+        "ID": 9041,
+        "StartTime": "[202404230400]",
+        "EndTime": "[202405060400]",
+        "Type": 0,
+        "MapID": 9040,
+        "FightID": 1,
+        "Condition": {
+            "2": 9040
+        },
+        "Monster": {
+            "6001208": 50
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803051,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9041.MultTask_9041",
+        "MaxDamage": 344630,
+        "LevelDes": "chapter.level_des_9041"
+    },
+    {
+        "ID": 9042,
+        "StartTime": "[202404240400]",
+        "EndTime": "[202405060400]",
+        "Type": 0,
+        "MapID": 9040,
+        "FightID": 1,
+        "Condition": {
+            "2": 9041
+        },
+        "Monster": {
+            "6001208": 60
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803051,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9042.MultTask_9042",
+        "MaxDamage": 554580,
+        "LevelDes": "chapter.level_des_9042"
+    },
+    {
+        "ID": 9043,
+        "StartTime": "[202404250400]",
+        "EndTime": "[202405060400]",
+        "Type": 0,
+        "MapID": 9040,
+        "FightID": 1,
+        "Condition": {
+            "2": 9042
+        },
+        "Monster": {
+            "6001208": 70
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803051,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9043.MultTask_9043",
+        "MaxDamage": 831155,
+        "LevelDes": "chapter.level_des_9043"
+    },
+    {
+        "ID": 9050,
+        "StartTime": "[202406061000]",
+        "EndTime": "[202406200400]",
+        "Type": 0,
+        "MapID": 9050,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "6001401": 40
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803060,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9050.MultTask_9050",
+        "MaxDamage": 185830,
+        "LevelDes": "chapter.level_des_9050"
+    },
+    {
+        "ID": 9051,
+        "StartTime": "[202406070400]",
+        "EndTime": "[202406200400]",
+        "Type": 0,
+        "MapID": 9050,
+        "FightID": 1,
+        "Condition": {
+            "2": 9050
+        },
+        "Monster": {
+            "6001401": 50
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803060,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9051.MultTask_9051",
+        "MaxDamage": 321354,
+        "LevelDes": "chapter.level_des_9051"
+    },
+    {
+        "ID": 9052,
+        "StartTime": "[202406080400]",
+        "EndTime": "[202406200400]",
+        "Type": 0,
+        "MapID": 9050,
+        "FightID": 1,
+        "Condition": {
+            "2": 9051
+        },
+        "Monster": {
+            "6001401": 60
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803060,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9052.MultTask_9052",
+        "MaxDamage": 517124,
+        "LevelDes": "chapter.level_des_9052"
+    },
+    {
+        "ID": 9053,
+        "StartTime": "[202406090400]",
+        "EndTime": "[202406200400]",
+        "Type": 0,
+        "MapID": 9050,
+        "FightID": 1,
+        "Condition": {
+            "2": 9052
+        },
+        "Monster": {
+            "6001401": 70
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803060,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9053.MultTask_9053",
+        "MaxDamage": 775020,
+        "LevelDes": "chapter.level_des_9053"
+    },
+    {
+        "ID": 9060,
+        "StartTime": "[202407150400]",
+        "EndTime": "[202407290400]",
+        "Type": 0,
+        "MapID": 9060,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "6001502": 40
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803063,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9060.MultTask_9060",
+        "MaxDamage": 551880,
+        "LevelDes": "chapter.level_des_9060"
+    },
+    {
+        "ID": 9061,
+        "StartTime": "[202407160400]",
+        "EndTime": "[202407290400]",
+        "Type": 0,
+        "MapID": 9060,
+        "FightID": 1,
+        "Condition": {
+            "2": 9060
+        },
+        "Monster": {
+            "6001502": 50
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803063,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9061.MultTask_9061",
+        "MaxDamage": 954360,
+        "LevelDes": "chapter.level_des_9061"
+    },
+    {
+        "ID": 9062,
+        "StartTime": "[202407170400]",
+        "EndTime": "[202407290400]",
+        "Type": 0,
+        "MapID": 9060,
+        "FightID": 1,
+        "Condition": {
+            "2": 9061
+        },
+        "Monster": {
+            "6001502": 60
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803063,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9062.MultTask_9062",
+        "MaxDamage": 1535760,
+        "LevelDes": "chapter.level_des_9062"
+    },
+    {
+        "ID": 9063,
+        "StartTime": "[202407180400]",
+        "EndTime": "[202407290400]",
+        "Type": 0,
+        "MapID": 9060,
+        "FightID": 1,
+        "Condition": {
+            "2": 9062
+        },
+        "Monster": {
+            "6001502": 70
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803063,
+        "TaskPath": "MultiTask/RandomTest/MultTask_9063.MultTask_9063",
+        "MaxDamage": 2301660,
+        "LevelDes": "chapter.level_des_9063"
+    },
+    {
+        "ID": 2000,
+        "StartTime": "[202408231000]",
+        "EndTime": "[202409060400]",
+        "Type": 0,
+        "MapID": 2000,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "6001503": 40
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803085,
+        "TaskPath": "AmassBoss/AmassBoss_2000.AmassBoss_2000",
+        "MaxDamage": 245280,
+        "LevelDes": "chapter.level_des_2000",
+        "BossID": 6001503
+    },
+    {
+        "ID": 2001,
+        "StartTime": "[202408240400]",
+        "EndTime": "[202409060400]",
+        "Type": 0,
+        "MapID": 2000,
+        "FightID": 1,
+        "Condition": {
+            "2": 2000
+        },
+        "Monster": {
+            "6001503": 50
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803085,
+        "TaskPath": "AmassBoss/AmassBoss_2001.AmassBoss_2001",
+        "MaxDamage": 424160,
+        "LevelDes": "chapter.level_des_2001",
+        "BossID": 6001503
+    },
+    {
+        "ID": 2002,
+        "StartTime": "[202408250400]",
+        "EndTime": "[202409060400]",
+        "Type": 0,
+        "MapID": 2000,
+        "FightID": 1,
+        "Condition": {
+            "2": 2001
+        },
+        "Monster": {
+            "6001503": 60
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803085,
+        "TaskPath": "AmassBoss/AmassBoss_2002.AmassBoss_2002",
+        "MaxDamage": 682560,
+        "LevelDes": "chapter.level_des_2002",
+        "BossID": 6001503
+    },
+    {
+        "ID": 2003,
+        "StartTime": "[202408260400]",
+        "EndTime": "[202409060400]",
+        "Type": 0,
+        "MapID": 2000,
+        "FightID": 1,
+        "Condition": {
+            "2": 2002
+        },
+        "Monster": {
+            "6001503": 70
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803085,
+        "TaskPath": "AmassBoss/AmassBoss_2003.AmassBoss_2003",
+        "MaxDamage": 1022960,
+        "LevelDes": "chapter.level_des_2003",
+        "BossID": 6001503
+    },
+    {
+        "ID": 2004,
+        "StartTime": "[202408270400]",
+        "EndTime": "[202409060400]",
+        "Type": 0,
+        "MapID": 2000,
+        "FightID": 1,
+        "Condition": {
+            "2": 2003
+        },
+        "Monster": {
+            "6001503": 80
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803085,
+        "TaskPath": "AmassBoss/AmassBoss_2004.AmassBoss_2004",
+        "MaxDamage": -1.0,
+        "LevelDes": "chapter.level_des_2004",
+        "BossID": 6001503
+    },
+    {
+        "ID": 2010,
+        "StartTime": "[202409300400]",
+        "EndTime": "[202410140400]",
+        "Type": 0,
+        "MapID": 2010,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "6001303": 40
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803088,
+        "TaskPath": "AmassBoss/AmassBoss_2010.AmassBoss_2010",
+        "MaxDamage": 337260,
+        "LevelDes": "chapter.level_des_2010",
+        "BossID": 6001303
+    },
+    {
+        "ID": 2011,
+        "StartTime": "[202410010400]",
+        "EndTime": "[202410140400]",
+        "Type": 0,
+        "MapID": 2010,
+        "FightID": 1,
+        "Condition": {
+            "2": 2010
+        },
+        "Monster": {
+            "6001303": 50
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803088,
+        "TaskPath": "AmassBoss/AmassBoss_2011.AmassBoss_2011",
+        "MaxDamage": 583220,
+        "LevelDes": "chapter.level_des_2011",
+        "BossID": 6001303
+    },
+    {
+        "ID": 2012,
+        "StartTime": "[202410020400]",
+        "EndTime": "[202410140400]",
+        "Type": 0,
+        "MapID": 2010,
+        "FightID": 1,
+        "Condition": {
+            "2": 2011
+        },
+        "Monster": {
+            "6001303": 60
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803088,
+        "TaskPath": "AmassBoss/AmassBoss_2012.AmassBoss_2012",
+        "MaxDamage": 938520,
+        "LevelDes": "chapter.level_des_2012",
+        "BossID": 6001303
+    },
+    {
+        "ID": 2013,
+        "StartTime": "[202410030400]",
+        "EndTime": "[202410140400]",
+        "Type": 0,
+        "MapID": 2010,
+        "FightID": 1,
+        "Condition": {
+            "2": 2012
+        },
+        "Monster": {
+            "6001303": 70
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803088,
+        "TaskPath": "AmassBoss/AmassBoss_2013.AmassBoss_2013",
+        "MaxDamage": 1406570,
+        "LevelDes": "chapter.level_des_2013",
+        "BossID": 6001303
+    },
+    {
+        "ID": 2014,
+        "StartTime": "[202410040400]",
+        "EndTime": "[202410140400]",
+        "Type": 0,
+        "MapID": 2010,
+        "FightID": 1,
+        "Condition": {
+            "2": 2013
+        },
+        "Monster": {
+            "6001303": 80
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803088,
+        "TaskPath": "AmassBoss/AmassBoss_2014.AmassBoss_2014",
+        "MaxDamage": -1.0,
+        "LevelDes": "chapter.level_des_2014",
+        "BossID": 6001303
+    },
+    {
+        "ID": 2020,
+        "StartTime": "[202411110400]",
+        "EndTime": "[202411250400]",
+        "Type": 0,
+        "MapID": 2020,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "6001601": 40
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803092,
+        "TaskPath": "AmassBoss/AmassBoss_2020.AmassBoss_2020",
+        "MaxDamage": 76650,
+        "LevelDes": "chapter.level_des_2020",
+        "BossID": 6001601
+    },
+    {
+        "ID": 2021,
+        "StartTime": "[202411120400]",
+        "EndTime": "[202411250400]",
+        "Type": 0,
+        "MapID": 2020,
+        "FightID": 1,
+        "Condition": {
+            "2": 2020
+        },
+        "Monster": {
+            "6001601": 50
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803092,
+        "TaskPath": "AmassBoss/AmassBoss_2021.AmassBoss_2021",
+        "MaxDamage": 132550,
+        "LevelDes": "chapter.level_des_2021",
+        "BossID": 6001601
+    },
+    {
+        "ID": 2022,
+        "StartTime": "[202411130400]",
+        "EndTime": "[202411250400]",
+        "Type": 0,
+        "MapID": 2020,
+        "FightID": 1,
+        "Condition": {
+            "2": 2021
+        },
+        "Monster": {
+            "6001601": 60
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803092,
+        "TaskPath": "AmassBoss/AmassBoss_2022.AmassBoss_2022",
+        "MaxDamage": 213300,
+        "LevelDes": "chapter.level_des_2022",
+        "BossID": 6001601
+    },
+    {
+        "ID": 2023,
+        "StartTime": "[202411140400]",
+        "EndTime": "[202411250400]",
+        "Type": 0,
+        "MapID": 2020,
+        "FightID": 1,
+        "Condition": {
+            "2": 2022
+        },
+        "Monster": {
+            "6001601": 70
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803092,
+        "TaskPath": "AmassBoss/AmassBoss_2023.AmassBoss_2023",
+        "MaxDamage": 319675,
+        "LevelDes": "chapter.level_des_2023",
+        "BossID": 6001601
+    },
+    {
+        "ID": 2024,
+        "StartTime": "[202411150400]",
+        "EndTime": "[202411250400]",
+        "Type": 0,
+        "MapID": 2020,
+        "FightID": 1,
+        "Condition": {
+            "2": 2023
+        },
+        "Monster": {
+            "6001601": 80
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1803092,
+        "TaskPath": "AmassBoss/AmassBoss_2024.AmassBoss_2024",
+        "MaxDamage": -1.0,
+        "LevelDes": "chapter.level_des_2024",
+        "BossID": 6001601
+    },
+    {
+        "ID": 2030,
+        "StartTime": "[202411110400]",
+        "EndTime": "[202411250400]",
+        "Type": 0,
+        "MapID": 2030,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "6001602": 40
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1804153,
+        "TaskPath": "AmassBoss/AmassBoss_2030.AmassBoss_2030",
+        "MaxDamage": 76650,
+        "LevelDes": "chapter.level_des_2030",
+        "BossID": 6001602
+    },
+    {
+        "ID": 2031,
+        "StartTime": "[202411120400]",
+        "EndTime": "[202411250400]",
+        "Type": 0,
+        "MapID": 2030,
+        "FightID": 1,
+        "Condition": {
+            "2": 2030
+        },
+        "Monster": {
+            "6001602": 50
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1804153,
+        "TaskPath": "AmassBoss/AmassBoss_2031.AmassBoss_2031",
+        "MaxDamage": 132550,
+        "LevelDes": "chapter.level_des_2031",
+        "BossID": 6001602
+    },
+    {
+        "ID": 2032,
+        "StartTime": "[202411130400]",
+        "EndTime": "[202411250400]",
+        "Type": 0,
+        "MapID": 2030,
+        "FightID": 1,
+        "Condition": {
+            "2": 2031
+        },
+        "Monster": {
+            "6001602": 60
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1804153,
+        "TaskPath": "AmassBoss/AmassBoss_2032.AmassBoss_2032",
+        "MaxDamage": 213300,
+        "LevelDes": "chapter.level_des_2032",
+        "BossID": 6001602
+    },
+    {
+        "ID": 2033,
+        "StartTime": "[202411140400]",
+        "EndTime": "[202411250400]",
+        "Type": 0,
+        "MapID": 2030,
+        "FightID": 1,
+        "Condition": {
+            "2": 2032
+        },
+        "Monster": {
+            "6001602": 70
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1804153,
+        "TaskPath": "AmassBoss/AmassBoss_2033.AmassBoss_2033",
+        "MaxDamage": 319675,
+        "LevelDes": "chapter.level_des_2033",
+        "BossID": 6001602
+    },
+    {
+        "ID": 2034,
+        "StartTime": "[202411150400]",
+        "EndTime": "[202411250400]",
+        "Type": 0,
+        "MapID": 2030,
+        "FightID": 1,
+        "Condition": {
+            "2": 2033
+        },
+        "Monster": {
+            "6001602": 80
+        },
+        "LevelStrength": 4,
+        "ShowListType": "",
+        "RecommendPower": "",
+        "RecommendLevelOffset": "",
+        "TeamRuleID": "",
+        "PictureBoss": "",
+        "PictureLevel": 1804153,
+        "TaskPath": "AmassBoss/AmassBoss_2034.AmassBoss_2034",
+        "MaxDamage": -1.0,
+        "LevelDes": "chapter.level_des_2034",
+        "BossID": 6001602
+    }
+]

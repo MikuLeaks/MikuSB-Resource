@@ -1,0 +1,756 @@
+[
+    {
+        "ID": 1,
+        "Color": 4,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_1",
+        "Des": "nitamonopoly.NitaMonopoly_magic_21",
+        "DesFormat": "",
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801002,
+        "Price": 800,
+        "RandomWeight": "",
+        "BaseRandomWeight": "",
+        "Effect": [
+            [
+                12,
+                1,
+                50
+            ]
+        ],
+        "AvailableTimes": "",
+        "UnlockTreeEx": 0,
+        "IsBase": 1
+    },
+    {
+        "ID": 2,
+        "Color": 4,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_2",
+        "Des": "nitamonopoly.NitaMonopoly_magic_22",
+        "DesFormat": "",
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801003,
+        "Price": 800,
+        "RandomWeight": "",
+        "BaseRandomWeight": "",
+        "Effect": [
+            [
+                12,
+                2,
+                50
+            ]
+        ],
+        "AvailableTimes": "",
+        "UnlockTreeEx": 10000,
+        "IsBase": 1
+    },
+    {
+        "ID": 3,
+        "Color": 4,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_3",
+        "Des": "nitamonopoly.NitaMonopoly_magic_23",
+        "DesFormat": "",
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801004,
+        "Price": 800,
+        "RandomWeight": "",
+        "BaseRandomWeight": "",
+        "Effect": [
+            [
+                12,
+                3,
+                50
+            ]
+        ],
+        "AvailableTimes": "",
+        "UnlockTreeEx": 20000,
+        "IsBase": 1
+    },
+    {
+        "ID": 4,
+        "Color": 4,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_4",
+        "Des": "nitamonopoly.NitaMonopoly_magic_24",
+        "DesFormat": "",
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801005,
+        "Price": 800,
+        "RandomWeight": "",
+        "BaseRandomWeight": "",
+        "Effect": [
+            [
+                12,
+                4,
+                50
+            ]
+        ],
+        "AvailableTimes": "",
+        "UnlockTreeEx": 40000,
+        "IsBase": 1
+    },
+    {
+        "ID": 5,
+        "Color": 4,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_5",
+        "Des": "nitamonopoly.NitaMonopoly_magic_25",
+        "DesFormat": "",
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801006,
+        "Price": 800,
+        "RandomWeight": "",
+        "BaseRandomWeight": "",
+        "Effect": [
+            [
+                12,
+                5,
+                50
+            ]
+        ],
+        "AvailableTimes": "",
+        "UnlockTreeEx": 60000,
+        "IsBase": 1
+    },
+    {
+        "ID": 6,
+        "Color": 4,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_6",
+        "Des": "nitamonopoly.NitaMonopoly_magic_26",
+        "DesFormat": "",
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801007,
+        "Price": 800,
+        "RandomWeight": "",
+        "BaseRandomWeight": "",
+        "Effect": [
+            [
+                12,
+                6,
+                50
+            ]
+        ],
+        "AvailableTimes": "",
+        "UnlockTreeEx": 80000,
+        "IsBase": 1
+    },
+    {
+        "ID": 7,
+        "Color": 5,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_7",
+        "Des": "nitamonopoly.NitaMonopoly_magic_27",
+        "DesFormat": [
+            20
+        ],
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801008,
+        "Price": 1000,
+        "RandomWeight": 10,
+        "BaseRandomWeight": 10,
+        "Effect": [
+            [
+                9,
+                2,
+                100,
+                0.2
+            ],
+            [
+                9,
+                8,
+                100,
+                0.2
+            ],
+            [
+                9,
+                4,
+                100,
+                0.2
+            ],
+            [
+                8,
+                0.2
+            ]
+        ],
+        "AvailableTimes": "",
+        "UnlockTreeEx": 90000
+    },
+    {
+        "ID": 8,
+        "Color": 1,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_8",
+        "Des": "nitamonopoly.NitaMonopoly_magic_28",
+        "DesFormat": "",
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801009,
+        "Price": 100,
+        "RandomWeight": 30,
+        "BaseRandomWeight": 80,
+        "Effect": [
+            [
+                1,
+                1,
+                0
+            ]
+        ],
+        "AvailableTimes": 1,
+        "UnlockTreeEx": 0
+    },
+    {
+        "ID": 9,
+        "Color": 5,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_9",
+        "Des": "nitamonopoly.NitaMonopoly_magic_29",
+        "DesFormat": "",
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801010,
+        "Price": 1000,
+        "RandomWeight": 20,
+        "BaseRandomWeight": 10,
+        "Effect": {
+            "2": 7
+        },
+        "AvailableTimes": 1,
+        "UnlockTreeEx": 50000
+    },
+    {
+        "ID": 10,
+        "Color": 5,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_10",
+        "Des": "nitamonopoly.NitaMonopoly_magic_30",
+        "DesFormat": "",
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801011,
+        "Price": 800,
+        "RandomWeight": 30,
+        "BaseRandomWeight": 20,
+        "Effect": [
+            [
+                3,
+                8,
+                100
+            ]
+        ],
+        "AvailableTimes": 1,
+        "UnlockTreeEx": 30000
+    },
+    {
+        "ID": 11,
+        "Color": 3,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_11",
+        "Des": "nitamonopoly.NitaMonopoly_magic_31",
+        "DesFormat": "",
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801012,
+        "Price": 500,
+        "RandomWeight": 30,
+        "BaseRandomWeight": 80,
+        "Effect": {
+            "4": 8
+        },
+        "AvailableTimes": 1,
+        "UnlockTreeEx": 0
+    },
+    {
+        "ID": 12,
+        "Color": 3,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_12",
+        "Des": "nitamonopoly.NitaMonopoly_magic_32",
+        "DesFormat": [
+            30
+        ],
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801013,
+        "Price": 500,
+        "RandomWeight": 30,
+        "BaseRandomWeight": 30,
+        "Effect": {
+            "5": 0.3
+        },
+        "AvailableTimes": "",
+        "UnlockTreeEx": 0
+    },
+    {
+        "ID": 13,
+        "Color": 5,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_13",
+        "Des": "nitamonopoly.NitaMonopoly_magic_33",
+        "DesFormat": [
+            2,
+            1,
+            2
+        ],
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801014,
+        "Price": 600,
+        "RandomWeight": 30,
+        "BaseRandomWeight": "",
+        "Effect": {
+            "6": 2
+        },
+        "AvailableTimes": 1,
+        "UnlockTreeEx": 110000
+    },
+    {
+        "ID": 14,
+        "Color": 5,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_14",
+        "Des": "nitamonopoly.NitaMonopoly_magic_34",
+        "DesFormat": "",
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801015,
+        "Price": 500,
+        "RandomWeight": 30,
+        "BaseRandomWeight": 10,
+        "Effect": {
+            "3": 2
+        },
+        "AvailableTimes": "",
+        "UnlockTreeEx": 100000
+    },
+    {
+        "ID": 15,
+        "Color": 4,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_15",
+        "Des": "nitamonopoly.NitaMonopoly_magic_35",
+        "DesFormat": "",
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801016,
+        "Price": 500,
+        "RandomWeight": 30,
+        "BaseRandomWeight": 10,
+        "Effect": {
+            "7": 100
+        },
+        "AvailableTimes": 1,
+        "UnlockTreeEx": 0
+    },
+    {
+        "ID": 16,
+        "Color": 4,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_16",
+        "Des": "nitamonopoly.NitaMonopoly_magic_36",
+        "DesFormat": [
+            20
+        ],
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801017,
+        "Price": 300,
+        "RandomWeight": 20,
+        "BaseRandomWeight": 20,
+        "Effect": {
+            "8": 0.2
+        },
+        "AvailableTimes": "",
+        "UnlockTreeEx": 0
+    },
+    {
+        "ID": 17,
+        "Color": 4,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_17",
+        "Des": "nitamonopoly.NitaMonopoly_magic_37",
+        "DesFormat": [
+            20
+        ],
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801018,
+        "Price": 300,
+        "RandomWeight": 20,
+        "BaseRandomWeight": 20,
+        "Effect": [
+            [
+                9,
+                2,
+                100,
+                0.2
+            ]
+        ],
+        "AvailableTimes": "",
+        "UnlockTreeEx": 0
+    },
+    {
+        "ID": 18,
+        "Color": 4,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_18",
+        "Des": "nitamonopoly.NitaMonopoly_magic_38",
+        "DesFormat": [
+            20
+        ],
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801019,
+        "Price": 300,
+        "RandomWeight": 20,
+        "BaseRandomWeight": 20,
+        "Effect": [
+            [
+                9,
+                8,
+                100,
+                0.2
+            ]
+        ],
+        "AvailableTimes": "",
+        "UnlockTreeEx": 0
+    },
+    {
+        "ID": 19,
+        "Color": 4,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_19",
+        "Des": "nitamonopoly.NitaMonopoly_magic_39",
+        "DesFormat": [
+            20
+        ],
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801020,
+        "Price": 300,
+        "RandomWeight": 20,
+        "BaseRandomWeight": 20,
+        "Effect": [
+            [
+                9,
+                4,
+                100,
+                0.2
+            ]
+        ],
+        "AvailableTimes": "",
+        "UnlockTreeEx": 0
+    },
+    {
+        "ID": 20,
+        "Color": 4,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_20",
+        "Des": "nitamonopoly.NitaMonopoly_magic_40",
+        "DesFormat": "",
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801021,
+        "Price": 500,
+        "RandomWeight": 30,
+        "BaseRandomWeight": 30,
+        "Effect": [
+            [
+                9,
+                4,
+                100,
+                2
+            ],
+            [
+                10,
+                100,
+                1
+            ]
+        ],
+        "AvailableTimes": 1,
+        "UnlockTreeEx": 0
+    },
+    {
+        "ID": 21,
+        "Color": 1,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_41",
+        "Des": "nitamonopoly.NitaMonopoly_magic_44",
+        "DesFormat": "",
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801003,
+        "Price": 400,
+        "RandomWeight": 60,
+        "BaseRandomWeight": "",
+        "Effect": {
+            "2": 2
+        },
+        "AvailableTimes": 1,
+        "UnlockTreeEx": 0
+    },
+    {
+        "ID": 22,
+        "Color": 3,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_42",
+        "Des": "nitamonopoly.NitaMonopoly_magic_45",
+        "DesFormat": "",
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801004,
+        "Price": 400,
+        "RandomWeight": 60,
+        "BaseRandomWeight": "",
+        "Effect": {
+            "2": 8
+        },
+        "AvailableTimes": 1,
+        "UnlockTreeEx": 0
+    },
+    {
+        "ID": 23,
+        "Color": 2,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_43",
+        "Des": "nitamonopoly.NitaMonopoly_magic_46",
+        "DesFormat": "",
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801005,
+        "Price": 400,
+        "RandomWeight": 60,
+        "BaseRandomWeight": "",
+        "Effect": {
+            "2": 4
+        },
+        "AvailableTimes": 1,
+        "UnlockTreeEx": 0
+    },
+    {
+        "ID": 24,
+        "Color": 4,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_7",
+        "Des": "nitamonopoly.NitaMonopoly_magic_27",
+        "DesFormat": [
+            15
+        ],
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801008,
+        "Price": 600,
+        "RandomWeight": 30,
+        "BaseRandomWeight": 5,
+        "Effect": [
+            [
+                9,
+                2,
+                100,
+                0.15
+            ],
+            [
+                9,
+                8,
+                100,
+                0.15
+            ],
+            [
+                9,
+                4,
+                100,
+                0.15
+            ],
+            [
+                8,
+                0.15
+            ]
+        ],
+        "AvailableTimes": "",
+        "UnlockTreeEx": 70000
+    },
+    {
+        "ID": 25,
+        "Color": 3,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_7",
+        "Des": "nitamonopoly.NitaMonopoly_magic_27",
+        "DesFormat": [
+            10
+        ],
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801008,
+        "Price": 500,
+        "RandomWeight": 30,
+        "BaseRandomWeight": 10,
+        "Effect": [
+            [
+                9,
+                2,
+                100,
+                0.1
+            ],
+            [
+                9,
+                8,
+                100,
+                0.1
+            ],
+            [
+                9,
+                4,
+                100,
+                0.1
+            ],
+            [
+                8,
+                0.1
+            ]
+        ],
+        "AvailableTimes": "",
+        "UnlockTreeEx": 0
+    },
+    {
+        "ID": 26,
+        "Color": 2,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_7",
+        "Des": "nitamonopoly.NitaMonopoly_magic_27",
+        "DesFormat": [
+            5
+        ],
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801008,
+        "Price": 400,
+        "RandomWeight": 60,
+        "BaseRandomWeight": 20,
+        "Effect": [
+            [
+                9,
+                2,
+                100,
+                0.05
+            ],
+            [
+                9,
+                8,
+                100,
+                0.05
+            ],
+            [
+                9,
+                4,
+                100,
+                0.05
+            ],
+            [
+                8,
+                0.05
+            ]
+        ],
+        "AvailableTimes": "",
+        "UnlockTreeEx": 0
+    },
+    {
+        "ID": 27,
+        "Color": 3,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_13",
+        "Des": "nitamonopoly.NitaMonopoly_magic_33",
+        "DesFormat": [
+            1,
+            1,
+            1
+        ],
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801014,
+        "Price": 500,
+        "RandomWeight": 30,
+        "BaseRandomWeight": "",
+        "Effect": {
+            "6": 1
+        },
+        "AvailableTimes": 1,
+        "UnlockTreeEx": 0
+    },
+    {
+        "ID": 28,
+        "Color": 3,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_16",
+        "Des": "nitamonopoly.NitaMonopoly_magic_36",
+        "DesFormat": [
+            10
+        ],
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801017,
+        "Price": 300,
+        "RandomWeight": 40,
+        "BaseRandomWeight": 40,
+        "Effect": {
+            "8": 0.1
+        },
+        "AvailableTimes": "",
+        "UnlockTreeEx": 0
+    },
+    {
+        "ID": 29,
+        "Color": 3,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_17",
+        "Des": "nitamonopoly.NitaMonopoly_magic_37",
+        "DesFormat": [
+            10
+        ],
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801018,
+        "Price": 300,
+        "RandomWeight": 40,
+        "BaseRandomWeight": 40,
+        "Effect": [
+            [
+                9,
+                2,
+                100,
+                0.1
+            ]
+        ],
+        "AvailableTimes": "",
+        "UnlockTreeEx": 0
+    },
+    {
+        "ID": 30,
+        "Color": 3,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_18",
+        "Des": "nitamonopoly.NitaMonopoly_magic_38",
+        "DesFormat": [
+            10
+        ],
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801019,
+        "Price": 300,
+        "RandomWeight": 40,
+        "BaseRandomWeight": 40,
+        "Effect": [
+            [
+                9,
+                8,
+                100,
+                0.1
+            ]
+        ],
+        "AvailableTimes": "",
+        "UnlockTreeEx": 0
+    },
+    {
+        "ID": 31,
+        "Color": 3,
+        "I18n": "nitamonopoly.NitaMonopoly_magic_19",
+        "Des": "nitamonopoly.NitaMonopoly_magic_39",
+        "DesFormat": [
+            10
+        ],
+        "Tag": "nitamonopoly.NitaMonopoly_ui_11",
+        "TagIcon": 1700209,
+        "Icon": 4801020,
+        "Price": 300,
+        "RandomWeight": 40,
+        "BaseRandomWeight": 40,
+        "Effect": [
+            [
+                9,
+                4,
+                100,
+                0.1
+            ]
+        ],
+        "AvailableTimes": "",
+        "UnlockTreeEx": 0
+    }
+]

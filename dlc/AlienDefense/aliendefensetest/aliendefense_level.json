@@ -1,0 +1,2093 @@
+[
+    {
+        "ID": 6201,
+        "ReferIcon": 1001357,
+        "StartTime": "[202502131000]",
+        "EndTime": "[202503050400]",
+        "LevelType": 1,
+        "MapID": 6201,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": 6202,
+        "Scorelimit": "",
+        "Monster": [
+            470121701
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": "",
+        "PictureLevel": 1801016,
+        "TaskPath": "AlienDefense/AD01Normal01.AD01Normal01"
+    },
+    {
+        "ID": 6202,
+        "ReferIcon": 1001365,
+        "StartTime": "[202502131000]",
+        "EndTime": "[202503050400]",
+        "LevelType": 1,
+        "MapID": 6202,
+        "FightID": 1,
+        "Condition": {
+            "2": 6201
+        },
+        "NextID": 6203,
+        "Scorelimit": "",
+        "Monster": [
+            470121701
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1001
+            ]
+        ],
+        "PictureLevel": 1801000,
+        "TaskPath": "AlienDefense/AD01Normal02.AD01Normal02"
+    },
+    {
+        "ID": 6203,
+        "ReferIcon": 1001364,
+        "StartTime": "[202502131000]",
+        "EndTime": "[202503050400]",
+        "LevelType": 1,
+        "MapID": 6203,
+        "FightID": 1,
+        "Condition": {
+            "2": 6202
+        },
+        "NextID": 6204,
+        "Scorelimit": "",
+        "Monster": [
+            470121701,
+            470121201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1001
+            ]
+        ],
+        "PictureLevel": 1801000,
+        "TaskPath": "AlienDefense/AD01Normal03.AD01Normal03"
+    },
+    {
+        "ID": 6204,
+        "ReferIcon": 1001361,
+        "StartTime": "[202502131000]",
+        "EndTime": "[202503050400]",
+        "LevelType": 1,
+        "MapID": 6204,
+        "FightID": 1,
+        "Condition": {
+            "2": 6203
+        },
+        "NextID": 6205,
+        "Scorelimit": "",
+        "Monster": [
+            470121701,
+            470121201,
+            470121501
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1002
+            ]
+        ],
+        "PictureLevel": 1801000,
+        "TaskPath": "AlienDefense/AD01Normal04.AD01Normal04"
+    },
+    {
+        "ID": 6205,
+        "ReferIcon": 1001360,
+        "StartTime": "[202502131000]",
+        "EndTime": "[202503050400]",
+        "LevelType": 1,
+        "MapID": 6205,
+        "FightID": 1,
+        "Condition": {
+            "2": 6204
+        },
+        "NextID": 6206,
+        "Scorelimit": "",
+        "Monster": [
+            470121701,
+            470121201,
+            470121501
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1002
+            ]
+        ],
+        "PictureLevel": 1801004,
+        "TaskPath": "AlienDefense/AD01Normal05.AD01Normal05"
+    },
+    {
+        "ID": 6206,
+        "ReferIcon": 1001362,
+        "StartTime": "[202502131000]",
+        "EndTime": "[202503050400]",
+        "LevelType": 1,
+        "MapID": 6206,
+        "FightID": 1,
+        "Condition": {
+            "2": 6205
+        },
+        "NextID": 6207,
+        "Scorelimit": "",
+        "Monster": [
+            470121701,
+            470121201,
+            470131001
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1003
+            ]
+        ],
+        "PictureLevel": 1801004,
+        "TaskPath": "AlienDefense/AD01Normal06.AD01Normal06"
+    },
+    {
+        "ID": 6207,
+        "ReferIcon": 1001363,
+        "StartTime": "[202502131000]",
+        "EndTime": "[202503050400]",
+        "LevelType": 1,
+        "MapID": 6207,
+        "FightID": 1,
+        "Condition": {
+            "2": 6206
+        },
+        "NextID": 6208,
+        "Scorelimit": "",
+        "Monster": [
+            470121701,
+            470121301,
+            470131001
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1003
+            ]
+        ],
+        "PictureLevel": 1801004,
+        "TaskPath": "AlienDefense/AD01Normal07.AD01Normal07"
+    },
+    {
+        "ID": 6208,
+        "ReferIcon": 1001359,
+        "StartTime": "[202502131000]",
+        "EndTime": "[202503050400]",
+        "LevelType": 1,
+        "MapID": 6208,
+        "FightID": 1,
+        "Condition": {
+            "2": 6207
+        },
+        "NextID": 6209,
+        "Scorelimit": "",
+        "Monster": [
+            470121701,
+            470121201,
+            470121301
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1004
+            ]
+        ],
+        "PictureLevel": 1801003,
+        "TaskPath": "AlienDefense/AD01Normal08.AD01Normal08"
+    },
+    {
+        "ID": 6209,
+        "ReferIcon": 1001358,
+        "StartTime": "[202502131000]",
+        "EndTime": "[202503050400]",
+        "LevelType": 1,
+        "MapID": 6209,
+        "FightID": 1,
+        "Condition": {
+            "2": 6208
+        },
+        "NextID": 6210,
+        "Scorelimit": "",
+        "Monster": [
+            470121201,
+            470121301,
+            470121501
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1004
+            ]
+        ],
+        "PictureLevel": 1801003,
+        "TaskPath": "AlienDefense/AD01Normal09.AD01Normal09"
+    },
+    {
+        "ID": 6210,
+        "ReferIcon": 1001356,
+        "StartTime": "[202502131000]",
+        "EndTime": "[202503050400]",
+        "LevelType": 1,
+        "MapID": 6210,
+        "FightID": 1,
+        "Condition": {
+            "2": 6209
+        },
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121701,
+            470121501,
+            470131001
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1005
+            ]
+        ],
+        "PictureLevel": 1801003,
+        "TaskPath": "AlienDefense/AD01Normal10.AD01Normal10"
+    },
+    {
+        "ID": 6211,
+        "ReferIcon": 1001360,
+        "StartTime": "[202504281000]",
+        "EndTime": "[202505180400]",
+        "LevelType": 1,
+        "MapID": 6211,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": 6212,
+        "Scorelimit": "",
+        "Monster": [
+            470121701,
+            470121201,
+            470121601
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1002
+            ]
+        ],
+        "PictureLevel": 1801000,
+        "TaskPath": "AlienDefense/AD02Normal01.AD02Normal01"
+    },
+    {
+        "ID": 6212,
+        "ReferIcon": 1001360,
+        "StartTime": "[202504281000]",
+        "EndTime": "[202505180400]",
+        "LevelType": 1,
+        "MapID": 6212,
+        "FightID": 1,
+        "Condition": {
+            "2": 6211
+        },
+        "NextID": 6213,
+        "Scorelimit": "",
+        "Monster": [
+            470121701,
+            470121601,
+            470100801
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1002
+            ]
+        ],
+        "PictureLevel": 1803089,
+        "TaskPath": "AlienDefense/AD02Normal02.AD02Normal02"
+    },
+    {
+        "ID": 6213,
+        "ReferIcon": 1001359,
+        "StartTime": "[202504281000]",
+        "EndTime": "[202505180400]",
+        "LevelType": 1,
+        "MapID": 6213,
+        "FightID": 1,
+        "Condition": {
+            "2": 6212
+        },
+        "NextID": 6214,
+        "Scorelimit": "",
+        "Monster": [
+            470121704,
+            470121204,
+            470121304
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1004
+            ]
+        ],
+        "PictureLevel": 1801016,
+        "TaskPath": "AlienDefense/AD02Normal03.AD02Normal03"
+    },
+    {
+        "ID": 6214,
+        "ReferIcon": 1001359,
+        "StartTime": "[202504281000]",
+        "EndTime": "[202505180400]",
+        "LevelType": 1,
+        "MapID": 6214,
+        "FightID": 1,
+        "Condition": {
+            "2": 6213
+        },
+        "NextID": 6215,
+        "Scorelimit": "",
+        "Monster": [
+            470121204,
+            470121304,
+            470121604
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1004
+            ]
+        ],
+        "PictureLevel": 1801005,
+        "TaskPath": "AlienDefense/AD02Normal04.AD02Normal04"
+    },
+    {
+        "ID": 6215,
+        "ReferIcon": 1001362,
+        "StartTime": "[202504281000]",
+        "EndTime": "[202505180400]",
+        "LevelType": 1,
+        "MapID": 6215,
+        "FightID": 1,
+        "Condition": {
+            "2": 6214
+        },
+        "NextID": 6216,
+        "Scorelimit": "",
+        "Monster": [
+            470121203,
+            470121303,
+            470121503
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1003
+            ]
+        ],
+        "PictureLevel": 1801000,
+        "TaskPath": "AlienDefense/AD02Normal05.AD02Normal05"
+    },
+    {
+        "ID": 6216,
+        "ReferIcon": 1001362,
+        "StartTime": "[202504281000]",
+        "EndTime": "[202505180400]",
+        "LevelType": 1,
+        "MapID": 6216,
+        "FightID": 1,
+        "Condition": {
+            "2": 6215
+        },
+        "NextID": 6217,
+        "Scorelimit": "",
+        "Monster": [
+            470121303,
+            470121503,
+            470130601
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1003
+            ]
+        ],
+        "PictureLevel": 1803089,
+        "TaskPath": "AlienDefense/AD02Normal06.AD02Normal06"
+    },
+    {
+        "ID": 6217,
+        "ReferIcon": 1001358,
+        "StartTime": "[202504281000]",
+        "EndTime": "[202505180400]",
+        "LevelType": 1,
+        "MapID": 6217,
+        "FightID": 1,
+        "Condition": {
+            "2": 6216
+        },
+        "NextID": 6218,
+        "Scorelimit": "",
+        "Monster": [
+            470121705,
+            470121205,
+            470130601
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1019
+            ]
+        ],
+        "PictureLevel": 1801016,
+        "TaskPath": "AlienDefense/AD02Normal07.AD02Normal07"
+    },
+    {
+        "ID": 6218,
+        "ReferIcon": 1001358,
+        "StartTime": "[202504281000]",
+        "EndTime": "[202505180400]",
+        "LevelType": 1,
+        "MapID": 6218,
+        "FightID": 1,
+        "Condition": {
+            "2": 6217
+        },
+        "NextID": 6219,
+        "Scorelimit": "",
+        "Monster": [
+            470121205,
+            470121605,
+            470121505
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1019
+            ]
+        ],
+        "PictureLevel": 1801005,
+        "TaskPath": "AlienDefense/AD02Normal08.AD02Normal08"
+    },
+    {
+        "ID": 6219,
+        "ReferIcon": 1001364,
+        "StartTime": "[202504281000]",
+        "EndTime": "[202505180400]",
+        "LevelType": 1,
+        "MapID": 6219,
+        "FightID": 1,
+        "Condition": {
+            "2": 6218
+        },
+        "NextID": 6220,
+        "Scorelimit": "",
+        "Monster": [
+            470121302,
+            470121502,
+            470131001
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1001
+            ]
+        ],
+        "PictureLevel": 1801016,
+        "TaskPath": "AlienDefense/AD02Normal09.AD02Normal09"
+    },
+    {
+        "ID": 6220,
+        "ReferIcon": 1001364,
+        "StartTime": "[202504281000]",
+        "EndTime": "[202505180400]",
+        "LevelType": 1,
+        "MapID": 6220,
+        "FightID": 1,
+        "Condition": {
+            "2": 6219
+        },
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121302,
+            470121602,
+            470101301
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1001
+            ]
+        ],
+        "PictureLevel": 1801005,
+        "TaskPath": "AlienDefense/AD02Normal10.AD02Normal10"
+    },
+    {
+        "ID": 6221,
+        "ReferIcon": 1001360,
+        "StartTime": "[202510130400]",
+        "EndTime": "[202511020400]",
+        "LevelType": 1,
+        "MapID": 6221,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": 6222,
+        "Scorelimit": "",
+        "Monster": [
+            470121701,
+            470121201,
+            470121601
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1002
+            ]
+        ],
+        "PictureLevel": 1801000,
+        "TaskPath": "AlienDefense/AD03Normal01.AD03Normal01"
+    },
+    {
+        "ID": 6222,
+        "ReferIcon": 1001360,
+        "StartTime": "[202510130400]",
+        "EndTime": "[202511020400]",
+        "LevelType": 1,
+        "MapID": 6222,
+        "FightID": 1,
+        "Condition": {
+            "2": 6221
+        },
+        "NextID": 6223,
+        "Scorelimit": "",
+        "Monster": [
+            470121701,
+            470121601,
+            470100801
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1002
+            ]
+        ],
+        "PictureLevel": 1803089,
+        "TaskPath": "AlienDefense/AD03Normal02.AD03Normal02"
+    },
+    {
+        "ID": 6223,
+        "ReferIcon": 1001359,
+        "StartTime": "[202510130400]",
+        "EndTime": "[202511020400]",
+        "LevelType": 1,
+        "MapID": 6223,
+        "FightID": 1,
+        "Condition": {
+            "2": 6222
+        },
+        "NextID": 6224,
+        "Scorelimit": "",
+        "Monster": [
+            470121704,
+            470121204,
+            470121304
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1004
+            ]
+        ],
+        "PictureLevel": 1801016,
+        "TaskPath": "AlienDefense/AD03Normal03.AD03Normal03"
+    },
+    {
+        "ID": 6224,
+        "ReferIcon": 1001359,
+        "StartTime": "[202510130400]",
+        "EndTime": "[202511020400]",
+        "LevelType": 1,
+        "MapID": 6224,
+        "FightID": 1,
+        "Condition": {
+            "2": 6223
+        },
+        "NextID": 6225,
+        "Scorelimit": "",
+        "Monster": [
+            470121204,
+            470121304,
+            470121604
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1004
+            ]
+        ],
+        "PictureLevel": 1801005,
+        "TaskPath": "AlienDefense/AD03Normal04.AD03Normal04"
+    },
+    {
+        "ID": 6225,
+        "ReferIcon": 1001362,
+        "StartTime": "[202510130400]",
+        "EndTime": "[202511020400]",
+        "LevelType": 1,
+        "MapID": 6225,
+        "FightID": 1,
+        "Condition": {
+            "2": 6224
+        },
+        "NextID": 6226,
+        "Scorelimit": "",
+        "Monster": [
+            470121203,
+            470121303,
+            470121503
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1003
+            ]
+        ],
+        "PictureLevel": 1801000,
+        "TaskPath": "AlienDefense/AD03Normal05.AD03Normal05"
+    },
+    {
+        "ID": 6226,
+        "ReferIcon": 1001362,
+        "StartTime": "[202510130400]",
+        "EndTime": "[202511020400]",
+        "LevelType": 1,
+        "MapID": 6226,
+        "FightID": 1,
+        "Condition": {
+            "2": 6225
+        },
+        "NextID": 6227,
+        "Scorelimit": "",
+        "Monster": [
+            470121303,
+            470121503,
+            470130601
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1003
+            ]
+        ],
+        "PictureLevel": 1803089,
+        "TaskPath": "AlienDefense/AD03Normal06.AD03Normal06"
+    },
+    {
+        "ID": 6227,
+        "ReferIcon": 1001358,
+        "StartTime": "[202510130400]",
+        "EndTime": "[202511020400]",
+        "LevelType": 1,
+        "MapID": 6227,
+        "FightID": 1,
+        "Condition": {
+            "2": 6226
+        },
+        "NextID": 6228,
+        "Scorelimit": "",
+        "Monster": [
+            470121705,
+            470121205,
+            470130601
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1019
+            ]
+        ],
+        "PictureLevel": 1801016,
+        "TaskPath": "AlienDefense/AD03Normal07.AD03Normal07"
+    },
+    {
+        "ID": 6228,
+        "ReferIcon": 1001358,
+        "StartTime": "[202510130400]",
+        "EndTime": "[202511020400]",
+        "LevelType": 1,
+        "MapID": 6228,
+        "FightID": 1,
+        "Condition": {
+            "2": 6227
+        },
+        "NextID": 6229,
+        "Scorelimit": "",
+        "Monster": [
+            470121205,
+            470121605,
+            470121505
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1019
+            ]
+        ],
+        "PictureLevel": 1801005,
+        "TaskPath": "AlienDefense/AD03Normal08.AD03Normal08"
+    },
+    {
+        "ID": 6229,
+        "ReferIcon": 1001364,
+        "StartTime": "[202510130400]",
+        "EndTime": "[202511020400]",
+        "LevelType": 1,
+        "MapID": 6229,
+        "FightID": 1,
+        "Condition": {
+            "2": 6228
+        },
+        "NextID": 6230,
+        "Scorelimit": "",
+        "Monster": [
+            470121302,
+            470121502,
+            470131001
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1001
+            ]
+        ],
+        "PictureLevel": 1801016,
+        "TaskPath": "AlienDefense/AD03Normal09.AD03Normal09"
+    },
+    {
+        "ID": 6230,
+        "ReferIcon": 1001364,
+        "StartTime": "[202510130400]",
+        "EndTime": "[202511020400]",
+        "LevelType": 1,
+        "MapID": 6230,
+        "FightID": 1,
+        "Condition": {
+            "2": 6229
+        },
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121302,
+            470121602,
+            470101301
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1001
+            ]
+        ],
+        "PictureLevel": 1801005,
+        "TaskPath": "AlienDefense/AD03Normal10.AD03Normal10"
+    },
+    {
+        "ID": 6231,
+        "ReferIcon": 1001360,
+        "StartTime": "[202601300400]",
+        "EndTime": "[202602020400]",
+        "LevelType": 1,
+        "MapID": 6231,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": 6232,
+        "Scorelimit": "",
+        "Monster": [
+            470121701,
+            470121201,
+            470121601
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1002
+            ]
+        ],
+        "PictureLevel": 1801000,
+        "TaskPath": "AlienDefense/AD04Normal01.AD04Normal01"
+    },
+    {
+        "ID": 6232,
+        "ReferIcon": 1001359,
+        "StartTime": "[202601300400]",
+        "EndTime": "[202602020400]",
+        "LevelType": 1,
+        "MapID": 6232,
+        "FightID": 1,
+        "Condition": {
+            "2": 6231
+        },
+        "NextID": 6233,
+        "Scorelimit": "",
+        "Monster": [
+            470121704,
+            470121204,
+            470121304
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1004
+            ]
+        ],
+        "PictureLevel": 1803089,
+        "TaskPath": "AlienDefense/AD04Normal02.AD04Normal02"
+    },
+    {
+        "ID": 6233,
+        "ReferIcon": 1001362,
+        "StartTime": "[202601300400]",
+        "EndTime": "[202602020400]",
+        "LevelType": 1,
+        "MapID": 6233,
+        "FightID": 1,
+        "Condition": {
+            "2": 6232
+        },
+        "NextID": 6234,
+        "Scorelimit": "",
+        "Monster": [
+            470121203,
+            470121303,
+            470121503
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1003
+            ]
+        ],
+        "PictureLevel": 1801016,
+        "TaskPath": "AlienDefense/AD04Normal03.AD04Normal03"
+    },
+    {
+        "ID": 6234,
+        "ReferIcon": 1001358,
+        "StartTime": "[202601300400]",
+        "EndTime": "[202602020400]",
+        "LevelType": 1,
+        "MapID": 6234,
+        "FightID": 1,
+        "Condition": {
+            "2": 6233
+        },
+        "NextID": 6235,
+        "Scorelimit": "",
+        "Monster": [
+            470121705,
+            470121205,
+            470130601
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1019
+            ]
+        ],
+        "PictureLevel": 1801005,
+        "TaskPath": "AlienDefense/AD04Normal04.AD04Normal04"
+    },
+    {
+        "ID": 6235,
+        "ReferIcon": 1001364,
+        "StartTime": "[202601300400]",
+        "EndTime": "[202602020400]",
+        "LevelType": 1,
+        "MapID": 6235,
+        "FightID": 1,
+        "Condition": {
+            "2": 6234
+        },
+        "NextID": 6236,
+        "Scorelimit": "",
+        "Monster": [
+            470121302,
+            470121502,
+            470131001
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1001
+            ]
+        ],
+        "PictureLevel": 1803146,
+        "TaskPath": "AlienDefense/AD04Normal05.AD04Normal05"
+    },
+    {
+        "ID": 6236,
+        "ReferIcon": 1001360,
+        "StartTime": "[202601300400]",
+        "EndTime": "[202602020400]",
+        "LevelType": 1,
+        "MapID": 6236,
+        "FightID": 1,
+        "Condition": {
+            "2": 6235
+        },
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121701,
+            470121601,
+            470100801
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1002
+            ]
+        ],
+        "PictureLevel": 1803145,
+        "TaskPath": "AlienDefense/AD04Normal06.AD04Normal06"
+    },
+    {
+        "ID": 6701,
+        "ReferIcon": 1001365,
+        "StartTime": "[202502200400]",
+        "EndTime": "[202503050400]",
+        "LevelType": 2,
+        "MapID": 6701,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": 6702,
+        "Scorelimit": "",
+        "Monster": [
+            470121704,
+            470121204,
+            470121304,
+            570121401,
+            670160201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": {
+            "1001": 2001
+        },
+        "PictureLevel": 1801004,
+        "TaskPath": "AlienDefense/AD01Challenge01.AD01Challenge01"
+    },
+    {
+        "ID": 6702,
+        "ReferIcon": 1001364,
+        "StartTime": "[202502200400]",
+        "EndTime": "[202503050400]",
+        "LevelType": 2,
+        "MapID": 6702,
+        "FightID": 1,
+        "Condition": {
+            "2": 6701
+        },
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121704,
+            470121204,
+            470121504,
+            570100901,
+            670160201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": {
+            "1001": 2002
+        },
+        "PictureLevel": 1801004,
+        "TaskPath": "AlienDefense/AD01Challenge02.AD01Challenge02"
+    },
+    {
+        "ID": 6703,
+        "ReferIcon": 1001361,
+        "StartTime": "[202502200400]",
+        "EndTime": "[202503050400]",
+        "LevelType": 2,
+        "MapID": 6703,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": 6704,
+        "Scorelimit": "",
+        "Monster": [
+            470121702,
+            470121202,
+            470121502,
+            570100101,
+            670120501
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": {
+            "1002": 2003
+        },
+        "PictureLevel": 1801000,
+        "TaskPath": "AlienDefense/AD01Challenge03.AD01Challenge03"
+    },
+    {
+        "ID": 6704,
+        "ReferIcon": 1001360,
+        "StartTime": "[202502200400]",
+        "EndTime": "[202503050400]",
+        "LevelType": 2,
+        "MapID": 6704,
+        "FightID": 1,
+        "Condition": {
+            "2": 6703
+        },
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121702,
+            470121202,
+            470121502,
+            570111301,
+            670120501
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": {
+            "1002": 2004
+        },
+        "PictureLevel": 1801000,
+        "TaskPath": "AlienDefense/AD01Challenge04.AD01Challenge04"
+    },
+    {
+        "ID": 6705,
+        "ReferIcon": 1001362,
+        "StartTime": "[202502200400]",
+        "EndTime": "[202503050400]",
+        "LevelType": 2,
+        "MapID": 6705,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": 6706,
+        "Scorelimit": "",
+        "Monster": [
+            470121703,
+            470121203,
+            470131001,
+            570101701,
+            670120701
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": {
+            "1003": 2005
+        },
+        "PictureLevel": 1801003,
+        "TaskPath": "AlienDefense/AD01Challenge05.AD01Challenge05"
+    },
+    {
+        "ID": 6706,
+        "ReferIcon": 1001363,
+        "StartTime": "[202502200400]",
+        "EndTime": "[202503050400]",
+        "LevelType": 2,
+        "MapID": 6706,
+        "FightID": 1,
+        "Condition": {
+            "2": 6705
+        },
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121703,
+            470121203,
+            470131001,
+            570110901,
+            670120701
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": {
+            "1003": 2006
+        },
+        "PictureLevel": 1801003,
+        "TaskPath": "AlienDefense/AD01Challenge06.AD01Challenge06"
+    },
+    {
+        "ID": 6707,
+        "ReferIcon": 1001359,
+        "StartTime": "[202502200400]",
+        "EndTime": "[202503050400]",
+        "LevelType": 2,
+        "MapID": 6707,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": 6708,
+        "Scorelimit": "",
+        "Monster": [
+            470121704,
+            470121204,
+            470121504,
+            570100101,
+            670100201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": {
+            "1005": 2007
+        },
+        "PictureLevel": 1801016,
+        "TaskPath": "AlienDefense/AD01Challenge07.AD01Challenge07"
+    },
+    {
+        "ID": 6708,
+        "ReferIcon": 1001358,
+        "StartTime": "[202502200400]",
+        "EndTime": "[202503050400]",
+        "LevelType": 2,
+        "MapID": 6708,
+        "FightID": 1,
+        "Condition": {
+            "2": 6707
+        },
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121703,
+            470121203,
+            470131001,
+            570100901,
+            670100201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": {
+            "1005": 2008
+        },
+        "PictureLevel": 1801016,
+        "TaskPath": "AlienDefense/AD01Challenge08.AD01Challenge08"
+    },
+    {
+        "ID": 6709,
+        "ReferIcon": 1001364,
+        "StartTime": "[202505051000]",
+        "EndTime": "[202505180400]",
+        "LevelType": 2,
+        "MapID": 6709,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121702,
+            470121201,
+            470121303,
+            570121401,
+            670160201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1001
+            ]
+        ],
+        "PictureLevel": 1801000,
+        "TaskPath": "AlienDefense/AD02Challenge01.AD02Challenge01"
+    },
+    {
+        "ID": 6710,
+        "ReferIcon": 1001362,
+        "StartTime": "[202505051000]",
+        "EndTime": "[202505180400]",
+        "LevelType": 2,
+        "MapID": 6710,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121704,
+            470121505,
+            470121602,
+            570100901,
+            670100201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1003
+            ]
+        ],
+        "PictureLevel": 1803089,
+        "TaskPath": "AlienDefense/AD02Challenge02.AD02Challenge02"
+    },
+    {
+        "ID": 6711,
+        "ReferIcon": 1001360,
+        "StartTime": "[202505051000]",
+        "EndTime": "[202505180400]",
+        "LevelType": 2,
+        "MapID": 6711,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121701,
+            470121205,
+            470121502,
+            570100101,
+            670120501
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1002
+            ]
+        ],
+        "PictureLevel": 1801016,
+        "TaskPath": "AlienDefense/AD02Challenge03.AD02Challenge03"
+    },
+    {
+        "ID": 6712,
+        "ReferIcon": 1001359,
+        "StartTime": "[202505051000]",
+        "EndTime": "[202505180400]",
+        "LevelType": 2,
+        "MapID": 6712,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121601,
+            470121202,
+            470121303,
+            570111301,
+            670100201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1004
+            ]
+        ],
+        "PictureLevel": 1801005,
+        "TaskPath": "AlienDefense/AD02Challenge04.AD02Challenge04"
+    },
+    {
+        "ID": 6713,
+        "ReferIcon": 1001358,
+        "StartTime": "[202505051000]",
+        "EndTime": "[202505180400]",
+        "LevelType": 2,
+        "MapID": 6713,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121504,
+            470121203,
+            470121605,
+            570101701,
+            670120701
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1019
+            ]
+        ],
+        "PictureLevel": 1801000,
+        "TaskPath": "AlienDefense/AD02Challenge05.AD02Challenge05"
+    },
+    {
+        "ID": 6714,
+        "ReferIcon": 1001364,
+        "StartTime": "[202510200400]",
+        "EndTime": "[202511020400]",
+        "LevelType": 2,
+        "MapID": 6714,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121702,
+            470121201,
+            470121303,
+            570121401,
+            670160201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1001
+            ]
+        ],
+        "PictureLevel": 1801000,
+        "TaskPath": "AlienDefense/AD03Challenge01.AD03Challenge01"
+    },
+    {
+        "ID": 6715,
+        "ReferIcon": 1001362,
+        "StartTime": "[202510200400]",
+        "EndTime": "[202511020400]",
+        "LevelType": 2,
+        "MapID": 6715,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121704,
+            470121505,
+            470121602,
+            570100901,
+            670100201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1003
+            ]
+        ],
+        "PictureLevel": 1803089,
+        "TaskPath": "AlienDefense/AD03Challenge02.AD03Challenge02"
+    },
+    {
+        "ID": 6716,
+        "ReferIcon": 1001360,
+        "StartTime": "[202510200400]",
+        "EndTime": "[202511020400]",
+        "LevelType": 2,
+        "MapID": 6716,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121701,
+            470121205,
+            470121502,
+            570100101,
+            670120501
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1002
+            ]
+        ],
+        "PictureLevel": 1801016,
+        "TaskPath": "AlienDefense/AD03Challenge03.AD03Challenge03"
+    },
+    {
+        "ID": 6717,
+        "ReferIcon": 1001359,
+        "StartTime": "[202510200400]",
+        "EndTime": "[202511020400]",
+        "LevelType": 2,
+        "MapID": 6717,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121601,
+            470121202,
+            470121303,
+            570111301,
+            670100201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1004
+            ]
+        ],
+        "PictureLevel": 1801005,
+        "TaskPath": "AlienDefense/AD03Challenge04.AD03Challenge04"
+    },
+    {
+        "ID": 6718,
+        "ReferIcon": 1001358,
+        "StartTime": "[202510200400]",
+        "EndTime": "[202511020400]",
+        "LevelType": 2,
+        "MapID": 6718,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121504,
+            470121203,
+            470121605,
+            570101701,
+            670120701
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1019
+            ]
+        ],
+        "PictureLevel": 1801000,
+        "TaskPath": "AlienDefense/AD03Challenge05.AD03Challenge05"
+    },
+    {
+        "ID": 6719,
+        "ReferIcon": 1001364,
+        "StartTime": "[202601300400]",
+        "EndTime": "[202602020400]",
+        "LevelType": 2,
+        "MapID": 6719,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121702,
+            470121201,
+            470121303,
+            570121401,
+            670160201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1001
+            ]
+        ],
+        "PictureLevel": 1803089,
+        "TaskPath": "AlienDefense/AD04Challenge01.AD04Challenge01"
+    },
+    {
+        "ID": 6720,
+        "ReferIcon": 1001362,
+        "StartTime": "[202601300400]",
+        "EndTime": "[202602020400]",
+        "LevelType": 2,
+        "MapID": 6720,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121704,
+            470121505,
+            470121602,
+            570100901,
+            670100201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1003
+            ]
+        ],
+        "PictureLevel": 1801016,
+        "TaskPath": "AlienDefense/AD04Challenge02.AD04Challenge02"
+    },
+    {
+        "ID": 6721,
+        "ReferIcon": 1001360,
+        "StartTime": "[202601300400]",
+        "EndTime": "[202602020400]",
+        "LevelType": 2,
+        "MapID": 6721,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121701,
+            470121205,
+            470121502,
+            570100101,
+            670120501
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1002
+            ]
+        ],
+        "PictureLevel": 1801005,
+        "TaskPath": "AlienDefense/AD04Challenge03.AD04Challenge03"
+    },
+    {
+        "ID": 6722,
+        "ReferIcon": 1001359,
+        "StartTime": "[202601300400]",
+        "EndTime": "[202602020400]",
+        "LevelType": 2,
+        "MapID": 6722,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121601,
+            470121202,
+            470121303,
+            570111301,
+            670100201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1004
+            ]
+        ],
+        "PictureLevel": 1803146,
+        "TaskPath": "AlienDefense/AD04Challenge04.AD04Challenge04"
+    },
+    {
+        "ID": 6723,
+        "ReferIcon": 1001358,
+        "StartTime": "[202601300400]",
+        "EndTime": "[202602020400]",
+        "LevelType": 2,
+        "MapID": 6723,
+        "FightID": 1,
+        "Condition": "",
+        "NextID": "",
+        "Scorelimit": "",
+        "Monster": [
+            470121504,
+            470121203,
+            470121605,
+            570101701,
+            670120701
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1019
+            ]
+        ],
+        "PictureLevel": 1803145,
+        "TaskPath": "AlienDefense/AD04Challenge05.AD04Challenge05"
+    },
+    {
+        "ID": 6901,
+        "ReferIcon": "",
+        "StartTime": "[202502131000]",
+        "EndTime": "[202503050400]",
+        "LevelType": 3,
+        "MapID": 6901,
+        "FightID": 1,
+        "Condition": {
+            "2": 6210
+        },
+        "NextID": "",
+        "Scorelimit": 65535,
+        "Monster": [
+            470121701,
+            470121201,
+            470121501,
+            570121401
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": {
+            "1001": 1012,
+            "1005": 1016,
+            "1008": 1013,
+            "1002": 1011,
+            "1006": 1017,
+            "1003": 1010,
+            "1004": 1009,
+            "1007": 1014
+        },
+        "PictureLevel": 1801016,
+        "TaskPath": "AlienDefense/AD01Endless01.AD01Endless01"
+    },
+    {
+        "ID": 6902,
+        "ReferIcon": "",
+        "StartTime": "[202504281000]",
+        "EndTime": "[202505180400]",
+        "LevelType": 3,
+        "MapID": 6902,
+        "FightID": 1,
+        "Condition": {
+            "2": 6220
+        },
+        "NextID": "",
+        "Scorelimit": 65535,
+        "Monster": [
+            470121701,
+            470121604,
+            470100801,
+            570110901,
+            670100201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1006
+            ],
+            [
+                1007
+            ],
+            [
+                1008
+            ]
+        ],
+        "PictureLevel": 1801000,
+        "TaskPath": "AlienDefense/AD02Endless01.AD02Endless01"
+    },
+    {
+        "ID": 6903,
+        "ReferIcon": "",
+        "StartTime": "[202504281000]",
+        "EndTime": "[202505180400]",
+        "LevelType": 3,
+        "MapID": 6903,
+        "FightID": 1,
+        "Condition": {
+            "2": 6220
+        },
+        "NextID": "",
+        "Scorelimit": 65535,
+        "Monster": [
+            470121204,
+            470121303,
+            470131001,
+            570100101,
+            670160201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1006
+            ],
+            [
+                1007
+            ],
+            [
+                1008
+            ]
+        ],
+        "PictureLevel": 1803089,
+        "TaskPath": "AlienDefense/AD02Endless02.AD02Endless02"
+    },
+    {
+        "ID": 6904,
+        "ReferIcon": "",
+        "StartTime": "[202504281000]",
+        "EndTime": "[202505180400]",
+        "LevelType": 3,
+        "MapID": 6904,
+        "FightID": 1,
+        "Condition": {
+            "2": 6220
+        },
+        "NextID": "",
+        "Scorelimit": 65535,
+        "Monster": [
+            470121503,
+            470121605,
+            470101301,
+            570111301,
+            670120501
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1006
+            ],
+            [
+                1007
+            ],
+            [
+                1008
+            ]
+        ],
+        "PictureLevel": 1801016,
+        "TaskPath": "AlienDefense/AD02Endless03.AD02Endless03"
+    },
+    {
+        "ID": 6905,
+        "ReferIcon": "",
+        "StartTime": "[202504281000]",
+        "EndTime": "[202505180400]",
+        "LevelType": 3,
+        "MapID": 6905,
+        "FightID": 1,
+        "Condition": {
+            "2": 6220
+        },
+        "NextID": "",
+        "Scorelimit": 65535,
+        "Monster": [
+            470121205,
+            470121502,
+            470130601,
+            570101701,
+            670120701
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1006
+            ],
+            [
+                1007
+            ],
+            [
+                1008
+            ]
+        ],
+        "PictureLevel": 1801005,
+        "TaskPath": "AlienDefense/AD02Endless04.AD02Endless04"
+    },
+    {
+        "ID": 6906,
+        "ReferIcon": "",
+        "StartTime": "[202510130400]",
+        "EndTime": "[202511020400]",
+        "LevelType": 3,
+        "MapID": 6906,
+        "FightID": 1,
+        "Condition": {
+            "2": 6230
+        },
+        "NextID": "",
+        "Scorelimit": 65535,
+        "Monster": [
+            470121701,
+            470121604,
+            470100801,
+            570110901,
+            670100201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1006
+            ],
+            [
+                1007
+            ],
+            [
+                1008
+            ]
+        ],
+        "PictureLevel": 1801000,
+        "TaskPath": "AlienDefense/AD03Endless01.AD03Endless01"
+    },
+    {
+        "ID": 6907,
+        "ReferIcon": "",
+        "StartTime": "[202510130400]",
+        "EndTime": "[202511020400]",
+        "LevelType": 3,
+        "MapID": 6907,
+        "FightID": 1,
+        "Condition": {
+            "2": 6230
+        },
+        "NextID": "",
+        "Scorelimit": 65535,
+        "Monster": [
+            470121204,
+            470121303,
+            470131001,
+            570100101,
+            670160201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1006
+            ],
+            [
+                1007
+            ],
+            [
+                1008
+            ]
+        ],
+        "PictureLevel": 1803089,
+        "TaskPath": "AlienDefense/AD03Endless02.AD03Endless02"
+    },
+    {
+        "ID": 6908,
+        "ReferIcon": "",
+        "StartTime": "[202510130400]",
+        "EndTime": "[202511020400]",
+        "LevelType": 3,
+        "MapID": 6908,
+        "FightID": 1,
+        "Condition": {
+            "2": 6230
+        },
+        "NextID": "",
+        "Scorelimit": 65535,
+        "Monster": [
+            470121503,
+            470121605,
+            470101301,
+            570111301,
+            670120501
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1006
+            ],
+            [
+                1007
+            ],
+            [
+                1008
+            ]
+        ],
+        "PictureLevel": 1801016,
+        "TaskPath": "AlienDefense/AD03Endless03.AD03Endless03"
+    },
+    {
+        "ID": 6909,
+        "ReferIcon": "",
+        "StartTime": "[202510130400]",
+        "EndTime": "[202511020400]",
+        "LevelType": 3,
+        "MapID": 6909,
+        "FightID": 1,
+        "Condition": {
+            "2": 6230
+        },
+        "NextID": "",
+        "Scorelimit": 65535,
+        "Monster": [
+            470121205,
+            470121502,
+            470130601,
+            570101701,
+            670120701
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1006
+            ],
+            [
+                1007
+            ],
+            [
+                1008
+            ]
+        ],
+        "PictureLevel": 1801005,
+        "TaskPath": "AlienDefense/AD03Endless04.AD03Endless04"
+    },
+    {
+        "ID": 6910,
+        "ReferIcon": "",
+        "StartTime": "[202601300400]",
+        "EndTime": "[202602020400]",
+        "LevelType": 3,
+        "MapID": 6910,
+        "FightID": 1,
+        "Condition": {
+            "2": 6236
+        },
+        "NextID": "",
+        "Scorelimit": 65535,
+        "Monster": [
+            470121701,
+            470121604,
+            470100801,
+            570110901,
+            670100201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1006
+            ],
+            [
+                1007
+            ],
+            [
+                1008
+            ]
+        ],
+        "PictureLevel": 1801000,
+        "TaskPath": "AlienDefense/AD04Endless01.AD04Endless01"
+    },
+    {
+        "ID": 6911,
+        "ReferIcon": "",
+        "StartTime": "[202601300400]",
+        "EndTime": "[202602020400]",
+        "LevelType": 3,
+        "MapID": 6911,
+        "FightID": 1,
+        "Condition": {
+            "2": 6236
+        },
+        "NextID": "",
+        "Scorelimit": 65535,
+        "Monster": [
+            470121204,
+            470121303,
+            470131001,
+            570100101,
+            670160201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1006
+            ],
+            [
+                1007
+            ],
+            [
+                1008
+            ]
+        ],
+        "PictureLevel": 1803089,
+        "TaskPath": "AlienDefense/AD04Endless02.AD04Endless02"
+    },
+    {
+        "ID": 6912,
+        "ReferIcon": "",
+        "StartTime": "[202601300400]",
+        "EndTime": "[202602020400]",
+        "LevelType": 3,
+        "MapID": 6912,
+        "FightID": 1,
+        "Condition": {
+            "2": 6236
+        },
+        "NextID": "",
+        "Scorelimit": 65535,
+        "Monster": [
+            470121503,
+            470121605,
+            470101301,
+            570111301,
+            670120501
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1006
+            ],
+            [
+                1007
+            ],
+            [
+                1008
+            ]
+        ],
+        "PictureLevel": 1801016,
+        "TaskPath": "AlienDefense/AD04Endless03.AD04Endless03"
+    },
+    {
+        "ID": 6913,
+        "ReferIcon": "",
+        "StartTime": "[202601300400]",
+        "EndTime": "[202602020400]",
+        "LevelType": 3,
+        "MapID": 6913,
+        "FightID": 1,
+        "Condition": {
+            "2": 6236
+        },
+        "NextID": "",
+        "Scorelimit": 65535,
+        "Monster": [
+            470121205,
+            470121502,
+            470130601,
+            570101701,
+            670120701
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1006
+            ],
+            [
+                1007
+            ],
+            [
+                1008
+            ]
+        ],
+        "PictureLevel": 1801005,
+        "TaskPath": "AlienDefense/AD04Endless04.AD04Endless04"
+    },
+    {
+        "ID": 6914,
+        "ReferIcon": "",
+        "StartTime": "[202601300400]",
+        "EndTime": "[202602020400]",
+        "LevelType": 3,
+        "MapID": 6914,
+        "FightID": 1,
+        "Condition": {
+            "2": 6236
+        },
+        "NextID": "",
+        "Scorelimit": 65535,
+        "Monster": [
+            470121704,
+            470121505,
+            470121602,
+            570100901,
+            670100201
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1006
+            ],
+            [
+                1007
+            ],
+            [
+                1008
+            ]
+        ],
+        "PictureLevel": 1803146,
+        "TaskPath": "AlienDefense/AD04Endless05.AD04Endless05"
+    },
+    {
+        "ID": 6915,
+        "ReferIcon": "",
+        "StartTime": "[202601300400]",
+        "EndTime": "[202602020400]",
+        "LevelType": 3,
+        "MapID": 6915,
+        "FightID": 1,
+        "Condition": {
+            "2": 6236
+        },
+        "NextID": "",
+        "Scorelimit": 65535,
+        "Monster": [
+            470121702,
+            470121201,
+            470121303,
+            570121401,
+            670120701
+        ],
+        "LevelStrength": 23,
+        "ReferBuff": [
+            [
+                1006
+            ],
+            [
+                1007
+            ],
+            [
+                1008
+            ]
+        ],
+        "PictureLevel": 1803145,
+        "TaskPath": "AlienDefense/AD04Endless06.AD04Endless06"
+    }
+]

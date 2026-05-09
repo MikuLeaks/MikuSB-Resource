@@ -1,0 +1,68 @@
+[
+    {
+        "ID": 1,
+        "Type": 1,
+        "Icon": 1545001,
+        "Name": "house.Coinpusher_StartPropName1",
+        "Desc": "house.Coinpusher_StartPropDesc1",
+        "Param": 20,
+        "ExtraParam": "",
+        "LockTip": "house.Coinpusher_StartProp1LockTip",
+        "UnlockCondition": [
+            1,
+            30
+        ],
+        "ActivePropNums": "",
+        "PassivePropNums": 5
+    },
+    {
+        "ID": 2,
+        "Type": 1,
+        "Icon": 1545002,
+        "Name": "house.Coinpusher_StartPropName2",
+        "Desc": "house.Coinpusher_StartPropDesc2",
+        "Param": 1,
+        "ExtraParam": "",
+        "LockTip": "house.Coinpusher_StartProp2LockTip",
+        "UnlockCondition": [
+            8,
+            1
+        ],
+        "ActivePropNums": "",
+        "PassivePropNums": 5
+    },
+    {
+        "ID": 3,
+        "Type": 2,
+        "Icon": 1545003,
+        "Name": "house.Coinpusher_StartPropName3",
+        "Desc": "house.Coinpusher_StartPropDesc3",
+        "Param": "20,1,0.1,10",
+        "ExtraParam": "",
+        "LockTip": "house.Coinpusher_StartProp3LockTip",
+        "UnlockCondition": [
+            8,
+            1
+        ],
+        "ActivePropNums": 2,
+        "PassivePropNums": "",
+        "StoreContent": 1
+    },
+    {
+        "ID": 4,
+        "Type": 2,
+        "Icon": 1545004,
+        "Name": "house.Coinpusher_StartPropName4",
+        "Desc": "house.Coinpusher_StartPropDesc4",
+        "Param": "5,1",
+        "ExtraParam": "",
+        "LockTip": "house.Coinpusher_StartProp4LockTip",
+        "UnlockCondition": [
+            2,
+            5
+        ],
+        "ActivePropNums": 2,
+        "PassivePropNums": "",
+        "StoreContent": 2
+    }
+]

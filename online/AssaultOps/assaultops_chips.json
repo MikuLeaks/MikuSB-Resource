@@ -1,0 +1,1247 @@
+[
+    {
+        "Id": 1,
+        "NameKey": "assaultops.Chips_SkillName1",
+        "DescriptionKey": "assaultops.Chips_SkillDescription1",
+        "DescriptionPerCount": "",
+        "SlotType": 1,
+        "FunctionType": 1,
+        "ChipsTypeTag": [
+            4
+        ],
+        "Icon": 1001750,
+        "Interval": 3,
+        "MaxQuality": 1,
+        "DecomposeCoin": "",
+        "AbilityId": 1
+    },
+    {
+        "Id": 2,
+        "NameKey": "assaultops.Chips_SkillName2",
+        "DescriptionKey": "assaultops.Chips_SkillDescription2",
+        "DescriptionPerCount": "",
+        "SlotType": 1,
+        "FunctionType": 1,
+        "ChipsTypeTag": [
+            4
+        ],
+        "Icon": 1001751,
+        "Interval": 3,
+        "MaxQuality": 1,
+        "DecomposeCoin": "",
+        "AbilityId": 2
+    },
+    {
+        "Id": 3,
+        "NameKey": "assaultops.Chips_SkillName3",
+        "DescriptionKey": "assaultops.Chips_SkillDescription3",
+        "DescriptionPerCount": [
+            6
+        ],
+        "SlotType": 1,
+        "FunctionType": 1,
+        "ChipsTypeTag": [
+            4
+        ],
+        "Icon": 1001752,
+        "Interval": 3,
+        "MaxQuality": 1,
+        "DecomposeCoin": "",
+        "AbilityId": 3
+    },
+    {
+        "Id": 4,
+        "NameKey": "assaultops.Chips_SkillName4",
+        "DescriptionKey": "assaultops.Chips_SkillDescription4",
+        "DescriptionPerCount": [
+            40,
+            20
+        ],
+        "SlotType": 1,
+        "FunctionType": 2,
+        "ChipsTypeTag": [
+            2
+        ],
+        "Icon": 1001753,
+        "Interval": 3,
+        "MaxQuality": 1,
+        "DecomposeCoin": "",
+        "AbilityId": 101,
+        "SkillfixId": "",
+        "ModifierId": [
+            3520009
+        ],
+        "ModifierDependChipId": 4
+    },
+    {
+        "Id": 5,
+        "NameKey": "assaultops.Chips_SkillName5",
+        "DescriptionKey": "assaultops.Chips_SkillDescription5",
+        "DescriptionPerCount": [
+            60,
+            20,
+            30
+        ],
+        "SlotType": 1,
+        "FunctionType": 2,
+        "ChipsTypeTag": [
+            2,
+            4
+        ],
+        "Icon": 1001754,
+        "Interval": 3,
+        "MaxQuality": 1,
+        "DecomposeCoin": "",
+        "AbilityId": 102,
+        "SkillfixId": "",
+        "ModifierId": [
+            3520012
+        ],
+        "ModifierDependChipId": 5
+    },
+    {
+        "Id": 6,
+        "NameKey": "assaultops.Chips_SkillName6",
+        "DescriptionKey": "assaultops.Chips_SkillDescription6",
+        "DescriptionPerCount": [
+            50,
+            50
+        ],
+        "SlotType": 1,
+        "FunctionType": 2,
+        "ChipsTypeTag": [
+            2
+        ],
+        "Icon": 1001755,
+        "Interval": 3,
+        "MaxQuality": 1,
+        "DecomposeCoin": "",
+        "AbilityId": 103,
+        "SkillfixId": "",
+        "ModifierId": [
+            3520015
+        ],
+        "ModifierDependChipId": 6
+    },
+    {
+        "Id": 101,
+        "NameKey": "assaultops.Chips_MainName1",
+        "DescriptionKey": "assaultops.Chips_MainDescription1",
+        "DescriptionPerCount": [
+            1
+        ],
+        "SlotType": 2,
+        "FunctionType": 1,
+        "ChipsTypeTag": [
+            1
+        ],
+        "Icon": 1001744,
+        "Interval": "",
+        "MaxQuality": 5,
+        "DecomposeCoin": [
+            62,
+            [
+                20,
+                60,
+                100,
+                200,
+                300
+            ]
+        ],
+        "AbilityId": "",
+        "SkillfixId": "",
+        "ModifierId": "",
+        "ModifierDependChipId": "",
+        "GamePlayType1": 1,
+        "GamePlayValue1": [
+            1,
+            2,
+            3
+        ],
+        "GamePlayType2": 3,
+        "GamePlayValue2": [
+            1,
+            1
+        ],
+        "AttributeType1": "Attack",
+        "AttributeValue1": [
+            70,
+            140,
+            280,
+            420,
+            700
+        ],
+        "AttributeType2": "ALLLEmentDamageBonus",
+        "AttributeValue2": [
+            2.3,
+            4.5,
+            9,
+            13.5,
+            22.5
+        ]
+    },
+    {
+        "Id": 102,
+        "NameKey": "assaultops.Chips_MainName2",
+        "DescriptionKey": "assaultops.Chips_MainDescription2",
+        "DescriptionPerCount": [
+            40
+        ],
+        "SlotType": 2,
+        "FunctionType": 1,
+        "ChipsTypeTag": [
+            1
+        ],
+        "Icon": 1001745,
+        "Interval": "",
+        "MaxQuality": 5,
+        "DecomposeCoin": [
+            62,
+            [
+                20,
+                60,
+                100,
+                200,
+                300
+            ]
+        ],
+        "AbilityId": "",
+        "SkillfixId": "",
+        "ModifierId": "",
+        "ModifierDependChipId": "",
+        "GamePlayType1": 2,
+        "GamePlayValue1": [
+            1,
+            0.6
+        ],
+        "GamePlayType2": "",
+        "GamePlayValue2": "",
+        "AttributeType1": "Attack",
+        "AttributeValue1": [
+            70,
+            140,
+            280,
+            420,
+            700
+        ],
+        "AttributeType2": "SkillCDQuick",
+        "AttributeValue2": [
+            5,
+            10,
+            20,
+            30,
+            50
+        ]
+    },
+    {
+        "Id": 103,
+        "NameKey": "assaultops.Chips_MainName3",
+        "DescriptionKey": "assaultops.Chips_MainDescription3",
+        "DescriptionPerCount": "",
+        "SlotType": 2,
+        "FunctionType": 1,
+        "ChipsTypeTag": [
+            3
+        ],
+        "Icon": 1001746,
+        "Interval": "",
+        "MaxQuality": 5,
+        "DecomposeCoin": [
+            62,
+            [
+                20,
+                60,
+                100,
+                200,
+                300
+            ]
+        ],
+        "AbilityId": "",
+        "SkillfixId": [
+            352000001
+        ],
+        "ModifierId": "",
+        "ModifierDependChipId": "",
+        "GamePlayType1": "",
+        "GamePlayValue1": "",
+        "GamePlayType2": "",
+        "GamePlayValue2": "",
+        "AttributeType1": "Attack",
+        "AttributeValue1": [
+            70,
+            140,
+            280,
+            420,
+            700
+        ],
+        "AttributeType2": "CriticalDamageAddtion",
+        "AttributeValue2": [
+            3,
+            6,
+            12,
+            18,
+            30
+        ]
+    },
+    {
+        "Id": 104,
+        "NameKey": "assaultops.Chips_BranchName1",
+        "DescriptionKey": "assaultops.Chips_BranchDescription1",
+        "DescriptionPerCount": {
+            "300": 600
+        },
+        "SlotType": 3,
+        "FunctionType": 1,
+        "ChipsTypeTag": [
+            3,
+            4
+        ],
+        "Icon": 1001756,
+        "Interval": "",
+        "MaxQuality": 5,
+        "DecomposeCoin": [
+            62,
+            [
+                20,
+                60,
+                100,
+                200,
+                300
+            ]
+        ],
+        "AbilityId": "",
+        "SkillfixId": [
+            352000101,
+            352000103
+        ],
+        "ModifierId": "",
+        "ModifierDependChipId": "",
+        "GamePlayType1": "",
+        "GamePlayValue1": "",
+        "GamePlayType2": "",
+        "GamePlayValue2": "",
+        "AttributeType1": "Attack",
+        "AttributeValue1": [
+            32,
+            63,
+            126,
+            189,
+            315
+        ],
+        "AttributeType2": "HealthMax",
+        "AttributeValue2": [
+            98,
+            195,
+            390,
+            585,
+            975
+        ]
+    },
+    {
+        "Id": 105,
+        "NameKey": "assaultops.Chips_BranchName2",
+        "DescriptionKey": "assaultops.Chips_BranchDescription2",
+        "DescriptionPerCount": [
+            [
+                90,
+                180
+            ],
+            80
+        ],
+        "SlotType": 3,
+        "FunctionType": 1,
+        "ChipsTypeTag": [
+            3,
+            5
+        ],
+        "Icon": 1001757,
+        "Interval": "",
+        "MaxQuality": 5,
+        "DecomposeCoin": [
+            62,
+            [
+                20,
+                60,
+                100,
+                200,
+                300
+            ]
+        ],
+        "AbilityId": "",
+        "SkillfixId": [
+            352000102,
+            352000104
+        ],
+        "ModifierId": "",
+        "ModifierDependChipId": "",
+        "GamePlayType1": "",
+        "GamePlayValue1": "",
+        "GamePlayType2": "",
+        "GamePlayValue2": "",
+        "AttributeType1": "Attack",
+        "AttributeValue1": [
+            23,
+            45,
+            90,
+            135,
+            225
+        ],
+        "AttributeType2": "Defence",
+        "AttributeValue2": [
+            8,
+            16,
+            32,
+            48,
+            80
+        ]
+    },
+    {
+        "Id": 106,
+        "NameKey": "assaultops.Chips_BranchName3",
+        "DescriptionKey": "assaultops.Chips_BranchDescription3",
+        "DescriptionPerCount": [
+            10
+        ],
+        "SlotType": 3,
+        "FunctionType": 1,
+        "ChipsTypeTag": [
+            3
+        ],
+        "Icon": 1001758,
+        "Interval": "",
+        "MaxQuality": 5,
+        "DecomposeCoin": [
+            62,
+            [
+                20,
+                60,
+                100,
+                200,
+                300
+            ]
+        ],
+        "AbilityId": "",
+        "SkillfixId": [
+            352000201,
+            352000203
+        ],
+        "ModifierId": "",
+        "ModifierDependChipId": "",
+        "GamePlayType1": "",
+        "GamePlayValue1": "",
+        "GamePlayType2": "",
+        "GamePlayValue2": "",
+        "AttributeType1": "Attack",
+        "AttributeValue1": [
+            27,
+            54,
+            108,
+            162,
+            270
+        ],
+        "AttributeType2": "HealthMax",
+        "AttributeValue2": [
+            130,
+            260,
+            520,
+            780,
+            1300
+        ]
+    },
+    {
+        "Id": 107,
+        "NameKey": "assaultops.Chips_BranchName4",
+        "DescriptionKey": "assaultops.Chips_BranchDescription4",
+        "DescriptionPerCount": [
+            50,
+            [
+                100,
+                200
+            ]
+        ],
+        "SlotType": 3,
+        "FunctionType": 1,
+        "ChipsTypeTag": [
+            3,
+            6
+        ],
+        "Icon": 1001759,
+        "Interval": "",
+        "MaxQuality": 5,
+        "DecomposeCoin": [
+            62,
+            [
+                20,
+                60,
+                100,
+                200,
+                300
+            ]
+        ],
+        "AbilityId": "",
+        "SkillfixId": [
+            352000202,
+            352000204
+        ],
+        "ModifierId": "",
+        "ModifierDependChipId": "",
+        "GamePlayType1": "",
+        "GamePlayValue1": "",
+        "GamePlayType2": "",
+        "GamePlayValue2": "",
+        "AttributeType1": "HealthMax",
+        "AttributeValue1": [
+            195,
+            390,
+            780,
+            1170,
+            1950
+        ],
+        "AttributeType2": "Defence",
+        "AttributeValue2": [
+            6,
+            13,
+            26,
+            38,
+            64
+        ]
+    },
+    {
+        "Id": 108,
+        "NameKey": "assaultops.Chips_BranchName5",
+        "DescriptionKey": "assaultops.Chips_BranchDescription5",
+        "DescriptionPerCount": [
+            6,
+            1
+        ],
+        "SlotType": 3,
+        "FunctionType": 1,
+        "ChipsTypeTag": [
+            3
+        ],
+        "Icon": 1001760,
+        "Interval": "",
+        "MaxQuality": 5,
+        "DecomposeCoin": [
+            62,
+            [
+                20,
+                60,
+                100,
+                200,
+                300
+            ]
+        ],
+        "AbilityId": "",
+        "SkillfixId": "",
+        "ModifierId": "",
+        "ModifierDependChipId": "",
+        "GamePlayType1": 7,
+        "GamePlayValue1": [
+            3,
+            4,
+            [
+                1,
+                2
+            ]
+        ],
+        "GamePlayType2": "",
+        "GamePlayValue2": "",
+        "AttributeType1": "HealthMax",
+        "AttributeValue1": [
+            130,
+            260,
+            520,
+            780,
+            1300
+        ],
+        "AttributeType2": "Defence",
+        "AttributeValue2": [
+            10,
+            19,
+            38,
+            58,
+            96
+        ]
+    },
+    {
+        "Id": 109,
+        "NameKey": "assaultops.Chips_BranchName6",
+        "DescriptionKey": "assaultops.Chips_BranchDescription6",
+        "DescriptionPerCount": {
+            "9": 12
+        },
+        "SlotType": 3,
+        "FunctionType": 1,
+        "ChipsTypeTag": [
+            1,
+            3
+        ],
+        "Icon": 1001761,
+        "Interval": "",
+        "MaxQuality": 5,
+        "DecomposeCoin": [
+            62,
+            [
+                20,
+                60,
+                100,
+                200,
+                300
+            ]
+        ],
+        "AbilityId": "",
+        "SkillfixId": [
+            352000302,
+            352000303
+        ],
+        "ModifierId": "",
+        "ModifierDependChipId": "",
+        "GamePlayType1": "",
+        "GamePlayValue1": "",
+        "GamePlayType2": "",
+        "GamePlayValue2": "",
+        "AttributeType1": "Attack",
+        "AttributeValue1": [
+            18,
+            36,
+            72,
+            108,
+            180
+        ],
+        "AttributeType2": "Defence",
+        "AttributeValue2": [
+            10,
+            19,
+            38,
+            58,
+            96
+        ]
+    },
+    {
+        "Id": 110,
+        "NameKey": "assaultops.Chips_MainName4",
+        "DescriptionKey": "assaultops.Chips_MainDescription4",
+        "DescriptionPerCount": [
+            50
+        ],
+        "SlotType": 2,
+        "FunctionType": 2,
+        "ChipsTypeTag": [
+            1
+        ],
+        "Icon": 1001747,
+        "Interval": "",
+        "MaxQuality": 5,
+        "DecomposeCoin": [
+            62,
+            [
+                20,
+                60,
+                100,
+                200,
+                300
+            ]
+        ],
+        "AbilityId": "",
+        "SkillfixId": "",
+        "ModifierId": "",
+        "ModifierDependChipId": "",
+        "GamePlayType1": 4,
+        "GamePlayValue1": [
+            2,
+            0.5
+        ],
+        "GamePlayType2": "",
+        "GamePlayValue2": "",
+        "AttributeType1": "Attack",
+        "AttributeValue1": [
+            70,
+            140,
+            280,
+            420,
+            700
+        ],
+        "AttributeType2": "ALLLEmentDamageBonus",
+        "AttributeValue2": [
+            2.3,
+            4.5,
+            9,
+            13.5,
+            22.5
+        ]
+    },
+    {
+        "Id": 111,
+        "NameKey": "assaultops.Chips_MainName5",
+        "DescriptionKey": "assaultops.Chips_MainDescription5",
+        "DescriptionPerCount": [
+            30,
+            7,
+            5
+        ],
+        "SlotType": 2,
+        "FunctionType": 2,
+        "ChipsTypeTag": [
+            2
+        ],
+        "Icon": 1001748,
+        "Interval": "",
+        "MaxQuality": 5,
+        "DecomposeCoin": [
+            62,
+            [
+                20,
+                60,
+                100,
+                200,
+                300
+            ]
+        ],
+        "AbilityId": "",
+        "SkillfixId": "",
+        "ModifierId": "",
+        "ModifierDependChipId": "",
+        "GamePlayType1": 5,
+        "GamePlayValue1": [
+            2,
+            3520008
+        ],
+        "GamePlayType2": "",
+        "GamePlayValue2": "",
+        "AttributeType1": "Attack",
+        "AttributeValue1": [
+            70,
+            140,
+            280,
+            420,
+            700
+        ],
+        "AttributeType2": "SkillCDQuick",
+        "AttributeValue2": [
+            5,
+            10,
+            20,
+            30,
+            50
+        ]
+    },
+    {
+        "Id": 112,
+        "NameKey": "assaultops.Chips_MainName6",
+        "DescriptionKey": "assaultops.Chips_MainDescription6",
+        "DescriptionPerCount": [
+            200
+        ],
+        "SlotType": 2,
+        "FunctionType": 2,
+        "ChipsTypeTag": [
+            3
+        ],
+        "Icon": 1001749,
+        "Interval": "",
+        "MaxQuality": 5,
+        "DecomposeCoin": [
+            62,
+            [
+                20,
+                60,
+                100,
+                200,
+                300
+            ]
+        ],
+        "AbilityId": "",
+        "SkillfixId": "",
+        "ModifierId": "",
+        "ModifierDependChipId": "",
+        "GamePlayType1": 6,
+        "GamePlayValue1": [
+            [
+                4,
+                5,
+                6
+            ],
+            3520007
+        ],
+        "GamePlayType2": "",
+        "GamePlayValue2": "",
+        "AttributeType1": "Attack",
+        "AttributeValue1": [
+            70,
+            140,
+            280,
+            420,
+            700
+        ],
+        "AttributeType2": "CriticalDamageAddtion",
+        "AttributeValue2": [
+            3,
+            6,
+            12,
+            18,
+            30
+        ]
+    },
+    {
+        "Id": 113,
+        "NameKey": "assaultops.Chips_BranchName7",
+        "DescriptionKey": "assaultops.Chips_BranchDescription7",
+        "DescriptionPerCount": {
+            "5": 10
+        },
+        "SlotType": 3,
+        "FunctionType": 2,
+        "ChipsTypeTag": [
+            2
+        ],
+        "Icon": 1001762,
+        "Interval": "",
+        "MaxQuality": 5,
+        "DecomposeCoin": [
+            62,
+            [
+                20,
+                60,
+                100,
+                200,
+                300
+            ]
+        ],
+        "AbilityId": "",
+        "SkillfixId": "",
+        "ModifierId": [
+            3520010
+        ],
+        "ModifierDependChipId": 4,
+        "GamePlayType1": "",
+        "GamePlayValue1": "",
+        "GamePlayType2": "",
+        "GamePlayValue2": "",
+        "AttributeType1": "HealthMax",
+        "AttributeValue1": [
+            163,
+            325,
+            650,
+            975,
+            1625
+        ],
+        "AttributeType2": "Defence",
+        "AttributeValue2": [
+            8,
+            16,
+            32,
+            48,
+            80
+        ]
+    },
+    {
+        "Id": 114,
+        "NameKey": "assaultops.Chips_BranchName8",
+        "DescriptionKey": "assaultops.Chips_BranchDescription8",
+        "DescriptionPerCount": {
+            "200": 400
+        },
+        "SlotType": 3,
+        "FunctionType": 2,
+        "ChipsTypeTag": [
+            3
+        ],
+        "Icon": 1001763,
+        "Interval": "",
+        "MaxQuality": 5,
+        "DecomposeCoin": [
+            62,
+            [
+                20,
+                60,
+                100,
+                200,
+                300
+            ]
+        ],
+        "AbilityId": "",
+        "SkillfixId": "",
+        "ModifierId": "",
+        "ModifierDependChipId": "",
+        "GamePlayType1": 6,
+        "GamePlayValue1": [
+            [
+                4
+            ],
+            3520011
+        ],
+        "GamePlayType2": "",
+        "GamePlayValue2": "",
+        "AttributeType1": "Attack",
+        "AttributeValue1": [
+            14,
+            27,
+            54,
+            81,
+            135
+        ],
+        "AttributeType2": "Defence",
+        "AttributeValue2": [
+            11,
+            22,
+            45,
+            67,
+            112
+        ]
+    },
+    {
+        "Id": 115,
+        "NameKey": "assaultops.Chips_BranchName9",
+        "DescriptionKey": "assaultops.Chips_BranchDescription9",
+        "DescriptionPerCount": {
+            "1": 2
+        },
+        "SlotType": 3,
+        "FunctionType": 2,
+        "ChipsTypeTag": [
+            2
+        ],
+        "Icon": 1001764,
+        "Interval": "",
+        "MaxQuality": 5,
+        "DecomposeCoin": [
+            62,
+            [
+                20,
+                60,
+                100,
+                200,
+                300
+            ]
+        ],
+        "AbilityId": "",
+        "SkillfixId": "",
+        "ModifierId": [
+            3520013
+        ],
+        "ModifierDependChipId": 5,
+        "GamePlayType1": "",
+        "GamePlayValue1": "",
+        "GamePlayType2": "",
+        "GamePlayValue2": "",
+        "AttributeType1": "Attack",
+        "AttributeValue1": [
+            32,
+            63,
+            126,
+            189,
+            315
+        ],
+        "AttributeType2": "HealthMax",
+        "AttributeValue2": [
+            98,
+            195,
+            390,
+            585,
+            975
+        ]
+    },
+    {
+        "Id": 116,
+        "NameKey": "assaultops.Chips_BranchName10",
+        "DescriptionKey": "assaultops.Chips_BranchDescription10",
+        "DescriptionPerCount": {
+            "100": 200
+        },
+        "SlotType": 3,
+        "FunctionType": 2,
+        "ChipsTypeTag": [
+            3
+        ],
+        "Icon": 1001765,
+        "Interval": "",
+        "MaxQuality": 5,
+        "DecomposeCoin": [
+            62,
+            [
+                20,
+                60,
+                100,
+                200,
+                300
+            ]
+        ],
+        "AbilityId": "",
+        "SkillfixId": "",
+        "ModifierId": "",
+        "ModifierDependChipId": "",
+        "GamePlayType1": 6,
+        "GamePlayValue1": [
+            [
+                5
+            ],
+            3520014
+        ],
+        "GamePlayType2": "",
+        "GamePlayValue2": "",
+        "AttributeType1": "Attack",
+        "AttributeValue1": [
+            23,
+            45,
+            90,
+            135,
+            225
+        ],
+        "AttributeType2": "Defence",
+        "AttributeValue2": [
+            8,
+            16,
+            32,
+            48,
+            80
+        ]
+    },
+    {
+        "Id": 117,
+        "NameKey": "assaultops.Chips_BranchName11",
+        "DescriptionKey": "assaultops.Chips_BranchDescription11",
+        "DescriptionPerCount": [
+            2,
+            1,
+            [
+                50,
+                100
+            ]
+        ],
+        "SlotType": 3,
+        "FunctionType": 2,
+        "ChipsTypeTag": [
+            2
+        ],
+        "Icon": 1001766,
+        "Interval": "",
+        "MaxQuality": 5,
+        "DecomposeCoin": [
+            62,
+            [
+                20,
+                60,
+                100,
+                200,
+                300
+            ]
+        ],
+        "AbilityId": "",
+        "SkillfixId": "",
+        "ModifierId": [
+            3520016
+        ],
+        "ModifierDependChipId": 6,
+        "GamePlayType1": "",
+        "GamePlayValue1": "",
+        "GamePlayType2": "",
+        "GamePlayValue2": "",
+        "AttributeType1": "Attack",
+        "AttributeValue1": [
+            18,
+            36,
+            72,
+            108,
+            180
+        ],
+        "AttributeType2": "HealthMax",
+        "AttributeValue2": [
+            195,
+            390,
+            780,
+            1170,
+            1950
+        ]
+    },
+    {
+        "Id": 118,
+        "NameKey": "assaultops.Chips_BranchName12",
+        "DescriptionKey": "assaultops.Chips_BranchDescription12",
+        "DescriptionPerCount": [
+            [
+                10,
+                20
+            ],
+            [
+                30,
+                60
+            ],
+            10
+        ],
+        "SlotType": 3,
+        "FunctionType": 2,
+        "ChipsTypeTag": [
+            3
+        ],
+        "Icon": 1001767,
+        "Interval": "",
+        "MaxQuality": 5,
+        "DecomposeCoin": [
+            62,
+            [
+                20,
+                60,
+                100,
+                200,
+                300
+            ]
+        ],
+        "AbilityId": "",
+        "SkillfixId": "",
+        "ModifierId": "",
+        "ModifierDependChipId": "",
+        "GamePlayType1": 6,
+        "GamePlayValue1": [
+            [
+                6
+            ],
+            3520017
+        ],
+        "GamePlayType2": 7,
+        "GamePlayValue2": [
+            6,
+            104,
+            [
+                1,
+                1
+            ]
+        ],
+        "AttributeType1": "HealthMax",
+        "AttributeValue1": [
+            195,
+            390,
+            780,
+            1170,
+            1950
+        ],
+        "AttributeType2": "Defence",
+        "AttributeValue2": [
+            6,
+            13,
+            26,
+            38,
+            64
+        ]
+    },
+    {
+        "Id": 301,
+        "NameKey": "assaultops.Chips_PlayerBuffName1",
+        "DescriptionKey": "assaultops.Chips_PlayerBuffDescription1",
+        "DescriptionPerCount": [
+            15
+        ],
+        "SlotType": 0,
+        "FunctionType": 0,
+        "ChipsTypeTag": "",
+        "Icon": 1001250,
+        "Interval": "",
+        "MaxQuality": 1,
+        "DecomposeCoin": "",
+        "AbilityId": "",
+        "SkillfixId": "",
+        "ModifierId": [
+            3520001
+        ]
+    },
+    {
+        "Id": 302,
+        "NameKey": "assaultops.Chips_PlayerBuffName2",
+        "DescriptionKey": "assaultops.Chips_PlayerBuffDescription2",
+        "DescriptionPerCount": [
+            15
+        ],
+        "SlotType": 0,
+        "FunctionType": 0,
+        "ChipsTypeTag": "",
+        "Icon": 1001248,
+        "Interval": "",
+        "MaxQuality": 1,
+        "DecomposeCoin": "",
+        "AbilityId": "",
+        "SkillfixId": "",
+        "ModifierId": [
+            3520002
+        ]
+    },
+    {
+        "Id": 303,
+        "NameKey": "assaultops.Chips_PlayerBuffName3",
+        "DescriptionKey": "assaultops.Chips_PlayerBuffDescription3",
+        "DescriptionPerCount": [
+            15
+        ],
+        "SlotType": 0,
+        "FunctionType": 0,
+        "ChipsTypeTag": "",
+        "Icon": 1001246,
+        "Interval": "",
+        "MaxQuality": 1,
+        "DecomposeCoin": "",
+        "AbilityId": "",
+        "SkillfixId": "",
+        "ModifierId": [
+            3520003
+        ]
+    },
+    {
+        "Id": 304,
+        "NameKey": "assaultops.Chips_PlayerBuffName4",
+        "DescriptionKey": "assaultops.Chips_PlayerBuffDescription4",
+        "DescriptionPerCount": [
+            15
+        ],
+        "SlotType": 0,
+        "FunctionType": 0,
+        "ChipsTypeTag": "",
+        "Icon": 1001331,
+        "Interval": "",
+        "MaxQuality": 1,
+        "DecomposeCoin": "",
+        "AbilityId": "",
+        "SkillfixId": "",
+        "ModifierId": [
+            3520004
+        ]
+    },
+    {
+        "Id": 305,
+        "NameKey": "assaultops.Chips_PlayerBuffName5",
+        "DescriptionKey": "assaultops.Chips_PlayerBuffDescription5",
+        "DescriptionPerCount": [
+            20
+        ],
+        "SlotType": 0,
+        "FunctionType": 0,
+        "ChipsTypeTag": "",
+        "Icon": 1001330,
+        "Interval": "",
+        "MaxQuality": 1,
+        "DecomposeCoin": "",
+        "AbilityId": "",
+        "SkillfixId": "",
+        "ModifierId": [
+            3520005
+        ]
+    },
+    {
+        "Id": 306,
+        "NameKey": "assaultops.Chips_PlayerBuffName6",
+        "DescriptionKey": "assaultops.Chips_PlayerBuffDescription6",
+        "DescriptionPerCount": [
+            20
+        ],
+        "SlotType": 0,
+        "FunctionType": 0,
+        "ChipsTypeTag": "",
+        "Icon": 1001332,
+        "Interval": "",
+        "MaxQuality": 1,
+        "DecomposeCoin": "",
+        "AbilityId": "",
+        "SkillfixId": "",
+        "ModifierId": [
+            3520006
+        ]
+    }
+]

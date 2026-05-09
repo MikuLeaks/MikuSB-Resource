@@ -1,0 +1,643 @@
+[
+    {
+        "CusId": 9900001,
+        "Desc": "",
+        "MaxLevel": 2,
+        "FrequencyUp": "",
+        "EnergyProduceUp": [
+            10,
+            20
+        ]
+    },
+    {
+        "CusId": 9900002,
+        "Desc": "",
+        "MaxLevel": 3,
+        "FrequencyUp": [
+            10,
+            20,
+            30
+        ]
+    },
+    {
+        "CusId": 9900003,
+        "Desc": "",
+        "MaxLevel": 2,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": [
+            25,
+            50
+        ]
+    },
+    {
+        "CusId": 9900004,
+        "Desc": "",
+        "MaxLevel": 3,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": [
+            10,
+            20,
+            30
+        ]
+    },
+    {
+        "CusId": 9900005,
+        "Desc": "",
+        "MaxLevel": 3,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": "",
+        "DetectDistanceUp": "",
+        "AttackMode": "",
+        "DyMaxPlantNum": "",
+        "GetExtraEnergyOnKill": "",
+        "EliminateEnergyBack": "",
+        "CoinsUp": [
+            10,
+            20,
+            30
+        ]
+    },
+    {
+        "CusId": 9900006,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": [
+            50
+        ]
+    },
+    {
+        "CusId": 9900007,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": [
+            30
+        ]
+    },
+    {
+        "CusId": 9900008,
+        "Desc": "",
+        "MaxLevel": 4,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": "",
+        "DetectDistanceUp": "",
+        "AttackMode": "",
+        "DyMaxPlantNum": "",
+        "GetExtraEnergyOnKill": "",
+        "EliminateEnergyBack": "",
+        "CoinsUp": "",
+        "DestroyDamageRatioUp": [
+            25,
+            50,
+            75,
+            100
+        ]
+    },
+    {
+        "CusId": 9900009,
+        "Desc": "",
+        "MaxLevel": 2,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": [
+            10,
+            20
+        ]
+    },
+    {
+        "CusId": 9900010,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": [
+            20
+        ]
+    },
+    {
+        "CusId": 9900011,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": [
+            5
+        ]
+    },
+    {
+        "CusId": 9900012,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": "",
+        "EnergyProduceUp": [
+            -50
+        ]
+    },
+    {
+        "CusId": 9900013,
+        "Desc": "",
+        "MaxLevel": 4,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": "",
+        "DetectDistanceUp": "",
+        "AttackMode": "",
+        "DyMaxPlantNum": "",
+        "GetExtraEnergyOnKill": "",
+        "EliminateEnergyBack": "",
+        "CoinsUp": "",
+        "DestroyDamageRatioUp": "",
+        "DestroyDamageGetRatioUp": "",
+        "ExplosiveDestroyThresholdReduce": "",
+        "FrozenDestroyThresholdReduce": "",
+        "BurningDestroyThresholdReduce": "",
+        "FrozenLevel": "",
+        "BurningLevel": "",
+        "GoldCoinsMagnificationUp": [
+            20,
+            45,
+            60,
+            70
+        ]
+    },
+    {
+        "CusId": 9900014,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": "",
+        "DetectDistanceUp": [
+            25
+        ]
+    },
+    {
+        "CusId": 9900015,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": "",
+        "DetectDistanceUp": [
+            50
+        ]
+    },
+    {
+        "CusId": 9900016,
+        "Desc": "",
+        "MaxLevel": 3,
+        "FrequencyUp": "",
+        "EnergyProduceUp": [
+            10,
+            20,
+            30
+        ]
+    },
+    {
+        "CusId": 9900017,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": "",
+        "DetectDistanceUp": "",
+        "AttackMode": [
+            1
+        ]
+    },
+    {
+        "CusId": 9900018,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": "",
+        "DetectDistanceUp": "",
+        "AttackMode": [
+            3
+        ]
+    },
+    {
+        "CusId": 9900019,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": "",
+        "DetectDistanceUp": [
+            30
+        ]
+    },
+    {
+        "CusId": 9900020,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": "",
+        "DetectDistanceUp": "",
+        "AttackMode": "",
+        "DyMaxPlantNum": "",
+        "GetExtraEnergyOnKill": [
+            30
+        ]
+    },
+    {
+        "CusId": 9900021,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": "",
+        "DetectDistanceUp": "",
+        "AttackMode": "",
+        "DyMaxPlantNum": "",
+        "GetExtraEnergyOnKill": "",
+        "EliminateEnergyBack": [
+            90
+        ]
+    },
+    {
+        "CusId": 9900022,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": [
+            -50
+        ]
+    },
+    {
+        "CusId": 9900023,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": [
+            -30
+        ]
+    },
+    {
+        "CusId": 9900024,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": [
+            10
+        ]
+    },
+    {
+        "CusId": 9900025,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": [
+            25
+        ]
+    },
+    {
+        "CusId": 9900026,
+        "Desc": "",
+        "MaxLevel": 3,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": "",
+        "DetectDistanceUp": "",
+        "AttackMode": "",
+        "DyMaxPlantNum": "",
+        "GetExtraEnergyOnKill": "",
+        "EliminateEnergyBack": "",
+        "CoinsUp": "",
+        "DestroyDamageRatioUp": [
+            25,
+            50,
+            75
+        ]
+    },
+    {
+        "CusId": 9900027,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": "",
+        "DetectDistanceUp": "",
+        "AttackMode": "",
+        "DyMaxPlantNum": "",
+        "GetExtraEnergyOnKill": "",
+        "EliminateEnergyBack": "",
+        "CoinsUp": "",
+        "DestroyDamageRatioUp": "",
+        "DestroyDamageGetRatioUp": "",
+        "ExplosiveDestroyThresholdReduce": "",
+        "FrozenDestroyThresholdReduce": [
+            10
+        ]
+    },
+    {
+        "CusId": 9900028,
+        "Desc": "",
+        "MaxLevel": 2,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": "",
+        "DetectDistanceUp": "",
+        "AttackMode": "",
+        "DyMaxPlantNum": "",
+        "GetExtraEnergyOnKill": "",
+        "EliminateEnergyBack": "",
+        "CoinsUp": "",
+        "DestroyDamageRatioUp": "",
+        "DestroyDamageGetRatioUp": "",
+        "ExplosiveDestroyThresholdReduce": "",
+        "FrozenDestroyThresholdReduce": "",
+        "BurningDestroyThresholdReduce": [
+            10,
+            20
+        ]
+    },
+    {
+        "CusId": 9900029,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": [
+            -15
+        ]
+    },
+    {
+        "CusId": 9900030,
+        "Desc": "",
+        "MaxLevel": 3,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": "",
+        "DetectDistanceUp": "",
+        "AttackMode": "",
+        "DyMaxPlantNum": "",
+        "GetExtraEnergyOnKill": "",
+        "EliminateEnergyBack": "",
+        "CoinsUp": "",
+        "DestroyDamageRatioUp": "",
+        "DestroyDamageGetRatioUp": "",
+        "ExplosiveDestroyThresholdReduce": "",
+        "FrozenDestroyThresholdReduce": "",
+        "BurningDestroyThresholdReduce": "",
+        "FrozenLevel": [
+            2,
+            3
+        ]
+    },
+    {
+        "CusId": 9900031,
+        "Desc": "",
+        "MaxLevel": 2,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": "",
+        "DetectDistanceUp": "",
+        "AttackMode": "",
+        "DyMaxPlantNum": "",
+        "GetExtraEnergyOnKill": "",
+        "EliminateEnergyBack": "",
+        "CoinsUp": "",
+        "DestroyDamageRatioUp": "",
+        "DestroyDamageGetRatioUp": "",
+        "ExplosiveDestroyThresholdReduce": "",
+        "FrozenDestroyThresholdReduce": "",
+        "BurningDestroyThresholdReduce": "",
+        "FrozenLevel": "",
+        "BurningLevel": [
+            2
+        ]
+    },
+    {
+        "CusId": 9900032,
+        "Desc": "",
+        "MaxLevel": 2,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": "",
+        "DetectDistanceUp": "",
+        "AttackMode": "",
+        "DyMaxPlantNum": "",
+        "GetExtraEnergyOnKill": "",
+        "EliminateEnergyBack": "",
+        "CoinsUp": "",
+        "DestroyDamageRatioUp": "",
+        "DestroyDamageGetRatioUp": "",
+        "ExplosiveDestroyThresholdReduce": "",
+        "FrozenDestroyThresholdReduce": "",
+        "BurningDestroyThresholdReduce": "",
+        "FrozenLevel": "",
+        "BurningLevel": "",
+        "GoldCoinsMagnificationUp": [
+            20,
+            20
+        ],
+        "GoldEnergyMagnificationUp": [
+            20,
+            20
+        ],
+        "GoldPlantColdDownReduce": [
+            20,
+            20
+        ]
+    },
+    {
+        "CusId": 9900033,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": "",
+        "DetectDistanceUp": "",
+        "AttackMode": "",
+        "DyMaxPlantNum": "",
+        "GetExtraEnergyOnKill": "",
+        "EliminateEnergyBack": "",
+        "CoinsUp": "",
+        "DestroyDamageRatioUp": "",
+        "DestroyDamageGetRatioUp": "",
+        "ExplosiveDestroyThresholdReduce": "",
+        "FrozenDestroyThresholdReduce": "",
+        "BurningDestroyThresholdReduce": "",
+        "FrozenLevel": "",
+        "BurningLevel": "",
+        "GoldCoinsMagnificationUp": "",
+        "GoldEnergyMagnificationUp": "",
+        "GoldPlantColdDownReduce": "",
+        "GoldEffectDurationUp": [
+            10
+        ]
+    },
+    {
+        "CusId": 9900034,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": [
+            -25
+        ]
+    },
+    {
+        "CusId": 9900035,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": [
+            40
+        ],
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": [
+            20
+        ]
+    },
+    {
+        "CusId": 9900036,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": [
+            30
+        ]
+    },
+    {
+        "CusId": 9900037,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": "",
+        "DetectDistanceUp": [
+            25
+        ]
+    },
+    {
+        "CusId": 9900038,
+        "Desc": "",
+        "MaxLevel": 2,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": [
+            25,
+            50
+        ]
+    },
+    {
+        "CusId": 9900039,
+        "Desc": "",
+        "MaxLevel": 3,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": "",
+        "PriceReduce": "",
+        "AngleUp": "",
+        "DetectDistanceUp": "",
+        "AttackMode": "",
+        "DyMaxPlantNum": "",
+        "GetExtraEnergyOnKill": "",
+        "EliminateEnergyBack": "",
+        "CoinsUp": "",
+        "DestroyDamageRatioUp": "",
+        "DestroyDamageGetRatioUp": [
+            10,
+            20,
+            30
+        ]
+    },
+    {
+        "CusId": 9900040,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": [
+            80
+        ],
+        "PriceReduce": "",
+        "AngleUp": "",
+        "DetectDistanceUp": "",
+        "AttackMode": "",
+        "DyMaxPlantNum": "",
+        "GetExtraEnergyOnKill": "",
+        "EliminateEnergyBack": [
+            80
+        ]
+    },
+    {
+        "CusId": 9900041,
+        "Desc": "",
+        "MaxLevel": 1,
+        "FrequencyUp": [
+            20
+        ]
+    },
+    {
+        "CusId": 9900042,
+        "Desc": "",
+        "MaxLevel": 2,
+        "FrequencyUp": "",
+        "EnergyProduceUp": "",
+        "PlantCoolDownReduce": [
+            10,
+            20
+        ]
+    }
+]

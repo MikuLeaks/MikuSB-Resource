@@ -1,0 +1,118 @@
+[
+    {
+        "Id": 1,
+        "StartTime": "[202401010400]",
+        "EndTime": "[202401010400]",
+        "WaLLId": "",
+        "AreaName": "vircapture.area_name1",
+        "Path": "",
+        "CustomIntroInfoPath": "/Game/UI/UMG/FightMap/uw_fight_dark_map_intro2.uw_fight_dark_map_intro2_C",
+        "Position": [
+            -430,
+            154
+        ],
+        "InfoPosition": [
+            -430,
+            154
+        ]
+    },
+    {
+        "Id": 2,
+        "StartTime": "[202401010400]",
+        "EndTime": "[202401010400]",
+        "WaLLId": "",
+        "AreaName": "vircapture.area_name2",
+        "Path": "/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area11.uw_fight_catch_area11_C",
+        "CustomIntroInfoPath": "/Game/UI/UMG/FightMap/uw_fight_dark_map_intro2.uw_fight_dark_map_intro2_C",
+        "Position": [
+            -800,
+            138
+        ],
+        "InfoPosition": [
+            -800,
+            138
+        ],
+        "UnlockLevel": 5,
+        "InteractWall": [
+            523
+        ],
+        "Condition": [
+            5000
+        ],
+        "CustomKey": "vircapture.TxtBuildWall2_Des"
+    },
+    {
+        "Id": 3,
+        "StartTime": "[202401010400]",
+        "EndTime": "[202401010400]",
+        "WaLLId": "",
+        "AreaName": "vircapture.area_name3",
+        "Path": "/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area12.uw_fight_catch_area12_C",
+        "CustomIntroInfoPath": "/Game/UI/UMG/FightMap/uw_fight_dark_map_intro2.uw_fight_dark_map_intro2_C",
+        "Position": [
+            0,
+            102
+        ],
+        "InfoPosition": [
+            0,
+            102
+        ],
+        "UnlockLevel": 5,
+        "InteractWall": [
+            502
+        ],
+        "Condition": [
+            5001
+        ],
+        "CustomKey": "vircapture.TxtBuildWall3_Des"
+    },
+    {
+        "Id": 4,
+        "StartTime": "[202401010400]",
+        "EndTime": "[202401010400]",
+        "WaLLId": "",
+        "AreaName": "vircapture.area_name4",
+        "Path": "/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area13.uw_fight_catch_area13_C",
+        "CustomIntroInfoPath": "/Game/UI/UMG/FightMap/uw_fight_dark_map_intro2.uw_fight_dark_map_intro2_C",
+        "Position": [
+            -280,
+            -206
+        ],
+        "InfoPosition": [
+            -280,
+            -206
+        ],
+        "UnlockLevel": 5,
+        "InteractWall": [
+            504,
+            503
+        ],
+        "Condition": [
+            5002
+        ],
+        "CustomKey": "vircapture.TxtBuildWall4_Des"
+    },
+    {
+        "Id": 5,
+        "StartTime": "[202401010400]",
+        "EndTime": "[202401010400]",
+        "WaLLId": "",
+        "AreaName": "vircapture.area_name5",
+        "Path": "/Game/UI/UMG/FightCatch/Widgets/uw_fight_catch_area14.uw_fight_catch_area14_C",
+        "CustomIntroInfoPath": "/Game/UI/UMG/FightMap/uw_fight_dark_map_intro2.uw_fight_dark_map_intro2_C",
+        "Position": [
+            766,
+            196
+        ],
+        "InfoPosition": [
+            766,
+            196
+        ],
+        "UnlockLevel": 5,
+        "InteractWall": "",
+        "Condition": [
+            3125
+        ],
+        "CustomKey": "vircapture.TxtBuildWall5_Des"
+    }
+]

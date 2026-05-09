@@ -1,0 +1,68 @@
+[
+    {
+        "ID": 1001,
+        "Attack_n": {
+            "1": 50,
+            "10": 50
+        },
+        "BulletNum_n": 0,
+        "AccuracyAddition_n": 0,
+        "StabilityAddition_n": 0,
+        "DestroyValue_n": 0
+    },
+    {
+        "ID": 1002,
+        "Attack_n": {
+            "1": 150,
+            "10": 150
+        },
+        "BulletNum_n": 0,
+        "AccuracyAddition_n": 50,
+        "StabilityAddition_n": 0,
+        "DestroyValue_n": 1
+    },
+    {
+        "ID": 1003,
+        "Attack_n": {
+            "1": 50,
+            "10": 50
+        },
+        "BulletNum_n": 0,
+        "AccuracyAddition_n": 0,
+        "StabilityAddition_n": 0,
+        "DestroyValue_n": 0
+    },
+    {
+        "ID": 1004,
+        "Attack_n": {
+            "1": 150,
+            "10": 150
+        },
+        "BulletNum_n": 3,
+        "AccuracyAddition_n": 0,
+        "StabilityAddition_n": 0,
+        "DestroyValue_n": 0
+    },
+    {
+        "ID": 1005,
+        "Attack_n": {
+            "1": 50,
+            "10": 50
+        },
+        "BulletNum_n": 0,
+        "AccuracyAddition_n": 0,
+        "StabilityAddition_n": 0,
+        "DestroyValue_n": 0
+    },
+    {
+        "ID": 1006,
+        "Attack_n": {
+            "1": 150,
+            "10": 150
+        },
+        "BulletNum_n": 0,
+        "AccuracyAddition_n": 0,
+        "StabilityAddition_n": 50,
+        "DestroyValue_n": 1
+    }
+]

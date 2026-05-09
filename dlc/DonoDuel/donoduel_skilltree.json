@@ -1,0 +1,273 @@
+[
+    {
+        "ID": 1,
+        "Prerequisite": "",
+        "Name": "donoduel.buff_skill_tree01_name",
+        "Consume": [
+            63,
+            5000
+        ],
+        "BuffID": 3001,
+        "Icon": 5205003
+    },
+    {
+        "ID": 2,
+        "Prerequisite": 1,
+        "Name": "donoduel.buff_skill_tree02_name",
+        "Consume": [
+            63,
+            5100
+        ],
+        "BuffID": 3002,
+        "Icon": 5205005
+    },
+    {
+        "ID": 3,
+        "Prerequisite": 2,
+        "Name": "donoduel.buff_skill_tree03_name",
+        "Consume": [
+            63,
+            5200
+        ],
+        "BuffID": 3003,
+        "Icon": 5205006
+    },
+    {
+        "ID": 4,
+        "Prerequisite": 3,
+        "Name": "donoduel.buff_skill_tree04_name",
+        "Consume": [
+            63,
+            5300
+        ],
+        "BuffID": 3004,
+        "Icon": 5205007
+    },
+    {
+        "ID": "donoduel.buff_skill_tree05_name",
+        "Prerequisite": "",
+        "Name": 3005,
+        "Consume": 5205008
+    },
+    {
+        "ID": 5,
+        "Prerequisite": 4,
+        "Name": "donoduel.buff_skill_tree06_name",
+        "Consume": [
+            63,
+            5400
+        ],
+        "BuffID": 3006,
+        "Icon": 5205001
+    },
+    {
+        "ID": 6,
+        "Prerequisite": 5,
+        "Name": "donoduel.buff_skill_tree07_name",
+        "Consume": [
+            63,
+            5500
+        ],
+        "BuffID": 3007,
+        "Icon": 5205004
+    },
+    {
+        "ID": 7,
+        "Prerequisite": 6,
+        "Name": "donoduel.buff_skill_tree08_name",
+        "Consume": [
+            63,
+            5600
+        ],
+        "BuffID": 3008,
+        "Icon": 5205007
+    },
+    {
+        "ID": 8,
+        "Prerequisite": 7,
+        "Name": "donoduel.buff_skill_tree09_name",
+        "Consume": [
+            63,
+            5700
+        ],
+        "BuffID": 3009,
+        "Icon": 5205003
+    },
+    {
+        "ID": 9,
+        "Prerequisite": 8,
+        "Name": "donoduel.buff_skill_tree10_name",
+        "Consume": [
+            63,
+            5800
+        ],
+        "BuffID": 3010,
+        "Icon": 5205005
+    },
+    {
+        "ID": 10,
+        "Prerequisite": 9,
+        "Name": "donoduel.buff_skill_tree11_name",
+        "Consume": [
+            63,
+            5900
+        ],
+        "BuffID": 3011,
+        "Icon": 5205006
+    },
+    {
+        "ID": 11,
+        "Prerequisite": 10,
+        "Name": "donoduel.buff_skill_tree12_name",
+        "Consume": [
+            63,
+            6000
+        ],
+        "BuffID": 3012,
+        "Icon": 5205007
+    },
+    {
+        "ID": 12,
+        "Prerequisite": 11,
+        "Name": "donoduel.buff_skill_tree13_name",
+        "Consume": [
+            63,
+            6100
+        ],
+        "BuffID": 3013,
+        "Icon": 5205001
+    },
+    {
+        "ID": 13,
+        "Prerequisite": 12,
+        "Name": "donoduel.buff_skill_tree14_name",
+        "Consume": [
+            63,
+            6200
+        ],
+        "BuffID": 3014,
+        "Icon": 5205004
+    },
+    {
+        "ID": 14,
+        "Prerequisite": 13,
+        "Name": "donoduel.buff_skill_tree15_name",
+        "Consume": [
+            63,
+            6300
+        ],
+        "BuffID": 3015,
+        "Icon": 5205007
+    },
+    {
+        "ID": 15,
+        "Prerequisite": 14,
+        "Name": "donoduel.buff_skill_tree16_name",
+        "Consume": [
+            63,
+            6400
+        ],
+        "BuffID": 3016,
+        "Icon": 5205003
+    },
+    {
+        "ID": 16,
+        "Prerequisite": 15,
+        "Name": "donoduel.buff_skill_tree17_name",
+        "Consume": [
+            63,
+            6500
+        ],
+        "BuffID": 3017,
+        "Icon": 5205005
+    },
+    {
+        "ID": 17,
+        "Prerequisite": 16,
+        "Name": "donoduel.buff_skill_tree18_name",
+        "Consume": [
+            63,
+            6600
+        ],
+        "BuffID": 3018,
+        "Icon": 5205006
+    },
+    {
+        "ID": 18,
+        "Prerequisite": 17,
+        "Name": "donoduel.buff_skill_tree19_name",
+        "Consume": [
+            63,
+            6700
+        ],
+        "BuffID": 3019,
+        "Icon": 5205007
+    },
+    {
+        "ID": "donoduel.buff_skill_tree20_name",
+        "Prerequisite": "",
+        "Name": 3020,
+        "Consume": 5205008
+    },
+    {
+        "ID": 19,
+        "Prerequisite": 18,
+        "Name": "donoduel.buff_skill_tree21_name",
+        "Consume": [
+            63,
+            6800
+        ],
+        "BuffID": 3021,
+        "Icon": 5205001
+    },
+    {
+        "ID": 20,
+        "Prerequisite": 19,
+        "Name": "donoduel.buff_skill_tree22_name",
+        "Consume": [
+            63,
+            6900
+        ],
+        "BuffID": 3022,
+        "Icon": 5205004
+    },
+    {
+        "ID": "donoduel.buff_skill_tree23_name",
+        "Prerequisite": "",
+        "Name": 3023,
+        "Consume": 5205007
+    },
+    {
+        "ID": 21,
+        "Prerequisite": 20,
+        "Name": "donoduel.buff_skill_tree24_name",
+        "Consume": [
+            63,
+            7000
+        ],
+        "BuffID": 3024,
+        "Icon": 5205003
+    },
+    {
+        "ID": 22,
+        "Prerequisite": 21,
+        "Name": "donoduel.buff_skill_tree25_name",
+        "Consume": [
+            63,
+            7100
+        ],
+        "BuffID": 3025,
+        "Icon": 5205005
+    },
+    {
+        "ID": 23,
+        "Prerequisite": 22,
+        "Name": "donoduel.buff_skill_tree26_name",
+        "Consume": [
+            63,
+            7200
+        ],
+        "BuffID": 3026,
+        "Icon": 5205006
+    }
+]

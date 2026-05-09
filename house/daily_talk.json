@@ -1,0 +1,4062 @@
+[
+    {
+        "GirlId": 1,
+        "StoryId": 1,
+        "StoryKey": "3DRoom/Girl001RM1",
+        "StoryName": "house.DailyTalkName0101",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 2,
+        "StoryKey": "3DRoom/Girl001RM2",
+        "StoryName": "house.DailyTalkName0102",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 4,
+        "StoryKey": "3DRoom_DLC2/Girl001RM4",
+        "StoryName": "house.DailyTalkName0104",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 5,
+        "StoryKey": "3DRoom_DLC2/Girl001RM5",
+        "StoryName": "house.DailyTalkName0105",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC3/Girl001RM6",
+        "StoryName": "house.DailyTalkName0106",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 7,
+        "StoryKey": "3DRoom_DLC3/Girl001RM7",
+        "StoryName": "house.DailyTalkName0107",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 8,
+        "StoryKey": "3DRoom_DLC3/Girl001RM8",
+        "StoryName": "house.DailyTalkName0108",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 9,
+        "StoryKey": "3DRoom_DLC4/Girl001RM9",
+        "StoryName": "house.DailyTalkName0110",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 10,
+        "StoryKey": "3DRoom_DLC4/Girl001RM10",
+        "StoryName": "house.DailyTalkName0109",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 11,
+        "StoryKey": "3DRoom_DLC5/Girl001RM11",
+        "StoryName": "house.DailyTalkName0111",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 12,
+        "StoryKey": "3DRoom_DLC6/Girl001RM12",
+        "StoryName": "house.DailyTalkName0112",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 13,
+        "StoryKey": "3DRoom_DLC7/Girl001RM13",
+        "StoryName": "house.DailyTalkName0113",
+        "StoryArea": 1,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": [
+            4,
+            13
+        ]
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 14,
+        "StoryKey": "3DRoom_DLC8/Girl001RM14",
+        "StoryName": "house.DailyTalkName0114",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 15,
+        "StoryKey": "3DRoom_DLC9/Girl001RM15",
+        "StoryName": "house.DailyTalkName0115",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 2
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 16,
+        "StoryKey": "3DRoom_DLC10/Girl001RM16",
+        "StoryName": "house.DailyTalkName0116",
+        "StoryArea": 51,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": [
+            1,
+            15
+        ]
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 17,
+        "StoryKey": "3DRoom_DLC11/Girl001RM17",
+        "StoryName": "house.DailyTalkName0117",
+        "StoryArea": 51,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 18,
+        "StoryKey": "3DRoom_DLC12/Girl001RM18",
+        "StoryName": "house.DailyTalkName0118",
+        "StoryArea": 51,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": [
+            1,
+            17
+        ]
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 19,
+        "StoryKey": "3DRoom_DLC25/Girl001RM19",
+        "StoryName": "house.DailyTalkName0119",
+        "StoryArea": 1,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 20,
+        "StoryKey": "3DRoom_DLC27/Girl001RM20",
+        "StoryName": "house.DailyTalkName0120",
+        "StoryArea": 1,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 21,
+        "StoryKey": "3DRoom_DLC30/Girl001RM21",
+        "StoryName": "house.DailyTalkName0121",
+        "StoryArea": 1,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 22,
+        "StoryKey": "3DRoom_DLC32/Girl001RM22",
+        "StoryName": "house.DailyTalkName0122",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 23,
+        "StoryKey": "3DRoom_DLC35/Girl001RM23",
+        "StoryName": "house.DailyTalkName0123",
+        "StoryArea": 1,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 1,
+        "StoryId": 24,
+        "StoryKey": "3DRoom_DLC35/Girl001RM24",
+        "StoryName": "house.DailyTalkName0124",
+        "StoryArea": 1,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": [
+            7,
+            1,
+            3,
+            2
+        ],
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 2,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC3/Girl002RM6",
+        "StoryName": "house.DailyTalkName0206",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 2,
+        "StoryId": 7,
+        "StoryKey": "3DRoom_DLC3/Girl002RM7",
+        "StoryName": "house.DailyTalkName0207",
+        "StoryArea": 2,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            208
+        ]
+    },
+    {
+        "GirlId": 2,
+        "StoryId": 8,
+        "StoryKey": "3DRoom_DLC3/Girl002RM8",
+        "StoryName": "house.DailyTalkName0208",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 2,
+        "StoryId": 9,
+        "StoryKey": "3DRoom_DLC4/Girl002RM9",
+        "StoryName": "house.DailyTalkName0210",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 2,
+        "StoryId": 10,
+        "StoryKey": "3DRoom_DLC4/Girl002RM10",
+        "StoryName": "house.DailyTalkName0209",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 2,
+        "StoryId": 11,
+        "StoryKey": "3DRoom_DLC5/Girl002RM11",
+        "StoryName": "house.DailyTalkName0211",
+        "StoryArea": 0,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            201
+        ]
+    },
+    {
+        "GirlId": 2,
+        "StoryId": 12,
+        "StoryKey": "3DRoom_DLC6/Girl002RM12",
+        "StoryName": "house.DailyTalkName0212",
+        "StoryArea": 0,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            201
+        ],
+        "PreLevel": 51274
+    },
+    {
+        "GirlId": 2,
+        "StoryId": 13,
+        "StoryKey": "3DRoom_DLC7/Girl002RM13",
+        "StoryName": "house.DailyTalkName0213",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 2,
+        "StoryId": 14,
+        "StoryKey": "3DRoom_DLC8/Girl002RM14",
+        "StoryName": "house.DailyTalkName0214",
+        "StoryArea": 0,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            213
+        ]
+    },
+    {
+        "GirlId": 2,
+        "StoryId": 15,
+        "StoryKey": "3DRoom_DLC9/Girl002RM15",
+        "StoryName": "house.DailyTalkName0215",
+        "StoryArea": 2,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": [
+            7,
+            2,
+            3,
+            2
+        ]
+    },
+    {
+        "GirlId": 2,
+        "StoryId": 16,
+        "StoryKey": "3DRoom_DLC10/Girl002RM16",
+        "StoryName": "house.DailyTalkName0216",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": [
+            7,
+            2,
+            3,
+            2
+        ],
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 2
+    },
+    {
+        "GirlId": 2,
+        "StoryId": 17,
+        "StoryKey": "3DRoom_DLC11/Girl002RM17",
+        "StoryName": "house.DailyTalkName0217",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": [
+            16,
+            3,
+            1,
+            1
+        ],
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 2,
+        "StoryId": 18,
+        "StoryKey": "3DRoom_DLC12/Girl002RM18",
+        "StoryName": "house.DailyTalkName0218",
+        "StoryArea": 51
+    },
+    {
+        "GirlId": 2,
+        "StoryId": 19,
+        "StoryKey": "3DRoom_DLC25/Girl002RM19",
+        "StoryName": "house.DailyTalkName0219",
+        "StoryArea": 0,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            220
+        ],
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 2,
+        "StoryId": 20,
+        "StoryKey": "3DRoom_DLC27/Girl002RM20",
+        "StoryName": "house.DailyTalkName0220",
+        "StoryArea": 2,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 2,
+        "StoryId": 21,
+        "StoryKey": "3DRoom_DLC30/Girl002RM21",
+        "StoryName": "house.DailyTalkName0221",
+        "StoryArea": 2,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 2,
+        "StoryId": 22,
+        "StoryKey": "3DRoom_DLC32/Girl002RM22",
+        "StoryName": "house.DailyTalkName0222",
+        "StoryArea": 2,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 2,
+        "StoryId": 23,
+        "StoryKey": "3DRoom_DLC35/Girl002RM23",
+        "StoryName": "house.DailyTalkName0223",
+        "StoryArea": 2,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 2,
+        "StoryKey": "3DRoom/Girl003RM2",
+        "StoryName": "house.DailyTalkName0302",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 3,
+        "StoryKey": "3DRoom/Girl003RM3",
+        "StoryName": "house.DailyTalkName0303",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 4,
+        "StoryKey": "3DRoom_DLC2/Girl003RM4",
+        "StoryName": "house.DailyTalkName0304",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 5,
+        "StoryKey": "3DRoom_DLC2/Girl003RM5",
+        "StoryName": "house.DailyTalkName0305",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC3/Girl003RM6",
+        "StoryName": "house.DailyTalkName0306",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 7,
+        "StoryKey": "3DRoom_DLC3/Girl003RM7",
+        "StoryName": "house.DailyTalkName0307",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 8,
+        "StoryKey": "3DRoom_DLC3/Girl003RM8",
+        "StoryName": "house.DailyTalkName0308",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 9,
+        "StoryKey": "3DRoom_DLC4/Girl003RM9",
+        "StoryName": "house.DailyTalkName0310",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 10,
+        "StoryKey": "3DRoom_DLC4/Girl003RM10",
+        "StoryName": "house.DailyTalkName0309",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 11,
+        "StoryKey": "3DRoom_DLC5/Girl003RM11",
+        "StoryName": "house.DailyTalkName0311",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 12,
+        "StoryKey": "3DRoom_DLC6/Girl003RM12",
+        "StoryName": "house.DailyTalkName0312",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51258
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 13,
+        "StoryKey": "3DRoom_DLC7/Girl003RM13",
+        "StoryName": "house.DailyTalkName0313",
+        "StoryArea": 3,
+        "CheckIn": 1
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 14,
+        "StoryKey": "3DRoom_DLC8/Girl003RM14",
+        "StoryName": "house.DailyTalkName0314",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51303
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 15,
+        "StoryKey": "3DRoom_DLC9/Girl003RM15",
+        "StoryName": "house.DailyTalkName0315",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 16,
+        "StoryKey": "3DRoom_DLC10/Girl003RM16",
+        "StoryName": "house.DailyTalkName0316",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 17,
+        "StoryKey": "3DRoom_DLC11/Girl003RM17",
+        "StoryName": "house.DailyTalkName0317",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 18,
+        "StoryKey": "3DRoom_DLC12/Girl003RM18",
+        "StoryName": "house.DailyTalkName0318",
+        "StoryArea": 51
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 19,
+        "StoryKey": "3DRoom_DLC25/Girl003RM19",
+        "StoryName": "house.DailyTalkName0319",
+        "StoryArea": 51,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 20,
+        "StoryKey": "3DRoom_DLC27/Girl003RM20",
+        "StoryName": "house.DailyTalkName0320",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 21,
+        "StoryKey": "3DRoom_DLC30/Girl003RM21",
+        "StoryName": "house.DailyTalkName0321",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 22,
+        "StoryKey": "3DRoom_DLC32/Girl003RM22",
+        "StoryName": "house.DailyTalkName0322",
+        "StoryArea": 3,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 3,
+        "StoryId": 23,
+        "StoryKey": "3DRoom_DLC35/Girl003RM23",
+        "StoryName": "house.DailyTalkName0323",
+        "StoryArea": 0,
+        "CheckIn": 1
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 1,
+        "StoryKey": "3DRoom/Girl004RM1",
+        "StoryName": "house.DailyTalkName0401",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 3,
+        "StoryKey": "3DRoom/Girl004RM3",
+        "StoryName": "house.DailyTalkName0403",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 4,
+        "StoryKey": "3DRoom_DLC2/Girl004RM4",
+        "StoryName": "house.DailyTalkName0404",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 5,
+        "StoryKey": "3DRoom_DLC2/Girl004RM5",
+        "StoryName": "house.DailyTalkName0405",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC3/Girl004RM6",
+        "StoryName": "house.DailyTalkName0406",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 8,
+        "StoryKey": "3DRoom_DLC3/Girl004RM8",
+        "StoryName": "house.DailyTalkName0408",
+        "StoryArea": 4,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            404
+        ]
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 9,
+        "StoryKey": "3DRoom_DLC4/Girl004RM9",
+        "StoryName": "house.DailyTalkName0410",
+        "StoryArea": 4,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            402
+        ],
+        "PreLevel": 51258
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 10,
+        "StoryKey": "3DRoom_DLC4/Girl004RM10",
+        "StoryName": "house.DailyTalkName0409",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": [
+            403
+        ],
+        "PreLevel": 51258
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 11,
+        "StoryKey": "3DRoom_DLC5/Girl004RM11",
+        "StoryName": "house.DailyTalkName0411",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 12,
+        "StoryKey": "3DRoom_DLC6/Girl004RM12",
+        "StoryName": "house.DailyTalkName0412",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51271
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 14,
+        "StoryKey": "3DRoom_DLC8/Girl004RM14",
+        "StoryName": "house.DailyTalkName0414",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51303
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 15,
+        "StoryKey": "3DRoom_DLC9/Girl004RM15",
+        "StoryName": "house.DailyTalkName0415",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 16,
+        "StoryKey": "3DRoom_DLC10/Girl004RM16",
+        "StoryName": "house.DailyTalkName0416",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 17,
+        "StoryKey": "3DRoom_DLC11/Girl004RM17",
+        "StoryName": "house.DailyTalkName0417",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 18,
+        "StoryKey": "3DRoom_DLC12/Girl004RM18",
+        "StoryName": "house.DailyTalkName0418",
+        "StoryArea": 51
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 19,
+        "StoryKey": "3DRoom_DLC25/Girl004RM19",
+        "StoryName": "house.DailyTalkName0419",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 20,
+        "StoryKey": "3DRoom_DLC27/Girl004RM20",
+        "StoryName": "house.DailyTalkName0420",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 21,
+        "StoryKey": "3DRoom_DLC30/Girl004RM21",
+        "StoryName": "house.DailyTalkName0421",
+        "StoryArea": 4,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 22,
+        "StoryKey": "3DRoom_DLC32/Girl004RM22",
+        "StoryName": "house.DailyTalkName0422",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 11620,
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 23,
+        "StoryKey": "3DRoom_DLC35/Girl004RM23",
+        "StoryName": "house.DailyTalkName0423",
+        "StoryArea": 0,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 24,
+        "StoryKey": "3DRoom_DLC36/Girl004RM24",
+        "StoryName": "house.DailyTalkName0424",
+        "StoryArea": 4,
+        "CheckIn": 1
+    },
+    {
+        "GirlId": 4,
+        "StoryId": 25,
+        "StoryKey": "3DRoom_DLC36/Girl004RM25",
+        "StoryName": "house.DailyTalkName0425",
+        "StoryArea": 51
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 1,
+        "StoryKey": "3DRoom/Girl005RM1",
+        "StoryName": "house.DailyTalkName0501",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 3,
+        "StoryKey": "3DRoom/Girl005RM3",
+        "StoryName": "house.DailyTalkName0503",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 4,
+        "StoryKey": "3DRoom_DLC2/Girl005RM4",
+        "StoryName": "house.DailyTalkName0504",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 5,
+        "StoryKey": "3DRoom_DLC2/Girl005RM5",
+        "StoryName": "house.DailyTalkName0505",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC3/Girl005RM6",
+        "StoryName": "house.DailyTalkName0506",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 7,
+        "StoryKey": "3DRoom_DLC3/Girl005RM7",
+        "StoryName": "house.DailyTalkName0507",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 8,
+        "StoryKey": "3DRoom_DLC3/Girl005RM8",
+        "StoryName": "house.DailyTalkName0508",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 9,
+        "StoryKey": "3DRoom_DLC4/Girl005RM9",
+        "StoryName": "house.DailyTalkName0510",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 11,
+        "StoryKey": "3DRoom_DLC5/Girl005RM11",
+        "StoryName": "house.DailyTalkName0511",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51258
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 12,
+        "StoryKey": "3DRoom_DLC6/Girl005RM12",
+        "StoryName": "house.DailyTalkName0512",
+        "StoryArea": 5,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            501,
+            503
+        ],
+        "PreLevel": 51278
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 13,
+        "StoryKey": "3DRoom_DLC7/Girl005RM13",
+        "StoryName": "house.DailyTalkName0513",
+        "StoryArea": 5,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": [
+            5,
+            11
+        ]
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 14,
+        "StoryKey": "3DRoom_DLC8/Girl005RM14",
+        "StoryName": "house.DailyTalkName0514",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 15,
+        "StoryKey": "3DRoom_DLC9/Girl005RM15",
+        "StoryName": "house.DailyTalkName0515",
+        "StoryArea": 5,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51371
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 16,
+        "StoryKey": "3DRoom_DLC10/Girl005RM16",
+        "StoryName": "house.DailyTalkName0516",
+        "StoryArea": 51
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 17,
+        "StoryKey": "3DRoom_DLC11/Girl005RM17",
+        "StoryName": "house.DailyTalkName0517",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 18,
+        "StoryKey": "3DRoom_DLC12/Girl005RM18",
+        "StoryName": "house.DailyTalkName0518",
+        "StoryArea": 0,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 19,
+        "StoryKey": "3DRoom_DLC25/Girl005RM19",
+        "StoryName": "house.DailyTalkName0519",
+        "StoryArea": 5,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 20,
+        "StoryKey": "3DRoom_DLC27/Girl005RM20",
+        "StoryName": "house.DailyTalkName0520",
+        "StoryArea": 5,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 21,
+        "StoryKey": "3DRoom_DLC30/Girl005RM21",
+        "StoryName": "house.DailyTalkName0521",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 22,
+        "StoryKey": "3DRoom_DLC32/Girl005RM22",
+        "StoryName": "house.DailyTalkName0522",
+        "StoryArea": 5,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            509
+        ],
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 23,
+        "StoryKey": "3DRoom_DLC35/Girl005RM23",
+        "StoryName": "house.DailyTalkName0523",
+        "StoryArea": 5,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 5,
+        "StoryId": 24,
+        "StoryKey": "3DRoom_DLC35/Girl005RM24",
+        "StoryName": "house.DailyTalkName0524",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": [
+            7,
+            5,
+            4,
+            2
+        ],
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 6,
+        "StoryId": 4,
+        "StoryKey": "3DRoom_DLC2/Girl006RM4",
+        "StoryName": "house.DailyTalkName0604",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 6,
+        "StoryId": 5,
+        "StoryKey": "3DRoom_DLC2/Girl006RM5",
+        "StoryName": "house.DailyTalkName0605",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51160
+    },
+    {
+        "GirlId": 6,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC3/Girl006RM6",
+        "StoryName": "house.DailyTalkName0606",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 6,
+        "StoryId": 7,
+        "StoryKey": "3DRoom_DLC3/Girl006RM7",
+        "StoryName": "house.DailyTalkName0607",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 6,
+        "StoryId": 8,
+        "StoryKey": "3DRoom_DLC3/Girl006RM8",
+        "StoryName": "house.DailyTalkName0608",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 6,
+        "StoryId": 9,
+        "StoryKey": "3DRoom_DLC4/Girl006RM9",
+        "StoryName": "house.DailyTalkName0610",
+        "StoryArea": 6,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            613
+        ]
+    },
+    {
+        "GirlId": 6,
+        "StoryId": 10,
+        "StoryKey": "3DRoom_DLC4/Girl006RM10",
+        "StoryName": "house.DailyTalkName0609",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 6,
+        "StoryId": 11,
+        "StoryKey": "3DRoom_DLC5/Girl006RM11",
+        "StoryName": "house.DailyTalkName0611",
+        "StoryArea": 6,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            602
+        ]
+    },
+    {
+        "GirlId": 6,
+        "StoryId": 12,
+        "StoryKey": "3DRoom_DLC6/Girl006RM12",
+        "StoryName": "house.DailyTalkName0612",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51258
+    },
+    {
+        "GirlId": 6,
+        "StoryId": 13,
+        "StoryKey": "3DRoom_DLC7/Girl006RM13",
+        "StoryName": "house.DailyTalkName0613",
+        "StoryArea": 6,
+        "CheckIn": 1
+    },
+    {
+        "GirlId": 6,
+        "StoryId": 14,
+        "StoryKey": "3DRoom_DLC8/Girl006RM14",
+        "StoryName": "house.DailyTalkName0614",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51303,
+        "PreStory": [
+            6,
+            7
+        ]
+    },
+    {
+        "GirlId": 6,
+        "StoryId": 15,
+        "StoryKey": "3DRoom_DLC9/Girl006RM15",
+        "StoryName": "house.DailyTalkName0615",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51357
+    },
+    {
+        "GirlId": 6,
+        "StoryId": 16,
+        "StoryKey": "3DRoom_DLC10/Girl006RM16",
+        "StoryName": "house.DailyTalkName0616",
+        "StoryArea": 6,
+        "CheckIn": 1
+    },
+    {
+        "GirlId": 6,
+        "StoryId": 17,
+        "StoryKey": "3DRoom_DLC11/Girl006RM17",
+        "StoryName": "house.DailyTalkName0617",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 6,
+        "StoryId": 18,
+        "StoryKey": "3DRoom_DLC12/Girl006RM18",
+        "StoryName": "house.DailyTalkName0618",
+        "StoryArea": 6,
+        "CheckIn": 1
+    },
+    {
+        "GirlId": 6,
+        "StoryId": 19,
+        "StoryKey": "3DRoom_DLC25/Girl006RM19",
+        "StoryName": "house.DailyTalkName0619",
+        "StoryArea": 6,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 6,
+        "StoryId": 20,
+        "StoryKey": "3DRoom_DLC27/Girl006RM20",
+        "StoryName": "house.DailyTalkName0620",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 6,
+        "StoryId": 21,
+        "StoryKey": "3DRoom_DLC30/Girl006RM21",
+        "StoryName": "house.DailyTalkName0621",
+        "StoryArea": 6,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 6,
+        "StoryId": 22,
+        "StoryKey": "3DRoom_DLC32/Girl006RM22",
+        "StoryName": "house.DailyTalkName0622",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 11620,
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 6,
+        "StoryId": 23,
+        "StoryKey": "3DRoom_DLC35/Girl006RM23",
+        "StoryName": "house.DailyTalkName0623",
+        "StoryArea": 51,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 7,
+        "StoryId": 2,
+        "StoryKey": "3DRoom/Girl007RM2",
+        "StoryName": "house.DailyTalkName0702",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 7,
+        "StoryId": 4,
+        "StoryKey": "3DRoom_DLC2/Girl007RM4",
+        "StoryName": "house.DailyTalkName0704",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 7,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC3/Girl007RM6",
+        "StoryName": "house.DailyTalkName0706",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 7,
+        "StoryId": 7,
+        "StoryKey": "3DRoom_DLC3/Girl007RM7",
+        "StoryName": "house.DailyTalkName0707",
+        "StoryArea": 0,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            703
+        ]
+    },
+    {
+        "GirlId": 7,
+        "StoryId": 8,
+        "StoryKey": "3DRoom_DLC3/Girl007RM8",
+        "StoryName": "house.DailyTalkName0708",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 7,
+        "StoryId": 9,
+        "StoryKey": "3DRoom_DLC4/Girl007RM9",
+        "StoryName": "house.DailyTalkName0710",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 7,
+        "StoryId": 10,
+        "StoryKey": "3DRoom_DLC4/Girl007RM10",
+        "StoryName": "house.DailyTalkName0709",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 7,
+        "StoryId": 11,
+        "StoryKey": "3DRoom_DLC5/Girl007RM11",
+        "StoryName": "house.DailyTalkName0711",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51258
+    },
+    {
+        "GirlId": 7,
+        "StoryId": 12,
+        "StoryKey": "3DRoom_DLC6/Girl007RM12",
+        "StoryName": "house.DailyTalkName0712",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 7,
+        "StoryId": 13,
+        "StoryKey": "3DRoom_DLC7/Girl007RM13",
+        "StoryName": "house.DailyTalkName0713",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 7,
+        "StoryId": 14,
+        "StoryKey": "3DRoom_DLC8/Girl007RM14",
+        "StoryName": "house.DailyTalkName0714",
+        "StoryArea": 7,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51278
+    },
+    {
+        "GirlId": 7,
+        "StoryId": 15,
+        "StoryKey": "3DRoom_DLC9/Girl007RM15",
+        "StoryName": "house.DailyTalkName0715",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 7,
+        "StoryId": 16,
+        "StoryKey": "3DRoom_DLC10/Girl007RM16",
+        "StoryName": "house.DailyTalkName0716",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 7,
+        "StoryId": 17,
+        "StoryKey": "3DRoom_DLC11/Girl007RM17",
+        "StoryName": "house.DailyTalkName0717",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 7,
+        "StoryId": 18,
+        "StoryKey": "3DRoom_DLC12/Girl007RM18",
+        "StoryName": "house.DailyTalkName0718",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 7,
+        "StoryId": 19,
+        "StoryKey": "3DRoom_DLC25/Girl007RM19",
+        "StoryName": "house.DailyTalkName0719",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 7,
+        "StoryId": 20,
+        "StoryKey": "3DRoom_DLC27/Girl007RM20",
+        "StoryName": "house.DailyTalkName0720",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 7,
+        "StoryId": 21,
+        "StoryKey": "3DRoom_DLC30/Girl007RM21",
+        "StoryName": "house.DailyTalkName0721",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 7,
+        "StoryId": 22,
+        "StoryKey": "3DRoom_DLC32/Girl007RM22",
+        "StoryName": "house.DailyTalkName0722",
+        "StoryArea": 7,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 7,
+        "StoryId": 23,
+        "StoryKey": "3DRoom_DLC35/Girl007RM23",
+        "StoryName": "house.DailyTalkName0723",
+        "StoryArea": 7,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 8,
+        "StoryId": 1,
+        "StoryKey": "3DRoom/Girl008RM1",
+        "StoryName": "house.DailyTalkName0801",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 8,
+        "StoryId": 4,
+        "StoryKey": "3DRoom_DLC2/Girl008RM4",
+        "StoryName": "house.DailyTalkName0804",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 8,
+        "StoryId": 5,
+        "StoryKey": "3DRoom_DLC2/Girl008RM5",
+        "StoryName": "house.DailyTalkName0805",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 8,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC3/Girl008RM6",
+        "StoryName": "house.DailyTalkName0806",
+        "StoryArea": 8,
+        "CheckIn": 1
+    },
+    {
+        "GirlId": 8,
+        "StoryId": 7,
+        "StoryKey": "3DRoom_DLC3/Girl008RM7",
+        "StoryName": "house.DailyTalkName0807",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 8,
+        "StoryId": 9,
+        "StoryKey": "3DRoom_DLC4/Girl008RM9",
+        "StoryName": "house.DailyTalkName0810",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51258
+    },
+    {
+        "GirlId": 8,
+        "StoryId": 10,
+        "StoryKey": "3DRoom_DLC4/Girl008RM10",
+        "StoryName": "house.DailyTalkName0809",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 8,
+        "StoryId": 11,
+        "StoryKey": "3DRoom_DLC5/Girl008RM11",
+        "StoryName": "house.DailyTalkName0811",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 8,
+        "StoryId": 12,
+        "StoryKey": "3DRoom_DLC6/Girl008RM12",
+        "StoryName": "house.DailyTalkName0812",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51278
+    },
+    {
+        "GirlId": 8,
+        "StoryId": 13,
+        "StoryKey": "3DRoom_DLC7/Girl008RM13",
+        "StoryName": "house.DailyTalkName0813",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51278
+    },
+    {
+        "GirlId": 8,
+        "StoryId": 14,
+        "StoryKey": "3DRoom_DLC8/Girl008RM14",
+        "StoryName": "house.DailyTalkName0814",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 8,
+        "StoryId": 15,
+        "StoryKey": "3DRoom_DLC9/Girl008RM15",
+        "StoryName": "house.DailyTalkName0815",
+        "StoryArea": 8,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": [
+            7,
+            8,
+            3,
+            2
+        ]
+    },
+    {
+        "GirlId": 8,
+        "StoryId": 16,
+        "StoryKey": "3DRoom_DLC10/Girl008RM16",
+        "StoryName": "house.DailyTalkName0816",
+        "StoryArea": 8,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            801,
+            807
+        ],
+        "PreLevel": 51371,
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 2
+    },
+    {
+        "GirlId": 8,
+        "StoryId": 17,
+        "StoryKey": "3DRoom_DLC11/Girl008RM17",
+        "StoryName": "house.DailyTalkName0817",
+        "StoryArea": 8,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": [
+            16,
+            3,
+            1,
+            1
+        ],
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 8,
+        "StoryId": 18,
+        "StoryKey": "3DRoom_DLC12/Girl008RM18",
+        "StoryName": "house.DailyTalkName0818",
+        "StoryArea": 51,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51371,
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 8,
+        "StoryId": 19,
+        "StoryKey": "3DRoom_DLC25/Girl008RM19",
+        "StoryName": "house.DailyTalkName0819",
+        "StoryArea": 8,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            802
+        ],
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 8,
+        "StoryId": 20,
+        "StoryKey": "3DRoom_DLC27/Girl008RM20",
+        "StoryName": "house.DailyTalkName0820",
+        "StoryArea": 0,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 8,
+        "StoryId": 21,
+        "StoryKey": "3DRoom_DLC30/Girl008RM21",
+        "StoryName": "house.DailyTalkName0821",
+        "StoryArea": 0,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 8,
+        "StoryId": 22,
+        "StoryKey": "3DRoom_DLC32/Girl008RM22",
+        "StoryName": "house.DailyTalkName0822",
+        "StoryArea": 8,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            803
+        ],
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 8,
+        "StoryId": 23,
+        "StoryKey": "3DRoom_DLC35/Girl008RM23",
+        "StoryName": "house.DailyTalkName0823",
+        "StoryArea": 8,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 2,
+        "StoryKey": "3DRoom/Girl010RM2",
+        "StoryName": "house.DailyTalkName1002",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 3,
+        "StoryKey": "3DRoom/Girl010RM3",
+        "StoryName": "house.DailyTalkName1003",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 4,
+        "StoryKey": "3DRoom_DLC2/Girl010RM4",
+        "StoryName": "house.DailyTalkName1004",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 5,
+        "StoryKey": "3DRoom_DLC2/Girl010RM5",
+        "StoryName": "house.DailyTalkName1005",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC3/Girl010RM6",
+        "StoryName": "house.DailyTalkName1006",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 7,
+        "StoryKey": "3DRoom_DLC3/Girl010RM7",
+        "StoryName": "house.DailyTalkName1007",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 9,
+        "StoryKey": "3DRoom_DLC4/Girl010RM9",
+        "StoryName": "house.DailyTalkName1010",
+        "StoryArea": 10,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1012
+        ]
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 10,
+        "StoryKey": "3DRoom_DLC4/Girl010RM10",
+        "StoryName": "house.DailyTalkName1009",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 11,
+        "StoryKey": "3DRoom_DLC5/Girl010RM11",
+        "StoryName": "house.DailyTalkName1011",
+        "StoryArea": 10,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1005
+        ]
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 12,
+        "StoryKey": "3DRoom_DLC6/Girl010RM12",
+        "StoryName": "house.DailyTalkName1012",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51268
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 13,
+        "StoryKey": "3DRoom_DLC7/Girl010RM13",
+        "StoryName": "house.DailyTalkName1013",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 14,
+        "StoryKey": "3DRoom_DLC8/Girl010RM14",
+        "StoryName": "house.DailyTalkName1014",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 15,
+        "StoryKey": "3DRoom_DLC9/Girl010RM15",
+        "StoryName": "house.DailyTalkName1015",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51357
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 16,
+        "StoryKey": "3DRoom_DLC10/Girl010RM16",
+        "StoryName": "house.DailyTalkName1016",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 17,
+        "StoryKey": "3DRoom_DLC11/Girl010RM17",
+        "StoryName": "house.DailyTalkName1017",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 18,
+        "StoryKey": "3DRoom_DLC12/Girl010RM18",
+        "StoryName": "house.DailyTalkName1018",
+        "StoryArea": 51
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 19,
+        "StoryKey": "3DRoom_DLC25/Girl010RM19",
+        "StoryName": "house.DailyTalkName1020",
+        "StoryArea": 60
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 20,
+        "StoryKey": "3DRoom_DLC25/Girl010RM20",
+        "StoryName": "house.DailyTalkName1019",
+        "StoryArea": 10,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": [
+            7,
+            10,
+            3,
+            2
+        ]
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 21,
+        "StoryKey": "3DRoom_DLC27/Girl010RM21",
+        "StoryName": "house.DailyTalkName1021",
+        "StoryArea": 10,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1004
+        ],
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 22,
+        "StoryKey": "3DRoom_DLC30/Girl010RM22",
+        "StoryName": "house.DailyTalkName1022",
+        "StoryArea": 0,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 23,
+        "StoryKey": "3DRoom_DLC32/Girl010RM23",
+        "StoryName": "house.DailyTalkName1023",
+        "StoryArea": 70,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 10,
+        "StoryId": 24,
+        "StoryKey": "3DRoom_DLC35/Girl010RM24",
+        "StoryName": "house.DailyTalkName1024",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 1,
+        "StoryKey": "3DRoom/Girl011RM1",
+        "StoryName": "house.DailyTalkName1101",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 2,
+        "StoryKey": "3DRoom/Girl011RM2",
+        "StoryName": "house.DailyTalkName1102",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 3,
+        "StoryKey": "3DRoom/Girl011RM3",
+        "StoryName": "house.DailyTalkName1103",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 4,
+        "StoryKey": "3DRoom_DLC2/Girl011RM4",
+        "StoryName": "house.DailyTalkName1104",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 5,
+        "StoryKey": "3DRoom_DLC2/Girl011RM5",
+        "StoryName": "house.DailyTalkName1105",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC3/Girl011RM6",
+        "StoryName": "house.DailyTalkName1106",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 7,
+        "StoryKey": "3DRoom_DLC3/Girl011RM7",
+        "StoryName": "house.DailyTalkName1107",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 8,
+        "StoryKey": "3DRoom_DLC3/Girl011RM8",
+        "StoryName": "house.DailyTalkName1108",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 9,
+        "StoryKey": "3DRoom_DLC4/Girl011RM9",
+        "StoryName": "house.DailyTalkName1110",
+        "StoryArea": 11,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1104
+        ]
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 10,
+        "StoryKey": "3DRoom_DLC4/Girl011RM10",
+        "StoryName": "house.DailyTalkName1109",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 11,
+        "StoryKey": "3DRoom_DLC5/Girl011RM11",
+        "StoryName": "house.DailyTalkName1111",
+        "StoryArea": 11,
+        "CheckIn": 1
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 12,
+        "StoryKey": "3DRoom_DLC6/Girl011RM12",
+        "StoryName": "house.DailyTalkName1112",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 13,
+        "StoryKey": "3DRoom_DLC7/Girl011RM13",
+        "StoryName": "house.DailyTalkName1113",
+        "StoryArea": 11,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1104
+        ],
+        "PreLevel": "",
+        "PreStory": [
+            11,
+            9
+        ]
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 14,
+        "StoryKey": "3DRoom_DLC8/Girl011RM14",
+        "StoryName": "house.DailyTalkName1114",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 15,
+        "StoryKey": "3DRoom_DLC9/Girl011RM15",
+        "StoryName": "house.DailyTalkName1115",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51357
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 16,
+        "StoryKey": "3DRoom_DLC10/Girl011RM16",
+        "StoryName": "house.DailyTalkName1116",
+        "StoryArea": 51
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 17,
+        "StoryKey": "3DRoom_DLC11/Girl011RM17",
+        "StoryName": "house.DailyTalkName1117",
+        "StoryArea": 11,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1103
+        ]
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 18,
+        "StoryKey": "3DRoom_DLC12/Girl011RM18",
+        "StoryName": "house.DailyTalkName1118",
+        "StoryArea": 51,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51371
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 19,
+        "StoryKey": "3DRoom_DLC25/Girl011RM19",
+        "StoryName": "house.DailyTalkName1119",
+        "StoryArea": 11,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 20,
+        "StoryKey": "3DRoom_DLC26/Girl011RM20",
+        "StoryName": "house.DailyTalkName1120",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 21,
+        "StoryKey": "3DRoom_DLC26/Girl011RM21",
+        "StoryName": "house.DailyTalkName1121",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 22,
+        "StoryKey": "3DRoom_DLC27/Girl011RM22",
+        "StoryName": "house.DailyTalkName1122",
+        "StoryArea": 51,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 23,
+        "StoryKey": "3DRoom_DLC30/Girl011RM23",
+        "StoryName": "house.DailyTalkName1123",
+        "StoryArea": 11,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 24,
+        "StoryKey": "3DRoom_DLC32/Girl011RM24",
+        "StoryName": "house.DailyTalkName1124",
+        "StoryArea": 0,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 11,
+        "StoryId": 25,
+        "StoryKey": "3DRoom_DLC35/Girl011RM25",
+        "StoryName": "house.DailyTalkName1125",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 1,
+        "StoryKey": "3DRoom/Girl012RM1",
+        "StoryName": "house.DailyTalkName1201",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 2,
+        "StoryKey": "3DRoom/Girl012RM2",
+        "StoryName": "house.DailyTalkName1202",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 3,
+        "StoryKey": "3DRoom/Girl012RM3",
+        "StoryName": "house.DailyTalkName1203",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 4,
+        "StoryKey": "3DRoom_DLC2/Girl012RM4",
+        "StoryName": "house.DailyTalkName1204",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 5,
+        "StoryKey": "3DRoom_DLC2/Girl012RM5",
+        "StoryName": "house.DailyTalkName1205",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC3/Girl012RM6",
+        "StoryName": "house.DailyTalkName1206",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 7,
+        "StoryKey": "3DRoom_DLC3/Girl012RM7",
+        "StoryName": "house.DailyTalkName1207",
+        "StoryArea": 12,
+        "CheckIn": 1
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 8,
+        "StoryKey": "3DRoom_DLC3/Girl012RM8",
+        "StoryName": "house.DailyTalkName1208",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 9,
+        "StoryKey": "3DRoom_DLC4/Girl012RM9",
+        "StoryName": "house.DailyTalkName1210",
+        "StoryArea": 12,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51258
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 10,
+        "StoryKey": "3DRoom_DLC4/Girl012RM10",
+        "StoryName": "house.DailyTalkName1209",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51258
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 11,
+        "StoryKey": "3DRoom_DLC5/Girl012RM11",
+        "StoryName": "house.DailyTalkName1211",
+        "StoryArea": 12,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1204
+        ]
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 12,
+        "StoryKey": "3DRoom_DLC6/Girl012RM12",
+        "StoryName": "house.DailyTalkName1212",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51278
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 13,
+        "StoryKey": "3DRoom_DLC7/Girl012RM13",
+        "StoryName": "house.DailyTalkName1213",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51278
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 14,
+        "StoryKey": "3DRoom_DLC8/Girl012RM14",
+        "StoryName": "house.DailyTalkName1214",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51278
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 15,
+        "StoryKey": "3DRoom_DLC9/Girl012RM15",
+        "StoryName": "house.DailyTalkName1215",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51357
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 16,
+        "StoryKey": "3DRoom_DLC10/Girl012RM16",
+        "StoryName": "house.DailyTalkName1216",
+        "StoryArea": 12,
+        "CheckIn": 1
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 17,
+        "StoryKey": "3DRoom_DLC11/Girl012RM17",
+        "StoryName": "house.DailyTalkName1217",
+        "StoryArea": 51
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 18,
+        "StoryKey": "3DRoom_DLC12/Girl012RM18",
+        "StoryName": "house.DailyTalkName1218",
+        "StoryArea": 12,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1201,
+            1214
+        ]
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 19,
+        "StoryKey": "3DRoom_DLC25/Girl012RM19",
+        "StoryName": "house.DailyTalkName1219",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 20,
+        "StoryKey": "3DRoom_DLC27/Girl012RM20",
+        "StoryName": "house.DailyTalkName1220",
+        "StoryArea": 0,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 21,
+        "StoryKey": "3DRoom_DLC30/Girl012RM21",
+        "StoryName": "house.DailyTalkName1221",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 22,
+        "StoryKey": "3DRoom_DLC32/Girl012RM22",
+        "StoryName": "house.DailyTalkName1222",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 11620,
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 12,
+        "StoryId": 23,
+        "StoryKey": "3DRoom_DLC35/Girl012RM23",
+        "StoryName": "house.DailyTalkName1223",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 1,
+        "StoryKey": "3DRoom/Girl013RM1",
+        "StoryName": "house.DailyTalkName1301",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 2,
+        "StoryKey": "3DRoom/Girl013RM2",
+        "StoryName": "house.DailyTalkName1302",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 4,
+        "StoryKey": "3DRoom_DLC2/Girl013RM4",
+        "StoryName": "house.DailyTalkName1304",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 5,
+        "StoryKey": "3DRoom_DLC2/Girl013RM5",
+        "StoryName": "house.DailyTalkName1305",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC3/Girl013RM6",
+        "StoryName": "house.DailyTalkName1306",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 7,
+        "StoryKey": "3DRoom_DLC3/Girl013RM7",
+        "StoryName": "house.DailyTalkName1307",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 8,
+        "StoryKey": "3DRoom_DLC3/Girl013RM8",
+        "StoryName": "house.DailyTalkName1308",
+        "StoryArea": 13,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1305
+        ]
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 9,
+        "StoryKey": "3DRoom_DLC4/Girl013RM9",
+        "StoryName": "house.DailyTalkName1310",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 10,
+        "StoryKey": "3DRoom_DLC4/Girl013RM10",
+        "StoryName": "house.DailyTalkName1309",
+        "StoryArea": 13,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1302,
+            1303
+        ]
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 11,
+        "StoryKey": "3DRoom_DLC5/Girl013RM11",
+        "StoryName": "house.DailyTalkName1311",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 12,
+        "StoryKey": "3DRoom_DLC6/Girl013RM12",
+        "StoryName": "house.DailyTalkName1312",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51278
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 13,
+        "StoryKey": "3DRoom_DLC7/Girl013RM13",
+        "StoryName": "house.DailyTalkName1313",
+        "StoryArea": 0,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51278
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 14,
+        "StoryKey": "3DRoom_DLC8/Girl013RM14",
+        "StoryName": "house.DailyTalkName1314",
+        "StoryArea": 13,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1314
+        ]
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 15,
+        "StoryKey": "3DRoom_DLC9/Girl013RM15",
+        "StoryName": "house.DailyTalkName1315",
+        "StoryArea": 13,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1302,
+            1303
+        ],
+        "PreLevel": 51357
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 16,
+        "StoryKey": "3DRoom_DLC10/Girl013RM16",
+        "StoryName": "house.DailyTalkName1316",
+        "StoryArea": 13,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1302,
+            1306
+        ],
+        "PreLevel": 51371
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 17,
+        "StoryKey": "3DRoom_DLC11/Girl013RM17",
+        "StoryName": "house.DailyTalkName1317",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 18,
+        "StoryKey": "3DRoom_DLC12/Girl013RM18",
+        "StoryName": "house.DailyTalkName1318",
+        "StoryArea": 51
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 19,
+        "StoryKey": "3DRoom_DLC25/Girl013RM19",
+        "StoryName": "house.DailyTalkName1319",
+        "StoryArea": 0,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1310
+        ],
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 20,
+        "StoryKey": "3DRoom_DLC27/Girl013RM20",
+        "StoryName": "house.DailyTalkName1320",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 21,
+        "StoryKey": "3DRoom_DLC30/Girl013RM21",
+        "StoryName": "house.DailyTalkName1321",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 22,
+        "StoryKey": "3DRoom_DLC32/Girl013RM22",
+        "StoryName": "house.DailyTalkName1322",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 11620,
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 13,
+        "StoryId": 23,
+        "StoryKey": "3DRoom_DLC35/Girl013RM23",
+        "StoryName": "house.DailyTalkName1323",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 1,
+        "StoryKey": "3DRoom/Girl014RM1",
+        "StoryName": "house.DailyTalkName1401",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 3,
+        "StoryKey": "3DRoom/Girl014RM3",
+        "StoryName": "house.DailyTalkName1403",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 4,
+        "StoryKey": "3DRoom_DLC2/Girl014RM4",
+        "StoryName": "house.DailyTalkName1404",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 5,
+        "StoryKey": "3DRoom_DLC2/Girl014RM5",
+        "StoryName": "house.DailyTalkName1405",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC3/Girl014RM6",
+        "StoryName": "house.DailyTalkName1406",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 7,
+        "StoryKey": "3DRoom_DLC3/Girl014RM7",
+        "StoryName": "house.DailyTalkName1407",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 8,
+        "StoryKey": "3DRoom_DLC3/Girl014RM8",
+        "StoryName": "house.DailyTalkName1408",
+        "StoryArea": 14,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1409
+        ]
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 9,
+        "StoryKey": "3DRoom_DLC4/Girl014RM9",
+        "StoryName": "house.DailyTalkName1410",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 10,
+        "StoryKey": "3DRoom_DLC4/Girl014RM10",
+        "StoryName": "house.DailyTalkName1409",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51258
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 11,
+        "StoryKey": "3DRoom_DLC5/Girl014RM11",
+        "StoryName": "house.DailyTalkName1411",
+        "StoryArea": 14,
+        "CheckIn": 1
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 12,
+        "StoryKey": "3DRoom_DLC6/Girl014RM12",
+        "StoryName": "house.DailyTalkName1412",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51258
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 13,
+        "StoryKey": "3DRoom_DLC7/Girl014RM13",
+        "StoryName": "house.DailyTalkName1413",
+        "StoryArea": 14,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1401
+        ],
+        "PreLevel": "",
+        "PreStory": [
+            12,
+            7
+        ]
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 14,
+        "StoryKey": "3DRoom_DLC8/Girl014RM14",
+        "StoryName": "house.DailyTalkName1414",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 15,
+        "StoryKey": "3DRoom_DLC9/Girl014RM15",
+        "StoryName": "house.DailyTalkName1415",
+        "StoryArea": 0,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51357
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 16,
+        "StoryKey": "3DRoom_DLC10/Girl014RM16",
+        "StoryName": "house.DailyTalkName1416",
+        "StoryArea": 51
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 17,
+        "StoryKey": "3DRoom_DLC11/Girl014RM17",
+        "StoryName": "house.DailyTalkName1417",
+        "StoryArea": 51
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 18,
+        "StoryKey": "3DRoom_DLC12/Girl014RM18",
+        "StoryName": "house.DailyTalkName1418",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 19,
+        "StoryKey": "3DRoom_DLC25/Girl014RM19",
+        "StoryName": "house.DailyTalkName1419",
+        "StoryArea": 60
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 20,
+        "StoryKey": "3DRoom_DLC25/Girl014RM20",
+        "StoryName": "house.DailyTalkName1420",
+        "StoryArea": 14,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": [
+            7,
+            14,
+            3,
+            2
+        ]
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 21,
+        "StoryKey": "3DRoom_DLC27/Girl014RM21",
+        "StoryName": "house.DailyTalkName1421",
+        "StoryArea": 51,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 22,
+        "StoryKey": "3DRoom_DLC30/Girl014RM22",
+        "StoryName": "house.DailyTalkName1422",
+        "StoryArea": 14,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 23,
+        "StoryKey": "3DRoom_DLC32/Girl014RM23",
+        "StoryName": "house.DailyTalkName1423",
+        "StoryArea": 14,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1405
+        ],
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 14,
+        "StoryId": 24,
+        "StoryKey": "3DRoom_DLC35/Girl014RM24",
+        "StoryName": "house.DailyTalkName1424",
+        "StoryArea": 14,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 15,
+        "StoryId": 2,
+        "StoryKey": "3DRoom_DLC5/Girl015RM2",
+        "StoryName": "house.DailyTalkName1502",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 15,
+        "StoryId": 3,
+        "StoryKey": "3DRoom_DLC5/Girl015RM3",
+        "StoryName": "house.DailyTalkName1503",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 15,
+        "StoryId": 4,
+        "StoryKey": "3DRoom_DLC5/Girl015RM4",
+        "StoryName": "house.DailyTalkName1504",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 15,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC6/Girl015RM6",
+        "StoryName": "house.DailyTalkName1506",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 15,
+        "StoryId": 7,
+        "StoryKey": "3DRoom_DLC7/Girl015RM7",
+        "StoryName": "house.DailyTalkName1507",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 15,
+        "StoryId": 8,
+        "StoryKey": "3DRoom_DLC8/Girl015RM8",
+        "StoryName": "house.DailyTalkName1508",
+        "StoryArea": 15,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1506
+        ]
+    },
+    {
+        "GirlId": 15,
+        "StoryId": 9,
+        "StoryKey": "3DRoom_DLC9/Girl015RM9",
+        "StoryName": "house.DailyTalkName1509",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51371
+    },
+    {
+        "GirlId": 15,
+        "StoryId": 10,
+        "StoryKey": "3DRoom_DLC10/Girl015RM10",
+        "StoryName": "house.DailyTalkName1510",
+        "StoryArea": 0,
+        "CheckIn": 1
+    },
+    {
+        "GirlId": 15,
+        "StoryId": 11,
+        "StoryKey": "3DRoom_DLC11/Girl015RM11",
+        "StoryName": "house.DailyTalkName1511",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 15,
+        "StoryId": 12,
+        "StoryKey": "3DRoom_DLC12/Girl015RM12",
+        "StoryName": "house.DailyTalkName1512",
+        "StoryArea": 51
+    },
+    {
+        "GirlId": 15,
+        "StoryId": 13,
+        "StoryKey": "3DRoom_DLC25/Girl015RM13",
+        "StoryName": "house.DailyTalkName1513",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 15,
+        "StoryId": 14,
+        "StoryKey": "3DRoom_DLC27/Girl015RM14",
+        "StoryName": "house.DailyTalkName1514",
+        "StoryArea": 0,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 15,
+        "StoryId": 15,
+        "StoryKey": "3DRoom_DLC30/Girl015RM15",
+        "StoryName": "house.DailyTalkName1515",
+        "StoryArea": 15,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": [
+            7,
+            15,
+            3,
+            2
+        ],
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 15,
+        "StoryId": 16,
+        "StoryKey": "3DRoom_DLC32/Girl015RM16",
+        "StoryName": "house.DailyTalkName1516",
+        "StoryArea": 70,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 15,
+        "StoryId": 17,
+        "StoryKey": "3DRoom_DLC35/Girl015RM17",
+        "StoryName": "house.DailyTalkName1517",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 16,
+        "StoryId": 2,
+        "StoryKey": "3DRoom_DLC6/Girl016RM2",
+        "StoryName": "house.DailyTalkName1602",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 16,
+        "StoryId": 3,
+        "StoryKey": "3DRoom_DLC6/Girl016RM3",
+        "StoryName": "house.DailyTalkName1603",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 16,
+        "StoryId": 4,
+        "StoryKey": "3DRoom_DLC6/Girl016RM4",
+        "StoryName": "house.DailyTalkName1604",
+        "StoryArea": 16,
+        "CheckIn": 1
+    },
+    {
+        "GirlId": 16,
+        "StoryId": 5,
+        "StoryKey": "3DRoom_DLC6/Girl016RM5",
+        "StoryName": "house.DailyTalkName1605",
+        "StoryArea": 16,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1604
+        ]
+    },
+    {
+        "GirlId": 16,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC7/Girl016RM6",
+        "StoryName": "house.DailyTalkName1606",
+        "StoryArea": 16,
+        "CheckIn": 1
+    },
+    {
+        "GirlId": 16,
+        "StoryId": 7,
+        "StoryKey": "3DRoom_DLC8/Girl016RM7",
+        "StoryName": "house.DailyTalkName1607",
+        "StoryArea": 16,
+        "CheckIn": 1
+    },
+    {
+        "GirlId": 16,
+        "StoryId": 8,
+        "StoryKey": "3DRoom_DLC9/Girl016RM8",
+        "StoryName": "house.DailyTalkName1608",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 16,
+        "StoryId": 9,
+        "StoryKey": "3DRoom_DLC10/Girl016RM9",
+        "StoryName": "house.DailyTalkName1609",
+        "StoryArea": 51
+    },
+    {
+        "GirlId": 16,
+        "StoryId": 10,
+        "StoryKey": "3DRoom_DLC11/Girl016RM10",
+        "StoryName": "house.DailyTalkName1610",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 16,
+        "StoryId": 11,
+        "StoryKey": "3DRoom_DLC12/Girl016RM11",
+        "StoryName": "house.DailyTalkName1611",
+        "StoryArea": 51
+    },
+    {
+        "GirlId": 16,
+        "StoryId": 12,
+        "StoryKey": "3DRoom_DLC25/Girl016RM12",
+        "StoryName": "house.DailyTalkName1612",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 16,
+        "StoryId": 13,
+        "StoryKey": "3DRoom_DLC27/Girl016RM13",
+        "StoryName": "house.DailyTalkName1613",
+        "StoryArea": 16,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 16,
+        "StoryId": 14,
+        "StoryKey": "3DRoom_DLC30/Girl016RM14",
+        "StoryName": "house.DailyTalkName1614",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 16,
+        "StoryId": 15,
+        "StoryKey": "3DRoom_DLC32/Girl016RM15",
+        "StoryName": "house.DailyTalkName1615",
+        "StoryArea": 16,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1601
+        ],
+        "PreLevel": 11620,
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 16,
+        "StoryId": 16,
+        "StoryKey": "3DRoom_DLC35/Girl016RM16",
+        "StoryName": "house.DailyTalkName1616",
+        "StoryArea": 16,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 17,
+        "StoryId": 1,
+        "StoryKey": "3DRoom_DLC4/Girl017RM1",
+        "StoryName": "house.DailyTalkName1701",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 17,
+        "StoryId": 2,
+        "StoryKey": "3DRoom_DLC4/Girl017RM2",
+        "StoryName": "house.DailyTalkName1702",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 17,
+        "StoryId": 3,
+        "StoryKey": "3DRoom_DLC4/Girl017RM3",
+        "StoryName": "house.DailyTalkName1703",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 17,
+        "StoryId": 5,
+        "StoryKey": "3DRoom_DLC4/Girl017RM5",
+        "StoryName": "house.DailyTalkName1705",
+        "StoryArea": 17,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1703
+        ]
+    },
+    {
+        "GirlId": 17,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC5/Girl017RM6",
+        "StoryName": "house.DailyTalkName1706",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 17,
+        "StoryId": 7,
+        "StoryKey": "3DRoom_DLC6/Girl017RM7",
+        "StoryName": "house.DailyTalkName1707",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51271
+    },
+    {
+        "GirlId": 17,
+        "StoryId": 9,
+        "StoryKey": "3DRoom_DLC8/Girl017RM9",
+        "StoryName": "house.DailyTalkName1709",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 17,
+        "StoryId": 10,
+        "StoryKey": "3DRoom_DLC9/Girl017RM10",
+        "StoryName": "house.DailyTalkName1710",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51364
+    },
+    {
+        "GirlId": 17,
+        "StoryId": 11,
+        "StoryKey": "3DRoom_DLC10/Girl017RM11",
+        "StoryName": "house.DailyTalkName1711",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51388,
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 17,
+        "StoryId": 12,
+        "StoryKey": "3DRoom_DLC11/Girl017RM12",
+        "StoryName": "house.DailyTalkName1712",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 17,
+        "StoryId": 13,
+        "StoryKey": "3DRoom_DLC12/Girl017RM13",
+        "StoryName": "house.DailyTalkName1713",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 17,
+        "StoryId": 14,
+        "StoryKey": "3DRoom_DLC25/Girl017RM14",
+        "StoryName": "house.DailyTalkName1714",
+        "StoryArea": 51,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 17,
+        "StoryId": 15,
+        "StoryKey": "3DRoom_DLC27/Girl017RM15",
+        "StoryName": "house.DailyTalkName1715",
+        "StoryArea": 17,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 17,
+        "StoryId": 16,
+        "StoryKey": "3DRoom_DLC30/Girl017RM16",
+        "StoryName": "house.DailyTalkName1716",
+        "StoryArea": 17,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": [
+            7,
+            17,
+            2,
+            2
+        ],
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 17,
+        "StoryId": 17,
+        "StoryKey": "3DRoom_DLC32/Girl017RM17",
+        "StoryName": "house.DailyTalkName1717",
+        "StoryArea": 0,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": [
+            7,
+            17,
+            2,
+            2
+        ],
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 17,
+        "StoryId": 18,
+        "StoryKey": "3DRoom_DLC35/Girl017RM18",
+        "StoryName": "house.DailyTalkName1718",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 18,
+        "StoryId": 1,
+        "StoryKey": "3DRoom_DLC10/Girl018RM1",
+        "StoryName": "house.DailyTalkName1803",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 18,
+        "StoryId": 2,
+        "StoryKey": "3DRoom_DLC10/Girl018RM2",
+        "StoryName": "house.DailyTalkName1801",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 18,
+        "StoryId": 3,
+        "StoryKey": "3DRoom_DLC10/Girl018RM3",
+        "StoryName": "house.DailyTalkName1802",
+        "StoryArea": 0,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            1802
+        ]
+    },
+    {
+        "GirlId": 18,
+        "StoryId": 4,
+        "StoryKey": "3DRoom_DLC10/Girl018RM4",
+        "StoryName": "house.DailyTalkName1805",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 18,
+        "StoryId": 5,
+        "StoryKey": "3DRoom_DLC10/Girl018RM5",
+        "StoryName": "house.DailyTalkName1804",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 18,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC11/Girl018RM6",
+        "StoryName": "house.DailyTalkName1806",
+        "StoryArea": 51
+    },
+    {
+        "GirlId": 18,
+        "StoryId": 7,
+        "StoryKey": "3DRoom_DLC12/Girl018RM7",
+        "StoryName": "house.DailyTalkName1807",
+        "StoryArea": 51
+    },
+    {
+        "GirlId": 18,
+        "StoryId": 8,
+        "StoryKey": "3DRoom_DLC25/Girl018RM8",
+        "StoryName": "house.DailyTalkName1808",
+        "StoryArea": 18,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51478
+    },
+    {
+        "GirlId": 18,
+        "StoryId": 9,
+        "StoryKey": "3DRoom_DLC27/Girl018RM9",
+        "StoryName": "house.DailyTalkName1809",
+        "StoryArea": 51
+    },
+    {
+        "GirlId": 18,
+        "StoryId": 10,
+        "StoryKey": "3DRoom_DLC28/Girl018RM10",
+        "StoryName": "house.DailyTalkName1810",
+        "StoryArea": 18,
+        "CheckIn": 1
+    },
+    {
+        "GirlId": 18,
+        "StoryId": 11,
+        "StoryKey": "3DRoom_DLC28/Girl018RM11",
+        "StoryName": "house.DailyTalkName1811",
+        "StoryArea": 18,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 18,
+        "StoryId": 12,
+        "StoryKey": "3DRoom_DLC30/Girl018RM12",
+        "StoryName": "house.DailyTalkName1812",
+        "StoryArea": 18,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 18,
+        "StoryId": 13,
+        "StoryKey": "3DRoom_DLC32/Girl018RM13",
+        "StoryName": "house.DailyTalkName1813",
+        "StoryArea": 18,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 18,
+        "StoryId": 14,
+        "StoryKey": "3DRoom_DLC35/Girl018RM14",
+        "StoryName": "house.DailyTalkName1814",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": "",
+        "PreStory": "",
+        "CheckLoveLevel": "",
+        "NeedItem": "",
+        "BeginTime": "",
+        "EndTime": "",
+        "HigherOrder": 1
+    },
+    {
+        "GirlId": 20,
+        "StoryId": 1,
+        "StoryKey": "3DRoom_DLC27/Girl020RM1",
+        "StoryName": "house.DailyTalkName2001",
+        "StoryArea": 20,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            2005
+        ]
+    },
+    {
+        "GirlId": 20,
+        "StoryId": 2,
+        "StoryKey": "3DRoom_DLC27/Girl020RM2",
+        "StoryName": "house.DailyTalkName2002",
+        "StoryArea": 20,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            2003
+        ]
+    },
+    {
+        "GirlId": 20,
+        "StoryId": 3,
+        "StoryKey": "3DRoom_DLC27/Girl020RM3",
+        "StoryName": "house.DailyTalkName2003",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 20,
+        "StoryId": 4,
+        "StoryKey": "3DRoom_DLC27/Girl020RM4",
+        "StoryName": "house.DailyTalkName2004",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 20,
+        "StoryId": 5,
+        "StoryKey": "3DRoom_DLC27/Girl020RM5",
+        "StoryName": "house.DailyTalkName2005",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 20,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC30/Girl020RM6",
+        "StoryName": "house.DailyTalkName2006",
+        "StoryArea": 20,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            2003
+        ]
+    },
+    {
+        "GirlId": 20,
+        "StoryId": 7,
+        "StoryKey": "3DRoom_DLC32/Girl020RM7",
+        "StoryName": "house.DailyTalkName2007",
+        "StoryArea": 20,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            2005
+        ]
+    },
+    {
+        "GirlId": 20,
+        "StoryId": 8,
+        "StoryKey": "3DRoom_DLC35/Girl020RM8",
+        "StoryName": "house.DailyTalkName2008",
+        "StoryArea": 0,
+        "CheckIn": 1
+    },
+    {
+        "GirlId": 21,
+        "StoryId": 1,
+        "StoryKey": "3DRoom_DLC28/Girl021RM1",
+        "StoryName": "house.DailyTalkName2101",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 21,
+        "StoryId": 2,
+        "StoryKey": "3DRoom_DLC28/Girl021RM2",
+        "StoryName": "house.DailyTalkName2102",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 21,
+        "StoryId": 3,
+        "StoryKey": "3DRoom_DLC28/Girl021RM3",
+        "StoryName": "house.DailyTalkName2103",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 21,
+        "StoryId": 4,
+        "StoryKey": "3DRoom_DLC28/Girl021RM4",
+        "StoryName": "house.DailyTalkName2104",
+        "StoryArea": 21,
+        "CheckIn": 1
+    },
+    {
+        "GirlId": 21,
+        "StoryId": 5,
+        "StoryKey": "3DRoom_DLC28/Girl021RM5",
+        "StoryName": "house.DailyTalkName2105",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 21,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC30/Girl021RM6",
+        "StoryName": "house.DailyTalkName2106",
+        "StoryArea": 21,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            2104
+        ]
+    },
+    {
+        "GirlId": 21,
+        "StoryId": 7,
+        "StoryKey": "3DRoom_DLC32/Girl021RM7",
+        "StoryName": "house.DailyTalkName2107",
+        "StoryArea": 21,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            2106
+        ]
+    },
+    {
+        "GirlId": 21,
+        "StoryId": 8,
+        "StoryKey": "3DRoom_DLC35/Girl021RM8",
+        "StoryName": "house.DailyTalkName2108",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 22,
+        "StoryId": 1,
+        "StoryKey": "3DRoom_DLC33/Girl022RM1",
+        "StoryName": "house.DailyTalkName2201",
+        "StoryArea": 22,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            2203
+        ]
+    },
+    {
+        "GirlId": 22,
+        "StoryId": 2,
+        "StoryKey": "3DRoom_DLC33/Girl022RM2",
+        "StoryName": "house.DailyTalkName2202",
+        "StoryArea": 0,
+        "CheckIn": "",
+        "Girls": "",
+        "Furnitures": "",
+        "PreLevel": 51550
+    },
+    {
+        "GirlId": 22,
+        "StoryId": 3,
+        "StoryKey": "3DRoom_DLC33/Girl022RM3",
+        "StoryName": "house.DailyTalkName2203",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 22,
+        "StoryId": 4,
+        "StoryKey": "3DRoom_DLC33/Girl022RM4",
+        "StoryName": "house.DailyTalkName2204",
+        "StoryArea": 0,
+        "CheckIn": 1
+    },
+    {
+        "GirlId": 22,
+        "StoryId": 5,
+        "StoryKey": "3DRoom_DLC33/Girl022RM5",
+        "StoryName": "house.DailyTalkName2205",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 22,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC35/Girl022RM6",
+        "StoryName": "house.DailyTalkName2206",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 23,
+        "StoryId": 1,
+        "StoryKey": "3DRoom_DLC34/Girl023RM1",
+        "StoryName": "house.DailyTalkName2301",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 23,
+        "StoryId": 2,
+        "StoryKey": "3DRoom_DLC34/Girl023RM2",
+        "StoryName": "house.DailyTalkName2302",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 23,
+        "StoryId": 3,
+        "StoryKey": "3DRoom_DLC34/Girl023RM3",
+        "StoryName": "house.DailyTalkName2303",
+        "StoryArea": 0
+    },
+    {
+        "GirlId": 23,
+        "StoryId": 4,
+        "StoryKey": "3DRoom_DLC34/Girl023RM4",
+        "StoryName": "house.DailyTalkName2304",
+        "StoryArea": 23,
+        "CheckIn": 1
+    },
+    {
+        "GirlId": 23,
+        "StoryId": 5,
+        "StoryKey": "3DRoom_DLC34/Girl023RM5",
+        "StoryName": "house.DailyTalkName2305",
+        "StoryArea": 23,
+        "CheckIn": 1,
+        "Girls": "",
+        "Furnitures": [
+            2311
+        ]
+    },
+    {
+        "GirlId": 23,
+        "StoryId": 6,
+        "StoryKey": "3DRoom_DLC35/Girl023RM6",
+        "StoryName": "house.DailyTalkName2306",
+        "StoryArea": 23,
+        "CheckIn": 1
+    }
+]

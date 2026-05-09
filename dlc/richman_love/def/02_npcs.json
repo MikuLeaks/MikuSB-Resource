@@ -1,0 +1,47 @@
+[
+    {
+        "Id": 1,
+        "LangName": "role.role_chapter_10211",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "IconId": 2600531,
+        "Image": "chess.901",
+        "AtlasPath": "/Game/Spine/Hero/Girl002a_01_q/sp_girl002a_01_q.sp_girl002a_01_q-atlas",
+        "DataPath": "/Game/Spine/Hero/Girl002a_01_q/sp_girl002a_01_q.sp_girl002a_01_q-data",
+        "StandMotion": "sp_girl002a_01_q_stand",
+        "HelloMotion": "sp_girl002a_01_q_hello"
+    },
+    {
+        "Id": 2,
+        "LangName": "role.role_chapter_10811",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "IconId": 2600541,
+        "Image": "chess.902",
+        "AtlasPath": "/Game/Spine/Hero/Girl008a_01_q/sp_girl008a_01_q.sp_girl008a_01_q-atlas",
+        "DataPath": "/Game/Spine/Hero/Girl008a_01_q/sp_girl008a_01_q.sp_girl008a_01_q-data",
+        "StandMotion": "sp_girl008a_01_q_stand",
+        "HelloMotion": "sp_girl008a_01_q_hello"
+    },
+    {
+        "Id": 3,
+        "LangName": "role.role_chapter_10511",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "IconId": 2600551,
+        "Image": "chess.903",
+        "AtlasPath": "/Game/Spine/Hero/Girl005a_01_q/sp_girl005a_01_q.sp_girl005a_01_q-atlas",
+        "DataPath": "/Game/Spine/Hero/Girl005a_01_q/sp_girl005a_01_q.sp_girl005a_01_q-data",
+        "StandMotion": "sp_girl005a_01_q_stand",
+        "HelloMotion": "sp_girl005a_01_q_hello"
+    }
+]

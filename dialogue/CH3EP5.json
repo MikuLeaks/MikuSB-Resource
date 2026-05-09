@@ -1,0 +1,932 @@
+[
+    {
+        "Key": 1,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "喂，你！等一下？",
+        "disable": 0
+    },
+    {
+        "Key": 2,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "听到妮塔的呼喊，那位拾荒者走得更快了。我们也不得不加快脚步，追了上去。",
+        "disable": 0
+    },
+    {
+        "Key": 3,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "喂！我刚才一直在叫你呢！",
+        "disable": 0
+    },
+    {
+        "Key": "auto_5",
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "芬妮",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "妮塔！稍微温柔点！让我来……",
+        "disable": 0
+    },
+    {
+        "Key": "auto_15546",
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "芬妮露出我再熟悉不过的营业性笑容。",
+        "disable": 0
+    },
+    {
+        "Key": 6,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "芬妮",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "放松点，放松点，我们不会伤害你。",
+        "disable": 0
+    },
+    {
+        "Key": 7,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "芬妮",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "只是有点事情想打听。",
+        "disable": 0
+    },
+    {
+        "Key": 8,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "拾荒少女",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你是……刚才发药给我们的人？",
+        "disable": 0
+    },
+    {
+        "Key": 9,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "芬妮",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "对呀对呀，你肯定还记得我对吧？",
+        "disable": 0
+    },
+    {
+        "Key": 10,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "拾荒少女",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": 11,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "拾荒少女",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "说吧，你们想问什么事？",
+        "disable": 0
+    },
+    {
+        "Key": "b-1",
+        "Flag": "b-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 12,
+        "Flag": "b-1-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我们听说“狼王”就在这附近活动。",
+        "disable": 0
+    },
+    {
+        "Key": 13,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "提到“狼王”，拾荒者的眼神明显躲闪了起来。",
+        "disable": 0
+    },
+    {
+        "Key": 14,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "拾荒少女",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我不知道，你们去问别人吧……",
+        "disable": 0
+    },
+    {
+        "Key": 15,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "芬妮",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": 16,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你认识“秃鹫”爱思特吧？她还跟着“狼王”吗？",
+        "disable": 0
+    },
+    {
+        "Key": 17,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "拾荒少女",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你知道“秃鹫”？",
+        "disable": 0
+    },
+    {
+        "Key": 18,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员，能让我单独跟她说几句话吗？",
+        "disable": 0
+    },
+    {
+        "Key": 19,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "怎么说呢？有些话，大伙听到不太好……",
+        "disable": 0
+    },
+    {
+        "Key": "b-2",
+        "Flag": "b-2",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 20,
+        "Flag": "b-2-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "嗯，去吧，妮塔。",
+        "disable": 0
+    },
+    {
+        "Key": 21,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "那个家伙，你过来一下。",
+        "disable": 0
+    },
+    {
+        "Key": 22,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "妮塔带着那名拾荒者，刻意和我们拉开了距离。不知道他们说了些什么，很快就变得熟络起来，甚至开始勾肩搭背。",
+        "disable": 0
+    },
+    {
+        "Key": 23,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "没过多久，我看见妮塔拍了拍拾荒者的肩膀，示意她离开，然后向我们走来。",
+        "disable": 0
+    },
+    {
+        "Key": 24,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "嘿，幸好咱对上暗号了。",
+        "disable": 0
+    },
+    {
+        "Key": 25,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "芬妮",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "什么暗号？不能让我们听到吗？",
+        "disable": 0
+    },
+    {
+        "Key": 26,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "要是说出来就不叫暗号了，嗨，咱不能不讲义气。",
+        "disable": 0
+    },
+    {
+        "Key": 27,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员，帮你问到想要的情报了，跟咱猜得差不多。",
+        "disable": 0
+    },
+    {
+        "Key": "b-3",
+        "Flag": "b-3",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 28,
+        "Flag": "b-3-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "“狼王”叶，真在附近活动吗？",
+        "disable": 0
+    },
+    {
+        "Key": 29,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "以前不在，是最近转移到棚户区的。",
+        "disable": 0
+    },
+    {
+        "Key": 30,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "理由嘛，反正也就是郊狼之间，抢地盘那些事儿。",
+        "disable": 0
+    },
+    {
+        "Key": "b-4",
+        "Flag": "b-4",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 31,
+        "Flag": "b-4-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "抢地盘？郊狼之间还会这样吗？",
+        "disable": 0
+    },
+    {
+        "Key": 32,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "啊？分析员，零区里边儿这么多郊狼，怎么可能铁板一块啊。",
+        "disable": 0
+    },
+    {
+        "Key": 33,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不过叶那家伙最近出息了，在郊狼里面儿，算他的地盘最大。",
+        "disable": 0
+    },
+    {
+        "Key": 34,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "而且，也只有叶那一伙儿的郊狼，会这么护着拾荒者和平民，也不怎么收保护费。",
+        "disable": 0
+    },
+    {
+        "Key": "b-5",
+        "Flag": "b-5",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 35,
+        "Flag": "b-5-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "问到“狼王”的地盘在哪了吗？",
+        "disable": 0
+    },
+    {
+        "Key": 36,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "当然，跟咱走吧。",
+        "disable": 0
+    },
+    {
+        "Key": "auto_17263",
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 37,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "叶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "逐光者……",
+        "disable": 0
+    },
+    {
+        "Key": 38,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "叶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "约瑟夫老师，武器准备好了吗？",
+        "disable": 0
+    },
+    {
+        "Key": 39,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我正在办这件事，世界树公司的武器安全系统……越来越难以破解了。",
+        "disable": 0
+    },
+    {
+        "Key": 40,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "叶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "约瑟夫老师，事情还要做得干净点……不过，他们早晚都会发现。",
+        "disable": 0
+    },
+    {
+        "Key": 41,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "叶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "最近海姆达尔部队一直在找我……这不，已经找上门了。",
+        "disable": 0
+    },
+    {
+        "Key": 42,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "嗯？竟然又折返回来了……",
+        "disable": 0
+    },
+    {
+        "Key": 43,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "叶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "听说他们刚才善待了我们的同胞，该跟他们谈谈吗？",
+        "disable": 0
+    },
+    {
+        "Key": 44,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "有可能是来索要那些武器的。",
+        "disable": 0
+    },
+    {
+        "Key": 45,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "叶，让我来跟他们交涉。",
+        "disable": 0
+    },
+    {
+        "Key": 46,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不管是不是来找我们麻烦的……",
+        "disable": 0
+    },
+    {
+        "Key": 47,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "如果你要完成那个目标，就一定不能向这些人示弱。",
+        "disable": 0
+    },
+    {
+        "Key": 48,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "芙提雅",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "妮塔妮塔！我们好像又绕回来了！",
+        "disable": 0
+    },
+    {
+        "Key": 49,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "嘿！这还真有点奇怪！",
+        "disable": 0
+    },
+    {
+        "Key": "b-6",
+        "Flag": "b-6",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 50,
+        "Flag": "b-6-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这个地方是……逐光者刚才“狩猎”的场所？",
+        "disable": 0
+    },
+    {
+        "Key": 51,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "海姆达尔部队，为什么闯入“狼王”的领地？",
+        "disable": 0
+    },
+    {
+        "Key": "b-7",
+        "Flag": "b-7",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 52,
+        "Flag": "b-7-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我们来调查“布里希嘉曼”失窃的事件。",
+        "disable": 0
+    },
+    {
+        "Key": 53,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "“布里希嘉曼”？老夫没有听说过这样的东西。",
+        "disable": 0
+    },
+    {
+        "Key": "b-8",
+        "Flag": "b-8",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 54,
+        "Flag": "b-8-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "在记录袭击发生的影像中，出现了郊狼装扮的人员。",
+        "disable": 0
+    },
+    {
+        "Key": 55,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我十分确信你所说的事件与我们无关。",
+        "disable": 0
+    },
+    {
+        "Key": 56,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我们无法为所有郊狼的行为负责。",
+        "disable": 0
+    },
+    {
+        "Key": 57,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你应该了解郊狼是什么性质的群体。",
+        "disable": 0
+    },
+    {
+        "Key": "b-9",
+        "Flag": "b-9",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 58,
+        "Flag": "b-9-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "但是只有你们拥有破解公司安全系统的手段。",
+        "disable": 0
+    },
+    {
+        "Key": 59,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": 60,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你要如何证明呢？",
+        "disable": 0
+    },
+    {
+        "Key": "auto_10643",
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 61,
+        "Flag": "",
+        "Pos": 1,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员，我觉得约瑟夫老爹说得有道理……",
+        "disable": 0
+    },
+    {
+        "Key": 62,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "芙提雅",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "可是……他手上提着的“野火”车载机枪，正好是安全部车队所装备的……",
+        "disable": 0
+    },
+    {
+        "Key": 63,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": 64,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这是另一件事。",
+        "disable": 0
+    },
+    {
+        "Key": "b-10",
+        "Flag": "b-10",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 65,
+        "Flag": "b-10-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你要如何证明呢？",
+        "disable": 0
+    },
+    {
+        "Key": "b-11",
+        "Flag": "b-11",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 66,
+        "Flag": "b-11-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "何况，既然我们发现了公司的失窃财物，就有调查的必要。",
+        "disable": 0
+    },
+    {
+        "Key": 67,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": 68,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你说的调查是指？",
+        "disable": 0
+    },
+    {
+        "Key": "b-12",
+        "Flag": "b-12",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 69,
+        "Flag": "b-12-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你和“狼王”，跟我回世界树公司的总部接受讯问。",
+        "disable": 0
+    },
+    {
+        "Key": 70,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "看来海姆达尔的“高官”们不准备轻易放过我们了。",
+        "disable": 0
+    },
+    {
+        "Key": 71,
+        "Flag": "",
+        "Pos": 1,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "约瑟夫老爹！有什么话不能好好说吗！",
+        "disable": 0
+    },
+    {
+        "Key": 72,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "已经没有必要再说下去了。",
+        "disable": 0
+    },
+    {
+        "Key": 73,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "郊狼兄弟们！拿起武器！",
+        "disable": 0
+    },
+    {
+        "Key": 74,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "首领，可以吗？",
+        "disable": 0
+    },
+    {
+        "Key": 75,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "叶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……嗯。",
+        "disable": 0
+    },
+    {
+        "Key": 76,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "叶",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "交涉就到这里吧。",
+        "disable": 0
+    },
+    {
+        "Key": 77,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "所有郊狼！交叉火力队列！",
+        "disable": 0
+    },
+    {
+        "Key": 78,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "让“高官”们明白，郊狼再也不是他们可以肆意揉捏的对象了。",
+        "disable": 0
+    },
+    {
+        "Key": 79,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "约瑟夫",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "开火！",
+        "disable": 0
+    }
+]

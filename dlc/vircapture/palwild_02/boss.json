@@ -1,0 +1,30 @@
+[
+    {
+        "Id": 1,
+        "IndexId": 1,
+        "AreaId": 3,
+        "RegionId": 45,
+        "Boss": [
+            18,
+            1,
+            41,
+            1
+        ],
+        "Weight": 100,
+        "Bgm": "BGM|Fight|Activity|DLC03,DLC|BOSS01,Stage|Stage02"
+    },
+    {
+        "Id": 1,
+        "IndexId": 2,
+        "AreaId": 3,
+        "RegionId": 45,
+        "Boss": [
+            18,
+            1,
+            35,
+            1
+        ],
+        "Weight": 100,
+        "Bgm": "BGM|Fight|Chapter|Chapter08,Level|Level12,Stage|Stage01"
+    }
+]

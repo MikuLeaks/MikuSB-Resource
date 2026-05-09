@@ -1,0 +1,30 @@
+[
+    {
+        "Id": 1,
+        "IndexId": 1,
+        "AreaId": 6,
+        "RegionId": 66,
+        "Boss": [
+            18,
+            1,
+            31,
+            1
+        ],
+        "Weight": 100,
+        "Bgm": "BGM|Fight|Chapter|Chapter09,Level|Level12,Stage|Stage01"
+    },
+    {
+        "Id": 1,
+        "IndexId": 2,
+        "AreaId": 6,
+        "RegionId": 66,
+        "Boss": [
+            18,
+            1,
+            32,
+            1
+        ],
+        "Weight": 100,
+        "Bgm": "BGM|Fight|Chapter|Chapter01,Level|Level12,Stage|Stage01"
+    }
+]

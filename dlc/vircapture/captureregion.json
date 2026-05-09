@@ -1,0 +1,91 @@
+[
+    {
+        "Id": 5810,
+        "StartTime": "[202401011000]",
+        "EndTime": "[203012121000]",
+        "Condition": "",
+        "MapId": 5810,
+        "Name": "ui.TxtVircaptureMain.level1",
+        "FightID": 1,
+        "LevelStrength": 19,
+        "LevelPower": 1,
+        "LevelRegionName": "palwild_01",
+        "TaskPath": "DLC9Task/Pal/Wilds/Wild_01_Task.Wild_01_Task",
+        "Buff": {
+            "1": 5000068
+        },
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "LightSwitchCondition": {
+            "20": 1
+        }
+    },
+    {
+        "Id": 325,
+        "StartTime": "[202401011000]",
+        "EndTime": "[203012121000]",
+        "Condition": [
+            [
+                20,
+                15
+            ],
+            [
+                23,
+                5810,
+                1102,
+                1104
+            ]
+        ],
+        "MapId": 325,
+        "Name": "ui.TxtVircaptureMain.level3",
+        "FightID": 1,
+        "LevelStrength": 19,
+        "LevelPower": 1,
+        "LevelRegionName": "palwild_02",
+        "TaskPath": "PalTask/Wilds02/OpenWorld/PalWild_02_Task.PalWild_02_Task",
+        "Buff": {
+            "1": 5000068
+        },
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "LightSwitchCondition": {
+            "20": 15
+        }
+    },
+    {
+        "Id": 326,
+        "StartTime": "[202401011000]",
+        "EndTime": "[203012121000]",
+        "Condition": {
+            "20": 5
+        },
+        "MapId": 326,
+        "Name": "ui.TxtVircapture.BuildEnter",
+        "FightID": 1,
+        "LevelStrength": 19,
+        "LevelPower": 1,
+        "LevelRegionName": "newstar_building01",
+        "TaskPath": "PalTask/building/PalBuildTask.PalBuildTask",
+        "Buff": {
+            "1": 5000068
+        },
+        "TrialCard": [
+            100001,
+            100002,
+            100009
+        ],
+        "LightSwitchCondition": "",
+        "Islandlevel": 5,
+        "RandomQuestMax": [
+            1,
+            2,
+            3000
+        ]
+    }
+]

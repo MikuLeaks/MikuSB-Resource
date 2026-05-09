@@ -1,0 +1,852 @@
+[
+    {
+        "Id": 101,
+        "Buff_object": 1,
+        "Buff_type": 3,
+        "Buff_condition": {
+            "5": 301
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "4": -500
+        },
+        "Buff_nub": "",
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_build02_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 102,
+        "Buff_object": 1,
+        "Buff_type": 3,
+        "Buff_condition": {
+            "5": 305
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 500
+        },
+        "Buff_nub": "",
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_build01_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 103,
+        "Buff_object": 1,
+        "Buff_type": 3,
+        "Buff_condition": {
+            "5": 306
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 500
+        },
+        "Buff_nub": "",
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_build01_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 104,
+        "Buff_object": 1,
+        "Buff_type": 3,
+        "Buff_condition": {
+            "5": 303
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "4": -500
+        },
+        "Buff_nub": "",
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_build02_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 105,
+        "Buff_object": 1,
+        "Buff_type": 3,
+        "Buff_condition": {
+            "5": 308
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 500
+        },
+        "Buff_nub": "",
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_build01_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 106,
+        "Buff_object": 1,
+        "Buff_type": 3,
+        "Buff_condition": {
+            "5": 302
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "4": -500
+        },
+        "Buff_nub": "",
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_build02_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 107,
+        "Buff_object": 1,
+        "Buff_type": 3,
+        "Buff_condition": {
+            "5": 304
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "4": -500
+        },
+        "Buff_nub": "",
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_build02_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 108,
+        "Buff_object": 1,
+        "Buff_type": 3,
+        "Buff_condition": {
+            "5": 309
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 500
+        },
+        "Buff_nub": "",
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_build01_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 109,
+        "Buff_object": 1,
+        "Buff_type": 3,
+        "Buff_condition": {
+            "5": 310
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 500
+        },
+        "Buff_nub": "",
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_build01_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 110,
+        "Buff_object": 1,
+        "Buff_type": 3,
+        "Buff_condition": {
+            "5": 307
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 500
+        },
+        "Buff_nub": "",
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_build01_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 201,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": -1
+        },
+        "Buff_effect": 1,
+        "Buff_value": {
+            "1": 10
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff03_name",
+        "Des": "buff_online.buff_buildstaff03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 202,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": -1
+        },
+        "Buff_effect": 1,
+        "Buff_value": {
+            "1": 10
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff03_name",
+        "Des": "buff_online.buff_buildstaff03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 203,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": -1
+        },
+        "Buff_effect": 1,
+        "Buff_value": {
+            "1": 10
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff03_name",
+        "Des": "buff_online.buff_buildstaff03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 204,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": -1
+        },
+        "Buff_effect": 1,
+        "Buff_value": {
+            "1": 10
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff03_name",
+        "Des": "buff_online.buff_buildstaff03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 205,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": -1
+        },
+        "Buff_effect": 1,
+        "Buff_value": {
+            "2": 10
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff03_name",
+        "Des": "buff_online.buff_buildstaff03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 206,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": -1
+        },
+        "Buff_effect": 1,
+        "Buff_value": {
+            "2": 10
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff03_name",
+        "Des": "buff_online.buff_buildstaff03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 207,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": -1
+        },
+        "Buff_effect": 1,
+        "Buff_value": {
+            "2": 10
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff03_name",
+        "Des": "buff_online.buff_buildstaff03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 208,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": -1
+        },
+        "Buff_effect": 1,
+        "Buff_value": {
+            "3": 10
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff03_name",
+        "Des": "buff_online.buff_buildstaff03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 209,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": -1
+        },
+        "Buff_effect": 1,
+        "Buff_value": {
+            "3": 10
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff03_name",
+        "Des": "buff_online.buff_buildstaff03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 210,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": -1
+        },
+        "Buff_effect": 1,
+        "Buff_value": {
+            "3": 10
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff03_name",
+        "Des": "buff_online.buff_buildstaff03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 231,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": 1
+        },
+        "Buff_effect": 1,
+        "Buff_value": {
+            "3": 20
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff05_name",
+        "Des": "buff_online.buff_buildstaff05_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 232,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": 1
+        },
+        "Buff_effect": 1,
+        "Buff_value": {
+            "2": 20
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff05_name",
+        "Des": "buff_online.buff_buildstaff05_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 233,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": 1
+        },
+        "Buff_effect": 1,
+        "Buff_value": {
+            "1": 20
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff05_name",
+        "Des": "buff_online.buff_buildstaff05_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 234,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": 1
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "4": -1000
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff02_name",
+        "Des": "buff_online.buff_buildstaff02_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 235,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": 2
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 1000
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff01_name",
+        "Des": "buff_online.buff_buildstaff01_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 236,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": 2
+        },
+        "Buff_effect": 1,
+        "Buff_value": {
+            "2": 20
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff05_name",
+        "Des": "buff_online.buff_buildstaff05_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 237,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": 2
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 1000
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff01_name",
+        "Des": "buff_online.buff_buildstaff01_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 238,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": 3
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 1000
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff01_name",
+        "Des": "buff_online.buff_buildstaff01_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 239,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": 3
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 1000
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff01_name",
+        "Des": "buff_online.buff_buildstaff01_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 240,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": 3
+        },
+        "Buff_effect": 1,
+        "Buff_value": {
+            "2": 20
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff05_name",
+        "Des": "buff_online.buff_buildstaff05_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 241,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": -1
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 1500
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff04_name",
+        "Des": "buff_online.buff_buildstaff04_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 242,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": -1
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 1500
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff04_name",
+        "Des": "buff_online.buff_buildstaff04_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 243,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": -1
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 1500
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff04_name",
+        "Des": "buff_online.buff_buildstaff04_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 244,
+        "Buff_object": 1,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": -1
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 1500
+        },
+        "Buff_nub": "",
+        "Name": "buff_online.buff_buildstaff04_name",
+        "Des": "buff_online.buff_buildstaff04_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 301,
+        "Buff_object": 3,
+        "Buff_type": 2,
+        "Buff_condition": "",
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 500
+        },
+        "Buff_nub": 2,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 302,
+        "Buff_object": 3,
+        "Buff_type": 2,
+        "Buff_condition": "",
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 500
+        },
+        "Buff_nub": 2,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 303,
+        "Buff_object": 3,
+        "Buff_type": 2,
+        "Buff_condition": "",
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 1000
+        },
+        "Buff_nub": 2,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 304,
+        "Buff_object": 3,
+        "Buff_type": 2,
+        "Buff_condition": "",
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 1000
+        },
+        "Buff_nub": 2,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 305,
+        "Buff_object": 3,
+        "Buff_type": 2,
+        "Buff_condition": "",
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 1500
+        },
+        "Buff_nub": 2,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 306,
+        "Buff_object": 3,
+        "Buff_type": 2,
+        "Buff_condition": "",
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 1500
+        },
+        "Buff_nub": 2,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 307,
+        "Buff_object": 3,
+        "Buff_type": 2,
+        "Buff_condition": "",
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 2000
+        },
+        "Buff_nub": 2,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 308,
+        "Buff_object": 3,
+        "Buff_type": 2,
+        "Buff_condition": "",
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 2000
+        },
+        "Buff_nub": 2,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 309,
+        "Buff_object": 3,
+        "Buff_type": 2,
+        "Buff_condition": "",
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 2500
+        },
+        "Buff_nub": 2,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 320,
+        "Buff_object": 3,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": 2
+        },
+        "Buff_effect": 1,
+        "Buff_value": {
+            "2": 10
+        },
+        "Buff_nub": -1.0,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage05_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 321,
+        "Buff_object": 3,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": 1
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "4": -1000
+        },
+        "Buff_nub": -1.0,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage02_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 322,
+        "Buff_object": 3,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": 1
+        },
+        "Buff_effect": 1,
+        "Buff_value": {
+            "3": 10
+        },
+        "Buff_nub": -1.0,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage05_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 323,
+        "Buff_object": 3,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": 3
+        },
+        "Buff_effect": 1,
+        "Buff_value": {
+            "1": 10
+        },
+        "Buff_nub": -1.0,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage05_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 324,
+        "Buff_object": 3,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": 2
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 1500
+        },
+        "Buff_nub": -1.0,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage01_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 325,
+        "Buff_object": 3,
+        "Buff_type": 4,
+        "Buff_condition": {
+            "6": 3
+        },
+        "Buff_effect": 2,
+        "Buff_value": {
+            "4": -1500
+        },
+        "Buff_nub": -1.0,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage02_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 340,
+        "Buff_object": 3,
+        "Buff_type": 2,
+        "Buff_condition": "",
+        "Buff_effect": 2,
+        "Buff_value": {
+            "4": -1000
+        },
+        "Buff_nub": 4,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage04_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 341,
+        "Buff_object": 3,
+        "Buff_type": 2,
+        "Buff_condition": "",
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 1000
+        },
+        "Buff_nub": 4,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 342,
+        "Buff_object": 3,
+        "Buff_type": 2,
+        "Buff_condition": "",
+        "Buff_effect": 2,
+        "Buff_value": {
+            "4": -2000
+        },
+        "Buff_nub": 4,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage04_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 343,
+        "Buff_object": 3,
+        "Buff_type": 2,
+        "Buff_condition": "",
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 2000
+        },
+        "Buff_nub": 4,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage03_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 344,
+        "Buff_object": 3,
+        "Buff_type": 2,
+        "Buff_condition": "",
+        "Buff_effect": 2,
+        "Buff_value": {
+            "4": -3000
+        },
+        "Buff_nub": 4,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage04_des",
+        "Icon": 1520314
+    },
+    {
+        "Id": 345,
+        "Buff_object": 3,
+        "Buff_type": 2,
+        "Buff_condition": "",
+        "Buff_effect": 2,
+        "Buff_value": {
+            "5": 3000
+        },
+        "Buff_nub": 4,
+        "Name": "ui.TxtBuildBuffGet",
+        "Des": "buff_online.buff_buildmanage03_des",
+        "Icon": 1520314
+    }
+]

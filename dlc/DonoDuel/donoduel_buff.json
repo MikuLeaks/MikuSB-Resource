@@ -1,0 +1,828 @@
+[
+    {
+        "BuffID": 1001,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830010,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_herocard_buff"
+    },
+    {
+        "BuffID": 2002,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830011,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond1_des02"
+    },
+    {
+        "BuffID": 2003,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830012,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond1_des03"
+    },
+    {
+        "BuffID": 2012,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830011,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond1_des02"
+    },
+    {
+        "BuffID": 2013,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830012,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond1_des03"
+    },
+    {
+        "BuffID": 2022,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830013,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond2_des02"
+    },
+    {
+        "BuffID": 2023,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830014,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond2_des03"
+    },
+    {
+        "BuffID": 2032,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830015,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond3_des02"
+    },
+    {
+        "BuffID": 2033,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830016,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond3_des03"
+    },
+    {
+        "BuffID": 2042,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830017,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond4_des02"
+    },
+    {
+        "BuffID": 2043,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830018,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond4_des03"
+    },
+    {
+        "BuffID": 2052,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830019,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond5_des02"
+    },
+    {
+        "BuffID": 2053,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830020,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond5_des03"
+    },
+    {
+        "BuffID": 2062,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830021,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond6_des02"
+    },
+    {
+        "BuffID": 2072,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830022,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond7_des02"
+    },
+    {
+        "BuffID": 2073,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830023,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond7_des03"
+    },
+    {
+        "BuffID": 2074,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830024,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond7_des04"
+    },
+    {
+        "BuffID": 2082,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830025,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond8_des02"
+    },
+    {
+        "BuffID": 2083,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830026,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond8_des03"
+    },
+    {
+        "BuffID": 2084,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830027,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond8_des04"
+    },
+    {
+        "BuffID": 2092,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830028,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond9_des02"
+    },
+    {
+        "BuffID": 2093,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830029,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond9_des03"
+    },
+    {
+        "BuffID": 2094,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830030,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond9_des04"
+    },
+    {
+        "BuffID": 2095,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830031,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond9_des05"
+    },
+    {
+        "BuffID": 2102,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830032,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond10_des02"
+    },
+    {
+        "BuffID": 2103,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830033,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond10_des03"
+    },
+    {
+        "BuffID": 2104,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830034,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond10_des04"
+    },
+    {
+        "BuffID": 2111,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830035,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_bond11_des01"
+    },
+    {
+        "BuffID": 3001,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830007,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": 1,
+        "BuffDesc": "donoduel.buff_skill_tree01"
+    },
+    {
+        "BuffID": 3002,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830008,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": 1,
+        "BuffDesc": "donoduel.buff_skill_tree02"
+    },
+    {
+        "BuffID": 3003,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830009,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": 1,
+        "BuffDesc": "donoduel.buff_skill_tree03"
+    },
+    {
+        "BuffID": 3004,
+        "BuffType": 3,
+        "ModifierId": "",
+        "SkillInfoId": "",
+        "Effect": 3,
+        "EffectValue": [
+            6
+        ],
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_skill_tree04"
+    },
+    {
+        "BuffID": 3005,
+        "BuffType": 3,
+        "ModifierId": "",
+        "SkillInfoId": "",
+        "Effect": 4,
+        "EffectValue": [
+            1
+        ],
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_skill_tree05"
+    },
+    {
+        "BuffID": 3006,
+        "BuffType": 3,
+        "ModifierId": "",
+        "SkillInfoId": "",
+        "Effect": 1,
+        "EffectValue": [
+            1000
+        ],
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_skill_tree06"
+    },
+    {
+        "BuffID": 3007,
+        "BuffType": 3,
+        "ModifierId": "",
+        "SkillInfoId": "",
+        "Effect": 2,
+        "EffectValue": [
+            15
+        ],
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_skill_tree07"
+    },
+    {
+        "BuffID": 3008,
+        "BuffType": 3,
+        "ModifierId": "",
+        "SkillInfoId": "",
+        "Effect": 3,
+        "EffectValue": [
+            7
+        ],
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_skill_tree08"
+    },
+    {
+        "BuffID": 3009,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830036,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": 1,
+        "BuffDesc": "donoduel.buff_skill_tree09"
+    },
+    {
+        "BuffID": 3010,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830039,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": 1,
+        "BuffDesc": "donoduel.buff_skill_tree10"
+    },
+    {
+        "BuffID": 3011,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830042,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": 1,
+        "BuffDesc": "donoduel.buff_skill_tree11"
+    },
+    {
+        "BuffID": 3012,
+        "BuffType": 3,
+        "ModifierId": "",
+        "SkillInfoId": "",
+        "Effect": 3,
+        "EffectValue": [
+            8
+        ],
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_skill_tree12"
+    },
+    {
+        "BuffID": 3013,
+        "BuffType": 3,
+        "ModifierId": "",
+        "SkillInfoId": "",
+        "Effect": 1,
+        "EffectValue": [
+            1000
+        ],
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_skill_tree13"
+    },
+    {
+        "BuffID": 3014,
+        "BuffType": 3,
+        "ModifierId": "",
+        "SkillInfoId": "",
+        "Effect": 2,
+        "EffectValue": [
+            15
+        ],
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_skill_tree14"
+    },
+    {
+        "BuffID": 3015,
+        "BuffType": 3,
+        "ModifierId": "",
+        "SkillInfoId": "",
+        "Effect": 3,
+        "EffectValue": [
+            9
+        ],
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_skill_tree15"
+    },
+    {
+        "BuffID": 3016,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830037,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": 1,
+        "BuffDesc": "donoduel.buff_skill_tree16"
+    },
+    {
+        "BuffID": 3017,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830040,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": 1,
+        "BuffDesc": "donoduel.buff_skill_tree17"
+    },
+    {
+        "BuffID": 3018,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830043,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": 1,
+        "BuffDesc": "donoduel.buff_skill_tree18"
+    },
+    {
+        "BuffID": 3019,
+        "BuffType": 3,
+        "ModifierId": "",
+        "SkillInfoId": "",
+        "Effect": 3,
+        "EffectValue": [
+            10
+        ],
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_skill_tree19"
+    },
+    {
+        "BuffID": 3020,
+        "BuffType": 3,
+        "ModifierId": "",
+        "SkillInfoId": "",
+        "Effect": 4,
+        "EffectValue": [
+            1
+        ],
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_skill_tree20"
+    },
+    {
+        "BuffID": 3021,
+        "BuffType": 3,
+        "ModifierId": "",
+        "SkillInfoId": "",
+        "Effect": 1,
+        "EffectValue": [
+            1000
+        ],
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_skill_tree21"
+    },
+    {
+        "BuffID": 3022,
+        "BuffType": 3,
+        "ModifierId": "",
+        "SkillInfoId": "",
+        "Effect": 2,
+        "EffectValue": [
+            15
+        ],
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_skill_tree22"
+    },
+    {
+        "BuffID": 3023,
+        "BuffType": 3,
+        "ModifierId": "",
+        "SkillInfoId": "",
+        "Effect": 3,
+        "EffectValue": [
+            11
+        ],
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_skill_tree23"
+    },
+    {
+        "BuffID": 3024,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830038,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": 1,
+        "BuffDesc": "donoduel.buff_skill_tree24"
+    },
+    {
+        "BuffID": 3025,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830041,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": 1,
+        "BuffDesc": "donoduel.buff_skill_tree25"
+    },
+    {
+        "BuffID": 3026,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830044,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": 1,
+        "BuffDesc": "donoduel.buff_skill_tree26"
+    },
+    {
+        "BuffID": 4001,
+        "BuffType": 3,
+        "ModifierId": "",
+        "SkillInfoId": "",
+        "Effect": 5,
+        "EffectValue": [
+            2000
+        ],
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_room_convalesce01"
+    },
+    {
+        "BuffID": 4002,
+        "BuffType": 3,
+        "ModifierId": "",
+        "SkillInfoId": "",
+        "Effect": 6,
+        "EffectValue": [
+            1
+        ],
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_room_convalesce02"
+    },
+    {
+        "BuffID": 4003,
+        "BuffType": 3,
+        "ModifierId": "",
+        "SkillInfoId": "",
+        "Effect": 7,
+        "EffectValue": [
+            2000
+        ],
+        "ToPlayer": 1,
+        "BuffDesc": "donoduel.buff_room_convalesce03"
+    },
+    {
+        "BuffID": 4004,
+        "BuffType": 3,
+        "ModifierId": "",
+        "SkillInfoId": "",
+        "Effect": 8,
+        "EffectValue": [
+            1
+        ],
+        "ToPlayer": 1,
+        "BuffDesc": "donoduel.buff_room_convalesce04"
+    },
+    {
+        "BuffID": 4101,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830001,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_room_adventure01"
+    },
+    {
+        "BuffID": 4102,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830002,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_room_adventure02"
+    },
+    {
+        "BuffID": 4103,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830003,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_room_adventure03"
+    },
+    {
+        "BuffID": 4104,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830004,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": 1,
+        "BuffDesc": "donoduel.buff_room_adventure04"
+    },
+    {
+        "BuffID": 4105,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830005,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": 1,
+        "BuffDesc": "donoduel.buff_room_adventure05"
+    },
+    {
+        "BuffID": 4106,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830006,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": 1,
+        "BuffDesc": "donoduel.buff_room_adventure06"
+    },
+    {
+        "BuffID": 5001,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830045,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_arena_level01"
+    },
+    {
+        "BuffID": 5002,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830046,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_arena_level02"
+    },
+    {
+        "BuffID": 5003,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830047,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_arena_level03"
+    },
+    {
+        "BuffID": 5004,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830048,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_arena_level04"
+    },
+    {
+        "BuffID": 5005,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830049,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_arena_level05"
+    },
+    {
+        "BuffID": 5006,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830050,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_arena_level06"
+    },
+    {
+        "BuffID": 5007,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830051,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_arena_level07"
+    },
+    {
+        "BuffID": 5008,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830052,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_arena_level08"
+    },
+    {
+        "BuffID": 5009,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830053,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_arena_level09"
+    },
+    {
+        "BuffID": 5010,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830054,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_arena_level10"
+    },
+    {
+        "BuffID": 5011,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830055,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_arena_level11"
+    },
+    {
+        "BuffID": 5012,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830056,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_arena_level12"
+    },
+    {
+        "BuffID": 5013,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830057,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_arena_level13"
+    },
+    {
+        "BuffID": 5014,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830058,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_arena_level14"
+    },
+    {
+        "BuffID": 5015,
+        "BuffType": 2,
+        "ModifierId": "",
+        "SkillInfoId": 3830059,
+        "Effect": "",
+        "EffectValue": "",
+        "ToPlayer": "",
+        "BuffDesc": "donoduel.buff_arena_level15"
+    }
+]

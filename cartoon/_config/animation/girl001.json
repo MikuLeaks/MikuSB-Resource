@@ -1,0 +1,37 @@
+[
+    {
+        "Id": 1,
+        "Explain": "ui待机",
+        "Type": "sequence",
+        "Name": "girl001_ui_stand01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl001/Anim/girl001_ui_stand01.girl001_ui_stand01'"
+    },
+    {
+        "Id": 2,
+        "Explain": "战斗基础待机",
+        "Type": "sequence",
+        "Name": "girl001_wp04a_base_stand",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl001/Anim/wp04a/girl001_wp04a_base_stand.girl001_wp04a_base_stand'"
+    },
+    {
+        "Id": 3,
+        "Explain": "呼吸动作",
+        "Type": "sequence",
+        "Name": "girl001_wp04a_base_idle01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl001/Anim/wp04a/girl001_wp04a_base_idle01.girl001_wp04a_base_idle01'"
+    },
+    {
+        "Id": 4,
+        "Explain": "站立1",
+        "Type": "sequence",
+        "Name": "girl001_wp04a_show_stand01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl001/Anim/wp04a/girl001_wp04a_show_stand01.girl001_wp04a_show_stand01'"
+    },
+    {
+        "Id": 5,
+        "Explain": "站立2",
+        "Type": "sequence",
+        "Name": "girl001_wp04a_show_stand02",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl001/Anim/wp04a/girl001_wp04a_show_stand02.girl001_wp04a_show_stand02'"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "Id": 1,
+        "Explain": "正常",
+        "Type": "sequence",
+        "Name": "girl001_01_house_dialogue_stand01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl001_01/AnimPart00/girl001_01_house_dialogue_stand01.girl001_01_house_dialogue_stand01'"
+    },
+    {
+        "Id": 2,
+        "Explain": "严肃",
+        "Type": "sequence",
+        "Name": "girl001_01_house_dialogue_serious01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl001_01/AnimPart00/girl001_01_house_dialogue_serious01.girl001_01_house_dialogue_serious01'"
+    },
+    {
+        "Id": 3,
+        "Explain": "疑问",
+        "Type": "sequence",
+        "Name": "girl001_01_house_dialogue_doubt01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl001_01/AnimPart00/girl001_01_house_dialogue_doubt01.girl001_01_house_dialogue_doubt01'"
+    },
+    {
+        "Id": 4,
+        "Explain": "开心",
+        "Type": "sequence",
+        "Name": "girl001_01_house_dialogue_happy01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl001_01/AnimPart00/girl001_01_house_dialogue_happy01.girl001_01_house_dialogue_happy01'"
+    },
+    {
+        "Id": 5,
+        "Explain": "微笑",
+        "Type": "sequence",
+        "Name": "girl001_01_house_dialogue_smile01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl001_01/AnimPart00/girl001_01_house_dialogue_smile01.girl001_01_house_dialogue_smile01'"
+    },
+    {
+        "Id": 6,
+        "Explain": "委屈",
+        "Type": "sequence",
+        "Name": "girl001_01_house_dialogue_complain01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl001_01/AnimPart00/girl001_01_house_dialogue_complain01.girl001_01_house_dialogue_complain01'"
+    },
+    {
+        "Id": 7,
+        "Explain": "生气",
+        "Type": "sequence",
+        "Name": "girl001_01_house_dialogue_angry01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl001_01/AnimPart00/girl001_01_house_dialogue_angry01.girl001_01_house_dialogue_angry01'"
+    },
+    {
+        "Id": 8,
+        "Explain": "闭眼",
+        "Type": "sequence",
+        "Name": "girl001_01_house_dialogue_rest_idle01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl001_01/AnimPart00/girl001_01_house_dialogue_rest_idle01.girl001_01_house_dialogue_rest_idle01'"
+    },
+    {
+        "Id": 9,
+        "Explain": "惊讶（动作套）",
+        "Type": "sequence",
+        "Name": "girl001_01_house_dialogue_amaze",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl001_01/AnimPart00/girl001_01_house_dialogue_amaze.girl001_01_house_dialogue_amaze'"
+    },
+    {
+        "Id": 100,
+        "Explain": "说话",
+        "Type": "sequence",
+        "Name": "girl001_01_house_dialogue_talk01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl001_01/AnimPart00/girl001_01_house_dialogue_talk01.girl001_01_house_dialogue_talk01'"
+    }
+]

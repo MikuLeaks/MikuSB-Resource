@@ -1,0 +1,2365 @@
+[
+    {
+        "ID": 101,
+        "Type": 1,
+        "Modifire": [
+            8340006,
+            1
+        ],
+        "Icon": [
+            1001013
+        ],
+        "Name": "repression.buffname1",
+        "Desc": "repression.buff1",
+        "BuffParamPerCount": [
+            30
+        ],
+        "SimpleDesc": "repression.buff1"
+    },
+    {
+        "ID": 102,
+        "Type": 3,
+        "Modifire": [
+            8340003,
+            1
+        ],
+        "Icon": [
+            1001015
+        ],
+        "Name": "repression.buffname2",
+        "Desc": "repression.buff2",
+        "BuffParamPerCount": [
+            10,
+            16
+        ],
+        "SimpleDesc": "repression.buff2"
+    },
+    {
+        "ID": 103,
+        "Type": 1,
+        "Modifire": [
+            8340008,
+            1
+        ],
+        "Icon": [
+            1001017
+        ],
+        "Name": "repression.buffname5",
+        "Desc": "repression.buff5",
+        "BuffParamPerCount": [
+            12
+        ],
+        "SimpleDesc": "repression.buff5"
+    },
+    {
+        "ID": 104,
+        "Type": 2,
+        "Modifire": [
+            8340005,
+            1
+        ],
+        "Icon": [
+            1001019
+        ],
+        "Name": "repression.buffname6",
+        "Desc": "repression.buff6",
+        "BuffParamPerCount": [
+            2,
+            2
+        ],
+        "SimpleDesc": "repression.buff6"
+    },
+    {
+        "ID": 105,
+        "Type": 1,
+        "Modifire": [
+            8340010,
+            1
+        ],
+        "Icon": [
+            1001021
+        ],
+        "Name": "repression.buffname9",
+        "Desc": "repression.buff9",
+        "BuffParamPerCount": [
+            30
+        ],
+        "SimpleDesc": "repression.buff9"
+    },
+    {
+        "ID": 106,
+        "Type": 1,
+        "Modifire": [
+            8340013,
+            1
+        ],
+        "Icon": [
+            1001023
+        ],
+        "Name": "repression.buffname10",
+        "Desc": "repression.buff10",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.buff10"
+    },
+    {
+        "ID": 201,
+        "Type": 1,
+        "Modifire": [
+            8340006,
+            2
+        ],
+        "Icon": [
+            1001013
+        ],
+        "Name": "repression.buffname1",
+        "Desc": "repression.buff1",
+        "BuffParamPerCount": [
+            45
+        ],
+        "SimpleDesc": "repression.buff1"
+    },
+    {
+        "ID": 202,
+        "Type": 3,
+        "Modifire": [
+            8340003,
+            2
+        ],
+        "Icon": [
+            1001015
+        ],
+        "Name": "repression.buffname2",
+        "Desc": "repression.buff2",
+        "BuffParamPerCount": [
+            10,
+            24
+        ],
+        "SimpleDesc": "repression.buff2"
+    },
+    {
+        "ID": 203,
+        "Type": 1,
+        "Modifire": [
+            8340007,
+            1
+        ],
+        "Icon": [
+            1001014
+        ],
+        "Name": "repression.buffname3",
+        "Desc": "repression.buff3",
+        "BuffParamPerCount": [
+            60
+        ],
+        "SimpleDesc": "repression.buff3"
+    },
+    {
+        "ID": 204,
+        "Type": 1,
+        "Modifire": [
+            8340008,
+            2
+        ],
+        "Icon": [
+            1001017
+        ],
+        "Name": "repression.buffname5",
+        "Desc": "repression.buff5",
+        "BuffParamPerCount": [
+            18
+        ],
+        "SimpleDesc": "repression.buff5"
+    },
+    {
+        "ID": 205,
+        "Type": 2,
+        "Modifire": [
+            8340005,
+            2
+        ],
+        "Icon": [
+            1001019
+        ],
+        "Name": "repression.buffname6",
+        "Desc": "repression.buff6",
+        "BuffParamPerCount": [
+            2,
+            1.5
+        ],
+        "SimpleDesc": "repression.buff6"
+    },
+    {
+        "ID": 206,
+        "Type": 1,
+        "Modifire": [
+            8340009,
+            1
+        ],
+        "Icon": [
+            1001018
+        ],
+        "Name": "repression.buffname7",
+        "Desc": "repression.buff7",
+        "BuffParamPerCount": [
+            37.5
+        ],
+        "SimpleDesc": "repression.buff7"
+    },
+    {
+        "ID": 207,
+        "Type": 1,
+        "Modifire": [
+            8340010,
+            2
+        ],
+        "Icon": [
+            1001021
+        ],
+        "Name": "repression.buffname9",
+        "Desc": "repression.buff9",
+        "BuffParamPerCount": [
+            40
+        ],
+        "SimpleDesc": "repression.buff9"
+    },
+    {
+        "ID": 208,
+        "Type": 1,
+        "Modifire": [
+            8340013,
+            2
+        ],
+        "Icon": [
+            1001023
+        ],
+        "Name": "repression.buffname10",
+        "Desc": "repression.buff10",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.buff10"
+    },
+    {
+        "ID": 209,
+        "Type": 1,
+        "Modifire": [
+            8340011,
+            1
+        ],
+        "Icon": [
+            1001022
+        ],
+        "Name": "repression.buffname11",
+        "Desc": "repression.buff11",
+        "BuffParamPerCount": [
+            37.5
+        ],
+        "SimpleDesc": "repression.buff11"
+    },
+    {
+        "ID": 301,
+        "Type": 1,
+        "Modifire": [
+            8340006,
+            3
+        ],
+        "Icon": [
+            1001013
+        ],
+        "Name": "repression.buffname1",
+        "Desc": "repression.buff1",
+        "BuffParamPerCount": [
+            60
+        ],
+        "SimpleDesc": "repression.buff1"
+    },
+    {
+        "ID": 302,
+        "Type": 3,
+        "Modifire": [
+            8340003,
+            3
+        ],
+        "Icon": [
+            1001015
+        ],
+        "Name": "repression.buffname2",
+        "Desc": "repression.buff2",
+        "BuffParamPerCount": [
+            10,
+            32
+        ],
+        "SimpleDesc": "repression.buff2"
+    },
+    {
+        "ID": 303,
+        "Type": 1,
+        "Modifire": [
+            8340007,
+            2
+        ],
+        "Icon": [
+            1001014
+        ],
+        "Name": "repression.buffname3",
+        "Desc": "repression.buff3",
+        "BuffParamPerCount": [
+            80
+        ],
+        "SimpleDesc": "repression.buff3"
+    },
+    {
+        "ID": 304,
+        "Type": 2,
+        "Modifire": [
+            8340004
+        ],
+        "Icon": [
+            1001016
+        ],
+        "Name": "repression.buffname4",
+        "Desc": "repression.buff4",
+        "BuffParamPerCount": [
+            3,
+            10
+        ],
+        "SimpleDesc": "repression.buff4"
+    },
+    {
+        "ID": 305,
+        "Type": 1,
+        "Modifire": [
+            8340008,
+            3
+        ],
+        "Icon": [
+            1001017
+        ],
+        "Name": "repression.buffname5",
+        "Desc": "repression.buff5",
+        "BuffParamPerCount": [
+            24
+        ],
+        "SimpleDesc": "repression.buff5"
+    },
+    {
+        "ID": 306,
+        "Type": 2,
+        "Modifire": [
+            8340005,
+            3
+        ],
+        "Icon": [
+            1001019
+        ],
+        "Name": "repression.buffname6",
+        "Desc": "repression.buff6",
+        "BuffParamPerCount": [
+            2,
+            1
+        ],
+        "SimpleDesc": "repression.buff6"
+    },
+    {
+        "ID": 307,
+        "Type": 1,
+        "Modifire": [
+            8340009,
+            2
+        ],
+        "Icon": [
+            1001018
+        ],
+        "Name": "repression.buffname7",
+        "Desc": "repression.buff7",
+        "BuffParamPerCount": [
+            50
+        ],
+        "SimpleDesc": "repression.buff7"
+    },
+    {
+        "ID": 308,
+        "Type": 2,
+        "Modifire": [
+            8340012
+        ],
+        "Icon": [
+            1001020
+        ],
+        "Name": "repression.buffname8",
+        "Desc": "repression.buff8",
+        "BuffParamPerCount": [
+            5,
+            100
+        ],
+        "SimpleDesc": "repression.buff8"
+    },
+    {
+        "ID": 309,
+        "Type": 1,
+        "Modifire": [
+            8340010,
+            3
+        ],
+        "Icon": [
+            1001021
+        ],
+        "Name": "repression.buffname9",
+        "Desc": "repression.buff9",
+        "BuffParamPerCount": [
+            50
+        ],
+        "SimpleDesc": "repression.buff9"
+    },
+    {
+        "ID": 310,
+        "Type": 1,
+        "Modifire": [
+            8340013,
+            3
+        ],
+        "Icon": [
+            1001023
+        ],
+        "Name": "repression.buffname10",
+        "Desc": "repression.buff10",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.buff10"
+    },
+    {
+        "ID": 311,
+        "Type": 1,
+        "Modifire": [
+            8340011,
+            2
+        ],
+        "Icon": [
+            1001022
+        ],
+        "Name": "repression.buffname11",
+        "Desc": "repression.buff11",
+        "BuffParamPerCount": [
+            50
+        ],
+        "SimpleDesc": "repression.buff11"
+    },
+    {
+        "ID": 312,
+        "Type": 1,
+        "Modifire": [
+            8340014
+        ],
+        "Icon": [
+            1001024
+        ],
+        "Name": "repression.buffname12",
+        "Desc": "repression.buff12",
+        "BuffParamPerCount": [
+            70
+        ],
+        "SimpleDesc": "repression.buff12"
+    },
+    {
+        "ID": 111,
+        "Type": 3,
+        "Modifire": [
+            8340001,
+            1
+        ],
+        "Icon": [
+            1001025
+        ],
+        "Name": "repression.levelbuffname1",
+        "Desc": "repression.levelbuff1",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff1"
+    },
+    {
+        "ID": 112,
+        "Type": 1,
+        "Modifire": [
+            8340000,
+            1
+        ],
+        "Icon": [
+            1001026
+        ],
+        "Name": "repression.levelbuffname2",
+        "Desc": "repression.levelbuff2",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff2"
+    },
+    {
+        "ID": 113,
+        "Type": 0,
+        "Modifire": [
+            8340002
+        ],
+        "Icon": [
+            1001027
+        ],
+        "Name": "repression.levelbuffname3",
+        "Desc": "repression.levelbuff3",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff3"
+    },
+    {
+        "ID": 221,
+        "Type": 3,
+        "Modifire": [
+            8340001,
+            2
+        ],
+        "Icon": [
+            1001025
+        ],
+        "Name": "repression.levelbuffname1",
+        "Desc": "repression.levelbuff1",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff1"
+    },
+    {
+        "ID": 222,
+        "Type": 1,
+        "Modifire": [
+            8340000,
+            2
+        ],
+        "Icon": [
+            1001026
+        ],
+        "Name": "repression.levelbuffname2",
+        "Desc": "repression.levelbuff2",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff2"
+    },
+    {
+        "ID": 223,
+        "Type": 0,
+        "Modifire": [
+            8340002
+        ],
+        "Icon": [
+            1001027
+        ],
+        "Name": "repression.levelbuffname3",
+        "Desc": "repression.levelbuff3",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff3"
+    },
+    {
+        "ID": 331,
+        "Type": 3,
+        "Modifire": [
+            8340001,
+            3
+        ],
+        "Icon": [
+            1001025
+        ],
+        "Name": "repression.levelbuffname1",
+        "Desc": "repression.levelbuff1",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff1"
+    },
+    {
+        "ID": 332,
+        "Type": 1,
+        "Modifire": [
+            8340000,
+            3
+        ],
+        "Icon": [
+            1001026
+        ],
+        "Name": "repression.levelbuffname2",
+        "Desc": "repression.levelbuff2",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff2"
+    },
+    {
+        "ID": 333,
+        "Type": 0,
+        "Modifire": [
+            8340002
+        ],
+        "Icon": [
+            1001027
+        ],
+        "Name": "repression.levelbuffname3",
+        "Desc": "repression.levelbuff3",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff3"
+    },
+    {
+        "ID": 2101,
+        "Type": 1,
+        "Modifire": [
+            8340008,
+            1
+        ],
+        "Icon": [
+            1001017
+        ],
+        "Name": "repression.buffname5",
+        "Desc": "repression.buff5",
+        "BuffParamPerCount": [
+            12
+        ],
+        "SimpleDesc": "repression.buff5"
+    },
+    {
+        "ID": 2102,
+        "Type": 1,
+        "Modifire": [
+            8710001,
+            1
+        ],
+        "Icon": [
+            1001028
+        ],
+        "Name": "repression.buffname201",
+        "Desc": "repression.buff201",
+        "BuffParamPerCount": [
+            40
+        ],
+        "SimpleDesc": "repression.buff201"
+    },
+    {
+        "ID": 2103,
+        "Type": 1,
+        "Modifire": [
+            8710004,
+            1
+        ],
+        "Icon": [
+            1001032
+        ],
+        "Name": "repression.buffname204",
+        "Desc": "repression.buff204",
+        "BuffParamPerCount": [
+            40
+        ],
+        "SimpleDesc": "repression.buff204"
+    },
+    {
+        "ID": 2104,
+        "Type": 1,
+        "Modifire": [
+            8340013,
+            1
+        ],
+        "Icon": [
+            1001023
+        ],
+        "Name": "repression.buffname205",
+        "Desc": "repression.buff205",
+        "BuffParamPerCount": [
+            25
+        ],
+        "SimpleDesc": "repression.buff205"
+    },
+    {
+        "ID": 2105,
+        "Type": 1,
+        "Modifire": [
+            8340009,
+            1
+        ],
+        "Icon": [
+            1001018
+        ],
+        "Name": "repression.buffname7",
+        "Desc": "repression.buff7",
+        "BuffParamPerCount": [
+            25
+        ],
+        "SimpleDesc": "repression.buff7"
+    },
+    {
+        "ID": 2106,
+        "Type": 2,
+        "Modifire": [
+            8710007,
+            1
+        ],
+        "Icon": [
+            1001035
+        ],
+        "Name": "repression.buffname207",
+        "Desc": "repression.buff207",
+        "BuffParamPerCount": [
+            1,
+            3
+        ],
+        "SimpleDesc": "repression.buff207"
+    },
+    {
+        "ID": 2201,
+        "Type": 1,
+        "Modifire": [
+            8340008,
+            2
+        ],
+        "Icon": [
+            1001017
+        ],
+        "Name": "repression.buffname5",
+        "Desc": "repression.buff5",
+        "BuffParamPerCount": [
+            18
+        ],
+        "SimpleDesc": "repression.buff5"
+    },
+    {
+        "ID": 2202,
+        "Type": 1,
+        "Modifire": [
+            8710001,
+            2
+        ],
+        "Icon": [
+            1001028
+        ],
+        "Name": "repression.buffname201",
+        "Desc": "repression.buff201",
+        "BuffParamPerCount": [
+            70
+        ],
+        "SimpleDesc": "repression.buff201"
+    },
+    {
+        "ID": 2203,
+        "Type": 1,
+        "Modifire": [
+            8710002,
+            1
+        ],
+        "Icon": [
+            1001029
+        ],
+        "Name": "repression.buffname202",
+        "Desc": "repression.buff202",
+        "BuffParamPerCount": [
+            17.5
+        ],
+        "SimpleDesc": "repression.buff202"
+    },
+    {
+        "ID": 2204,
+        "Type": 1,
+        "Modifire": [
+            8710004,
+            2
+        ],
+        "Icon": [
+            1001032
+        ],
+        "Name": "repression.buffname204",
+        "Desc": "repression.buff204",
+        "BuffParamPerCount": [
+            70
+        ],
+        "SimpleDesc": "repression.buff204"
+    },
+    {
+        "ID": 2205,
+        "Type": 1,
+        "Modifire": [
+            8340013,
+            2
+        ],
+        "Icon": [
+            1001023
+        ],
+        "Name": "repression.buffname205",
+        "Desc": "repression.buff205",
+        "BuffParamPerCount": [
+            37.5
+        ],
+        "SimpleDesc": "repression.buff205"
+    },
+    {
+        "ID": 2206,
+        "Type": 1,
+        "Modifire": [
+            8340010,
+            2
+        ],
+        "Icon": [
+            1001021
+        ],
+        "Name": "repression.buffname9",
+        "Desc": "repression.buff9",
+        "BuffParamPerCount": [
+            40
+        ],
+        "SimpleDesc": "repression.buff9"
+    },
+    {
+        "ID": 2207,
+        "Type": 1,
+        "Modifire": [
+            8340009,
+            2
+        ],
+        "Icon": [
+            1001018
+        ],
+        "Name": "repression.buffname7",
+        "Desc": "repression.buff7",
+        "BuffParamPerCount": [
+            37.5
+        ],
+        "SimpleDesc": "repression.buff7"
+    },
+    {
+        "ID": 2208,
+        "Type": 2,
+        "Modifire": [
+            8710007,
+            2
+        ],
+        "Icon": [
+            1001035
+        ],
+        "Name": "repression.buffname207",
+        "Desc": "repression.buff207",
+        "BuffParamPerCount": [
+            1.5,
+            3
+        ],
+        "SimpleDesc": "repression.buff207"
+    },
+    {
+        "ID": 2209,
+        "Type": 1,
+        "Modifire": [
+            8710008,
+            1
+        ],
+        "Icon": [
+            1001036
+        ],
+        "Name": "repression.buffname208",
+        "Desc": "repression.buff208",
+        "BuffParamPerCount": [
+            17.5
+        ],
+        "SimpleDesc": "repression.buff208"
+    },
+    {
+        "ID": 2301,
+        "Type": 1,
+        "Modifire": [
+            8340008,
+            3
+        ],
+        "Icon": [
+            1001017
+        ],
+        "Name": "repression.buffname5",
+        "Desc": "repression.buff5",
+        "BuffParamPerCount": [
+            24
+        ],
+        "SimpleDesc": "repression.buff5"
+    },
+    {
+        "ID": 2302,
+        "Type": 1,
+        "Modifire": [
+            8710001,
+            3
+        ],
+        "Icon": [
+            1001028
+        ],
+        "Name": "repression.buffname201",
+        "Desc": "repression.buff201",
+        "BuffParamPerCount": [
+            100
+        ],
+        "SimpleDesc": "repression.buff201"
+    },
+    {
+        "ID": 2303,
+        "Type": 1,
+        "Modifire": [
+            8710002,
+            2
+        ],
+        "Icon": [
+            1001029
+        ],
+        "Name": "repression.buffname202",
+        "Desc": "repression.buff202",
+        "BuffParamPerCount": [
+            25
+        ],
+        "SimpleDesc": "repression.buff202"
+    },
+    {
+        "ID": 2304,
+        "Type": 2,
+        "Modifire": [
+            8710003,
+            1
+        ],
+        "Icon": [
+            1001030
+        ],
+        "Name": "repression.buffname203",
+        "Desc": "repression.buff203",
+        "BuffParamPerCount": [
+            5,
+            50
+        ],
+        "SimpleDesc": "repression.buff203"
+    },
+    {
+        "ID": 2305,
+        "Type": 1,
+        "Modifire": [
+            8710004,
+            3
+        ],
+        "Icon": [
+            1001032
+        ],
+        "Name": "repression.buffname204",
+        "Desc": "repression.buff204",
+        "BuffParamPerCount": [
+            100
+        ],
+        "SimpleDesc": "repression.buff204"
+    },
+    {
+        "ID": 2306,
+        "Type": 1,
+        "Modifire": [
+            8340013,
+            3
+        ],
+        "Icon": [
+            1001023
+        ],
+        "Name": "repression.buffname205",
+        "Desc": "repression.buff205",
+        "BuffParamPerCount": [
+            50
+        ],
+        "SimpleDesc": "repression.buff205"
+    },
+    {
+        "ID": 2307,
+        "Type": 1,
+        "Modifire": [
+            8340010,
+            3
+        ],
+        "Icon": [
+            1001021
+        ],
+        "Name": "repression.buffname9",
+        "Desc": "repression.buff9",
+        "BuffParamPerCount": [
+            50
+        ],
+        "SimpleDesc": "repression.buff9"
+    },
+    {
+        "ID": 2308,
+        "Type": 2,
+        "Modifire": [
+            8710005,
+            1
+        ],
+        "Icon": [
+            1001033
+        ],
+        "Name": "repression.buffname206",
+        "Desc": "repression.buff206",
+        "BuffParamPerCount": [
+            5,
+            15
+        ],
+        "SimpleDesc": "repression.buff206"
+    },
+    {
+        "ID": 2309,
+        "Type": 1,
+        "Modifire": [
+            8340009,
+            3
+        ],
+        "Icon": [
+            1001018
+        ],
+        "Name": "repression.buffname7",
+        "Desc": "repression.buff7",
+        "BuffParamPerCount": [
+            50
+        ],
+        "SimpleDesc": "repression.buff7"
+    },
+    {
+        "ID": 2310,
+        "Type": 2,
+        "Modifire": [
+            8710007,
+            3
+        ],
+        "Icon": [
+            1001035
+        ],
+        "Name": "repression.buffname207",
+        "Desc": "repression.buff207",
+        "BuffParamPerCount": [
+            2,
+            3
+        ],
+        "SimpleDesc": "repression.buff207"
+    },
+    {
+        "ID": 2311,
+        "Type": 1,
+        "Modifire": [
+            8710008,
+            2
+        ],
+        "Icon": [
+            1001036
+        ],
+        "Name": "repression.buffname208",
+        "Desc": "repression.buff208",
+        "BuffParamPerCount": [
+            25
+        ],
+        "SimpleDesc": "repression.buff208"
+    },
+    {
+        "ID": 2312,
+        "Type": 2,
+        "Modifire": [
+            8710009,
+            1
+        ],
+        "Icon": [
+            1001037
+        ],
+        "Name": "repression.buffname209",
+        "Desc": "repression.buff209",
+        "BuffParamPerCount": [
+            60,
+            5
+        ],
+        "SimpleDesc": "repression.buff209"
+    },
+    {
+        "ID": 2111,
+        "Type": 1,
+        "Modifire": [
+            8710010
+        ],
+        "Icon": [
+            1001031
+        ],
+        "Name": "repression.levelbuffname201",
+        "Desc": "repression.levelbuff201",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff201"
+    },
+    {
+        "ID": 2112,
+        "Type": 2,
+        "Modifire": [
+            8710006
+        ],
+        "Icon": [
+            1001034
+        ],
+        "Name": "repression.levelbuffname202",
+        "Desc": "repression.levelbuff202",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff202"
+    },
+    {
+        "ID": 2113,
+        "Type": 1,
+        "Modifire": [
+            8710011
+        ],
+        "Icon": [
+            1001038
+        ],
+        "Name": "repression.levelbuffname203",
+        "Desc": "repression.levelbuff203",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff203"
+    },
+    {
+        "ID": 2221,
+        "Type": 1,
+        "Modifire": [
+            8710010
+        ],
+        "Icon": [
+            1001031
+        ],
+        "Name": "repression.levelbuffname201",
+        "Desc": "repression.levelbuff201",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff201"
+    },
+    {
+        "ID": 2222,
+        "Type": 2,
+        "Modifire": [
+            8710006
+        ],
+        "Icon": [
+            1001034
+        ],
+        "Name": "repression.levelbuffname202",
+        "Desc": "repression.levelbuff202",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff202"
+    },
+    {
+        "ID": 2223,
+        "Type": 1,
+        "Modifire": [
+            8710011
+        ],
+        "Icon": [
+            1001038
+        ],
+        "Name": "repression.levelbuffname203",
+        "Desc": "repression.levelbuff203",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff203"
+    },
+    {
+        "ID": 2331,
+        "Type": 1,
+        "Modifire": [
+            8710010
+        ],
+        "Icon": [
+            1001031
+        ],
+        "Name": "repression.levelbuffname201",
+        "Desc": "repression.levelbuff201",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff201"
+    },
+    {
+        "ID": 2332,
+        "Type": 2,
+        "Modifire": [
+            8710006
+        ],
+        "Icon": [
+            1001034
+        ],
+        "Name": "repression.levelbuffname202",
+        "Desc": "repression.levelbuff202",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff202"
+    },
+    {
+        "ID": 2333,
+        "Type": 1,
+        "Modifire": [
+            8710011
+        ],
+        "Icon": [
+            1001038
+        ],
+        "Name": "repression.levelbuffname203",
+        "Desc": "repression.levelbuff203",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff203"
+    },
+    {
+        "ID": 3101,
+        "Type": 1,
+        "Modifire": [
+            8340006,
+            1
+        ],
+        "Icon": [
+            1001013
+        ],
+        "Name": "repression.buffname1",
+        "Desc": "repression.buff1",
+        "BuffParamPerCount": [
+            30
+        ],
+        "SimpleDesc": "repression.buff1"
+    },
+    {
+        "ID": 3102,
+        "Type": 3,
+        "Modifire": [
+            8340003,
+            1
+        ],
+        "Icon": [
+            1001015
+        ],
+        "Name": "repression.buffname2",
+        "Desc": "repression.buff2",
+        "BuffParamPerCount": [
+            10,
+            16
+        ],
+        "SimpleDesc": "repression.buff2"
+    },
+    {
+        "ID": 3103,
+        "Type": 1,
+        "Modifire": [
+            8710013,
+            1
+        ],
+        "Icon": [
+            1001131
+        ],
+        "Name": "repression.buffname301",
+        "Desc": "repression.buff301",
+        "BuffParamPerCount": [
+            25
+        ],
+        "SimpleDesc": "repression.buff301"
+    },
+    {
+        "ID": 3104,
+        "Type": 1,
+        "Modifire": [
+            8340013,
+            1
+        ],
+        "Icon": [
+            1001023
+        ],
+        "Name": "repression.buffname205",
+        "Desc": "repression.buff205",
+        "BuffParamPerCount": [
+            25
+        ],
+        "SimpleDesc": "repression.buff205"
+    },
+    {
+        "ID": 3105,
+        "Type": 1,
+        "Modifire": [
+            8710015,
+            1
+        ],
+        "Icon": [
+            1001132
+        ],
+        "Name": "repression.buffname302",
+        "Desc": "repression.buff302",
+        "BuffParamPerCount": [
+            20
+        ],
+        "SimpleDesc": "repression.buff302"
+    },
+    {
+        "ID": 3106,
+        "Type": 1,
+        "Modifire": [
+            8710016,
+            1
+        ],
+        "Icon": [
+            1001133
+        ],
+        "Name": "repression.buffname303",
+        "Desc": "repression.buff303",
+        "BuffParamPerCount": [
+            20
+        ],
+        "SimpleDesc": "repression.buff303"
+    },
+    {
+        "ID": 3201,
+        "Type": 1,
+        "Modifire": [
+            8340006,
+            2
+        ],
+        "Icon": [
+            1001013
+        ],
+        "Name": "repression.buffname1",
+        "Desc": "repression.buff1",
+        "BuffParamPerCount": [
+            45
+        ],
+        "SimpleDesc": "repression.buff1"
+    },
+    {
+        "ID": 3202,
+        "Type": 3,
+        "Modifire": [
+            8340003,
+            2
+        ],
+        "Icon": [
+            1001015
+        ],
+        "Name": "repression.buffname2",
+        "Desc": "repression.buff2",
+        "BuffParamPerCount": [
+            10,
+            24
+        ],
+        "SimpleDesc": "repression.buff2"
+    },
+    {
+        "ID": 3203,
+        "Type": 2,
+        "Modifire": [
+            8710009,
+            2
+        ],
+        "Icon": [
+            1001037
+        ],
+        "Name": "repression.buffname209",
+        "Desc": "repression.buff209",
+        "BuffParamPerCount": [
+            45,
+            5
+        ],
+        "SimpleDesc": "repression.buff209"
+    },
+    {
+        "ID": 3204,
+        "Type": 1,
+        "Modifire": [
+            8710013,
+            2
+        ],
+        "Icon": [
+            1001131
+        ],
+        "Name": "repression.buffname301",
+        "Desc": "repression.buff301",
+        "BuffParamPerCount": [
+            37.5
+        ],
+        "SimpleDesc": "repression.buff301"
+    },
+    {
+        "ID": 3205,
+        "Type": 1,
+        "Modifire": [
+            8340013,
+            2
+        ],
+        "Icon": [
+            1001023
+        ],
+        "Name": "repression.buffname205",
+        "Desc": "repression.buff205",
+        "BuffParamPerCount": [
+            37.5
+        ],
+        "SimpleDesc": "repression.buff205"
+    },
+    {
+        "ID": 3206,
+        "Type": 1,
+        "Modifire": [
+            8710001,
+            2
+        ],
+        "Icon": [
+            1001028
+        ],
+        "Name": "repression.buffname201",
+        "Desc": "repression.buff201",
+        "BuffParamPerCount": [
+            70
+        ],
+        "SimpleDesc": "repression.buff201"
+    },
+    {
+        "ID": 3207,
+        "Type": 1,
+        "Modifire": [
+            8710015,
+            2
+        ],
+        "Icon": [
+            1001132
+        ],
+        "Name": "repression.buffname302",
+        "Desc": "repression.buff302",
+        "BuffParamPerCount": [
+            30
+        ],
+        "SimpleDesc": "repression.buff302"
+    },
+    {
+        "ID": 3208,
+        "Type": 1,
+        "Modifire": [
+            8710016,
+            2
+        ],
+        "Icon": [
+            1001133
+        ],
+        "Name": "repression.buffname303",
+        "Desc": "repression.buff303",
+        "BuffParamPerCount": [
+            28
+        ],
+        "SimpleDesc": "repression.buff303"
+    },
+    {
+        "ID": 3209,
+        "Type": 1,
+        "Modifire": [
+            8340010,
+            2
+        ],
+        "Icon": [
+            1001021
+        ],
+        "Name": "repression.buffname9",
+        "Desc": "repression.buff9",
+        "BuffParamPerCount": [
+            40
+        ],
+        "SimpleDesc": "repression.buff9"
+    },
+    {
+        "ID": 3301,
+        "Type": 1,
+        "Modifire": [
+            8340006,
+            3
+        ],
+        "Icon": [
+            1001013
+        ],
+        "Name": "repression.buffname1",
+        "Desc": "repression.buff1",
+        "BuffParamPerCount": [
+            60
+        ],
+        "SimpleDesc": "repression.buff1"
+    },
+    {
+        "ID": 3302,
+        "Type": 3,
+        "Modifire": [
+            8340003,
+            3
+        ],
+        "Icon": [
+            1001015
+        ],
+        "Name": "repression.buffname2",
+        "Desc": "repression.buff2",
+        "BuffParamPerCount": [
+            10,
+            32
+        ],
+        "SimpleDesc": "repression.buff2"
+    },
+    {
+        "ID": 3303,
+        "Type": 2,
+        "Modifire": [
+            8710009,
+            3
+        ],
+        "Icon": [
+            1001037
+        ],
+        "Name": "repression.buffname209",
+        "Desc": "repression.buff209",
+        "BuffParamPerCount": [
+            60,
+            5
+        ],
+        "SimpleDesc": "repression.buff209"
+    },
+    {
+        "ID": 3304,
+        "Type": 2,
+        "Modifire": [
+            8710005,
+            1
+        ],
+        "Icon": [
+            1001033
+        ],
+        "Name": "repression.buffname206",
+        "Desc": "repression.buff206",
+        "BuffParamPerCount": [
+            5,
+            15
+        ],
+        "SimpleDesc": "repression.buff206"
+    },
+    {
+        "ID": 3305,
+        "Type": 1,
+        "Modifire": [
+            8710013,
+            3
+        ],
+        "Icon": [
+            1001131
+        ],
+        "Name": "repression.buffname301",
+        "Desc": "repression.buff301",
+        "BuffParamPerCount": [
+            50
+        ],
+        "SimpleDesc": "repression.buff301"
+    },
+    {
+        "ID": 3306,
+        "Type": 1,
+        "Modifire": [
+            8340013,
+            3
+        ],
+        "Icon": [
+            1001023
+        ],
+        "Name": "repression.buffname205",
+        "Desc": "repression.buff205",
+        "BuffParamPerCount": [
+            50
+        ],
+        "SimpleDesc": "repression.buff205"
+    },
+    {
+        "ID": 3307,
+        "Type": 1,
+        "Modifire": [
+            8710001,
+            3
+        ],
+        "Icon": [
+            1001028
+        ],
+        "Name": "repression.buffname201",
+        "Desc": "repression.buff201",
+        "BuffParamPerCount": [
+            100
+        ],
+        "SimpleDesc": "repression.buff201"
+    },
+    {
+        "ID": 3308,
+        "Type": 2,
+        "Modifire": [
+            8340005,
+            3
+        ],
+        "Icon": [
+            1001019
+        ],
+        "Name": "repression.buffname6",
+        "Desc": "repression.buff6",
+        "BuffParamPerCount": [
+            2,
+            1
+        ],
+        "SimpleDesc": "repression.buff6"
+    },
+    {
+        "ID": 3309,
+        "Type": 1,
+        "Modifire": [
+            8710015,
+            3
+        ],
+        "Icon": [
+            1001132
+        ],
+        "Name": "repression.buffname302",
+        "Desc": "repression.buff302",
+        "BuffParamPerCount": [
+            40
+        ],
+        "SimpleDesc": "repression.buff302"
+    },
+    {
+        "ID": 3310,
+        "Type": 1,
+        "Modifire": [
+            8710016,
+            3
+        ],
+        "Icon": [
+            1001133
+        ],
+        "Name": "repression.buffname303",
+        "Desc": "repression.buff303",
+        "BuffParamPerCount": [
+            35
+        ],
+        "SimpleDesc": "repression.buff303"
+    },
+    {
+        "ID": 3311,
+        "Type": 1,
+        "Modifire": [
+            8340010,
+            3
+        ],
+        "Icon": [
+            1001021
+        ],
+        "Name": "repression.buffname9",
+        "Desc": "repression.buff9",
+        "BuffParamPerCount": [
+            50
+        ],
+        "SimpleDesc": "repression.buff9"
+    },
+    {
+        "ID": 3312,
+        "Type": 1,
+        "Modifire": [
+            8340007,
+            3
+        ],
+        "Icon": [
+            1001014
+        ],
+        "Name": "repression.buffname3",
+        "Desc": "repression.buff3",
+        "BuffParamPerCount": [
+            100
+        ],
+        "SimpleDesc": "repression.buff3"
+    },
+    {
+        "ID": 3111,
+        "Type": 2,
+        "Modifire": [
+            8710006
+        ],
+        "Icon": [
+            1001034
+        ],
+        "Name": "repression.levelbuffname202",
+        "Desc": "repression.levelbuff202",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff202"
+    },
+    {
+        "ID": 3112,
+        "Type": 1,
+        "Modifire": [
+            8710014
+        ],
+        "Icon": [
+            1001134
+        ],
+        "Name": "repression.levelbuffname301",
+        "Desc": "repression.levelbuff301",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff301"
+    },
+    {
+        "ID": 3113,
+        "Type": 0,
+        "Modifire": [
+            8710011
+        ],
+        "Icon": [
+            1001038
+        ],
+        "Name": "repression.levelbuffname203",
+        "Desc": "repression.levelbuff203",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff203"
+    },
+    {
+        "ID": 3221,
+        "Type": 2,
+        "Modifire": [
+            8710006
+        ],
+        "Icon": [
+            1001034
+        ],
+        "Name": "repression.levelbuffname202",
+        "Desc": "repression.levelbuff202",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff202"
+    },
+    {
+        "ID": 3222,
+        "Type": 1,
+        "Modifire": [
+            8710014
+        ],
+        "Icon": [
+            1001134
+        ],
+        "Name": "repression.levelbuffname301",
+        "Desc": "repression.levelbuff301",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff301"
+    },
+    {
+        "ID": 3223,
+        "Type": 1,
+        "Modifire": [
+            8710011
+        ],
+        "Icon": [
+            1001038
+        ],
+        "Name": "repression.levelbuffname203",
+        "Desc": "repression.levelbuff203",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff203"
+    },
+    {
+        "ID": 3331,
+        "Type": 2,
+        "Modifire": [
+            8710006
+        ],
+        "Icon": [
+            1001034
+        ],
+        "Name": "repression.levelbuffname202",
+        "Desc": "repression.levelbuff202",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff202"
+    },
+    {
+        "ID": 3332,
+        "Type": 1,
+        "Modifire": [
+            8710014
+        ],
+        "Icon": [
+            1001134
+        ],
+        "Name": "repression.levelbuffname301",
+        "Desc": "repression.levelbuff301",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff301"
+    },
+    {
+        "ID": 3333,
+        "Type": 1,
+        "Modifire": [
+            8710011
+        ],
+        "Icon": [
+            1001038
+        ],
+        "Name": "repression.levelbuffname203",
+        "Desc": "repression.levelbuff203",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff203"
+    },
+    {
+        "ID": 4101,
+        "Type": 1,
+        "Modifire": [
+            8710013,
+            1
+        ],
+        "Icon": [
+            1001131
+        ],
+        "Name": "repression.buffname301",
+        "Desc": "repression.buff301",
+        "BuffParamPerCount": [
+            25
+        ],
+        "SimpleDesc": "repression.buff301"
+    },
+    {
+        "ID": 4102,
+        "Type": 1,
+        "Modifire": [
+            8710001,
+            1
+        ],
+        "Icon": [
+            1001028
+        ],
+        "Name": "repression.buffname201",
+        "Desc": "repression.buff201",
+        "BuffParamPerCount": [
+            40
+        ],
+        "SimpleDesc": "repression.buff201"
+    },
+    {
+        "ID": 4103,
+        "Type": 1,
+        "Modifire": [
+            8340007,
+            1
+        ],
+        "Icon": [
+            1001014
+        ],
+        "Name": "repression.buffname3",
+        "Desc": "repression.buff3",
+        "BuffParamPerCount": [
+            50
+        ],
+        "SimpleDesc": "repression.buff3"
+    },
+    {
+        "ID": 4104,
+        "Type": 1,
+        "Modifire": [
+            8340013,
+            1
+        ],
+        "Icon": [
+            1001023
+        ],
+        "Name": "repression.buffname205",
+        "Desc": "repression.buff205",
+        "BuffParamPerCount": [
+            25
+        ],
+        "SimpleDesc": "repression.buff205"
+    },
+    {
+        "ID": 4105,
+        "Type": 1,
+        "Modifire": [
+            8340011,
+            1
+        ],
+        "Icon": [
+            1001022
+        ],
+        "Name": "repression.buffname11",
+        "Desc": "repression.buff11",
+        "BuffParamPerCount": [
+            25
+        ],
+        "SimpleDesc": "repression.buff11"
+    },
+    {
+        "ID": 4106,
+        "Type": 2,
+        "Modifire": [
+            8340005,
+            1
+        ],
+        "Icon": [
+            1001019
+        ],
+        "Name": "repression.buffname6",
+        "Desc": "repression.buff6",
+        "BuffParamPerCount": [
+            2,
+            2
+        ],
+        "SimpleDesc": "repression.buff6"
+    },
+    {
+        "ID": 4201,
+        "Type": 1,
+        "Modifire": [
+            8710013,
+            2
+        ],
+        "Icon": [
+            1001131
+        ],
+        "Name": "repression.buffname301",
+        "Desc": "repression.buff301",
+        "BuffParamPerCount": [
+            37.5
+        ],
+        "SimpleDesc": "repression.buff301"
+    },
+    {
+        "ID": 4202,
+        "Type": 1,
+        "Modifire": [
+            8710001,
+            2
+        ],
+        "Icon": [
+            1001028
+        ],
+        "Name": "repression.buffname201",
+        "Desc": "repression.buff201",
+        "BuffParamPerCount": [
+            70
+        ],
+        "SimpleDesc": "repression.buff201"
+    },
+    {
+        "ID": 4203,
+        "Type": 1,
+        "Modifire": [
+            8710002,
+            2
+        ],
+        "Icon": [
+            1001029
+        ],
+        "Name": "repression.buffname202",
+        "Desc": "repression.buff202",
+        "BuffParamPerCount": [
+            17.5
+        ],
+        "SimpleDesc": "repression.buff202"
+    },
+    {
+        "ID": 4204,
+        "Type": 1,
+        "Modifire": [
+            8340007,
+            2
+        ],
+        "Icon": [
+            1001014
+        ],
+        "Name": "repression.buffname3",
+        "Desc": "repression.buff3",
+        "BuffParamPerCount": [
+            75
+        ],
+        "SimpleDesc": "repression.buff3"
+    },
+    {
+        "ID": 4205,
+        "Type": 1,
+        "Modifire": [
+            8340013,
+            2
+        ],
+        "Icon": [
+            1001023
+        ],
+        "Name": "repression.buffname205",
+        "Desc": "repression.buff205",
+        "BuffParamPerCount": [
+            37.5
+        ],
+        "SimpleDesc": "repression.buff205"
+    },
+    {
+        "ID": 4206,
+        "Type": 1,
+        "Modifire": [
+            8340010,
+            2
+        ],
+        "Icon": [
+            1001021
+        ],
+        "Name": "repression.buffname9",
+        "Desc": "repression.buff9",
+        "BuffParamPerCount": [
+            40
+        ],
+        "SimpleDesc": "repression.buff9"
+    },
+    {
+        "ID": 4207,
+        "Type": 1,
+        "Modifire": [
+            8340011,
+            2
+        ],
+        "Icon": [
+            1001022
+        ],
+        "Name": "repression.buffname11",
+        "Desc": "repression.buff11",
+        "BuffParamPerCount": [
+            37.5
+        ],
+        "SimpleDesc": "repression.buff11"
+    },
+    {
+        "ID": 4208,
+        "Type": 2,
+        "Modifire": [
+            8340005,
+            2
+        ],
+        "Icon": [
+            1001019
+        ],
+        "Name": "repression.buffname6",
+        "Desc": "repression.buff6",
+        "BuffParamPerCount": [
+            2,
+            1.5
+        ],
+        "SimpleDesc": "repression.buff6"
+    },
+    {
+        "ID": 4209,
+        "Type": 1,
+        "Modifire": [
+            8340006,
+            2
+        ],
+        "Icon": [
+            1001013
+        ],
+        "Name": "repression.buffname1",
+        "Desc": "repression.buff1",
+        "BuffParamPerCount": [
+            45
+        ],
+        "SimpleDesc": "repression.buff1"
+    },
+    {
+        "ID": 4301,
+        "Type": 1,
+        "Modifire": [
+            8710013,
+            3
+        ],
+        "Icon": [
+            1001131
+        ],
+        "Name": "repression.buffname301",
+        "Desc": "repression.buff301",
+        "BuffParamPerCount": [
+            50
+        ],
+        "SimpleDesc": "repression.buff301"
+    },
+    {
+        "ID": 4302,
+        "Type": 1,
+        "Modifire": [
+            8710001,
+            3
+        ],
+        "Icon": [
+            1001028
+        ],
+        "Name": "repression.buffname201",
+        "Desc": "repression.buff201",
+        "BuffParamPerCount": [
+            100
+        ],
+        "SimpleDesc": "repression.buff201"
+    },
+    {
+        "ID": 4303,
+        "Type": 1,
+        "Modifire": [
+            8710002,
+            3
+        ],
+        "Icon": [
+            1001029
+        ],
+        "Name": "repression.buffname202",
+        "Desc": "repression.buff202",
+        "BuffParamPerCount": [
+            25
+        ],
+        "SimpleDesc": "repression.buff202"
+    },
+    {
+        "ID": 4304,
+        "Type": 2,
+        "Modifire": [
+            8710003,
+            1
+        ],
+        "Icon": [
+            1001030
+        ],
+        "Name": "repression.buffname203",
+        "Desc": "repression.buff203",
+        "BuffParamPerCount": [
+            5,
+            50
+        ],
+        "SimpleDesc": "repression.buff203"
+    },
+    {
+        "ID": 4305,
+        "Type": 1,
+        "Modifire": [
+            8340007,
+            3
+        ],
+        "Icon": [
+            1001014
+        ],
+        "Name": "repression.buffname3",
+        "Desc": "repression.buff3",
+        "BuffParamPerCount": [
+            100
+        ],
+        "SimpleDesc": "repression.buff3"
+    },
+    {
+        "ID": 4306,
+        "Type": 1,
+        "Modifire": [
+            8340013,
+            3
+        ],
+        "Icon": [
+            1001023
+        ],
+        "Name": "repression.buffname205",
+        "Desc": "repression.buff205",
+        "BuffParamPerCount": [
+            50
+        ],
+        "SimpleDesc": "repression.buff205"
+    },
+    {
+        "ID": 4307,
+        "Type": 1,
+        "Modifire": [
+            8340010,
+            3
+        ],
+        "Icon": [
+            1001021
+        ],
+        "Name": "repression.buffname9",
+        "Desc": "repression.buff9",
+        "BuffParamPerCount": [
+            50
+        ],
+        "SimpleDesc": "repression.buff9"
+    },
+    {
+        "ID": 4308,
+        "Type": 2,
+        "Modifire": [
+            8340004
+        ],
+        "Icon": [
+            1001016
+        ],
+        "Name": "repression.buffname4",
+        "Desc": "repression.buff4",
+        "BuffParamPerCount": [
+            3,
+            10
+        ],
+        "SimpleDesc": "repression.buff4"
+    },
+    {
+        "ID": 4309,
+        "Type": 1,
+        "Modifire": [
+            8340011,
+            3
+        ],
+        "Icon": [
+            1001022
+        ],
+        "Name": "repression.buffname11",
+        "Desc": "repression.buff11",
+        "BuffParamPerCount": [
+            50
+        ],
+        "SimpleDesc": "repression.buff11"
+    },
+    {
+        "ID": 4310,
+        "Type": 2,
+        "Modifire": [
+            8340005,
+            3
+        ],
+        "Icon": [
+            1001019
+        ],
+        "Name": "repression.buffname6",
+        "Desc": "repression.buff6",
+        "BuffParamPerCount": [
+            2,
+            1
+        ],
+        "SimpleDesc": "repression.buff6"
+    },
+    {
+        "ID": 4311,
+        "Type": 1,
+        "Modifire": [
+            8340006,
+            3
+        ],
+        "Icon": [
+            1001013
+        ],
+        "Name": "repression.buffname1",
+        "Desc": "repression.buff1",
+        "BuffParamPerCount": [
+            60
+        ],
+        "SimpleDesc": "repression.buff1"
+    },
+    {
+        "ID": 4312,
+        "Type": 2,
+        "Modifire": [
+            8710007,
+            3
+        ],
+        "Icon": [
+            1001035
+        ],
+        "Name": "repression.buffname207",
+        "Desc": "repression.buff207",
+        "BuffParamPerCount": [
+            2,
+            3
+        ],
+        "SimpleDesc": "repression.buff207"
+    },
+    {
+        "ID": 4111,
+        "Type": 1,
+        "Modifire": [
+            8710010
+        ],
+        "Icon": [
+            1001031
+        ],
+        "Name": "repression.levelbuffname201",
+        "Desc": "repression.levelbuff201",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff201"
+    },
+    {
+        "ID": 4112,
+        "Type": 2,
+        "Modifire": [
+            8710006
+        ],
+        "Icon": [
+            1001034
+        ],
+        "Name": "repression.levelbuffname202",
+        "Desc": "repression.levelbuff202",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff202"
+    },
+    {
+        "ID": 4113,
+        "Type": 1,
+        "Modifire": [
+            8710011
+        ],
+        "Icon": [
+            1001038
+        ],
+        "Name": "repression.levelbuffname203",
+        "Desc": "repression.levelbuff203",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff203"
+    },
+    {
+        "ID": 4221,
+        "Type": 1,
+        "Modifire": [
+            8710010
+        ],
+        "Icon": [
+            1001031
+        ],
+        "Name": "repression.levelbuffname201",
+        "Desc": "repression.levelbuff201",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff201"
+    },
+    {
+        "ID": 4222,
+        "Type": 2,
+        "Modifire": [
+            8710006
+        ],
+        "Icon": [
+            1001034
+        ],
+        "Name": "repression.levelbuffname202",
+        "Desc": "repression.levelbuff202",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff202"
+    },
+    {
+        "ID": 4223,
+        "Type": 1,
+        "Modifire": [
+            8710011
+        ],
+        "Icon": [
+            1001038
+        ],
+        "Name": "repression.levelbuffname203",
+        "Desc": "repression.levelbuff203",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff203"
+    },
+    {
+        "ID": 4331,
+        "Type": 1,
+        "Modifire": [
+            8710010
+        ],
+        "Icon": [
+            1001031
+        ],
+        "Name": "repression.levelbuffname201",
+        "Desc": "repression.levelbuff201",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff201"
+    },
+    {
+        "ID": 4332,
+        "Type": 2,
+        "Modifire": [
+            8710006
+        ],
+        "Icon": [
+            1001034
+        ],
+        "Name": "repression.levelbuffname202",
+        "Desc": "repression.levelbuff202",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff202"
+    },
+    {
+        "ID": 4333,
+        "Type": 1,
+        "Modifire": [
+            8710011
+        ],
+        "Icon": [
+            1001038
+        ],
+        "Name": "repression.levelbuffname203",
+        "Desc": "repression.levelbuff203",
+        "BuffParamPerCount": "",
+        "SimpleDesc": "repression.levelbuff203"
+    }
+]

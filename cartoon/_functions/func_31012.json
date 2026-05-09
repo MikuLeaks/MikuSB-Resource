@@ -1,0 +1,216 @@
+{
+  "pages": [
+    {
+      "id": 1,
+      "name": "Page1",
+      "max_action_id": 24,
+      "traces": [
+        {
+          "id": 1,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 1,
+                  "tpl_id": "screen_fade",
+                  "params": {
+                    "fade_type": "1",
+                    "style": "1",
+                    "time": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 5,
+                  "tpl_id": "set_npc_position_and_rotation",
+                  "params": {
+                    "wait": "",
+                    "rot": "{{rotation}}",
+                    "npcId": "{{role}}",
+                    "loop": "",
+                    "clickBreakKeep": "",
+                    "pos": "{{position}}"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 21,
+                  "tpl_id": "wait_time",
+                  "params": {
+                    "time": "0.3"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 9,
+                  "tpl_id": "play_single_camera_sequence",
+                  "params": {
+                    "wait": "",
+                    "loop": "",
+                    "camera": "{{camtype}}",
+                    "targetId": "{{role}}"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 17,
+                  "tpl_id": "screen_fade",
+                  "params": {
+                    "fade_type": "2",
+                    "style": "1",
+                    "time": "1"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 2
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 22,
+                  "tpl_id": "set_player_3d_pos",
+                  "params": {
+                    "pos": "1",
+                    "npcId": "{{role}}"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 6,
+                  "tpl_id": "play_animation",
+                  "params": {
+                    "clickBreakKeep": "",
+                    "anim": "{{animation-body}}",
+                    "wait": "",
+                    "loop": "",
+                    "npcId": "{{role}}"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 10
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 18
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 3
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 23
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 7
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 11
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 19
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 4
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 24
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 8
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 12
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 20
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

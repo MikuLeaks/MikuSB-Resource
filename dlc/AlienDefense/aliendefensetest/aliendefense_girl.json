@@ -1,0 +1,611 @@
+[
+    {
+        "SeasonID": 3,
+        "Id": 1,
+        "TemplateId": 2710021,
+        "Skill": 3801101,
+        "PlotId": 8132311,
+        "EnterBubble": "Alien_GirlDialogue_0101",
+        "SkillBubble": "Alien_GirlDialogue_0102",
+        "RandomBubble1": "Alien_GirlDialogue_0103",
+        "RandomBubble2": "Alien_GirlDialogue_0104",
+        "PicID": [
+            7,
+            21,
+            1,
+            3
+        ],
+        "Condition": [
+            1,
+            6221,
+            1
+        ],
+        "GirlUnlockDes": "aliendefence.Alien_Girltips01",
+        "GirlSPDes": "aliendefence.Alien_GirlLight01",
+        "SkillCondition1": [
+            4,
+            1
+        ],
+        "GirlSkillUnlockDes1": "aliendefence.Alien_Girlunlock01",
+        "GirlSkillDes1": "aliendefence.Alien_GirlUpgrade01",
+        "SkillCondition2": [
+            2,
+            0,
+            2000
+        ],
+        "GirlSkillUnlockDes2": "aliendefence.Alien_Girlunlock02",
+        "GirlSkillDes2": "aliendefence.Alien_GirlUpgrade02",
+        "GirlSkillName": "aliendefence.Alien_GirlSkill_Name_01",
+        "GirlSkillDesLevel1": "aliendefence.Alien_GirlSkillDesLevel1_01",
+        "GirlSkillDesDescValue1": [
+            1,
+            20,
+            10,
+            4
+        ],
+        "GirlSkillDesLevel2": "aliendefence.Alien_GirlSkillDesLevel2_01",
+        "GirlSkillDesDescValue2": [
+            1,
+            20,
+            20,
+            6
+        ],
+        "GirlSkillDesLevel3": "aliendefence.Alien_GirlSkillDesLevel3_01",
+        "GirlSkillDesDescValue3": [
+            2,
+            20,
+            20,
+            6
+        ],
+        "Icon": 1904094,
+        "GirlName": "aliendefence.Alien_GirlName01"
+    },
+    {
+        "SeasonID": 3,
+        "Id": 2,
+        "TemplateId": 2710018,
+        "Skill": 3801201,
+        "PlotId": "",
+        "EnterBubble": "Alien_GirlDialogue_0201",
+        "SkillBubble": "Alien_GirlDialogue_0202",
+        "RandomBubble1": "Alien_GirlDialogue_0203",
+        "RandomBubble2": "Alien_GirlDialogue_0204",
+        "PicID": [
+            7,
+            18,
+            2,
+            3
+        ],
+        "Condition": [
+            1,
+            6223,
+            1
+        ],
+        "GirlUnlockDes": "aliendefence.Alien_Girltips01",
+        "GirlSPDes": "aliendefence.Alien_GirlLight04",
+        "SkillCondition1": [
+            4,
+            1
+        ],
+        "GirlSkillUnlockDes1": "aliendefence.Alien_Girlunlock01",
+        "GirlSkillDes1": "aliendefence.Alien_GirlUpgrade07",
+        "SkillCondition2": [
+            2,
+            0,
+            2000
+        ],
+        "GirlSkillUnlockDes2": "aliendefence.Alien_Girlunlock02",
+        "GirlSkillDes2": "aliendefence.Alien_GirlUpgrade08",
+        "GirlSkillName": "aliendefence.Alien_GirlSkill_Name_02",
+        "GirlSkillDesLevel1": "aliendefence.Alien_GirlSkillDesLevel1_02",
+        "GirlSkillDesDescValue1": [
+            1,
+            10,
+            4
+        ],
+        "GirlSkillDesLevel2": "aliendefence.Alien_GirlSkillDesLevel2_02",
+        "GirlSkillDesDescValue2": [
+            1,
+            20,
+            7
+        ],
+        "GirlSkillDesLevel3": "aliendefence.Alien_GirlSkillDesLevel3_02",
+        "GirlSkillDesDescValue3": [
+            2,
+            20,
+            7
+        ],
+        "Icon": 1904095,
+        "GirlName": "aliendefence.Alien_GirlName04"
+    },
+    {
+        "SeasonID": 3,
+        "Id": 3,
+        "TemplateId": 2710013,
+        "Skill": 3801401,
+        "PlotId": "",
+        "EnterBubble": "Alien_GirlDialogue_0401",
+        "SkillBubble": "Alien_GirlDialogue_0402",
+        "RandomBubble1": "Alien_GirlDialogue_0403",
+        "RandomBubble2": "Alien_GirlDialogue_0404",
+        "PicID": [
+            7,
+            13,
+            3,
+            2
+        ],
+        "Condition": [
+            1,
+            6225,
+            1
+        ],
+        "GirlUnlockDes": "aliendefence.Alien_Girltips01",
+        "GirlSPDes": "aliendefence.Alien_GirlLight03",
+        "SkillCondition1": [
+            4,
+            1
+        ],
+        "GirlSkillUnlockDes1": "aliendefence.Alien_Girlunlock01",
+        "GirlSkillDes1": "aliendefence.Alien_GirlUpgrade05",
+        "SkillCondition2": [
+            2,
+            0,
+            2000
+        ],
+        "GirlSkillUnlockDes2": "aliendefence.Alien_Girlunlock02",
+        "GirlSkillDes2": "aliendefence.Alien_GirlUpgrade06",
+        "GirlSkillName": "aliendefence.Alien_GirlSkill_Name_04",
+        "GirlSkillDesLevel1": "aliendefence.Alien_GirlSkillDesLevel1_04",
+        "GirlSkillDesDescValue1": [
+            1,
+            10,
+            40
+        ],
+        "GirlSkillDesLevel2": "aliendefence.Alien_GirlSkillDesLevel2_04",
+        "GirlSkillDesDescValue2": [
+            1,
+            20,
+            80
+        ],
+        "GirlSkillDesLevel3": "aliendefence.Alien_GirlSkillDesLevel3_04",
+        "GirlSkillDesDescValue3": [
+            2,
+            20,
+            80
+        ],
+        "Icon": 1904093,
+        "GirlName": "aliendefence.Alien_GirlName03"
+    },
+    {
+        "SeasonID": 3,
+        "Id": 4,
+        "TemplateId": 2710008,
+        "Skill": 3801301,
+        "PlotId": "",
+        "EnterBubble": "Alien_GirlDialogue_0301",
+        "SkillBubble": "Alien_GirlDialogue_0302",
+        "RandomBubble1": "Alien_GirlDialogue_0303",
+        "RandomBubble2": "Alien_GirlDialogue_0304",
+        "PicID": [
+            7,
+            8,
+            4,
+            2
+        ],
+        "Condition": [
+            1,
+            6227,
+            1
+        ],
+        "GirlUnlockDes": "aliendefence.Alien_Girltips01",
+        "GirlSPDes": "aliendefence.Alien_GirlLight02",
+        "SkillCondition1": [
+            4,
+            1
+        ],
+        "GirlSkillUnlockDes1": "aliendefence.Alien_Girlunlock01",
+        "GirlSkillDes1": "aliendefence.Alien_GirlUpgrade03",
+        "SkillCondition2": [
+            2,
+            0,
+            2000
+        ],
+        "GirlSkillUnlockDes2": "aliendefence.Alien_Girlunlock02",
+        "GirlSkillDes2": "aliendefence.Alien_GirlUpgrade04",
+        "GirlSkillName": "aliendefence.Alien_GirlSkill_Name_03",
+        "GirlSkillDesLevel1": "aliendefence.Alien_GirlSkillDesLevel1_03",
+        "GirlSkillDesDescValue1": [
+            1,
+            5,
+            60,
+            1
+        ],
+        "GirlSkillDesLevel2": "aliendefence.Alien_GirlSkillDesLevel2_03",
+        "GirlSkillDesDescValue2": [
+            1,
+            5,
+            60,
+            1,
+            5
+        ],
+        "GirlSkillDesLevel3": "aliendefence.Alien_GirlSkillDesLevel3_03",
+        "GirlSkillDesDescValue3": [
+            2,
+            5,
+            60,
+            1,
+            5
+        ],
+        "Icon": 1904092,
+        "GirlName": "aliendefence.Alien_GirlName02"
+    },
+    {
+        "SeasonID": 4,
+        "Id": 1,
+        "TemplateId": 2710021,
+        "Skill": 3801101,
+        "PlotId": 8132311,
+        "EnterBubble": "Alien_GirlDialogue_0101",
+        "SkillBubble": "Alien_GirlDialogue_0102",
+        "RandomBubble1": "Alien_GirlDialogue_0103",
+        "RandomBubble2": "Alien_GirlDialogue_0104",
+        "PicID": [
+            7,
+            21,
+            1,
+            3
+        ],
+        "Condition": [
+            1,
+            6231,
+            1
+        ],
+        "GirlUnlockDes": "aliendefence.Alien_Girltips01",
+        "GirlSPDes": "aliendefence.Alien_GirlLight01",
+        "SkillCondition1": [
+            4,
+            1
+        ],
+        "GirlSkillUnlockDes1": "aliendefence.Alien_Girlunlock01",
+        "GirlSkillDes1": "aliendefence.Alien_GirlUpgrade01",
+        "SkillCondition2": [
+            2,
+            0,
+            2000
+        ],
+        "GirlSkillUnlockDes2": "aliendefence.Alien_Girlunlock02",
+        "GirlSkillDes2": "aliendefence.Alien_GirlUpgrade02",
+        "GirlSkillName": "aliendefence.Alien_GirlSkill_Name_01",
+        "GirlSkillDesLevel1": "aliendefence.Alien_GirlSkillDesLevel1_01",
+        "GirlSkillDesDescValue1": [
+            1,
+            20,
+            10,
+            4
+        ],
+        "GirlSkillDesLevel2": "aliendefence.Alien_GirlSkillDesLevel2_01",
+        "GirlSkillDesDescValue2": [
+            1,
+            20,
+            20,
+            6
+        ],
+        "GirlSkillDesLevel3": "aliendefence.Alien_GirlSkillDesLevel3_01",
+        "GirlSkillDesDescValue3": [
+            2,
+            20,
+            20,
+            6
+        ],
+        "Icon": 1904094,
+        "GirlName": "aliendefence.Alien_GirlName01",
+        "SkillVoice": "Vo_dlc35_girl021_yixingshouhu_01"
+    },
+    {
+        "SeasonID": 4,
+        "Id": 2,
+        "TemplateId": 2710018,
+        "Skill": 3801201,
+        "PlotId": "",
+        "EnterBubble": "Alien_GirlDialogue_0201",
+        "SkillBubble": "Alien_GirlDialogue_0202",
+        "RandomBubble1": "Alien_GirlDialogue_0203",
+        "RandomBubble2": "Alien_GirlDialogue_0204",
+        "PicID": [
+            7,
+            18,
+            2,
+            3
+        ],
+        "Condition": [
+            1,
+            6231,
+            1
+        ],
+        "GirlUnlockDes": "aliendefence.Alien_Girltips01",
+        "GirlSPDes": "aliendefence.Alien_GirlLight04",
+        "SkillCondition1": [
+            4,
+            1
+        ],
+        "GirlSkillUnlockDes1": "aliendefence.Alien_Girlunlock01",
+        "GirlSkillDes1": "aliendefence.Alien_GirlUpgrade07",
+        "SkillCondition2": [
+            2,
+            0,
+            2000
+        ],
+        "GirlSkillUnlockDes2": "aliendefence.Alien_Girlunlock02",
+        "GirlSkillDes2": "aliendefence.Alien_GirlUpgrade08",
+        "GirlSkillName": "aliendefence.Alien_GirlSkill_Name_02",
+        "GirlSkillDesLevel1": "aliendefence.Alien_GirlSkillDesLevel1_02",
+        "GirlSkillDesDescValue1": [
+            1,
+            10,
+            4
+        ],
+        "GirlSkillDesLevel2": "aliendefence.Alien_GirlSkillDesLevel2_02",
+        "GirlSkillDesDescValue2": [
+            1,
+            20,
+            7
+        ],
+        "GirlSkillDesLevel3": "aliendefence.Alien_GirlSkillDesLevel3_02",
+        "GirlSkillDesDescValue3": [
+            2,
+            20,
+            7
+        ],
+        "Icon": 1904095,
+        "GirlName": "aliendefence.Alien_GirlName04",
+        "SkillVoice": "Vo_dlc35_girl018_yixingshouhu_01"
+    },
+    {
+        "SeasonID": 4,
+        "Id": 3,
+        "TemplateId": 2710013,
+        "Skill": 3801401,
+        "PlotId": "",
+        "EnterBubble": "Alien_GirlDialogue_0401",
+        "SkillBubble": "Alien_GirlDialogue_0402",
+        "RandomBubble1": "Alien_GirlDialogue_0403",
+        "RandomBubble2": "Alien_GirlDialogue_0404",
+        "PicID": [
+            7,
+            13,
+            3,
+            2
+        ],
+        "Condition": [
+            1,
+            6231,
+            1
+        ],
+        "GirlUnlockDes": "aliendefence.Alien_Girltips01",
+        "GirlSPDes": "aliendefence.Alien_GirlLight03",
+        "SkillCondition1": [
+            4,
+            1
+        ],
+        "GirlSkillUnlockDes1": "aliendefence.Alien_Girlunlock01",
+        "GirlSkillDes1": "aliendefence.Alien_GirlUpgrade05",
+        "SkillCondition2": [
+            2,
+            0,
+            2000
+        ],
+        "GirlSkillUnlockDes2": "aliendefence.Alien_Girlunlock02",
+        "GirlSkillDes2": "aliendefence.Alien_GirlUpgrade06",
+        "GirlSkillName": "aliendefence.Alien_GirlSkill_Name_04",
+        "GirlSkillDesLevel1": "aliendefence.Alien_GirlSkillDesLevel1_04",
+        "GirlSkillDesDescValue1": [
+            1,
+            10,
+            40
+        ],
+        "GirlSkillDesLevel2": "aliendefence.Alien_GirlSkillDesLevel2_04",
+        "GirlSkillDesDescValue2": [
+            1,
+            20,
+            80
+        ],
+        "GirlSkillDesLevel3": "aliendefence.Alien_GirlSkillDesLevel3_04",
+        "GirlSkillDesDescValue3": [
+            2,
+            20,
+            80
+        ],
+        "Icon": 1904093,
+        "GirlName": "aliendefence.Alien_GirlName03",
+        "SkillVoice": "Vo_dlc35_girl013_yixingshouhu_01"
+    },
+    {
+        "SeasonID": 4,
+        "Id": 4,
+        "TemplateId": 2710008,
+        "Skill": 3801301,
+        "PlotId": "",
+        "EnterBubble": "Alien_GirlDialogue_0301",
+        "SkillBubble": "Alien_GirlDialogue_0302",
+        "RandomBubble1": "Alien_GirlDialogue_0303",
+        "RandomBubble2": "Alien_GirlDialogue_0304",
+        "PicID": [
+            7,
+            8,
+            4,
+            2
+        ],
+        "Condition": [
+            1,
+            6231,
+            1
+        ],
+        "GirlUnlockDes": "aliendefence.Alien_Girltips01",
+        "GirlSPDes": "aliendefence.Alien_GirlLight02",
+        "SkillCondition1": [
+            4,
+            1
+        ],
+        "GirlSkillUnlockDes1": "aliendefence.Alien_Girlunlock01",
+        "GirlSkillDes1": "aliendefence.Alien_GirlUpgrade03",
+        "SkillCondition2": [
+            2,
+            0,
+            2000
+        ],
+        "GirlSkillUnlockDes2": "aliendefence.Alien_Girlunlock02",
+        "GirlSkillDes2": "aliendefence.Alien_GirlUpgrade04",
+        "GirlSkillName": "aliendefence.Alien_GirlSkill_Name_03",
+        "GirlSkillDesLevel1": "aliendefence.Alien_GirlSkillDesLevel1_03",
+        "GirlSkillDesDescValue1": [
+            1,
+            5,
+            60,
+            1
+        ],
+        "GirlSkillDesLevel2": "aliendefence.Alien_GirlSkillDesLevel2_03",
+        "GirlSkillDesDescValue2": [
+            1,
+            5,
+            60,
+            1,
+            5
+        ],
+        "GirlSkillDesLevel3": "aliendefence.Alien_GirlSkillDesLevel3_03",
+        "GirlSkillDesDescValue3": [
+            2,
+            5,
+            60,
+            1,
+            5
+        ],
+        "Icon": 1904092,
+        "GirlName": "aliendefence.Alien_GirlName02",
+        "SkillVoice": "Vo_dlc35_girl008_yixingshouhu_01"
+    },
+    {
+        "SeasonID": 4,
+        "Id": 5,
+        "TemplateId": 2710005,
+        "Skill": 3801601,
+        "PlotId": "",
+        "EnterBubble": "Alien_GirlDialogue_0501",
+        "SkillBubble": "Alien_GirlDialogue_0502",
+        "RandomBubble1": "Alien_GirlDialogue_0503",
+        "RandomBubble2": "Alien_GirlDialogue_0504",
+        "PicID": [
+            7,
+            5,
+            4,
+            2
+        ],
+        "Condition": [
+            1,
+            6233,
+            1
+        ],
+        "GirlUnlockDes": "aliendefence.Alien_Girltips01",
+        "GirlSPDes": "aliendefence.Alien_GirlLight06",
+        "SkillCondition1": [
+            4,
+            1
+        ],
+        "GirlSkillUnlockDes1": "aliendefence.Alien_Girlunlock01",
+        "GirlSkillDes1": "aliendefence.Alien_GirlUpgrade09",
+        "SkillCondition2": [
+            2,
+            0,
+            2000
+        ],
+        "GirlSkillUnlockDes2": "aliendefence.Alien_Girlunlock02",
+        "GirlSkillDes2": "aliendefence.Alien_GirlUpgrade04",
+        "GirlSkillName": "aliendefence.Alien_GirlSkill_Name_06",
+        "GirlSkillDesLevel1": "aliendefence.Alien_GirlSkillDesLevel1_06",
+        "GirlSkillDesDescValue1": [
+            1,
+            200,
+            30,
+            150
+        ],
+        "GirlSkillDesLevel2": "aliendefence.Alien_GirlSkillDesLevel2_06",
+        "GirlSkillDesDescValue2": [
+            1,
+            300,
+            3,
+            45,
+            150
+        ],
+        "GirlSkillDesLevel3": "aliendefence.Alien_GirlSkillDesLevel3_06",
+        "GirlSkillDesDescValue3": [
+            2,
+            300,
+            3,
+            45,
+            150
+        ],
+        "Icon": 1904108,
+        "GirlName": "aliendefence.Alien_GirlName06",
+        "SkillVoice": "Vo_dlc35_girl005_yixingshouhu_01"
+    },
+    {
+        "SeasonID": 4,
+        "Id": 6,
+        "TemplateId": 2710001,
+        "Skill": 3801501,
+        "PlotId": "",
+        "EnterBubble": "Alien_GirlDialogue_0601",
+        "SkillBubble": "Alien_GirlDialogue_0602",
+        "RandomBubble1": "Alien_GirlDialogue_0603",
+        "RandomBubble2": "Alien_GirlDialogue_0604",
+        "PicID": [
+            7,
+            1,
+            3,
+            2
+        ],
+        "Condition": [
+            1,
+            6235,
+            1
+        ],
+        "GirlUnlockDes": "aliendefence.Alien_Girltips01",
+        "GirlSPDes": "aliendefence.Alien_GirlLight05",
+        "SkillCondition1": [
+            4,
+            1
+        ],
+        "GirlSkillUnlockDes1": "aliendefence.Alien_Girlunlock01",
+        "GirlSkillDes1": "aliendefence.Alien_GirlUpgrade11",
+        "SkillCondition2": [
+            2,
+            0,
+            2000
+        ],
+        "GirlSkillUnlockDes2": "aliendefence.Alien_Girlunlock02",
+        "GirlSkillDes2": "aliendefence.Alien_GirlUpgrade04",
+        "GirlSkillName": "aliendefence.Alien_GirlSkill_Name_05",
+        "GirlSkillDesLevel1": "aliendefence.Alien_GirlSkillDesLevel1_05",
+        "GirlSkillDesDescValue1": [
+            1,
+            4,
+            1
+        ],
+        "GirlSkillDesLevel2": "aliendefence.Alien_GirlSkillDesLevel2_05",
+        "GirlSkillDesDescValue2": [
+            1,
+            4,
+            3,
+            1
+        ],
+        "GirlSkillDesLevel3": "aliendefence.Alien_GirlSkillDesLevel3_05",
+        "GirlSkillDesDescValue3": [
+            2,
+            4,
+            3,
+            1
+        ],
+        "Icon": 1904107,
+        "GirlName": "aliendefence.Alien_GirlName05",
+        "SkillVoice": "Vo_dlc35_girl001_yixingshouhu_01"
+    }
+]

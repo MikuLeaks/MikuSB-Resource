@@ -1,0 +1,162 @@
+[
+    {
+        "RoomEffectID": 1,
+        "RoomType": 5,
+        "Icon": 5203001,
+        "BuffID": 4001,
+        "Weight": "",
+        "UsageLimit": "",
+        "BuffName": "donoduel.buff_room_convalesce01_name",
+        "BuffDesc": "donoduel.buff_room_convalesce01"
+    },
+    {
+        "RoomEffectID": 2,
+        "RoomType": 5,
+        "Icon": 5203002,
+        "BuffID": 4002,
+        "Weight": "",
+        "UsageLimit": "",
+        "BuffName": "donoduel.buff_room_convalesce02_name",
+        "BuffDesc": "donoduel.buff_room_convalesce02"
+    },
+    {
+        "RoomEffectID": 3,
+        "RoomType": 5,
+        "Icon": 5203003,
+        "BuffID": 4003,
+        "Weight": "",
+        "UsageLimit": "",
+        "BuffName": "donoduel.buff_room_convalesce03_name",
+        "BuffDesc": "donoduel.buff_room_convalesce03"
+    },
+    {
+        "RoomEffectID": 4,
+        "RoomType": 5,
+        "Icon": 5203004,
+        "BuffID": 4004,
+        "Weight": "",
+        "UsageLimit": "",
+        "BuffName": "donoduel.buff_room_convalesce04_name",
+        "BuffDesc": "donoduel.buff_room_convalesce04"
+    },
+    {
+        "RoomEffectID": 5,
+        "RoomType": 7,
+        "Icon": 5203007,
+        "BuffID": 4101,
+        "Weight": 100,
+        "UsageLimit": 1,
+        "BuffName": "donoduel.buff_room_adventure01_name",
+        "BuffDesc": "donoduel.buff_room_adventure01"
+    },
+    {
+        "RoomEffectID": 6,
+        "RoomType": 7,
+        "Icon": 5203008,
+        "BuffID": 4102,
+        "Weight": 100,
+        "UsageLimit": 1,
+        "BuffName": "donoduel.buff_room_adventure02_name",
+        "BuffDesc": "donoduel.buff_room_adventure02"
+    },
+    {
+        "RoomEffectID": 7,
+        "RoomType": 7,
+        "Icon": 5203009,
+        "BuffID": 4103,
+        "Weight": 100,
+        "UsageLimit": 1,
+        "BuffName": "donoduel.buff_room_adventure03_name",
+        "BuffDesc": "donoduel.buff_room_adventure03"
+    },
+    {
+        "RoomEffectID": 8,
+        "RoomType": 7,
+        "Icon": 5203010,
+        "BuffID": 4104,
+        "Weight": 100,
+        "UsageLimit": 1,
+        "BuffName": "donoduel.buff_room_adventure04_name",
+        "BuffDesc": "donoduel.buff_room_adventure04"
+    },
+    {
+        "RoomEffectID": 9,
+        "RoomType": 7,
+        "Icon": 5203011,
+        "BuffID": 4105,
+        "Weight": 100,
+        "UsageLimit": 1,
+        "BuffName": "donoduel.buff_room_adventure05_name",
+        "BuffDesc": "donoduel.buff_room_adventure05"
+    },
+    {
+        "RoomEffectID": 10,
+        "RoomType": 7,
+        "Icon": 5203012,
+        "BuffID": 4106,
+        "Weight": 100,
+        "UsageLimit": 1,
+        "BuffName": "donoduel.buff_room_adventure06_name",
+        "BuffDesc": "donoduel.buff_room_adventure06"
+    },
+    {
+        "RoomEffectID": 11,
+        "RoomType": 9,
+        "Icon": 5203007,
+        "BuffID": 4101,
+        "Weight": 100,
+        "UsageLimit": 1,
+        "BuffName": "donoduel.buff_room_adventure01_name",
+        "BuffDesc": "donoduel.buff_room_adventure01"
+    },
+    {
+        "RoomEffectID": 12,
+        "RoomType": 9,
+        "Icon": 5203008,
+        "BuffID": 4102,
+        "Weight": 100,
+        "UsageLimit": 1,
+        "BuffName": "donoduel.buff_room_adventure02_name",
+        "BuffDesc": "donoduel.buff_room_adventure02"
+    },
+    {
+        "RoomEffectID": 13,
+        "RoomType": 9,
+        "Icon": 5203009,
+        "BuffID": 4103,
+        "Weight": 100,
+        "UsageLimit": 1,
+        "BuffName": "donoduel.buff_room_adventure03_name",
+        "BuffDesc": "donoduel.buff_room_adventure03"
+    },
+    {
+        "RoomEffectID": 14,
+        "RoomType": 9,
+        "Icon": 5203010,
+        "BuffID": 4104,
+        "Weight": 100,
+        "UsageLimit": 1,
+        "BuffName": "donoduel.buff_room_adventure04_name",
+        "BuffDesc": "donoduel.buff_room_adventure04"
+    },
+    {
+        "RoomEffectID": 15,
+        "RoomType": 9,
+        "Icon": 5203011,
+        "BuffID": 4105,
+        "Weight": 100,
+        "UsageLimit": 1,
+        "BuffName": "donoduel.buff_room_adventure05_name",
+        "BuffDesc": "donoduel.buff_room_adventure05"
+    },
+    {
+        "RoomEffectID": 16,
+        "RoomType": 9,
+        "Icon": 5203012,
+        "BuffID": 4106,
+        "Weight": 100,
+        "UsageLimit": 1,
+        "BuffName": "donoduel.buff_room_adventure06_name",
+        "BuffDesc": "donoduel.buff_room_adventure06"
+    }
+]

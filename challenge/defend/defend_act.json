@@ -1,0 +1,2266 @@
+[
+    {
+        "ID": 1,
+        "UI": "",
+        "HelpImg": 13,
+        "EntryImg": 1701127,
+        "EntryName": "TxtDefenseTip2",
+        "NameImg": "",
+        "BgImg": "",
+        "DlcId": "",
+        "DlcInfo": "",
+        "StartTime": [
+            202206130400
+        ],
+        "EndTime": [
+            202207010400
+        ],
+        "LevelId": 7001,
+        "LevelBuff": [
+            8020031
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "climbtower.8020031",
+        "Coverage": 1,
+        "Challenge": [
+            1,
+            2,
+            3
+        ],
+        "Craft": {
+            "1": 200
+        }
+    },
+    {
+        "ID": 2,
+        "UI": "",
+        "HelpImg": 13,
+        "EntryImg": 1701127,
+        "EntryName": "TxtDefenseTip2",
+        "NameImg": "",
+        "BgImg": "",
+        "DlcId": "",
+        "DlcInfo": "",
+        "StartTime": [
+            202207050400
+        ],
+        "EndTime": [
+            202207150400
+        ],
+        "LevelId": 7021,
+        "LevelBuff": [
+            8300004
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.8300004",
+        "Coverage": 1
+    },
+    {
+        "ID": 3,
+        "UI": "",
+        "HelpImg": 13,
+        "EntryImg": 1701127,
+        "EntryName": "TxtDefenseTip2",
+        "NameImg": "",
+        "BgImg": "",
+        "DlcId": "",
+        "DlcInfo": "",
+        "StartTime": [
+            202207200400
+        ],
+        "EndTime": [
+            202207300400
+        ],
+        "LevelId": 7031,
+        "LevelBuff": [
+            8020011
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "climbtower.8020011",
+        "Coverage": 1
+    },
+    {
+        "ID": 4,
+        "UI": "DefenseMainDlc1",
+        "HelpImg": 26,
+        "EntryImg": 1701149,
+        "EntryName": "TxtDLC1Defense",
+        "NameImg": 1701151,
+        "BgImg": "",
+        "DlcId": 1,
+        "DlcInfo": "",
+        "StartTime": [
+            202308070400
+        ],
+        "EndTime": [
+            202308140400
+        ],
+        "LevelId": 7044,
+        "LevelBuff": [
+            8510001
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.8410026",
+        "Coverage": 0
+    },
+    {
+        "ID": 5,
+        "UI": "DefenseMainDlc1",
+        "HelpImg": 26,
+        "EntryImg": 1701149,
+        "EntryName": "TxtDLC1Defense",
+        "NameImg": 1701151,
+        "BgImg": "",
+        "DlcId": 1,
+        "DlcInfo": "",
+        "StartTime": [
+            202308140400
+        ],
+        "EndTime": [
+            202308210400
+        ],
+        "LevelId": 7044,
+        "LevelBuff": [
+            8510002
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.8410028",
+        "Coverage": 0
+    },
+    {
+        "ID": 6,
+        "UI": "",
+        "HelpImg": 54,
+        "EntryImg": 1701167,
+        "EntryName": "TxtDLC2.Defense",
+        "NameImg": "",
+        "BgImg": 1803035,
+        "DlcId": 2,
+        "DlcInfo": [
+            "ui.TxtDLC2.Shop",
+            "ui.TxtDLC2.Mission",
+            8
+        ],
+        "StartTime": [
+            202210091000
+        ],
+        "EndTime": [
+            202210160400
+        ],
+        "LevelId": 7051,
+        "LevelBuff": [
+            8510004
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.8510004",
+        "Coverage": 0
+    },
+    {
+        "ID": 7,
+        "UI": "",
+        "HelpImg": 54,
+        "EntryImg": 1701167,
+        "EntryName": "TxtDLC2.Defense",
+        "NameImg": "",
+        "BgImg": 1803035,
+        "DlcId": 2,
+        "DlcInfo": [
+            "ui.TxtDLC2.Shop",
+            "ui.TxtDLC2.Mission",
+            8
+        ],
+        "StartTime": [
+            202210160400
+        ],
+        "EndTime": [
+            202210230400
+        ],
+        "LevelId": 7051,
+        "LevelBuff": [
+            8510006
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.8510006",
+        "Coverage": 0
+    },
+    {
+        "ID": 9,
+        "UI": "",
+        "HelpImg": 61,
+        "EntryImg": 1701168,
+        "EntryName": "Dlc3MainBtn5",
+        "NameImg": "",
+        "BgImg": 1803036,
+        "DlcId": 3,
+        "DlcInfo": [
+            "ui.Dlc3MainBtn8",
+            "ui.Dlc3MainBtn7",
+            13,
+            1701224,
+            1701223
+        ],
+        "StartTime": [
+            202211061000
+        ],
+        "EndTime": [
+            202211130400
+        ],
+        "LevelId": 7061,
+        "LevelBuff": "",
+        "LevelSkill": [
+            8630002
+        ],
+        "BuffDesc": "defenselevel.8630002",
+        "Coverage": 0
+    },
+    {
+        "ID": 10,
+        "UI": "",
+        "HelpImg": 61,
+        "EntryImg": 1701168,
+        "EntryName": "Dlc3MainBtn5",
+        "NameImg": "",
+        "BgImg": 1803036,
+        "DlcId": 3,
+        "DlcInfo": [
+            "ui.Dlc3MainBtn8",
+            "ui.Dlc3MainBtn7",
+            13,
+            1701224,
+            1701223
+        ],
+        "StartTime": [
+            202211130400
+        ],
+        "EndTime": [
+            202211200400
+        ],
+        "LevelId": 7061,
+        "LevelBuff": "",
+        "LevelSkill": [
+            8630003
+        ],
+        "BuffDesc": "defenselevel.8630003",
+        "Coverage": 0
+    },
+    {
+        "ID": 11,
+        "UI": "",
+        "HelpImg": 62,
+        "EntryImg": 1701225,
+        "EntryName": "TxtDLC4.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1803040,
+        "DlcId": 4,
+        "DlcInfo": [
+            "ui.TxtDLC4.BtnShop",
+            "ui.TxtDLC4.BtnMission",
+            18,
+            1701226,
+            1701227
+        ],
+        "StartTime": [
+            202312181000
+        ],
+        "EndTime": [
+            202312250400
+        ],
+        "LevelId": 7071,
+        "LevelBuff": [
+            8510004
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.8510004",
+        "Coverage": 0
+    },
+    {
+        "ID": 12,
+        "UI": "",
+        "HelpImg": 62,
+        "EntryImg": 1701225,
+        "EntryName": "TxtDLC4.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1803040,
+        "DlcId": 4,
+        "DlcInfo": [
+            "ui.TxtDLC4.BtnShop",
+            "ui.TxtDLC4.BtnMission",
+            18,
+            1701226,
+            1701227
+        ],
+        "StartTime": [
+            202312250400
+        ],
+        "EndTime": [
+            202401010400
+        ],
+        "LevelId": 7071,
+        "LevelBuff": "",
+        "LevelSkill": [
+            8630001
+        ],
+        "BuffDesc": "defenselevel.8630001",
+        "Coverage": 0
+    },
+    {
+        "ID": 13,
+        "UI": "",
+        "HelpImg": 69,
+        "EntryImg": 1701233,
+        "EntryName": "TxtDLC5.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1803043,
+        "DlcId": 5,
+        "DlcInfo": [
+            "ui.TxtDLC5.BtnShop",
+            "ui.TxtDLC5.BtnMission",
+            23,
+            1701231,
+            1701232,
+            "#2c2c2c",
+            "#2c2c2c"
+        ],
+        "StartTime": [
+            202402051000
+        ],
+        "EndTime": [
+            202402120400
+        ],
+        "LevelId": 7081,
+        "LevelBuff": [
+            8510006
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.8510006",
+        "Coverage": 0
+    },
+    {
+        "ID": 14,
+        "UI": "",
+        "HelpImg": 69,
+        "EntryImg": 1701233,
+        "EntryName": "TxtDLC5.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1803043,
+        "DlcId": 5,
+        "DlcInfo": [
+            "ui.TxtDLC5.BtnShop",
+            "ui.TxtDLC5.BtnMission",
+            23,
+            1701231,
+            1701232,
+            "#2c2c2c",
+            "#2c2c2c"
+        ],
+        "StartTime": [
+            202402120400
+        ],
+        "EndTime": [
+            202402190400
+        ],
+        "LevelId": 7081,
+        "LevelBuff": "",
+        "LevelSkill": [
+            8630002
+        ],
+        "BuffDesc": "defenselevel.8630002",
+        "Coverage": 0
+    },
+    {
+        "ID": 15,
+        "UI": "",
+        "HelpImg": 72,
+        "EntryImg": 1701238,
+        "EntryName": "TxtDLC6.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1803044,
+        "DlcId": 6,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC6/Widgets/uw_dlc6_btn_shop.uw_dlc6_btn_shop_C",
+            "/Game/UI/UMG/DLC6/Widgets/uw_dlc6_btn_mission.uw_dlc6_btn_mission_C",
+            28
+        ],
+        "StartTime": [
+            202403251000
+        ],
+        "EndTime": [
+            202404010400
+        ],
+        "LevelId": 7091,
+        "LevelBuff": [
+            8510002
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.8410028",
+        "Coverage": 0
+    },
+    {
+        "ID": 16,
+        "UI": "",
+        "HelpImg": 72,
+        "EntryImg": 1701238,
+        "EntryName": "TxtDLC6.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1803044,
+        "DlcId": 6,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC6/Widgets/uw_dlc6_btn_shop.uw_dlc6_btn_shop_C",
+            "/Game/UI/UMG/DLC6/Widgets/uw_dlc6_btn_mission.uw_dlc6_btn_mission_C",
+            28
+        ],
+        "StartTime": [
+            202404010400
+        ],
+        "EndTime": [
+            202404080400
+        ],
+        "LevelId": 7091,
+        "LevelBuff": [
+            8510004
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.8510004",
+        "Coverage": 0
+    },
+    {
+        "ID": 17,
+        "UI": "",
+        "HelpImg": 80,
+        "EntryImg": 1701246,
+        "EntryName": "TxtDLC7.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701247,
+        "DlcId": 7,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC7/Widgets/uw_dlc7_btn_shop.uw_dlc7_btn_shop_C",
+            "/Game/UI/UMG/DLC7/Widgets/uw_dlc7_btn_mission.uw_dlc7_btn_mission_C",
+            34
+        ],
+        "StartTime": [
+            202404291000
+        ],
+        "EndTime": [
+            202405060400
+        ],
+        "LevelId": 7101,
+        "LevelBuff": [
+            8510011
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.8510011",
+        "Coverage": 0
+    },
+    {
+        "ID": 18,
+        "UI": "",
+        "HelpImg": 80,
+        "EntryImg": 1701246,
+        "EntryName": "TxtDLC7.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701247,
+        "DlcId": 7,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC7/Widgets/uw_dlc7_btn_shop.uw_dlc7_btn_shop_C",
+            "/Game/UI/UMG/DLC7/Widgets/uw_dlc7_btn_mission.uw_dlc7_btn_mission_C",
+            34
+        ],
+        "StartTime": [
+            202405060400
+        ],
+        "EndTime": [
+            202405130400
+        ],
+        "LevelId": 7101,
+        "LevelBuff": [
+            8510012
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.8510012",
+        "Coverage": 0
+    },
+    {
+        "ID": 19,
+        "UI": "",
+        "HelpImg": 90,
+        "EntryImg": 1701249,
+        "EntryName": "TxtDLC8.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701250,
+        "DlcId": 8,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC8/Widgets/uw_dlc8_btn_shop.uw_dlc8_btn_shop_C",
+            "/Game/UI/UMG/DLC8/Widgets/uw_dlc8_btn_mission.uw_dlc8_btn_mission_C",
+            39
+        ],
+        "StartTime": [
+            202406171000
+        ],
+        "EndTime": [
+            202406240400
+        ],
+        "LevelId": [
+            7111,
+            7112,
+            7113,
+            7114
+        ],
+        "LevelBuff": [
+            8020915
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "climbtower.8020915",
+        "Coverage": 0,
+        "Challenge": [
+            1,
+            3,
+            12
+        ],
+        "Craft": {
+            "2": 5,
+            "12": 5,
+            "6": 5,
+            "5": 5,
+            "10": 20
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 20,
+        "UI": "",
+        "HelpImg": 90,
+        "EntryImg": 1701249,
+        "EntryName": "TxtDLC8.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701250,
+        "DlcId": 8,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC8/Widgets/uw_dlc8_btn_shop.uw_dlc8_btn_shop_C",
+            "/Game/UI/UMG/DLC8/Widgets/uw_dlc8_btn_mission.uw_dlc8_btn_mission_C",
+            39
+        ],
+        "StartTime": [
+            202406240400
+        ],
+        "EndTime": [
+            202407010400
+        ],
+        "LevelId": [
+            7121,
+            7122,
+            7123,
+            7124
+        ],
+        "LevelBuff": [
+            8580010
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.modi_8580010",
+        "Coverage": 0,
+        "Challenge": [
+            1,
+            6,
+            9
+        ],
+        "Craft": {
+            "1": 5,
+            "7": 5,
+            "5": 10,
+            "8": 10,
+            "10": 20
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 1,
+        "UI": "",
+        "HelpImg": 13,
+        "EntryImg": 1701127,
+        "EntryName": "TxtDefenseTip2",
+        "NameImg": "",
+        "BgImg": "",
+        "DlcId": "",
+        "DlcInfo": "",
+        "StartTime": [
+            202306130400
+        ],
+        "EndTime": [
+            202307010400
+        ],
+        "LevelId": 7021,
+        "LevelBuff": [
+            8020031
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "climbtower.8020031",
+        "Coverage": 2
+    },
+    {
+        "ID": 21,
+        "UI": "",
+        "HelpImg": 108,
+        "EntryImg": 1701266,
+        "EntryName": "TxtDLC9.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701265,
+        "DlcId": 9,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC9/Widgets/uw_dlc9_btn_shop.uw_dlc9_btn_shop_C",
+            "/Game/UI/UMG/DLC9/Widgets/uw_dlc9_btn_mission.uw_dlc9_btn_mission_C",
+            45
+        ],
+        "StartTime": [
+            202407220400
+        ],
+        "EndTime": [
+            202407290400
+        ],
+        "LevelId": [
+            7211,
+            7212,
+            7213,
+            7214
+        ],
+        "LevelBuff": "",
+        "LevelSkill": [
+            8630004
+        ],
+        "BuffDesc": "defenselevel.skill_8630004",
+        "Coverage": 0,
+        "Challenge": [
+            15,
+            13,
+            14
+        ],
+        "Craft": {
+            "2": 5,
+            "5": 5,
+            "13": 5,
+            "12": 10,
+            "9": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 22,
+        "UI": "",
+        "HelpImg": 108,
+        "EntryImg": 1701266,
+        "EntryName": "TxtDLC9.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701265,
+        "DlcId": 9,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC9/Widgets/uw_dlc9_btn_shop.uw_dlc9_btn_shop_C",
+            "/Game/UI/UMG/DLC9/Widgets/uw_dlc9_btn_mission.uw_dlc9_btn_mission_C",
+            45
+        ],
+        "StartTime": [
+            202407290400
+        ],
+        "EndTime": [
+            202408050400
+        ],
+        "LevelId": [
+            7221,
+            7222,
+            7223,
+            7224
+        ],
+        "LevelBuff": [
+            8580010
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.modi_8580010",
+        "Coverage": 0,
+        "Challenge": [
+            16,
+            12,
+            9
+        ],
+        "Craft": {
+            "5": 5,
+            "9": 5,
+            "13": 5,
+            "12": 10,
+            "1": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 23,
+        "UI": "",
+        "HelpImg": 113,
+        "EntryImg": 1701271,
+        "EntryName": "TxtDLC10.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701270,
+        "DlcId": 10,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC10/Widgets/uw_dlc10_btn_shop.uw_dlc10_btn_shop_C",
+            "/Game/UI/UMG/DLC10/Widgets/uw_dlc10_btn_mission.uw_dlc10_btn_mission_C",
+            53
+        ],
+        "StartTime": [
+            202409021000
+        ],
+        "EndTime": [
+            202409090400
+        ],
+        "LevelId": [
+            7311,
+            7312,
+            7313,
+            7314
+        ],
+        "LevelBuff": [
+            8580010
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.modi_8580010",
+        "Coverage": 0,
+        "Challenge": [
+            1,
+            15,
+            9
+        ],
+        "Craft": {
+            "2": 5,
+            "5": 5,
+            "14": 5,
+            "12": 10,
+            "9": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 24,
+        "UI": "",
+        "HelpImg": 113,
+        "EntryImg": 1701271,
+        "EntryName": "TxtDLC10.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701270,
+        "DlcId": 10,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC10/Widgets/uw_dlc10_btn_shop.uw_dlc10_btn_shop_C",
+            "/Game/UI/UMG/DLC10/Widgets/uw_dlc10_btn_mission.uw_dlc10_btn_mission_C",
+            53
+        ],
+        "StartTime": [
+            202409090400
+        ],
+        "EndTime": [
+            202409160400
+        ],
+        "LevelId": [
+            7321,
+            7322,
+            7323,
+            7324
+        ],
+        "LevelBuff": [
+            8580019
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.modi_8580012",
+        "Coverage": 0,
+        "Challenge": [
+            13,
+            16,
+            9
+        ],
+        "Craft": {
+            "5": 5,
+            "9": 5,
+            "15": 5,
+            "12": 10,
+            "1": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 25,
+        "UI": "",
+        "HelpImg": 126,
+        "EntryImg": 1701273,
+        "EntryName": "TxtDLC11.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701272,
+        "DlcId": 11,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC11/Widgets/uw_dlc11_btn_shop.uw_dlc11_btn_shop_C",
+            "/Game/UI/UMG/DLC11/Widgets/uw_dlc11_btn_mission.uw_dlc11_btn_mission_C",
+            58
+        ],
+        "StartTime": [
+            202410140400
+        ],
+        "EndTime": [
+            202410210400
+        ],
+        "LevelId": [
+            7411,
+            7412,
+            7413,
+            7414
+        ],
+        "LevelBuff": [
+            8510002
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.8410028",
+        "Coverage": 0,
+        "Challenge": [
+            9,
+            16,
+            12
+        ],
+        "Craft": {
+            "1": 5,
+            "5": 5,
+            "4": 5,
+            "12": 10,
+            "7": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 26,
+        "UI": "",
+        "HelpImg": 126,
+        "EntryImg": 1701273,
+        "EntryName": "TxtDLC11.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701272,
+        "DlcId": 11,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC11/Widgets/uw_dlc11_btn_shop.uw_dlc11_btn_shop_C",
+            "/Game/UI/UMG/DLC11/Widgets/uw_dlc11_btn_mission.uw_dlc11_btn_mission_C",
+            58
+        ],
+        "StartTime": [
+            202410210400
+        ],
+        "EndTime": [
+            202410280400
+        ],
+        "LevelId": [
+            7421,
+            7422,
+            7423,
+            7424
+        ],
+        "LevelBuff": [
+            8020031
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "climbtower.8020031",
+        "Coverage": 0,
+        "Challenge": [
+            1,
+            15,
+            13
+        ],
+        "Craft": {
+            "2": 5,
+            "5": 5,
+            "3": 5,
+            "12": 10,
+            "9": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 27,
+        "UI": "",
+        "HelpImg": 128,
+        "EntryImg": 1701282,
+        "EntryName": "TxtDLC12.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701281,
+        "DlcId": 23,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC12/Widgets/uw_dlc12_btn_shop.uw_dlc12_btn_shop_C",
+            "/Game/UI/UMG/DLC12/Widgets/uw_dlc12_btn_mission.uw_dlc12_btn_mission_C",
+            65
+        ],
+        "StartTime": [
+            202411181000
+        ],
+        "EndTime": [
+            202411250400
+        ],
+        "LevelId": [
+            7511,
+            7512,
+            7513,
+            7514
+        ],
+        "LevelBuff": [
+            8580019
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.modi_8580012",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            13,
+            9
+        ],
+        "Craft": {
+            "1": 5,
+            "5": 5,
+            "4": 5,
+            "12": 10,
+            "10": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 28,
+        "UI": "",
+        "HelpImg": 128,
+        "EntryImg": 1701282,
+        "EntryName": "TxtDLC12.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701281,
+        "DlcId": 23,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC12/Widgets/uw_dlc12_btn_shop.uw_dlc12_btn_shop_C",
+            "/Game/UI/UMG/DLC12/Widgets/uw_dlc12_btn_mission.uw_dlc12_btn_mission_C",
+            65
+        ],
+        "StartTime": [
+            202411250400
+        ],
+        "EndTime": [
+            202412020400
+        ],
+        "LevelId": [
+            7521,
+            7522,
+            7523,
+            7524
+        ],
+        "LevelBuff": "",
+        "LevelSkill": [
+            8630004
+        ],
+        "BuffDesc": "defenselevel.skill_8630004",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            13,
+            16
+        ],
+        "Craft": {
+            "2": 5,
+            "5": 5,
+            "3": 5,
+            "12": 10,
+            "9": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 29,
+        "UI": "",
+        "HelpImg": 150,
+        "EntryImg": 1701290,
+        "EntryName": "TxtDLC24.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701289,
+        "DlcId": 24,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC24/Widgets/uw_dlc24_btn_shop.uw_dlc24_btn_shop_C",
+            "/Game/UI/UMG/DLC24/Widgets/uw_dlc24_btn_mission.uw_dlc24_btn_mission_C",
+            72
+        ],
+        "StartTime": [
+            202412301000
+        ],
+        "EndTime": [
+            202501060400
+        ],
+        "LevelId": [
+            7611,
+            7612,
+            7613,
+            7614
+        ],
+        "LevelBuff": [
+            8580005
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.modi_8580005",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            15,
+            13
+        ],
+        "Craft": {
+            "2": 5,
+            "5": 5,
+            "6": 5,
+            "12": 10,
+            "9": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 30,
+        "UI": "",
+        "HelpImg": 150,
+        "EntryImg": 1701290,
+        "EntryName": "TxtDLC24.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701289,
+        "DlcId": 24,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC24/Widgets/uw_dlc24_btn_shop.uw_dlc24_btn_shop_C",
+            "/Game/UI/UMG/DLC24/Widgets/uw_dlc24_btn_mission.uw_dlc24_btn_mission_C",
+            72
+        ],
+        "StartTime": [
+            202501060400
+        ],
+        "EndTime": [
+            202501130400
+        ],
+        "LevelId": [
+            7621,
+            7622,
+            7623,
+            7624
+        ],
+        "LevelBuff": [
+            8580004
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.modi_8580004",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            16,
+            12
+        ],
+        "Craft": {
+            "5": 5,
+            "9": 5,
+            "3": 5,
+            "12": 10,
+            "1": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 31,
+        "UI": "",
+        "HelpImg": 156,
+        "EntryImg": 1701318,
+        "EntryName": "TxtDLC25.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701317,
+        "DlcId": 25,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC25/Widgets/uw_dlc25_btn_shop.uw_dlc25_btn_shop_C",
+            "/Game/UI/UMG/DLC25/Widgets/uw_dlc25_btn_mission.uw_dlc25_btn_mission_C",
+            82
+        ],
+        "StartTime": [
+            202502100400
+        ],
+        "EndTime": [
+            202502170400
+        ],
+        "LevelId": [
+            7711,
+            7712,
+            7713,
+            7714
+        ],
+        "LevelBuff": [
+            8510002
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.8410028",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            16,
+            9
+        ],
+        "Craft": {
+            "1": 5,
+            "5": 5,
+            "9": 5,
+            "12": 10,
+            "7": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 32,
+        "UI": "",
+        "HelpImg": 156,
+        "EntryImg": 1701318,
+        "EntryName": "TxtDLC25.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701317,
+        "DlcId": 25,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC25/Widgets/uw_dlc25_btn_shop.uw_dlc25_btn_shop_C",
+            "/Game/UI/UMG/DLC25/Widgets/uw_dlc25_btn_mission.uw_dlc25_btn_mission_C",
+            82
+        ],
+        "StartTime": [
+            202502170400
+        ],
+        "EndTime": [
+            202502240400
+        ],
+        "LevelId": [
+            7721,
+            7722,
+            7723,
+            7724
+        ],
+        "LevelBuff": [
+            8580006
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.modi_8580006",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            15,
+            13
+        ],
+        "Craft": {
+            "2": 5,
+            "5": 5,
+            "3": 5,
+            "12": 10,
+            "9": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 33,
+        "UI": "",
+        "HelpImg": 167,
+        "EntryImg": 1701249,
+        "EntryName": "TxtDLC26.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701250,
+        "DlcId": 26,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC26/Widgets/uw_dlc26_btn_shop.uw_dlc26_btn_shop_C",
+            "/Game/UI/UMG/DLC26/Widgets/uw_dlc26_btn_mission.uw_dlc26_btn_mission_C",
+            88
+        ],
+        "StartTime": [
+            202503171000
+        ],
+        "EndTime": [
+            202503240400
+        ],
+        "LevelId": [
+            7811,
+            7812,
+            7813,
+            7814
+        ],
+        "LevelBuff": [
+            8020915
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "climbtower.8020915",
+        "Coverage": 0,
+        "Challenge": [
+            1,
+            3,
+            12
+        ],
+        "Craft": {
+            "2": 5,
+            "12": 5,
+            "6": 5,
+            "5": 5,
+            "10": 20
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 34,
+        "UI": "",
+        "HelpImg": 167,
+        "EntryImg": 1701249,
+        "EntryName": "TxtDLC26.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701250,
+        "DlcId": 26,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC26/Widgets/uw_dlc26_btn_shop.uw_dlc26_btn_shop_C",
+            "/Game/UI/UMG/DLC26/Widgets/uw_dlc26_btn_mission.uw_dlc26_btn_mission_C",
+            88
+        ],
+        "StartTime": [
+            202503240400
+        ],
+        "EndTime": [
+            202503310400
+        ],
+        "LevelId": [
+            7821,
+            7822,
+            7823,
+            7824
+        ],
+        "LevelBuff": [
+            8580010
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.modi_8580010",
+        "Coverage": 0,
+        "Challenge": [
+            1,
+            6,
+            9
+        ],
+        "Craft": {
+            "1": 5,
+            "7": 5,
+            "5": 10,
+            "8": 10,
+            "10": 20
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 35,
+        "UI": "",
+        "HelpImg": 177,
+        "EntryImg": 1701266,
+        "EntryName": "TxtDLC27.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701265,
+        "DlcId": 27,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC27/Widgets/uw_dlc27_btn_shop.uw_dlc27_btn_shop_C",
+            "/Game/UI/UMG/DLC27/Widgets/uw_dlc27_btn_mission.uw_dlc27_btn_mission_C",
+            96
+        ],
+        "StartTime": [
+            202505120400
+        ],
+        "EndTime": [
+            202505190400
+        ],
+        "LevelId": [
+            7911,
+            7912,
+            7913,
+            7914
+        ],
+        "LevelBuff": [
+            8580005
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.modi_8580005",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            15,
+            13
+        ],
+        "Craft": {
+            "2": 5,
+            "5": 5,
+            "6": 5,
+            "12": 10,
+            "9": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 36,
+        "UI": "",
+        "HelpImg": 177,
+        "EntryImg": 1701266,
+        "EntryName": "TxtDLC27.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701265,
+        "DlcId": 27,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC27/Widgets/uw_dlc27_btn_shop.uw_dlc27_btn_shop_C",
+            "/Game/UI/UMG/DLC27/Widgets/uw_dlc27_btn_mission.uw_dlc27_btn_mission_C",
+            96
+        ],
+        "StartTime": [
+            202505190400
+        ],
+        "EndTime": [
+            202505260400
+        ],
+        "LevelId": [
+            7911,
+            7912,
+            7913,
+            7914
+        ],
+        "LevelBuff": [
+            8580004
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.modi_8580004",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            16,
+            12
+        ],
+        "Craft": {
+            "5": 5,
+            "9": 5,
+            "3": 5,
+            "12": 10,
+            "1": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 37,
+        "UI": "",
+        "HelpImg": 178,
+        "EntryImg": 1701282,
+        "EntryName": "TxtDLC28.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701281,
+        "DlcId": 28,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC28/Widgets/uw_dlc28_btn_shop.uw_dlc28_btn_shop_C",
+            "/Game/UI/UMG/DLC28/Widgets/uw_dlc28_btn_mission.uw_dlc28_btn_mission_C",
+            104
+        ],
+        "StartTime": [
+            202506160400
+        ],
+        "EndTime": [
+            202506230400
+        ],
+        "LevelId": [
+            71001,
+            71002,
+            71003,
+            71004
+        ],
+        "LevelBuff": [
+            8580019
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.modi_8580012",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            13,
+            15
+        ],
+        "Craft": {
+            "1": 5,
+            "5": 5,
+            "3": 5,
+            "12": 10,
+            "10": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 38,
+        "UI": "",
+        "HelpImg": 178,
+        "EntryImg": 1701282,
+        "EntryName": "TxtDLC28.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701281,
+        "DlcId": 28,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC28/Widgets/uw_dlc28_btn_shop.uw_dlc28_btn_shop_C",
+            "/Game/UI/UMG/DLC28/Widgets/uw_dlc28_btn_mission.uw_dlc28_btn_mission_C",
+            104
+        ],
+        "StartTime": [
+            202506230400
+        ],
+        "EndTime": [
+            202506300400
+        ],
+        "LevelId": [
+            71001,
+            71002,
+            71003,
+            71004
+        ],
+        "LevelBuff": "",
+        "LevelSkill": [
+            8630004
+        ],
+        "BuffDesc": "defenselevel.skill_8630004",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            13,
+            15
+        ],
+        "Craft": {
+            "1": 5,
+            "5": 5,
+            "3": 5,
+            "12": 10,
+            "10": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 39,
+        "UI": "",
+        "HelpImg": 200,
+        "EntryImg": 1701387,
+        "EntryName": "TxtDLC30.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701386,
+        "DlcId": 30,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC30/Widgets/uw_dlc30_btn_shop2.uw_dlc30_btn_shop2_C",
+            "/Game/UI/UMG/DLC30/Widgets/uw_dlc30_btn_mission2.uw_dlc30_btn_mission2_C",
+            113
+        ],
+        "StartTime": [
+            202508040400
+        ],
+        "EndTime": [
+            202508110400
+        ],
+        "LevelId": [
+            71011,
+            71012,
+            71013,
+            71014
+        ],
+        "LevelBuff": [
+            8510101,
+            8510103,
+            8510104
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.Def_DLC30_39_Des",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            9,
+            13
+        ],
+        "Craft": {
+            "1": 5,
+            "5": 5,
+            "9": 5,
+            "12": 10,
+            "7": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 40,
+        "UI": "",
+        "HelpImg": 200,
+        "EntryImg": 1701387,
+        "EntryName": "TxtDLC30.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701386,
+        "DlcId": 30,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC30/Widgets/uw_dlc30_btn_shop2.uw_dlc30_btn_shop2_C",
+            "/Game/UI/UMG/DLC30/Widgets/uw_dlc30_btn_mission2.uw_dlc30_btn_mission2_C",
+            113
+        ],
+        "StartTime": [
+            202508110400
+        ],
+        "EndTime": [
+            202508180400
+        ],
+        "LevelId": [
+            71011,
+            71012,
+            71013,
+            71014
+        ],
+        "LevelBuff": [
+            8510106,
+            8510103,
+            8510107
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.Def_DLC30_40_Des",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            15,
+            13
+        ],
+        "Craft": {
+            "2": 5,
+            "5": 5,
+            "3": 5,
+            "12": 10,
+            "9": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 41,
+        "UI": "",
+        "HelpImg": 212,
+        "EntryImg": 1701402,
+        "EntryName": "TxtDLC31.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701401,
+        "DlcId": 31,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC31/Widgets/uw_dlc31_btn_shop.uw_dlc31_btn_shop_C",
+            "/Game/UI/UMG/DLC31/Widgets/uw_dlc31_btn_mission.uw_dlc31_btn_mission_C",
+            120
+        ],
+        "StartTime": [
+            202509010400
+        ],
+        "EndTime": [
+            202509080400
+        ],
+        "LevelId": [
+            71021,
+            71022,
+            71023,
+            71024
+        ],
+        "LevelBuff": [
+            8510301,
+            8510302
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.Def_DLC31_41_Des",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            9,
+            13
+        ],
+        "Craft": {
+            "1": 5,
+            "5": 5,
+            "9": 5,
+            "12": 10,
+            "7": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 42,
+        "UI": "",
+        "HelpImg": 212,
+        "EntryImg": 1701402,
+        "EntryName": "TxtDLC31.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701401,
+        "DlcId": 31,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC31/Widgets/uw_dlc31_btn_shop.uw_dlc31_btn_shop_C",
+            "/Game/UI/UMG/DLC31/Widgets/uw_dlc31_btn_mission.uw_dlc31_btn_mission_C",
+            120
+        ],
+        "StartTime": [
+            202509080400
+        ],
+        "EndTime": [
+            202509150400
+        ],
+        "LevelId": [
+            71021,
+            71022,
+            71023,
+            71024
+        ],
+        "LevelBuff": [
+            8510304,
+            8510307
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.Def_DLC31_42_Des",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            15,
+            13
+        ],
+        "Craft": {
+            "2": 5,
+            "5": 5,
+            "3": 5,
+            "12": 10,
+            "9": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 43,
+        "UI": "",
+        "HelpImg": 218,
+        "EntryImg": 1701405,
+        "EntryName": "TxtDLC32.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701404,
+        "DlcId": 32,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC32/Widgets/uw_dlc32_btn_shop.uw_dlc32_btn_shop_C",
+            "/Game/UI/UMG/DLC32/Widgets/uw_dlc32_btn_mission.uw_dlc32_btn_mission_C",
+            128
+        ],
+        "StartTime": [
+            202510060400
+        ],
+        "EndTime": [
+            202510130400
+        ],
+        "LevelId": [
+            71031,
+            71032,
+            71033,
+            71034
+        ],
+        "LevelBuff": [
+            8510309,
+            8510310,
+            8510311
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.Def_DLC32_43_Des",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            3,
+            13
+        ],
+        "Craft": {
+            "1": 5,
+            "9": 5,
+            "3": 5,
+            "12": 10,
+            "6": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 44,
+        "UI": "",
+        "HelpImg": 218,
+        "EntryImg": 1701405,
+        "EntryName": "TxtDLC32.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701404,
+        "DlcId": 32,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC32/Widgets/uw_dlc32_btn_shop.uw_dlc32_btn_shop_C",
+            "/Game/UI/UMG/DLC32/Widgets/uw_dlc32_btn_mission.uw_dlc32_btn_mission_C",
+            128
+        ],
+        "StartTime": [
+            202510130400
+        ],
+        "EndTime": [
+            202510200400
+        ],
+        "LevelId": [
+            71031,
+            71032,
+            71033,
+            71034
+        ],
+        "LevelBuff": [
+            8510312,
+            8510315,
+            8510318
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.Def_DLC32_44_Des",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            3,
+            13
+        ],
+        "Craft": {
+            "1": 5,
+            "9": 5,
+            "3": 5,
+            "12": 10,
+            "6": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 45,
+        "UI": "",
+        "HelpImg": 247,
+        "EntryImg": 1701428,
+        "EntryName": "TxtDLC33.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701427,
+        "DlcId": 33,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC33/Widgets/uw_DLC33_btn_shop.uw_DLC33_btn_shop_C",
+            "/Game/UI/UMG/DLC33/Widgets/uw_DLC33_btn_mission.uw_DLC33_btn_mission_C",
+            135
+        ],
+        "StartTime": [
+            202511170400
+        ],
+        "EndTime": [
+            202511240400
+        ],
+        "LevelId": [
+            71041,
+            71042,
+            71043,
+            71044
+        ],
+        "LevelBuff": [
+            8580020,
+            8580022,
+            8580023
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.Def_DLC33_45_Des",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            9,
+            13
+        ],
+        "Craft": {
+            "2": 5,
+            "9": 5,
+            "4": 5,
+            "12": 10,
+            "14": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 46,
+        "UI": "",
+        "HelpImg": 247,
+        "EntryImg": 1701428,
+        "EntryName": "TxtDLC33.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701427,
+        "DlcId": 33,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC33/Widgets/uw_DLC33_btn_shop.uw_DLC33_btn_shop_C",
+            "/Game/UI/UMG/DLC33/Widgets/uw_DLC33_btn_mission.uw_DLC33_btn_mission_C",
+            135
+        ],
+        "StartTime": [
+            202511240400
+        ],
+        "EndTime": [
+            202512010400
+        ],
+        "LevelId": [
+            71041,
+            71042,
+            71043,
+            71044
+        ],
+        "LevelBuff": [
+            8580021,
+            8580024,
+            8580025
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.Def_DLC33_46_Des",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            14,
+            13
+        ],
+        "Craft": {
+            "2": 5,
+            "9": 5,
+            "3": 5,
+            "12": 10,
+            "15": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 47,
+        "UI": "",
+        "HelpImg": 256,
+        "EntryImg": 1701455,
+        "EntryName": "TxtDLC34.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701454,
+        "DlcId": 34,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC34/Widgets/uw_DLC34_btn_shop.uw_DLC34_btn_shop_C",
+            "/Game/UI/UMG/DLC34/Widgets/uw_DLC34_btn_mission.uw_DLC34_btn_mission_C",
+            142
+        ],
+        "StartTime": [
+            202601120400
+        ],
+        "EndTime": [
+            202601190400
+        ],
+        "LevelId": [
+            71051,
+            71052,
+            71053,
+            71054
+        ],
+        "LevelBuff": [
+            8510323,
+            8510324,
+            8510325
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.Def_DLC34_47_Des",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            15,
+            16
+        ],
+        "Craft": {
+            "1": 5,
+            "9": 5,
+            "3": 5,
+            "12": 10,
+            "15": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 48,
+        "UI": "",
+        "HelpImg": 256,
+        "EntryImg": 1701455,
+        "EntryName": "TxtDLC34.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701454,
+        "DlcId": 34,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC34/Widgets/uw_DLC34_btn_shop.uw_DLC34_btn_shop_C",
+            "/Game/UI/UMG/DLC34/Widgets/uw_DLC34_btn_mission.uw_DLC34_btn_mission_C",
+            142
+        ],
+        "StartTime": [
+            202601190400
+        ],
+        "EndTime": [
+            202601260400
+        ],
+        "LevelId": [
+            71051,
+            71052,
+            71053,
+            71054
+        ],
+        "LevelBuff": [
+            8510326,
+            8510327,
+            8580025
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.Def_DLC34_48_Des",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            15,
+            9
+        ],
+        "Craft": {
+            "1": 5,
+            "9": 5,
+            "3": 5,
+            "12": 10,
+            "7": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 49,
+        "UI": "",
+        "HelpImg": 260,
+        "EntryImg": 1701485,
+        "EntryName": "TxtDLC35.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701484,
+        "DlcId": 35,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC35/Widgets/uw_DLC35_btn_shop.uw_DLC35_btn_shop_C",
+            "/Game/UI/UMG/DLC35/Widgets/uw_DLC35_btn_mission.uw_DLC35_btn_mission_C",
+            149
+        ],
+        "StartTime": [
+            202602230400
+        ],
+        "EndTime": [
+            202603020400
+        ],
+        "LevelId": [
+            71061,
+            71062,
+            71063,
+            71064
+        ],
+        "LevelBuff": [
+            8510332,
+            8510333,
+            8510325
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.Def_DLC35_49_Des",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            15,
+            16
+        ],
+        "Craft": {
+            "1": 5,
+            "9": 5,
+            "3": 5,
+            "12": 10,
+            "13": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 50,
+        "UI": "",
+        "HelpImg": 260,
+        "EntryImg": 1701485,
+        "EntryName": "TxtDLC35.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701484,
+        "DlcId": 35,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC35/Widgets/uw_DLC35_btn_shop.uw_DLC35_btn_shop_C",
+            "/Game/UI/UMG/DLC35/Widgets/uw_DLC35_btn_mission.uw_DLC35_btn_mission_C",
+            149
+        ],
+        "StartTime": [
+            202603020400
+        ],
+        "EndTime": [
+            202603090400
+        ],
+        "LevelId": [
+            71061,
+            71062,
+            71063,
+            71064
+        ],
+        "LevelBuff": [
+            8510335,
+            8510302,
+            8580025
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.Def_DLC35_50_Des",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            15,
+            16
+        ],
+        "Craft": {
+            "1": 5,
+            "9": 5,
+            "3": 5,
+            "12": 10,
+            "13": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 51,
+        "UI": "",
+        "HelpImg": 260,
+        "EntryImg": 1701501,
+        "EntryName": "TxtDLC36.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701500,
+        "DlcId": 36,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC36/Widgets/uw_DLC36_btn_shop.uw_DLC36_btn_shop_C",
+            "/Game/UI/UMG/DLC36/Widgets/uw_DLC36_btn_mission.uw_DLC36_btn_mission_C",
+            157
+        ],
+        "StartTime": [
+            202603120400
+        ],
+        "EndTime": [
+            202604150400
+        ],
+        "LevelId": [
+            71071,
+            71072,
+            71073,
+            71074
+        ],
+        "LevelBuff": [
+            8510339,
+            8510340,
+            8510341
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.Def_DLC36_51_Des",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            9,
+            16
+        ],
+        "Craft": {
+            "1": 5,
+            "9": 5,
+            "3": 5,
+            "12": 10,
+            "6": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    },
+    {
+        "ID": 52,
+        "UI": "",
+        "HelpImg": 260,
+        "EntryImg": 1701501,
+        "EntryName": "TxtDLC36.BtnDefense",
+        "NameImg": "",
+        "BgImg": 1701500,
+        "DlcId": 36,
+        "DlcInfo": [
+            "/Game/UI/UMG/DLC36/Widgets/uw_DLC36_btn_shop.uw_DLC36_btn_shop_C",
+            "/Game/UI/UMG/DLC36/Widgets/uw_DLC36_btn_mission.uw_DLC36_btn_mission_C",
+            157
+        ],
+        "StartTime": [
+            202604150400
+        ],
+        "EndTime": [
+            202605120400
+        ],
+        "LevelId": [
+            71071,
+            71072,
+            71073,
+            71074
+        ],
+        "LevelBuff": [
+            8510342,
+            8510343,
+            8510344
+        ],
+        "LevelSkill": "",
+        "BuffDesc": "defenselevel.Def_DLC36_52_Des",
+        "Coverage": 0,
+        "Challenge": [
+            18,
+            15,
+            16
+        ],
+        "Craft": {
+            "1": 5,
+            "9": 5,
+            "3": 5,
+            "12": 10,
+            "14": 10
+        },
+        "KillCountDown": [
+            16,
+            14,
+            12,
+            10
+        ]
+    }
+]

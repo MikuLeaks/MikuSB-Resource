@@ -1,0 +1,209 @@
+[
+    {
+        "ID": 1,
+        "UiType": 1,
+        "GroupID": 1,
+        "ChapterID": "",
+        "ChapterType": "",
+        "ChapterGroupDes": "ui.TxtChapterGroup1",
+        "Difficult": 1
+    },
+    {
+        "ID": 2,
+        "UiType": 1,
+        "GroupID": 1,
+        "ChapterID": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "ChapterType": 4,
+        "ChapterGroupDes": "ui.TxtChapterGroup2",
+        "Difficult": 1
+    },
+    {
+        "ID": 3,
+        "UiType": 1,
+        "GroupID": 1,
+        "ChapterID": [
+            5,
+            6,
+            7,
+            8
+        ],
+        "ChapterType": 4,
+        "ChapterGroupDes": "ui.TxtChapterGroup3",
+        "Difficult": 1
+    },
+    {
+        "ID": 4,
+        "UiType": 1,
+        "GroupID": 1,
+        "ChapterID": [
+            9,
+            10,
+            11
+        ],
+        "ChapterType": 3,
+        "ChapterGroupDes": "ui.TxtChapterGroup4",
+        "Difficult": 1
+    },
+    {
+        "ID": 5,
+        "UiType": 1,
+        "GroupID": 5,
+        "ChapterID": [
+            12,
+            13,
+            14
+        ],
+        "ChapterType": 3,
+        "ChapterGroupDes": "ui.TxtChapterGroup5",
+        "Difficult": 1
+    },
+    {
+        "ID": 6,
+        "UiType": 1,
+        "GroupID": 6,
+        "ChapterID": [
+            15,
+            16,
+            17
+        ],
+        "ChapterType": 3,
+        "ChapterGroupDes": "ui.TxtChapterGroup6",
+        "Difficult": 1
+    },
+    {
+        "ID": 7,
+        "UiType": 1,
+        "GroupID": 7,
+        "ChapterID": [
+            18,
+            19
+        ],
+        "ChapterType": 2,
+        "ChapterGroupDes": "ui.TxtChapterGroup7",
+        "Difficult": 1
+    },
+    {
+        "ID": 8,
+        "UiType": 2,
+        "GroupID": 8,
+        "ChapterID": [
+            20
+        ],
+        "ChapterType": 1,
+        "ChapterGroupDes": "ui.TxtChapterGroup8",
+        "Difficult": 1
+    },
+    {
+        "ID": 9,
+        "UiType": 2,
+        "GroupID": 9,
+        "ChapterID": [
+            21,
+            22,
+            23,
+            24
+        ],
+        "ChapterType": 4,
+        "ChapterGroupDes": "ui.TxtChapterGroup9",
+        "Difficult": 1
+    },
+    {
+        "ID": 10,
+        "UiType": 2,
+        "GroupID": 10,
+        "ChapterID": [
+            26,
+            27
+        ],
+        "ChapterType": 2,
+        "ChapterGroupDes": "ui.TxtChapterGroup11",
+        "Difficult": 1
+    },
+    {
+        "ID": 11,
+        "UiType": 2,
+        "GroupID": 11,
+        "ChapterID": [
+            28,
+            29
+        ],
+        "ChapterType": 2,
+        "ChapterGroupDes": "ui.TxtChapterGroup12",
+        "Difficult": 1
+    },
+    {
+        "ID": 99,
+        "UiType": 2,
+        "GroupID": 99,
+        "ChapterID": [
+            25
+        ],
+        "ChapterType": 1,
+        "ChapterGroupDes": "ui.TxtChapterGroup10",
+        "Difficult": 1
+    },
+    {
+        "ID": 100,
+        "UiType": 2,
+        "GroupID": 100,
+        "ChapterID": "",
+        "ChapterType": 1,
+        "ChapterGroupDes": "",
+        "Difficult": 1
+    },
+    {
+        "ID": 101,
+        "UiType": 3,
+        "GroupID": 101,
+        "ChapterID": "",
+        "ChapterType": "",
+        "ChapterGroupDes": "ui.TxtChapterGroup1",
+        "Difficult": 2
+    },
+    {
+        "ID": 102,
+        "UiType": 3,
+        "GroupID": 101,
+        "ChapterID": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "ChapterType": 4,
+        "ChapterGroupDes": "ui.TxtChapterGroup2",
+        "Difficult": 2
+    },
+    {
+        "ID": 103,
+        "UiType": 3,
+        "GroupID": 101,
+        "ChapterID": [
+            5,
+            6,
+            7,
+            8
+        ],
+        "ChapterType": 4,
+        "ChapterGroupDes": "ui.TxtChapterGroup3",
+        "Difficult": 2
+    },
+    {
+        "ID": 104,
+        "UiType": 3,
+        "GroupID": 101,
+        "ChapterID": [
+            9,
+            10,
+            11
+        ],
+        "ChapterType": 3,
+        "ChapterGroupDes": "ui.TxtChapterGroup4",
+        "Difficult": 2
+    }
+]

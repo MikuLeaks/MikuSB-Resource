@@ -1,0 +1,3908 @@
+[
+    {
+        "Index": 1,
+        "GroupId": 101,
+        "PointName": "mon01_1_1",
+        "Position": [
+            28273.5,
+            22202.1,
+            229.4
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 2,
+        "GroupId": 101,
+        "PointName": "mon01_1_2",
+        "Position": [
+            27643.6,
+            21713.4,
+            242.4
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 3,
+        "GroupId": 102,
+        "PointName": "mon01_2_1",
+        "Position": [
+            23638.4,
+            17070.3,
+            887.7
+        ],
+        "RegionId": 0,
+        "MonId": 400130301,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 4,
+        "GroupId": 102,
+        "PointName": "mon01_2_2",
+        "Position": [
+            23497.5,
+            18531.0,
+            1110.5
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 5,
+        "GroupId": 102,
+        "PointName": "mon01_2_3",
+        "Position": [
+            23057.7,
+            17971.5,
+            864.1
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 6,
+        "GroupId": 103,
+        "PointName": "mon01_3_1",
+        "Position": [
+            26514.3,
+            23227.2,
+            1058.7
+        ],
+        "RegionId": 0,
+        "MonId": 400130301,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 7,
+        "GroupId": 103,
+        "PointName": "mon01_3_2",
+        "Position": [
+            26235.5,
+            22819.4,
+            1058.6
+        ],
+        "RegionId": 0,
+        "MonId": 400130301,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 8,
+        "GroupId": 104,
+        "PointName": "mon01_4_1",
+        "Position": [
+            18658.8,
+            11473.4,
+            2710.4
+        ],
+        "RegionId": 0,
+        "MonId": 500130501,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 9,
+        "GroupId": 104,
+        "PointName": "mon01_4_2",
+        "Position": [
+            17764.8,
+            10114.2,
+            2869.1
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 10,
+        "GroupId": 104,
+        "PointName": "mon01_4_3",
+        "Position": [
+            18786.3,
+            10741.9,
+            2769.3
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 11,
+        "GroupId": 104,
+        "PointName": "mon01_4_4",
+        "Position": [
+            18398.2,
+            11295.5,
+            2786.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 12,
+        "GroupId": 105,
+        "PointName": "mon01_5_1",
+        "Position": [
+            20653.8,
+            18507.1,
+            2232.2
+        ],
+        "RegionId": 0,
+        "MonId": 400130301,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 13,
+        "GroupId": 105,
+        "PointName": "mon01_5_2",
+        "Position": [
+            20966.3,
+            18973.9,
+            2276.9
+        ],
+        "RegionId": 0,
+        "MonId": 400130301,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 14,
+        "GroupId": 106,
+        "PointName": "mon01_6_1",
+        "Position": [
+            18472.1,
+            17511.6,
+            2317.4
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 15,
+        "GroupId": 107,
+        "PointName": "mon01_7_1",
+        "Position": [
+            32245.8,
+            14582.3,
+            202.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 16,
+        "GroupId": 107,
+        "PointName": "mon01_7_2",
+        "Position": [
+            32227.2,
+            14858.5,
+            129.6
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 17,
+        "GroupId": 108,
+        "PointName": "mon01_8_1",
+        "Position": [
+            22931.1,
+            9882.4,
+            1553.3
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 18,
+        "GroupId": 108,
+        "PointName": "mon01_8_2",
+        "Position": [
+            23194.9,
+            9393.5,
+            1557.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 19,
+        "GroupId": 108,
+        "PointName": "mon01_8_3",
+        "Position": [
+            22976.0,
+            10504.0,
+            1557.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 20,
+        "GroupId": 109,
+        "PointName": "mon01_9_1",
+        "Position": [
+            23413.0,
+            5474.2,
+            2055.9
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 21,
+        "GroupId": 109,
+        "PointName": "mon01_9_2",
+        "Position": [
+            23381.6,
+            5780.3,
+            2055.9
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 1,
+        "DropGroup": 0
+    },
+    {
+        "Index": 22,
+        "GroupId": 201,
+        "PointName": "mon02_1_1",
+        "Position": [
+            10492.2,
+            -6228.0,
+            1210.1
+        ],
+        "RegionId": 0,
+        "MonId": 500130201,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 23,
+        "GroupId": 201,
+        "PointName": "mon02_1_2",
+        "Position": [
+            9810.2,
+            -6509.6,
+            1172.9
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 24,
+        "GroupId": 201,
+        "PointName": "mon02_1_3",
+        "Position": [
+            10496.3,
+            -7009.9,
+            1170.1
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 25,
+        "GroupId": 201,
+        "PointName": "mon02_1_4",
+        "Position": [
+            11145.9,
+            -6550.8,
+            1170.1
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 26,
+        "GroupId": 202,
+        "PointName": "mon02_2_1",
+        "Position": [
+            17624.2,
+            -5009.1,
+            244.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 27,
+        "GroupId": 202,
+        "PointName": "mon02_2_2",
+        "Position": [
+            18251.2,
+            -5149.6,
+            244.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 28,
+        "GroupId": 203,
+        "PointName": "mon02_3_1",
+        "Position": [
+            21724.9,
+            -11869.6,
+            243.0
+        ],
+        "RegionId": 0,
+        "MonId": 500201003,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 29,
+        "GroupId": 203,
+        "PointName": "mon02_3_2",
+        "Position": [
+            22579.7,
+            -11581.2,
+            243.0
+        ],
+        "RegionId": 0,
+        "MonId": 500101002,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 30,
+        "GroupId": 203,
+        "PointName": "mon02_3_3",
+        "Position": [
+            22661.2,
+            -12238.2,
+            243.0
+        ],
+        "RegionId": 0,
+        "MonId": 400100403,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 31,
+        "GroupId": 203,
+        "PointName": "mon02_3_4",
+        "Position": [
+            21762.3,
+            -11166.9,
+            243.0
+        ],
+        "RegionId": 0,
+        "MonId": 400100403,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 32,
+        "GroupId": 203,
+        "PointName": "mon02_3_5",
+        "Position": [
+            22720.6,
+            -10815.4,
+            243.0
+        ],
+        "RegionId": 0,
+        "MonId": 400100403,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 33,
+        "GroupId": 203,
+        "PointName": "mon02_3_6",
+        "Position": [
+            22496.0,
+            -12815.5,
+            497.2
+        ],
+        "RegionId": 0,
+        "MonId": 4001002,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 34,
+        "GroupId": 204,
+        "PointName": "mon02_4_1",
+        "Position": [
+            25519.6,
+            -7744.3,
+            520.6
+        ],
+        "RegionId": 0,
+        "MonId": 4002002,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 35,
+        "GroupId": 204,
+        "PointName": "mon02_4_2",
+        "Position": [
+            25904.5,
+            -7421.3,
+            66.8
+        ],
+        "RegionId": 0,
+        "MonId": 4003007,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 36,
+        "GroupId": 204,
+        "PointName": "mon02_4_3",
+        "Position": [
+            25523.3,
+            -7243.0,
+            66.8
+        ],
+        "RegionId": 0,
+        "MonId": 4003007,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 37,
+        "GroupId": 205,
+        "PointName": "mon02_5_1",
+        "Position": [
+            26818.8,
+            -15077.5,
+            535.5
+        ],
+        "RegionId": 0,
+        "MonId": 4001002,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 38,
+        "GroupId": 205,
+        "PointName": "mon02_5_2",
+        "Position": [
+            26770.1,
+            -14551.5,
+            81.6
+        ],
+        "RegionId": 0,
+        "MonId": 400100601,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 39,
+        "GroupId": 205,
+        "PointName": "mon02_5_3",
+        "Position": [
+            26447.5,
+            -14832.1,
+            81.6
+        ],
+        "RegionId": 0,
+        "MonId": 400100601,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 40,
+        "GroupId": 206,
+        "PointName": "mon02_6_1",
+        "Position": [
+            27502.8,
+            -19507.2,
+            217.3
+        ],
+        "RegionId": 0,
+        "MonId": 5001001,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 41,
+        "GroupId": 206,
+        "PointName": "mon02_6_2",
+        "Position": [
+            27465.4,
+            -20151.7,
+            217.3
+        ],
+        "RegionId": 0,
+        "MonId": 400100403,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 42,
+        "GroupId": 206,
+        "PointName": "mon02_6_3",
+        "Position": [
+            27710.2,
+            -19238.0,
+            217.3
+        ],
+        "RegionId": 0,
+        "MonId": 400100403,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 43,
+        "GroupId": 206,
+        "PointName": "mon02_6_4",
+        "Position": [
+            27041.7,
+            -19270.1,
+            217.3
+        ],
+        "RegionId": 0,
+        "MonId": 400100403,
+        "DRegion": 2,
+        "DropGroup": 0
+    },
+    {
+        "Index": 44,
+        "GroupId": 301,
+        "PointName": "mon03_1_1",
+        "Position": [
+            39793.8,
+            -20459.7,
+            438.3
+        ],
+        "RegionId": 0,
+        "MonId": 500130701,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 45,
+        "GroupId": 301,
+        "PointName": "mon03_1_2",
+        "Position": [
+            40084.6,
+            -20957.6,
+            438.3
+        ],
+        "RegionId": 0,
+        "MonId": 400130301,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 46,
+        "GroupId": 301,
+        "PointName": "mon03_1_3",
+        "Position": [
+            40058.2,
+            -20078.9,
+            438.3
+        ],
+        "RegionId": 0,
+        "MonId": 400130301,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 47,
+        "GroupId": 302,
+        "PointName": "mon03_2_1",
+        "Position": [
+            39575.4,
+            -15179.0,
+            220.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 48,
+        "GroupId": 302,
+        "PointName": "mon03_2_2",
+        "Position": [
+            39944.6,
+            -14976.0,
+            220.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 49,
+        "GroupId": 303,
+        "PointName": "mon03_3_1",
+        "Position": [
+            42941.4,
+            -26368.9,
+            220.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 50,
+        "GroupId": 303,
+        "PointName": "mon03_3_2",
+        "Position": [
+            42576.2,
+            -26404.0,
+            342.8
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 51,
+        "GroupId": 304,
+        "PointName": "mon03_4_1",
+        "Position": [
+            38870.1,
+            -25312.2,
+            342.7
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 52,
+        "GroupId": 304,
+        "PointName": "mon03_4_2",
+        "Position": [
+            38797.3,
+            -25129.2,
+            220.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 53,
+        "GroupId": 304,
+        "PointName": "mon03_4_3",
+        "Position": [
+            39259.1,
+            -25451.8,
+            220.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 54,
+        "GroupId": 305,
+        "PointName": "mon03_5_1",
+        "Position": [
+            42071.2,
+            -14440.6,
+            220.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 55,
+        "GroupId": 305,
+        "PointName": "mon03_5_2",
+        "Position": [
+            41862.9,
+            -14485.8,
+            220.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 56,
+        "GroupId": 305,
+        "PointName": "mon03_5_3",
+        "Position": [
+            42364.3,
+            -14433.8,
+            220.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 57,
+        "GroupId": 306,
+        "PointName": "mon03_6_1",
+        "Position": [
+            45132.9,
+            -20164.7,
+            438.3
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 58,
+        "GroupId": 306,
+        "PointName": "mon03_6_2",
+        "Position": [
+            45132.9,
+            -20634.0,
+            438.3
+        ],
+        "RegionId": 0,
+        "MonId": 400130301,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 59,
+        "GroupId": 307,
+        "PointName": "mon03_7_1",
+        "Position": [
+            48850.8,
+            -16209.8,
+            217.5
+        ],
+        "RegionId": 0,
+        "MonId": 400130602,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 60,
+        "GroupId": 307,
+        "PointName": "mon03_7_2",
+        "Position": [
+            48627.1,
+            -15969.9,
+            217.5
+        ],
+        "RegionId": 0,
+        "MonId": 400130602,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 61,
+        "GroupId": 308,
+        "PointName": "mon03_8_1",
+        "Position": [
+            48607.7,
+            -25099.7,
+            217.5
+        ],
+        "RegionId": 0,
+        "MonId": 400130602,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 62,
+        "GroupId": 308,
+        "PointName": "mon03_8_2",
+        "Position": [
+            48958.5,
+            -24809.2,
+            217.5
+        ],
+        "RegionId": 0,
+        "MonId": 400130602,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 63,
+        "GroupId": 309,
+        "PointName": "mon03_9_1",
+        "Position": [
+            55125.4,
+            -20451.1,
+            219.4
+        ],
+        "RegionId": 0,
+        "MonId": 500130201,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 64,
+        "GroupId": 309,
+        "PointName": "mon03_9_2",
+        "Position": [
+            55360.7,
+            -20679.6,
+            219.4
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 65,
+        "GroupId": 309,
+        "PointName": "mon03_9_3",
+        "Position": [
+            55360.7,
+            -20202.3,
+            219.4
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 3,
+        "DropGroup": 0
+    },
+    {
+        "Index": 66,
+        "GroupId": 401,
+        "PointName": "mon04_1_1",
+        "Position": [
+            34875.5,
+            -31862.5,
+            184.2
+        ],
+        "RegionId": 0,
+        "MonId": 400130602,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 67,
+        "GroupId": 401,
+        "PointName": "mon04_1_2",
+        "Position": [
+            35436.3,
+            -31079.7,
+            184.2
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 68,
+        "GroupId": 401,
+        "PointName": "mon04_1_3",
+        "Position": [
+            35810.5,
+            -31546.7,
+            184.2
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 69,
+        "GroupId": 402,
+        "PointName": "mon04_2_1",
+        "Position": [
+            28731.4,
+            -34354.8,
+            285.8
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 70,
+        "GroupId": 402,
+        "PointName": "mon04_2_2",
+        "Position": [
+            28403.4,
+            -33944.8,
+            262.6
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 71,
+        "GroupId": 403,
+        "PointName": "mon04_3_1",
+        "Position": [
+            23631.4,
+            -37707.6,
+            147.2
+        ],
+        "RegionId": 0,
+        "MonId": 400100304,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 72,
+        "GroupId": 403,
+        "PointName": "mon04_3_2",
+        "Position": [
+            24433.6,
+            -37707.6,
+            147.2
+        ],
+        "RegionId": 0,
+        "MonId": 400100403,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 73,
+        "GroupId": 404,
+        "PointName": "mon04_4_1",
+        "Position": [
+            19359.6,
+            -39186.5,
+            247.2
+        ],
+        "RegionId": 0,
+        "MonId": 400100601,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 74,
+        "GroupId": 404,
+        "PointName": "mon04_4_2",
+        "Position": [
+            20392.4,
+            -39186.5,
+            247.2
+        ],
+        "RegionId": 0,
+        "MonId": 4003007,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 75,
+        "GroupId": 405,
+        "PointName": "mon04_5_1",
+        "Position": [
+            15374.1,
+            -37707.6,
+            147.2
+        ],
+        "RegionId": 0,
+        "MonId": 400100304,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 76,
+        "GroupId": 405,
+        "PointName": "mon04_5_2",
+        "Position": [
+            16176.3,
+            -37707.6,
+            147.2
+        ],
+        "RegionId": 0,
+        "MonId": 400100403,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 77,
+        "GroupId": 406,
+        "PointName": "mon04_6_1",
+        "Position": [
+            25270.1,
+            -30422.7,
+            114.8
+        ],
+        "RegionId": 0,
+        "MonId": 500130501,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 78,
+        "GroupId": 406,
+        "PointName": "mon04_6_2",
+        "Position": [
+            25270.1,
+            -29849.9,
+            114.8
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 79,
+        "GroupId": 406,
+        "PointName": "mon04_6_3",
+        "Position": [
+            26021.5,
+            -30338.2,
+            114.8
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 80,
+        "GroupId": 406,
+        "PointName": "mon04_6_4",
+        "Position": [
+            24655.2,
+            -30338.2,
+            114.8
+        ],
+        "RegionId": 0,
+        "MonId": 400130602,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 81,
+        "GroupId": 407,
+        "PointName": "mon04_7_1",
+        "Position": [
+            16995.1,
+            -28387.0,
+            236.8
+        ],
+        "RegionId": 0,
+        "MonId": 400130301,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 82,
+        "GroupId": 407,
+        "PointName": "mon04_7_2",
+        "Position": [
+            16857.4,
+            -27611.5,
+            236.8
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 83,
+        "GroupId": 407,
+        "PointName": "mon04_7_3",
+        "Position": [
+            16648.3,
+            -29157.9,
+            236.8
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 84,
+        "GroupId": 408,
+        "PointName": "mon04_8_1",
+        "Position": [
+            19726.0,
+            -22247.9,
+            2160.5
+        ],
+        "RegionId": 0,
+        "MonId": 500130801,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 85,
+        "GroupId": 408,
+        "PointName": "mon04_8_2",
+        "Position": [
+            19505.6,
+            -23006.1,
+            2160.5
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 86,
+        "GroupId": 408,
+        "PointName": "mon04_8_3",
+        "Position": [
+            20507.7,
+            -23035.1,
+            2160.5
+        ],
+        "RegionId": 0,
+        "MonId": 400130301,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 87,
+        "GroupId": 408,
+        "PointName": "mon04_8_4",
+        "Position": [
+            20507.7,
+            -21588.0,
+            2160.5
+        ],
+        "RegionId": 0,
+        "MonId": 400130301,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 88,
+        "GroupId": 408,
+        "PointName": "mon04_8_5",
+        "Position": [
+            19637.4,
+            -21529.1,
+            2160.5
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 89,
+        "GroupId": 408,
+        "PointName": "mon04_8_6",
+        "Position": [
+            18944.5,
+            -22203.3,
+            2160.5
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 90,
+        "GroupId": 408,
+        "PointName": "mon04_8_7",
+        "Position": [
+            20167.3,
+            -22734.8,
+            2160.5
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 91,
+        "GroupId": 408,
+        "PointName": "mon04_8_8",
+        "Position": [
+            20167.3,
+            -21869.7,
+            2160.5
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 92,
+        "GroupId": 409,
+        "PointName": "mon04_9_1",
+        "Position": [
+            19825.6,
+            -33042.8,
+            94.6
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 93,
+        "GroupId": 409,
+        "PointName": "mon04_9_2",
+        "Position": [
+            19506.3,
+            -33589.8,
+            73.1
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 94,
+        "GroupId": 409,
+        "PointName": "mon04_9_3",
+        "Position": [
+            19208.1,
+            -33164.1,
+            107.6
+        ],
+        "RegionId": 0,
+        "MonId": 400130602,
+        "DRegion": 4,
+        "DropGroup": 0
+    },
+    {
+        "Index": 95,
+        "GroupId": 501,
+        "PointName": "mon05_1_1",
+        "Position": [
+            2905.9,
+            -24029.2,
+            6099.1
+        ],
+        "RegionId": 0,
+        "MonId": 5001001,
+        "DRegion": 5,
+        "DropGroup": 0
+    },
+    {
+        "Index": 96,
+        "GroupId": 501,
+        "PointName": "mon05_1_2",
+        "Position": [
+            2975.8,
+            -23483.3,
+            6080.4
+        ],
+        "RegionId": 0,
+        "MonId": 4003007,
+        "DRegion": 5,
+        "DropGroup": 0
+    },
+    {
+        "Index": 97,
+        "GroupId": 501,
+        "PointName": "mon05_1_3",
+        "Position": [
+            3441.1,
+            -23829.3,
+            6080.4
+        ],
+        "RegionId": 0,
+        "MonId": 4003007,
+        "DRegion": 5,
+        "DropGroup": 0
+    },
+    {
+        "Index": 98,
+        "GroupId": 502,
+        "PointName": "mon05_2_1",
+        "Position": [
+            -3954.4,
+            -28651.1,
+            6080.4
+        ],
+        "RegionId": 0,
+        "MonId": 500130501,
+        "DRegion": 5,
+        "DropGroup": 0
+    },
+    {
+        "Index": 99,
+        "GroupId": 502,
+        "PointName": "mon05_2_2",
+        "Position": [
+            -3423.3,
+            -28662.1,
+            6080.4
+        ],
+        "RegionId": 0,
+        "MonId": 500130901,
+        "DRegion": 5,
+        "DropGroup": 0
+    },
+    {
+        "Index": 100,
+        "GroupId": 502,
+        "PointName": "mon05_2_3",
+        "Position": [
+            -4248.2,
+            -28281.0,
+            6080.4
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 5,
+        "DropGroup": 0
+    },
+    {
+        "Index": 101,
+        "GroupId": 502,
+        "PointName": "mon05_2_4",
+        "Position": [
+            -3917.0,
+            -27855.7,
+            6080.4
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 5,
+        "DropGroup": 0
+    },
+    {
+        "Index": 102,
+        "GroupId": 502,
+        "PointName": "mon05_2_5",
+        "Position": [
+            -3491.3,
+            -27855.7,
+            6080.4
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 5,
+        "DropGroup": 0
+    },
+    {
+        "Index": 103,
+        "GroupId": 502,
+        "PointName": "mon05_2_6",
+        "Position": [
+            -3169.3,
+            -28296.0,
+            6080.4
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 5,
+        "DropGroup": 0
+    },
+    {
+        "Index": 104,
+        "GroupId": 503,
+        "PointName": "mon05_3_1",
+        "Position": [
+            -4133.0,
+            -23330.1,
+            6116.6
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 5,
+        "DropGroup": 0
+    },
+    {
+        "Index": 105,
+        "GroupId": 503,
+        "PointName": "mon05_3_2",
+        "Position": [
+            -4539.2,
+            -23181.9,
+            6116.6
+        ],
+        "RegionId": 0,
+        "MonId": 400130301,
+        "DRegion": 5,
+        "DropGroup": 0
+    },
+    {
+        "Index": 106,
+        "GroupId": 504,
+        "PointName": "mon05_4_1",
+        "Position": [
+            -757.3,
+            -24710.8,
+            6084.6
+        ],
+        "RegionId": 0,
+        "MonId": 400130301,
+        "DRegion": 5,
+        "DropGroup": 0
+    },
+    {
+        "Index": 107,
+        "GroupId": 504,
+        "PointName": "mon05_4_2",
+        "Position": [
+            -1177.4,
+            -24492.0,
+            6084.6
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 5,
+        "DropGroup": 0
+    },
+    {
+        "Index": 108,
+        "GroupId": 505,
+        "PointName": "mon05_5_1",
+        "Position": [
+            -9153.3,
+            -27079.3,
+            5444.9
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 5,
+        "DropGroup": 0
+    },
+    {
+        "Index": 109,
+        "GroupId": 505,
+        "PointName": "mon05_5_2",
+        "Position": [
+            -9245.9,
+            -27713.8,
+            5656.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 5,
+        "DropGroup": 0
+    },
+    {
+        "Index": 110,
+        "GroupId": 601,
+        "PointName": "mon06_1_1",
+        "Position": [
+            -11466.6,
+            -37128.9,
+            240.2
+        ],
+        "RegionId": 0,
+        "MonId": 500130901,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 111,
+        "GroupId": 601,
+        "PointName": "mon06_1_2",
+        "Position": [
+            -11756.6,
+            -37558.9,
+            620.2
+        ],
+        "RegionId": 0,
+        "MonId": 500130701,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 112,
+        "GroupId": 601,
+        "PointName": "mon06_1_3",
+        "Position": [
+            -11736.6,
+            -37288.9,
+            410.2
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 113,
+        "GroupId": 601,
+        "PointName": "mon06_1_4",
+        "Position": [
+            -12206.6,
+            -37558.9,
+            330.2
+        ],
+        "RegionId": 0,
+        "MonId": 400130602,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 114,
+        "GroupId": 601,
+        "PointName": "mon06_1_5",
+        "Position": [
+            -10056.6,
+            -36078.9,
+            330.2
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 115,
+        "GroupId": 601,
+        "PointName": "mon06_1_6",
+        "Position": [
+            -11126.6,
+            -36378.9,
+            400.2
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 116,
+        "GroupId": 601,
+        "PointName": "mon06_1_7",
+        "Position": [
+            -12386.6,
+            -37268.9,
+            510.2
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 117,
+        "GroupId": 602,
+        "PointName": "mon06_2_1",
+        "Position": [
+            -12510.0,
+            -24400.0,
+            260.0
+        ],
+        "RegionId": 0,
+        "MonId": 500130901,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 118,
+        "GroupId": 602,
+        "PointName": "mon06_2_2",
+        "Position": [
+            -14430.0,
+            -24180.0,
+            580.0
+        ],
+        "RegionId": 0,
+        "MonId": 500130701,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 119,
+        "GroupId": 602,
+        "PointName": "mon06_2_3",
+        "Position": [
+            -14230.0,
+            -23370.0,
+            490.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 120,
+        "GroupId": 602,
+        "PointName": "mon06_2_4",
+        "Position": [
+            -13940.0,
+            -22940.0,
+            400.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 121,
+        "GroupId": 602,
+        "PointName": "mon06_2_5",
+        "Position": [
+            -13290.0,
+            -23390.0,
+            250.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 122,
+        "GroupId": 602,
+        "PointName": "mon06_2_6",
+        "Position": [
+            -13630.0,
+            -22870.0,
+            150.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 123,
+        "GroupId": 602,
+        "PointName": "mon06_2_7",
+        "Position": [
+            -14300.0,
+            -24660.0,
+            660.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 124,
+        "GroupId": 602,
+        "PointName": "mon06_2_8",
+        "Position": [
+            -14300.0,
+            -22420.0,
+            150.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 125,
+        "GroupId": 603,
+        "PointName": "mon06_3_1",
+        "Position": [
+            -16003.9,
+            -35339.9,
+            173.6
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 126,
+        "GroupId": 603,
+        "PointName": "mon06_3_2",
+        "Position": [
+            -16983.9,
+            -35459.9,
+            173.6
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 127,
+        "GroupId": 603,
+        "PointName": "mon06_3_3",
+        "Position": [
+            -17073.9,
+            -36269.9,
+            613.6
+        ],
+        "RegionId": 0,
+        "MonId": 500130501,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 128,
+        "GroupId": 603,
+        "PointName": "mon06_3_4",
+        "Position": [
+            -17753.9,
+            -35139.9,
+            173.6
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 129,
+        "GroupId": 604,
+        "PointName": "mon06_4_1",
+        "Position": [
+            -14563.9,
+            -34069.9,
+            173.6
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 130,
+        "GroupId": 606,
+        "PointName": "mon06_6_1",
+        "Position": [
+            -17183.9,
+            -28649.9,
+            433.6
+        ],
+        "RegionId": 0,
+        "MonId": 500130801,
+        "DRegion": 6,
+        "DropGroup": 0
+    },
+    {
+        "Index": 131,
+        "GroupId": 710,
+        "PointName": "mon07_10_2",
+        "Position": [
+            -7050.0,
+            -10990.0,
+            2940.0
+        ],
+        "RegionId": 0,
+        "MonId": 400190802,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 132,
+        "GroupId": 710,
+        "PointName": "mon07_10_3",
+        "Position": [
+            -7120.0,
+            -11520.0,
+            2940.0
+        ],
+        "RegionId": 0,
+        "MonId": 4002003,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 133,
+        "GroupId": 710,
+        "PointName": "mon07_10_4",
+        "Position": [
+            -7040.0,
+            -12810.0,
+            2820.0
+        ],
+        "RegionId": 0,
+        "MonId": 4002002,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 134,
+        "GroupId": 710,
+        "PointName": "mon07_10_5",
+        "Position": [
+            -7170.0,
+            -10330.0,
+            2850.0
+        ],
+        "RegionId": 0,
+        "MonId": 4002002,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 135,
+        "GroupId": 701,
+        "PointName": "mon07_1_1",
+        "Position": [
+            -18930.0,
+            8180.0,
+            200.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 136,
+        "GroupId": 701,
+        "PointName": "mon07_1_2",
+        "Position": [
+            -20020.0,
+            6900.0,
+            330.0
+        ],
+        "RegionId": 0,
+        "MonId": 500130201,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 137,
+        "GroupId": 701,
+        "PointName": "mon07_1_3",
+        "Position": [
+            -20500.0,
+            4790.0,
+            270.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 138,
+        "GroupId": 701,
+        "PointName": "mon07_1_4",
+        "Position": [
+            -19260.0,
+            6900.0,
+            500.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 139,
+        "GroupId": 701,
+        "PointName": "mon07_1_5",
+        "Position": [
+            -19210.0,
+            6960.0,
+            220.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 140,
+        "GroupId": 701,
+        "PointName": "mon07_1_6",
+        "Position": [
+            -18470.0,
+            6900.0,
+            560.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 141,
+        "GroupId": 701,
+        "PointName": "mon07_1_7",
+        "Position": [
+            -19570.0,
+            7570.0,
+            120.0
+        ],
+        "RegionId": 0,
+        "MonId": 500130501,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 142,
+        "GroupId": 702,
+        "PointName": "mon07_2_1",
+        "Position": [
+            -8385.6,
+            7442.1,
+            1247.8
+        ],
+        "RegionId": 0,
+        "MonId": 4002002,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 143,
+        "GroupId": 702,
+        "PointName": "mon07_2_2",
+        "Position": [
+            -8775.6,
+            6772.1,
+            727.8
+        ],
+        "RegionId": 0,
+        "MonId": 4002003,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 144,
+        "GroupId": 702,
+        "PointName": "mon07_2_3",
+        "Position": [
+            -9205.6,
+            6952.1,
+            727.8
+        ],
+        "RegionId": 0,
+        "MonId": 4002003,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 145,
+        "GroupId": 702,
+        "PointName": "mon07_2_4",
+        "Position": [
+            -9155.6,
+            7592.1,
+            727.8
+        ],
+        "RegionId": 0,
+        "MonId": 5002010,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 146,
+        "GroupId": 702,
+        "PointName": "mon07_2_5",
+        "Position": [
+            -9855.6,
+            6922.1,
+            727.8
+        ],
+        "RegionId": 0,
+        "MonId": 4002002,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 147,
+        "GroupId": 702,
+        "PointName": "mon07_2_6",
+        "Position": [
+            -8975.6,
+            7322.1,
+            797.8
+        ],
+        "RegionId": 0,
+        "MonId": 4002003,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 148,
+        "GroupId": 702,
+        "PointName": "mon07_2_7",
+        "Position": [
+            -10435.6,
+            6942.1,
+            1157.8
+        ],
+        "RegionId": 0,
+        "MonId": 4002002,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 149,
+        "GroupId": 702,
+        "PointName": "mon07_2_8",
+        "Position": [
+            -9465.6,
+            7382.1,
+            727.8
+        ],
+        "RegionId": 0,
+        "MonId": 4002003,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 150,
+        "GroupId": 703,
+        "PointName": "mon07_3_1",
+        "Position": [
+            -15542.0,
+            -10446.0,
+            60.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 151,
+        "GroupId": 703,
+        "PointName": "mon07_3_2",
+        "Position": [
+            -16162.0,
+            -10446.0,
+            50.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 152,
+        "GroupId": 703,
+        "PointName": "mon07_3_3",
+        "Position": [
+            -15542.0,
+            -9926.0,
+            60.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 153,
+        "GroupId": 703,
+        "PointName": "mon07_3_4",
+        "Position": [
+            -15362.0,
+            -11546.0,
+            100.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 154,
+        "GroupId": 703,
+        "PointName": "mon07_3_5",
+        "Position": [
+            -15732.0,
+            -9486.0,
+            60.0
+        ],
+        "RegionId": 0,
+        "MonId": 500130501,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 155,
+        "GroupId": 704,
+        "PointName": "mon07_4_1",
+        "Position": [
+            -12020.0,
+            13380.0,
+            150.0
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 156,
+        "GroupId": 704,
+        "PointName": "mon07_4_2",
+        "Position": [
+            -11630.0,
+            14010.0,
+            200.0
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 157,
+        "GroupId": 705,
+        "PointName": "mon07_5_1",
+        "Position": [
+            -13780.0,
+            4870.0,
+            160.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 158,
+        "GroupId": 705,
+        "PointName": "mon07_5_2",
+        "Position": [
+            -14090.0,
+            4080.0,
+            150.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130301,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 159,
+        "GroupId": 706,
+        "PointName": "mon07_6_1",
+        "Position": [
+            -7150.0,
+            -5990.0,
+            210.0
+        ],
+        "RegionId": 0,
+        "MonId": 5002010,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 160,
+        "GroupId": 707,
+        "PointName": "mon07_7_1",
+        "Position": [
+            -4510.0,
+            -15190.0,
+            1250.0
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 161,
+        "GroupId": 707,
+        "PointName": "mon07_7_2",
+        "Position": [
+            -3800.0,
+            -15190.0,
+            1250.0
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 162,
+        "GroupId": 708,
+        "PointName": "mon07_8_1",
+        "Position": [
+            -11480.0,
+            -14250.0,
+            1890.0
+        ],
+        "RegionId": 0,
+        "MonId": 4002003,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 163,
+        "GroupId": 708,
+        "PointName": "mon07_8_2",
+        "Position": [
+            -11220.0,
+            -13800.0,
+            1870.0
+        ],
+        "RegionId": 0,
+        "MonId": 4002003,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 164,
+        "GroupId": 708,
+        "PointName": "mon07_8_3",
+        "Position": [
+            -11540.0,
+            -13500.0,
+            2160.0
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 165,
+        "GroupId": 708,
+        "PointName": "mon07_8_4",
+        "Position": [
+            -11220.0,
+            -14060.0,
+            1870.0
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 166,
+        "GroupId": 708,
+        "PointName": "mon07_8_5",
+        "Position": [
+            -11760.0,
+            -12620.0,
+            1970.0
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 167,
+        "GroupId": 709,
+        "PointName": "mon07_9_1",
+        "Position": [
+            -10750.0,
+            -19700.0,
+            980.0
+        ],
+        "RegionId": 0,
+        "MonId": 4002002,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 168,
+        "GroupId": 709,
+        "PointName": "mon07_9_2",
+        "Position": [
+            -11970.0,
+            -19050.0,
+            230.0
+        ],
+        "RegionId": 0,
+        "MonId": 4002003,
+        "DRegion": 7,
+        "DropGroup": 0
+    },
+    {
+        "Index": 169,
+        "GroupId": 801,
+        "PointName": "mon08_1_1",
+        "Position": [
+            -503.2,
+            3170.4,
+            208.7
+        ],
+        "RegionId": 0,
+        "MonId": 500130201,
+        "DRegion": 8,
+        "DropGroup": 0
+    },
+    {
+        "Index": 170,
+        "GroupId": 801,
+        "PointName": "mon08_1_2",
+        "Position": [
+            -693.2,
+            2330.4,
+            208.7
+        ],
+        "RegionId": 0,
+        "MonId": 500130201,
+        "DRegion": 8,
+        "DropGroup": 0
+    },
+    {
+        "Index": 171,
+        "GroupId": 801,
+        "PointName": "mon08_1_3",
+        "Position": [
+            -1563.2,
+            3590.4,
+            208.7
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 8,
+        "DropGroup": 0
+    },
+    {
+        "Index": 172,
+        "GroupId": 801,
+        "PointName": "mon08_1_4",
+        "Position": [
+            -1683.2,
+            3170.4,
+            208.7
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 8,
+        "DropGroup": 0
+    },
+    {
+        "Index": 173,
+        "GroupId": 801,
+        "PointName": "mon08_1_5",
+        "Position": [
+            -1013.2,
+            3350.4,
+            208.7
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 8,
+        "DropGroup": 0
+    },
+    {
+        "Index": 174,
+        "GroupId": 801,
+        "PointName": "mon08_1_6",
+        "Position": [
+            -1013.2,
+            3640.4,
+            208.7
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 8,
+        "DropGroup": 0
+    },
+    {
+        "Index": 175,
+        "GroupId": 802,
+        "PointName": "mon08_2_1",
+        "Position": [
+            10027.1,
+            6932.9,
+            1852.0
+        ],
+        "RegionId": 0,
+        "MonId": 4002003,
+        "DRegion": 8,
+        "DropGroup": 0
+    },
+    {
+        "Index": 176,
+        "GroupId": 802,
+        "PointName": "mon08_2_2",
+        "Position": [
+            9507.1,
+            6442.9,
+            1852.0
+        ],
+        "RegionId": 0,
+        "MonId": 4002003,
+        "DRegion": 8,
+        "DropGroup": 0
+    },
+    {
+        "Index": 177,
+        "GroupId": 802,
+        "PointName": "mon08_2_3",
+        "Position": [
+            9767.1,
+            6112.9,
+            1852.0
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 8,
+        "DropGroup": 0
+    },
+    {
+        "Index": 178,
+        "GroupId": 802,
+        "PointName": "mon08_2_4",
+        "Position": [
+            10127.1,
+            6612.9,
+            1852.0
+        ],
+        "RegionId": 0,
+        "MonId": 4001005,
+        "DRegion": 8,
+        "DropGroup": 0
+    },
+    {
+        "Index": 179,
+        "GroupId": 802,
+        "PointName": "mon08_2_5",
+        "Position": [
+            10177.1,
+            6282.9,
+            1852.0
+        ],
+        "RegionId": 0,
+        "MonId": 4001004,
+        "DRegion": 8,
+        "DropGroup": 0
+    },
+    {
+        "Index": 180,
+        "GroupId": 803,
+        "PointName": "mon08_3_1",
+        "Position": [
+            6337.1,
+            2742.9,
+            1852.0
+        ],
+        "RegionId": 0,
+        "MonId": 5001010,
+        "DRegion": 8,
+        "DropGroup": 0
+    },
+    {
+        "Index": 181,
+        "GroupId": 910,
+        "PointName": "mon09_10_1",
+        "Position": [
+            -1804.3,
+            20877.6,
+            4538.8
+        ],
+        "RegionId": 0,
+        "MonId": 500130501,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 182,
+        "GroupId": 910,
+        "PointName": "mon09_10_2",
+        "Position": [
+            -1158.0,
+            22548.0,
+            4558.0
+        ],
+        "RegionId": 0,
+        "MonId": 500130501,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 183,
+        "GroupId": 910,
+        "PointName": "mon09_10_3",
+        "Position": [
+            -1768.0,
+            22378.0,
+            4543.9
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 184,
+        "GroupId": 910,
+        "PointName": "mon09_10_4",
+        "Position": [
+            -1178.0,
+            21168.0,
+            4538.8
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 185,
+        "GroupId": 910,
+        "PointName": "mon09_10_5",
+        "Position": [
+            -1978.0,
+            21458.0,
+            4538.8
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 186,
+        "GroupId": 911,
+        "PointName": "mon09_11_1",
+        "Position": [
+            8007.2,
+            21032.4,
+            4218.2
+        ],
+        "RegionId": 0,
+        "MonId": 400130301,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 187,
+        "GroupId": 911,
+        "PointName": "mon09_11_2",
+        "Position": [
+            8099.6,
+            20483.5,
+            4218.2
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 188,
+        "GroupId": 912,
+        "PointName": "mon09_12_1",
+        "Position": [
+            4199.8,
+            20762.4,
+            2633.2
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 189,
+        "GroupId": 912,
+        "PointName": "mon09_12_2",
+        "Position": [
+            4239.2,
+            21881.0,
+            2562.6
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 190,
+        "GroupId": 912,
+        "PointName": "mon09_12_3",
+        "Position": [
+            3948.3,
+            20453.3,
+            2633.2
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 191,
+        "GroupId": 913,
+        "PointName": "mon09_13_1",
+        "Position": [
+            16410.6,
+            28080.2,
+            2476.2
+        ],
+        "RegionId": 0,
+        "MonId": 4002002,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 192,
+        "GroupId": 915,
+        "PointName": "mon09_15_1",
+        "Position": [
+            -14212.3,
+            26502.6,
+            1821.4
+        ],
+        "RegionId": 0,
+        "MonId": 4001005,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 193,
+        "GroupId": 915,
+        "PointName": "mon09_15_2",
+        "Position": [
+            -13945.9,
+            25819.0,
+            1821.4
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 194,
+        "GroupId": 915,
+        "PointName": "mon09_15_3",
+        "Position": [
+            -14630.1,
+            26369.1,
+            1821.4
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 195,
+        "GroupId": 916,
+        "PointName": "mon09_16_1",
+        "Position": [
+            -19745.6,
+            21253.3,
+            1016.7
+        ],
+        "RegionId": 0,
+        "MonId": 5001010,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 196,
+        "GroupId": 916,
+        "PointName": "mon09_16_2",
+        "Position": [
+            -19776.2,
+            20866.3,
+            1016.7
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 197,
+        "GroupId": 916,
+        "PointName": "mon09_16_3",
+        "Position": [
+            -20155.5,
+            21284.3,
+            1016.7
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 198,
+        "GroupId": 916,
+        "PointName": "mon09_16_4",
+        "Position": [
+            -18537.0,
+            20576.0,
+            1487.2
+        ],
+        "RegionId": 0,
+        "MonId": 4001005,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 199,
+        "GroupId": 916,
+        "PointName": "mon09_16_5",
+        "Position": [
+            -20231.8,
+            21684.7,
+            1481.7
+        ],
+        "RegionId": 0,
+        "MonId": 4001005,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 200,
+        "GroupId": 916,
+        "PointName": "mon09_16_6",
+        "Position": [
+            -19360.5,
+            20668.6,
+            1016.7
+        ],
+        "RegionId": 0,
+        "MonId": 4001005,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 201,
+        "GroupId": 916,
+        "PointName": "mon09_16_7",
+        "Position": [
+            -19817.1,
+            21801.8,
+            1016.7
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 202,
+        "GroupId": 916,
+        "PointName": "mon09_16_8",
+        "Position": [
+            -20192.2,
+            20603.2,
+            1016.7
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 203,
+        "GroupId": 917,
+        "PointName": "mon09_17_1",
+        "Position": [
+            -16058.5,
+            19202.1,
+            561.4
+        ],
+        "RegionId": 0,
+        "MonId": 4001005,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 204,
+        "GroupId": 917,
+        "PointName": "mon09_17_2",
+        "Position": [
+            -16173.0,
+            18975.1,
+            541.1
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 205,
+        "GroupId": 917,
+        "PointName": "mon09_17_3",
+        "Position": [
+            -16296.4,
+            19157.3,
+            567.2
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 206,
+        "GroupId": 918,
+        "PointName": "mon09_18_1",
+        "Position": [
+            -13014.2,
+            23303.3,
+            2929.8
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 207,
+        "GroupId": 918,
+        "PointName": "mon09_18_2",
+        "Position": [
+            -12573.6,
+            23154.9,
+            2929.8
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 208,
+        "GroupId": 918,
+        "PointName": "mon09_18_3",
+        "Position": [
+            -12475.7,
+            22308.8,
+            2929.8
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 209,
+        "GroupId": 901,
+        "PointName": "mon09_1_1",
+        "Position": [
+            2170.0,
+            36884.5,
+            528.6
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 210,
+        "GroupId": 901,
+        "PointName": "mon09_1_2",
+        "Position": [
+            2424.7,
+            37243.7,
+            390.9
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 211,
+        "GroupId": 902,
+        "PointName": "mon09_2_1",
+        "Position": [
+            -2490.1,
+            39616.8,
+            2170.3
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 212,
+        "GroupId": 902,
+        "PointName": "mon09_2_2",
+        "Position": [
+            -1326.6,
+            39875.6,
+            2157.7
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 213,
+        "GroupId": 902,
+        "PointName": "mon09_2_3",
+        "Position": [
+            -2107.8,
+            40356.6,
+            2159.8
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 214,
+        "GroupId": 902,
+        "PointName": "mon09_2_4",
+        "Position": [
+            -1613.1,
+            40296.8,
+            2150.9
+        ],
+        "RegionId": 0,
+        "MonId": 4002003,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 215,
+        "GroupId": 903,
+        "PointName": "mon09_3_1",
+        "Position": [
+            -7286.7,
+            38227.7,
+            2168.3
+        ],
+        "RegionId": 0,
+        "MonId": 5001001,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 216,
+        "GroupId": 903,
+        "PointName": "mon09_3_2",
+        "Position": [
+            -7278.7,
+            37918.3,
+            2225.7
+        ],
+        "RegionId": 0,
+        "MonId": 4002003,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 217,
+        "GroupId": 903,
+        "PointName": "mon09_3_3",
+        "Position": [
+            -7851.3,
+            38081.8,
+            2225.7
+        ],
+        "RegionId": 0,
+        "MonId": 4002003,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 218,
+        "GroupId": 904,
+        "PointName": "mon09_4_1",
+        "Position": [
+            -15458.5,
+            35724.3,
+            2225.7
+        ],
+        "RegionId": 0,
+        "MonId": 4002002,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 219,
+        "GroupId": 905,
+        "PointName": "mon09_5_1",
+        "Position": [
+            -17943.5,
+            32030.3,
+            1409.7
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 220,
+        "GroupId": 905,
+        "PointName": "mon09_5_2",
+        "Position": [
+            -17708.4,
+            32931.8,
+            1401.9
+        ],
+        "RegionId": 0,
+        "MonId": 500130701,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 221,
+        "GroupId": 905,
+        "PointName": "mon09_5_3",
+        "Position": [
+            -17043.5,
+            32580.6,
+            1409.1
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 222,
+        "GroupId": 905,
+        "PointName": "mon09_5_4",
+        "Position": [
+            -17281.7,
+            33366.3,
+            1397.9
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 223,
+        "GroupId": 906,
+        "PointName": "mon09_6_1",
+        "Position": [
+            -5633.9,
+            30291.5,
+            2298.4
+        ],
+        "RegionId": 0,
+        "MonId": 500130701,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 224,
+        "GroupId": 906,
+        "PointName": "mon09_6_2",
+        "Position": [
+            -4849.8,
+            30236.7,
+            2298.4
+        ],
+        "RegionId": 0,
+        "MonId": 500130201,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 225,
+        "GroupId": 906,
+        "PointName": "mon09_6_3",
+        "Position": [
+            -5503.2,
+            29462.1,
+            2298.4
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 226,
+        "GroupId": 906,
+        "PointName": "mon09_6_4",
+        "Position": [
+            -5530.5,
+            28417.9,
+            2298.4
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 227,
+        "GroupId": 906,
+        "PointName": "mon09_6_5",
+        "Position": [
+            -5074.1,
+            28381.2,
+            2364.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 228,
+        "GroupId": 906,
+        "PointName": "mon09_6_6",
+        "Position": [
+            -6964.1,
+            29041.2,
+            2364.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 229,
+        "GroupId": 906,
+        "PointName": "mon09_6_7",
+        "Position": [
+            -3684.1,
+            29031.2,
+            2364.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 230,
+        "GroupId": 906,
+        "PointName": "mon09_6_8",
+        "Position": [
+            -4408.2,
+            27957.2,
+            2364.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 231,
+        "GroupId": 906,
+        "PointName": "mon09_6_9",
+        "Position": [
+            -5889.5,
+            27965.8,
+            2364.0
+        ],
+        "RegionId": 0,
+        "MonId": 400130601,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 232,
+        "GroupId": 907,
+        "PointName": "mon09_7_1",
+        "Position": [
+            1071.5,
+            24992.1,
+            498.6
+        ],
+        "RegionId": 0,
+        "MonId": 4001005,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 233,
+        "GroupId": 907,
+        "PointName": "mon09_7_2",
+        "Position": [
+            2616.5,
+            24160.2,
+            647.1
+        ],
+        "RegionId": 0,
+        "MonId": 4001005,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 234,
+        "GroupId": 907,
+        "PointName": "mon09_7_3",
+        "Position": [
+            1347.6,
+            23087.2,
+            596.7
+        ],
+        "RegionId": 0,
+        "MonId": 4001005,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 235,
+        "GroupId": 907,
+        "PointName": "mon09_7_4",
+        "Position": [
+            2867.8,
+            22139.0,
+            531.4
+        ],
+        "RegionId": 0,
+        "MonId": 4001005,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 236,
+        "GroupId": 908,
+        "PointName": "mon09_8_1",
+        "Position": [
+            -3476.8,
+            15307.7,
+            536.6
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 237,
+        "GroupId": 908,
+        "PointName": "mon09_8_2",
+        "Position": [
+            -3820.3,
+            15327.7,
+            536.6
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 238,
+        "GroupId": 908,
+        "PointName": "mon09_8_3",
+        "Position": [
+            -3601.9,
+            15011.1,
+            536.6
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 239,
+        "GroupId": 909,
+        "PointName": "mon09_9_1",
+        "Position": [
+            -10906.7,
+            19494.5,
+            2225.7
+        ],
+        "RegionId": 0,
+        "MonId": 4001005,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 240,
+        "GroupId": 909,
+        "PointName": "mon09_9_2",
+        "Position": [
+            -11239.0,
+            19184.6,
+            2225.7
+        ],
+        "RegionId": 0,
+        "MonId": 4001005,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 241,
+        "GroupId": 909,
+        "PointName": "mon09_9_3",
+        "Position": [
+            -10855.2,
+            19140.1,
+            2225.7
+        ],
+        "RegionId": 0,
+        "MonId": 4002003,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 242,
+        "GroupId": 914,
+        "PointName": "mon09_9_4",
+        "Position": [
+            -4433.9,
+            17732.0,
+            2121.0
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 243,
+        "GroupId": 914,
+        "PointName": "mon09_9_5",
+        "Position": [
+            -4103.1,
+            18123.5,
+            2121.0
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 9,
+        "DropGroup": 0
+    },
+    {
+        "Index": 244,
+        "GroupId": 1301,
+        "PointName": "mon13_1_1",
+        "Position": [
+            24013.8,
+            27876.5,
+            220.9
+        ],
+        "RegionId": 0,
+        "MonId": 500130801,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 245,
+        "GroupId": 1301,
+        "PointName": "mon13_1_2",
+        "Position": [
+            24489.1,
+            27427.3,
+            215.5
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 246,
+        "GroupId": 1301,
+        "PointName": "mon13_1_3",
+        "Position": [
+            24514.3,
+            28083.6,
+            216.2
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 247,
+        "GroupId": 1301,
+        "PointName": "mon13_1_4",
+        "Position": [
+            23525.6,
+            26984.9,
+            280.1
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 248,
+        "GroupId": 1302,
+        "PointName": "mon13_2_1",
+        "Position": [
+            19065.5,
+            26923.6,
+            1593.7
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 249,
+        "GroupId": 1302,
+        "PointName": "mon13_2_2",
+        "Position": [
+            19478.0,
+            27856.4,
+            1593.7
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 250,
+        "GroupId": 1302,
+        "PointName": "mon13_2_3",
+        "Position": [
+            19908.6,
+            27022.7,
+            1593.7
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 251,
+        "GroupId": 1302,
+        "PointName": "mon13_2_4",
+        "Position": [
+            20635.0,
+            28062.5,
+            1593.7
+        ],
+        "RegionId": 0,
+        "MonId": 400130301,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 252,
+        "GroupId": 1302,
+        "PointName": "mon13_2_5",
+        "Position": [
+            19675.7,
+            28560.0,
+            1593.7
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 253,
+        "GroupId": 1303,
+        "PointName": "mon13_3_1",
+        "Position": [
+            16665.6,
+            33985.7,
+            2387.4
+        ],
+        "RegionId": 0,
+        "MonId": 5002010,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 254,
+        "GroupId": 1303,
+        "PointName": "mon13_3_2",
+        "Position": [
+            17079.0,
+            35009.2,
+            2387.4
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 255,
+        "GroupId": 1303,
+        "PointName": "mon13_3_3",
+        "Position": [
+            16109.0,
+            34734.5,
+            2387.4
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 256,
+        "GroupId": 1303,
+        "PointName": "mon13_3_4",
+        "Position": [
+            16490.2,
+            35486.5,
+            2387.4
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 257,
+        "GroupId": 1303,
+        "PointName": "mon13_3_5",
+        "Position": [
+            16854.6,
+            32869.6,
+            2387.4
+        ],
+        "RegionId": 0,
+        "MonId": 4002003,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 258,
+        "GroupId": 1303,
+        "PointName": "mon13_3_6",
+        "Position": [
+            15864.6,
+            35729.6,
+            2887.5
+        ],
+        "RegionId": 0,
+        "MonId": 4002002,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 259,
+        "GroupId": 1303,
+        "PointName": "mon13_3_7",
+        "Position": [
+            17674.6,
+            33699.6,
+            2887.5
+        ],
+        "RegionId": 0,
+        "MonId": 4002002,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 260,
+        "GroupId": 1304,
+        "PointName": "mon13_4_1",
+        "Position": [
+            14643.4,
+            24238.8,
+            3388.1
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 261,
+        "GroupId": 1304,
+        "PointName": "mon13_4_2",
+        "Position": [
+            14423.6,
+            24762.1,
+            3388.1
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 262,
+        "GroupId": 1304,
+        "PointName": "mon13_4_3",
+        "Position": [
+            15357.1,
+            24489.8,
+            3578.8
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 263,
+        "GroupId": 1305,
+        "PointName": "mon13_5_1",
+        "Position": [
+            5381.8,
+            27591.6,
+            2665.1
+        ],
+        "RegionId": 0,
+        "MonId": 500130701,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 264,
+        "GroupId": 1305,
+        "PointName": "mon13_5_2",
+        "Position": [
+            4755.5,
+            27164.3,
+            2678.9
+        ],
+        "RegionId": 0,
+        "MonId": 400130301,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 265,
+        "GroupId": 1305,
+        "PointName": "mon13_5_3",
+        "Position": [
+            5068.2,
+            28444.9,
+            2678.7
+        ],
+        "RegionId": 0,
+        "MonId": 400130301,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 266,
+        "GroupId": 1305,
+        "PointName": "mon13_5_4",
+        "Position": [
+            6134.4,
+            28559.2,
+            2676.3
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 267,
+        "GroupId": 1305,
+        "PointName": "mon13_5_5",
+        "Position": [
+            5491.8,
+            26631.6,
+            2665.1
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 268,
+        "GroupId": 1306,
+        "PointName": "mon13_6_1",
+        "Position": [
+            7346.4,
+            32072.3,
+            2225.7
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 269,
+        "GroupId": 1306,
+        "PointName": "mon13_6_2",
+        "Position": [
+            7808.1,
+            32045.3,
+            2225.7
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 270,
+        "GroupId": 1307,
+        "PointName": "mon13_7_1",
+        "Position": [
+            8305.1,
+            21792.9,
+            4271.2
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 271,
+        "GroupId": 1307,
+        "PointName": "mon13_7_2",
+        "Position": [
+            8070.3,
+            21904.7,
+            4332.3
+        ],
+        "RegionId": 0,
+        "MonId": 400130101,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 272,
+        "GroupId": 1307,
+        "PointName": "mon13_7_3",
+        "Position": [
+            8249.8,
+            22183.2,
+            4307.9
+        ],
+        "RegionId": 0,
+        "MonId": 400130401,
+        "DRegion": 13,
+        "DropGroup": 0
+    },
+    {
+        "Index": 273,
+        "GroupId": 1401,
+        "PointName": "mon14_1_1",
+        "Position": [
+            4688.1,
+            45496.0,
+            114.8
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 14,
+        "DropGroup": 0
+    },
+    {
+        "Index": 274,
+        "GroupId": 1401,
+        "PointName": "mon14_1_2",
+        "Position": [
+            4170.4,
+            45760.4,
+            114.8
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 14,
+        "DropGroup": 0
+    },
+    {
+        "Index": 275,
+        "GroupId": 1401,
+        "PointName": "mon14_1_3",
+        "Position": [
+            4044.7,
+            46459.6,
+            114.8
+        ],
+        "RegionId": 0,
+        "MonId": 4002003,
+        "DRegion": 14,
+        "DropGroup": 0
+    },
+    {
+        "Index": 276,
+        "GroupId": 1401,
+        "PointName": "mon14_1_4",
+        "Position": [
+            4616.1,
+            46485.2,
+            114.8
+        ],
+        "RegionId": 0,
+        "MonId": 4002003,
+        "DRegion": 14,
+        "DropGroup": 0
+    },
+    {
+        "Index": 277,
+        "GroupId": 1402,
+        "PointName": "mon14_2_1",
+        "Position": [
+            -4552.1,
+            48255.6,
+            114.8
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 14,
+        "DropGroup": 0
+    },
+    {
+        "Index": 278,
+        "GroupId": 1402,
+        "PointName": "mon14_2_2",
+        "Position": [
+            -3556.9,
+            48772.6,
+            114.8
+        ],
+        "RegionId": 0,
+        "MonId": 4002004,
+        "DRegion": 14,
+        "DropGroup": 0
+    },
+    {
+        "Index": 279,
+        "GroupId": 1402,
+        "PointName": "mon14_2_3",
+        "Position": [
+            -2153.2,
+            48470.8,
+            114.8
+        ],
+        "RegionId": 0,
+        "MonId": 4002002,
+        "DRegion": 14,
+        "DropGroup": 0
+    }
+]

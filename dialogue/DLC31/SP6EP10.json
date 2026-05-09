@@ -1,0 +1,932 @@
+[
+    {
+        "Key": 1,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "欢迎加入海姆达尔。",
+        "disable": 0
+    },
+    {
+        "Key": 2,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我把专属于她的配枪递给她，她煞有其事地接过。",
+        "disable": 0
+    },
+    {
+        "Key": 3,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "克罗瑞娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_girl022_01",
+        "zh_CN": "宣誓词是什么？",
+        "disable": 0
+    },
+    {
+        "Key": 4,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "宣誓词？……没有那种东西。",
+        "disable": 0
+    },
+    {
+        "Key": 5,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她歪着头思考了一下，两腿一并，向我敬了个礼。",
+        "disable": 0
+    },
+    {
+        "Key": 6,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "克罗瑞娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_girl022_02",
+        "zh_CN": "是，长官！",
+        "disable": 0
+    },
+    {
+        "Key": 7,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "好了，别搞怪了。去跟着卡罗琳登记数据。",
+        "disable": 0
+    },
+    {
+        "Key": 8,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "克罗瑞娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_girl022_03",
+        "zh_CN": "一会儿一起吃午饭？我打算做汉堡。",
+        "disable": 0
+    },
+    {
+        "Key": 9,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "听你的。",
+        "disable": 0
+    },
+    {
+        "Key": 10,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她渐渐变了。不像以前那样，戴着面具，压抑着真实的情感。",
+        "disable": 0
+    },
+    {
+        "Key": 11,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "或者说，她开始发现自己的情感和欲望。她对很多事情都充满好奇，好像永远有用不完的精力。",
+        "disable": 0
+    },
+    {
+        "Key": 12,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我笑了笑，往陶的办公室去了。",
+        "disable": 0
+    },
+    {
+        "Key": 14,
+        "Flag": "",
+        "Pos": 9,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_npc003_01",
+        "zh_CN": "进。",
+        "disable": 0
+    },
+    {
+        "Key": 15,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "做完手术才没多久，就好像长在办公室里似的。",
+        "disable": 0
+    },
+    {
+        "Key": 16,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_npc003_02",
+        "zh_CN": "习惯了。",
+        "disable": 0
+    },
+    {
+        "Key": 17,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_npc003_03",
+        "zh_CN": "有事找我？",
+        "disable": 0
+    },
+    {
+        "Key": 18,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": 19,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你和米拉是怎么认识的？",
+        "disable": 0
+    },
+    {
+        "Key": 20,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_npc003_04",
+        "zh_CN": "米拉的姐姐薇奈特和我认识很久了。我的治疗方案最初就是由她构思的。",
+        "disable": 0
+    },
+    {
+        "Key": 21,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_npc003_05",
+        "zh_CN": "生下克罗瑞娜不久后，她就去世了。从那之后，就由米拉接替她的位置。",
+        "disable": 0
+    },
+    {
+        "Key": 22,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "陶的表情有一丝不寻常的地方。往常看到我的时候，她会有开心、欣慰之类的情绪，通过微笑、点头、展眉等微表情透露出来。",
+        "disable": 0
+    },
+    {
+        "Key": 23,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "而现在……我总觉得有点假装的成分。",
+        "disable": 0
+    },
+    {
+        "Key": 24,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "灵光一闪——",
+        "disable": 0
+    },
+    {
+        "Key": 25,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "答应我，别逞强。有事情就让我来解决。",
+        "disable": 0
+    },
+    {
+        "Key": 26,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_npc003_06",
+        "zh_CN": "我答应你。答应你的就会做到。",
+        "disable": 0
+    },
+    {
+        "Key": 27,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你答应过我什么事，对吗？",
+        "disable": 0
+    },
+    {
+        "Key": 28,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_npc003_07",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": 29,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我知道，你不会对我撒谎的。",
+        "disable": 0
+    },
+    {
+        "Key": 30,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_npc003_08",
+        "zh_CN": "我答应过你，不能告诉你。",
+        "disable": 0
+    },
+    {
+        "Key": 31,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "——但你却想了个方法，打算委婉地提醒我。",
+        "disable": 0
+    },
+    {
+        "Key": 32,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "陶不置可否。",
+        "disable": 0
+    },
+    {
+        "Key": 33,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "和任务有关……要让我亲身接触到……",
+        "disable": 0
+    },
+    {
+        "Key": 34,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "空难是你的安排吗？",
+        "disable": 0
+    },
+    {
+        "Key": 35,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_npc003_09",
+        "zh_CN": "当然不是。我不会拿你的安全开玩笑。",
+        "disable": 0
+    },
+    {
+        "Key": 36,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": 37,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_npc003_10",
+        "zh_CN": "抱歉，playername。",
+        "disable": 0
+    },
+    {
+        "Key": 38,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_npc003_11",
+        "zh_CN": "我只是有点难以忍受了。",
+        "disable": 0
+    },
+    {
+        "Key": 39,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_npc003_12",
+        "zh_CN": "给我一点时间，也给你自己一点时间。",
+        "disable": 0
+    },
+    {
+        "Key": 40,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我相信你。",
+        "disable": 0
+    },
+    {
+        "Key": 41,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "陶",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_npc003_13",
+        "zh_CN": "嗯。",
+        "disable": 0
+    },
+    {
+        "Key": 42,
+        "Flag": "",
+        "Pos": 9,
+        "Speaker": "克罗瑞娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_girl022_04",
+        "zh_CN": "playername！",
+        "disable": 0
+    },
+    {
+        "Key": 43,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "克罗瑞娜在宿舍一楼的吧台冲我挥手。汉堡和各种各样的小吃摆了一桌子。",
+        "disable": 0
+    },
+    {
+        "Key": 44,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她拿起餐刀刮了刮汉堡，棕褐色的汉堡外壳发出脆脆的声响。",
+        "disable": 0
+    },
+    {
+        "Key": 45,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "切开汉堡，肉饼的汁水混着融化的芝士从横截面流下来。",
+        "disable": 0
+    },
+    {
+        "Key": 46,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "难以置信。同样的食材，半个月前是一团黑炭。",
+        "disable": 0
+    },
+    {
+        "Key": 47,
+        "Flag": "",
+        "Pos": 9,
+        "Speaker": "克罗瑞娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_girl022_05",
+        "zh_CN": "你是在夸我吗？",
+        "disable": 0
+    },
+    {
+        "Key": 48,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "克罗瑞娜咬了一口汉堡，眨了眨眼睛。",
+        "disable": 0
+    },
+    {
+        "Key": 49,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "克罗瑞娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_girl022_06",
+        "zh_CN": "嗯——真好。",
+        "disable": 0
+    },
+    {
+        "Key": 50,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "克罗瑞娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_girl022_07",
+        "zh_CN": "汉堡的厚度刚刚好。咬着不吃力，又很有满足感。",
+        "disable": 0
+    },
+    {
+        "Key": 51,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "克罗瑞娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_girl022_08",
+        "zh_CN": "很多汉堡店为了追求噱头，把汉堡做成好多层，咬都咬不住。",
+        "disable": 0
+    },
+    {
+        "Key": 52,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "克罗瑞娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_girl022_09",
+        "zh_CN": "自己做的汉堡就是最好的！",
+        "disable": 0
+    },
+    {
+        "Key": 53,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "（哪来这么多奇怪的感慨……）",
+        "disable": 0
+    },
+    {
+        "Key": 54,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不过，也可以理解。踏入新生活之后，总要试图理解这种新的价值观。",
+        "disable": 0
+    },
+    {
+        "Key": 55,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "对了，前台有一封你的信，我给你捎过来了。",
+        "disable": 0
+    },
+    {
+        "Key": 56,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "克罗瑞娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_girl022_10",
+        "zh_CN": "信！是小姨寄的对不对？",
+        "disable": 0
+    },
+    {
+        "Key": 57,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她脱下手套，擦了擦嘴巴，从我手里接过信封拆开。",
+        "disable": 0
+    },
+    {
+        "Key": 58,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_mira_01",
+        "zh_CN": "克罗瑞娜：",
+        "disable": 0
+    },
+    {
+        "Key": 59,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_mira_02",
+        "zh_CN": "庄园的产权和公司的股份都转入到你的名下了，你的银行卡也随信一并寄来了。",
+        "disable": 0
+    },
+    {
+        "Key": 60,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_mira_03",
+        "zh_CN": "我大概不是个合格的长辈。或许是时候学会放手了。",
+        "disable": 0
+    },
+    {
+        "Key": 61,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_mira_04",
+        "zh_CN": "去过你想过的生活吧。从今天开始，吉诺拉属于你了。",
+        "disable": 0
+    },
+    {
+        "Key": 62,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_mira_05",
+        "zh_CN": "不要找我。如果我想你了，会去看你的。",
+        "disable": 0
+    },
+    {
+        "Key": 63,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_mira_06",
+        "zh_CN": "过得好一点。否则有他好看。",
+        "disable": 0
+    },
+    {
+        "Key": 64,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_mira_07",
+        "zh_CN": "——米拉·吉诺拉",
+        "disable": 0
+    },
+    {
+        "Key": 65,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "随着信一同滑出来的还有银行卡和项链。",
+        "disable": 0
+    },
+    {
+        "Key": 66,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "克罗瑞娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_girl022_19",
+        "zh_CN": "……小姨这是什么意思？！",
+        "disable": 0
+    },
+    {
+        "Key": 67,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……让你见识一下成年人的险恶。",
+        "disable": 0
+    },
+    {
+        "Key": 68,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "叮——",
+        "disable": 0
+    },
+    {
+        "Key": 69,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "叮叮叮叮叮——",
+        "disable": 0
+    },
+    {
+        "Key": 70,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "很快，克罗瑞娜的通讯终端就被接连不断的通讯消息淹没了。",
+        "disable": 0
+    },
+    {
+        "Key": 71,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "在响成一串的通讯声中，克罗瑞娜呆呆地看着我。",
+        "disable": 0
+    },
+    {
+        "Key": 72,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我耸了耸肩，表示无能为力。",
+        "disable": 0
+    },
+    {
+        "Key": 73,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "见识一下大人的险恶吧。",
+        "disable": 0
+    },
+    {
+        "Key": 74,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "——你很有责任心。虽然很抗拒身上的责任，但对米拉的感情并不是假的。",
+        "disable": 0
+    },
+    {
+        "Key": 75,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "对公司也一样。这是她这么多年带着你参与项目培养的感情。按她这种带法，你不可能长成那种败家子。",
+        "disable": 0
+    },
+    {
+        "Key": 76,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "现在收网虽然早了点，但也不是没有效果。能把你的心拴一拴，她的目的就达到了。",
+        "disable": 0
+    },
+    {
+        "Key": 77,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "克罗瑞娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_girl022_11",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": 78,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "克罗瑞娜愣了两秒，把手机关了机，放在了信封上。",
+        "disable": 0
+    },
+    {
+        "Key": 79,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": 80,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "克罗瑞娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_girl022_12",
+        "zh_CN": "这种事情，明天再想好了！",
+        "disable": 0
+    },
+    {
+        "Key": 81,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "克罗瑞娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_girl022_13",
+        "zh_CN": "今天还有重要的事要办呢。",
+        "disable": 0
+    },
+    {
+        "Key": 82,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "学唱歌还是打桌游？",
+        "disable": 0
+    },
+    {
+        "Key": 83,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "克罗瑞娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_girl022_14",
+        "zh_CN": "都要！",
+        "disable": 0
+    },
+    {
+        "Key": 84,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "克罗瑞娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_girl022_15",
+        "zh_CN": "呜，吃完咯——",
+        "disable": 0
+    },
+    {
+        "Key": 85,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她把剩下的汉堡塞进嘴里，擦了擦嘴。",
+        "disable": 0
+    },
+    {
+        "Key": 86,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "克罗瑞娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_girl022_16",
+        "zh_CN": "好了！待会儿见！",
+        "disable": 0
+    },
+    {
+        "Key": 87,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她挥了挥手，跑回了自己的房间。过了一会儿，又从房间里急匆匆地跑了出来。",
+        "disable": 0
+    },
+    {
+        "Key": 88,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "克罗瑞娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_girl022_17",
+        "zh_CN": "今天忘记说早安了！",
+        "disable": 0
+    },
+    {
+        "Key": 89,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "嗯……",
+        "disable": 0
+    },
+    {
+        "Key": 90,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她靠过来，大大方方地吻了我一口，吻罢还舔了舔嘴角。",
+        "disable": 0
+    },
+    {
+        "Key": 91,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "克罗瑞娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Vo_dlc31ep10_girl022_18",
+        "zh_CN": "早安，playername！",
+        "disable": 0
+    },
+    {
+        "Key": 92,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她大概是专门回房间漱了漱口，在我嘴里只留下了一点点香草的味道。",
+        "disable": 0
+    },
+    {
+        "Key": 93,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我笑了笑，也回了一句——",
+        "disable": 0
+    },
+    {
+        "Key": 94,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "早安，克罗瑞娜。",
+        "disable": 0
+    }
+]

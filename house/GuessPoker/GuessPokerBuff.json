@@ -1,0 +1,1499 @@
+[
+    {
+        "BuffID": 1001,
+        "Condition": [
+            [
+                "BlindBuff",
+                107,
+                "OpenCardTrue"
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.0,
+            2
+        ]
+    },
+    {
+        "BuffID": 1002,
+        "Condition": [
+            [
+                "BlindBuff",
+                107,
+                "OpenCardFalse"
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.0,
+            1
+        ]
+    },
+    {
+        "BuffID": 1003,
+        "Condition": [
+            [
+                "BlindBuff",
+                103
+            ],
+            [
+                "PlayerPoker",
+                1,
+                3,
+                0,
+                2,
+                3
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.1,
+            2
+        ]
+    },
+    {
+        "BuffID": 1004,
+        "Condition": [
+            [
+                "BlindBuff",
+                102
+            ],
+            [
+                "PlayerPoker",
+                1,
+                3,
+                0,
+                2,
+                1
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.1,
+            2
+        ]
+    },
+    {
+        "BuffID": 1005,
+        "Condition": [
+            [
+                "BlindBuff",
+                106
+            ],
+            [
+                "PlayerPoker",
+                2,
+                2,
+                1,
+                2,
+                1
+            ],
+            [
+                "PlayerPoker",
+                2,
+                2,
+                2,
+                2,
+                1
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            5.65,
+            2
+        ]
+    },
+    {
+        "BuffID": 1006,
+        "Condition": [
+            [
+                "BlindBuff",
+                106
+            ],
+            [
+                "PlayerPoker",
+                1,
+                3,
+                0,
+                2,
+                2
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            1.0,
+            2
+        ]
+    },
+    {
+        "BuffID": 1007,
+        "Condition": [
+            [
+                "PlayerPoker",
+                2,
+                2,
+                1,
+                2,
+                0
+            ],
+            [
+                "PlayerPoker",
+                2,
+                2,
+                0,
+                4,
+                3
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.1,
+            1
+        ]
+    },
+    {
+        "BuffID": 1008,
+        "Condition": [
+            [
+                "Survivors",
+                2,
+                2
+            ],
+            [
+                "PlayerPoker",
+                1,
+                2,
+                0,
+                4,
+                3
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            1.0,
+            2
+        ]
+    },
+    {
+        "BuffID": 1009,
+        "Condition": [
+            [
+                "Pokers",
+                3,
+                8
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.05,
+            1
+        ]
+    },
+    {
+        "BuffID": 1010,
+        "Condition": [
+            [
+                "PlayerPoker",
+                1,
+                2,
+                0,
+                2,
+                0
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.01,
+            2
+        ]
+    },
+    {
+        "BuffID": 1011,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                2,
+                0
+            ],
+            [
+                "PlayerChallenge",
+                1,
+                4
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            4.0,
+            2
+        ]
+    },
+    {
+        "BuffID": 1012,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                2,
+                0
+            ],
+            [
+                "PlayerChallenge",
+                1,
+                5
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.34,
+            2
+        ]
+    },
+    {
+        "BuffID": 1013,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                2,
+                0
+            ],
+            [
+                "PlayerChallenge",
+                2,
+                1
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            4.0,
+            2
+        ]
+    },
+    {
+        "BuffID": 1014,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                2,
+                0
+            ],
+            [
+                "PlayerChallenge",
+                2,
+                2
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.1,
+            2
+        ]
+    },
+    {
+        "BuffID": 1015,
+        "Condition": [
+            [
+                "PlayerPokerSp",
+                1,
+                3,
+                0,
+                3,
+                3
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            9.0,
+            2
+        ]
+    },
+    {
+        "BuffID": 1016,
+        "Condition": [
+            [
+                "PlayerPoker",
+                1,
+                2,
+                0,
+                2,
+                0
+            ],
+            [
+                "PlayerPoker",
+                2,
+                2,
+                2,
+                3,
+                0
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            9.0,
+            2
+        ]
+    },
+    {
+        "BuffID": 1017,
+        "Condition": [
+            [
+                "PlayerPoker",
+                1,
+                3,
+                0,
+                2,
+                3
+            ],
+            [
+                "PlayerPoker",
+                2,
+                1,
+                1,
+                5,
+                3
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            2.0,
+            2
+        ]
+    },
+    {
+        "BuffID": 2001,
+        "Condition": {
+            "BlindBuff": 107
+        },
+        "Result": [
+            "ChangeDeal",
+            1,
+            0
+        ]
+    },
+    {
+        "BuffID": 2002,
+        "Condition": {
+            "BlindBuff": 107
+        },
+        "Result": [
+            "ChangeDeal",
+            3,
+            1
+        ]
+    },
+    {
+        "BuffID": 2003,
+        "Condition": [
+            [
+                "BlindBuff",
+                102
+            ],
+            [
+                "PlayerPoker",
+                1,
+                2,
+                0,
+                2,
+                0
+            ],
+            [
+                "PlayerPoker",
+                2,
+                2,
+                1,
+                2,
+                0
+            ]
+        ],
+        "Result": [
+            "ChangeDeal",
+            3,
+            1
+        ]
+    },
+    {
+        "BuffID": 2004,
+        "Condition": {
+            "BlindBuff": 106
+        },
+        "Result": [
+            "ChangeDeal",
+            3,
+            0
+        ]
+    },
+    {
+        "BuffID": 2005,
+        "Condition": {
+            "BlindBuff": 106
+        },
+        "Result": [
+            "ChangeDeal",
+            1,
+            0
+        ]
+    },
+    {
+        "BuffID": 2006,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                2,
+                0
+            ],
+            [
+                "PlayerChallenge",
+                2,
+                5
+            ]
+        ],
+        "Result": [
+            "ChangeDeal",
+            2,
+            0
+        ]
+    },
+    {
+        "BuffID": 2007,
+        "Condition": [
+            [
+                "Survivors",
+                2,
+                2
+            ],
+            [
+                "PlayerPoker",
+                1,
+                2,
+                0,
+                4,
+                3
+            ]
+        ],
+        "Result": [
+            "ChangeDeal",
+            0,
+            1
+        ]
+    },
+    {
+        "BuffID": 2008,
+        "Condition": [
+            [
+                "PlayerPoker",
+                1,
+                2,
+                0,
+                2,
+                0
+            ],
+            [
+                "PlayerPokerSp",
+                2,
+                2,
+                1,
+                2,
+                2
+            ]
+        ],
+        "Result": [
+            "ChangeDeal",
+            0,
+            -1
+        ]
+    },
+    {
+        "BuffID": 2009,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                2,
+                0
+            ]
+        ],
+        "Result": [
+            "ChangeDeal",
+            0,
+            1
+        ]
+    },
+    {
+        "BuffID": 15101,
+        "Condition": [
+            [
+                "Pokers",
+                4,
+                3
+            ]
+        ],
+        "Result": [
+            "ChangeDeal",
+            0,
+            1
+        ]
+    },
+    {
+        "BuffID": 15102,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                5,
+                1
+            ]
+        ],
+        "Result": [
+            "ChangeDealSp",
+            2
+        ]
+    },
+    {
+        "BuffID": 15103,
+        "Condition": [
+            [
+                "PlayerPoker",
+                2,
+                1,
+                2,
+                3,
+                0
+            ]
+        ],
+        "Result": [
+            "ChangeDeal",
+            2,
+            0
+        ]
+    },
+    {
+        "BuffID": 15104,
+        "Condition": [
+            [
+                "Pokers",
+                5,
+                9
+            ],
+            [
+                "PlayerDeal",
+                2,
+                1,
+                5,
+                1
+            ]
+        ],
+        "Result": [
+            "ChangeDeal",
+            0,
+            -1
+        ]
+    },
+    {
+        "BuffID": 15202,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                2,
+                0
+            ],
+            [
+                "PlayerChallenge",
+                1,
+                4
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            4.0,
+            2
+        ]
+    },
+    {
+        "BuffID": 15205,
+        "Condition": [
+            [
+                "PlayerDeal",
+                1,
+                2,
+                3,
+                5
+            ],
+            [
+                "Pokers",
+                5,
+                5
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.18,
+            2
+        ]
+    },
+    {
+        "BuffID": 15203,
+        "Condition": [
+            [
+                "PlayerPoker",
+                1,
+                3,
+                0,
+                2,
+                2
+            ],
+            [
+                "PlayerPoker",
+                2,
+                1,
+                2,
+                5,
+                3
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            5.65,
+            2
+        ]
+    },
+    {
+        "BuffID": 15204,
+        "Condition": [
+            [
+                "PlayerPoker",
+                1,
+                3,
+                0,
+                5,
+                2
+            ],
+            [
+                "PlayerDeal",
+                1,
+                3,
+                2,
+                0
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            2.0,
+            2
+        ]
+    },
+    {
+        "BuffID": 15206,
+        "Condition": [
+            [
+                "PlayerPoker",
+                1,
+                3,
+                0,
+                4,
+                2
+            ],
+            [
+                "PlayerDeal",
+                1,
+                3,
+                5,
+                2
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            2.0,
+            2
+        ]
+    },
+    {
+        "BuffID": 15201,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                2,
+                0
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.6,
+            2
+        ]
+    },
+    {
+        "BuffID": 17101,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                5,
+                1
+            ],
+            [
+                "PlayerPoker",
+                2,
+                2,
+                1,
+                3,
+                0
+            ]
+        ],
+        "Result": [
+            "ChangeDeal",
+            1,
+            0
+        ]
+    },
+    {
+        "BuffID": 17102,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                5,
+                1
+            ],
+            [
+                "PlayerPoker",
+                2,
+                2,
+                2,
+                3,
+                0
+            ]
+        ],
+        "Result": [
+            "ChangeDealSp",
+            3
+        ]
+    },
+    {
+        "BuffID": 17103,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                5,
+                1
+            ]
+        ],
+        "Result": [
+            "ChangeDealSp",
+            2
+        ]
+    },
+    {
+        "BuffID": 17104,
+        "Condition": [
+            [
+                "PlayerPoker",
+                2,
+                2,
+                1,
+                4,
+                2
+            ]
+        ],
+        "Result": [
+            "ChangeDeal",
+            3,
+            0
+        ]
+    },
+    {
+        "BuffID": 17201,
+        "Condition": [
+            [
+                "LifeNum",
+                2,
+                2,
+                1
+            ],
+            [
+                "EmoType",
+                2
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.01,
+            1
+        ]
+    },
+    {
+        "BuffID": 17202,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                2,
+                0
+            ],
+            [
+                "PlayerPoker",
+                1,
+                3,
+                0,
+                4,
+                2
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.15,
+            2
+        ]
+    },
+    {
+        "BuffID": 17203,
+        "Condition": {
+            "EmoType": 2
+        },
+        "Result": [
+            "ChangeWeight",
+            1.8,
+            2
+        ]
+    },
+    {
+        "BuffID": 17204,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                2,
+                0
+            ],
+            [
+                "Pokers",
+                5,
+                4
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            1.2,
+            2
+        ]
+    },
+    {
+        "BuffID": 17205,
+        "Condition": [
+            [
+                "Pokers",
+                5,
+                9
+            ],
+            [
+                "PlayerPoker",
+                2,
+                2,
+                2,
+                3,
+                0
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            2.3,
+            2
+        ]
+    },
+    {
+        "BuffID": 17206,
+        "Condition": [
+            [
+                "PlayerPoker",
+                2,
+                1,
+                1,
+                5,
+                2
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            1.5,
+            2
+        ]
+    },
+    {
+        "BuffID": 11101,
+        "Condition": [
+            [
+                "PlayerPoker",
+                2,
+                2,
+                1,
+                2,
+                0
+            ],
+            [
+                "PlayerPoker",
+                1,
+                3,
+                0,
+                4,
+                2
+            ]
+        ],
+        "Result": [
+            "ChangeDealSp",
+            1
+        ]
+    },
+    {
+        "BuffID": 11102,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                3,
+                0
+            ]
+        ],
+        "Result": [
+            "ChangeDealSp",
+            2
+        ]
+    },
+    {
+        "BuffID": 11103,
+        "Condition": [
+            [
+                "PlayerPokerSp",
+                1,
+                2,
+                0,
+                4,
+                2
+            ]
+        ],
+        "Result": [
+            "ChangeDeal",
+            1,
+            0
+        ]
+    },
+    {
+        "BuffID": 11104,
+        "Condition": [
+            [
+                "PlayerPoker",
+                2,
+                2,
+                2,
+                2,
+                0
+            ]
+        ],
+        "Result": [
+            "ChangeDealSp",
+            1
+        ]
+    },
+    {
+        "BuffID": 11201,
+        "Condition": [
+            [
+                "LifeNum",
+                1,
+                2,
+                1
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.1,
+            2
+        ]
+    },
+    {
+        "BuffID": 11202,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                2,
+                0
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.43,
+            2
+        ]
+    },
+    {
+        "BuffID": 11203,
+        "Condition": [
+            [
+                "Pokers",
+                4,
+                5
+            ],
+            [
+                "PlayerPoker",
+                1,
+                3,
+                0,
+                5,
+                2
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.5,
+            2
+        ]
+    },
+    {
+        "BuffID": 11204,
+        "Condition": [
+            [
+                "PlayerPoker",
+                1,
+                3,
+                0,
+                5,
+                2
+            ],
+            [
+                "PlayerPoker",
+                2,
+                1,
+                1,
+                5,
+                3
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            4.0,
+            2
+        ]
+    },
+    {
+        "BuffID": 11205,
+        "Condition": [
+            [
+                "Survivors",
+                3,
+                1
+            ],
+            [
+                "LifeNum",
+                2,
+                3,
+                1
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.66,
+            2
+        ]
+    },
+    {
+        "BuffID": 11206,
+        "Condition": [
+            [
+                "PlayerPoker",
+                2,
+                1,
+                1,
+                5,
+                2
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            1.8,
+            2
+        ]
+    },
+    {
+        "BuffID": 20101,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                5,
+                1
+            ]
+        ],
+        "Result": [
+            "ChangeDealSp",
+            2
+        ]
+    },
+    {
+        "BuffID": 20102,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                2,
+                0
+            ],
+            [
+                "PlayerChallenge",
+                2,
+                6
+            ]
+        ],
+        "Result": [
+            "ChangeDeal",
+            3,
+            1
+        ]
+    },
+    {
+        "BuffID": 20103,
+        "Condition": [
+            [
+                "PlayerPoker",
+                2,
+                2,
+                1,
+                3,
+                0
+            ]
+        ],
+        "Result": [
+            "ChangeDeal",
+            2,
+            0
+        ]
+    },
+    {
+        "BuffID": 20104,
+        "Condition": [
+            [
+                "LifeNum",
+                2,
+                2,
+                1
+            ],
+            [
+                "PlayerChallenge",
+                2,
+                6
+            ]
+        ],
+        "Result": [
+            "ChangeDeal",
+            3,
+            0
+        ]
+    },
+    {
+        "BuffID": 20201,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                2,
+                0
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.33,
+            2
+        ]
+    },
+    {
+        "BuffID": 20202,
+        "Condition": [
+            [
+                "PlayerChallenge",
+                1,
+                6
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            2.2,
+            2
+        ]
+    },
+    {
+        "BuffID": 20203,
+        "Condition": [
+            [
+                "PlayerPoker",
+                2,
+                1,
+                2,
+                5,
+                3
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.18,
+            2
+        ]
+    },
+    {
+        "BuffID": 20204,
+        "Condition": {
+            "EmoType": 2
+        },
+        "Result": [
+            "ChangeWeight",
+            3.0,
+            2
+        ]
+    },
+    {
+        "BuffID": 20205,
+        "Condition": {
+            "EmoType": 3
+        },
+        "Result": [
+            "ChangeWeight",
+            0.2,
+            2
+        ]
+    },
+    {
+        "BuffID": 20206,
+        "Condition": [
+            [
+                "Pokers",
+                5,
+                6
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            3.0,
+            2
+        ]
+    },
+    {
+        "BuffID": 21101,
+        "Condition": [
+            [
+                "PlayerPoker",
+                2,
+                1,
+                2,
+                3,
+                1
+            ],
+            [
+                "Pokers",
+                5,
+                6
+            ]
+        ],
+        "Result": [
+            "ChangeDeal",
+            3,
+            -1
+        ]
+    },
+    {
+        "BuffID": 21102,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                3,
+                0
+            ]
+        ],
+        "Result": [
+            "ChangeDeal",
+            2,
+            0
+        ]
+    },
+    {
+        "BuffID": 21103,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                2,
+                0
+            ]
+        ],
+        "Result": [
+            "ChangeDeal",
+            1,
+            0
+        ]
+    },
+    {
+        "BuffID": 21104,
+        "Condition": [
+            [
+                "PlayerPoker",
+                2,
+                2,
+                1,
+                5,
+                2
+            ]
+        ],
+        "Result": [
+            "ChangeDeal",
+            1,
+            1
+        ]
+    },
+    {
+        "BuffID": 21201,
+        "Condition": [
+            [
+                "EmoType",
+                1
+            ],
+            [
+                "PlayerPoker",
+                2,
+                2,
+                1,
+                5,
+                2
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.01,
+            1
+        ]
+    },
+    {
+        "BuffID": 21202,
+        "Condition": [
+            [
+                "PlayerDeal",
+                1,
+                2,
+                5,
+                15
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            3.9,
+            2
+        ]
+    },
+    {
+        "BuffID": 21203,
+        "Condition": [
+            [
+                "PlayerDeal",
+                1,
+                1,
+                5,
+                2
+            ],
+            [
+                "PlayerDeal",
+                1,
+                3,
+                2,
+                0
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            0.25,
+            2
+        ]
+    },
+    {
+        "BuffID": 21204,
+        "Condition": [
+            [
+                "PlayerPokerSp",
+                1,
+                2,
+                0,
+                4,
+                2
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            2.0,
+            2
+        ]
+    },
+    {
+        "BuffID": 21205,
+        "Condition": [
+            [
+                "PlayerDeal",
+                1,
+                3,
+                5,
+                2
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            3.5,
+            2
+        ]
+    },
+    {
+        "BuffID": 21206,
+        "Condition": [
+            [
+                "PlayerDeal",
+                2,
+                1,
+                2,
+                0
+            ],
+            [
+                "PlayerPoker",
+                1,
+                3,
+                0,
+                5,
+                2
+            ]
+        ],
+        "Result": [
+            "ChangeWeight",
+            1.5,
+            2
+        ]
+    }
+]

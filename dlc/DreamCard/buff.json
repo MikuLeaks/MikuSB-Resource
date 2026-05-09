@@ -1,0 +1,498 @@
+[
+    {
+        "ID": 1,
+        "BuffUIID": 4105001,
+        "Name": "dreamcard.buff_name01",
+        "Des": "dreamcard.buff_desc01",
+        "BuffLevel": 2,
+        "EffectID": [
+            1
+        ],
+        "Count": [
+            [
+                0.1
+            ]
+        ],
+        "DescParam": [
+            10
+        ]
+    },
+    {
+        "ID": 2,
+        "BuffUIID": 4105003,
+        "Name": "dreamcard.buff_name02",
+        "Des": "dreamcard.buff_desc02",
+        "BuffLevel": 4,
+        "EffectID": [
+            2
+        ],
+        "Count": [
+            []
+        ]
+    },
+    {
+        "ID": 3,
+        "BuffUIID": 4105004,
+        "Name": "dreamcard.buff_name03",
+        "Des": "dreamcard.buff_desc03",
+        "BuffLevel": 4,
+        "EffectID": [
+            3
+        ],
+        "Count": [
+            []
+        ]
+    },
+    {
+        "ID": 4,
+        "BuffUIID": 4105005,
+        "Name": "dreamcard.buff_name04",
+        "Des": "dreamcard.buff_desc04",
+        "BuffLevel": 4,
+        "EffectID": [
+            4
+        ],
+        "Count": [
+            []
+        ]
+    },
+    {
+        "ID": 5,
+        "BuffUIID": 4105006,
+        "Name": "dreamcard.buff_name05",
+        "Des": "dreamcard.buff_desc05",
+        "BuffLevel": 4,
+        "EffectID": [
+            5
+        ],
+        "Count": [
+            []
+        ]
+    },
+    {
+        "ID": 6,
+        "BuffUIID": 4105007,
+        "Name": "dreamcard.buff_name06",
+        "Des": "dreamcard.buff_desc06",
+        "BuffLevel": 4,
+        "EffectID": [
+            6
+        ],
+        "Count": [
+            [
+                8
+            ]
+        ]
+    },
+    {
+        "ID": 7,
+        "BuffUIID": 4105019,
+        "Name": "dreamcard.buff_name07",
+        "Des": "dreamcard.buff_desc07",
+        "BuffLevel": 4,
+        "EffectID": [
+            7
+        ],
+        "Count": [
+            []
+        ]
+    },
+    {
+        "ID": 8,
+        "BuffUIID": 4105002,
+        "Name": "dreamcard.buff_name08",
+        "Des": "dreamcard.buff_desc08",
+        "BuffLevel": 8,
+        "EffectID": [
+            8
+        ],
+        "Count": [
+            [
+                6
+            ]
+        ],
+        "DescParam": [
+            6,
+            6
+        ]
+    },
+    {
+        "ID": 9,
+        "BuffUIID": 4105009,
+        "Name": "dreamcard.buff_name09",
+        "Des": "dreamcard.buff_desc09",
+        "BuffLevel": 8,
+        "EffectID": [
+            9
+        ],
+        "Count": [
+            [
+                60
+            ]
+        ],
+        "DescParam": [
+            60
+        ]
+    },
+    {
+        "ID": 10,
+        "BuffUIID": 4105010,
+        "Name": "dreamcard.buff_name10",
+        "Des": "dreamcard.buff_desc10",
+        "BuffLevel": 4,
+        "EffectID": [
+            10
+        ],
+        "Count": [
+            [
+                3
+            ]
+        ],
+        "DescParam": [
+            3
+        ]
+    },
+    {
+        "ID": 11,
+        "BuffUIID": 4105011,
+        "Name": "dreamcard.buff_name11",
+        "Des": "dreamcard.buff_desc11",
+        "BuffLevel": 2,
+        "EffectID": [
+            11
+        ],
+        "Count": {
+            "3600": 20
+        }
+    },
+    {
+        "ID": 12,
+        "BuffUIID": 4105012,
+        "Name": "dreamcard.buff_name12",
+        "Des": "dreamcard.buff_desc12",
+        "BuffLevel": 3,
+        "EffectID": [
+            12
+        ],
+        "Count": {
+            "1": 1
+        },
+        "DescParam": [
+            1
+        ]
+    },
+    {
+        "ID": 13,
+        "BuffUIID": 4105017,
+        "Name": "dreamcard.buff_name13",
+        "Des": "dreamcard.buff_desc13",
+        "BuffLevel": 2,
+        "EffectID": [
+            13
+        ],
+        "Count": [
+            []
+        ]
+    },
+    {
+        "ID": 14,
+        "BuffUIID": 4105014,
+        "Name": "dreamcard.buff_name14",
+        "Des": "dreamcard.buff_desc14",
+        "BuffLevel": 3,
+        "EffectID": [
+            14
+        ],
+        "Count": [
+            [
+                400000
+            ]
+        ]
+    },
+    {
+        "ID": 15,
+        "BuffUIID": 4105016,
+        "Name": "dreamcard.buff_name15",
+        "Des": "dreamcard.buff_desc15",
+        "BuffLevel": 4,
+        "EffectID": [
+            15
+        ],
+        "Count": [
+            [
+                2
+            ]
+        ]
+    },
+    {
+        "ID": 16,
+        "BuffUIID": 4105013,
+        "Name": "dreamcard.buff_name16",
+        "Des": "dreamcard.buff_desc16",
+        "BuffLevel": 4,
+        "EffectID": [
+            16
+        ],
+        "Count": [
+            []
+        ]
+    },
+    {
+        "ID": 17,
+        "BuffUIID": 4105015,
+        "Name": "dreamcard.buff_name17",
+        "Des": "dreamcard.buff_desc17",
+        "BuffLevel": 4,
+        "EffectID": [
+            17
+        ],
+        "Count": [
+            [
+                0.6
+            ]
+        ]
+    },
+    {
+        "ID": 18,
+        "BuffUIID": 4105001,
+        "Name": "dreamcard.buff_name01",
+        "Des": "dreamcard.buff_desc01",
+        "BuffLevel": 4,
+        "EffectID": [
+            1
+        ],
+        "Count": [
+            [
+                0.2
+            ]
+        ],
+        "DescParam": [
+            20
+        ]
+    },
+    {
+        "ID": 19,
+        "BuffUIID": 4105001,
+        "Name": "dreamcard.buff_name01",
+        "Des": "dreamcard.buff_desc01",
+        "BuffLevel": 4,
+        "EffectID": [
+            1
+        ],
+        "Count": [
+            [
+                0.3
+            ]
+        ],
+        "DescParam": [
+            30
+        ]
+    },
+    {
+        "ID": 20,
+        "BuffUIID": 4105012,
+        "Name": "dreamcard.buff_name12",
+        "Des": "dreamcard.buff_desc12",
+        "BuffLevel": 4,
+        "EffectID": [
+            12
+        ],
+        "Count": {
+            "2": 1
+        },
+        "DescParam": [
+            2
+        ]
+    },
+    {
+        "ID": 21,
+        "BuffUIID": 4105011,
+        "Name": "dreamcard.buff_name11",
+        "Des": "dreamcard.buff_desc11_2",
+        "BuffLevel": 8,
+        "EffectID": [
+            18
+        ],
+        "Count": [
+            [
+                200
+            ]
+        ],
+        "DescParam": [
+            200,
+            200
+        ]
+    },
+    {
+        "ID": 22,
+        "BuffUIID": 4105024,
+        "Name": "dreamcard.buff_name18",
+        "Des": "dreamcard.buff_desc18",
+        "BuffLevel": 8,
+        "EffectID": [
+            19
+        ],
+        "Count": {
+            "5": 8
+        },
+        "DescParam": [
+            5,
+            8
+        ]
+    },
+    {
+        "ID": 23,
+        "BuffUIID": 4105018,
+        "Name": "dreamcard.buff_name19",
+        "Des": "dreamcard.buff_desc19",
+        "BuffLevel": 4,
+        "EffectID": [
+            20
+        ],
+        "Count": [
+            [
+                1
+            ]
+        ],
+        "DescParam": [
+            1
+        ]
+    },
+    {
+        "ID": 24,
+        "BuffUIID": 4105020,
+        "Name": "dreamcard.buff_name20",
+        "Des": "dreamcard.buff_desc20",
+        "BuffLevel": 4,
+        "EffectID": [
+            21
+        ],
+        "Count": [
+            [
+                1
+            ]
+        ],
+        "DescParam": [
+            1
+        ]
+    },
+    {
+        "ID": 25,
+        "BuffUIID": 4105021,
+        "Name": "dreamcard.buff_name21",
+        "Des": "dreamcard.buff_desc21",
+        "BuffLevel": 4,
+        "EffectID": [
+            22
+        ],
+        "Count": [
+            [
+                5
+            ]
+        ],
+        "DescParam": [
+            5
+        ]
+    },
+    {
+        "ID": 26,
+        "BuffUIID": 4105022,
+        "Name": "dreamcard.buff_name22",
+        "Des": "dreamcard.buff_desc22",
+        "BuffLevel": 4,
+        "EffectID": [
+            23
+        ],
+        "Count": [
+            [
+                0.1
+            ]
+        ],
+        "DescParam": [
+            10
+        ]
+    },
+    {
+        "ID": 27,
+        "BuffUIID": 4105023,
+        "Name": "dreamcard.buff_name23",
+        "Des": "dreamcard.buff_desc23",
+        "BuffLevel": 8,
+        "EffectID": [
+            24
+        ],
+        "Count": {
+            "30": 1
+        },
+        "DescParam": [
+            30,
+            1
+        ]
+    },
+    {
+        "ID": 28,
+        "BuffUIID": 4105025,
+        "Name": "dreamcard.buff_name24",
+        "Des": "dreamcard.buff_desc24",
+        "BuffLevel": 2,
+        "EffectID": [
+            25
+        ],
+        "Count": [
+            [
+                200,
+                1.1,
+                0.9
+            ]
+        ],
+        "DescParam": [
+            200,
+            10,
+            10
+        ]
+    },
+    {
+        "ID": 29,
+        "BuffUIID": 4105026,
+        "Name": "dreamcard.buff_name25",
+        "Des": "dreamcard.buff_desc25",
+        "BuffLevel": 4,
+        "EffectID": [
+            26
+        ],
+        "Count": [
+            [
+                5,
+                1.1,
+                0.9
+            ]
+        ],
+        "DescParam": [
+            5,
+            10,
+            10
+        ]
+    },
+    {
+        "ID": 30,
+        "BuffUIID": 4105027,
+        "Name": "dreamcard.buff_name26",
+        "Des": "dreamcard.buff_desc26",
+        "BuffLevel": 4,
+        "EffectID": [
+            27
+        ],
+        "Count": [
+            [
+                5,
+                1.1,
+                0.9
+            ]
+        ],
+        "DescParam": [
+            5,
+            10,
+            10
+        ]
+    }
+]

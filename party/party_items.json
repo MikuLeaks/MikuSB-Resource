@@ -1,0 +1,830 @@
+[
+    {
+        "Id": 1,
+        "Type": 1,
+        "GameType": 1,
+        "TeamID": 0,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyZbugItem05",
+        "Icon": 5209006,
+        "Desc": "ui.TxtPartyZbugItem05_des",
+        "DescValue": "",
+        "MaxUseCount": -1.0,
+        "CDTime": [
+            12
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Blueprints/LevelTask/Level/MultiLevel/Party_02/Actor/Item/BP_WP_Item_Dash.BP_WP_Item_Dash_C",
+        "Param": [
+            600,
+            10
+        ],
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1
+    },
+    {
+        "Id": 2,
+        "Type": 2,
+        "GameType": 1,
+        "TeamID": 0,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyZbugItem03",
+        "Icon": 5209002,
+        "Desc": "ui.TxtPartyZbugItem03_des",
+        "DescValue": "",
+        "MaxUseCount": 1,
+        "CDTime": [
+            0.5
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Blueprints/LevelTask/Level/MultiLevel/Party_02/Actor/Item/BP_WP_Item_Bomb.BP_WP_Item_Bomb_C",
+        "Param": "",
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 0
+    },
+    {
+        "Id": 3,
+        "Type": 1,
+        "GameType": 1,
+        "TeamID": 0,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "online.Forbidzone_WeaponName3",
+        "Icon": 5209003,
+        "Desc": "online.Forbidzone_WeaponDesc3",
+        "DescValue": "",
+        "MaxUseCount": 1,
+        "CDTime": [
+            6
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Blueprints/LevelTask/Level/MultiLevel/Party_02/Actor/Item/BP_WP_Item_Shield.BP_WP_Item_Shield_C",
+        "Param": [
+            5
+        ],
+        "isAutoUse": 1,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1
+    },
+    {
+        "Id": 4,
+        "Type": 1,
+        "GameType": 1,
+        "TeamID": 0,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyZbugItem04",
+        "Icon": 5209004,
+        "Desc": "ui.TxtPartyZbugItem04_des",
+        "DescValue": "",
+        "MaxUseCount": -1.0,
+        "CDTime": [
+            6
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Blueprints/LevelTask/Level/MultiLevel/Party_02/Actor/Item/BP_WP_Item_Pounce.BP_WP_Item_Pounce_C",
+        "Param": "",
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1
+    },
+    {
+        "Id": 5,
+        "Type": 1,
+        "GameType": 4,
+        "TeamID": 0,
+        "CanEquip": 0,
+        "HASModeSlot": 4,
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyZbugItem05",
+        "Icon": 1001370,
+        "Desc": "ui.TxtPartyZbugItem05_des",
+        "DescValue": "",
+        "MaxUseCount": 1,
+        "CDTime": [
+            12
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Blueprints/LevelTask/Level/MultiLevel/Party_03/Actor/Item/BP_WP_Item_HASDash.BP_WP_Item_HASDash_C",
+        "Param": [
+            300,
+            8
+        ],
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1
+    },
+    {
+        "Id": 6,
+        "Type": 1,
+        "GameType": 4,
+        "TeamID": 1,
+        "CanEquip": 0,
+        "HASModeSlot": 2,
+        "IsDragRelease": 1,
+        "MaxVerticalSpeed": 800,
+        "MaxHorizonSpeed": 1450,
+        "I18n": "ui.TxtPartyZbugItem03",
+        "Icon": 1001367,
+        "Desc": "ui.TxtPartyZbugItem03_des",
+        "DescValue": "",
+        "MaxUseCount": -1.0,
+        "CDTime": [
+            5,
+            3
+        ],
+        "CDTimeForStoreItem": 0.5,
+        "BP_Path": "/Game/Blueprints/LevelTask/Level/MultiLevel/Party_03/Actor/Item/BP_WP_Item_CatchBomb.BP_WP_Item_CatchBomb_C",
+        "Param": "",
+        "isAutoUse": 0,
+        "MaxStoreCount": 4,
+        "InitUseCount": 1
+    },
+    {
+        "Id": 7,
+        "Type": 1,
+        "GameType": 4,
+        "TeamID": 2,
+        "CanEquip": 0,
+        "HASModeSlot": 2,
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "online.Forbidzone_WeaponName2",
+        "Icon": 1001476,
+        "Desc": "online.Forbidzone_WeaponDesc2",
+        "DescValue": "",
+        "MaxUseCount": -1.0,
+        "CDTime": [
+            1.5
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Blueprints/LevelTask/Level/MultiLevel/Party_03/Actor/Item/BP_WP_Item_Transfiguration.BP_WP_Item_Transfiguration_C",
+        "Param": "",
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1
+    },
+    {
+        "Id": 8,
+        "Type": 1,
+        "GameType": 4,
+        "TeamID": 2,
+        "CanEquip": 1,
+        "HASModeSlot": 1,
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "partygo_level.HideAndSeek_Skill01_name",
+        "Icon": 1001480,
+        "Desc": "partygo_level.HideAndSeek_Skill01_des",
+        "DescValue": [
+            3
+        ],
+        "MaxUseCount": -1.0,
+        "CDTime": [
+            5
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Blueprints/LevelTask/Level/MultiLevel/Party_03/Actor/Item/BP_WP_Item_Bait.BP_WP_Item_Bait_C",
+        "Param": [
+            3
+        ],
+        "isAutoUse": 0,
+        "MaxStoreCount": 2,
+        "InitUseCount": 1
+    },
+    {
+        "Id": 9,
+        "Type": 1,
+        "GameType": 4,
+        "TeamID": 1,
+        "CanEquip": 1,
+        "HASModeSlot": 1,
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "partygo_level.HideAndSeek_Skill04_name",
+        "Icon": 1001478,
+        "Desc": "partygo_level.HideAndSeek_Skill04_des",
+        "DescValue": "",
+        "MaxUseCount": -1.0,
+        "CDTime": [
+            8,
+            6
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Blueprints/LevelTask/Level/MultiLevel/Party_03/Actor/Item/BP_WP_Item_InDuction.BP_WP_Item_InDuction_C",
+        "Param": [
+            2,
+            500
+        ],
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 0
+    },
+    {
+        "Id": 10,
+        "Type": 1,
+        "GameType": 4,
+        "TeamID": 2,
+        "CanEquip": 1,
+        "HASModeSlot": 1,
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "partygo_level.HideAndSeek_Skill02_name",
+        "Icon": 1001477,
+        "Desc": "partygo_level.HideAndSeek_Skill02_des",
+        "DescValue": [
+            10
+        ],
+        "MaxUseCount": -1.0,
+        "CDTime": [
+            30
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Blueprints/LevelTask/Level/MultiLevel/Party_03/Actor/Item/BP_WP_Item_Transparent.BP_WP_Item_Transparent_C",
+        "Param": [
+            10,
+            2000
+        ],
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 0
+    },
+    {
+        "Id": 11,
+        "Type": 1,
+        "GameType": 4,
+        "TeamID": 1,
+        "CanEquip": 1,
+        "HASModeSlot": 1,
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "partygo_level.HideAndSeek_Skill03_name",
+        "Icon": 1001479,
+        "Desc": "partygo_level.HideAndSeek_Skill03_des",
+        "DescValue": [
+            6
+        ],
+        "MaxUseCount": -1.0,
+        "CDTime": [
+            6,
+            4
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Blueprints/LevelTask/Level/MultiLevel/Party_03/Actor/Item/BP_WP_Item_Scan.BP_WP_Item_Scan_C",
+        "Param": [
+            6
+        ],
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1
+    },
+    {
+        "Id": 12,
+        "Type": 1,
+        "GameType": 5,
+        "TeamID": 0,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyZbugItem03",
+        "Icon": 5209002,
+        "Desc": "ui.TxtPartyZbugItem03_des",
+        "DescValue": "",
+        "MaxUseCount": 1,
+        "CDTime": [
+            0.5
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Mod/Party/Blueprints/Item/BP_WP_Item_ZBugBomb.BP_WP_Item_ZBugBomb_C",
+        "Param": "",
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1
+    },
+    {
+        "Id": 13,
+        "Type": 1,
+        "GameType": 5,
+        "TeamID": 0,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyZbugItem02",
+        "Icon": 5209005,
+        "Desc": "ui.TxtPartyZbugItem02_des",
+        "DescValue": [
+            5
+        ],
+        "MaxUseCount": 1,
+        "CDTime": [
+            12
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Mod/Party/Blueprints/Item/BP_WP_Item_OriginZBug_Feather.BP_WP_Item_OriginZBug_Feather_C",
+        "Param": [
+            3,
+            5
+        ],
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1
+    },
+    {
+        "Id": 14,
+        "Type": 1,
+        "GameType": 0,
+        "TeamID": 0,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyZbugItem01",
+        "Icon": 5209001,
+        "Desc": "ui.TxtPartyZbugItem01_des",
+        "DescValue": [
+            8
+        ],
+        "MaxUseCount": 1,
+        "CDTime": [
+            0.5
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Mod/Party/Blueprints/Item/BP_WP_Item_ZBugSmokeBombInLevel.BP_WP_Item_ZBugSmokeBombInLevel_C",
+        "Param": [
+            8
+        ],
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1,
+        "RealItemID": 18
+    },
+    {
+        "Id": 15,
+        "Type": 1,
+        "GameType": 5,
+        "TeamID": 0,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyZbugItem04",
+        "Icon": 5209004,
+        "Desc": "ui.TxtPartyZbugItem04_des",
+        "DescValue": "",
+        "MaxUseCount": 1,
+        "CDTime": [
+            6
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Mod/Party/Blueprints/Item/BP_WP_Item_ZbugPounce.BP_WP_Item_ZbugPounce_C",
+        "Param": "",
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1
+    },
+    {
+        "Id": 16,
+        "Type": 1,
+        "GameType": 0,
+        "TeamID": 0,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyZbugItem03",
+        "Icon": 5209002,
+        "Desc": "ui.TxtPartyZbugItem03_des",
+        "DescValue": "",
+        "MaxUseCount": 1,
+        "CDTime": [
+            0.5
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Mod/Party/Blueprints/Item/BP_WP_Item_ZBugBombInLevel.BP_WP_Item_ZBugBombInLevel_C",
+        "Param": "",
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1,
+        "RealItemID": 12
+    },
+    {
+        "Id": 17,
+        "Type": 1,
+        "GameType": 5,
+        "TeamID": 0,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyZbugItem05",
+        "Icon": 5209006,
+        "Desc": "ui.TxtPartyZbugItem05_des",
+        "DescValue": [
+            4
+        ],
+        "MaxUseCount": 1,
+        "CDTime": [
+            12
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Mod/Party/Blueprints/Item/BP_WP_Item_ZBugRush.BP_WP_Item_ZBugRush_C",
+        "Param": [
+            160,
+            6
+        ],
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1
+    },
+    {
+        "Id": 18,
+        "Type": 1,
+        "GameType": 5,
+        "TeamID": 0,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyZbugItem01",
+        "Icon": 5209001,
+        "Desc": "ui.TxtPartyZbugItem01_des",
+        "DescValue": [
+            8
+        ],
+        "MaxUseCount": 1,
+        "CDTime": [
+            0.5
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Mod/Party/Blueprints/Item/BP_WP_Item_SmokeBomb.BP_WP_Item_SmokeBomb_C",
+        "Param": [
+            8
+        ],
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1
+    },
+    {
+        "Id": 19,
+        "Type": 1,
+        "GameType": 0,
+        "TeamID": 2,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyChallengeItem6",
+        "Icon": "",
+        "Desc": "ui.TxtPartyChallengeItem6_des",
+        "DescValue": "",
+        "MaxUseCount": 1,
+        "CDTime": [
+            0.5
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Mod/PartyZBugChallenge/Blueprints/Item/BP_WP_Item_WeaponBox.BP_WP_Item_WeaponBox_C",
+        "Param": "",
+        "isAutoUse": 1,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1
+    },
+    {
+        "Id": 20,
+        "Type": 1,
+        "GameType": 6,
+        "TeamID": 2,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyChallengeItem1",
+        "Icon": 5209009,
+        "Desc": "ui.TxtPartyChallengeItem1_des",
+        "DescValue": [
+            50
+        ],
+        "MaxUseCount": 1,
+        "CDTime": [
+            0.5
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Mod/PartyZBugChallenge/Blueprints/Item/BP_WP_Item_CureBottile.BP_WP_Item_CureBottile_C",
+        "Param": [
+            50
+        ],
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1
+    },
+    {
+        "Id": 21,
+        "Type": 1,
+        "GameType": 6,
+        "TeamID": 2,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyChallengeItem2",
+        "Icon": 5209011,
+        "Desc": "ui.TxtPartyChallengeItem2_des",
+        "DescValue": [
+            3
+        ],
+        "MaxUseCount": 1,
+        "CDTime": [
+            0.5
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Mod/PartyZBugChallenge/Blueprints/Item/BP_WP_Item_IceBomb.BP_WP_Item_IceBomb_C",
+        "Param": [
+            3
+        ],
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1
+    },
+    {
+        "Id": 22,
+        "Type": 1,
+        "GameType": 6,
+        "TeamID": 2,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyChallengeItem3",
+        "Icon": 5209002,
+        "Desc": "ui.TxtPartyChallengeItem3_des",
+        "DescValue": "",
+        "MaxUseCount": 1,
+        "CDTime": [
+            0.5
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Mod/PartyZBugChallenge/Blueprints/Item/BP_WP_Item_ZBugChallengeBomb.BP_WP_Item_ZBugChallengeBomb_C"
+    },
+    {
+        "Id": 23,
+        "Type": 1,
+        "GameType": 0,
+        "TeamID": 2,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyChallengeItem4",
+        "Icon": 5209003,
+        "Desc": "ui.TxtPartyChallengeItem4_des",
+        "DescValue": [
+            40
+        ],
+        "MaxUseCount": 1,
+        "CDTime": [
+            0.5
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Mod/PartyZBugChallenge/Blueprints/Item/BP_WP_Item_ZBugChallengeShield.BP_WP_Item_ZBugChallengeShield_C",
+        "Param": [
+            40,
+            6
+        ]
+    },
+    {
+        "Id": 24,
+        "Type": 1,
+        "GameType": 6,
+        "TeamID": 2,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyChallengeItem5",
+        "Icon": 5209010,
+        "Desc": "ui.TxtPartyChallengeItem5_des",
+        "DescValue": [
+            30
+        ],
+        "MaxUseCount": 1,
+        "CDTime": [
+            0.5
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Mod/PartyZBugChallenge/Blueprints/Item/BP_WP_Item_Adrenaline.BP_WP_Item_Adrenaline_C",
+        "Param": [
+            30
+        ]
+    },
+    {
+        "Id": 25,
+        "Type": 1,
+        "GameType": 0,
+        "TeamID": 0,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyZbugItem03",
+        "Icon": 5209002,
+        "Desc": "ui.TxtPartyZbugItem03_des",
+        "DescValue": "",
+        "MaxUseCount": 1,
+        "CDTime": [
+            0.5
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Mod/PartyZBugChallenge/Blueprints/Item/BP_WP_Item_ZBugChallengeBombInScene.BP_WP_Item_ZBugChallengeBombInScene_C",
+        "Param": "",
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1,
+        "RealItemID": 22
+    },
+    {
+        "Id": 26,
+        "Type": 1,
+        "GameType": 0,
+        "TeamID": 0,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyZbugItem03",
+        "Icon": 5209011,
+        "Desc": "ui.TxtPartyZbugItem03_des",
+        "DescValue": "",
+        "MaxUseCount": 1,
+        "CDTime": [
+            0.5
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Mod/PartyZBugChallenge/Blueprints/Item/BP_WP_Item_IceBombInScene.BP_WP_Item_IceBombInScene_C",
+        "Param": "",
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1,
+        "RealItemID": 21
+    },
+    {
+        "Id": 27,
+        "Type": 1,
+        "GameType": 5,
+        "TeamID": 0,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyItem1",
+        "Icon": 5209007,
+        "Desc": "ui.TxtPartyItem1_des",
+        "DescValue": [
+            1.5,
+            17.5
+        ],
+        "MaxUseCount": 1,
+        "CDTime": [
+            0.5
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Mod/Party/Blueprints/Item/BP_WP_Item_InvincibleStar.BP_WP_Item_InvincibleStar_C",
+        "Param": [
+            1.5,
+            17.5
+        ],
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1
+    },
+    {
+        "Id": 28,
+        "Type": 1,
+        "GameType": 4,
+        "TeamID": 1,
+        "CanEquip": 1,
+        "HASModeSlot": 3,
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "partygo_level.HideAndSeek_Skill03_name",
+        "Icon": 1001777,
+        "Desc": "partygo_level.HideAndSeek_Skill03_des",
+        "DescValue": [
+            6
+        ],
+        "MaxUseCount": 1,
+        "CDTime": [
+            1
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Blueprints/LevelTask/Level/MultiLevel/Party_03/Actor/Item/BP_WP_Item_Scan.BP_WP_Item_Scan_C",
+        "Param": [
+            6,
+            2
+        ],
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1
+    },
+    {
+        "Id": 29,
+        "Type": 1,
+        "GameType": 4,
+        "TeamID": 0,
+        "CanEquip": 0,
+        "HASModeSlot": "",
+        "IsDragRelease": "",
+        "MaxVerticalSpeed": "",
+        "MaxHorizonSpeed": "",
+        "I18n": "ui.TxtPartyZbugItem01",
+        "Icon": 5209001,
+        "Desc": "ui.TxtPartyZbugItem01_des",
+        "DescValue": [
+            8
+        ],
+        "MaxUseCount": 1,
+        "CDTime": [
+            6,
+            4
+        ],
+        "CDTimeForStoreItem": 0,
+        "BP_Path": "/Game/Mod/Party/Blueprints/Item/BP_WP_Item_ZBugSmokeBombInLevel.BP_WP_Item_ZBugSmokeBombInLevel_C",
+        "Param": [
+            8
+        ],
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1,
+        "RealItemID": 30
+    },
+    {
+        "Id": 30,
+        "Type": 1,
+        "GameType": 4,
+        "TeamID": 0,
+        "CanEquip": 0,
+        "HASModeSlot": 4,
+        "IsDragRelease": 1,
+        "MaxVerticalSpeed": 800,
+        "MaxHorizonSpeed": 1450,
+        "I18n": "ui.TxtPartyZbugItem01",
+        "Icon": 5209001,
+        "Desc": "ui.TxtPartyZbugItem01_des",
+        "DescValue": [
+            8
+        ],
+        "MaxUseCount": 1,
+        "CDTime": [
+            6,
+            4
+        ],
+        "CDTimeForStoreItem": 0.5,
+        "BP_Path": "/Game/Mod/Party/Blueprints/Item/BP_WP_Item_SmokeBomb.BP_WP_Item_SmokeBomb_C",
+        "Param": [
+            8
+        ],
+        "isAutoUse": 0,
+        "MaxStoreCount": 0,
+        "InitUseCount": 1
+    }
+]

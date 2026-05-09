@@ -1,0 +1,592 @@
+[
+    {
+        "Key": "mission_type1",
+        "zh_CN": "日常挑战",
+        "disable": 0
+    },
+    {
+        "Key": "mission_type2",
+        "zh_CN": "高难特训",
+        "disable": 0
+    },
+    {
+        "Key": "mission_type3",
+        "zh_CN": "累计成就",
+        "disable": 0
+    },
+    {
+        "Key": "mission1",
+        "zh_CN": "强袭挑战·经典连战",
+        "disable": 0
+    },
+    {
+        "Key": "mission1_des",
+        "zh_CN": "在【经典连战】关卡内单次消除运载单元%s个",
+        "disable": 0
+    },
+    {
+        "Key": "mission2",
+        "zh_CN": "强袭挑战·核心守卫",
+        "disable": 0
+    },
+    {
+        "Key": "mission2_des",
+        "zh_CN": "在【核心守卫】关卡内单次消除运载单元%s个",
+        "disable": 0
+    },
+    {
+        "Key": "mission3",
+        "zh_CN": "强袭挑战",
+        "disable": 0
+    },
+    {
+        "Key": "mission3_des",
+        "zh_CN": "在【任意】脉冲连袭关卡内单次消除运载单元%s个",
+        "disable": 0
+    },
+    {
+        "Key": "mission4",
+        "zh_CN": "合作连袭·经典连战",
+        "disable": 0
+    },
+    {
+        "Key": "mission4_des",
+        "zh_CN": "在【经典连战】关卡内小队单局总积分达到%s分",
+        "disable": 0
+    },
+    {
+        "Key": "mission5",
+        "zh_CN": "合作连袭·核心守卫",
+        "disable": 0
+    },
+    {
+        "Key": "mission5_des",
+        "zh_CN": "在【核心守卫】关卡内小队单局总积分达到%s分",
+        "disable": 0
+    },
+    {
+        "Key": "mission6",
+        "zh_CN": "合作连袭",
+        "disable": 0
+    },
+    {
+        "Key": "mission6_des",
+        "zh_CN": "在【任意】脉冲连袭关卡内小队单局总积分达到%s分",
+        "disable": 0
+    },
+    {
+        "Key": "mission7",
+        "zh_CN": "清理轨道·经典连战",
+        "disable": 0
+    },
+    {
+        "Key": "mission7_des",
+        "zh_CN": "在【经典连战】关卡内单局消除运载单元%s个",
+        "disable": 0
+    },
+    {
+        "Key": "mission8",
+        "zh_CN": "清理轨道·核心守卫",
+        "disable": 0
+    },
+    {
+        "Key": "mission8_des",
+        "zh_CN": "在【核心守卫】关卡内单局消除运载单元%s个",
+        "disable": 0
+    },
+    {
+        "Key": "mission9",
+        "zh_CN": "清理轨道",
+        "disable": 0
+    },
+    {
+        "Key": "mission9_des",
+        "zh_CN": "在【任意】脉冲连袭关卡内单局消除运载单元%s个",
+        "disable": 0
+    },
+    {
+        "Key": "mission10",
+        "zh_CN": "战斗达人·经典连战",
+        "disable": 0
+    },
+    {
+        "Key": "mission10_des",
+        "zh_CN": "在【经典连战】关卡内单局击败%s个敌人",
+        "disable": 0
+    },
+    {
+        "Key": "mission11",
+        "zh_CN": "战斗达人·核心守卫",
+        "disable": 0
+    },
+    {
+        "Key": "mission11_des",
+        "zh_CN": "在【核心守卫】关卡内单局击败%s个敌人",
+        "disable": 0
+    },
+    {
+        "Key": "mission12",
+        "zh_CN": "战斗达人",
+        "disable": 0
+    },
+    {
+        "Key": "mission12_des",
+        "zh_CN": "在【任意】脉冲连袭关卡内单局击败%s个敌人",
+        "disable": 0
+    },
+    {
+        "Key": "mission13",
+        "zh_CN": "脉冲强者·一",
+        "disable": 0
+    },
+    {
+        "Key": "mission13_des",
+        "zh_CN": "在脉冲连袭中，累计消除%s个运载单元",
+        "disable": 0
+    },
+    {
+        "Key": "mission13_2",
+        "zh_CN": "脉冲强者·二",
+        "disable": 0
+    },
+    {
+        "Key": "mission13_2_des",
+        "zh_CN": "在脉冲连袭中，累计消除%s个运载单元",
+        "disable": 0
+    },
+    {
+        "Key": "mission13_3",
+        "zh_CN": "脉冲强者·三",
+        "disable": 0
+    },
+    {
+        "Key": "mission13_3_des",
+        "zh_CN": "在脉冲连袭中，累计消除%s个运载单元",
+        "disable": 0
+    },
+    {
+        "Key": "mission13_4",
+        "zh_CN": "脉冲强者·四",
+        "disable": 0
+    },
+    {
+        "Key": "mission13_4_des",
+        "zh_CN": "在脉冲连袭中，累计消除%s个运载单元",
+        "disable": 0
+    },
+    {
+        "Key": "mission14",
+        "zh_CN": "精锐标杆·一",
+        "disable": 0
+    },
+    {
+        "Key": "mission14_des",
+        "zh_CN": "在脉冲连袭中，累计击败%s个敌人",
+        "disable": 0
+    },
+    {
+        "Key": "mission14_2",
+        "zh_CN": "精锐标杆·二",
+        "disable": 0
+    },
+    {
+        "Key": "mission14_2_des",
+        "zh_CN": "在脉冲连袭中，累计击败%s个敌人",
+        "disable": 0
+    },
+    {
+        "Key": "mission14_3",
+        "zh_CN": "精锐标杆·三",
+        "disable": 0
+    },
+    {
+        "Key": "mission14_3_des",
+        "zh_CN": "在脉冲连袭中，累计击败%s个敌人",
+        "disable": 0
+    },
+    {
+        "Key": "mission14_4",
+        "zh_CN": "精锐标杆·四",
+        "disable": 0
+    },
+    {
+        "Key": "mission14_4_des",
+        "zh_CN": "在脉冲连袭中，累计击败%s个敌人",
+        "disable": 0
+    },
+    {
+        "Key": "mission15",
+        "zh_CN": "支援专家·一",
+        "disable": 0
+    },
+    {
+        "Key": "mission15_des",
+        "zh_CN": "累计使用过%s种脉冲支援",
+        "disable": 0
+    },
+    {
+        "Key": "mission15_2",
+        "zh_CN": "支援专家·二",
+        "disable": 0
+    },
+    {
+        "Key": "mission15_2_des",
+        "zh_CN": "累计使用过%s种脉冲支援",
+        "disable": 0
+    },
+    {
+        "Key": "mission15_3",
+        "zh_CN": "支援专家·三",
+        "disable": 0
+    },
+    {
+        "Key": "mission15_3_des",
+        "zh_CN": "累计使用过%s种脉冲支援",
+        "disable": 0
+    },
+    {
+        "Key": "mission15_4",
+        "zh_CN": "支援专家·四",
+        "disable": 0
+    },
+    {
+        "Key": "mission15_4_des",
+        "zh_CN": "累计使用过%s种脉冲支援",
+        "disable": 0
+    },
+    {
+        "Key": "mission16",
+        "zh_CN": "日常训练",
+        "disable": 0
+    },
+    {
+        "Key": "mission16_des",
+        "zh_CN": "完成【任意】脉冲连袭关卡%s次",
+        "disable": 0
+    },
+    {
+        "Key": "mission17",
+        "zh_CN": "周常训练",
+        "disable": 0
+    },
+    {
+        "Key": "mission17_des",
+        "zh_CN": "完成【任意】脉冲连袭关卡%s次",
+        "disable": 0
+    },
+    {
+        "Key": "mission18",
+        "zh_CN": "高难特训·一",
+        "disable": 0
+    },
+    {
+        "Key": "mission18_des",
+        "zh_CN": "完成【经典连战】关卡%s次",
+        "disable": 0
+    },
+    {
+        "Key": "mission18_2",
+        "zh_CN": "高难特训·二",
+        "disable": 0
+    },
+    {
+        "Key": "mission18_2_des",
+        "zh_CN": "完成【经典连战】关卡%s次",
+        "disable": 0
+    },
+    {
+        "Key": "mission18_3",
+        "zh_CN": "高难特训·三",
+        "disable": 0
+    },
+    {
+        "Key": "mission18_3_des",
+        "zh_CN": "完成【经典连战】关卡%s次",
+        "disable": 0
+    },
+    {
+        "Key": "mission18_4",
+        "zh_CN": "高难特训·四",
+        "disable": 0
+    },
+    {
+        "Key": "mission18_4_des",
+        "zh_CN": "完成【经典连战】关卡%s次",
+        "disable": 0
+    },
+    {
+        "Key": "mission19",
+        "zh_CN": "高难特训·一",
+        "disable": 0
+    },
+    {
+        "Key": "mission19_des",
+        "zh_CN": "完成【核心守卫】关卡%s次",
+        "disable": 0
+    },
+    {
+        "Key": "mission19_2",
+        "zh_CN": "高难特训·二",
+        "disable": 0
+    },
+    {
+        "Key": "mission19_2_des",
+        "zh_CN": "完成【核心守卫】关卡%s次",
+        "disable": 0
+    },
+    {
+        "Key": "mission19_3",
+        "zh_CN": "高难特训·三",
+        "disable": 0
+    },
+    {
+        "Key": "mission19_3_des",
+        "zh_CN": "完成【核心守卫】关卡%s次",
+        "disable": 0
+    },
+    {
+        "Key": "mission19_4",
+        "zh_CN": "高难特训·四",
+        "disable": 0
+    },
+    {
+        "Key": "mission19_4_des",
+        "zh_CN": "完成【核心守卫】关卡%s次",
+        "disable": 0
+    },
+    {
+        "Key": "unlock",
+        "zh_CN": "？？？",
+        "disable": 1000
+    },
+    {
+        "Key": "name1",
+        "zh_CN": "运载单元·红",
+        "disable": 0
+    },
+    {
+        "Key": "name2",
+        "zh_CN": "运载单元·蓝",
+        "disable": 0
+    },
+    {
+        "Key": "name3",
+        "zh_CN": "运载单元·绿",
+        "disable": 0
+    },
+    {
+        "Key": "name4",
+        "zh_CN": "运载单元·黄",
+        "disable": 0
+    },
+    {
+        "Key": "name5",
+        "zh_CN": "爆炸纸盒",
+        "disable": 0
+    },
+    {
+        "Key": "name6",
+        "zh_CN": "变色纸盒",
+        "disable": 0
+    },
+    {
+        "Key": "name7",
+        "zh_CN": "惊喜纸盒",
+        "disable": 0
+    },
+    {
+        "Key": "name8",
+        "zh_CN": "夯实基础",
+        "disable": 0
+    },
+    {
+        "Key": "name9",
+        "zh_CN": "特殊专精",
+        "disable": 0
+    },
+    {
+        "Key": "name10",
+        "zh_CN": "战斗达人",
+        "disable": 0
+    },
+    {
+        "Key": "name11",
+        "zh_CN": "开门惊喜",
+        "disable": 0
+    },
+    {
+        "Key": "name12",
+        "zh_CN": "更多纸盒",
+        "disable": 0
+    },
+    {
+        "Key": "name13",
+        "zh_CN": "惊喜停留",
+        "disable": 0
+    },
+    {
+        "Key": "name14",
+        "zh_CN": "装备升级",
+        "disable": 0
+    },
+    {
+        "Key": "name15",
+        "zh_CN": "停滞纸盒",
+        "disable": 0
+    },
+    {
+        "Key": "name16",
+        "zh_CN": "奖励纸盒",
+        "disable": 0
+    },
+    {
+        "Key": "des1",
+        "zh_CN": "红色涂装的运载型无人机，常常以队列形式出现，超过3个以上发生碰撞就会触发脉冲震爆！",
+        "disable": 0
+    },
+    {
+        "Key": "des2",
+        "zh_CN": "蓝色涂装的运载型无人机，常常以队列形式出现，超过3个以上发生碰撞就会触发脉冲震爆！！",
+        "disable": 0
+    },
+    {
+        "Key": "des3",
+        "zh_CN": "绿色涂装的运载型无人机，常常以队列形式出现，超过3个以上发生碰撞就会触发脉冲震爆！",
+        "disable": 0
+    },
+    {
+        "Key": "des4",
+        "zh_CN": "黄色涂装的运载型无人机，常常以队列形式出现，超过3个以上发生碰撞就会触发脉冲震爆！！",
+        "disable": 0
+    },
+    {
+        "Key": "des5",
+        "zh_CN": "纸盒形状的特殊运载单元，运载有高危爆炸品，爆炸后将消除前后相邻的各5个运载单元。",
+        "disable": 0
+    },
+    {
+        "Key": "des6",
+        "zh_CN": "纸盒形状的特殊运载单元，运载有涂装颜料，击破后会将场上数量最多的运载单元变为其他颜色。",
+        "disable": 0
+    },
+    {
+        "Key": "des7",
+        "zh_CN": "纸盒形状的特殊运载单元，运载有重要物资，打开后立刻获得持续10秒的双倍积分时间。",
+        "disable": 0
+    },
+    {
+        "Key": "des8",
+        "zh_CN": "消除运载单元时基础得分增加10",
+        "disable": 0
+    },
+    {
+        "Key": "des9",
+        "zh_CN": "消除特殊运载单元时基础得分增加100",
+        "disable": 0
+    },
+    {
+        "Key": "des10",
+        "zh_CN": "完成遭遇战波次后得分额外增加1000",
+        "disable": 0
+    },
+    {
+        "Key": "des11",
+        "zh_CN": "开局时，额外选择一次脉冲支援",
+        "disable": 0
+    },
+    {
+        "Key": "des12",
+        "zh_CN": "特殊运载单元的数量增加",
+        "disable": 0
+    },
+    {
+        "Key": "des13",
+        "zh_CN": "惊喜纸盒的分数提升效果持续时间延长5秒",
+        "disable": 0
+    },
+    {
+        "Key": "des14",
+        "zh_CN": "队员射击伤害提升15%，同时根据队员装备武器类型获得不同的增益。\\n弓箭：弹匣容量增加5；\\n冲锋枪/双持冲锋枪：暴击率提升15%；\\n突击步枪：射速提升20%；\\n霰弹枪：换弹速度提升30%，射击伤害提升10%；\\n狙击枪：射击伤害提升50%，换弹速度提升20%，弹匣容量增加5；\\n手枪：弹匣容量提升20%，暴击率提升10%；\\n弩：射速提升20%；\\n格林机枪：射击伤害提升30%",
+        "disable": 0
+    },
+    {
+        "Key": "des15",
+        "zh_CN": "纸盒形状的特殊运载单元，运载有低温液氮，击破后将在3秒内阻滞运载单元队列移动。",
+        "disable": 0
+    },
+    {
+        "Key": "des16",
+        "zh_CN": "纸盒形状的特殊运载单元，击破后将获得大量积分！",
+        "disable": 0
+    },
+    {
+        "Key": "rikiRecord",
+        "zh_CN": "战斗记录",
+        "disable": 0
+    },
+    {
+        "Key": "rikiRecord1",
+        "zh_CN": "个人最佳积分",
+        "disable": 0
+    },
+    {
+        "Key": "rikiRecord2",
+        "zh_CN": "个人单局最多消除",
+        "disable": 0
+    },
+    {
+        "Key": "rikiRecord3",
+        "zh_CN": "个人单局最多击杀",
+        "disable": 0
+    },
+    {
+        "Key": "rikiRecord4",
+        "zh_CN": "个人最大单次消除",
+        "disable": 0
+    },
+    {
+        "Key": "rikiRecord5",
+        "zh_CN": "团队最佳积分",
+        "disable": 0
+    },
+    {
+        "Key": "ImportantAward",
+        "zh_CN": "10级解锁名片：脉光广场",
+        "disable": 0
+    },
+    {
+        "Key": "ImportantAward_Claimed",
+        "zh_CN": "已领取",
+        "disable": 0
+    },
+    {
+        "Key": "BpRank",
+        "zh_CN": "脉冲评级",
+        "disable": 0
+    },
+    {
+        "Key": "mission_type4",
+        "zh_CN": "连袭日志",
+        "disable": 0
+    },
+    {
+        "Key": "bpcoin",
+        "zh_CN": "脉冲积分",
+        "disable": 0
+    },
+    {
+        "Key": "bpcoin_use",
+        "zh_CN": "脉冲连袭的积分凭证",
+        "disable": 0
+    },
+    {
+        "Key": "bpcoin_des",
+        "zh_CN": "用于提升脉冲评级，获得各类奖励",
+        "disable": 0
+    },
+    {
+        "Key": "TxtTowerRushTryRoleTips",
+        "zh_CN": "试用队员仅在脉冲连袭中生效",
+        "disable": 0
+    }
+]

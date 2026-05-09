@@ -1,0 +1,18 @@
+[
+    {
+        "ID": 1,
+        "loginscreen": [
+            2,
+            "/Game/Plot/CgPlot/Login_Plots/PoltAsset/Scene/login_bg001.login_bg001"
+        ],
+        "music": "BGM|UI|Login"
+    },
+    {
+        "ID": "--2",
+        "loginscreen": [
+            2,
+            "/Game/Plot/CgPlot/Dlc1_Plots/PoltAsset/Scene/login_dlc01_01.login_dlc01_01"
+        ],
+        "music": "BGM|UI|DLC01_Theme"
+    }
+]

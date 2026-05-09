@@ -1,0 +1,192 @@
+{
+  "pages": [
+    {
+      "id": 1,
+      "name": "Page1",
+      "max_action_id": 41,
+      "traces": [
+        {
+          "id": 1,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 22,
+                  "tpl_id": "screen_fade",
+                  "params": {
+                    "fade_type": "1",
+                    "style": "1",
+                    "time": "0"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 23,
+                  "tpl_id": "load_3d_npc",
+                  "params": {
+                    "pos": "{{position}}",
+                    "name": "",
+                    "npcId": "{{role}}",
+                    "rot": "{{rotation}}"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 40
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 26,
+                  "tpl_id": "screen_fade",
+                  "params": {
+                    "fade_type": "2",
+                    "style": "1",
+                    "time": "1"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 27,
+                  "tpl_id": "play_bgm",
+                  "params": {
+                    "name": "{{music}}"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 33,
+                  "tpl_id": "hide_scene_character",
+                  "params": {
+                    "radius": "10000",
+                    "pos": "{{position}}"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 31
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 28
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 32,
+                  "tpl_id": "hide_actor_by_name",
+                  "params": {
+                    "name": "area03_05_bp"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 38,
+                  "tpl_id": "show_or_hide_house_player",
+                  "params": {
+                    "type": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 37,
+                  "tpl_id": "hide_character_in_screen"
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 36
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 35
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 30
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 25,
+                  "tpl_id": "set_wait_move_3d_camera",
+                  "params": {
+                    "movetime": "{{time}}",
+                    "setpos": "{{cam_position_1}}",
+                    "moverot": "{{cam_rotation_2}}",
+                    "loop": "",
+                    "camera": "{{camtype}}",
+                    "wait": "",
+                    "setrot": "{{cam_rotation_1}}",
+                    "movepos": "{{cam_position_2}}",
+                    "targetId": "{{role}}"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 41
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+[
+    {
+        "Id": 1,
+        "Explain": "待机",
+        "Type": "sequence",
+        "Name": "girl014_01_house_stand01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_stand01.girl014_01_house_stand01'"
+    },
+    {
+        "Id": 2,
+        "Explain": "讲述",
+        "Type": "sequence",
+        "Name": "girl014_01_house_talk01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_talk01.girl014_01_house_talk01'"
+    },
+    {
+        "Id": 3,
+        "Explain": "沙发坐",
+        "Type": "sequence",
+        "Name": "girl014_01_house_sofa_sit01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_sofa_sit01.girl014_01_house_sofa_sit01'"
+    },
+    {
+        "Id": 4,
+        "Explain": "吧台坐",
+        "Type": "sequence",
+        "Name": "girl014_01_house_stool_sit01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_stool_sit01.girl014_01_house_stool_sit01'"
+    },
+    {
+        "Id": 5,
+        "Explain": "感谢",
+        "Type": "sequence",
+        "Name": "girl014_01_house_thank01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_thank01.girl014_01_house_thank01'"
+    },
+    {
+        "Id": 6,
+        "Explain": "惊讶",
+        "Type": "sequence",
+        "Name": "girl014_01_house_dialogue_amaze",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_dialogue_amaze.girl014_01_house_dialogue_amaze'"
+    },
+    {
+        "Id": 7,
+        "Explain": "抚发",
+        "Type": "sequence",
+        "Name": "girl014_01_house_dialogue_touch",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_dialogue_touch.girl014_01_house_dialogue_touch'"
+    },
+    {
+        "Id": 8,
+        "Explain": "读书",
+        "Type": "sequence",
+        "Name": "girl014_01_house_dialogue_reading",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_dialogue_reading.girl014_01_house_dialogue_reading'"
+    },
+    {
+        "Id": 9,
+        "Explain": "抱胸-前",
+        "Type": "sequence",
+        "Name": "girl014_01_house_dialogue_armshug_start",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_dialogue_armshug_start.girl014_01_house_dialogue_armshug_start'"
+    },
+    {
+        "Id": 10,
+        "Explain": "抱胸-循环",
+        "Type": "sequence",
+        "Name": "girl014_01_house_dialogue_armshug_loop",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_dialogue_armshug_loop.girl014_01_house_dialogue_armshug_loop'"
+    },
+    {
+        "Id": 11,
+        "Explain": "抱胸-后",
+        "Type": "sequence",
+        "Name": "girl014_01_house_dialogue_armshug_end",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_dialogue_armshug_end.girl014_01_house_dialogue_armshug_end'"
+    },
+    {
+        "Id": 12,
+        "Explain": "思考-前",
+        "Type": "sequence",
+        "Name": "girl014_01_house_dialogue_think_start",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_dialogue_think_start.girl014_01_house_dialogue_think_start'"
+    },
+    {
+        "Id": 13,
+        "Explain": "思考-循环",
+        "Type": "sequence",
+        "Name": "girl014_01_house_dialogue_think_loop",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_dialogue_think_loop.girl014_01_house_dialogue_think_loop'"
+    },
+    {
+        "Id": 14,
+        "Explain": "思考-后",
+        "Type": "sequence",
+        "Name": "girl014_01_house_dialogue_think_end",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_dialogue_think_end.girl014_01_house_dialogue_think_end'"
+    },
+    {
+        "Id": 15,
+        "Explain": "肯定",
+        "Type": "sequence",
+        "Name": "girl014_01_house_dialogue_sure",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_dialogue_sure.girl014_01_house_dialogue_sure'"
+    },
+    {
+        "Id": 16,
+        "Explain": "否定",
+        "Type": "sequence",
+        "Name": "girl014_01_house_dialogue_deny",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_dialogue_deny.girl014_01_house_dialogue_deny'"
+    },
+    {
+        "Id": 17,
+        "Explain": "悄悄话-前",
+        "Type": "sequence",
+        "Name": "girl014_01_house_dialogue_whispe_start",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_dialogue_whispe_start.girl014_01_house_dialogue_whispe_start'"
+    },
+    {
+        "Id": 18,
+        "Explain": "悄悄话-循环",
+        "Type": "sequence",
+        "Name": "girl014_01_house_dialogue_whispe_loop",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_dialogue_whispe_loop.girl014_01_house_dialogue_whispe_loop'"
+    },
+    {
+        "Id": 19,
+        "Explain": "悄悄话-后",
+        "Type": "sequence",
+        "Name": "girl014_01_house_dialogue_whispe_end",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_dialogue_whispe_end.girl014_01_house_dialogue_whispe_end'"
+    },
+    {
+        "Id": 20,
+        "Explain": "吧台撑脸-前",
+        "Type": "sequence",
+        "Name": "girl014_01_house_dialogue_barsit_start",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_dialogue_barsit_start.girl014_01_house_dialogue_barsit_start'"
+    },
+    {
+        "Id": 21,
+        "Explain": "吧台撑脸-循环",
+        "Type": "sequence",
+        "Name": "girl014_01_house_dialogue_barsit_loop",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_dialogue_barsit_loop.girl014_01_house_dialogue_barsit_loop'"
+    },
+    {
+        "Id": 22,
+        "Explain": "吧台撑脸-后",
+        "Type": "sequence",
+        "Name": "girl014_01_house_dialogue_barsit_end",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_dialogue_barsit_end.girl014_01_house_dialogue_barsit_end'"
+    },
+    {
+        "Id": 23,
+        "Explain": "蒲团坐",
+        "Type": "sequence",
+        "Name": "girl014_01_house_meditation_idle01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_meditation_idle01.girl014_01_house_meditation_idle01'"
+    },
+    {
+        "Id": 97,
+        "Explain": "左转",
+        "Type": "sequence",
+        "Name": "girl014_01_house_dialogue_turn_L",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_dialogue_turn_L.girl014_01_house_dialogue_turn_L'"
+    },
+    {
+        "Id": 98,
+        "Explain": "右转",
+        "Type": "sequence",
+        "Name": "girl014_01_house_dialogue_turn_R",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_dialogue_turn_R.girl014_01_house_dialogue_turn_R'"
+    },
+    {
+        "Id": 99,
+        "Explain": "呼吸叠加素材",
+        "Type": "sequence",
+        "Name": "girl014_01_house_dialogue_Tpose",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl014_01/Anim/house/girl014_01_house_dialogue_Tpose.girl014_01_house_dialogue_Tpose'"
+    },
+    {
+        "Id": 100,
+        "Explain": "一次抱胸",
+        "Type": "custom_seq",
+        "Name": "9;10;11"
+    },
+    {
+        "Id": 101,
+        "Explain": "一次思考",
+        "Type": "custom_seq",
+        "Name": "12;13;14"
+    },
+    {
+        "Id": 102,
+        "Explain": "抱胸循环",
+        "Type": "custom_loop_last",
+        "Name": "9;10"
+    },
+    {
+        "Id": 103,
+        "Explain": "思考循环",
+        "Type": "custom_loop_last",
+        "Name": "12;13"
+    },
+    {
+        "Id": 104,
+        "Explain": "一次悄悄话",
+        "Type": "custom_seq",
+        "Name": "17;18;19"
+    },
+    {
+        "Id": 105,
+        "Explain": "悄悄话循环",
+        "Type": "custom_loop_last",
+        "Name": "17;18"
+    },
+    {
+        "Id": 106,
+        "Explain": "一次撑脸",
+        "Type": "custom_seq",
+        "Name": "20;21;22"
+    },
+    {
+        "Id": 107,
+        "Explain": "撑脸循环",
+        "Type": "custom_loop_last",
+        "Name": "20;21"
+    }
+]

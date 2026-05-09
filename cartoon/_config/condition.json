@@ -1,0 +1,197 @@
+[
+    {
+        "Id": "dlc3_1001",
+        "Desc": "101与npc对话，进行中",
+        "Condition": "ExploreMission:CheckMissionStatus(101) == 3"
+    },
+    {
+        "Id": "dlc3_1002",
+        "Desc": "101与npc对话，已完成",
+        "Condition": "ExploreMission:CheckMissionStatus(101) == 2"
+    },
+    {
+        "Id": "dlc3_1003",
+        "Desc": "104找碎片3，进行中",
+        "Condition": "ExploreMission:CheckMissionStatus(104) == 3"
+    },
+    {
+        "Id": "dlc3_1004",
+        "Desc": "104找碎片3，已完成",
+        "Condition": "ExploreMission:CheckMissionStatus(104) == 2"
+    },
+    {
+        "Id": "dlc3_1005",
+        "Desc": "105与npc对话，进行中",
+        "Condition": "ExploreMission:CheckMissionStatus(105) == 3"
+    },
+    {
+        "Id": "dlc3_1006",
+        "Desc": "105与npc对话，已完成",
+        "Condition": "ExploreMission:CheckMissionStatus(105) == 2"
+    },
+    {
+        "Id": "dlc3_1007",
+        "Desc": "102找碎片1，已完成",
+        "Condition": "ExploreMission:CheckMissionStatus(102) == 2"
+    },
+    {
+        "Id": "dlc3_1008",
+        "Desc": "103找碎片2，已完成",
+        "Condition": "ExploreMission:CheckMissionStatus(103) == 2"
+    },
+    {
+        "Id": "dlc3_2001",
+        "Desc": "201与npc对话，进行中",
+        "Condition": "ExploreMission:CheckMissionStatus(201) == 3"
+    },
+    {
+        "Id": "dlc3_2002",
+        "Desc": "201与npc对话，已完成",
+        "Condition": "ExploreMission:CheckMissionStatus(201) == 2"
+    },
+    {
+        "Id": "dlc3_2003",
+        "Desc": "204找碎片3，进行中",
+        "Condition": "ExploreMission:CheckMissionStatus(204) == 3"
+    },
+    {
+        "Id": "dlc3_2004",
+        "Desc": "204找碎片3，已完成",
+        "Condition": "ExploreMission:CheckMissionStatus(204) == 2"
+    },
+    {
+        "Id": "dlc3_2005",
+        "Desc": "205与npc对话，进行中",
+        "Condition": "ExploreMission:CheckMissionStatus(205) == 3"
+    },
+    {
+        "Id": "dlc3_2006",
+        "Desc": "205与npc对话，已完成",
+        "Condition": "ExploreMission:CheckMissionStatus(205) == 2"
+    },
+    {
+        "Id": "dlc3_2007",
+        "Desc": "202找碎片1，已完成",
+        "Condition": "ExploreMission:CheckMissionStatus(202) == 2"
+    },
+    {
+        "Id": "dlc3_2008",
+        "Desc": "203找碎片2，已完成",
+        "Condition": "ExploreMission:CheckMissionStatus(203) == 2"
+    },
+    {
+        "Id": "dlc3_3001",
+        "Desc": "301与npc对话，进行中",
+        "Condition": "ExploreMission:CheckMissionStatus(301) == 3"
+    },
+    {
+        "Id": "dlc3_3002",
+        "Desc": "301与npc对话，已完成",
+        "Condition": "ExploreMission:CheckMissionStatus(301) == 2"
+    },
+    {
+        "Id": "dlc3_3003",
+        "Desc": "304找碎片3，进行中",
+        "Condition": "ExploreMission:CheckMissionStatus(304) == 3"
+    },
+    {
+        "Id": "dlc3_3004",
+        "Desc": "304找碎片3，已完成",
+        "Condition": "ExploreMission:CheckMissionStatus(304) == 2"
+    },
+    {
+        "Id": "dlc3_3005",
+        "Desc": "305与npc对话，进行中",
+        "Condition": "ExploreMission:CheckMissionStatus(305) == 3"
+    },
+    {
+        "Id": "dlc3_3006",
+        "Desc": "305与npc对话，已完成",
+        "Condition": "ExploreMission:CheckMissionStatus(305) == 2"
+    },
+    {
+        "Id": "dlc3_3007",
+        "Desc": "302找碎片1，已完成",
+        "Condition": "ExploreMission:CheckMissionStatus(302) == 2"
+    },
+    {
+        "Id": "dlc3_3008",
+        "Desc": "303找碎片2，已完成",
+        "Condition": "ExploreMission:CheckMissionStatus(303) == 2"
+    },
+    {
+        "Id": "dlc3_4001",
+        "Desc": "403回到码头找npc，进行中",
+        "Condition": "ExploreMission:CheckMissionStatus(403) == 3"
+    },
+    {
+        "Id": "dlc3_4002",
+        "Desc": "403回到码头找npc，已完成",
+        "Condition": "ExploreMission:CheckMissionStatus(403) == 2"
+    },
+    {
+        "Id": "任务已经完成",
+        "Desc": "",
+        "Condition": "ExploreMission:CheckMissionStatus(1) == 2"
+    },
+    {
+        "Id": "任务未开始",
+        "Desc": "",
+        "Condition": "ExploreMission:CheckMissionStatus(1) = 0"
+    },
+    {
+        "Id": "任务进行中",
+        "Desc": "",
+        "Condition": "ExploreMission:CheckMissionStatus(1) == 3"
+    },
+    {
+        "Id": "任务完成，可以领奖",
+        "Desc": "",
+        "Condition": "ExploreMission:CheckMissionStatus(1) == 1"
+    },
+    {
+        "Id": "AccomStart11",
+        "Desc": "入场选了话题1-1",
+        "Condition": "AS11"
+    },
+    {
+        "Id": "AccomStart12",
+        "Desc": "入场选了话题1-2",
+        "Condition": "AS12"
+    },
+    {
+        "Id": "AccomStart13",
+        "Desc": "入场选了话题1-3",
+        "Condition": "AS13"
+    },
+    {
+        "Id": "AccomStart21",
+        "Desc": "入场选了话题2-1",
+        "Condition": "AS21"
+    },
+    {
+        "Id": "AccomStart22",
+        "Desc": "入场选了话题2-2",
+        "Condition": "AS22"
+    },
+    {
+        "Id": "AccomStart23",
+        "Desc": "入场选了话题2-3",
+        "Condition": "AS23"
+    },
+    {
+        "Id": "CMhu5_101",
+        "Desc": "五分钟到一小时",
+        "Condition": "LongerThan300"
+    },
+    {
+        "Id": "CMhu1h_101",
+        "Desc": "1小时-12h",
+        "Condition": "LongerThan3600"
+    },
+    {
+        "Id": "CMhu12h_101",
+        "Desc": "挂机超过12小时",
+        "Condition": "LongerThan43200"
+    }
+]

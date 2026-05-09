@@ -1,0 +1,134 @@
+[
+    {
+        "Id": 1,
+        "LightType": 1,
+        "Param1": 3501401,
+        "Param2": 1,
+        "AddBuffs": "",
+        "Duration": 5,
+        "UseTime": 2,
+        "CDTime": 60,
+        "SpEffect": [
+            1,
+            3520101
+        ],
+        "SpDesc": "online.Forbidzone_WeaponSpEffect8",
+        "SpDescValue": 100
+    },
+    {
+        "Id": 2,
+        "LightType": 1,
+        "Param1": 3501401,
+        "Param2": 1,
+        "AddBuffs": "",
+        "Duration": 5,
+        "UseTime": 2,
+        "CDTime": 60,
+        "SpEffect": [
+            1,
+            3520201
+        ],
+        "SpDesc": "online.Forbidzone_WeaponSpEffect8",
+        "SpDescValue": 100
+    },
+    {
+        "Id": 3,
+        "LightType": 1,
+        "Param1": 3501401,
+        "Param2": 1,
+        "AddBuffs": "",
+        "Duration": 5,
+        "UseTime": 2,
+        "CDTime": 60,
+        "SpEffect": [
+            1,
+            3520301
+        ],
+        "SpDesc": "online.Forbidzone_WeaponSpEffect1",
+        "SpDescValue": 100
+    },
+    {
+        "Id": 4,
+        "LightType": 1,
+        "Param1": 3501401,
+        "Param2": 1,
+        "AddBuffs": "",
+        "Duration": 5,
+        "UseTime": 2,
+        "CDTime": 60,
+        "SpEffect": [
+            1,
+            3520401
+        ],
+        "SpDesc": "online.Forbidzone_WeaponSpEffect1",
+        "SpDescValue": 100
+    },
+    {
+        "Id": 101,
+        "LightType": 2,
+        "Param1": 3501402,
+        "Param2": 2,
+        "AddBuffs": "",
+        "Duration": 20,
+        "UseTime": 1,
+        "CDTime": 40,
+        "SpEffect": [
+            3,
+            4601301
+        ],
+        "SpDesc": "online.Forbidzone_WeaponSpEffect1",
+        "SpDescValue": 20,
+        "OnlyOne": 1
+    },
+    {
+        "Id": 102,
+        "LightType": 2,
+        "Param1": 3501402,
+        "Param2": 2,
+        "AddBuffs": "",
+        "Duration": 20,
+        "UseTime": 1,
+        "CDTime": 40,
+        "SpEffect": [
+            3,
+            4601602
+        ],
+        "SpDesc": "online.Forbidzone_WeaponSpEffect1",
+        "SpDescValue": 20,
+        "OnlyOne": 1
+    },
+    {
+        "Id": 103,
+        "LightType": 2,
+        "Param1": 3501402,
+        "Param2": 2,
+        "AddBuffs": "",
+        "Duration": 20,
+        "UseTime": 1,
+        "CDTime": 40,
+        "SpEffect": [
+            3,
+            4601304
+        ],
+        "SpDesc": "online.Forbidzone_WeaponSpEffect1",
+        "SpDescValue": 20,
+        "OnlyOne": 1
+    },
+    {
+        "Id": 104,
+        "LightType": 2,
+        "Param1": 3501402,
+        "Param2": 2,
+        "AddBuffs": "",
+        "Duration": 20,
+        "UseTime": 1,
+        "CDTime": 40,
+        "SpEffect": [
+            3,
+            4602304
+        ],
+        "SpDesc": "online.Forbidzone_WeaponSpEffect1",
+        "SpDescValue": 20,
+        "OnlyOne": 1
+    }
+]

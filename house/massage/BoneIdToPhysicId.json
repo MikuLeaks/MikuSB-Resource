@@ -1,0 +1,794 @@
+[
+    {
+        "GirlId": 1,
+        "PointId": 1,
+        "Null": "Bip001-R-Thigh",
+        "ActionId": 0,
+        "PhysicId": 9,
+        "SubPoint": [
+            2,
+            6
+        ]
+    },
+    {
+        "GirlId": 1,
+        "PointId": 2,
+        "Null": "Bip001-R-Thigh",
+        "ActionId": 0,
+        "PhysicId": 9,
+        "SubPoint": [
+            1,
+            3,
+            7
+        ]
+    },
+    {
+        "GirlId": 1,
+        "PointId": 3,
+        "Null": "Bip001-R-Calf",
+        "ActionId": 0,
+        "PhysicId": 10,
+        "SubPoint": [
+            2,
+            4,
+            8
+        ]
+    },
+    {
+        "GirlId": 1,
+        "PointId": 4,
+        "Null": "Bip001-R-Calf",
+        "ActionId": 0,
+        "PhysicId": 10,
+        "SubPoint": [
+            3,
+            5,
+            9
+        ]
+    },
+    {
+        "GirlId": 1,
+        "PointId": 5,
+        "Null": "Bip001-R-Calf",
+        "ActionId": 0,
+        "PhysicId": 10,
+        "SubPoint": [
+            4,
+            10
+        ]
+    },
+    {
+        "GirlId": 1,
+        "PointId": 6,
+        "Null": "Bip001-L-Thigh",
+        "ActionId": 0,
+        "PhysicId": 5,
+        "SubPoint": [
+            1,
+            7
+        ]
+    },
+    {
+        "GirlId": 1,
+        "PointId": 7,
+        "Null": "Bip001-L-Thigh",
+        "ActionId": 0,
+        "PhysicId": 5,
+        "SubPoint": [
+            2,
+            6,
+            8
+        ]
+    },
+    {
+        "GirlId": 1,
+        "PointId": 8,
+        "Null": "Bip001-L-Calf",
+        "ActionId": 0,
+        "PhysicId": 6,
+        "SubPoint": [
+            3,
+            7,
+            9
+        ]
+    },
+    {
+        "GirlId": 1,
+        "PointId": 9,
+        "Null": "Bip001-L-Calf",
+        "ActionId": 0,
+        "PhysicId": 6,
+        "SubPoint": [
+            4,
+            8,
+            10
+        ]
+    },
+    {
+        "GirlId": 1,
+        "PointId": 10,
+        "Null": "Bip001-L-Calf",
+        "ActionId": 0,
+        "PhysicId": 6,
+        "SubPoint": [
+            5,
+            9
+        ]
+    },
+    {
+        "GirlId": 1,
+        "PointId": 11,
+        "Null": "Bip001-Spine2",
+        "ActionId": 0,
+        "PhysicId": 17,
+        "SubPoint": [
+            12,
+            13,
+            14
+        ]
+    },
+    {
+        "GirlId": 1,
+        "PointId": 12,
+        "Null": "Bip001-Spine2",
+        "ActionId": 0,
+        "PhysicId": 17,
+        "SubPoint": [
+            11,
+            13,
+            14
+        ]
+    },
+    {
+        "GirlId": 1,
+        "PointId": 13,
+        "Null": "Bip001-Spine3",
+        "ActionId": 0,
+        "PhysicId": 18,
+        "SubPoint": [
+            11,
+            12,
+            14
+        ]
+    },
+    {
+        "GirlId": 1,
+        "PointId": 14,
+        "Null": "Bip001-Spine3",
+        "ActionId": 0,
+        "PhysicId": 18,
+        "SubPoint": [
+            11,
+            12,
+            13
+        ]
+    },
+    {
+        "GirlId": 2,
+        "PointId": 1,
+        "Null": "Bip001-R-Thigh",
+        "ActionId": 0,
+        "PhysicId": 101,
+        "SubPoint": [
+            2,
+            6
+        ]
+    },
+    {
+        "GirlId": 2,
+        "PointId": 2,
+        "Null": "Bip001-R-Thigh",
+        "ActionId": 0,
+        "PhysicId": 101,
+        "SubPoint": [
+            1,
+            3,
+            7
+        ]
+    },
+    {
+        "GirlId": 2,
+        "PointId": 3,
+        "Null": "Bip001-R-Calf",
+        "ActionId": 0,
+        "PhysicId": 102,
+        "SubPoint": [
+            2,
+            4,
+            8
+        ]
+    },
+    {
+        "GirlId": 2,
+        "PointId": 4,
+        "Null": "Bip001-R-Calf",
+        "ActionId": 0,
+        "PhysicId": 102,
+        "SubPoint": [
+            3,
+            5,
+            9
+        ]
+    },
+    {
+        "GirlId": 2,
+        "PointId": 5,
+        "Null": "Bip001-R-Calf",
+        "ActionId": 0,
+        "PhysicId": 102,
+        "SubPoint": [
+            4,
+            10
+        ]
+    },
+    {
+        "GirlId": 2,
+        "PointId": 6,
+        "Null": "Bip001-L-Thigh",
+        "ActionId": 0,
+        "PhysicId": 97,
+        "SubPoint": [
+            1,
+            7
+        ]
+    },
+    {
+        "GirlId": 2,
+        "PointId": 7,
+        "Null": "Bip001-L-Thigh",
+        "ActionId": 0,
+        "PhysicId": 97,
+        "SubPoint": [
+            2,
+            6,
+            8
+        ]
+    },
+    {
+        "GirlId": 2,
+        "PointId": 8,
+        "Null": "Bip001-L-Calf",
+        "ActionId": 0,
+        "PhysicId": 98,
+        "SubPoint": [
+            3,
+            7,
+            9
+        ]
+    },
+    {
+        "GirlId": 2,
+        "PointId": 9,
+        "Null": "Bip001-L-Calf",
+        "ActionId": 0,
+        "PhysicId": 98,
+        "SubPoint": [
+            4,
+            8,
+            10
+        ]
+    },
+    {
+        "GirlId": 2,
+        "PointId": 10,
+        "Null": "Bip001-L-Calf",
+        "ActionId": 0,
+        "PhysicId": 98,
+        "SubPoint": [
+            5,
+            9
+        ]
+    },
+    {
+        "GirlId": 2,
+        "PointId": 11,
+        "Null": "Bip001-Spine2",
+        "ActionId": 0,
+        "PhysicId": 108,
+        "SubPoint": [
+            12,
+            13,
+            14
+        ]
+    },
+    {
+        "GirlId": 2,
+        "PointId": 12,
+        "Null": "Bip001-Spine2",
+        "ActionId": 0,
+        "PhysicId": 108,
+        "SubPoint": [
+            11,
+            13,
+            14
+        ]
+    },
+    {
+        "GirlId": 2,
+        "PointId": 13,
+        "Null": "Bip001-Spine3",
+        "ActionId": 0,
+        "PhysicId": 108,
+        "SubPoint": [
+            11,
+            12,
+            14
+        ]
+    },
+    {
+        "GirlId": 2,
+        "PointId": 14,
+        "Null": "Bip001-Spine3",
+        "ActionId": 0,
+        "PhysicId": 108,
+        "SubPoint": [
+            11,
+            12,
+            13
+        ]
+    },
+    {
+        "GirlId": 8,
+        "PointId": 1,
+        "Null": "Bip001-R-Thigh",
+        "ActionId": 0,
+        "PhysicId": 34,
+        "SubPoint": [
+            2,
+            6
+        ]
+    },
+    {
+        "GirlId": 8,
+        "PointId": 2,
+        "Null": "Bip001-R-Thigh",
+        "ActionId": 0,
+        "PhysicId": 34,
+        "SubPoint": [
+            1,
+            3,
+            7
+        ]
+    },
+    {
+        "GirlId": 8,
+        "PointId": 3,
+        "Null": "Bip001-R-Calf",
+        "ActionId": 0,
+        "PhysicId": 35,
+        "SubPoint": [
+            2,
+            4,
+            8
+        ]
+    },
+    {
+        "GirlId": 8,
+        "PointId": 4,
+        "Null": "Bip001-R-Calf",
+        "ActionId": 0,
+        "PhysicId": 35,
+        "SubPoint": [
+            3,
+            5,
+            9
+        ]
+    },
+    {
+        "GirlId": 8,
+        "PointId": 5,
+        "Null": "Bip001-R-Calf",
+        "ActionId": 0,
+        "PhysicId": 35,
+        "SubPoint": [
+            4,
+            10
+        ]
+    },
+    {
+        "GirlId": 8,
+        "PointId": 6,
+        "Null": "Bip001-L-Thigh",
+        "ActionId": 0,
+        "PhysicId": 30,
+        "SubPoint": [
+            1,
+            7
+        ]
+    },
+    {
+        "GirlId": 8,
+        "PointId": 7,
+        "Null": "Bip001-L-Thigh",
+        "ActionId": 0,
+        "PhysicId": 30,
+        "SubPoint": [
+            2,
+            6,
+            8
+        ]
+    },
+    {
+        "GirlId": 8,
+        "PointId": 8,
+        "Null": "Bip001-L-Calf",
+        "ActionId": 0,
+        "PhysicId": 31,
+        "SubPoint": [
+            3,
+            7,
+            9
+        ]
+    },
+    {
+        "GirlId": 8,
+        "PointId": 9,
+        "Null": "Bip001-L-Calf",
+        "ActionId": 0,
+        "PhysicId": 31,
+        "SubPoint": [
+            4,
+            8,
+            10
+        ]
+    },
+    {
+        "GirlId": 8,
+        "PointId": 10,
+        "Null": "Bip001-L-Calf",
+        "ActionId": 0,
+        "PhysicId": 31,
+        "SubPoint": [
+            5,
+            9
+        ]
+    },
+    {
+        "GirlId": 8,
+        "PointId": 11,
+        "Null": "Bip001-Spine2",
+        "ActionId": 0,
+        "PhysicId": 42,
+        "SubPoint": [
+            12,
+            13,
+            14
+        ]
+    },
+    {
+        "GirlId": 8,
+        "PointId": 12,
+        "Null": "Bip001-Spine2",
+        "ActionId": 0,
+        "PhysicId": 42,
+        "SubPoint": [
+            11,
+            13,
+            14
+        ]
+    },
+    {
+        "GirlId": 8,
+        "PointId": 13,
+        "Null": "Bip001-Spine3",
+        "ActionId": 0,
+        "PhysicId": 43,
+        "SubPoint": [
+            11,
+            12,
+            14
+        ]
+    },
+    {
+        "GirlId": 8,
+        "PointId": 14,
+        "Null": "Bip001-Spine3",
+        "ActionId": 0,
+        "PhysicId": 43,
+        "SubPoint": [
+            11,
+            12,
+            13
+        ]
+    },
+    {
+        "GirlId": 10,
+        "PointId": 1,
+        "Null": "Bip001-R-Thigh",
+        "ActionId": 0,
+        "PhysicId": 57,
+        "SubPoint": [
+            2,
+            6
+        ]
+    },
+    {
+        "GirlId": 10,
+        "PointId": 2,
+        "Null": "Bip001-R-Thigh",
+        "ActionId": 0,
+        "PhysicId": 57,
+        "SubPoint": [
+            1,
+            3,
+            7
+        ]
+    },
+    {
+        "GirlId": 10,
+        "PointId": 3,
+        "Null": "Bip001-R-Calf",
+        "ActionId": 0,
+        "PhysicId": 58,
+        "SubPoint": [
+            2,
+            4,
+            8
+        ]
+    },
+    {
+        "GirlId": 10,
+        "PointId": 4,
+        "Null": "Bip001-R-Calf",
+        "ActionId": 0,
+        "PhysicId": 58,
+        "SubPoint": [
+            3,
+            5,
+            9
+        ]
+    },
+    {
+        "GirlId": 10,
+        "PointId": 5,
+        "Null": "Bip001-R-Calf",
+        "ActionId": 0,
+        "PhysicId": 58,
+        "SubPoint": [
+            4,
+            10
+        ]
+    },
+    {
+        "GirlId": 10,
+        "PointId": 6,
+        "Null": "Bip001-L-Thigh",
+        "ActionId": 0,
+        "PhysicId": 53,
+        "SubPoint": [
+            1,
+            7
+        ]
+    },
+    {
+        "GirlId": 10,
+        "PointId": 7,
+        "Null": "Bip001-L-Thigh",
+        "ActionId": 0,
+        "PhysicId": 53,
+        "SubPoint": [
+            2,
+            6,
+            8
+        ]
+    },
+    {
+        "GirlId": 10,
+        "PointId": 8,
+        "Null": "Bip001-L-Calf",
+        "ActionId": 0,
+        "PhysicId": 54,
+        "SubPoint": [
+            3,
+            7,
+            9
+        ]
+    },
+    {
+        "GirlId": 10,
+        "PointId": 9,
+        "Null": "Bip001-L-Calf",
+        "ActionId": 0,
+        "PhysicId": 54,
+        "SubPoint": [
+            4,
+            8,
+            10
+        ]
+    },
+    {
+        "GirlId": 10,
+        "PointId": 10,
+        "Null": "Bip001-L-Calf",
+        "ActionId": 0,
+        "PhysicId": 54,
+        "SubPoint": [
+            5,
+            9
+        ]
+    },
+    {
+        "GirlId": 10,
+        "PointId": 11,
+        "Null": "Bip001-Spine2",
+        "ActionId": 0,
+        "PhysicId": 65,
+        "SubPoint": [
+            12,
+            13,
+            14
+        ]
+    },
+    {
+        "GirlId": 10,
+        "PointId": 12,
+        "Null": "Bip001-Spine2",
+        "ActionId": 0,
+        "PhysicId": 65,
+        "SubPoint": [
+            11,
+            13,
+            14
+        ]
+    },
+    {
+        "GirlId": 10,
+        "PointId": 13,
+        "Null": "Bip001-Spine3",
+        "ActionId": 0,
+        "PhysicId": 66,
+        "SubPoint": [
+            11,
+            12,
+            14
+        ]
+    },
+    {
+        "GirlId": 10,
+        "PointId": 14,
+        "Null": "Bip001-Spine3",
+        "ActionId": 0,
+        "PhysicId": 66,
+        "SubPoint": [
+            11,
+            12,
+            13
+        ]
+    },
+    {
+        "GirlId": 15,
+        "PointId": 1,
+        "Null": "Bip001-R-Thigh",
+        "ActionId": 0,
+        "PhysicId": 80,
+        "SubPoint": [
+            2,
+            6
+        ]
+    },
+    {
+        "GirlId": 15,
+        "PointId": 2,
+        "Null": "Bip001-R-Thigh",
+        "ActionId": 0,
+        "PhysicId": 80,
+        "SubPoint": [
+            1,
+            3,
+            7
+        ]
+    },
+    {
+        "GirlId": 15,
+        "PointId": 3,
+        "Null": "Bip001-R-Calf",
+        "ActionId": 0,
+        "PhysicId": 81,
+        "SubPoint": [
+            2,
+            4,
+            8
+        ]
+    },
+    {
+        "GirlId": 15,
+        "PointId": 4,
+        "Null": "Bip001-R-Calf",
+        "ActionId": 0,
+        "PhysicId": 81,
+        "SubPoint": [
+            3,
+            5,
+            9
+        ]
+    },
+    {
+        "GirlId": 15,
+        "PointId": 5,
+        "Null": "Bip001-R-Calf",
+        "ActionId": 0,
+        "PhysicId": 81,
+        "SubPoint": [
+            4,
+            10
+        ]
+    },
+    {
+        "GirlId": 15,
+        "PointId": 6,
+        "Null": "Bip001-L-Thigh",
+        "ActionId": 0,
+        "PhysicId": 76,
+        "SubPoint": [
+            1,
+            7
+        ]
+    },
+    {
+        "GirlId": 15,
+        "PointId": 7,
+        "Null": "Bip001-L-Thigh",
+        "ActionId": 0,
+        "PhysicId": 76,
+        "SubPoint": [
+            2,
+            6,
+            8
+        ]
+    },
+    {
+        "GirlId": 15,
+        "PointId": 8,
+        "Null": "Bip001-L-Calf",
+        "ActionId": 0,
+        "PhysicId": 77,
+        "SubPoint": [
+            3,
+            7,
+            9
+        ]
+    },
+    {
+        "GirlId": 15,
+        "PointId": 9,
+        "Null": "Bip001-L-Calf",
+        "ActionId": 0,
+        "PhysicId": 77,
+        "SubPoint": [
+            4,
+            8,
+            10
+        ]
+    },
+    {
+        "GirlId": 15,
+        "PointId": 10,
+        "Null": "Bip001-L-Calf",
+        "ActionId": 0,
+        "PhysicId": 77,
+        "SubPoint": [
+            5,
+            9
+        ]
+    },
+    {
+        "GirlId": 15,
+        "PointId": 11,
+        "Null": "Bip001-Spine2",
+        "ActionId": 0,
+        "PhysicId": 87,
+        "SubPoint": [
+            12
+        ]
+    },
+    {
+        "GirlId": 15,
+        "PointId": 12,
+        "Null": "Bip001-Spine2",
+        "ActionId": 0,
+        "PhysicId": 87,
+        "SubPoint": [
+            11
+        ]
+    }
+]

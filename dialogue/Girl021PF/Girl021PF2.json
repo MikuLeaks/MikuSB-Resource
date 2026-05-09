@@ -1,0 +1,932 @@
+[
+    {
+        "Key": 1,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "手术顺利结束了，各项指标都在可控范围内。隔着无菌医疗舱看着她——脸色不太好，闭着眼，皱着眉。",
+        "disable": 0
+    },
+    {
+        "Key": 2,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "（倒是很少见到这副模样。）",
+        "disable": 0
+    },
+    {
+        "Key": 3,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她睁开眼睛，立刻就看见了我，冲我勉强笑了一下。",
+        "disable": 0
+    },
+    {
+        "Key": 4,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "哪里不舒服吗？",
+        "disable": 0
+    },
+    {
+        "Key": 5,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "有点头疼。不过还好。",
+        "disable": 0
+    },
+    {
+        "Key": 6,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "经过电子转换的声音有些失真，但能听出她的平静和镇定。",
+        "disable": 0
+    },
+    {
+        "Key": 7,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "接下来要静养，逐渐适应这种力量。嗯……你大概是唯一一个在神格天启前就使用过泰坦力量的天启者，应该比别人更有经验。",
+        "disable": 0
+    },
+    {
+        "Key": 8,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "对了，要小心神格侵蚀。",
+        "disable": 0
+    },
+    {
+        "Key": 9,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "如果突然看见了幻象、不存在的神明或者明显让你不舒服的幻觉，就告诉我。",
+        "disable": 0
+    },
+    {
+        "Key": 10,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我来处理。",
+        "disable": 0
+    },
+    {
+        "Key": 11,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我会注意。",
+        "disable": 0
+    },
+    {
+        "Key": 12,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "什么时候能从这里出来？",
+        "disable": 0
+    },
+    {
+        "Key": 13,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我问一下。",
+        "disable": 0
+    },
+    {
+        "Key": 14,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "在征求了医疗部的意见之后，我打开了医疗舱的门。",
+        "disable": 0
+    },
+    {
+        "Key": 15,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "呼……",
+        "disable": 0
+    },
+    {
+        "Key": 16,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "里面很闷？",
+        "disable": 0
+    },
+    {
+        "Key": 17,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "有一些。",
+        "disable": 0
+    },
+    {
+        "Key": 18,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她扶了扶额头，吸了口气，站了起来。",
+        "disable": 0
+    },
+    {
+        "Key": 19,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "慢点——",
+        "disable": 0
+    },
+    {
+        "Key": 20,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我没事。",
+        "disable": 0
+    },
+    {
+        "Key": 21,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她脸上还是有些苍白，皱着眉头，走出了医疗舱。",
+        "disable": 0
+    },
+    {
+        "Key": 22,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "小心。",
+        "disable": 0
+    },
+    {
+        "Key": 23,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不……我要自己来。",
+        "disable": 0
+    },
+    {
+        "Key": 24,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她一个踉跄，但还是自己站住了。站在原地匀了口气，接着慢慢往门外走去。",
+        "disable": 0
+    },
+    {
+        "Key": 25,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我则跟在她的身后，随时准备接住她。",
+        "disable": 0
+    },
+    {
+        "Key": 26,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "意外的是，她虽然走得慢，但却越来越稳，安全地走到了房间里。",
+        "disable": 0
+    },
+    {
+        "Key": 27,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她出了很多汗，顺着她的脸颊往下淌，几缕碎发贴着头皮。",
+        "disable": 0
+    },
+    {
+        "Key": 28,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "但神情却相当自然——比手术刚结束时好多了。有了几分血色，不像刚做过手术的样子。",
+        "disable": 0
+    },
+    {
+        "Key": 29,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这样走一走，对适应泰坦力量有好处。",
+        "disable": 0
+    },
+    {
+        "Key": 30,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "但很疼吧？",
+        "disable": 0
+    },
+    {
+        "Key": 31,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "能感觉到疼是好事。",
+        "disable": 0
+    },
+    {
+        "Key": 32,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她抬起手，看着萦绕在掌心的黑色能量流，其中掺杂着赤红色的暗潮。",
+        "disable": 0
+    },
+    {
+        "Key": 33,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "别太心急。这里不是菲洛索亚，不需要你一个人跑来跑去的。",
+        "disable": 0
+    },
+    {
+        "Key": 34,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "听你安排。但，别总让我闲着。",
+        "disable": 0
+    },
+    {
+        "Key": 35,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "行了，怎么说也是做了个手术，总归是要有恢复期的。",
+        "disable": 0
+    },
+    {
+        "Key": 36,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "看你身上的汗……",
+        "disable": 0
+    },
+    {
+        "Key": 37,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不能洗澡？",
+        "disable": 0
+    },
+    {
+        "Key": 38,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "当然不能。擦擦身子吧。",
+        "disable": 0
+    },
+    {
+        "Key": 39,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我接了一盆温水放在她旁边，把拧干的毛巾递给她。",
+        "disable": 0
+    },
+    {
+        "Key": 40,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她接了过去，把脸埋在温热的毛巾里捂了一会儿。在毛巾拿开的时候，我似乎捕捉到一丝东西。",
+        "disable": 0
+    },
+    {
+        "Key": 41,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我来帮你吧。",
+        "disable": 0
+    },
+    {
+        "Key": 42,
+        "Flag": "",
+        "Pos": 9,
+        "Speaker": "奈莉德病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "嗯。",
+        "disable": 0
+    },
+    {
+        "Key": 43,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我接过她手里的毛巾，撩起她的头发，帮她擦着脖颈。",
+        "disable": 0
+    },
+    {
+        "Key": 44,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "重点照顾了她碰不到的后背。当然，敏感的部分还是交给她自己来处理。",
+        "disable": 0
+    },
+    {
+        "Key": 45,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "房间的温度不低，加上热毛巾的擦拭，她的脸蛋红彤彤的，眼神也没有平时那么锋利了。",
+        "disable": 0
+    },
+    {
+        "Key": 46,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "别着凉。时候也不早了，好好休息吧。",
+        "disable": 0
+    },
+    {
+        "Key": 47,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我把我的外套披在她的身上，帮她关上了灯。",
+        "disable": 0
+    },
+    {
+        "Key": 48,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "晚安。",
+        "disable": 0
+    },
+    {
+        "Key": 49,
+        "Flag": "",
+        "Pos": 9,
+        "Speaker": "奈莉德病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "晚安。",
+        "disable": 0
+    },
+    {
+        "Key": 50,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "次日上午，我敲响了奈莉德的房门。",
+        "disable": 0
+    },
+    {
+        "Key": 51,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "床褥叠得整齐，可奈莉德并不在房间里。",
+        "disable": 0
+    },
+    {
+        "Key": 52,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我拨通了奈莉德的通讯终端——",
+        "disable": 0
+    },
+    {
+        "Key": 53,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "playername，有任务吗？",
+        "disable": 0
+    },
+    {
+        "Key": 54,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你跑哪去了？",
+        "disable": 0
+    },
+    {
+        "Key": 55,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我在靶场练枪。",
+        "disable": 0
+    },
+    {
+        "Key": 56,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……你是不是忘了你昨天才做过手术？",
+        "disable": 0
+    },
+    {
+        "Key": 57,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "睡醒之后没什么特别的感觉，就来这里热热身。",
+        "disable": 0
+    },
+    {
+        "Key": 58,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "好吧，我去找你。",
+        "disable": 0
+    },
+    {
+        "Key": 59,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我推开门，奈莉德拿着一把手枪练习着。子弹命中金属标靶的悦耳声音连成了串，移动靶被子弹的动能打得几乎要反倒过去。",
+        "disable": 0
+    },
+    {
+        "Key": 60,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "隔音耳套放在桌子上，她的身体随着手枪的后坐力有节奏地摆动，退出的弹壳抛飞成线。整个弹匣的子弹打完，手枪空仓挂机，她这才放下枪，走了过来。",
+        "disable": 0
+    },
+    {
+        "Key": 61,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "除了格斗还会射击。军方竟然能漏掉你这种人才。",
+        "disable": 0
+    },
+    {
+        "Key": 62,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "还有不会用枪的耶洛沙人？",
+        "disable": 0
+    },
+    {
+        "Key": 63,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我耸耸肩，不置可否。",
+        "disable": 0
+    },
+    {
+        "Key": 64,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "后勤部专门为你设计了突击步枪。现在看来你也不需要射击教学了。",
+        "disable": 0
+    },
+    {
+        "Key": 65,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "所以，什么时候轮到我出任务？",
+        "disable": 0
+    },
+    {
+        "Key": 66,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……如果你真这么想试试身手的话，去医疗部再做一趟检查。",
+        "disable": 0
+    },
+    {
+        "Key": 67,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "没问题的话，我给你派个任务。",
+        "disable": 0
+    },
+    {
+        "Key": 68,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "一言为定，你在这里等我。",
+        "disable": 0
+    },
+    {
+        "Key": 69,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "半个小时后，奈莉德拿着一张纸，风风火火地走了进来。",
+        "disable": 0
+    },
+    {
+        "Key": 70,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "检查报告。",
+        "disable": 0
+    },
+    {
+        "Key": 71,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我仔细看了看，确认了医疗部的意见是“可以出勤”之后，叹了口气。",
+        "disable": 0
+    },
+    {
+        "Key": 72,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "好吧。",
+        "disable": 0
+    },
+    {
+        "Key": 73,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这是你的枪，后勤部的同事刚刚送过来了。",
+        "disable": 0
+    },
+    {
+        "Key": 74,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "试试看。",
+        "disable": 0
+    },
+    {
+        "Key": 75,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "奈莉德拿起那把突击步枪，先是掂了掂重量，然后检查了一遍瞄具、弹仓、枪托和扳机，最后打开了保险，瞄准了标靶——",
+        "disable": 0
+    },
+    {
+        "Key": 76,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "先是一串短点射，接着是有节奏地火力压制。被折磨的金属标靶终于不堪重负，被奈莉德的子弹撕成了几瓣。",
+        "disable": 0
+    },
+    {
+        "Key": 77,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "还算好用。",
+        "disable": 0
+    },
+    {
+        "Key": 78,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "那就好。任务的话，先从侦查开始做吧。",
+        "disable": 0
+    },
+    {
+        "Key": 79,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "和你的调查工作很像。主要是收集任务区域内的各种情况，包括地形、资源、敌人分布之类的。",
+        "disable": 0
+    },
+    {
+        "Key": 80,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "知道了。",
+        "disable": 0
+    },
+    {
+        "Key": 81,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "别急着走。",
+        "disable": 0
+    },
+    {
+        "Key": 82,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你还不太熟悉霍尔姆的环境，我给你找个队友，万一有突发情况也有个照看。",
+        "disable": 0
+    },
+    {
+        "Key": 83,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我一个人就能胜任。",
+        "disable": 0
+    },
+    {
+        "Key": 84,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "（是一个人惯了吗？）",
+        "disable": 0
+    },
+    {
+        "Key": 85,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我拉住她的手，感受着她体内的泰坦物质浓度。",
+        "disable": 0
+    },
+    {
+        "Key": 86,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": 87,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "好吧。保持联系，不要勉强，随时汇报情况。",
+        "disable": 0
+    },
+    {
+        "Key": 88,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "奈莉德",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "相信我。",
+        "disable": 0
+    },
+    {
+        "Key": 89,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "奈莉德用拳头碰了碰我的胸口，离开了靶场。",
+        "disable": 0
+    },
+    {
+        "Key": 90,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "在刚刚的接触中，还是清晰地感受到了泰坦物质的存在。",
+        "disable": 0
+    },
+    {
+        "Key": 91,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我不确定在她身上有没有发生过神格侵蚀。泰坦物质浓度很低，她并没有明显的痛苦或者不适的症状。除非她自己告诉我，否则暂时无从判断。",
+        "disable": 0
+    },
+    {
+        "Key": 92,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "于是，我也走出了靶场。",
+        "disable": 0
+    },
+    {
+        "Key": 93,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "（我来做你的队友吧，奈莉德。）",
+        "disable": 0
+    }
+]

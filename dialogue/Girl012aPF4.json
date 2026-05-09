@@ -1,0 +1,842 @@
+[
+    {
+        "Key": 1,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "女侍者",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "欢迎再次光临雅卢岛，猫汐尔小姐现在正好在进行康复训练。",
+        "disable": 0
+    },
+    {
+        "Key": 2,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "女侍者",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "您是打算先去酒店安置下行李，还是直接去探望她呢？",
+        "disable": 0
+    },
+    {
+        "Key": "b-1",
+        "Flag": "b-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 3,
+        "Flag": "b-1-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "直接去她那边吧。",
+        "disable": 0
+    },
+    {
+        "Key": 4,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "女侍者",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "了解，那请您后排入座，系好安全带，预计3分钟后抵达目的地。",
+        "disable": 0
+    },
+    {
+        "Key": 5,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "上次的反恐任务过后，猫汐尔就因伤势过重而暂时留在了雅卢岛当地养伤。",
+        "disable": 0
+    },
+    {
+        "Key": 6,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "最近，听说她已经恢复得差不多了，于是我便决定带着大家准备的慰问品登岛探望。",
+        "disable": 0
+    },
+    {
+        "Key": 7,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "女侍者",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "已抵达目的地，下车时请轻关车门，不要遗漏随身物品。",
+        "disable": 0
+    },
+    {
+        "Key": "b-2",
+        "Flag": "b-2",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 8,
+        "Flag": "b-2-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "嗯，多谢提醒。",
+        "disable": 0
+    },
+    {
+        "Key": 9,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "下车后没多久，我就望见了在沙滩上拄着拐杖散步的猫汐尔，而她几乎也在同一时间注意到了我。",
+        "disable": 0
+    },
+    {
+        "Key": "b-3",
+        "Flag": "b-3",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 10,
+        "Flag": "b-3-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "身体好些了吗？猫汐尔。",
+        "disable": 0
+    },
+    {
+        "Key": 11,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "猫汐尔病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你来了啊，我已经没事了哔。",
+        "disable": 0
+    },
+    {
+        "Key": "b-4",
+        "Flag": "b-4",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 12,
+        "Flag": "b-4-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "那就好，大家给你带了些慰问品。",
+        "disable": 0
+    },
+    {
+        "Key": "b-5",
+        "Flag": "b-5",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 13,
+        "Flag": "b-5-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "（总觉得有什么地方不太对劲……）",
+        "disable": 0
+    },
+    {
+        "Key": 14,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "猫汐尔病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "慰问品哔？",
+        "disable": 0
+    },
+    {
+        "Key": "b-6",
+        "Flag": "b-6",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 15,
+        "Flag": "b-6-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "啊，大概就是些吃的喝的什么的……",
+        "disable": 0
+    },
+    {
+        "Key": "b-7",
+        "Flag": "b-7",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 16,
+        "Flag": "b-7-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这样，等康复训练结束后，回酒店我再拿给你？",
+        "disable": 0
+    },
+    {
+        "Key": 17,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "猫汐尔病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "唔，我没什么意见，不过分析员，你今天怪怪的哔。",
+        "disable": 0
+    },
+    {
+        "Key": 18,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "猫汐尔病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我有什么不对劲的地方吗哔？",
+        "disable": 0
+    },
+    {
+        "Key": 19,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "哪里都很不对劲吧……尤其是那个陌生的口癖。",
+        "disable": 0
+    },
+    {
+        "Key": 20,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "面前的猫汐尔多半不是真的猫汐尔，想必真正的猫汐尔又偷偷溜走了。有过上次的经验后我警觉了不少。",
+        "disable": 0
+    },
+    {
+        "Key": "b-8",
+        "Flag": "b-8",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 21,
+        "Flag": "b-8-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "猫汐尔是这样的，我……",
+        "disable": 0
+    },
+    {
+        "Key": 22,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "随便找了个理由支开了分身与侍者后，我独自一人在岛上寻找起猫汐尔的踪迹。",
+        "disable": 0
+    },
+    {
+        "Key": 23,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "如果是她的话，应该会在……",
+        "disable": 0
+    },
+    {
+        "Key": 24,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "最终，在一小片岛屿原住民留下的遗迹建筑丛中，我发现了正依着石碑休息的猫汐尔。",
+        "disable": 0
+    },
+    {
+        "Key": 25,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "午后的阳光停留在她那布满细小伤口的脸上，映射出了一脸茫然的表情。",
+        "disable": 0
+    },
+    {
+        "Key": 26,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我提着一大包慰问品，蹑手蹑脚地来到她身旁，然后席地坐下。",
+        "disable": 0
+    },
+    {
+        "Key": 27,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "猫汐尔溯影",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "为什么分析员总能找到我喵……",
+        "disable": 0
+    },
+    {
+        "Key": "b-9",
+        "Flag": "b-9",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 28,
+        "Flag": "b-9-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这对我来说这并非什么难事。",
+        "disable": 0
+    },
+    {
+        "Key": "b-10",
+        "Flag": "b-10",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 29,
+        "Flag": "b-10-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "只要代入猫汐尔的视角去思考就行了。",
+        "disable": 0
+    },
+    {
+        "Key": 30,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "猫汐尔溯影",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员经常把自己幻想成我吗？",
+        "disable": 0
+    },
+    {
+        "Key": 31,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "猫汐尔溯影",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "还是说分析员平时也会把自己幻想成其他女孩子？",
+        "disable": 0
+    },
+    {
+        "Key": "b-11",
+        "Flag": "b-11",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 32,
+        "Flag": "b-11-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "咳咳，别说得那么奇怪，只是换位思考而已。",
+        "disable": 0
+    },
+    {
+        "Key": 33,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "猫汐尔溯影",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "换位思考……理解他人……分析员你总是把这些挂嘴上。",
+        "disable": 0
+    },
+    {
+        "Key": 34,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "猫汐尔溯影",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "习惯于站在他人立场思考问题的你，难道也是个自我意识单薄的异类？",
+        "disable": 0
+    },
+    {
+        "Key": "b-12",
+        "Flag": "b-12",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 35,
+        "Flag": "b-12-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "也许吧。因为一些经历，我的自我认知一直挺模糊的。",
+        "disable": 0
+    },
+    {
+        "Key": "b-13",
+        "Flag": "b-13",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 36,
+        "Flag": "b-13-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不过后来想想，这也许并非坏事。",
+        "disable": 0
+    },
+    {
+        "Key": 37,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "猫汐尔溯影",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不是坏事吗喵……",
+        "disable": 0
+    },
+    {
+        "Key": "b-14",
+        "Flag": "b-14",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 38,
+        "Flag": "b-14-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "嗯，我想正如猫汐尔所说，我们一定是无法相互理解的。",
+        "disable": 0
+    },
+    {
+        "Key": "b-15",
+        "Flag": "b-15",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 39,
+        "Flag": "b-15-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "更何况身处当今世界，人的心灵本就是脆弱的……",
+        "disable": 0
+    },
+    {
+        "Key": "b-16",
+        "Flag": "b-16",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 40,
+        "Flag": "b-16-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "在不伤害他人的前提下，我行我素地生存并没有错。",
+        "disable": 0
+    },
+    {
+        "Key": 41,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "猫汐尔溯影",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "是喵……",
+        "disable": 0
+    },
+    {
+        "Key": "b-17",
+        "Flag": "b-17",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 42,
+        "Flag": "b-17-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不过，即便如此，我想在试图理解他人的过程中……",
+        "disable": 0
+    },
+    {
+        "Key": "b-18",
+        "Flag": "b-18",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 43,
+        "Flag": "b-18-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "虽然可能会伤害彼此，但也许也能有所收获。",
+        "disable": 0
+    },
+    {
+        "Key": 44,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "猫汐尔溯影",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "唔？收获什么？",
+        "disable": 0
+    },
+    {
+        "Key": "b-19",
+        "Flag": "b-19",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 45,
+        "Flag": "b-19-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "说不清楚，也许是一种“活着”的感觉？",
+        "disable": 0
+    },
+    {
+        "Key": "b-20",
+        "Flag": "b-20",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 46,
+        "Flag": "b-20-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "或者和猫汐尔之前提到“自我意识”也是同一类东西吧。",
+        "disable": 0
+    },
+    {
+        "Key": "b-21",
+        "Flag": "b-21",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 461.0,
+        "Flag": "b-21-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我们的“自我”，说不定就是东拼西凑起来的……",
+        "disable": 0
+    },
+    {
+        "Key": "b-22",
+        "Flag": "b-22",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 462.0,
+        "Flag": "b-22-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不过也许正因如此，才会更加渴望互相理解的那天到来吧。",
+        "disable": 0
+    },
+    {
+        "Key": 47,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "没错，迄今为止的第二段人生，正是由无数的碎片组成的。然后，也许在未来的某一天……",
+        "disable": 0
+    },
+    {
+        "Key": 49,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "猫汐尔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "原来如此……",
+        "disable": 0
+    },
+    {
+        "Key": 50,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "猫汐尔站了起来。",
+        "disable": 0
+    },
+    {
+        "Key": "auto_50",
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "猫汐尔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "相互理解并非目的，只是个过程……",
+        "disable": 0
+    },
+    {
+        "Key": 53,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "猫汐尔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "只是，真的会有将所有碎片都集齐，所有人都能相互理解的那一天吗？",
+        "disable": 0
+    },
+    {
+        "Key": "b-23",
+        "Flag": "b-23",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": "auto_53",
+        "Flag": "b-23-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这就不好说了。",
+        "disable": 0
+    },
+    {
+        "Key": 57,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "猫汐尔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "那么就让分析员成为我最宝贵的碎片。然后，一起去寻找这个问题的答案吧。",
+        "disable": 0
+    },
+    {
+        "Key": 58,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "猫汐尔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我想要尝试着去重新理解人类……就像你一样的人类。",
+        "disable": 0
+    },
+    {
+        "Key": 581.0,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "猫汐尔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "唔喵，为什么要站起来摸我的头……",
+        "disable": 0
+    },
+    {
+        "Key": "b-24",
+        "Flag": "b-24",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 582.0,
+        "Flag": "b-24-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我认为猫汐尔已经理解了哦。",
+        "disable": 0
+    },
+    {
+        "Key": 583.0,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "猫汐尔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "是吗……但是，还不够吧。",
+        "disable": 0
+    },
+    {
+        "Key": 59,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "海风吹拂，拥有金色瞳孔的死神露出了属于人类的微笑……随后又扑向我的怀中。",
+        "disable": 0
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "ID": 1,
+        "Name": "",
+        "Icon": "",
+        "DifficultTypeId": 1,
+        "Des": [
+            [
+                "rogue.difficultDes101"
+            ],
+            [
+                "rogue.difficultDes102"
+            ]
+        ],
+        "DesComment": "",
+        "UnlockCondition": "",
+        "MapList": {
+            "101": 5000,
+            "102": 5000
+        },
+        "CoinMultiple": 8000,
+        "TechnologyMultiple": 8000,
+        "MapView": -1.0
+    },
+    {
+        "ID": 2,
+        "Name": "",
+        "Icon": "",
+        "DifficultTypeId": 2,
+        "Des": [
+            [
+                "rogue.difficultDes201"
+            ],
+            [
+                "rogue.difficultDes202"
+            ]
+        ],
+        "DesComment": "",
+        "UnlockCondition": "",
+        "MapList": {
+            "101": 5000,
+            "102": 5000
+        },
+        "CoinMultiple": 10000,
+        "TechnologyMultiple": 10000,
+        "MapView": 4
+    },
+    {
+        "ID": 3,
+        "Name": "",
+        "Icon": "",
+        "DifficultTypeId": 3,
+        "Des": [
+            [
+                "rogue.difficultDes301"
+            ],
+            [
+                "rogue.difficultDes302"
+            ],
+            [
+                "rogue.difficultDes303"
+            ]
+        ],
+        "DesComment": "",
+        "UnlockCondition": 2,
+        "MapList": {
+            "101": 5000,
+            "102": 5000
+        },
+        "CoinMultiple": 11500,
+        "TechnologyMultiple": 11500,
+        "MapView": 3
+    },
+    {
+        "ID": 4,
+        "Name": "",
+        "Icon": "",
+        "DifficultTypeId": 4,
+        "Des": [
+            [
+                "rogue.difficultDes401"
+            ],
+            [
+                "rogue.difficultDes402"
+            ],
+            [
+                "rogue.difficultDes403"
+            ]
+        ],
+        "DesComment": "",
+        "UnlockCondition": 3,
+        "MapList": {
+            "101": 5000,
+            "102": 5000
+        },
+        "CoinMultiple": 11500,
+        "TechnologyMultiple": 11500,
+        "MapView": 2
+    }
+]

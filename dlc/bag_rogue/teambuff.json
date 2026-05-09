@@ -1,0 +1,92 @@
+[
+    {
+        "ID": 1,
+        "Name": "bagrogue.TeamBuffName1",
+        "Des": "bagrogue.TeamBuffDes1",
+        "Icon": 1001051,
+        "ParamPerCount": [
+            50
+        ],
+        "SkillInfo": [
+            7011073,
+            1
+        ],
+        "SkillFix": "",
+        "Duration": 5
+    },
+    {
+        "ID": 2,
+        "Name": "bagrogue.TeamBuffName2",
+        "Des": "bagrogue.TeamBuffDes2",
+        "Icon": 1001112,
+        "ParamPerCount": [
+            30
+        ],
+        "SkillInfo": [
+            7011074,
+            1
+        ],
+        "SkillFix": "",
+        "Duration": 5
+    },
+    {
+        "ID": 3,
+        "Name": "bagrogue.TeamBuffName3",
+        "Des": "bagrogue.TeamBuffDes3",
+        "Icon": 1001053,
+        "ParamPerCount": [
+            20
+        ],
+        "SkillInfo": [
+            7011075,
+            1
+        ],
+        "SkillFix": "",
+        "Duration": 5
+    },
+    {
+        "ID": 4,
+        "Name": "bagrogue.TeamBuffName4",
+        "Des": "bagrogue.TeamBuffDes4",
+        "Icon": 1001047,
+        "ParamPerCount": [
+            50
+        ],
+        "SkillInfo": [
+            7011076,
+            1
+        ],
+        "SkillFix": "",
+        "Duration": 5
+    },
+    {
+        "ID": 5,
+        "Name": "bagrogue.TeamBuffName5",
+        "Des": "bagrogue.TeamBuffDes5",
+        "Icon": 1001049,
+        "ParamPerCount": [
+            50
+        ],
+        "SkillInfo": [
+            7011077,
+            1
+        ],
+        "SkillFix": "",
+        "Duration": 5
+    },
+    {
+        "ID": 6,
+        "Name": "bagrogue.TeamBuffName6",
+        "Des": "bagrogue.TeamBuffDes6",
+        "Icon": 1001096,
+        "ParamPerCount": [
+            100
+        ],
+        "SkillInfo": [
+            7011078,
+            1
+        ],
+        "SkillFix": "",
+        "Duration": 5
+    }
+]

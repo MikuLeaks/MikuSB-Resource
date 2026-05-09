@@ -1,0 +1,68 @@
+[
+    {
+        "Type": 1,
+        "Id": 1,
+        "SecondPer": 0.2,
+        "SuccessPer": 0.3,
+        "Speed": 1.5,
+        "SuccessZone": 0.3
+    },
+    {
+        "Type": 1,
+        "Id": 2,
+        "SecondPer": 0.15,
+        "SuccessPer": 0.25,
+        "Speed": 1.5,
+        "SuccessZone": 0.25
+    },
+    {
+        "Type": 1,
+        "Id": 3,
+        "SecondPer": 0.1,
+        "SuccessPer": 0.2,
+        "Speed": 1.5,
+        "SuccessZone": 0.2
+    },
+    {
+        "Type": 2,
+        "Id": 1,
+        "SecondPer": 0.2,
+        "SuccessPer": 0.3,
+        "Speed": 1.5,
+        "SuccessZone": 0.2
+    },
+    {
+        "Type": 2,
+        "Id": 2,
+        "SecondPer": 0.15,
+        "SuccessPer": 0.25,
+        "Speed": 1.5,
+        "SuccessZone": 0.175
+    },
+    {
+        "Type": 2,
+        "Id": 3,
+        "SecondPer": 0.1,
+        "SuccessPer": 0.2,
+        "Speed": 1.5,
+        "SuccessZone": 0.15
+    },
+    {
+        "Type": 3,
+        "Id": 1,
+        "SecondPer": 0.2,
+        "SuccessPer": 0.2
+    },
+    {
+        "Type": 3,
+        "Id": 2,
+        "SecondPer": 0.15,
+        "SuccessPer": 0.15
+    },
+    {
+        "Type": 3,
+        "Id": 3,
+        "SecondPer": 0.1,
+        "SuccessPer": 0.125
+    }
+]

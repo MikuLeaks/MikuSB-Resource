@@ -1,0 +1,50 @@
+[
+    {
+        "Id": 1,
+        "NameKey": "assaultops.SystemAutoEquipName1",
+        "DescriptionKey": "assaultops.SystemAutoEquipDescription1",
+        "Icon": 1701459,
+        "ChipsSkill": [
+            1,
+            2,
+            3
+        ],
+        "ChipsMain": [
+            101,
+            102,
+            103
+        ],
+        "ChipsBranch": [
+            104,
+            105,
+            106,
+            107,
+            108,
+            109
+        ]
+    },
+    {
+        "Id": 2,
+        "NameKey": "assaultops.SystemAutoEquipName2",
+        "DescriptionKey": "assaultops.SystemAutoEquipDescription2",
+        "Icon": 1701460,
+        "ChipsSkill": [
+            4,
+            5,
+            6
+        ],
+        "ChipsMain": [
+            110,
+            111,
+            112
+        ],
+        "ChipsBranch": [
+            113,
+            114,
+            115,
+            116,
+            117,
+            118
+        ]
+    }
+]

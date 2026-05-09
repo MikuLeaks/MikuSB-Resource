@@ -1,0 +1,51 @@
+[
+    {
+        "Type": "single_level",
+        "Prefix": "ui.drop.fixed",
+        "Format": "chapter.level_%d",
+        "CanJumpTo": 2
+    },
+    {
+        "Type": "shop",
+        "Prefix": "ui.drop.shop",
+        "Format": "drop.shop"
+    },
+    {
+        "Type": "gacha",
+        "Prefix": "ui.drop.random",
+        "Format": "drop.gacha"
+    },
+    {
+        "Type": "daily_level",
+        "Prefix": "ui.drop.fixed",
+        "Format": "chapter.level_name_%d"
+    },
+    {
+        "Type": "climbtower",
+        "Prefix": "ui.drop.fixed",
+        "Format": "drop.tower",
+        "CanJumpTo": 2
+    },
+    {
+        "Type": "boss",
+        "Prefix": "ui.drop.fixed",
+        "Format": "drop.boss",
+        "CanJumpTo": 2
+    },
+    {
+        "Type": "role_level",
+        "Prefix": "ui.drop.fixed",
+        "Format": "drop.role"
+    },
+    {
+        "Type": "daily_mission",
+        "Prefix": "ui.drop.fixed",
+        "Format": "drop.daily",
+        "CanJumpTo": 2
+    },
+    {
+        "Type": "bag_console",
+        "Prefix": "ui.drop.fixed",
+        "Format": "drop.daily"
+    }
+]

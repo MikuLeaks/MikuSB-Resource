@@ -1,0 +1,962 @@
+[
+    {
+        "Key": 1,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "系统音",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "“尊敬的分析员，本次航班即将抵达前端小镇，请您做好下船准备……”",
+        "disable": 0
+    },
+    {
+        "Key": 2,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "站在游艇的甲板上，远远地眺望向远处的卫城学院。",
+        "disable": 0
+    },
+    {
+        "Key": 3,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这座古老的学院静静坐落于山畔，宁静祥和之下……",
+        "disable": 0
+    },
+    {
+        "Key": 4,
+        "Flag": "",
+        "Pos": 9,
+        "Speaker": "莉琪",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分——析——员——",
+        "disable": 0
+    },
+    {
+        "Key": 5,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "还没下船，就看到码头乌泱泱的人群中某个“长颈鹿”正一蹦一蹦向我招手。",
+        "disable": 0
+    },
+    {
+        "Key": 6,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "露娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员，莉琪和她的……五十七名同学一起来接应我们了。",
+        "disable": 0
+    },
+    {
+        "Key": 7,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "总感觉莉琪这家伙又给我制造了些麻烦……",
+        "disable": 0
+    },
+    {
+        "Key": 8,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "果然，刚刚登上码头，卫城学院学生们便把我围了起来。",
+        "disable": 0
+    },
+    {
+        "Key": 9,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "周围顿时响起了吵吵嚷嚷的声音，似乎是在讨论我的到来。",
+        "disable": 0
+    },
+    {
+        "Key": 10,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "演绎桌团爱好者",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "D20=20！难不成今天我要有什么奇遇？天哪居然是分析员大人，这简直比圣骑士神圣斩击败巨龙的瞬间还要快乐！",
+        "disable": 0
+    },
+    {
+        "Key": 11,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "不自信的女生",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "呜呜呜分析员会不会注意到我正在颤颤巍巍地看着他但我也很想和分析员见一面握个手甚至是说上两句话……",
+        "disable": 0
+    },
+    {
+        "Key": 12,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "朔州古文爱好者",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……是日天昏地暗，雷光乍现，那埃达于天幕中尽现……分析员破空而出，于刹那间将埃达伏诛……",
+        "disable": 0
+    },
+    {
+        "Key": 13,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "怎么还有用我经历说书的！",
+        "disable": 0
+    },
+    {
+        "Key": 14,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "内心中吐槽了一句，这时我注意到，那只搞怪的长颈鹿略显滑稽地从人群中挤了过来。",
+        "disable": 0
+    },
+    {
+        "Key": 15,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我板着脸，一副严肃的模样看着这个戴着长颈鹿头套的少女。",
+        "disable": 0
+    },
+    {
+        "Key": 16,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "莉琪，我不是说好了要低调行事！",
+        "disable": 0
+    },
+    {
+        "Key": 17,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "莉琪",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "欸嘿嘿嘿嘿……",
+        "disable": 0
+    },
+    {
+        "Key": 18,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "莉琪",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我只告诉了几个要好的同学，她们也答应我只告诉自己最亲近的人，结果嘛……",
+        "disable": 0
+    },
+    {
+        "Key": 19,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她微微低头，尴尬地挠了挠自己长颈鹿头套。",
+        "disable": 0
+    },
+    {
+        "Key": 20,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "叹了口气，无奈地摇了摇头，随后轻轻敲了下她的头套。",
+        "disable": 0
+    },
+    {
+        "Key": 21,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "下次可别再这样了。",
+        "disable": 0
+    },
+    {
+        "Key": 22,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "莉琪猛地点了几个头，头套晃晃悠悠的样子反而显得有些可爱。",
+        "disable": 0
+    },
+    {
+        "Key": 23,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "露娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "看来下次要重新评估分析员在菲洛索亚地区的声望了呢。",
+        "disable": 0
+    },
+    {
+        "Key": 24,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "快速应付过热情的人群，登上莉琪为我们准备好的车辆。",
+        "disable": 0
+    },
+    {
+        "Key": 25,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "下车进入学院后，热闹的场景更甚。",
+        "disable": 0
+    },
+    {
+        "Key": 26,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "巨大的欢迎横幅挂在教学楼上，道路两旁都是围观的人群，由学生会组成志愿团体在主动维持秩序。",
+        "disable": 0
+    },
+    {
+        "Key": 27,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "隐隐约约中，似乎还能看到某位旧友的身影。",
+        "disable": 0
+    },
+    {
+        "Key": 28,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "对着她的方向微微一笑，随后我便在露娜陪同下走向发布会会场。",
+        "disable": 0
+    },
+    {
+        "Key": 29,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "今天是世界树公司在卫城学院投资的游乐园开业的日子。",
+        "disable": 0
+    },
+    {
+        "Key": 30,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "而我将作为投资方代表，参与一系列开业相关活动。",
+        "disable": 0
+    },
+    {
+        "Key": 31,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "看着远方新建立起的游乐园，思绪不禁回到了过往……",
+        "disable": 0
+    },
+    {
+        "Key": 32,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "几个月前。",
+        "disable": 0
+    },
+    {
+        "Key": 33,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "世界树公司办公室内。",
+        "disable": 0
+    },
+    {
+        "Key": 34,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "【世界树公司安全部门月度报告】、【海姆达尔部队后勤部门采购清单】、【研发部门年度指标】……",
+        "disable": 0
+    },
+    {
+        "Key": 35,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "浏览过文件，做出主要批示后，我把文件递给了一旁的露娜。",
+        "disable": 0
+    },
+    {
+        "Key": 36,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "露娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "好的，分析员。",
+        "disable": 0
+    },
+    {
+        "Key": 37,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "露娜熟络地接过文件，迅速地处理起来。",
+        "disable": 0
+    },
+    {
+        "Key": 38,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "自从露娜返回公司后，不少文书工作都交由她处理了，着实为我减轻了许多压力。",
+        "disable": 0
+    },
+    {
+        "Key": 39,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "但可能是刚刚抵达的缘故，她在言语上倒是略显拘谨。",
+        "disable": 0
+    },
+    {
+        "Key": 40,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员，这里有一封卫城学院发给你的紧急邮件，需要你确认下。",
+        "disable": 0
+    },
+    {
+        "Key": 41,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "卫城学院的紧急邮件？",
+        "disable": 0
+    },
+    {
+        "Key": 42,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "打开邮件中的视频，映入眼帘的是一众辩论赛的场面，议题是“是否要把卫城学院附近的空地建设成游乐园”",
+        "disable": 0
+    },
+    {
+        "Key": 43,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "露娜也凑着脑袋靠了过来，好奇地看着这个视频。",
+        "disable": 0
+    },
+    {
+        "Key": 44,
+        "Flag": "",
+        "Pos": 9,
+        "Speaker": "露娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "游乐园……学院的大家还真是有很多奇思妙想呢。",
+        "disable": 0
+    },
+    {
+        "Key": 45,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "正方辩手",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "“建设游乐园有助于大家劳逸结合——“",
+        "disable": 0
+    },
+    {
+        "Key": 46,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "反方辩手",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "“游乐园的建设可能会影响科研氛围——”",
+        "disable": 0
+    },
+    {
+        "Key": 47,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "快进了下视频内容，在两方激烈的讨论后，她们得出的唯一结论便是将决定权交给最有威望的分析员大人。",
+        "disable": 0
+    },
+    {
+        "Key": 48,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "怎么就把这个议题交给我了。",
+        "disable": 0
+    },
+    {
+        "Key": 49,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不过，投资一座游乐园倒也是一个不错的选择。",
+        "disable": 0
+    },
+    {
+        "Key": 50,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "菲洛索亚的危机中，不少学院附近的建筑遭到破坏，很多基础设施也亟待修复。",
+        "disable": 0
+    },
+    {
+        "Key": 51,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "如果能在卫城学院附近投资建设一座游乐园，这对于整个城市生态的恢复也是助力。",
+        "disable": 0
+    },
+    {
+        "Key": 52,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "把这个想法继续延伸思考了下，却发现其中要考虑的因素颇多。",
+        "disable": 0
+    },
+    {
+        "Key": 53,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "投资方向、建设计划、人员安排等等问题，恐怕要花上不小的精力与工夫。",
+        "disable": 0
+    },
+    {
+        "Key": 54,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "如果我去忙这些，那这段时间的文书工作恐怕又得露娜一人承担了。",
+        "disable": 0
+    },
+    {
+        "Key": 55,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "想着这些，眉头不禁皱了起来。",
+        "disable": 0
+    },
+    {
+        "Key": 56,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "忽然身体被轻轻拍了一下，是露娜。",
+        "disable": 0
+    },
+    {
+        "Key": 57,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "露娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员，在考虑什么？有什么需要我帮忙的吗？",
+        "disable": 0
+    },
+    {
+        "Key": 58,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "投资游乐园的问题，我在想要不要……",
+        "disable": 0
+    },
+    {
+        "Key": 59,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "露娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "今天的文书工作就都由我负责吧，分析员您专心去筹划这件事！",
+        "disable": 0
+    },
+    {
+        "Key": 60,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "还没等我话说完，她便露出了一副自信的微笑。",
+        "disable": 0
+    },
+    {
+        "Key": 61,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "随即，她抱起一大摞文档放到她的桌子上，将头埋进文件堆里。",
+        "disable": 0
+    },
+    {
+        "Key": 62,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "见到她如此心意，我便也没有回绝，坐到桌前便开始认真考虑这件事。",
+        "disable": 0
+    },
+    {
+        "Key": 63,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不久之后，几道倩影也来到我的办公室。",
+        "disable": 0
+    },
+    {
+        "Key": 64,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "里芙无限之视",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "亲爱的，我会陪在你身边的。",
+        "disable": 0
+    },
+    {
+        "Key": 65,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "芬妮澄意",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "达令~这么重要的事情当然要我们一起了！",
+        "disable": 0
+    },
+    {
+        "Key": 66,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "辰星琼弦",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我对于投资也略有涉猎，或许可以助郎君一臂之力。",
+        "disable": 0
+    },
+    {
+        "Key": 67,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "肴夜天光",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "郎君，我虽然不太懂，但至少端个茶捏捏腰什么我还是可以帮你的！",
+        "disable": 0
+    },
+    {
+        "Key": 68,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "茉莉安幽潮",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员，需要我动用阴极科技的一些渠道吗？",
+        "disable": 0
+    },
+    {
+        "Key": 69,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "凯茜娅狂诗",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "亲爱的，这事可不能忘了我哟。",
+        "disable": 0
+    },
+    {
+        "Key": 70,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "瑟瑞斯悠游",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我我我也想帮助分析员。",
+        "disable": 0
+    },
+    {
+        "Key": 71,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "看着少女们脸庞的微笑，我又怎么拒绝她们的好意？",
+        "disable": 0
+    },
+    {
+        "Key": 72,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "轻轻吻过她们的脸庞，略作温存之后，推门声再次响起。",
+        "disable": 0
+    },
+    {
+        "Key": 73,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "苔丝绮幻",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "锵锵~亲爱的，你的大魔术师登场喽~",
+        "disable": 0
+    },
+    {
+        "Key": 74,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "苔丝扑入我的怀中，与她吻过之后，我看向了跟在后面的卡罗琳。",
+        "disable": 0
+    },
+    {
+        "Key": 75,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "知道分析员想要投资游乐园的消息后，最近没有执勤任务的大家可都来帮忙了哦。",
+        "disable": 0
+    },
+    {
+        "Key": 76,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你不是也来了嘛，可少不了我的小情报官呢~",
+        "disable": 0
+    },
+    {
+        "Key": 77,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我轻轻摸了摸卡罗琳的头，她的脸庞微微泛红。",
+        "disable": 0
+    },
+    {
+        "Key": 78,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "咳咳~这么多恒约对象都在呢，先说正事。",
+        "disable": 0
+    },
+    {
+        "Key": 79,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我和苔丝为分析员准备了这个——",
+        "disable": 0
+    },
+    {
+        "Key": 80,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "卡罗琳说着，从文件袋里神秘兮兮地掏出一个存储芯片。",
+        "disable": 0
+    },
+    {
+        "Key": 81,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这是？",
+        "disable": 0
+    },
+    {
+        "Key": 82,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "公司投资部门使用的模拟经营推演系统【绘梦沙盘】，它可以模拟投资环境下遭遇的各种事件，帮助分析员进行投资实践。",
+        "disable": 0
+    },
+    {
+        "Key": 83,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我和苔丝将负责系统的操作，其余的大家就请在一旁帮分析员出谋划策。",
+        "disable": 0
+    },
+    {
+        "Key": 84,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "更具体的内容，就由分析员和大家亲自体验了~",
+        "disable": 0
+    },
+    {
+        "Key": 85,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "伴随着储存芯片的接入，投影屏幕浮现在空中。",
+        "disable": 0
+    },
+    {
+        "Key": 86,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "少女们也纷纷围到我的身边，在温存与欢笑间，绘梦沙盘的模拟开始了。",
+        "disable": 0
+    },
+    {
+        "Key": 87,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "几天后。",
+        "disable": 0
+    },
+    {
+        "Key": 88,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "露娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员，游乐园投资的相关事宜均已安排完毕。",
+        "disable": 0
+    },
+    {
+        "Key": 89,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "露娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这次投资相当顺利，分析员您提前考虑的很多战略完全没用上。",
+        "disable": 0
+    },
+    {
+        "Key": 90,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "本以为会像模拟里那样，遭遇到一些棘手的情况。",
+        "disable": 0
+    },
+    {
+        "Key": 91,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "但没想到因为我在菲洛索亚地区的声望，很多问题迎刃而解，游乐园的投资毫无波澜进行。",
+        "disable": 0
+    },
+    {
+        "Key": 92,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "和大家一起的时光倒是很快乐呢，也不算浪费。",
+        "disable": 0
+    },
+    {
+        "Key": 93,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "露娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这几天的文书工作都是我负责的，不知道分析员是否认可呢？",
+        "disable": 0
+    },
+    {
+        "Key": 94,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "露娜一本正经地说着，眼神中却带着一丝期待，我笑了笑，伸手抚摸她的头。",
+        "disable": 0
+    },
+    {
+        "Key": 95,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员无帽",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "游乐园开业发布会，到时候我们一起去吧。",
+        "disable": 0
+    },
+    {
+        "Key": 96,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "露娜",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "好的，分析员！",
+        "disable": 0
+    }
+]

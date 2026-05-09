@@ -1,0 +1,189 @@
+[
+    {
+        "Id": 1,
+        "ParameterName": "BranchSlotUnlockLevel",
+        "ParameterValue": [
+            1,
+            5,
+            10,
+            15,
+            20,
+            25
+        ]
+    },
+    {
+        "Id": 2,
+        "ParameterName": "ShopId",
+        "ParameterValue": [
+            303,
+            304
+        ]
+    },
+    {
+        "Id": 3,
+        "ParameterName": "ActivityPointsName",
+        "ParameterValue": [
+            "assaultops.ActivityPointsName",
+            "assaultops.ActivityPointsDescription"
+        ]
+    },
+    {
+        "Id": 4,
+        "ParameterName": "ActivityPoints",
+        "ParameterValue": [
+            500
+        ]
+    },
+    {
+        "Id": 5,
+        "ParameterName": "ActivityPointsFinish",
+        "ParameterValue": [
+            "assaultops.ActivityPointsFinish"
+        ]
+    },
+    {
+        "Id": 6,
+        "ParameterName": "SettlementK1",
+        "ParameterValue": [
+            1000,
+            1500
+        ]
+    },
+    {
+        "Id": 7,
+        "ParameterName": "SettlementK2",
+        "ParameterValue": [
+            420,
+            600
+        ]
+    },
+    {
+        "Id": 8,
+        "ParameterName": "SettlementK3",
+        "ParameterValue": [
+            3750,
+            5000
+        ]
+    },
+    {
+        "Id": 9,
+        "ParameterName": "SettlementK4",
+        "ParameterValue": [
+            2,
+            3
+        ]
+    },
+    {
+        "Id": 10,
+        "ParameterName": "SettlementK5",
+        "ParameterValue": [
+            12,
+            20
+        ]
+    },
+    {
+        "Id": 11,
+        "ParameterName": "SettlementK6",
+        "ParameterValue": [
+            20,
+            30
+        ]
+    },
+    {
+        "Id": 12,
+        "ParameterName": "SettlementK7",
+        "ParameterValue": [
+            10,
+            20
+        ]
+    },
+    {
+        "Id": 13,
+        "ParameterName": "SettlementK8",
+        "ParameterValue": [
+            [
+                4,
+                1,
+                41,
+                2,
+                1
+            ],
+            [
+                4,
+                1,
+                41,
+                3,
+                1
+            ]
+        ]
+    },
+    {
+        "Id": 14,
+        "ParameterName": "SettlementK9",
+        "ParameterValue": [
+            [
+                4,
+                1,
+                41,
+                1,
+                1
+            ],
+            [
+                4,
+                1,
+                41,
+                2,
+                1
+            ]
+        ]
+    },
+    {
+        "Id": 15,
+        "ParameterName": "SettlementB1",
+        "ParameterValue": [
+            0.4
+        ]
+    },
+    {
+        "Id": 16,
+        "ParameterName": "SettlementB2",
+        "ParameterValue": [
+            300
+        ]
+    },
+    {
+        "Id": 17,
+        "ParameterName": "SettlementB3",
+        "ParameterValue": [
+            30
+        ]
+    },
+    {
+        "Id": 18,
+        "ParameterName": "SettlementB4",
+        "ParameterValue": [
+            0.4
+        ]
+    },
+    {
+        "Id": 19,
+        "ParameterName": "SettlementB5",
+        "ParameterValue": [
+            0.25
+        ]
+    },
+    {
+        "Id": 20,
+        "ParameterName": "ShopCash",
+        "ParameterValue": [
+            62
+        ]
+    },
+    {
+        "Id": 21,
+        "ParameterName": "ChipsHelpImages",
+        "ParameterValue": [
+            284
+        ]
+    }
+]

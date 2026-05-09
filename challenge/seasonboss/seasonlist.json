@@ -1,0 +1,1322 @@
+[
+    {
+        "Id": 1,
+        "ActID": 1,
+        "TermID": 1,
+        "ZoneID": 1,
+        "StartTime": "[202412190400]",
+        "EndTime": "[202501020400]",
+        "AwardTime": "[202501030400]",
+        "Condition": "23,1",
+        "SeasonName": 2.4,
+        "LevelList": [
+            2501,
+            2511,
+            2521,
+            2531,
+            2541
+        ],
+        "ReferRank": 1,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19001,
+            19002,
+            19003,
+            19004,
+            19005
+        ]
+    },
+    {
+        "Id": 2,
+        "ActID": 1,
+        "TermID": 1,
+        "ZoneID": 2,
+        "StartTime": "[202412260400]",
+        "EndTime": "[202501020400]",
+        "AwardTime": "[202501030400]",
+        "Condition": "23,1",
+        "SeasonName": 2.4,
+        "LevelList": [
+            2504,
+            2514,
+            2524,
+            2534,
+            2544
+        ],
+        "ReferRank": 1,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19006,
+            19007,
+            19008,
+            19009,
+            19010
+        ]
+    },
+    {
+        "Id": 3,
+        "ActID": 1,
+        "TermID": 2,
+        "ZoneID": 1,
+        "StartTime": "[202501020400]",
+        "EndTime": "[202501160400]",
+        "AwardTime": "[202501170400]",
+        "Condition": "23,2",
+        "SeasonName": 2.4,
+        "LevelList": [
+            2503,
+            2513,
+            2523,
+            2533,
+            2543
+        ],
+        "ReferRank": 2,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19011,
+            19012,
+            19013,
+            19014,
+            19015
+        ]
+    },
+    {
+        "Id": 4,
+        "ActID": 1,
+        "TermID": 2,
+        "ZoneID": 2,
+        "StartTime": "[202501090400]",
+        "EndTime": "[202501160400]",
+        "AwardTime": "[202501170400]",
+        "Condition": "23,2",
+        "SeasonName": 2.4,
+        "LevelList": [
+            2502,
+            2512,
+            2522,
+            2532,
+            2542
+        ],
+        "ReferRank": 2,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19016,
+            19017,
+            19018,
+            19019,
+            19020
+        ]
+    },
+    {
+        "Id": 5,
+        "ActID": 2,
+        "TermID": 1,
+        "ZoneID": 1,
+        "StartTime": "[202501230400]",
+        "EndTime": "[202502060400]",
+        "AwardTime": "[202502070400]",
+        "Condition": "23,1",
+        "SeasonName": 2.5,
+        "LevelList": [
+            2505,
+            2515,
+            2525,
+            2535,
+            2545
+        ],
+        "ReferRank": 1,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19001,
+            19002,
+            19003,
+            19004,
+            19005
+        ]
+    },
+    {
+        "Id": 6,
+        "ActID": 2,
+        "TermID": 1,
+        "ZoneID": 2,
+        "StartTime": "[202501300400]",
+        "EndTime": "[202502060400]",
+        "AwardTime": "[202502070400]",
+        "Condition": "23,1",
+        "SeasonName": 2.5,
+        "LevelList": [
+            2602,
+            2612,
+            2622,
+            2632,
+            2642
+        ],
+        "ReferRank": 1,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19006,
+            19007,
+            19008,
+            19009,
+            19010
+        ]
+    },
+    {
+        "Id": 7,
+        "ActID": 2,
+        "TermID": 2,
+        "ZoneID": 1,
+        "StartTime": "[202502060400]",
+        "EndTime": "[202502200400]",
+        "AwardTime": "[202502210400]",
+        "Condition": "23,2",
+        "SeasonName": 2.5,
+        "LevelList": [
+            2506,
+            2516,
+            2526,
+            2536,
+            2546
+        ],
+        "ReferRank": 2,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19011,
+            19012,
+            19013,
+            19014,
+            19015
+        ]
+    },
+    {
+        "Id": 8,
+        "ActID": 2,
+        "TermID": 2,
+        "ZoneID": 2,
+        "StartTime": "[202502130400]",
+        "EndTime": "[202502200400]",
+        "AwardTime": "[202502210400]",
+        "Condition": "23,2",
+        "SeasonName": 2.5,
+        "LevelList": [
+            2604,
+            2614,
+            2624,
+            2634,
+            2644
+        ],
+        "ReferRank": 2,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19016,
+            19017,
+            19018,
+            19019,
+            19020
+        ]
+    },
+    {
+        "Id": 9,
+        "ActID": 3,
+        "TermID": 1,
+        "ZoneID": 1,
+        "StartTime": "[202503061000]",
+        "EndTime": "[202503200400]",
+        "AwardTime": "[202503210400]",
+        "Condition": "23,1",
+        "SeasonName": 2.6,
+        "LevelList": [
+            2701,
+            2702,
+            2703,
+            2704,
+            2705
+        ],
+        "ReferRank": 3,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19001,
+            19002,
+            19003,
+            19004,
+            19005
+        ]
+    },
+    {
+        "Id": 10,
+        "ActID": 3,
+        "TermID": 1,
+        "ZoneID": 2,
+        "StartTime": "[202503130400]",
+        "EndTime": "[202503200400]",
+        "AwardTime": "[202503210400]",
+        "Condition": "23,1",
+        "SeasonName": 2.6,
+        "LevelList": [
+            2711,
+            2712,
+            2713,
+            2714,
+            2715
+        ],
+        "ReferRank": 3,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19006,
+            19007,
+            19008,
+            19009,
+            19010
+        ]
+    },
+    {
+        "Id": 11,
+        "ActID": 3,
+        "TermID": 2,
+        "ZoneID": 1,
+        "StartTime": "[202503200400]",
+        "EndTime": "[202504030400]",
+        "AwardTime": "[202504040400]",
+        "Condition": "23,2",
+        "SeasonName": 2.6,
+        "LevelList": [
+            2721,
+            2722,
+            2723,
+            2724,
+            2725
+        ],
+        "ReferRank": 4,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19011,
+            19012,
+            19013,
+            19014,
+            19015
+        ]
+    },
+    {
+        "Id": 12,
+        "ActID": 3,
+        "TermID": 2,
+        "ZoneID": 2,
+        "StartTime": "[202503270400]",
+        "EndTime": "[202504030400]",
+        "AwardTime": "[202504040400]",
+        "Condition": "23,2",
+        "SeasonName": 2.6,
+        "LevelList": [
+            2731,
+            2732,
+            2733,
+            2734,
+            2735
+        ],
+        "ReferRank": 4,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19016,
+            19017,
+            19018,
+            19019,
+            19020
+        ]
+    },
+    {
+        "Id": 13,
+        "ActID": 4,
+        "TermID": 1,
+        "ZoneID": 1,
+        "StartTime": "[202504170400]",
+        "EndTime": "[202505010400]",
+        "AwardTime": "[202505020400]",
+        "Condition": "23,1",
+        "SeasonName": 2.7,
+        "LevelList": [
+            2801,
+            2802,
+            2803,
+            2804,
+            2805
+        ],
+        "ReferRank": 5,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19001,
+            19002,
+            19003,
+            19004,
+            19005
+        ]
+    },
+    {
+        "Id": 14,
+        "ActID": 4,
+        "TermID": 1,
+        "ZoneID": 2,
+        "StartTime": "[202504240400]",
+        "EndTime": "[202505010400]",
+        "AwardTime": "[202505020400]",
+        "Condition": "23,1",
+        "SeasonName": 2.7,
+        "LevelList": [
+            2811,
+            2812,
+            2813,
+            2814,
+            2815
+        ],
+        "ReferRank": 5,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19006,
+            19007,
+            19008,
+            19009,
+            19010
+        ]
+    },
+    {
+        "Id": 15,
+        "ActID": 4,
+        "TermID": 2,
+        "ZoneID": 1,
+        "StartTime": "[202505010400]",
+        "EndTime": "[202505150400]",
+        "AwardTime": "[202505160400]",
+        "Condition": "23,2",
+        "SeasonName": 2.7,
+        "LevelList": [
+            2821,
+            2822,
+            2823,
+            2824,
+            2825
+        ],
+        "ReferRank": 6,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19011,
+            19012,
+            19013,
+            19014,
+            19015
+        ]
+    },
+    {
+        "Id": 16,
+        "ActID": 4,
+        "TermID": 2,
+        "ZoneID": 2,
+        "StartTime": "[202505080400]",
+        "EndTime": "[202505150400]",
+        "AwardTime": "[202505160400]",
+        "Condition": "23,2",
+        "SeasonName": 2.7,
+        "LevelList": [
+            2831,
+            2832,
+            2833,
+            2834,
+            2835
+        ],
+        "ReferRank": 6,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19016,
+            19017,
+            19018,
+            19019,
+            19020
+        ]
+    },
+    {
+        "Id": 17,
+        "ActID": 5,
+        "TermID": 1,
+        "ZoneID": 1,
+        "StartTime": "[202505291000]",
+        "EndTime": "[202506120400]",
+        "AwardTime": "[202506130400]",
+        "Condition": "23,1",
+        "SeasonName": 2.8,
+        "LevelList": [
+            2901,
+            2902,
+            2903,
+            2904,
+            2905
+        ],
+        "ReferRank": 7,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19001,
+            19002,
+            19003,
+            19004,
+            19005
+        ]
+    },
+    {
+        "Id": 18,
+        "ActID": 5,
+        "TermID": 1,
+        "ZoneID": 2,
+        "StartTime": "[202506050400]",
+        "EndTime": "[202506120400]",
+        "AwardTime": "[202506130400]",
+        "Condition": "23,1",
+        "SeasonName": 2.8,
+        "LevelList": [
+            2911,
+            2912,
+            2913,
+            2914,
+            2915
+        ],
+        "ReferRank": 7,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19006,
+            19007,
+            19008,
+            19009,
+            19010
+        ]
+    },
+    {
+        "Id": 19,
+        "ActID": 5,
+        "TermID": 2,
+        "ZoneID": 1,
+        "StartTime": "[202506120400]",
+        "EndTime": "[202506260400]",
+        "AwardTime": "[202506270400]",
+        "Condition": "23,2",
+        "SeasonName": 2.8,
+        "LevelList": [
+            2921,
+            2922,
+            2923,
+            2924,
+            2925
+        ],
+        "ReferRank": 8,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19011,
+            19012,
+            19013,
+            19014,
+            19015
+        ]
+    },
+    {
+        "Id": 20,
+        "ActID": 5,
+        "TermID": 2,
+        "ZoneID": 2,
+        "StartTime": "[202506190400]",
+        "EndTime": "[202506260400]",
+        "AwardTime": "[202506270400]",
+        "Condition": "23,2",
+        "SeasonName": 2.8,
+        "LevelList": [
+            2931,
+            2932,
+            2933,
+            2934,
+            2935
+        ],
+        "ReferRank": 8,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19016,
+            19017,
+            19018,
+            19019,
+            19020
+        ]
+    },
+    {
+        "Id": 21,
+        "ActID": 6,
+        "TermID": 1,
+        "ZoneID": 1,
+        "StartTime": "[202507100400]",
+        "EndTime": "[202507240400]",
+        "AwardTime": "[202507250400]",
+        "Condition": "23,1",
+        "SeasonName": 3,
+        "LevelList": [
+            3001,
+            3002,
+            3003,
+            3004,
+            3005
+        ],
+        "ReferRank": 9,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19001,
+            19002,
+            19003,
+            19004,
+            19005
+        ]
+    },
+    {
+        "Id": 22,
+        "ActID": 6,
+        "TermID": 1,
+        "ZoneID": 2,
+        "StartTime": "[202507170400]",
+        "EndTime": "[202507240400]",
+        "AwardTime": "[202507250400]",
+        "Condition": "23,1",
+        "SeasonName": 3,
+        "LevelList": [
+            3011,
+            3012,
+            3013,
+            3014,
+            3015
+        ],
+        "ReferRank": 9,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19006,
+            19007,
+            19008,
+            19009,
+            19010
+        ]
+    },
+    {
+        "Id": 23,
+        "ActID": 6,
+        "TermID": 2,
+        "ZoneID": 1,
+        "StartTime": "[202507240400]",
+        "EndTime": "[202508070400]",
+        "AwardTime": "[202508080400]",
+        "Condition": "23,2",
+        "SeasonName": 3,
+        "LevelList": [
+            3021,
+            3022,
+            3023,
+            3024,
+            3025
+        ],
+        "ReferRank": 10,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19011,
+            19012,
+            19013,
+            19014,
+            19015
+        ]
+    },
+    {
+        "Id": 24,
+        "ActID": 6,
+        "TermID": 2,
+        "ZoneID": 2,
+        "StartTime": "[202507310400]",
+        "EndTime": "[202508070400]",
+        "AwardTime": "[202508080400]",
+        "Condition": "23,2",
+        "SeasonName": 3,
+        "LevelList": [
+            3031,
+            3032,
+            3033,
+            3034,
+            3035
+        ],
+        "ReferRank": 10,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19016,
+            19017,
+            19018,
+            19019,
+            19020
+        ]
+    },
+    {
+        "Id": 25,
+        "ActID": 7,
+        "TermID": 1,
+        "ZoneID": 1,
+        "StartTime": "[202508211000]",
+        "EndTime": "[202509040400]",
+        "AwardTime": "[202509050400]",
+        "Condition": "23,1",
+        "SeasonName": 3.1,
+        "LevelList": [
+            3101,
+            3102,
+            3103,
+            3104,
+            3105
+        ],
+        "ReferRank": 11,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19001,
+            19002,
+            19003,
+            19004,
+            19005
+        ]
+    },
+    {
+        "Id": 26,
+        "ActID": 7,
+        "TermID": 1,
+        "ZoneID": 2,
+        "StartTime": "[202508280400]",
+        "EndTime": "[202509040400]",
+        "AwardTime": "[202509050400]",
+        "Condition": "23,1",
+        "SeasonName": 3.1,
+        "LevelList": [
+            3111,
+            3112,
+            3113,
+            3114,
+            3115
+        ],
+        "ReferRank": 11,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19006,
+            19007,
+            19008,
+            19009,
+            19010
+        ]
+    },
+    {
+        "Id": 27,
+        "ActID": 7,
+        "TermID": 2,
+        "ZoneID": 1,
+        "StartTime": "[202509040400]",
+        "EndTime": "[202509180400]",
+        "AwardTime": "[202509190400]",
+        "Condition": "23,2",
+        "SeasonName": 3.1,
+        "LevelList": [
+            3121,
+            3122,
+            3123,
+            3124,
+            3125
+        ],
+        "ReferRank": 12,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19011,
+            19012,
+            19013,
+            19014,
+            19015
+        ]
+    },
+    {
+        "Id": 28,
+        "ActID": 7,
+        "TermID": 2,
+        "ZoneID": 2,
+        "StartTime": "[202509110400]",
+        "EndTime": "[202509180400]",
+        "AwardTime": "[202509190400]",
+        "Condition": "23,2",
+        "SeasonName": 3.1,
+        "LevelList": [
+            3131,
+            3132,
+            3133,
+            3134,
+            3135
+        ],
+        "ReferRank": 12,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19016,
+            19017,
+            19018,
+            19019,
+            19020
+        ]
+    },
+    {
+        "Id": 29,
+        "ActID": 8,
+        "TermID": 1,
+        "ZoneID": 1,
+        "StartTime": "[202509250400]",
+        "EndTime": "[202510090400]",
+        "AwardTime": "[202510100400]",
+        "Condition": "23,1",
+        "SeasonName": 3.2,
+        "LevelList": [
+            3201,
+            3202,
+            3203,
+            3204,
+            3205
+        ],
+        "ReferRank": 13,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19001,
+            19002,
+            19003,
+            19004,
+            19005
+        ]
+    },
+    {
+        "Id": 30,
+        "ActID": 8,
+        "TermID": 1,
+        "ZoneID": 2,
+        "StartTime": "[202510020400]",
+        "EndTime": "[202510090400]",
+        "AwardTime": "[202510100400]",
+        "Condition": "23,1",
+        "SeasonName": 3.2,
+        "LevelList": [
+            3211,
+            3212,
+            3213,
+            3214,
+            3215
+        ],
+        "ReferRank": 13,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19006,
+            19007,
+            19008,
+            19009,
+            19010
+        ]
+    },
+    {
+        "Id": 31,
+        "ActID": 8,
+        "TermID": 2,
+        "ZoneID": 1,
+        "StartTime": "[202510090400]",
+        "EndTime": "[202510230400]",
+        "AwardTime": "[202510240400]",
+        "Condition": "23,2",
+        "SeasonName": 3.2,
+        "LevelList": [
+            3221,
+            3222,
+            3223,
+            3224,
+            3225
+        ],
+        "ReferRank": 14,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19011,
+            19012,
+            19013,
+            19014,
+            19015
+        ]
+    },
+    {
+        "Id": 32,
+        "ActID": 8,
+        "TermID": 2,
+        "ZoneID": 2,
+        "StartTime": "[202510160400]",
+        "EndTime": "[202510230400]",
+        "AwardTime": "[202510240400]",
+        "Condition": "23,2",
+        "SeasonName": 3.2,
+        "LevelList": [
+            3231,
+            3232,
+            3233,
+            3234,
+            3235
+        ],
+        "ReferRank": 14,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19016,
+            19017,
+            19018,
+            19019,
+            19020
+        ]
+    },
+    {
+        "Id": 33,
+        "ActID": 9,
+        "TermID": 1,
+        "ZoneID": 1,
+        "StartTime": "[202511060400]",
+        "EndTime": "[202511200400]",
+        "AwardTime": "[202511210400]",
+        "Condition": "23,1",
+        "SeasonName": 3.3,
+        "LevelList": [
+            3301,
+            3302,
+            3303,
+            3304,
+            3305
+        ],
+        "ReferRank": 15,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19001,
+            19002,
+            19003,
+            19004,
+            19005
+        ]
+    },
+    {
+        "Id": 34,
+        "ActID": 9,
+        "TermID": 1,
+        "ZoneID": 2,
+        "StartTime": "[202511130400]",
+        "EndTime": "[202511200400]",
+        "AwardTime": "[202511210400]",
+        "Condition": "23,1",
+        "SeasonName": 3.3,
+        "LevelList": [
+            3311,
+            3312,
+            3313,
+            3314,
+            3315
+        ],
+        "ReferRank": 15,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19006,
+            19007,
+            19008,
+            19009,
+            19010
+        ]
+    },
+    {
+        "Id": 35,
+        "ActID": 9,
+        "TermID": 2,
+        "ZoneID": 1,
+        "StartTime": "[202511200400]",
+        "EndTime": "[202512040400]",
+        "AwardTime": "[202512050400]",
+        "Condition": "23,2",
+        "SeasonName": 3.3,
+        "LevelList": [
+            3321,
+            3322,
+            3323,
+            3324,
+            3325
+        ],
+        "ReferRank": 16,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19011,
+            19012,
+            19013,
+            19014,
+            19015
+        ]
+    },
+    {
+        "Id": 36,
+        "ActID": 9,
+        "TermID": 2,
+        "ZoneID": 2,
+        "StartTime": "[202511270400]",
+        "EndTime": "[202512040400]",
+        "AwardTime": "[202512050400]",
+        "Condition": "23,2",
+        "SeasonName": 3.3,
+        "LevelList": [
+            3331,
+            3332,
+            3333,
+            3334,
+            3335
+        ],
+        "ReferRank": 16,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19016,
+            19017,
+            19018,
+            19019,
+            19020
+        ]
+    },
+    {
+        "Id": 37,
+        "ActID": 10,
+        "TermID": 1,
+        "ZoneID": 1,
+        "StartTime": "[202601290400]",
+        "EndTime": "[202602120400]",
+        "AwardTime": "[202602130400]",
+        "Condition": "23,1",
+        "SeasonName": 3.3,
+        "LevelList": [
+            3401,
+            3402,
+            3403,
+            3404,
+            3405
+        ],
+        "ReferRank": 17,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19001,
+            19002,
+            19003,
+            19004,
+            19005
+        ]
+    },
+    {
+        "Id": 38,
+        "ActID": 10,
+        "TermID": 1,
+        "ZoneID": 2,
+        "StartTime": "[202602050400]",
+        "EndTime": "[202602120400]",
+        "AwardTime": "[202602130400]",
+        "Condition": "23,1",
+        "SeasonName": 3.3,
+        "LevelList": [
+            3411,
+            3412,
+            3413,
+            3414,
+            3415
+        ],
+        "ReferRank": 17,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19006,
+            19007,
+            19008,
+            19009,
+            19010
+        ]
+    },
+    {
+        "Id": 39,
+        "ActID": 10,
+        "TermID": 2,
+        "ZoneID": 1,
+        "StartTime": "[202602120400]",
+        "EndTime": "[202602260400]",
+        "AwardTime": "[202602270400]",
+        "Condition": "23,2",
+        "SeasonName": 3.3,
+        "LevelList": [
+            3421,
+            3422,
+            3423,
+            3424,
+            3425
+        ],
+        "ReferRank": 18,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19011,
+            19012,
+            19013,
+            19014,
+            19015
+        ]
+    },
+    {
+        "Id": 40,
+        "ActID": 10,
+        "TermID": 2,
+        "ZoneID": 2,
+        "StartTime": "[202602190400]",
+        "EndTime": "[202602260400]",
+        "AwardTime": "[202602270400]",
+        "Condition": "23,2",
+        "SeasonName": 3.3,
+        "LevelList": [
+            3431,
+            3432,
+            3433,
+            3434,
+            3435
+        ],
+        "ReferRank": 18,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19016,
+            19017,
+            19018,
+            19019,
+            19020
+        ]
+    },
+    {
+        "Id": 41,
+        "ActID": 11,
+        "TermID": 1,
+        "ZoneID": 1,
+        "StartTime": "[202603120400]",
+        "EndTime": "[202603260400]",
+        "AwardTime": "[202603270400]",
+        "Condition": "23,1",
+        "SeasonName": 3.6,
+        "LevelList": [
+            3501,
+            3502,
+            3503,
+            3504,
+            3505
+        ],
+        "ReferRank": 19,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19001,
+            19002,
+            19003,
+            19004,
+            19005
+        ]
+    },
+    {
+        "Id": 42,
+        "ActID": 11,
+        "TermID": 1,
+        "ZoneID": 2,
+        "StartTime": "[202603190400]",
+        "EndTime": "[202603260400]",
+        "AwardTime": "[202603270400]",
+        "Condition": "23,1",
+        "SeasonName": 3.6,
+        "LevelList": [
+            3511,
+            3512,
+            3513,
+            3514,
+            3515
+        ],
+        "ReferRank": 19,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19006,
+            19007,
+            19008,
+            19009,
+            19010
+        ]
+    },
+    {
+        "Id": 43,
+        "ActID": 11,
+        "TermID": 2,
+        "ZoneID": 1,
+        "StartTime": "[202603260400]",
+        "EndTime": "[202604090400]",
+        "AwardTime": "[202604100400]",
+        "Condition": "23,2",
+        "SeasonName": 3.6,
+        "LevelList": [
+            3521,
+            3522,
+            3523,
+            3524,
+            3525
+        ],
+        "ReferRank": 20,
+        "HelpImgId": 146,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19011,
+            19012,
+            19013,
+            19014,
+            19015
+        ]
+    },
+    {
+        "Id": 44,
+        "ActID": 11,
+        "TermID": 2,
+        "ZoneID": 2,
+        "StartTime": "[202604020400]",
+        "EndTime": "[202604090400]",
+        "AwardTime": "[202604100400]",
+        "Condition": "23,2",
+        "SeasonName": 3.6,
+        "LevelList": [
+            3531,
+            3532,
+            3533,
+            3534,
+            3535
+        ],
+        "ReferRank": 20,
+        "HelpImgId": 146,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline",
+        "Coverage": "",
+        "TaskID": [
+            19016,
+            19017,
+            19018,
+            19019,
+            19020
+        ]
+    }
+]

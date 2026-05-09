@@ -1,0 +1,121 @@
+[
+    {
+        "Id": 1,
+        "Describe": "rogue.suitbuff1",
+        "Dynamic": 2,
+        "Lv": 2,
+        "Type": 1,
+        "ModifireID": [
+            8300021
+        ]
+    },
+    {
+        "Id": 2,
+        "Describe": "rogue.suitbuff2",
+        "Dynamic": 2,
+        "Lv": 3,
+        "Type": 1,
+        "ModifireID": [
+            8300029
+        ]
+    },
+    {
+        "Id": 3,
+        "Describe": "rogue.suitbuff3",
+        "Dynamic": 2,
+        "Lv": 2,
+        "Type": 1,
+        "ModifireID": [
+            8300028
+        ]
+    },
+    {
+        "Id": 4,
+        "Describe": "rogue.suitbuff4",
+        "Dynamic": 3,
+        "Lv": 1,
+        "Type": 1,
+        "ModifireID": [
+            8400080
+        ]
+    },
+    {
+        "Id": 5,
+        "Describe": "rogue.suitbuff5",
+        "Dynamic": 3,
+        "Lv": 1,
+        "Type": 1,
+        "ModifireID": [
+            8300039
+        ]
+    },
+    {
+        "Id": 6,
+        "Describe": "rogue.suitbuff6",
+        "Dynamic": 1,
+        "Lv": 3,
+        "Type": 2,
+        "ModifireID": "",
+        "Percent": 20
+    },
+    {
+        "Id": 7,
+        "Describe": "rogue.suitbuff7",
+        "Dynamic": 1,
+        "Lv": 3,
+        "Type": 1,
+        "ModifireID": [
+            8330001
+        ]
+    },
+    {
+        "Id": 8,
+        "Describe": "rogue.suitbuff8",
+        "Dynamic": 1,
+        "Lv": 3,
+        "Type": 1,
+        "ModifireID": [
+            8300031
+        ]
+    },
+    {
+        "Id": 9,
+        "Describe": "rogue.suitbuff9",
+        "Dynamic": 2,
+        "Lv": 2,
+        "Type": 1,
+        "ModifireID": [
+            8300030
+        ]
+    },
+    {
+        "Id": 10,
+        "Describe": "rogue.suitbuff10",
+        "Dynamic": 3,
+        "Lv": 1,
+        "Type": 1,
+        "ModifireID": [
+            8300003
+        ]
+    },
+    {
+        "Id": 11,
+        "Describe": "rogue.suitbuff11",
+        "Dynamic": 3,
+        "Lv": 1,
+        "Type": 1,
+        "ModifireID": [
+            8300042
+        ]
+    },
+    {
+        "Id": 12,
+        "Describe": "rogue.suitbuff12",
+        "Dynamic": 3,
+        "Lv": 1,
+        "Type": 1,
+        "ModifireID": [
+            8300012
+        ]
+    }
+]

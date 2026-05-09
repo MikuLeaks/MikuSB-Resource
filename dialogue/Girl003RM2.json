@@ -1,0 +1,902 @@
+[
+    {
+        "Key": 1,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "昨晚我睡得还不错，醒来已经接近中午。\\N吃过饭，坐在吧台边喝一杯咖啡，想着剩下的休息日该如何度过。",
+        "disable": 0
+    },
+    {
+        "Key": 2,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "公司职员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员长官，你看见妮塔了吗？",
+        "disable": 0
+    },
+    {
+        "Key": 3,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我没见到她，有什么事吗？我可以联系她。",
+        "disable": 0
+    },
+    {
+        "Key": 4,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "公司职员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不必麻烦，不必麻烦，只是有人将送给妮塔的包裹留在了前台，我来交给她。",
+        "disable": 0
+    },
+    {
+        "Key": 5,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "公司职员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我已经给她留了消息，等她什么时候回基地，我再来一趟好了。",
+        "disable": 0
+    },
+    {
+        "Key": 6,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "交给我吧，我转交给她。",
+        "disable": 0
+    },
+    {
+        "Key": 7,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "公司职员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "真是太谢谢分析员长官了，那就不打扰了。",
+        "disable": 0
+    },
+    {
+        "Key": 8,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "说起来，妮塔很少宅在基地房间里，最近更是一到休息日就不见踪影。",
+        "disable": 0
+    },
+    {
+        "Key": 9,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她大概又在忙着赚外快，我只是有点好奇她究竟在做什么。而我要把手里的包裹交给她，有了个完美的去找她的理由。",
+        "disable": 0
+    },
+    {
+        "Key": 10,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "至于她现在人在何处我心中大致有数，便直接朝着她的位置找过去。",
+        "disable": 0
+    },
+    {
+        "Key": 11,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "靠近目的地时，前方远处拐角后突然传来争吵声。",
+        "disable": 0
+    },
+    {
+        "Key": 12,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Mo_girl003_angry01_053",
+        "zh_CN": "谁给你这东西的？",
+        "disable": 0
+    },
+    {
+        "Key": 13,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "？？？",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "没……没人给，我捡到的。",
+        "disable": 0
+    },
+    {
+        "Key": 14,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "说谎！",
+        "disable": 0
+    },
+    {
+        "Key": 15,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我再问你一次，谁给你这东西的？",
+        "disable": 0
+    },
+    {
+        "Key": 16,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "？？？",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我不告诉你！",
+        "disable": 0
+    },
+    {
+        "Key": 17,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "梅，把它交给我。",
+        "disable": 0
+    },
+    {
+        "Key": 18,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "梅",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我不！我凭什么把它交给你？",
+        "disable": 0
+    },
+    {
+        "Key": 19,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "梅",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "明明是你教我的防身技巧一点用都没有，但我一朝他们举起这东西，那些欺负我的坏家伙就都吓跑了！",
+        "disable": 0
+    },
+    {
+        "Key": 20,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Mo_girl003_endure01_062",
+        "zh_CN": "梅，我没和你玩笑，快把它给我！",
+        "disable": 0
+    },
+    {
+        "Key": 21,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "梅",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "妮塔最讨厌了！",
+        "disable": 0
+    },
+    {
+        "Key": 22,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "飞奔的女孩并没有看眼前的路，结结实实地与我撞在了一起。",
+        "disable": 0
+    },
+    {
+        "Key": 23,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "哦呦！你撞疼我了。",
+        "disable": 0
+    },
+    {
+        "Key": 24,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "作为赔偿，这东西大哥哥没收了。",
+        "disable": 0
+    },
+    {
+        "Key": 25,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "借着这一撞，我趁机夺下这个叫梅的女孩手里的枪，女孩如受惊的小鹿般跑远了。",
+        "disable": 0
+    },
+    {
+        "Key": 26,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员……",
+        "disable": 0
+    },
+    {
+        "Key": 27,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我第一次在妮塔的脸上看到这种脆弱无力的表情，她用湿润的双眼看向我，用微微颤抖的唇轻声呼唤我。",
+        "disable": 0
+    },
+    {
+        "Key": 28,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "一瞬间我以为她哭了，但她没有。",
+        "disable": 0
+    },
+    {
+        "Key": 29,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "回基地的一路我们陷入了沉默，我决心什么都不问，直到她想主动开口。\\N那个包裹，自然也没能找到合适的时机交给她。",
+        "disable": 0
+    },
+    {
+        "Key": 30,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Mo_girl003_endure01_062",
+        "zh_CN": "模拟数据，二型验证机甲·荒猎，模拟作战开始！",
+        "disable": 0
+    },
+    {
+        "Key": 31,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "金属与金属相互对撞，火花四处飞溅。",
+        "disable": 0
+    },
+    {
+        "Key": 32,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "二倍强度，继续！",
+        "disable": 0
+    },
+    {
+        "Key": 33,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "妮塔腿部肌肉绷紧，瞬间跃到半空中，挥拳狠狠砸向目标。",
+        "disable": 0
+    },
+    {
+        "Key": 34,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "看我把你们统统砸烂！",
+        "disable": 0
+    },
+    {
+        "Key": 35,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "四倍强度！快设置啊，愣着做什么?!",
+        "disable": 0
+    },
+    {
+        "Key": 36,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "研究员被妮塔这么一吼，缩了缩脖子，为难地看向我。",
+        "disable": 0
+    },
+    {
+        "Key": 37,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你去休息吧，这里交给我。",
+        "disable": 0
+    },
+    {
+        "Key": 38,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "研究员如释重负，离开训练室并贴心地带上了门，我将视线转回到妮塔身上。",
+        "disable": 0
+    },
+    {
+        "Key": 39,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "发泄够了吗？",
+        "disable": 0
+    },
+    {
+        "Key": 40,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": 41,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "发泄够了就跟我走，你需要吃点东西。",
+        "disable": 0
+    },
+    {
+        "Key": 42,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "还想吃什么尽管点，这顿我请客。",
+        "disable": 0
+    },
+    {
+        "Key": 43,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "唔，已经吃饱了。",
+        "disable": 0
+    },
+    {
+        "Key": 44,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "真的吗？真的不是因为你在这种餐厅里放不开手脚？",
+        "disable": 0
+    },
+    {
+        "Key": 45,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Mo_girl003_cough01_063",
+        "zh_CN": "我怎么会和自己的肚子过不去？我是真的吃不下了。",
+        "disable": 0
+    },
+    {
+        "Key": 46,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "那你现在心情应该好了一些吧。",
+        "disable": 0
+    },
+    {
+        "Key": 47,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "妮塔有些不自在地挪了挪屁股，估计这会儿想起了她昨天刚安慰过我的那些话。",
+        "disable": 0
+    },
+    {
+        "Key": 48,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "对了，差点忘了把这个给你。",
+        "disable": 0
+    },
+    {
+        "Key": 49,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……这是？",
+        "disable": 0
+    },
+    {
+        "Key": 50,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "有人给你的包裹，送到公司前台了，我代为转交。",
+        "disable": 0
+    },
+    {
+        "Key": 51,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "拆开看看吧。",
+        "disable": 0
+    },
+    {
+        "Key": 52,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "妮塔撕开重重包装纸，从里面的小盒子里拿出一个小巧的物什。",
+        "disable": 0
+    },
+    {
+        "Key": 53,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "盒子底部还躺着一张小小的卡片。",
+        "disable": 0
+    },
+    {
+        "Key": 54,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "献给敬爱的妮塔。",
+        "disable": 0
+    },
+    {
+        "Key": 55,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Mo_girl003_ouch01_056",
+        "zh_CN": "阿嚏！",
+        "disable": 0
+    },
+    {
+        "Key": 56,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你怎么了？",
+        "disable": 0
+    },
+    {
+        "Key": 57,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这东西太可爱了，一点都不适合我。",
+        "disable": 0
+    },
+    {
+        "Key": 58,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "可她明明很喜欢，却装成一副对可爱过敏的模样。",
+        "disable": 0
+    },
+    {
+        "Key": 59,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员，我也许犯了个严重的错误。",
+        "disable": 0
+    },
+    {
+        "Key": 60,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你想和我说说吗？",
+        "disable": 0
+    },
+    {
+        "Key": 61,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "妮塔顿了顿，像是在酝酿什么，半晌缓缓开口。",
+        "disable": 0
+    },
+    {
+        "Key": 62,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "上个月，我开始利用休息日教孤儿院的孩子们一些防身技巧。就算用不上，也能强身健体。",
+        "disable": 0
+    },
+    {
+        "Key": 63,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "他们之中，学得最认真、最努力的就是梅。",
+        "disable": 0
+    },
+    {
+        "Key": 64,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "因为她最瘦小。",
+        "disable": 0
+    },
+    {
+        "Key": 65,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "对，弱者容易被欺凌，理所当然地渴望得到力量。",
+        "disable": 0
+    },
+    {
+        "Key": 66,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "可那玩意儿不一样，一旦拿起，就没有退路了。",
+        "disable": 0
+    },
+    {
+        "Key": 67,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "持枪的不是战士就是匪徒，你希望她能走上和我们不一样的道路。",
+        "disable": 0
+    },
+    {
+        "Key": 68,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员，你知道我的出身。",
+        "disable": 0
+    },
+    {
+        "Key": 69,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "当初收留我的孤儿院从来就没有取得过正规资质，在它被烧之后，我们失去了庇护，也成了俱卢地区的“隐形人”。",
+        "disable": 0
+    },
+    {
+        "Key": 70,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Mo_girl003_sigh01_055",
+        "zh_CN": "那种混乱的地方，失去庇护没有力量的几岁小孩子要怎么活下来，我已经不想再仔细回忆了。",
+        "disable": 0
+    },
+    {
+        "Key": 71,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "穿过边境线进入霍尔姆地区这一路，我起码学会了一件事。",
+        "disable": 0
+    },
+    {
+        "Key": 72,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "要想活下去，就得握紧两样东西——枪和钱。",
+        "disable": 0
+    },
+    {
+        "Key": 73,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "唯有这两样东西不会辜负你，别的都是狗屁。",
+        "disable": 0
+    },
+    {
+        "Key": 74,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "梅和你不一样，她以及其他孩子们可以有更多的选择。",
+        "disable": 0
+    },
+    {
+        "Key": 75,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "枪我来拿就够了，别的我可以提供给他们，我原本这么想，",
+        "disable": 0
+    },
+    {
+        "Key": 76,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "可这个年头，想摸到一把枪实在太容易了。",
+        "disable": 0
+    },
+    {
+        "Key": 77,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我却期望在这样的世界里，像梅一样的孩子们能一辈子双手干干净净。",
+        "disable": 0
+    },
+    {
+        "Key": 78,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这狗屁想法我都会嘲笑自己。你……想笑就笑吧。",
+        "disable": 0
+    },
+    {
+        "Key": 79,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "笑你岂不是笑我自己？",
+        "disable": 0
+    },
+    {
+        "Key": 80,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "怪不得妮塔这么受人欢迎。",
+        "disable": 0
+    },
+    {
+        "Key": 81,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "啊？",
+        "disable": 0
+    },
+    {
+        "Key": 82,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "喏，你收到了这个，来自孩子们的祝福。",
+        "disable": 0
+    },
+    {
+        "Key": 83,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不如现在来试试它的作用。",
+        "disable": 0
+    },
+    {
+        "Key": 84,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "啊？",
+        "disable": 0
+    },
+    {
+        "Key": 85,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "招财猫不是能招来财运吗？",
+        "disable": 0
+    },
+    {
+        "Key": 86,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "来，选一串数字。",
+        "disable": 0
+    },
+    {
+        "Key": 87,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "妮塔",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这是……彩票？",
+        "disable": 0
+    },
+    {
+        "Key": 88,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "分析员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "好了，剩下的，就等到下周开奖日再揭晓。",
+        "disable": 0
+    },
+    {
+        "Key": 89,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "对面少女睁大着双眼，难得一副懵懵的模样，有点儿可怜又有点可爱。",
+        "disable": 0
+    },
+    {
+        "Key": 90,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她对于别人的善待如此生涩，让人忍不住想要对她再好一点。",
+        "disable": 0
+    }
+]

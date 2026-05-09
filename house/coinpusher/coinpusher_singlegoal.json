@@ -1,0 +1,76 @@
+[
+    {
+        "Type": 1,
+        "Turn": 1,
+        "Goal": 35
+    },
+    {
+        "Type": 1,
+        "Turn": 2,
+        "Goal": 60
+    },
+    {
+        "Type": 1,
+        "Turn": 3,
+        "Goal": 150
+    },
+    {
+        "Type": 1,
+        "Turn": 4,
+        "Goal": 300
+    },
+    {
+        "Type": 1,
+        "Turn": 5,
+        "Goal": 800
+    },
+    {
+        "Type": 1,
+        "Turn": 6,
+        "Goal": 1500
+    },
+    {
+        "Type": 1,
+        "Turn": 7,
+        "Goal": 3600
+    },
+    {
+        "Type": 1,
+        "Turn": 8,
+        "Goal": 8000
+    },
+    {
+        "Type": 1,
+        "Turn": 9,
+        "Goal": 16000
+    },
+    {
+        "Type": 1,
+        "Turn": 10,
+        "Goal": 32000
+    },
+    {
+        "Type": 3,
+        "Turn": 1,
+        "Goal": "",
+        "GuideGoal": "16,20"
+    },
+    {
+        "Type": 3,
+        "Turn": 2,
+        "Goal": "",
+        "GuideGoal": "0,40"
+    },
+    {
+        "Type": 3,
+        "Turn": 3,
+        "Goal": "",
+        "GuideGoal": "0,60"
+    },
+    {
+        "Type": 3,
+        "Turn": 4,
+        "Goal": "",
+        "GuideGoal": "0,80"
+    }
+]

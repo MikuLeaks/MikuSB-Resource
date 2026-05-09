@@ -1,0 +1,2101 @@
+[
+    {
+        "GroupId": "start",
+        "MapId": 1,
+        "Weight": "",
+        "MapType": "",
+        "MapSubType": "",
+        "Tags": "start"
+    },
+    {
+        "GroupId": "fight_easy",
+        "MapId": 1001,
+        "Weight": 10000,
+        "MapType": 101,
+        "MapSubType": "",
+        "Tags": "easy",
+        "Curse": "",
+        "Danger": 3,
+        "Drop": 30,
+        "BuffNum": 2,
+        "BuffGroups": [
+            [
+                101
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "GroupId": "fight_easy_vip",
+        "MapId": 1002,
+        "Weight": 10000,
+        "MapType": 101,
+        "MapSubType": "",
+        "Tags": "easy",
+        "Curse": "",
+        "Danger": 3,
+        "Drop": 30,
+        "BuffNum": 2,
+        "BuffGroups": [
+            [
+                101
+            ],
+            [
+                4,
+                4
+            ]
+        ]
+    },
+    {
+        "GroupId": "fight_easy_magic",
+        "MapId": 1003,
+        "Weight": 10000,
+        "MapType": 101,
+        "MapSubType": "",
+        "Tags": "easy",
+        "Curse": "",
+        "Danger": 3,
+        "Drop": 30,
+        "BuffNum": 2,
+        "BuffGroups": [
+            [
+                105
+            ],
+            [
+                1,
+                3
+            ]
+        ]
+    },
+    {
+        "GroupId": "fight_easy_personal",
+        "MapId": 1004,
+        "Weight": 10000,
+        "MapType": 101,
+        "MapSubType": "",
+        "Tags": "easy",
+        "Curse": "",
+        "Danger": 3,
+        "Drop": 30,
+        "BuffNum": 2,
+        "BuffGroups": [
+            [
+                104
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "GroupId": "fight_normal",
+        "MapId": 2001,
+        "Weight": 10000,
+        "MapType": 101,
+        "MapSubType": "",
+        "Tags": "normal",
+        "Curse": [
+            100,
+            601
+        ],
+        "Danger": 4,
+        "Drop": 50,
+        "BuffNum": 2,
+        "BuffGroups": [
+            [
+                101
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "GroupId": "fight_normal_vip",
+        "MapId": 2002,
+        "Weight": 10000,
+        "MapType": 101,
+        "MapSubType": "",
+        "Tags": "normal",
+        "Curse": [
+            100,
+            601
+        ],
+        "Danger": 4,
+        "Drop": 50,
+        "BuffNum": 2,
+        "BuffGroups": [
+            [
+                101
+            ],
+            [
+                4,
+                4
+            ]
+        ]
+    },
+    {
+        "GroupId": "fight_normal_magic",
+        "MapId": 2003,
+        "Weight": 10000,
+        "MapType": 101,
+        "MapSubType": "",
+        "Tags": "normal",
+        "Curse": [
+            100,
+            601
+        ],
+        "Danger": 4,
+        "Drop": 50,
+        "BuffNum": 2,
+        "BuffGroups": [
+            [
+                105
+            ],
+            [
+                2,
+                4
+            ]
+        ]
+    },
+    {
+        "GroupId": "fight_normal_personal",
+        "MapId": 2004,
+        "Weight": 10000,
+        "MapType": 101,
+        "MapSubType": "",
+        "Tags": "normal",
+        "Curse": [
+            100,
+            601
+        ],
+        "Danger": 4,
+        "Drop": 50,
+        "BuffNum": 2,
+        "BuffGroups": [
+            [
+                104
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "GroupId": "fight_hard",
+        "MapId": 3001,
+        "Weight": 10000,
+        "MapType": 101,
+        "MapSubType": "",
+        "Tags": "hard",
+        "Curse": [
+            500,
+            601
+        ],
+        "Danger": 5,
+        "Drop": 60,
+        "BuffNum": 2,
+        "BuffGroups": [
+            [
+                101
+            ],
+            [
+                3,
+                4
+            ]
+        ]
+    },
+    {
+        "GroupId": "fight_hard_vip",
+        "MapId": 3002,
+        "Weight": 5000,
+        "MapType": 101,
+        "MapSubType": "",
+        "Tags": "hard",
+        "Curse": [
+            500,
+            601
+        ],
+        "Danger": 5,
+        "Drop": 60,
+        "BuffNum": 2,
+        "BuffGroups": [
+            [
+                202
+            ],
+            [
+                4,
+                5
+            ]
+        ]
+    },
+    {
+        "GroupId": "fight_hard_vip",
+        "MapId": 3003,
+        "Weight": 5000,
+        "MapType": 101,
+        "MapSubType": "",
+        "Tags": "hard",
+        "Curse": [
+            500,
+            601
+        ],
+        "Danger": 5,
+        "Drop": 60,
+        "BuffNum": 2,
+        "BuffGroups": [
+            [
+                201
+            ],
+            [
+                4,
+                5
+            ]
+        ]
+    },
+    {
+        "GroupId": "fight_hard_magic",
+        "MapId": 3004,
+        "Weight": 10000,
+        "MapType": 101,
+        "MapSubType": "",
+        "Tags": "hard",
+        "Curse": [
+            500,
+            601
+        ],
+        "Danger": 5,
+        "Drop": 60,
+        "BuffNum": 2,
+        "BuffGroups": [
+            [
+                105
+            ],
+            [
+                4,
+                5
+            ]
+        ]
+    },
+    {
+        "GroupId": "fight_hard_personal",
+        "MapId": 3005,
+        "Weight": 10000,
+        "MapType": 101,
+        "MapSubType": "",
+        "Tags": "hard",
+        "Curse": [
+            500,
+            601
+        ],
+        "Danger": 5,
+        "Drop": 60,
+        "BuffNum": 2,
+        "BuffGroups": [
+            [
+                104
+            ],
+            [
+                4,
+                5
+            ]
+        ]
+    },
+    {
+        "GroupId": "fight_boss",
+        "MapId": 4001,
+        "Weight": 10000,
+        "MapType": 102,
+        "MapSubType": "",
+        "Tags": "boss",
+        "Curse": [
+            2500,
+            601
+        ],
+        "Danger": 4,
+        "Drop": 120,
+        "BuffNum": 2,
+        "BuffGroups": [
+            [
+                203
+            ],
+            [
+                4,
+                5
+            ]
+        ]
+    },
+    {
+        "GroupId": "fight_finboss",
+        "MapId": 4002,
+        "Weight": 10000,
+        "MapType": 102,
+        "MapSubType": "",
+        "Tags": "boss",
+        "Curse": "",
+        "Danger": 0
+    },
+    {
+        "GroupId": "fight_hard_dlc9",
+        "MapId": 3006,
+        "Weight": 10000,
+        "MapType": 101,
+        "MapSubType": "",
+        "Tags": "hard",
+        "Curse": [
+            400,
+            601
+        ],
+        "Danger": 5,
+        "Drop": 80,
+        "BuffNum": 2,
+        "BuffGroups": [
+            [
+                106
+            ],
+            [
+                3,
+                5
+            ]
+        ]
+    },
+    {
+        "GroupId": "fight_boss_dlc9",
+        "MapId": 4003,
+        "Weight": 10000,
+        "MapType": 102,
+        "MapSubType": "",
+        "Tags": "boss",
+        "Curse": [
+            2000,
+            601
+        ],
+        "Danger": 4,
+        "Drop": 150,
+        "BuffNum": 2,
+        "BuffGroups": [
+            [
+                204
+            ],
+            [
+                4,
+                5
+            ]
+        ]
+    },
+    {
+        "GroupId": "fight_bonus_tianlou",
+        "MapId": 4101,
+        "Weight": 10000,
+        "MapType": 103,
+        "MapSubType": "",
+        "Tags": "fun_area08",
+        "Curse": "",
+        "Danger": 7
+    },
+    {
+        "GroupId": "fight_bonus_ball",
+        "MapId": 4102,
+        "Weight": 10000,
+        "MapType": 104,
+        "MapSubType": "",
+        "Tags": "challenge",
+        "Curse": "",
+        "Danger": 5,
+        "Drop": 80,
+        "BuffNum": 2,
+        "BuffGroups": [
+            [
+                101
+            ],
+            [
+                3,
+                4
+            ]
+        ]
+    },
+    {
+        "GroupId": "mystery",
+        "MapId": 4201,
+        "Weight": 10000,
+        "MapType": 105,
+        "MapSubType": "",
+        "Tags": "mystery",
+        "Curse": "",
+        "Danger": 5
+    },
+    {
+        "GroupId": "fight_infinity",
+        "MapId": 7001,
+        "Weight": 10000,
+        "MapType": 802,
+        "MapSubType": "",
+        "Tags": Infinity
+    },
+    {
+        "GroupId": "fight_chaos",
+        "MapId": 7002,
+        "Weight": 10000,
+        "MapType": 106,
+        "MapSubType": "",
+        "Tags": "chaos",
+        "Curse": [
+            500,
+            601
+        ],
+        "Danger": 4,
+        "Drop": 100,
+        "BuffNum": 2,
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": "",
+        "RestRebirth": "",
+        "RestRemoveCurse": "",
+        "RestStoreId": "",
+        "BingoId": "",
+        "ChaosWaveBuff": [
+            [
+                [
+                    101
+                ],
+                [
+                    2,
+                    3
+                ],
+                1
+            ],
+            [
+                [
+                    101
+                ],
+                [
+                    3,
+                    4
+                ],
+                3
+            ],
+            [
+                [
+                    101
+                ],
+                [
+                    4,
+                    5
+                ],
+                6
+            ]
+        ]
+    },
+    {
+        "GroupId": "random_nofight_easy",
+        "MapId": 5001,
+        "Weight": 2500,
+        "MapType": 701,
+        "MapSubType": [
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 9,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                3,
+                4
+            ]
+        ]
+    },
+    {
+        "GroupId": "random_nofight_easy",
+        "MapId": 5002,
+        "Weight": 1000,
+        "MapType": 701,
+        "MapSubType": [
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 9,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": [
+            [
+                2,
+                5,
+                6
+            ],
+            [
+                1
+            ]
+        ]
+    },
+    {
+        "GroupId": "random_nofight_easy",
+        "MapId": 5003,
+        "Weight": 2000,
+        "MapType": 701,
+        "MapSubType": [
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 9,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": [
+            60,
+            80
+        ]
+    },
+    {
+        "GroupId": "random_nofight_easy",
+        "MapId": 5004,
+        "Weight": 2500,
+        "MapType": 701,
+        "MapSubType": [
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 9,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": "",
+        "RestRebirth": "",
+        "RestRemoveCurse": "",
+        "RestStoreId": 101
+    },
+    {
+        "GroupId": "random_nofight_easy",
+        "MapId": 5005,
+        "Weight": 2000,
+        "MapType": 701,
+        "MapSubType": [
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 9,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": [
+            3000,
+            50
+        ],
+        "RestRebirth": "",
+        "RestRemoveCurse": 50
+    },
+    {
+        "GroupId": "random_nofight_normal",
+        "MapId": 5101,
+        "Weight": 2500,
+        "MapType": 701,
+        "MapSubType": [
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 11,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                4,
+                5
+            ]
+        ]
+    },
+    {
+        "GroupId": "random_nofight_normal",
+        "MapId": 5102,
+        "Weight": 1000,
+        "MapType": 701,
+        "MapSubType": [
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 11,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": [
+            [
+                2,
+                5,
+                6
+            ],
+            [
+                2
+            ]
+        ]
+    },
+    {
+        "GroupId": "random_nofight_normal",
+        "MapId": 5103,
+        "Weight": 2000,
+        "MapType": 701,
+        "MapSubType": [
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 11,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": [
+            90,
+            120
+        ]
+    },
+    {
+        "GroupId": "random_nofight_normal",
+        "MapId": 5104,
+        "Weight": 2500,
+        "MapType": 701,
+        "MapSubType": [
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 11,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": "",
+        "RestRebirth": "",
+        "RestRemoveCurse": "",
+        "RestStoreId": 102
+    },
+    {
+        "GroupId": "random_nofight_normal",
+        "MapId": 5105,
+        "Weight": 2000,
+        "MapType": 701,
+        "MapSubType": [
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 11,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": [
+            3000,
+            50
+        ],
+        "RestRebirth": "",
+        "RestRemoveCurse": 50
+    },
+    {
+        "GroupId": "random_nofight_hard",
+        "MapId": 5201,
+        "Weight": 2500,
+        "MapType": 701,
+        "MapSubType": [
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 14,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                5,
+                5
+            ]
+        ]
+    },
+    {
+        "GroupId": "random_nofight_hard",
+        "MapId": 5202,
+        "Weight": 1000,
+        "MapType": 701,
+        "MapSubType": [
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 14,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": [
+            [
+                1,
+                3,
+                4,
+                6
+            ],
+            [
+                1
+            ]
+        ]
+    },
+    {
+        "GroupId": "random_nofight_hard",
+        "MapId": 5203,
+        "Weight": 2000,
+        "MapType": 701,
+        "MapSubType": [
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 14,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": [
+            130,
+            160
+        ]
+    },
+    {
+        "GroupId": "random_nofight_hard",
+        "MapId": 5204,
+        "Weight": 2500,
+        "MapType": 701,
+        "MapSubType": [
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 14,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": "",
+        "RestRebirth": "",
+        "RestRemoveCurse": "",
+        "RestStoreId": 103
+    },
+    {
+        "GroupId": "random_nofight_hard",
+        "MapId": 5205,
+        "Weight": 2000,
+        "MapType": 701,
+        "MapSubType": [
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 14,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": [
+            3000,
+            50
+        ],
+        "RestRebirth": "",
+        "RestRemoveCurse": 50
+    },
+    {
+        "GroupId": "random_havefight_easy",
+        "MapId": 6001,
+        "Weight": 2200,
+        "MapType": 701,
+        "MapSubType": [
+            1,
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 7,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                3,
+                4
+            ]
+        ]
+    },
+    {
+        "GroupId": "random_havefight_easy",
+        "MapId": 6002,
+        "Weight": 800,
+        "MapType": 701,
+        "MapSubType": [
+            1,
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 7,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": [
+            [
+                2,
+                5,
+                6
+            ],
+            [
+                1
+            ]
+        ]
+    },
+    {
+        "GroupId": "random_havefight_easy",
+        "MapId": 6003,
+        "Weight": 1000,
+        "MapType": 701,
+        "MapSubType": [
+            1,
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 7,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": [
+            60,
+            80
+        ]
+    },
+    {
+        "GroupId": "random_havefight_easy",
+        "MapId": 6004,
+        "Weight": 1000,
+        "MapType": 701,
+        "MapSubType": [
+            1,
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 7,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": "",
+        "RestRebirth": "",
+        "RestRemoveCurse": "",
+        "RestStoreId": 101
+    },
+    {
+        "GroupId": "random_havefight_easy",
+        "MapId": 6005,
+        "Weight": 500,
+        "MapType": 701,
+        "MapSubType": [
+            1,
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 7,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": [
+            3000,
+            50
+        ],
+        "RestRebirth": "",
+        "RestRemoveCurse": 50
+    },
+    {
+        "GroupId": "random_havefight_easy",
+        "MapId": 6006,
+        "Weight": 4500,
+        "MapType": 702,
+        "MapSubType": [
+            1,
+            5,
+            2,
+            3
+        ],
+        "Tags": "easy",
+        "Curse": "",
+        "Danger": 7,
+        "Drop": 10,
+        "BuffNum": 2,
+        "BuffGroups": [
+            [
+                101
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "GroupId": "random_havefight_normal",
+        "MapId": 6101,
+        "Weight": 2200,
+        "MapType": 701,
+        "MapSubType": [
+            1,
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 9,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                4,
+                5
+            ]
+        ]
+    },
+    {
+        "GroupId": "random_havefight_normal",
+        "MapId": 6102,
+        "Weight": 800,
+        "MapType": 701,
+        "MapSubType": [
+            1,
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 9,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": [
+            [
+                2,
+                5,
+                6
+            ],
+            [
+                1
+            ]
+        ]
+    },
+    {
+        "GroupId": "random_havefight_normal",
+        "MapId": 6103,
+        "Weight": 1000,
+        "MapType": 701,
+        "MapSubType": [
+            1,
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 9,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": [
+            90,
+            120
+        ]
+    },
+    {
+        "GroupId": "random_havefight_normal",
+        "MapId": 6104,
+        "Weight": 1000,
+        "MapType": 701,
+        "MapSubType": [
+            1,
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 9,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": "",
+        "RestRebirth": "",
+        "RestRemoveCurse": "",
+        "RestStoreId": 102
+    },
+    {
+        "GroupId": "random_havefight_normal",
+        "MapId": 6105,
+        "Weight": 500,
+        "MapType": 701,
+        "MapSubType": [
+            1,
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 9,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": [
+            3000,
+            50
+        ],
+        "RestRebirth": "",
+        "RestRemoveCurse": 50
+    },
+    {
+        "GroupId": "random_havefight_normal",
+        "MapId": 6106,
+        "Weight": 4500,
+        "MapType": 702,
+        "MapSubType": [
+            1,
+            5,
+            2,
+            3
+        ],
+        "Tags": "normal",
+        "Curse": [
+            100,
+            601
+        ],
+        "Danger": 9,
+        "Drop": 20,
+        "BuffNum": 2,
+        "BuffGroups": [
+            [
+                101
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "GroupId": "random_havefight_hard",
+        "MapId": 6201,
+        "Weight": 2200,
+        "MapType": 701,
+        "MapSubType": [
+            1,
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 11,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                5,
+                5
+            ]
+        ]
+    },
+    {
+        "GroupId": "random_havefight_hard",
+        "MapId": 6202,
+        "Weight": 800,
+        "MapType": 701,
+        "MapSubType": [
+            1,
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 11,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": [
+            [
+                1,
+                3,
+                4,
+                6
+            ],
+            [
+                1
+            ]
+        ]
+    },
+    {
+        "GroupId": "random_havefight_hard",
+        "MapId": 6203,
+        "Weight": 1000,
+        "MapType": 701,
+        "MapSubType": [
+            1,
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 11,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": [
+            130,
+            160
+        ]
+    },
+    {
+        "GroupId": "random_havefight_hard",
+        "MapId": 6204,
+        "Weight": 1000,
+        "MapType": 701,
+        "MapSubType": [
+            1,
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 11,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": "",
+        "RestRebirth": "",
+        "RestRemoveCurse": "",
+        "RestStoreId": 103
+    },
+    {
+        "GroupId": "random_havefight_hard",
+        "MapId": 6205,
+        "Weight": 500,
+        "MapType": 701,
+        "MapSubType": [
+            1,
+            5,
+            2,
+            3
+        ],
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 11,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": [
+            3000,
+            50
+        ],
+        "RestRebirth": "",
+        "RestRemoveCurse": 50
+    },
+    {
+        "GroupId": "random_havefight_hard",
+        "MapId": 6206,
+        "Weight": 4500,
+        "MapType": 702,
+        "MapSubType": [
+            1,
+            5,
+            2,
+            3
+        ],
+        "Tags": "hard",
+        "Curse": [
+            500,
+            601
+        ],
+        "Danger": 11,
+        "Drop": 30,
+        "BuffNum": 2,
+        "BuffGroups": [
+            [
+                101
+            ],
+            [
+                3,
+                4
+            ]
+        ]
+    },
+    {
+        "GroupId": "shop_level1",
+        "MapId": 7001,
+        "Weight": 10000,
+        "MapType": 601,
+        "MapSubType": "",
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 13,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": "",
+        "RestRebirth": "",
+        "RestRemoveCurse": "",
+        "RestStoreId": 101
+    },
+    {
+        "GroupId": "shop_level2",
+        "MapId": 7002,
+        "Weight": 10000,
+        "MapType": 601,
+        "MapSubType": "",
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 16,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": "",
+        "RestRebirth": "",
+        "RestRemoveCurse": "",
+        "RestStoreId": 102
+    },
+    {
+        "GroupId": "shop_level3",
+        "MapId": 7003,
+        "Weight": 10000,
+        "MapType": 601,
+        "MapSubType": "",
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 20,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": "",
+        "RestRebirth": "",
+        "RestRemoveCurse": "",
+        "RestStoreId": 103
+    },
+    {
+        "GroupId": "relx_normal",
+        "MapId": 8001,
+        "Weight": 10000,
+        "MapType": 201,
+        "MapSubType": "",
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 10,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": [
+            3000,
+            50
+        ],
+        "RestRebirth": "",
+        "RestRemoveCurse": 50
+    },
+    {
+        "GroupId": "relx_rare_1",
+        "MapId": 8101,
+        "Weight": 10000,
+        "MapType": 201,
+        "MapSubType": "",
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 16,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": [
+            3000,
+            50
+        ],
+        "RestRebirth": [
+            3000,
+            100
+        ],
+        "RestRemoveCurse": 50,
+        "RestStoreId": 101
+    },
+    {
+        "GroupId": "relx_rare_2",
+        "MapId": 8102,
+        "Weight": 10000,
+        "MapType": 201,
+        "MapSubType": "",
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 20,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": [
+            3000,
+            50
+        ],
+        "RestRebirth": [
+            3000,
+            100
+        ],
+        "RestRemoveCurse": 50,
+        "RestStoreId": 102
+    },
+    {
+        "GroupId": "relx_rare_3",
+        "MapId": 8103,
+        "Weight": 10000,
+        "MapType": 201,
+        "MapSubType": "",
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 25,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": [
+            3000,
+            50
+        ],
+        "RestRebirth": [
+            3000,
+            100
+        ],
+        "RestRemoveCurse": 50,
+        "RestStoreId": 103
+    },
+    {
+        "GroupId": "bingo_level1",
+        "MapId": 7101,
+        "Weight": 10000,
+        "MapType": 602,
+        "MapSubType": "",
+        "Tags": "gacha",
+        "Curse": "",
+        "Danger": 25,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": "",
+        "RestRebirth": "",
+        "RestRemoveCurse": "",
+        "RestStoreId": "",
+        "BingoId": [
+            1,
+            10,
+            30
+        ]
+    },
+    {
+        "GroupId": "bingo_level2",
+        "MapId": 7102,
+        "Weight": 10000,
+        "MapType": 602,
+        "MapSubType": "",
+        "Tags": "gacha",
+        "Curse": "",
+        "Danger": 25,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": "",
+        "RestHeal": "",
+        "RestRebirth": "",
+        "RestRemoveCurse": "",
+        "RestStoreId": "",
+        "BingoId": [
+            2,
+            5,
+            50
+        ]
+    },
+    {
+        "GroupId": "reward_easy",
+        "MapId": 9001,
+        "Weight": 6500,
+        "MapType": 401,
+        "MapSubType": "",
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 10,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                3,
+                4
+            ]
+        ]
+    },
+    {
+        "GroupId": "reward_easy",
+        "MapId": 9002,
+        "Weight": 1500,
+        "MapType": 401,
+        "MapSubType": "",
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 10,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": [
+            [
+                2,
+                5,
+                6
+            ],
+            [
+                1
+            ]
+        ]
+    },
+    {
+        "GroupId": "reward_easy",
+        "MapId": 9003,
+        "Weight": 2000,
+        "MapType": 401,
+        "MapSubType": "",
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 10,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": [
+            70,
+            90
+        ]
+    },
+    {
+        "GroupId": "reward_normal",
+        "MapId": 9001,
+        "Weight": 6500,
+        "MapType": 401,
+        "MapSubType": "",
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 13,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                4,
+                5
+            ]
+        ]
+    },
+    {
+        "GroupId": "reward_normal",
+        "MapId": 9002,
+        "Weight": 1500,
+        "MapType": 401,
+        "MapSubType": "",
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 13,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": [
+            [
+                2,
+                5,
+                6
+            ],
+            [
+                2
+            ]
+        ]
+    },
+    {
+        "GroupId": "reward_normal",
+        "MapId": 9003,
+        "Weight": 2000,
+        "MapType": 401,
+        "MapSubType": "",
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 13,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": [
+            100,
+            130
+        ]
+    },
+    {
+        "GroupId": "reward_hard",
+        "MapId": 9001,
+        "Weight": 6500,
+        "MapType": 401,
+        "MapSubType": "",
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 16,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                5,
+                5
+            ]
+        ]
+    },
+    {
+        "GroupId": "reward_hard",
+        "MapId": 9002,
+        "Weight": 1500,
+        "MapType": 401,
+        "MapSubType": "",
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 16,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": [
+            [
+                1,
+                3,
+                4,
+                6
+            ],
+            [
+                2
+            ]
+        ]
+    },
+    {
+        "GroupId": "reward_hard",
+        "MapId": 9003,
+        "Weight": 2000,
+        "MapType": 401,
+        "MapSubType": "",
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 16,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": [
+            150,
+            190
+        ]
+    },
+    {
+        "GroupId": "reward_super",
+        "MapId": 9101,
+        "Weight": 10000,
+        "MapType": 402,
+        "MapSubType": "",
+        "Tags": "lounge",
+        "Curse": "",
+        "Danger": 16,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": [
+            [
+                205
+            ],
+            [
+                4,
+                5
+            ]
+        ]
+    },
+    {
+        "GroupId": "corridor1",
+        "MapId": 9501,
+        "Weight": 5000,
+        "MapType": "",
+        "MapSubType": "",
+        "Tags": "",
+        "Curse": "",
+        "Danger": 0,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                2,
+                4
+            ]
+        ]
+    },
+    {
+        "GroupId": "corridor1",
+        "MapId": 9502,
+        "Weight": 2000,
+        "MapType": "",
+        "MapSubType": "",
+        "Tags": "",
+        "Curse": "",
+        "Danger": 0,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": [
+            [
+                2,
+                5,
+                6
+            ],
+            [
+                1
+            ]
+        ]
+    },
+    {
+        "GroupId": "corridor1",
+        "MapId": 9503,
+        "Weight": 3000,
+        "MapType": "",
+        "MapSubType": "",
+        "Tags": "",
+        "Curse": "",
+        "Danger": 0,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": [
+            60,
+            80
+        ]
+    },
+    {
+        "GroupId": "corridor2",
+        "MapId": 9511,
+        "Weight": 5000,
+        "MapType": "",
+        "MapSubType": "",
+        "Tags": "",
+        "Curse": "",
+        "Danger": 0,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                3,
+                5
+            ]
+        ]
+    },
+    {
+        "GroupId": "corridor2",
+        "MapId": 9512,
+        "Weight": 2000,
+        "MapType": "",
+        "MapSubType": "",
+        "Tags": "",
+        "Curse": "",
+        "Danger": 0,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": [
+            [
+                2,
+                5,
+                6
+            ],
+            [
+                2
+            ]
+        ]
+    },
+    {
+        "GroupId": "corridor2",
+        "MapId": 9513,
+        "Weight": 3000,
+        "MapType": "",
+        "MapSubType": "",
+        "Tags": "",
+        "Curse": "",
+        "Danger": 0,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": [
+            90,
+            120
+        ]
+    },
+    {
+        "GroupId": "corridor3",
+        "MapId": 9521,
+        "Weight": 6000,
+        "MapType": "",
+        "MapSubType": "",
+        "Tags": "",
+        "Curse": "",
+        "Danger": 0,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                4,
+                5
+            ]
+        ]
+    },
+    {
+        "GroupId": "corridor3",
+        "MapId": 9522,
+        "Weight": 1500,
+        "MapType": "",
+        "MapSubType": "",
+        "Tags": "",
+        "Curse": "",
+        "Danger": 0,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": [
+            [
+                1,
+                3,
+                4,
+                6
+            ],
+            [
+                2
+            ]
+        ]
+    },
+    {
+        "GroupId": "corridor3",
+        "MapId": 9523,
+        "Weight": 2500,
+        "MapType": "",
+        "MapSubType": "",
+        "Tags": "",
+        "Curse": "",
+        "Danger": 0,
+        "Drop": "",
+        "BuffNum": "",
+        "BuffGroups": "",
+        "ItemBox": "",
+        "BuffBox": "",
+        "CoinBox": [
+            140,
+            180
+        ]
+    },
+    {
+        "GroupId": "test",
+        "MapId": 1,
+        "Weight": "",
+        "MapType": "",
+        "MapSubType": "",
+        "Tags": "start",
+        "Curse": [
+            10000,
+            [
+                101,
+                102,
+                103
+            ],
+            [
+                1,
+                2
+            ]
+        ],
+        "Danger": 10,
+        "Drop": 30,
+        "BuffNum": 3,
+        "BuffGroups": [
+            [
+                101
+            ],
+            [
+                3,
+                4
+            ]
+        ],
+        "ItemBox": [
+            [
+                2,
+                5,
+                6
+            ],
+            [
+                2
+            ]
+        ],
+        "BuffBox": [
+            [
+                101
+            ],
+            [
+                3,
+                5
+            ]
+        ],
+        "CoinBox": [
+            60,
+            80
+        ],
+        "RestHeal": [
+            3000,
+            50
+        ],
+        "RestRebirth": [
+            3000,
+            50
+        ],
+        "RestRemoveCurse": 30,
+        "RestStoreId": 101
+    },
+    {
+        "GroupId": "test",
+        "MapId": 2,
+        "Weight": "",
+        "MapType": "",
+        "MapSubType": "",
+        "Tags": "start",
+        "Curse": "",
+        "Danger": 10,
+        "Drop": 30
+    },
+    {
+        "GroupId": "test_easy",
+        "MapId": 2,
+        "Weight": "",
+        "MapType": 100,
+        "MapSubType": "",
+        "Tags": "easy"
+    },
+    {
+        "GroupId": "test_normal",
+        "MapId": 3,
+        "Weight": "",
+        "MapType": 200,
+        "MapSubType": "",
+        "Tags": "normal"
+    },
+    {
+        "GroupId": "test_hard",
+        "MapId": 4,
+        "Weight": "",
+        "MapType": 300,
+        "MapSubType": "",
+        "Tags": "hard"
+    },
+    {
+        "GroupId": "test_boss",
+        "MapId": 5,
+        "Weight": "",
+        "MapType": 100,
+        "MapSubType": "",
+        "Tags": "boss"
+    },
+    {
+        "GroupId": "test_lounge",
+        "MapId": 6,
+        "Weight": "",
+        "MapType": 100,
+        "MapSubType": "",
+        "Tags": "lounge"
+    }
+]

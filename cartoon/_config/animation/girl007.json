@@ -1,0 +1,35 @@
+[
+    {
+        "Id": 1,
+        "Explain": "待机",
+        "Type": "sequence",
+        "Name": "girl007_ui_stand01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007/Anim/girl007_ui_stand01.girl007_ui_stand01'"
+    },
+    {
+        "Id": 2,
+        "Explain": "讲述",
+        "Type": "sequence",
+        "Name": "girl007_house_talk01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007/Anim/house/girl007_house_talk01.girl007_house_talk01'"
+    },
+    {
+        "Id": 3,
+        "Explain": "感谢",
+        "Type": "sequence",
+        "Name": "girl007_house_thank01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl007/Anim/house/girl007_house_thank01.girl007_house_thank01'"
+    },
+    {
+        "Id": 100,
+        "Explain": "一次思考",
+        "Type": "custom_seq",
+        "Name": "11;12;13"
+    },
+    {
+        "Id": 101,
+        "Explain": "思考循环",
+        "Type": "custom_loop_last",
+        "Name": "11;12"
+    }
+]

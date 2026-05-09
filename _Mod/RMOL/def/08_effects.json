@@ -1,0 +1,242 @@
+[
+    {
+        "Id": 1,
+        "Path": "NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_actionplayer_Blue_q.e_rmol_actionplayer_Blue_q'",
+        "Loop": 1,
+        "Offset": [
+            0,
+            0,
+            20
+        ]
+    },
+    {
+        "Id": 2,
+        "Path": "NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_actionplayer_Red_q.e_rmol_actionplayer_Red_q'",
+        "Loop": 1,
+        "Offset": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "Id": 3,
+        "Path": "NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_buildingcommon_Blue_q.e_rmol_buildingcommon_Blue_q'",
+        "Loop": 1,
+        "Offset": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "Id": 4,
+        "Path": "NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_buildingcommon_Red_q.e_rmol_buildingcommon_Red_q'",
+        "Loop": 0,
+        "Offset": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "Id": 5,
+        "Path": "NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_constructbuilding_q.e_rmol_constructbuilding_q'",
+        "Loop": 0,
+        "Offset": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "Id": 6,
+        "Path": "NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_upgradebuilding_q.e_rmol_upgradebuilding_q'",
+        "Loop": 0,
+        "Offset": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "Id": 7,
+        "Path": "NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_destroybuilding_q.e_rmol_destroybuilding_q'",
+        "Loop": 0,
+        "Offset": [
+            0,
+            0,
+            0
+        ],
+        "Rotator": [
+            0,
+            0,
+            -90
+        ]
+    },
+    {
+        "Id": 8,
+        "Path": "NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_selectbuilding_q.e_rmol_selectbuilding_q'",
+        "Loop": 0,
+        "Offset": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "Id": 9,
+        "Path": "NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_startreward_q.e_rmol_startreward_q'",
+        "Loop": 0,
+        "Offset": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "Id": 10,
+        "Path": "NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_transmission_01_q.e_rmol_transmission_01_q'",
+        "Loop": 1,
+        "Offset": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "Id": 11,
+        "Path": "NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_transmission_02_q.e_rmol_transmission_02_q'",
+        "Loop": 1,
+        "Offset": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "Id": 20,
+        "Path": "NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_selectbuilding_02_p.e_rmol_selectbuilding_02_p'",
+        "Loop": 1,
+        "Offset": [
+            0,
+            0,
+            0
+        ],
+        "Rotator": "",
+        "Scale": "",
+        "Voice": "",
+        "Type": 1,
+        "BoxLocation": [
+            100,
+            180,
+            1
+        ],
+        "BoxOffset": [
+            0,
+            0,
+            0
+        ],
+        "SpawnRate": 10
+    },
+    {
+        "Id": 21,
+        "Path": "NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_selectbuilding_02_p.e_rmol_selectbuilding_02_p'",
+        "Loop": 1,
+        "Offset": [
+            0,
+            0,
+            0
+        ],
+        "Rotator": "",
+        "Scale": "",
+        "Voice": "",
+        "Type": 1,
+        "BoxLocation": [
+            230,
+            500,
+            210
+        ],
+        "BoxOffset": [
+            0,
+            0,
+            100
+        ],
+        "SpawnRate": 100
+    },
+    {
+        "Id": 22,
+        "Path": "NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_selectbuilding_02_p.e_rmol_selectbuilding_02_p'",
+        "Loop": 1,
+        "Offset": [
+            0,
+            0,
+            0
+        ],
+        "Rotator": "",
+        "Scale": "",
+        "Voice": "",
+        "Type": 1,
+        "BoxLocation": [
+            210,
+            180,
+            200
+        ],
+        "BoxOffset": [
+            0,
+            0,
+            100
+        ],
+        "SpawnRate": 100
+    },
+    {
+        "Id": 23,
+        "Path": "NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_selectbuilding_02_p.e_rmol_selectbuilding_02_p'",
+        "Loop": 1,
+        "Offset": [
+            0,
+            0,
+            0
+        ],
+        "Rotator": "",
+        "Scale": "",
+        "Voice": "",
+        "Type": 1,
+        "BoxLocation": [
+            180,
+            200,
+            120
+        ],
+        "BoxOffset": [
+            0,
+            0,
+            60
+        ],
+        "SpawnRate": 100
+    },
+    {
+        "Id": 24,
+        "Path": "NiagaraSystem'/Game/Effects/Environments/DLC32/rmol/e_rmol_selectbuilding_02_p.e_rmol_selectbuilding_02_p'",
+        "Loop": 1,
+        "Offset": [
+            0,
+            0,
+            0
+        ],
+        "Rotator": "",
+        "Scale": "",
+        "Voice": "",
+        "Type": 1,
+        "BoxLocation": [
+            170,
+            170,
+            1
+        ],
+        "BoxOffset": [
+            60,
+            60,
+            0
+        ],
+        "SpawnRate": 10
+    }
+]

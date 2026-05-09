@@ -1,0 +1,126 @@
+[
+    {
+        "Id": 1,
+        "SeasonName": "assaultops.Season1Name",
+        "NewChips": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            101,
+            110
+        ],
+        "DailyQuest": "",
+        "WeeklyQuest": [
+            21101,
+            21102
+        ],
+        "ActivityQuest": [
+            21103,
+            21104,
+            21105,
+            21106,
+            21107,
+            21108
+        ],
+        "SeasonResetQuest": "",
+        "AccumulateQuest": [
+            21109,
+            21110,
+            21111,
+            21112,
+            21113,
+            21114,
+            21115,
+            21116,
+            21117,
+            21118,
+            21119,
+            21120,
+            21121,
+            21122,
+            21123,
+            21124,
+            21125,
+            21126,
+            21127,
+            21128,
+            21129,
+            21130,
+            21131,
+            21132,
+            21133,
+            21134,
+            21135
+        ],
+        "BattlepassNum": 2,
+        "MapMarker": {
+            "1": 4,
+            "3": 6
+        },
+        "MapName": [
+            "assaultops.Season1LevelName1",
+            "assaultops.Season1LevelName3"
+        ],
+        "MapDescription": [
+            "assaultops.Season1LevelDescription1",
+            "assaultops.Season1LevelDescription3"
+        ],
+        "ActivityMapName": "assaultops.Season1LevelName4",
+        "ActivityMapDescription": "assaultops.Season1LevelDescription4",
+        "SystemAutoEquip": [
+            1,
+            2
+        ]
+    },
+    {
+        "Id": 2,
+        "SeasonName": "assaultops.Season2Name",
+        "NewChips": [
+            7,
+            8,
+            9
+        ],
+        "DailyQuest": "",
+        "WeeklyQuest": [
+            21101,
+            21102
+        ],
+        "ActivityQuest": [
+            21103,
+            21104,
+            21105,
+            21106,
+            21107,
+            21108
+        ],
+        "SeasonResetQuest": [
+            21103,
+            21104,
+            21105,
+            21106,
+            21107,
+            21108
+        ],
+        "AccumulateQuest": "",
+        "BattlepassNum": 3,
+        "MapMarker": "",
+        "MapName": [
+            "assaultops.Season2LevelName1",
+            "assaultops.Season2LevelName3"
+        ],
+        "MapDescription": [
+            "assaultops.Season2LevelDescription1",
+            "assaultops.Season2LevelDescription3"
+        ],
+        "ActivityMapName": "assaultops.Season2LevelName4",
+        "ActivityMapDescription": "assaultops.Season2LevelDescription4",
+        "SystemAutoEquip": [
+            1,
+            2,
+            3
+        ]
+    }
+]

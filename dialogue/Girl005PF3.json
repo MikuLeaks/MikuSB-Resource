@@ -1,0 +1,672 @@
+[
+    {
+        "Key": 1,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "异化人的增援……",
+        "disable": 0
+    },
+    {
+        "Key": 2,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "他们虽然没有思考能力，但可能有服从能力，这超出我们的情报了。",
+        "disable": 0
+    },
+    {
+        "Key": "b-1",
+        "Flag": "b-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 3,
+        "Flag": "b-1-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你的意思是……",
+        "disable": 0
+    },
+    {
+        "Key": 4,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "还不能确定。",
+        "disable": 0
+    },
+    {
+        "Key": "b-2",
+        "Flag": "b-2",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 5,
+        "Flag": "b-2-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": 6,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你不用自责，是任务等级测评错误。而且他们也都没事。",
+        "disable": 0
+    },
+    {
+        "Key": 7,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "去看看他们吧，应该都还在治疗室，茉莉安除外。",
+        "disable": 0
+    },
+    {
+        "Key": "b-3",
+        "Flag": "b-3",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 8,
+        "Flag": "b-3-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "茉莉安怎么了？",
+        "disable": 0
+    },
+    {
+        "Key": 9,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她通常不接受治疗。",
+        "disable": 0
+    },
+    {
+        "Key": "b-4",
+        "Flag": "b-4",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 10,
+        "Flag": "b-4-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "为什么？",
+        "disable": 0
+    },
+    {
+        "Key": 11,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "卡罗琳",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你自己去问吧，我对天启者的个人癖好没有兴趣。",
+        "disable": 0
+    },
+    {
+        "Key": 12,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这次我们差点就回不来了，多亏了茉莉安解决了一波接一波的异化人，撑到了增援赶来。多亏了大家保护，我才没有受什么重伤。",
+        "disable": 0
+    },
+    {
+        "Key": 13,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我失去意识之前，看到她都还在队伍前面，甚至回头对我笑，虽然听卡罗琳说她没什么致命伤，但是身上有数不清的伤口。",
+        "disable": 0
+    },
+    {
+        "Key": 14,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "为什么不接受治疗呢？",
+        "disable": 0
+    },
+    {
+        "Key": 15,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "茉莉安",
+        "RealSpeaker": "茉莉安",
+        "WwiseEventID": "",
+        "zh_CN": "分析员？你没事了吗？",
+        "disable": 0
+    },
+    {
+        "Key": 16,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我抬头发现，茉莉安在走廊另一头看着我，她真的没有去接受治疗，甚至，还没换掉作战服，过于优秀的防水性能，让血还在往下滴。",
+        "disable": 0
+    },
+    {
+        "Key": "b-5",
+        "Flag": "b-5",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 17,
+        "Flag": "b-5-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你的伤……还很痛吧？",
+        "disable": 0
+    },
+    {
+        "Key": 18,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我不知道我现在是什么表情，是满脸歉意，或者单纯被浑身是伤的她吓到了？",
+        "disable": 0
+    },
+    {
+        "Key": 19,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "茉莉安",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "没事的，是我太笨拙了，躲不开。",
+        "disable": 0
+    },
+    {
+        "Key": 20,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我走上前，拉起她的手。",
+        "disable": 0
+    },
+    {
+        "Key": 21,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "茉莉安",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员？",
+        "disable": 0
+    },
+    {
+        "Key": "b-6",
+        "Flag": "b-6",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 22,
+        "Flag": "b-6-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "去医疗室吧。",
+        "disable": 0
+    },
+    {
+        "Key": 23,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "茉莉安",
+        "RealSpeaker": "茉莉安",
+        "WwiseEventID": "",
+        "zh_CN": "诶？嗯……",
+        "disable": 0
+    },
+    {
+        "Key": 24,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "茉莉安的脸上多了一点红晕，或许我的行为有点失礼了，但是现在顾不了这些。",
+        "disable": 0
+    },
+    {
+        "Key": 25,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我们走在没人的走廊上，安静得能听到彼此的呼吸。",
+        "disable": 0
+    },
+    {
+        "Key": 26,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "该死，得说点什么。",
+        "disable": 0
+    },
+    {
+        "Key": "b-7",
+        "Flag": "b-7",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 27,
+        "Flag": "b-7-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "那个，你为什么不去治疗呢？",
+        "disable": 0
+    },
+    {
+        "Key": 28,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "茉莉安",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我……我在等，分析员。",
+        "disable": 0
+    },
+    {
+        "Key": 29,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "茉莉安是这么一根筋的人吗？明明可以先去处理伤口再等……",
+        "disable": 0
+    },
+    {
+        "Key": "b-8",
+        "Flag": "b-8",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 30,
+        "Flag": "b-8-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "咳，幸好你没受什么重伤。",
+        "disable": 0
+    },
+    {
+        "Key": 31,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "茉莉安",
+        "RealSpeaker": "茉莉安",
+        "WwiseEventID": "Play_Mo_girl005_sure01_066",
+        "zh_CN": "嗯……我都避开要害了。",
+        "disable": 0
+    },
+    {
+        "Key": "b-9",
+        "Flag": "b-9",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 32,
+        "Flag": "b-9-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "那就好，能避开……",
+        "disable": 0
+    },
+    {
+        "Key": 33,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我突然意识到了什么，停下了脚步。",
+        "disable": 0
+    },
+    {
+        "Key": 34,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "茉莉安",
+        "RealSpeaker": "茉莉安",
+        "WwiseEventID": "",
+        "zh_CN": "分析员，怎么了？",
+        "disable": 0
+    },
+    {
+        "Key": 35,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "明明都可以避开了，明明可以先去治疗，明明受伤了却还在笑。",
+        "disable": 0
+    },
+    {
+        "Key": 36,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "茉莉安该不会……",
+        "disable": 0
+    },
+    {
+        "Key": 37,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "卡罗琳说起茉莉安时，那个奇怪的表情出现在我脑中。",
+        "disable": 0
+    },
+    {
+        "Key": 38,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "茉莉安",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员？",
+        "disable": 0
+    },
+    {
+        "Key": "b-10",
+        "Flag": "b-10",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 39,
+        "Flag": "b-10-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "茉莉安，我可以问个问题吗？",
+        "disable": 0
+    },
+    {
+        "Key": 40,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "茉莉安",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "什么？",
+        "disable": 0
+    },
+    {
+        "Key": "b-11",
+        "Flag": "b-11",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 41,
+        "Flag": "b-11-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你受伤，不是因为笨拙躲不开吧？",
+        "disable": 0
+    },
+    {
+        "Key": 42,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "茉莉安",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": "b-12",
+        "Flag": "b-12",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 43,
+        "Flag": "b-12-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "如果希望被关注被爱护，可以说出来，不用伤害自己的。",
+        "disable": 0
+    },
+    {
+        "Key": 44,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "茉莉安没有立刻回答我，只是低下头，沉默了一会儿。",
+        "disable": 0
+    },
+    {
+        "Key": 45,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她从我手中抽开了自己的手，后退了一步。",
+        "disable": 0
+    },
+    {
+        "Key": "b-13",
+        "Flag": "b-13",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 46,
+        "Flag": "b-13-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "茉莉安？",
+        "disable": 0
+    },
+    {
+        "Key": 47,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "茉莉安",
+        "RealSpeaker": "茉莉安",
+        "WwiseEventID": "",
+        "zh_CN": "我感觉我好像没事了，天启者恢复很快的。",
+        "disable": 0
+    },
+    {
+        "Key": 48,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "茉莉安",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "应该没事的，我不用去医疗室了。",
+        "disable": 0
+    },
+    {
+        "Key": 49,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "茉莉安恢复了平时的笑容，那种礼貌性的，和人保持距离的笑容。",
+        "disable": 0
+    },
+    {
+        "Key": 50,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "接着转身离开了。",
+        "disable": 0
+    },
+    {
+        "Key": 51,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我终究是说错话了，虽然一开始就小心翼翼的。",
+        "disable": 0
+    },
+    {
+        "Key": 52,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我以为，我们是可以说这种话题的关系了。",
+        "disable": 0
+    },
+    {
+        "Key": 53,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "也可能，茉莉安跟谁都不会说这种话题。",
+        "disable": 0
+    },
+    {
+        "Key": 54,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我都干了些什么啊……",
+        "disable": 0
+    }
+]

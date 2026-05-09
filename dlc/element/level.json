@@ -1,0 +1,3118 @@
+[
+    {
+        "ID": 4611,
+        "Number": 1,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 30,
+        "Monster": [
+            400160202,
+            4001004,
+            4001003,
+            4001005
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                5,
+                1,
+                2001
+            ]
+        ],
+        "MapID": 4500,
+        "FightID": 1,
+        "Condition": {
+            "1": 20
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4612,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7311
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                11,
+                1,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_1_1.Element_1_1"
+    },
+    {
+        "ID": 4612,
+        "Number": 2,
+        "RewardIcon": [
+            4,
+            1,
+            11,
+            1
+        ],
+        "MonsterGrade": 40,
+        "Monster": [
+            4001008,
+            4001004,
+            5001001,
+            400160601
+        ],
+        "PearlReward": [
+            [
+                4,
+                1,
+                11,
+                1,
+                1
+            ]
+        ],
+        "buff": [
+            [
+                5,
+                1,
+                2001
+            ],
+            [
+                5,
+                2,
+                2002
+            ]
+        ],
+        "MapID": 4500,
+        "FightID": 1,
+        "Condition": {
+            "2": 4611
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4613,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7312
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                1,
+                11,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_1_2.Element_1_2"
+    },
+    {
+        "ID": 4613,
+        "Number": 3,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 50,
+        "Monster": [
+            400160202,
+            4001004,
+            4001003,
+            4001005
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                5,
+                1,
+                2001
+            ],
+            [
+                5,
+                2,
+                2002
+            ]
+        ],
+        "MapID": 4500,
+        "FightID": 1,
+        "Condition": {
+            "2": 4612
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4614,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7313
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                11,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_1_1.Element_1_1"
+    },
+    {
+        "ID": 4614,
+        "Number": 4,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 60,
+        "Monster": [
+            400160202,
+            4001004,
+            4001003,
+            4001005
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                5,
+                1,
+                2001
+            ],
+            [
+                5,
+                2,
+                2002
+            ]
+        ],
+        "MapID": 4500,
+        "FightID": 1,
+        "Condition": {
+            "2": 4613
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4615,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7313
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                11,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_1_1.Element_1_1"
+    },
+    {
+        "ID": 4615,
+        "Number": 5,
+        "RewardIcon": [
+            4,
+            1,
+            11,
+            1
+        ],
+        "MonsterGrade": 66,
+        "Monster": [
+            4001008,
+            4001004,
+            5001001,
+            400160601
+        ],
+        "PearlReward": [
+            [
+                4,
+                1,
+                11,
+                1,
+                1
+            ]
+        ],
+        "buff": [
+            [
+                5,
+                1,
+                2001
+            ],
+            [
+                5,
+                2,
+                2002
+            ],
+            [
+                5,
+                3,
+                2003
+            ]
+        ],
+        "MapID": 4500,
+        "FightID": 1,
+        "Condition": {
+            "2": 4614
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4616,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7312
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                1,
+                11,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_1_2.Element_1_2"
+    },
+    {
+        "ID": 4616,
+        "Number": 6,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 72,
+        "Monster": [
+            400160202,
+            4001004,
+            4001003,
+            4001005
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                5,
+                1,
+                2001
+            ],
+            [
+                5,
+                2,
+                2002
+            ],
+            [
+                5,
+                3,
+                2003
+            ]
+        ],
+        "MapID": 4500,
+        "FightID": 1,
+        "Condition": {
+            "2": 4615
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4617,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7314
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                11,
+                1,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_1_1.Element_1_1"
+    },
+    {
+        "ID": 4617,
+        "Number": 7,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 78,
+        "Monster": [
+            400160202,
+            4001004,
+            4001003,
+            4001005
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                5,
+                1,
+                2001
+            ],
+            [
+                5,
+                2,
+                2002
+            ],
+            [
+                5,
+                3,
+                2003
+            ]
+        ],
+        "MapID": 4500,
+        "FightID": 1,
+        "Condition": {
+            "2": 4616
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4618,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7314
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                11,
+                1,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_1_1.Element_1_1"
+    },
+    {
+        "ID": 4618,
+        "Number": 8,
+        "RewardIcon": [
+            4,
+            1,
+            11,
+            1
+        ],
+        "MonsterGrade": 84,
+        "Monster": [
+            400160202,
+            4001004,
+            500201003,
+            4001005
+        ],
+        "PearlReward": [
+            [
+                4,
+                1,
+                11,
+                1,
+                2
+            ]
+        ],
+        "buff": [
+            [
+                5,
+                1,
+                2001
+            ],
+            [
+                5,
+                2,
+                2002
+            ],
+            [
+                5,
+                3,
+                2003
+            ]
+        ],
+        "MapID": 4500,
+        "FightID": 1,
+        "Condition": {
+            "2": 4617
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 0,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7315
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                11,
+                1,
+                5
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_1_3.Element_1_3"
+    },
+    {
+        "ID": 4621,
+        "Number": 1,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 30,
+        "Monster": [
+            4001304,
+            4001301,
+            4001303,
+            4001306
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                1,
+                1,
+                2004
+            ]
+        ],
+        "MapID": 4503,
+        "FightID": 1,
+        "Condition": {
+            "1": 20
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4622,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7316
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                12,
+                1,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_4_1.Element_4_1"
+    },
+    {
+        "ID": 4622,
+        "Number": 2,
+        "RewardIcon": [
+            4,
+            1,
+            12,
+            1
+        ],
+        "MonsterGrade": 40,
+        "Monster": [
+            4001304,
+            4001301,
+            4001303,
+            4001306,
+            5001307
+        ],
+        "PearlReward": [
+            [
+                4,
+                1,
+                12,
+                1,
+                1
+            ]
+        ],
+        "buff": [
+            [
+                1,
+                1,
+                2004
+            ],
+            [
+                1,
+                2,
+                2005
+            ]
+        ],
+        "MapID": 4503,
+        "FightID": 1,
+        "Condition": {
+            "2": 4621
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4623,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7317
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                1,
+                12,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_4_2.Element_4_2"
+    },
+    {
+        "ID": 4623,
+        "Number": 3,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 50,
+        "Monster": [
+            4001304,
+            4001301,
+            4001303,
+            4001306
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                1,
+                1,
+                2004
+            ],
+            [
+                1,
+                2,
+                2005
+            ]
+        ],
+        "MapID": 4503,
+        "FightID": 1,
+        "Condition": {
+            "2": 4622
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4624,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7318
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                12,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_4_1.Element_4_1"
+    },
+    {
+        "ID": 4624,
+        "Number": 4,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 60,
+        "Monster": [
+            4001304,
+            4001301,
+            4001303,
+            4001306
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                1,
+                1,
+                2004
+            ],
+            [
+                1,
+                2,
+                2005
+            ]
+        ],
+        "MapID": 4503,
+        "FightID": 1,
+        "Condition": {
+            "2": 4623
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4625,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7318
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                12,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_4_1.Element_4_1"
+    },
+    {
+        "ID": 4625,
+        "Number": 5,
+        "RewardIcon": [
+            4,
+            1,
+            12,
+            1
+        ],
+        "MonsterGrade": 66,
+        "Monster": [
+            4001304,
+            4001301,
+            4001303,
+            4001306,
+            5001307
+        ],
+        "PearlReward": [
+            [
+                4,
+                1,
+                12,
+                1,
+                1
+            ]
+        ],
+        "buff": [
+            [
+                1,
+                1,
+                2004
+            ],
+            [
+                1,
+                2,
+                2005
+            ],
+            [
+                1,
+                3,
+                2006
+            ]
+        ],
+        "MapID": 4503,
+        "FightID": 1,
+        "Condition": {
+            "2": 4624
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4626,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7317
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                1,
+                12,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_4_2.Element_4_2"
+    },
+    {
+        "ID": 4626,
+        "Number": 6,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 72,
+        "Monster": [
+            4001304,
+            4001301,
+            4001303,
+            4001306
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                1,
+                1,
+                2004
+            ],
+            [
+                1,
+                2,
+                2005
+            ],
+            [
+                1,
+                3,
+                2006
+            ]
+        ],
+        "MapID": 4503,
+        "FightID": 1,
+        "Condition": {
+            "2": 4625
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4627,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7319
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                12,
+                1,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_4_1.Element_4_1"
+    },
+    {
+        "ID": 4627,
+        "Number": 7,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 78,
+        "Monster": [
+            4001304,
+            4001301,
+            4001303,
+            4001306
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                1,
+                1,
+                2004
+            ],
+            [
+                1,
+                2,
+                2005
+            ],
+            [
+                1,
+                3,
+                2006
+            ]
+        ],
+        "MapID": 4503,
+        "FightID": 1,
+        "Condition": {
+            "2": 4626
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4628,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7319
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                12,
+                1,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_4_1.Element_4_1"
+    },
+    {
+        "ID": 4628,
+        "Number": 8,
+        "RewardIcon": [
+            4,
+            1,
+            12,
+            1
+        ],
+        "MonsterGrade": 84,
+        "Monster": [
+            4001304,
+            4001301,
+            4001303,
+            5001308,
+            4001306
+        ],
+        "PearlReward": [
+            [
+                4,
+                1,
+                12,
+                1,
+                2
+            ]
+        ],
+        "buff": [
+            [
+                1,
+                1,
+                2004
+            ],
+            [
+                1,
+                2,
+                2005
+            ],
+            [
+                1,
+                3,
+                2006
+            ]
+        ],
+        "MapID": 4503,
+        "FightID": 1,
+        "Condition": {
+            "2": 4627
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 0,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7320
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                12,
+                1,
+                5
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_4_3.Element_4_3"
+    },
+    {
+        "ID": 4631,
+        "Number": 1,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 30,
+        "Monster": [
+            34003007,
+            34003006,
+            34001015
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                3,
+                1,
+                2007
+            ]
+        ],
+        "MapID": 4502,
+        "FightID": 1,
+        "Condition": {
+            "1": 20
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4632,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7321
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                13,
+                1,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_3_1.Element_3_1"
+    },
+    {
+        "ID": 4632,
+        "Number": 2,
+        "RewardIcon": [
+            4,
+            1,
+            13,
+            1
+        ],
+        "MonsterGrade": 40,
+        "Monster": [
+            34003007,
+            34003006,
+            34001015,
+            35001001
+        ],
+        "PearlReward": [
+            [
+                4,
+                1,
+                13,
+                1,
+                1
+            ]
+        ],
+        "buff": [
+            [
+                3,
+                1,
+                2007
+            ],
+            [
+                3,
+                2,
+                2008
+            ]
+        ],
+        "MapID": 4502,
+        "FightID": 1,
+        "Condition": {
+            "2": 4631
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4633,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7322
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                1,
+                13,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_3_2.Element_3_2"
+    },
+    {
+        "ID": 4633,
+        "Number": 3,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 50,
+        "Monster": [
+            34003007,
+            34003006,
+            34001015
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                3,
+                1,
+                2007
+            ],
+            [
+                3,
+                2,
+                2008
+            ]
+        ],
+        "MapID": 4502,
+        "FightID": 1,
+        "Condition": {
+            "2": 4632
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4634,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7323
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                13,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_3_1.Element_3_1"
+    },
+    {
+        "ID": 4634,
+        "Number": 4,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 60,
+        "Monster": [
+            34003007,
+            34003006,
+            34001015
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                3,
+                1,
+                2007
+            ],
+            [
+                3,
+                2,
+                2008
+            ]
+        ],
+        "MapID": 4502,
+        "FightID": 1,
+        "Condition": {
+            "2": 4633
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4635,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7323
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                13,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_3_1.Element_3_1"
+    },
+    {
+        "ID": 4635,
+        "Number": 5,
+        "RewardIcon": [
+            4,
+            1,
+            13,
+            1
+        ],
+        "MonsterGrade": 66,
+        "Monster": [
+            34003007,
+            34003006,
+            34001015,
+            35001001
+        ],
+        "PearlReward": [
+            [
+                4,
+                1,
+                13,
+                1,
+                1
+            ]
+        ],
+        "buff": [
+            [
+                3,
+                1,
+                2007
+            ],
+            [
+                3,
+                2,
+                2008
+            ],
+            [
+                3,
+                3,
+                2009
+            ]
+        ],
+        "MapID": 4502,
+        "FightID": 1,
+        "Condition": {
+            "2": 4634
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4636,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7322
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                1,
+                13,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_3_2.Element_3_2"
+    },
+    {
+        "ID": 4636,
+        "Number": 6,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 72,
+        "Monster": [
+            34003007,
+            34003006,
+            34001015
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                3,
+                1,
+                2007
+            ],
+            [
+                3,
+                2,
+                2008
+            ],
+            [
+                3,
+                3,
+                2009
+            ]
+        ],
+        "MapID": 4502,
+        "FightID": 1,
+        "Condition": {
+            "2": 4635
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4637,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7324
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                13,
+                1,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_3_1.Element_3_1"
+    },
+    {
+        "ID": 4637,
+        "Number": 7,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 78,
+        "Monster": [
+            34003007,
+            34003006,
+            34001015
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                3,
+                1,
+                2007
+            ],
+            [
+                3,
+                2,
+                2008
+            ],
+            [
+                3,
+                3,
+                2009
+            ]
+        ],
+        "MapID": 4502,
+        "FightID": 1,
+        "Condition": {
+            "2": 4636
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4638,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7324
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                13,
+                1,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_3_1.Element_3_1"
+    },
+    {
+        "ID": 4638,
+        "Number": 8,
+        "RewardIcon": [
+            4,
+            1,
+            13,
+            1
+        ],
+        "MonsterGrade": 84,
+        "Monster": [
+            34003007,
+            34003006,
+            4001017,
+            34001015,
+            35001001,
+            500201003
+        ],
+        "PearlReward": [
+            [
+                4,
+                1,
+                13,
+                1,
+                2
+            ]
+        ],
+        "buff": [
+            [
+                3,
+                1,
+                2007
+            ],
+            [
+                3,
+                2,
+                2008
+            ],
+            [
+                3,
+                3,
+                2009
+            ]
+        ],
+        "MapID": 4502,
+        "FightID": 1,
+        "Condition": {
+            "2": 4637
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 0,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7325
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                13,
+                1,
+                5
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_3_3.Element_3_3"
+    },
+    {
+        "ID": 4641,
+        "Number": 1,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 30,
+        "Monster": [
+            4003004,
+            4002003,
+            4003006,
+            4001002
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                4,
+                1,
+                2010
+            ]
+        ],
+        "MapID": 4504,
+        "FightID": 1,
+        "Condition": {
+            "1": 20
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4642,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7326
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                14,
+                1,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_5_1.Element_5_1"
+    },
+    {
+        "ID": 4642,
+        "Number": 2,
+        "RewardIcon": [
+            4,
+            1,
+            14,
+            1
+        ],
+        "MonsterGrade": 40,
+        "Monster": [
+            4003004,
+            4002003,
+            4001002,
+            4003006,
+            4001016,
+            5001001
+        ],
+        "PearlReward": [
+            [
+                4,
+                1,
+                14,
+                1,
+                1
+            ]
+        ],
+        "buff": [
+            [
+                4,
+                1,
+                2010
+            ],
+            [
+                4,
+                2,
+                2011
+            ]
+        ],
+        "MapID": 4504,
+        "FightID": 1,
+        "Condition": {
+            "2": 4641
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4643,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7327
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                1,
+                14,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_5_2.Element_5_2"
+    },
+    {
+        "ID": 4643,
+        "Number": 3,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 50,
+        "Monster": [
+            4003004,
+            4002003,
+            4003006,
+            4001002
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                4,
+                1,
+                2010
+            ],
+            [
+                4,
+                2,
+                2011
+            ]
+        ],
+        "MapID": 4504,
+        "FightID": 1,
+        "Condition": {
+            "2": 4642
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4644,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7328
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                14,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_5_1.Element_5_1"
+    },
+    {
+        "ID": 4644,
+        "Number": 4,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 60,
+        "Monster": [
+            4003004,
+            4002003,
+            4003006,
+            4001002
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                4,
+                1,
+                2010
+            ],
+            [
+                4,
+                2,
+                2011
+            ]
+        ],
+        "MapID": 4504,
+        "FightID": 1,
+        "Condition": {
+            "2": 4643
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4645,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7328
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                14,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_5_1.Element_5_1"
+    },
+    {
+        "ID": 4645,
+        "Number": 5,
+        "RewardIcon": [
+            4,
+            1,
+            14,
+            1
+        ],
+        "MonsterGrade": 66,
+        "Monster": [
+            4003004,
+            4002003,
+            4001002,
+            4003006,
+            4001016,
+            5001001
+        ],
+        "PearlReward": [
+            [
+                4,
+                1,
+                14,
+                1,
+                1
+            ]
+        ],
+        "buff": [
+            [
+                4,
+                1,
+                2010
+            ],
+            [
+                4,
+                2,
+                2011
+            ],
+            [
+                4,
+                3,
+                2012
+            ]
+        ],
+        "MapID": 4504,
+        "FightID": 1,
+        "Condition": {
+            "2": 4644
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4646,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7327
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                1,
+                14,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_5_2.Element_5_2"
+    },
+    {
+        "ID": 4646,
+        "Number": 6,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 72,
+        "Monster": [
+            4003004,
+            4002003,
+            4003006,
+            4001002
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                4,
+                1,
+                2010
+            ],
+            [
+                4,
+                2,
+                2011
+            ],
+            [
+                4,
+                3,
+                2012
+            ]
+        ],
+        "MapID": 4504,
+        "FightID": 1,
+        "Condition": {
+            "2": 4645
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4647,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7329
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                14,
+                1,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_5_1.Element_5_1"
+    },
+    {
+        "ID": 4647,
+        "Number": 7,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 78,
+        "Monster": [
+            4003004,
+            4002003,
+            4003006,
+            4001002
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                4,
+                1,
+                2010
+            ],
+            [
+                4,
+                2,
+                2011
+            ],
+            [
+                4,
+                3,
+                2012
+            ]
+        ],
+        "MapID": 4504,
+        "FightID": 1,
+        "Condition": {
+            "2": 4646
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4648,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7329
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                14,
+                1,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_5_1.Element_5_1"
+    },
+    {
+        "ID": 4648,
+        "Number": 8,
+        "RewardIcon": [
+            4,
+            1,
+            14,
+            1
+        ],
+        "MonsterGrade": 84,
+        "Monster": [
+            4003004,
+            4002003,
+            400160202,
+            4003006,
+            4001016,
+            4001002,
+            500201003
+        ],
+        "PearlReward": [
+            [
+                4,
+                1,
+                14,
+                1,
+                2
+            ]
+        ],
+        "buff": [
+            [
+                4,
+                1,
+                2010
+            ],
+            [
+                4,
+                2,
+                2011
+            ],
+            [
+                4,
+                3,
+                2012
+            ]
+        ],
+        "MapID": 4504,
+        "FightID": 1,
+        "Condition": {
+            "2": 4647
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 0,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7330
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                14,
+                1,
+                5
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_5_3.Element_5_3"
+    },
+    {
+        "ID": 4651,
+        "Number": 1,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 30,
+        "Monster": [
+            4001304,
+            4001301,
+            4001303,
+            4001306
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                2,
+                1,
+                2013
+            ]
+        ],
+        "MapID": 4501,
+        "FightID": 1,
+        "Condition": {
+            "1": 20
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4652,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7331
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                15,
+                1,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_2_1.Element_2_1"
+    },
+    {
+        "ID": 4652,
+        "Number": 2,
+        "RewardIcon": [
+            4,
+            1,
+            15,
+            1
+        ],
+        "MonsterGrade": 40,
+        "Monster": [
+            4001304,
+            4001306,
+            4001301,
+            4001303,
+            5001302
+        ],
+        "PearlReward": [
+            [
+                4,
+                1,
+                15,
+                1,
+                1
+            ]
+        ],
+        "buff": [
+            [
+                2,
+                1,
+                2013
+            ],
+            [
+                2,
+                2,
+                2014
+            ]
+        ],
+        "MapID": 4501,
+        "FightID": 1,
+        "Condition": {
+            "2": 4651
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4653,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7332
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                1,
+                15,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_2_2.Element_2_2"
+    },
+    {
+        "ID": 4653,
+        "Number": 3,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 50,
+        "Monster": [
+            4001304,
+            4001301,
+            4001303,
+            4001306
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                2,
+                1,
+                2013
+            ],
+            [
+                2,
+                2,
+                2014
+            ]
+        ],
+        "MapID": 4501,
+        "FightID": 1,
+        "Condition": {
+            "2": 4652
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4654,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7333
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                15,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_2_1.Element_2_1"
+    },
+    {
+        "ID": 4654,
+        "Number": 4,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 60,
+        "Monster": [
+            4001304,
+            4001301,
+            4001303,
+            4001306
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                2,
+                1,
+                2013
+            ],
+            [
+                2,
+                2,
+                2014
+            ]
+        ],
+        "MapID": 4501,
+        "FightID": 1,
+        "Condition": {
+            "2": 4653
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4655,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7333
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                15,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_2_1.Element_2_1"
+    },
+    {
+        "ID": 4655,
+        "Number": 5,
+        "RewardIcon": [
+            4,
+            1,
+            15,
+            1
+        ],
+        "MonsterGrade": 66,
+        "Monster": [
+            4001304,
+            4001306,
+            4001301,
+            4001303,
+            5001302
+        ],
+        "PearlReward": [
+            [
+                4,
+                1,
+                15,
+                1,
+                1
+            ]
+        ],
+        "buff": [
+            [
+                2,
+                1,
+                2013
+            ],
+            [
+                2,
+                2,
+                2014
+            ],
+            [
+                2,
+                3,
+                2015
+            ]
+        ],
+        "MapID": 4501,
+        "FightID": 1,
+        "Condition": {
+            "2": 4654
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4656,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7332
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                1,
+                15,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_2_2.Element_2_2"
+    },
+    {
+        "ID": 4656,
+        "Number": 6,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 72,
+        "Monster": [
+            4001304,
+            4001301,
+            4001303,
+            4001306
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                2,
+                1,
+                2013
+            ],
+            [
+                2,
+                2,
+                2014
+            ],
+            [
+                2,
+                3,
+                2015
+            ]
+        ],
+        "MapID": 4501,
+        "FightID": 1,
+        "Condition": {
+            "2": 4655
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4657,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7334
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                15,
+                1,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_2_1.Element_2_1"
+    },
+    {
+        "ID": 4657,
+        "Number": 7,
+        "RewardIcon": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "MonsterGrade": 78,
+        "Monster": [
+            4001304,
+            4001301,
+            4001303,
+            4001306
+        ],
+        "PearlReward": "",
+        "buff": [
+            [
+                2,
+                1,
+                2013
+            ],
+            [
+                2,
+                2,
+                2014
+            ],
+            [
+                2,
+                3,
+                2015
+            ]
+        ],
+        "MapID": 4501,
+        "FightID": 1,
+        "Condition": {
+            "2": 4656
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 4658,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7334
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                15,
+                1,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_2_1.Element_2_1"
+    },
+    {
+        "ID": 4658,
+        "Number": 8,
+        "RewardIcon": [
+            4,
+            1,
+            15,
+            1
+        ],
+        "MonsterGrade": 84,
+        "Monster": [
+            4001303,
+            4001304,
+            4001306,
+            5001305,
+            4001301,
+            5001307
+        ],
+        "PearlReward": [
+            [
+                4,
+                1,
+                15,
+                1,
+                2
+            ]
+        ],
+        "buff": [
+            [
+                2,
+                1,
+                2013
+            ],
+            [
+                2,
+                2,
+                2014
+            ],
+            [
+                2,
+                3,
+                2015
+            ]
+        ],
+        "MapID": 4501,
+        "FightID": 1,
+        "Condition": {
+            "2": 4657
+        },
+        "ConsumeVigor": [
+            0,
+            0
+        ],
+        "LevelStrength": 4,
+        "MultipleFight": 0,
+        "AgainFight": 0,
+        "NextID": 0,
+        "PlayerExp": "",
+        "RoleExp": "",
+        "TeamRuleID": "",
+        "FirstDropID": [
+            7335
+        ],
+        "BaseDropID": "",
+        "RandomDropID": "",
+        "ShowAward": "",
+        "ShowRandomAward": "",
+        "ShowFirstAward": [
+            [
+                4,
+                1,
+                15,
+                1,
+                5
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ]
+        ],
+        "PictureLevel": 1803038,
+        "TaskPath": "Element/Element_2_3.Element_2_3"
+    }
+]

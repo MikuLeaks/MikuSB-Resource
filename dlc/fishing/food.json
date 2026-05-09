@@ -1,0 +1,842 @@
+[
+    {
+        "ID": 1,
+        "FoodName": "supplies.food01",
+        "SimpleDesc": "supplies.food01_des",
+        "DescComment": "buff_online.buff_fishfood_007",
+        "FoodType": 1,
+        "BuffParamPerCount": [
+            2,
+            10
+        ],
+        "BaitNum": "",
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                1,
+                2
+            ]
+        ],
+        "CreateItems": "",
+        "EffectTime": 10,
+        "Skilltype": 1,
+        "SkillInfoId": [
+            8430007
+        ],
+        "EffectArg": "",
+        "Icon": 110400570,
+        "Icon2": 110400571,
+        "FishingLevel": 1,
+        "SeasonId": 0,
+        "ShortComment": "buff_online.buff_fishfood_007_short",
+        "FoodArea": [
+            5810,
+            325,
+            326
+        ]
+    },
+    {
+        "ID": 2,
+        "FoodName": "supplies.food02",
+        "SimpleDesc": "supplies.food02_des",
+        "DescComment": "buff_online.buff_fishfood_004",
+        "FoodType": 1,
+        "BuffParamPerCount": [
+            10,
+            10
+        ],
+        "BaitNum": "",
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                1,
+                1
+            ]
+        ],
+        "CreateItems": "",
+        "EffectTime": 10,
+        "Skilltype": 1,
+        "SkillInfoId": [
+            8430004
+        ],
+        "EffectArg": "",
+        "Icon": 110400580,
+        "Icon2": 110400581,
+        "FishingLevel": 1,
+        "SeasonId": 0,
+        "ShortComment": "buff_online.buff_fishfood_004_short",
+        "FoodArea": [
+            5810,
+            325,
+            326
+        ]
+    },
+    {
+        "ID": 3,
+        "FoodName": "supplies.food04",
+        "SimpleDesc": "supplies.food04_des",
+        "DescComment": "buff_online.buff_fishfood_005",
+        "FoodType": 1,
+        "BuffParamPerCount": [
+            50,
+            10
+        ],
+        "BaitNum": "",
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                1,
+                1
+            ]
+        ],
+        "CreateItems": "",
+        "EffectTime": 10,
+        "Skilltype": 1,
+        "SkillInfoId": [
+            8430005
+        ],
+        "EffectArg": "",
+        "Icon": 110400600,
+        "Icon2": 110400601,
+        "FishingLevel": 1,
+        "SeasonId": 0,
+        "ShortComment": "buff_online.buff_fishfood_005_short",
+        "FoodArea": [
+            5810,
+            325,
+            326
+        ]
+    },
+    {
+        "ID": 4,
+        "FoodName": "supplies.food06",
+        "SimpleDesc": "supplies.food06_des",
+        "DescComment": "buff_online.buff_fishfood_008",
+        "FoodType": 1,
+        "BuffParamPerCount": [
+            15,
+            25,
+            10
+        ],
+        "BaitNum": "",
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                2,
+                1
+            ]
+        ],
+        "CreateItems": "",
+        "EffectTime": 10,
+        "Skilltype": 1,
+        "SkillInfoId": [
+            8430008
+        ],
+        "EffectArg": "",
+        "Icon": 110400620,
+        "Icon2": 110400621,
+        "FishingLevel": 1,
+        "SeasonId": 0,
+        "ShortComment": "buff_online.buff_fishfood_008_short",
+        "FoodArea": [
+            5810,
+            325,
+            326
+        ]
+    },
+    {
+        "ID": 5,
+        "FoodName": "supplies.food05",
+        "SimpleDesc": "supplies.food05_des",
+        "DescComment": "buff_online.buff_fishfood_003",
+        "FoodType": 1,
+        "BuffParamPerCount": [
+            50,
+            10
+        ],
+        "BaitNum": "",
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                2,
+                2
+            ]
+        ],
+        "CreateItems": "",
+        "EffectTime": 10,
+        "Skilltype": 1,
+        "SkillInfoId": [
+            8430003
+        ],
+        "EffectArg": "",
+        "Icon": 110400610,
+        "Icon2": 110400611,
+        "FishingLevel": 1,
+        "SeasonId": 0,
+        "ShortComment": "buff_online.buff_fishfood_003_short",
+        "FoodArea": [
+            5810,
+            325,
+            326
+        ]
+    },
+    {
+        "ID": 6,
+        "FoodName": "supplies.food03",
+        "SimpleDesc": "supplies.food03_des",
+        "DescComment": "buff_online.buff_fishfood_009",
+        "FoodType": 1,
+        "BuffParamPerCount": [
+            1,
+            10
+        ],
+        "BaitNum": "",
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                3,
+                1
+            ]
+        ],
+        "CreateItems": "",
+        "EffectTime": 10,
+        "Skilltype": 1,
+        "SkillInfoId": [
+            8430009
+        ],
+        "EffectArg": "",
+        "Icon": 110400590,
+        "Icon2": 110400591,
+        "FishingLevel": 1,
+        "SeasonId": 0,
+        "ShortComment": "buff_online.buff_fishfood_009_short",
+        "FoodArea": [
+            5810,
+            325,
+            326
+        ]
+    },
+    {
+        "ID": 10,
+        "FoodName": "supplies.food10",
+        "SimpleDesc": "supplies.food10_des",
+        "DescComment": "buff_online.buff_fishfood_010",
+        "FoodType": 3,
+        "BuffParamPerCount": [
+            10
+        ],
+        "BaitNum": "",
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                1,
+                2
+            ]
+        ],
+        "CreateItems": "",
+        "EffectTime": 10,
+        "Skilltype": 2,
+        "SkillInfoId": [
+            4
+        ],
+        "EffectArg": "",
+        "Icon": 110400680,
+        "Icon2": 110400681,
+        "FishingLevel": 1,
+        "SeasonId": 0,
+        "ShortComment": "buff_online.buff_fishfood_010_short",
+        "FoodArea": [
+            5810,
+            325
+        ]
+    },
+    {
+        "ID": 11,
+        "FoodName": "supplies.food11",
+        "SimpleDesc": "supplies.food11_des",
+        "DescComment": "buff_online.buff_fishfood_011",
+        "FoodType": 3,
+        "BuffParamPerCount": [
+            10
+        ],
+        "BaitNum": "",
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                1,
+                1
+            ]
+        ],
+        "CreateItems": "",
+        "EffectTime": 10,
+        "Skilltype": 2,
+        "SkillInfoId": [
+            5
+        ],
+        "EffectArg": "",
+        "Icon": 110400690,
+        "Icon2": 110400691,
+        "FishingLevel": 1,
+        "SeasonId": 1,
+        "ShortComment": "buff_online.buff_fishfood_011_short",
+        "FoodArea": [
+            5810,
+            325
+        ]
+    },
+    {
+        "ID": 12,
+        "FoodName": "supplies.food12",
+        "SimpleDesc": "supplies.food12_des",
+        "DescComment": "buff_online.buff_fishfood_012",
+        "FoodType": 3,
+        "BuffParamPerCount": [
+            10
+        ],
+        "BaitNum": "",
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                1,
+                1
+            ]
+        ],
+        "CreateItems": "",
+        "EffectTime": 10,
+        "Skilltype": 2,
+        "SkillInfoId": [
+            2
+        ],
+        "EffectArg": "",
+        "Icon": 110400700,
+        "Icon2": 110400701,
+        "FishingLevel": 1,
+        "SeasonId": 0,
+        "ShortComment": "buff_online.buff_fishfood_012_short",
+        "FoodArea": [
+            5810,
+            325
+        ]
+    },
+    {
+        "ID": 13,
+        "FoodName": "supplies.food13",
+        "SimpleDesc": "supplies.food13_des",
+        "DescComment": "buff_online.buff_fishfood_013",
+        "FoodType": 3,
+        "BuffParamPerCount": [
+            10
+        ],
+        "BaitNum": "",
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                2,
+                1
+            ]
+        ],
+        "CreateItems": "",
+        "EffectTime": 10,
+        "Skilltype": 2,
+        "SkillInfoId": [
+            3
+        ],
+        "EffectArg": "",
+        "Icon": 110400710,
+        "Icon2": 110400711,
+        "FishingLevel": 1,
+        "SeasonId": 0,
+        "ShortComment": "buff_online.buff_fishfood_013_short",
+        "FoodArea": [
+            5810,
+            325
+        ]
+    },
+    {
+        "ID": 14,
+        "FoodName": "supplies.food14",
+        "SimpleDesc": "supplies.food14_des",
+        "DescComment": "buff_online.buff_fishfood_014",
+        "FoodType": 3,
+        "BuffParamPerCount": [
+            10
+        ],
+        "BaitNum": "",
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                2,
+                2
+            ]
+        ],
+        "CreateItems": "",
+        "EffectTime": 10,
+        "Skilltype": 2,
+        "SkillInfoId": [
+            1
+        ],
+        "EffectArg": "",
+        "Icon": 110400720,
+        "Icon2": 110400721,
+        "FishingLevel": 1,
+        "SeasonId": 0,
+        "ShortComment": "buff_online.buff_fishfood_014_short",
+        "FoodArea": [
+            5810,
+            325
+        ]
+    },
+    {
+        "ID": 15,
+        "FoodName": "supplies.food15",
+        "SimpleDesc": "supplies.food15_des",
+        "DescComment": "buff_online.buff_fishfood_015",
+        "FoodType": 1,
+        "BuffParamPerCount": [
+            40,
+            10
+        ],
+        "BaitNum": "",
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                3,
+                1
+            ]
+        ],
+        "CreateItems": "",
+        "EffectTime": 10,
+        "Skilltype": 1,
+        "SkillInfoId": [
+            8430010
+        ],
+        "EffectArg": "",
+        "Icon": 110400730,
+        "Icon2": 110400731,
+        "FishingLevel": 1,
+        "SeasonId": 0,
+        "ShortComment": "buff_online.buff_fishfood_015_short",
+        "FoodArea": [
+            5810,
+            325,
+            326
+        ]
+    },
+    {
+        "ID": 16,
+        "FoodName": "supplies.food16",
+        "SimpleDesc": "supplies.food16_des",
+        "DescComment": "buff_online.buff_fishfood_016",
+        "FoodType": 3,
+        "BuffParamPerCount": [
+            10
+        ],
+        "BaitNum": "",
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                3,
+                1
+            ]
+        ],
+        "CreateItems": "",
+        "EffectTime": 10,
+        "Skilltype": 3,
+        "SkillInfoId": [
+            0
+        ],
+        "EffectArg": "",
+        "Icon": 110400740,
+        "Icon2": 110400741,
+        "FishingLevel": 1,
+        "SeasonId": 0,
+        "ShortComment": "buff_online.buff_fishfood_016_short",
+        "FoodArea": [
+            5810,
+            325
+        ]
+    },
+    {
+        "ID": 100,
+        "FoodName": "supplies.vircapture.bait1",
+        "SimpleDesc": "supplies.vircapture.bait2_des",
+        "DescComment": "supplies.vircapture.bait2_des",
+        "FoodType": 2,
+        "BuffParamPerCount": "",
+        "BaitNum": "",
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                4,
+                1
+            ]
+        ],
+        "CreateItems": [
+            4,
+            1,
+            6,
+            9,
+            1
+        ],
+        "EffectTime": "",
+        "Skilltype": "",
+        "SkillInfoId": "",
+        "EffectArg": "",
+        "Icon": 1521007,
+        "Icon2": 1521007,
+        "FishingLevel": 1,
+        "SeasonId": 0,
+        "ShortComment": "",
+        "FoodArea": [
+            5810,
+            325,
+            326
+        ]
+    },
+    {
+        "ID": 101,
+        "FoodName": "supplies.vircapture.normalbait1",
+        "SimpleDesc": "supplies.vircapture.normalbait1_des",
+        "DescComment": "supplies.vircapture.normalbait1_des",
+        "FoodType": 2,
+        "BuffParamPerCount": "",
+        "BaitNum": [
+            38,
+            1
+        ],
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                6,
+                1
+            ]
+        ],
+        "CreateItems": [
+            4,
+            1,
+            6,
+            40,
+            1
+        ],
+        "EffectTime": "",
+        "Skilltype": "",
+        "SkillInfoId": "",
+        "EffectArg": "",
+        "Icon": 1520201,
+        "Icon2": 1520201,
+        "FishingLevel": 1,
+        "SeasonId": 0,
+        "ShortComment": "",
+        "FoodArea": [
+            5810,
+            325,
+            326
+        ]
+    },
+    {
+        "ID": 102,
+        "FoodName": "supplies.vircapture.normalbait2",
+        "SimpleDesc": "supplies.vircapture.normalbait2_des",
+        "DescComment": "supplies.vircapture.normalbait2_des",
+        "FoodType": 2,
+        "BuffParamPerCount": "",
+        "BaitNum": [
+            38,
+            2
+        ],
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                5,
+                1
+            ]
+        ],
+        "CreateItems": [
+            4,
+            1,
+            6,
+            41,
+            1
+        ],
+        "EffectTime": "",
+        "Skilltype": "",
+        "SkillInfoId": "",
+        "EffectArg": "",
+        "Icon": 1520202,
+        "Icon2": 1520202,
+        "FishingLevel": 1,
+        "SeasonId": 0,
+        "ShortComment": "",
+        "FoodArea": [
+            5810,
+            325,
+            326
+        ]
+    },
+    {
+        "ID": 103,
+        "FoodName": "supplies.vircapture.normalbait3",
+        "SimpleDesc": "supplies.vircapture.normalbait3_des",
+        "DescComment": "supplies.vircapture.normalbait3_des",
+        "FoodType": 2,
+        "BuffParamPerCount": "",
+        "BaitNum": [
+            38,
+            3
+        ],
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                7,
+                1
+            ]
+        ],
+        "CreateItems": [
+            4,
+            1,
+            6,
+            42,
+            1
+        ],
+        "EffectTime": "",
+        "Skilltype": "",
+        "SkillInfoId": "",
+        "EffectArg": "",
+        "Icon": 1520203,
+        "Icon2": 1520203,
+        "FishingLevel": 1,
+        "SeasonId": 0,
+        "ShortComment": "",
+        "FoodArea": [
+            5810,
+            325,
+            326
+        ]
+    },
+    {
+        "ID": 111,
+        "FoodName": "supplies.vircapture.matchbait1",
+        "SimpleDesc": "supplies.vircapture.matchbait1_des",
+        "DescComment": "supplies.vircapture.matchbait1_des",
+        "FoodType": 2,
+        "BuffParamPerCount": "",
+        "BaitNum": [
+            38,
+            2
+        ],
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                4,
+                1
+            ],
+            [
+                5,
+                25,
+                1,
+                8,
+                1
+            ]
+        ],
+        "CreateItems": [
+            4,
+            1,
+            6,
+            43,
+            1
+        ],
+        "EffectTime": "",
+        "Skilltype": "",
+        "SkillInfoId": "",
+        "EffectArg": "",
+        "Icon": 1520204,
+        "Icon2": 1520204,
+        "FishingLevel": 1,
+        "SeasonId": 1,
+        "ShortComment": "",
+        "FoodArea": [
+            5810,
+            325
+        ]
+    },
+    {
+        "ID": 112,
+        "FoodName": "supplies.vircapture.matchbait2",
+        "SimpleDesc": "supplies.vircapture.matchbait2_des",
+        "DescComment": "supplies.vircapture.matchbait2_des",
+        "FoodType": 2,
+        "BuffParamPerCount": "",
+        "BaitNum": [
+            38,
+            2
+        ],
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                5,
+                1
+            ],
+            [
+                5,
+                25,
+                1,
+                8,
+                1
+            ]
+        ],
+        "CreateItems": [
+            4,
+            1,
+            6,
+            44,
+            1
+        ],
+        "EffectTime": "",
+        "Skilltype": "",
+        "SkillInfoId": "",
+        "EffectArg": "",
+        "Icon": 1520205,
+        "Icon2": 1520205,
+        "FishingLevel": 1,
+        "SeasonId": 1,
+        "ShortComment": "",
+        "FoodArea": [
+            5810,
+            325
+        ]
+    },
+    {
+        "ID": 113,
+        "FoodName": "supplies.vircapture.matchbait3",
+        "SimpleDesc": "supplies.vircapture.matchbait3_des",
+        "DescComment": "supplies.vircapture.matchbait3_des",
+        "FoodType": 2,
+        "BuffParamPerCount": "",
+        "BaitNum": [
+            38,
+            2
+        ],
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                6,
+                1
+            ],
+            [
+                5,
+                25,
+                1,
+                8,
+                1
+            ]
+        ],
+        "CreateItems": [
+            4,
+            1,
+            6,
+            45,
+            1
+        ],
+        "EffectTime": "",
+        "Skilltype": "",
+        "SkillInfoId": "",
+        "EffectArg": "",
+        "Icon": 1520206,
+        "Icon2": 1520206,
+        "FishingLevel": 1,
+        "SeasonId": 1,
+        "ShortComment": "",
+        "FoodArea": [
+            5810,
+            325
+        ]
+    },
+    {
+        "ID": 114,
+        "FoodName": "supplies.vircapture.matchbait4",
+        "SimpleDesc": "supplies.vircapture.matchbait4_des",
+        "DescComment": "supplies.vircapture.matchbait4_des",
+        "FoodType": 2,
+        "BuffParamPerCount": "",
+        "BaitNum": [
+            38,
+            2
+        ],
+        "NeedItem": [
+            [
+                5,
+                25,
+                1,
+                7,
+                1
+            ],
+            [
+                5,
+                25,
+                1,
+                8,
+                1
+            ]
+        ],
+        "CreateItems": [
+            4,
+            1,
+            6,
+            46,
+            1
+        ],
+        "EffectTime": "",
+        "Skilltype": "",
+        "SkillInfoId": "",
+        "EffectArg": "",
+        "Icon": 1520207,
+        "Icon2": 1520207,
+        "FishingLevel": 1,
+        "SeasonId": 1,
+        "ShortComment": "",
+        "FoodArea": [
+            5810,
+            325
+        ]
+    }
+]

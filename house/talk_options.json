@@ -1,0 +1,2424 @@
+[
+    {
+        "NpcId": 99,
+        "OptionKey1": "house.GiftExchange",
+        "OptionFunc1": [
+            "ShowExChangeGiftUI"
+        ],
+        "OptionCondition1": [
+            "CheckTaskGuideShow",
+            7
+        ],
+        "OptionIcon1": 1701187,
+        "OptionHasNewState1": "",
+        "OptionSort1": 1,
+        "OptionKey2": "house.GiftExchange2",
+        "OptionFunc2": [
+            "ShowCPFurShop"
+        ],
+        "OptionCondition2": [
+            "CheckTaskGuideShow",
+            8
+        ],
+        "OptionIcon2": 1701207,
+        "OptionHasNewState2": [
+            "CheckShopVersion"
+        ],
+        "OptionSort2": 2,
+        "OptionKey3": "house.menka",
+        "OptionFunc3": [
+            "OpenDormRoom"
+        ],
+        "OptionCondition3": "",
+        "OptionIcon3": 1701161,
+        "OptionHasNewState3": [
+            "HaveGirlToLiveInRoom"
+        ],
+        "OptionSort3": 3,
+        "OptionKey4": "house.jinianpin",
+        "OptionFunc4": [
+            "ShowWallGift"
+        ],
+        "OptionCondition4": [
+            "CheckTaskGuideShow",
+            10
+        ],
+        "OptionIcon4": 1701218,
+        "OptionHasNewState4": [
+            "HaveAreaGiftToSend"
+        ],
+        "OptionSort4": 4,
+        "OptionKey5": "house.ChangeSuit",
+        "OptionFunc5": [
+            "ShowExChangePlayerSuitUI"
+        ],
+        "OptionCondition5": [
+            "CheckTaskGuideShow",
+            10
+        ],
+        "OptionIcon5": 1701228,
+        "OptionHasNewState5": [
+            "HasSuitUnViewed"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.DormSelected.key",
+        "OptionFunc6": [
+            "ShowBornAreaSelectUI"
+        ],
+        "OptionCondition6": [
+            "CheckTaskGuideShow",
+            10
+        ],
+        "OptionIcon6": 1701275,
+        "OptionHasNewState6": "",
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7,
+        "OptionKey8": "house.SEvent",
+        "OptionFunc8": [
+            "Play2DStoryAndCompleteDecrypt",
+            8226201,
+            39
+        ],
+        "OptionCondition8": "{'CheckNpcArea',0}|{'CheckDecryptProcess',39,40}",
+        "OptionIcon8": 1701131,
+        "OptionHasNewState8": [
+            "CheckDecryptProcess",
+            39
+        ],
+        "OptionSort8": 0
+    },
+    {
+        "NpcId": 98,
+        "OptionKey1": "house.GiftExchange",
+        "OptionFunc1": [
+            "ShowExChangeGiftUI"
+        ],
+        "OptionCondition1": "",
+        "OptionIcon1": 1701187,
+        "OptionHasNewState1": "",
+        "OptionSort1": 1,
+        "OptionKey2": "house.GiftExchange2",
+        "OptionFunc2": [
+            "ShowCPFurShop"
+        ],
+        "OptionCondition2": "",
+        "OptionIcon2": 1701207,
+        "OptionHasNewState2": [
+            "CheckShopVersion"
+        ],
+        "OptionSort2": 2,
+        "OptionKey3": "house.jinianpin",
+        "OptionFunc3": [
+            "ShowWallGift"
+        ],
+        "OptionCondition3": "",
+        "OptionIcon3": 1701218,
+        "OptionHasNewState3": [
+            "HaveAreaGiftToSend"
+        ],
+        "OptionSort3": 3,
+        "OptionKey4": "house.Bye",
+        "OptionFunc4": [
+            "SayBye"
+        ],
+        "OptionCondition4": "",
+        "OptionIcon4": 1701185,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4
+    },
+    {
+        "NpcId": 97,
+        "OptionKey1": "house.GiftExchange",
+        "OptionFunc1": [
+            "ShowExChangeGiftUI"
+        ],
+        "OptionCondition1": "",
+        "OptionIcon1": 1701187,
+        "OptionHasNewState1": "",
+        "OptionSort1": 1,
+        "OptionKey2": "house.GiftExchange2",
+        "OptionFunc2": [
+            "ShowCPFurShop"
+        ],
+        "OptionCondition2": "",
+        "OptionIcon2": 1701207,
+        "OptionHasNewState2": [
+            "CheckShopVersion"
+        ],
+        "OptionSort2": 2,
+        "OptionKey3": "house.jinianpin",
+        "OptionFunc3": [
+            "ShowWallGift"
+        ],
+        "OptionCondition3": "",
+        "OptionIcon3": 1701218,
+        "OptionHasNewState3": [
+            "HaveAreaGiftToSend"
+        ],
+        "OptionSort3": 3,
+        "OptionKey4": "house.Bye",
+        "OptionFunc4": [
+            "SayBye"
+        ],
+        "OptionCondition4": "",
+        "OptionIcon4": 1701185,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4
+    },
+    {
+        "NpcId": 96,
+        "OptionKey1": "house.GiftExchange",
+        "OptionFunc1": [
+            "ShowExChangeGiftUI"
+        ],
+        "OptionCondition1": "",
+        "OptionIcon1": 1701187,
+        "OptionHasNewState1": "",
+        "OptionSort1": 1,
+        "OptionKey2": "house.GiftExchange2",
+        "OptionFunc2": [
+            "ShowCPFurShop"
+        ],
+        "OptionCondition2": "",
+        "OptionIcon2": 1701207,
+        "OptionHasNewState2": [
+            "CheckShopVersion"
+        ],
+        "OptionSort2": 2,
+        "OptionKey3": "house.jinianpin",
+        "OptionFunc3": [
+            "ShowWallGift"
+        ],
+        "OptionCondition3": "",
+        "OptionIcon3": 1701218,
+        "OptionHasNewState3": [
+            "HaveAreaGiftToSend"
+        ],
+        "OptionSort3": 3,
+        "OptionKey4": "house.Bye",
+        "OptionFunc4": [
+            "SayBye"
+        ],
+        "OptionCondition4": "",
+        "OptionIcon4": 1701185,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4
+    },
+    {
+        "NpcId": 95,
+        "OptionKey1": "house.GiftExchange",
+        "OptionFunc1": [
+            "ShowExChangeGiftUI"
+        ],
+        "OptionCondition1": "",
+        "OptionIcon1": 1701187,
+        "OptionHasNewState1": "",
+        "OptionSort1": 1,
+        "OptionKey2": "house.GiftExchange2",
+        "OptionFunc2": [
+            "ShowCPFurShop"
+        ],
+        "OptionCondition2": "",
+        "OptionIcon2": 1701207,
+        "OptionHasNewState2": [
+            "CheckShopVersion"
+        ],
+        "OptionSort2": 2,
+        "OptionKey3": "house.jinianpin",
+        "OptionFunc3": [
+            "ShowWallGift"
+        ],
+        "OptionCondition3": "",
+        "OptionIcon3": 1701218,
+        "OptionHasNewState3": [
+            "HaveAreaGiftToSend"
+        ],
+        "OptionSort3": 3,
+        "OptionKey4": "house.Bye",
+        "OptionFunc4": [
+            "SayBye"
+        ],
+        "OptionCondition4": "",
+        "OptionIcon4": 1701185,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4
+    },
+    {
+        "NpcId": 94,
+        "OptionKey1": "house.GiftExchange",
+        "OptionFunc1": [
+            "ShowExChangeGiftUI"
+        ],
+        "OptionCondition1": "",
+        "OptionIcon1": 1701187,
+        "OptionHasNewState1": "",
+        "OptionSort1": 1,
+        "OptionKey2": "house.GiftExchange2",
+        "OptionFunc2": [
+            "ShowCPFurShop"
+        ],
+        "OptionCondition2": "",
+        "OptionIcon2": 1701207,
+        "OptionHasNewState2": [
+            "CheckShopVersion"
+        ],
+        "OptionSort2": 2,
+        "OptionKey3": "house.jinianpin",
+        "OptionFunc3": [
+            "ShowWallGift"
+        ],
+        "OptionCondition3": "",
+        "OptionIcon3": 1701218,
+        "OptionHasNewState3": [
+            "HaveAreaGiftToSend"
+        ],
+        "OptionSort3": 3,
+        "OptionKey4": "house.Bye",
+        "OptionFunc4": [
+            "SayBye"
+        ],
+        "OptionCondition4": "",
+        "OptionIcon4": 1701185,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4
+    },
+    {
+        "NpcId": 1,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "HasRingStory",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "HasAnyRandomEvent",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "IsInBedRoom",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            1
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": "",
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7,
+        "OptionKey8": "house.ChangeSuit_Beach",
+        "OptionFunc8": [
+            "SwitchSwimsuit"
+        ],
+        "OptionCondition8": "HasSwimwear",
+        "OptionIcon8": 1701228,
+        "OptionHasNewState8": [
+            "HasSwimwearNew"
+        ],
+        "OptionSort8": 0,
+        "OptionKey9": "house.ChangeSuit_Beach",
+        "OptionFunc9": [
+            "SwitchAreaSuit"
+        ],
+        "OptionCondition9": [
+            "HasAreaSuit",
+            [
+                90
+            ]
+        ],
+        "OptionIcon9": 1701228,
+        "OptionHasNewState9": [
+            "HasAreaSuitNew"
+        ],
+        "OptionSort9": 0
+    },
+    {
+        "NpcId": 2,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "{'HasRingStory'}|{'CheckTaskGuideShow',4}",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "{'HasAnyRandomEvent'}|{'CheckTaskGuideShow',4}",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "{'IsInBedRoom'}|{'CheckTaskGuideShow',4}",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            2
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": [
+            "CheckTaskGuideShow",
+            2
+        ],
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7
+    },
+    {
+        "NpcId": 3,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "HasRingStory",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "HasAnyRandomEvent",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "IsInBedRoom",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            3
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": "",
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7,
+        "OptionKey8": "house.SEvent",
+        "OptionFunc8": [
+            "Play2DStoryAndCompleteDecrypt",
+            8226101,
+            2
+        ],
+        "OptionCondition8": [
+            "CheckDecryptProcess",
+            2
+        ],
+        "OptionIcon8": 1701131,
+        "OptionHasNewState8": [
+            "DefaultTrue"
+        ],
+        "OptionSort8": 0,
+        "OptionKey9": "house.SEvent",
+        "OptionFunc9": [
+            "PlayNormal3DStoryAndCompleteDecrypt",
+            5,
+            5
+        ],
+        "OptionCondition9": "{'CheckNpcArea',3}|{'CheckDecryptProcess',5,6}",
+        "OptionIcon9": 1701131,
+        "OptionHasNewState9": [
+            "CheckDecryptProcess",
+            5
+        ],
+        "OptionSort9": 0,
+        "OptionKey10": "house.SEvent",
+        "OptionFunc10": [
+            "PlayNormal3DStoryAndCompleteDecrypt",
+            6,
+            6
+        ],
+        "OptionCondition10": "{'CheckNpcArea',60}|{'CheckDecryptProcess',6,48}",
+        "OptionIcon10": 1701131,
+        "OptionHasNewState10": [
+            "CheckDecryptProcess",
+            6
+        ],
+        "OptionSort10": 0,
+        "OptionKey11": "house.SEvent",
+        "OptionFunc11": [
+            "PlayNormal3DStoryAndCompleteDecrypt",
+            8,
+            8
+        ],
+        "OptionCondition11": "{'CheckNpcArea',60}|{'CheckDecryptProcess',8,9}",
+        "OptionIcon11": 1701131,
+        "OptionHasNewState11": [
+            "CheckDecryptProcess",
+            8
+        ],
+        "OptionSort11": 0,
+        "OptionKey12": "house.SEvent",
+        "OptionFunc12": [
+            "PlayNormal3DStoryAndCompleteDecrypt",
+            9,
+            9
+        ],
+        "OptionCondition12": "{'CheckNpcArea',51}|{'CheckDecryptProcess',9,10}",
+        "OptionIcon12": 1701131,
+        "OptionHasNewState12": [
+            "CheckDecryptProcess",
+            9
+        ],
+        "OptionSort12": 0,
+        "OptionKey13": "house.SEvent",
+        "OptionFunc13": [
+            "PlayNormal3DStoryAndCompleteDecrypt",
+            12,
+            12
+        ],
+        "OptionCondition13": [
+            "CheckDecryptProcess",
+            12,
+            13
+        ],
+        "OptionIcon13": 1701131,
+        "OptionHasNewState13": [
+            "CheckDecryptProcess",
+            12
+        ],
+        "OptionSort13": 0,
+        "OptionKey14": "house.SEvent",
+        "OptionFunc14": [
+            "Play2DStoryAndCompleteDecrypt",
+            8226102,
+            19
+        ],
+        "OptionCondition14": [
+            "CheckDecryptProcess",
+            19,
+            21
+        ],
+        "OptionIcon14": 1701131,
+        "OptionHasNewState14": [
+            "CheckDecryptProcess",
+            19
+        ],
+        "OptionSort14": 0,
+        "OptionKey15": "house.SEvent",
+        "OptionFunc15": [
+            "PlayNormal3DStoryAndCompleteDecrypt",
+            44,
+            44
+        ],
+        "OptionCondition15": [
+            "CheckDecryptProcess",
+            44,
+            45
+        ],
+        "OptionIcon15": 1701131,
+        "OptionHasNewState15": [
+            "CheckDecryptProcess",
+            44
+        ],
+        "OptionSort15": 0,
+        "OptionKey16": "house.SEvent",
+        "OptionFunc16": [
+            "PlayNormal3DStoryAndCompleteDecrypt",
+            3,
+            3
+        ],
+        "OptionCondition16": "{'CheckNpcArea',3}|{'CheckDecryptProcess',3,4}",
+        "OptionIcon16": 1701131,
+        "OptionHasNewState16": [
+            "CheckDecryptProcess",
+            3
+        ],
+        "OptionSort16": 0,
+        "OptionKey17": "house.SEvent",
+        "OptionFunc17": [
+            "Play2DStoryAndCompleteDecrypt",
+            8226301,
+            47
+        ],
+        "OptionCondition17": [
+            "CheckDecryptProcess",
+            47
+        ],
+        "OptionIcon17": 1701131,
+        "OptionHasNewState17": [
+            "DefaultTrue"
+        ],
+        "OptionSort17": 0
+    },
+    {
+        "NpcId": 4,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "HasRingStory",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 2,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "HasAnyRandomEvent",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 3,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 4,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "IsInBedRoom",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 5,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            4
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 6,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": "",
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 7,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 8,
+        "OptionKey8": "ui.TxtPiecesPleaseButton",
+        "OptionFunc8": [
+            "DoCollectChip"
+        ],
+        "OptionCondition8": "{'HasCollectChip'}|{'CheckTaskGuideShow',6}",
+        "OptionIcon8": 1701334,
+        "OptionHasNewState8": [
+            "HasCollectChip"
+        ],
+        "OptionSort8": 0
+    },
+    {
+        "NpcId": 5,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "HasRingStory",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "HasAnyRandomEvent",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "IsInBedRoom",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            5
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": "",
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7,
+        "OptionKey8": "house.SEvent",
+        "OptionFunc8": [
+            "PlayNormal3DStoryAndCompleteDecrypt",
+            24,
+            24
+        ],
+        "OptionCondition8": [
+            "CheckDecryptProcess",
+            24,
+            25
+        ],
+        "OptionIcon8": 1701131,
+        "OptionHasNewState8": [
+            "CheckDecryptProcess",
+            24
+        ],
+        "OptionSort8": 0,
+        "OptionKey9": "house.ChangeSuit_Beach",
+        "OptionFunc9": [
+            "SwitchAreaSuit"
+        ],
+        "OptionCondition9": [
+            "HasAreaSuit",
+            [
+                90
+            ]
+        ],
+        "OptionIcon9": 1701228,
+        "OptionHasNewState9": [
+            "HasAreaSuitNew"
+        ],
+        "OptionSort9": 0
+    },
+    {
+        "NpcId": 6,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "HasRingStory",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "HasAnyRandomEvent",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "IsInBedRoom",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            6
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": "",
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7
+    },
+    {
+        "NpcId": 7,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "HasRingStory",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "HasAnyRandomEvent",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "IsInBedRoom",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            7
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": "",
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7
+    },
+    {
+        "NpcId": 8,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "{'HasRingStory'}|{'CheckTaskGuideShow',5}",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "{'HasAnyRandomEvent'}|{'CheckTaskGuideShow',5}",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "{'IsInBedRoom'}|{'CheckTaskGuideShow',5}",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            8
+        ],
+        "OptionCondition5": "{'IsGirlLiveIn'}|{'CheckTaskGuideShow',4}",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": [
+            "CheckTaskGuideShow",
+            4
+        ],
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7,
+        "OptionKey8": "house.ChangeSuit_Beach",
+        "OptionFunc8": [
+            "SwitchSwimsuit"
+        ],
+        "OptionCondition8": "HasSwimwear",
+        "OptionIcon8": 1701228,
+        "OptionHasNewState8": [
+            "HasSwimwearNew"
+        ],
+        "OptionSort8": 0
+    },
+    {
+        "NpcId": 10,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "HasRingStory",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "HasAnyRandomEvent",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "IsInBedRoom",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            10
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": "",
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7,
+        "OptionKey8": "house.SEvent",
+        "OptionFunc8": [
+            "PlayNormal3DStoryAndCompleteDecrypt",
+            31,
+            31
+        ],
+        "OptionCondition8": [
+            "CheckDecryptProcess",
+            31,
+            32
+        ],
+        "OptionIcon8": 1701131,
+        "OptionHasNewState8": [
+            "CheckDecryptProcess",
+            31
+        ],
+        "OptionSort8": 0,
+        "OptionKey9": "house.ChangeSuit_Beach",
+        "OptionFunc9": [
+            "SwitchAreaSuit"
+        ],
+        "OptionCondition9": [
+            "HasAreaSuit",
+            [
+                90
+            ]
+        ],
+        "OptionIcon9": 1701228,
+        "OptionHasNewState9": [
+            "HasAreaSuitNew"
+        ],
+        "OptionSort9": 0
+    },
+    {
+        "NpcId": 11,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "HasRingStory",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "HasAnyRandomEvent",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "IsInBedRoom",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            11
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": "",
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7
+    },
+    {
+        "NpcId": 12,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "HasRingStory",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "HasAnyRandomEvent",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "IsInBedRoom",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            12
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": "",
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7
+    },
+    {
+        "NpcId": 13,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "HasRingStory",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "HasAnyRandomEvent",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "IsInBedRoom",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            13
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": "",
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7,
+        "OptionKey8": "house.ChangeSuit_Beach",
+        "OptionFunc8": [
+            "SwitchSwimsuit"
+        ],
+        "OptionCondition8": "HasSwimwear",
+        "OptionIcon8": 1701228,
+        "OptionHasNewState8": "",
+        "OptionSort8": 0,
+        "OptionKey9": "house.ChangeSuit_Beach",
+        "OptionFunc9": [
+            "SwitchAreaSuit"
+        ],
+        "OptionCondition9": [
+            "HasAreaSuit",
+            [
+                90
+            ]
+        ],
+        "OptionIcon9": 1701228,
+        "OptionHasNewState9": [
+            "HasAreaSuitNew"
+        ],
+        "OptionSort9": 0
+    },
+    {
+        "NpcId": 14,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "HasRingStory",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "HasAnyRandomEvent",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "IsInBedRoom",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            14
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": "",
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7,
+        "OptionKey8": "house.SEvent",
+        "OptionFunc8": [
+            "PlayNormal3DStoryAndCompleteDecrypt",
+            27,
+            27
+        ],
+        "OptionCondition8": [
+            "CheckDecryptProcess",
+            27,
+            28
+        ],
+        "OptionIcon8": 1701131,
+        "OptionHasNewState8": [
+            "CheckDecryptProcess",
+            27
+        ],
+        "OptionSort8": 0
+    },
+    {
+        "NpcId": 15,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "HasRingStory",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "HasAnyRandomEvent",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "IsInBedRoom",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            15
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": "",
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7
+    },
+    {
+        "NpcId": 16,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "HasRingStory",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "HasAnyRandomEvent",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "IsInBedRoom",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            16
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": "",
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7
+    },
+    {
+        "NpcId": 17,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "HasRingStory",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "HasAnyRandomEvent",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "IsInBedRoom",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            17
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": "",
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7
+    },
+    {
+        "NpcId": 18,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "HasRingStory",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "HasAnyRandomEvent",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "IsInBedRoom",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            18
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": "",
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7,
+        "OptionKey8": "house.ChangeSuit_Beach",
+        "OptionFunc8": [
+            "SwitchSwimsuit"
+        ],
+        "OptionCondition8": "HasSwimwear",
+        "OptionIcon8": 1701228,
+        "OptionHasNewState8": [
+            "HasSwimwearNew"
+        ],
+        "OptionSort8": 0
+    },
+    {
+        "NpcId": 20,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "HasRingStory",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "HasAnyRandomEvent",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "IsInBedRoom",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            20
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": "",
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7
+    },
+    {
+        "NpcId": 21,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "HasRingStory",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "HasAnyRandomEvent",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "IsInBedRoom",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            21
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": "",
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7,
+        "OptionKey8": "house.ChangeSuit_Beach",
+        "OptionFunc8": [
+            "SwitchSwimsuit"
+        ],
+        "OptionCondition8": "HasSwimwear",
+        "OptionIcon8": 1701228,
+        "OptionHasNewState8": [
+            "HasSwimwearNew"
+        ],
+        "OptionSort8": 0
+    },
+    {
+        "NpcId": 22,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "HasRingStory",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "HasAnyRandomEvent",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "IsInBedRoom",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            22
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": "",
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7
+    },
+    {
+        "NpcId": 23,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "HasRingStory",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "HasAnyRandomEvent",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "IsInBedRoom",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            23
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": "",
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7,
+        "OptionKey8": "house.ChangeSuit_Beach",
+        "OptionFunc8": [
+            "SwitchAreaSuit"
+        ],
+        "OptionCondition8": [
+            "HasAreaSuit",
+            [
+                90
+            ]
+        ],
+        "OptionIcon8": 1701228,
+        "OptionHasNewState8": [
+            "HasAreaSuitNew"
+        ],
+        "OptionSort8": 0
+    },
+    {
+        "NpcId": 24,
+        "OptionKey1": "house.RingStory",
+        "OptionFunc1": [
+            "PlayRingStory"
+        ],
+        "OptionCondition1": "HasRingStory",
+        "OptionIcon1": 1701264,
+        "OptionHasNewState1": [
+            "HasRingStory"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.RandomEvent",
+        "OptionFunc2": [
+            "RandomEvent"
+        ],
+        "OptionCondition2": "HasAnyRandomEvent",
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": "",
+        "OptionSort2": 2,
+        "OptionKey3": "house.InRoom.key",
+        "OptionFunc3": [
+            "LetTalkGirlToBedRoom"
+        ],
+        "OptionCondition3": "CanInviteToRoom",
+        "OptionIcon3": 1701274,
+        "OptionHasNewState3": "",
+        "OptionSort3": 3,
+        "OptionKey4": "house.SwitchAction",
+        "OptionFunc4": [
+            "SwitchInteractFur"
+        ],
+        "OptionCondition4": "IsInBedRoom",
+        "OptionIcon4": 1701217,
+        "OptionHasNewState4": "",
+        "OptionSort4": 4,
+        "OptionKey5": "house.GiftSend",
+        "OptionFunc5": [
+            "ShowGiftUI",
+            24
+        ],
+        "OptionCondition5": "IsGirlLiveIn",
+        "OptionIcon5": 1701132,
+        "OptionHasNewState5": [
+            "HaveGiftToSend"
+        ],
+        "OptionSort5": 5,
+        "OptionKey6": "house.LoveStory",
+        "OptionFunc6": [
+            "ShowPlotUI"
+        ],
+        "OptionCondition6": "",
+        "OptionIcon6": 1701160,
+        "OptionHasNewState6": [
+            "HaveLoveStoryUnRead"
+        ],
+        "OptionSort6": 6,
+        "OptionKey7": "house.Bye",
+        "OptionFunc7": [
+            "SayBye"
+        ],
+        "OptionCondition7": "",
+        "OptionIcon7": 1701185,
+        "OptionHasNewState7": "",
+        "OptionSort7": 7
+    },
+    {
+        "NpcId": 101,
+        "OptionKey1": "house.puzzleentry",
+        "OptionFunc1": [
+            "ShowPuzzleMap"
+        ],
+        "OptionCondition1": [
+            "CheckTaskGuideShow",
+            6
+        ],
+        "OptionIcon1": 1701173,
+        "OptionHasNewState1": [
+            "HaventOpenPuzzleThisWeek"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.clipgive",
+        "OptionFunc2": [
+            "ShowClipGiveSend"
+        ],
+        "OptionCondition2": [
+            "CheckTaskGuideShow",
+            7
+        ],
+        "OptionIcon2": 1701176,
+        "OptionHasNewState2": [
+            "HaveFriendClipToGet"
+        ],
+        "OptionSort2": 4,
+        "OptionKey3": "house.cliprecovery",
+        "OptionFunc3": [
+            "ShowHouseClipSell"
+        ],
+        "OptionCondition3": [
+            "CheckTaskGuideShow",
+            7
+        ],
+        "OptionIcon3": 1701174,
+        "OptionHasNewState3": "",
+        "OptionSort3": 5,
+        "OptionKey4": "house.Bye",
+        "OptionFunc4": [
+            "SayBye"
+        ],
+        "OptionCondition4": "",
+        "OptionIcon4": 1701185,
+        "OptionHasNewState4": "",
+        "OptionSort4": 6,
+        "OptionKey5": "house.SEvent",
+        "OptionFunc5": [
+            "PlayNormal3DStoryAndCompleteDecrypt",
+            10,
+            10
+        ],
+        "OptionCondition5": [
+            "CheckDecryptProcess",
+            10,
+            11
+        ],
+        "OptionIcon5": 1701131,
+        "OptionHasNewState5": [
+            "CheckDecryptProcess",
+            10
+        ],
+        "OptionSort5": 2,
+        "OptionKey6": "house.clipgetall",
+        "OptionFunc6": [
+            "DoCollectChip"
+        ],
+        "OptionCondition6": "{'HasCollectChip'}|{'CheckTaskGuideShow',5}",
+        "OptionIcon6": 1701334,
+        "OptionHasNewState6": [
+            "HasCollectChip"
+        ],
+        "OptionSort6": 3,
+        "OptionKey7": "starwish.Option5",
+        "OptionFunc7": [
+            "PlayNormal3DStoryAndCompleteStarWishQuest",
+            2101,
+            101
+        ],
+        "OptionCondition7": [
+            "CheckStarWishProcess",
+            101
+        ],
+        "OptionIcon7": 1701458,
+        "OptionHasNewState7": [
+            "CheckStarWishProcess",
+            101
+        ],
+        "OptionSort7": 7,
+        "OptionKey8": "starwish.Option5",
+        "OptionFunc8": [
+            "PlayNormal3DStoryAndCompleteStarWishQuest",
+            2401,
+            401
+        ],
+        "OptionCondition8": [
+            "CheckStarWishProcess",
+            401
+        ],
+        "OptionIcon8": 1701458,
+        "OptionHasNewState8": [
+            "CheckStarWishProcess",
+            401
+        ],
+        "OptionSort8": 7
+    },
+    {
+        "NpcId": 103,
+        "OptionKey1": "house.puzzleentry",
+        "OptionFunc1": [
+            "ShowPuzzleMap"
+        ],
+        "OptionCondition1": [
+            "CheckTaskGuideShow",
+            6
+        ],
+        "OptionIcon1": 1701173,
+        "OptionHasNewState1": [
+            "HaventOpenPuzzleThisWeek"
+        ],
+        "OptionSort1": 1,
+        "OptionKey2": "house.clipgive",
+        "OptionFunc2": [
+            "ShowClipGiveSend"
+        ],
+        "OptionCondition2": [
+            "CheckTaskGuideShow",
+            7
+        ],
+        "OptionIcon2": 1701176,
+        "OptionHasNewState2": [
+            "HaveFriendClipToGet"
+        ],
+        "OptionSort2": 4,
+        "OptionKey3": "house.cliprecovery",
+        "OptionFunc3": [
+            "ShowHouseClipSell"
+        ],
+        "OptionCondition3": [
+            "CheckTaskGuideShow",
+            7
+        ],
+        "OptionIcon3": 1701174,
+        "OptionHasNewState3": "",
+        "OptionSort3": 5,
+        "OptionKey4": "house.Bye",
+        "OptionFunc4": [
+            "SayBye"
+        ],
+        "OptionCondition4": "",
+        "OptionIcon4": 1701185,
+        "OptionHasNewState4": "",
+        "OptionSort4": 6,
+        "OptionKey5": "house.SEvent",
+        "OptionFunc5": [
+            "PlayNormal3DStoryAndCompleteDecrypt",
+            10,
+            10
+        ],
+        "OptionCondition5": [
+            "CheckDecryptProcess",
+            10,
+            11
+        ],
+        "OptionIcon5": 1701131,
+        "OptionHasNewState5": [
+            "CheckDecryptProcess",
+            10
+        ],
+        "OptionSort5": 2,
+        "OptionKey6": "house.clipgetall",
+        "OptionFunc6": [
+            "DoCollectChip"
+        ],
+        "OptionCondition6": "{'HasCollectChip'}|{'CheckTaskGuideShow',5}",
+        "OptionIcon6": 1701334,
+        "OptionHasNewState6": [
+            "HasCollectChip"
+        ],
+        "OptionSort6": 3
+    },
+    {
+        "NpcId": 201,
+        "OptionKey1": "house.Bye",
+        "OptionFunc1": [
+            "SayBye"
+        ],
+        "OptionCondition1": "",
+        "OptionIcon1": 1701185,
+        "OptionHasNewState1": "",
+        "OptionSort1": 1,
+        "OptionKey2": "house.SEvent",
+        "OptionFunc2": [
+            "DoCheckDecrypt16Complete",
+            16,
+            163,
+            3
+        ],
+        "OptionCondition2": [
+            "HasDecryptTalk",
+            16,
+            3
+        ],
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": [
+            "DefaultTrue"
+        ],
+        "OptionSort2": 0
+    },
+    {
+        "NpcId": 202,
+        "OptionKey1": "house.Bye",
+        "OptionFunc1": [
+            "SayBye"
+        ],
+        "OptionCondition1": "",
+        "OptionIcon1": 1701185,
+        "OptionHasNewState1": "",
+        "OptionSort1": 1,
+        "OptionKey2": "house.SEvent",
+        "OptionFunc2": [
+            "DoCheckDecrypt16Complete",
+            16,
+            164,
+            4
+        ],
+        "OptionCondition2": [
+            "HasDecryptTalk",
+            16,
+            4
+        ],
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": [
+            "DefaultTrue"
+        ],
+        "OptionSort2": 0
+    },
+    {
+        "NpcId": 203,
+        "OptionKey1": "house.Bye",
+        "OptionFunc1": [
+            "SayBye"
+        ],
+        "OptionCondition1": "",
+        "OptionIcon1": 1701185,
+        "OptionHasNewState1": "",
+        "OptionSort1": 1,
+        "OptionKey2": "house.SEvent",
+        "OptionFunc2": [
+            "DoCheckDecrypt16Complete",
+            16,
+            161,
+            1
+        ],
+        "OptionCondition2": [
+            "HasDecryptTalk",
+            16,
+            1
+        ],
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": [
+            "DefaultTrue"
+        ],
+        "OptionSort2": 0
+    },
+    {
+        "NpcId": 204,
+        "OptionKey1": "house.Bye",
+        "OptionFunc1": [
+            "SayBye"
+        ],
+        "OptionCondition1": "",
+        "OptionIcon1": 1701185,
+        "OptionHasNewState1": "",
+        "OptionSort1": 1
+    },
+    {
+        "NpcId": 205,
+        "OptionKey1": "house.Bye",
+        "OptionFunc1": [
+            "SayBye"
+        ],
+        "OptionCondition1": "",
+        "OptionIcon1": 1701185,
+        "OptionHasNewState1": "",
+        "OptionSort1": 1,
+        "OptionKey2": "house.SEvent",
+        "OptionFunc2": [
+            "DoCheckDecrypt16Complete",
+            16,
+            162,
+            2
+        ],
+        "OptionCondition2": [
+            "HasDecryptTalk",
+            16,
+            2
+        ],
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": [
+            "DefaultTrue"
+        ],
+        "OptionSort2": 0
+    },
+    {
+        "NpcId": 206,
+        "OptionKey1": "house.Bye",
+        "OptionFunc1": [
+            "SayBye"
+        ],
+        "OptionCondition1": "",
+        "OptionIcon1": 1701185,
+        "OptionHasNewState1": "",
+        "OptionSort1": 1
+    },
+    {
+        "NpcId": 207,
+        "OptionKey1": "house.Bye",
+        "OptionFunc1": [
+            "SayBye"
+        ],
+        "OptionCondition1": "",
+        "OptionIcon1": 1701185,
+        "OptionHasNewState1": "",
+        "OptionSort1": 1,
+        "OptionKey2": "house.SEvent",
+        "OptionFunc2": [
+            "DoCheckDecrypt16Complete",
+            16,
+            165,
+            5
+        ],
+        "OptionCondition2": [
+            "HasDecryptTalk",
+            16,
+            5
+        ],
+        "OptionIcon2": 1701131,
+        "OptionHasNewState2": [
+            "DefaultTrue"
+        ],
+        "OptionSort2": 0
+    }
+]

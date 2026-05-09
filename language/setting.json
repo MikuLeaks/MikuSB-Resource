@@ -1,0 +1,1728 @@
+[
+    {
+        "Key": "low",
+        "zh_CN": "低",
+        "disable": 0
+    },
+    {
+        "Key": "middle",
+        "zh_CN": "中",
+        "disable": 0
+    },
+    {
+        "Key": "high",
+        "zh_CN": "高",
+        "disable": 0
+    },
+    {
+        "Key": "extra_high",
+        "zh_CN": "极高",
+        "disable": 0
+    },
+    {
+        "Key": "open",
+        "zh_CN": "开启",
+        "disable": 0
+    },
+    {
+        "Key": "close",
+        "zh_CN": "关闭",
+        "disable": 0
+    },
+    {
+        "Key": "normal",
+        "zh_CN": "普通",
+        "disable": 0
+    },
+    {
+        "Key": "advanced",
+        "zh_CN": "高级",
+        "disable": 0
+    },
+    {
+        "Key": "definition",
+        "zh_CN": "画面清晰度",
+        "disable": 0
+    },
+    {
+        "Key": "effect",
+        "zh_CN": "视觉效果",
+        "disable": 0
+    },
+    {
+        "Key": "shadow",
+        "zh_CN": "阴影质量",
+        "disable": 0
+    },
+    {
+        "Key": "jag",
+        "zh_CN": "抗锯齿",
+        "disable": 0
+    },
+    {
+        "Key": "resolution",
+        "zh_CN": "分辨率",
+        "disable": 0
+    },
+    {
+        "Key": "fps",
+        "zh_CN": "帧率上限",
+        "disable": 0
+    },
+    {
+        "Key": "mirror",
+        "zh_CN": "实时反射",
+        "disable": 0
+    },
+    {
+        "Key": "post",
+        "zh_CN": "后期效果",
+        "disable": 0
+    },
+    {
+        "Key": "glow",
+        "zh_CN": "辉光",
+        "disable": 0
+    },
+    {
+        "Key": "wrap",
+        "zh_CN": "扭曲",
+        "disable": 0
+    },
+    {
+        "Key": "depath",
+        "zh_CN": "景深",
+        "disable": 0
+    },
+    {
+        "Key": "blur",
+        "zh_CN": "动态模糊",
+        "disable": 0
+    },
+    {
+        "Key": "two",
+        "zh_CN": "2倍",
+        "disable": 0
+    },
+    {
+        "Key": "four",
+        "zh_CN": "4倍",
+        "disable": 0
+    },
+    {
+        "Key": "eight",
+        "zh_CN": "8倍",
+        "disable": 0
+    },
+    {
+        "Key": "fps1",
+        "zh_CN": 30,
+        "disable": 0
+    },
+    {
+        "Key": "fps2",
+        "zh_CN": 45,
+        "disable": 0
+    },
+    {
+        "Key": "fps3",
+        "zh_CN": 60,
+        "disable": 0
+    },
+    {
+        "Key": "fps4",
+        "zh_CN": 90,
+        "disable": 0
+    },
+    {
+        "Key": "fps5",
+        "zh_CN": 120,
+        "disable": 0
+    },
+    {
+        "Key": "img_quality",
+        "zh_CN": "图像质量",
+        "disable": 0
+    },
+    {
+        "Key": "language_select",
+        "zh_CN": "语音语言选择",
+        "disable": 0
+    },
+    {
+        "Key": "zh_CN",
+        "zh_CN": "简体中文",
+        "disable": 0
+    },
+    {
+        "Key": "ja_JP",
+        "zh_CN": "繁體中文",
+        "disable": 0
+    },
+    {
+        "Key": "zh_TW",
+        "zh_CN": "日本語",
+        "disable": 0
+    },
+    {
+        "Key": "ko_KR",
+        "zh_CN": "한국어",
+        "disable": 0
+    },
+    {
+        "Key": "en_US",
+        "zh_CN": "English",
+        "disable": 0
+    },
+    {
+        "Key": "de_DE",
+        "zh_CN": "Deutsch",
+        "disable": 0
+    },
+    {
+        "Key": "es_ES",
+        "zh_CN": "Español",
+        "disable": 0
+    },
+    {
+        "Key": "fr_FR",
+        "zh_CN": "Français",
+        "disable": 0
+    },
+    {
+        "Key": "th_TH",
+        "zh_CN": "ไทย",
+        "disable": 0
+    },
+    {
+        "Key": "id_ID",
+        "zh_CN": "Bahasa Indonesia",
+        "disable": 0
+    },
+    {
+        "Key": 1003050,
+        "zh_CN": "中文-普通话",
+        "disable": 0
+    },
+    {
+        "Key": 1003039,
+        "zh_CN": "日语",
+        "disable": 0
+    },
+    {
+        "Key": 1003038,
+        "zh_CN": "英语",
+        "disable": 0
+    },
+    {
+        "Key": 1003040,
+        "zh_CN": "韩语",
+        "disable": 0
+    },
+    {
+        "Key": "font_size",
+        "zh_CN": "提示字大小",
+        "disable": 0
+    },
+    {
+        "Key": "general",
+        "zh_CN": "正常",
+        "disable": 0
+    },
+    {
+        "Key": "small",
+        "zh_CN": "小",
+        "disable": 0
+    },
+    {
+        "Key": "operation_setting",
+        "zh_CN": "操作设置",
+        "disable": 0
+    },
+    {
+        "Key": "frame_setting",
+        "zh_CN": "画面设置",
+        "disable": 0
+    },
+    {
+        "Key": "sounds_setting",
+        "zh_CN": "声音设置",
+        "disable": 0
+    },
+    {
+        "Key": "other_setting",
+        "zh_CN": "其他设置",
+        "disable": 0
+    },
+    {
+        "Key": "sensitivity_setting",
+        "zh_CN": "灵敏度设置",
+        "disable": 0
+    },
+    {
+        "Key": "basis_setting",
+        "zh_CN": "基础设置",
+        "disable": 0
+    },
+    {
+        "Key": "push_setting",
+        "zh_CN": "推送设置",
+        "disable": 0
+    },
+    {
+        "Key": "gameplay_setting",
+        "zh_CN": "游戏性设置",
+        "disable": 0
+    },
+    {
+        "Key": "mouse_setting",
+        "zh_CN": "鼠标设置",
+        "disable": 0
+    },
+    {
+        "Key": "operation_setting_en",
+        "zh_CN": "OPERATION SETTING",
+        "disable": 0
+    },
+    {
+        "Key": "frame_setting_en",
+        "zh_CN": "GRAPHICS SETTING",
+        "disable": 0
+    },
+    {
+        "Key": "sounds_setting_en",
+        "zh_CN": "SOUND SETTING",
+        "disable": 0
+    },
+    {
+        "Key": "other_setting_en",
+        "zh_CN": "OTHER SETTING",
+        "disable": 0
+    },
+    {
+        "Key": "sound_role",
+        "zh_CN": "语音",
+        "disable": 0
+    },
+    {
+        "Key": "music_game",
+        "zh_CN": "音乐",
+        "disable": 0
+    },
+    {
+        "Key": "sounds_game",
+        "zh_CN": "音效",
+        "disable": 0
+    },
+    {
+        "Key": "pc_slide",
+        "zh_CN": "鼠标灵敏度",
+        "disable": 0
+    },
+    {
+        "Key": "slide",
+        "zh_CN": "转向灵敏度",
+        "disable": 0
+    },
+    {
+        "Key": "aim_fire",
+        "zh_CN": "瞄准开火",
+        "disable": 0
+    },
+    {
+        "Key": "aim",
+        "zh_CN": "瞄准灵敏度",
+        "disable": 0
+    },
+    {
+        "Key": "fire",
+        "zh_CN": "开火",
+        "disable": 0
+    },
+    {
+        "Key": "skill",
+        "zh_CN": "技能",
+        "disable": 0
+    },
+    {
+        "Key": "acc",
+        "zh_CN": "加速度",
+        "disable": 0
+    },
+    {
+        "Key": "awm_aim_slide",
+        "zh_CN": "狙击开镜灵敏度",
+        "disable": 0
+    },
+    {
+        "Key": "custom",
+        "zh_CN": "自定义",
+        "disable": 0
+    },
+    {
+        "Key": "BBBS_mode",
+        "zh_CN": "游戏射击模式",
+        "disable": 0
+    },
+    {
+        "Key": "BBBStype1",
+        "zh_CN": "智能瞄准",
+        "disable": 0
+    },
+    {
+        "Key": "BBBStype2",
+        "zh_CN": "普通瞄准",
+        "disable": 0
+    },
+    {
+        "Key": "aim_assist_strength",
+        "zh_CN": "辅助瞄准",
+        "disable": 0
+    },
+    {
+        "Key": "crosshair_adsorb",
+        "zh_CN": "准心吸附",
+        "disable": 0
+    },
+    {
+        "Key": "crosshair_force",
+        "zh_CN": "瞄准矫正",
+        "disable": 0
+    },
+    {
+        "Key": "strong",
+        "zh_CN": "强",
+        "disable": 0
+    },
+    {
+        "Key": "weak",
+        "zh_CN": "弱",
+        "disable": 0
+    },
+    {
+        "Key": "skill_frame",
+        "zh_CN": "技能锁定提示",
+        "disable": 0
+    },
+    {
+        "Key": "Auto_Fire",
+        "zh_CN": "长按开火键可持续开火",
+        "disable": 0
+    },
+    {
+        "Key": "keyboard",
+        "zh_CN": "键鼠设置",
+        "disable": 0
+    },
+    {
+        "Key": "protocolTitle",
+        "zh_CN": "账号相关",
+        "disable": 0
+    },
+    {
+        "Key": "protocolBtn1",
+        "zh_CN": "用户协议",
+        "disable": 0
+    },
+    {
+        "Key": "protocolBtn2",
+        "zh_CN": "隐私政策",
+        "disable": 0
+    },
+    {
+        "Key": "protocolBtn3",
+        "zh_CN": "儿童隐私协议",
+        "disable": 0
+    },
+    {
+        "Key": "protocolBtn4",
+        "zh_CN": "测试协议",
+        "disable": 0
+    },
+    {
+        "Key": "gyroscope_aim",
+        "zh_CN": "陀螺仪模式",
+        "disable": 0
+    },
+    {
+        "Key": "gyroscope_invert",
+        "zh_CN": "陀螺仪反转",
+        "disable": 0
+    },
+    {
+        "Key": "damage_show",
+        "zh_CN": "显示伤害数字",
+        "disable": 0
+    },
+    {
+        "Key": "pc_mouse_invert",
+        "zh_CN": "鼠标反转",
+        "disable": 0
+    },
+    {
+        "Key": "gyroscope_scale",
+        "zh_CN": "陀螺仪灵敏度",
+        "disable": 0
+    },
+    {
+        "Key": "invertX",
+        "zh_CN": "反转横轴",
+        "disable": 0
+    },
+    {
+        "Key": "invertY",
+        "zh_CN": "反转纵轴",
+        "disable": 0
+    },
+    {
+        "Key": "invertXY",
+        "zh_CN": "都反转",
+        "disable": 0
+    },
+    {
+        "Key": "fight_broadcast",
+        "zh_CN": "战斗中通知显示",
+        "disable": 0
+    },
+    {
+        "Key": "joystic_fixed",
+        "zh_CN": "固定摇杆",
+        "disable": 0
+    },
+    {
+        "Key": "skill_range",
+        "zh_CN": "技能范围提示",
+        "disable": 0
+    },
+    {
+        "Key": "skill_tip",
+        "zh_CN": "技能范围提示方式",
+        "disable": 0
+    },
+    {
+        "Key": "click",
+        "zh_CN": "单击按键",
+        "disable": 0
+    },
+    {
+        "Key": "press",
+        "zh_CN": "持续按键",
+        "disable": 0
+    },
+    {
+        "Key": "sounds_game_volume",
+        "zh_CN": "总音量",
+        "disable": 0
+    },
+    {
+        "Key": "sounds_game_quality",
+        "zh_CN": "音效品质",
+        "disable": 0
+    },
+    {
+        "Key": "sounds_game_effects",
+        "zh_CN": "低弹量音效",
+        "disable": 0
+    },
+    {
+        "Key": "notice_disturb",
+        "zh_CN": "公告弹出",
+        "disable": 0
+    },
+    {
+        "Key": "notice_login",
+        "zh_CN": "每日首次登录时",
+        "disable": 0
+    },
+    {
+        "Key": "notice_new",
+        "zh_CN": "仅新公告时",
+        "disable": 0
+    },
+    {
+        "Key": "shoot_auto",
+        "zh_CN": "自动射击",
+        "disable": 0
+    },
+    {
+        "Key": "shoot_auto_bunker",
+        "zh_CN": "躲在掩体后自动射击",
+        "disable": 0
+    },
+    {
+        "Key": "shoot_auto_guntype",
+        "zh_CN": "自动射击枪械类型",
+        "disable": 0
+    },
+    {
+        "Key": "shoot_auto_explosive",
+        "zh_CN": "自动射击可破坏物品",
+        "disable": 0
+    },
+    {
+        "Key": "guntype1",
+        "zh_CN": "手枪",
+        "disable": 0
+    },
+    {
+        "Key": "guntype2",
+        "zh_CN": "冲锋枪",
+        "disable": 0
+    },
+    {
+        "Key": "guntype3",
+        "zh_CN": "突击步枪",
+        "disable": 0
+    },
+    {
+        "Key": "guntype4",
+        "zh_CN": "狙击枪",
+        "disable": 0
+    },
+    {
+        "Key": "guntype5",
+        "zh_CN": "霰弹枪",
+        "disable": 0
+    },
+    {
+        "Key": "guntype6",
+        "zh_CN": "弩",
+        "disable": 0
+    },
+    {
+        "Key": "guntype7",
+        "zh_CN": "双枪·冲锋枪",
+        "disable": 0
+    },
+    {
+        "Key": "guntype8",
+        "zh_CN": "弓",
+        "disable": 0
+    },
+    {
+        "Key": "guntype9",
+        "zh_CN": "格林机枪",
+        "disable": 0
+    },
+    {
+        "Key": "guntype10",
+        "zh_CN": "飞剑",
+        "disable": 0
+    },
+    {
+        "Key": "smart_casting",
+        "zh_CN": "释放技能辅助（使用手柄时，本功能无法关闭）",
+        "disable": 0
+    },
+    {
+        "Key": "sniper_fire",
+        "zh_CN": "狙击枪击发方式",
+        "disable": 0
+    },
+    {
+        "Key": "shot_gun_fire",
+        "zh_CN": "霰弹枪击发方式",
+        "disable": 0
+    },
+    {
+        "Key": "pisto_fire",
+        "zh_CN": "手枪击发方式",
+        "disable": 0
+    },
+    {
+        "Key": "mix_aim",
+        "zh_CN": "混合射击按钮",
+        "disable": 0
+    },
+    {
+        "Key": "left_hand_fire",
+        "zh_CN": "显示左手开火",
+        "disable": 0
+    },
+    {
+        "Key": "aim_swerve",
+        "zh_CN": "瞄准按钮转向",
+        "disable": 0
+    },
+    {
+        "Key": "aim_model",
+        "zh_CN": "瞄准方式",
+        "disable": 0
+    },
+    {
+        "Key": "fire_adsorb",
+        "zh_CN": "开火吸附",
+        "disable": 0
+    },
+    {
+        "Key": "sniper_slide",
+        "zh_CN": "狙击枪瞄准灵敏度",
+        "disable": 0
+    },
+    {
+        "Key": "null",
+        "zh_CN": "无",
+        "disable": 0
+    },
+    {
+        "Key": "after_aim",
+        "zh_CN": "只在瞄准后开火",
+        "disable": 0
+    },
+    {
+        "Key": "meantime_aim",
+        "zh_CN": "进瞄准同时开火",
+        "disable": 0
+    },
+    {
+        "Key": "mix",
+        "zh_CN": "混合",
+        "disable": 0
+    },
+    {
+        "Key": "permanent_show",
+        "zh_CN": "常驻显示",
+        "disable": 0
+    },
+    {
+        "Key": "normal_show",
+        "zh_CN": "常驻开启",
+        "disable": 0
+    },
+    {
+        "Key": "aim_show",
+        "zh_CN": "开镜开启",
+        "disable": 0
+    },
+    {
+        "Key": "bunker_show",
+        "zh_CN": "掩体内开启",
+        "disable": 0
+    },
+    {
+        "Key": "display_none",
+        "zh_CN": "不显示",
+        "disable": 0
+    },
+    {
+        "Key": "click_switch_aim",
+        "zh_CN": "切换瞄准",
+        "disable": 0
+    },
+    {
+        "Key": "long_press_aim",
+        "zh_CN": "按住瞄准",
+        "disable": 0
+    },
+    {
+        "Key": "mix_effect",
+        "zh_CN": "混合瞄准",
+        "disable": 0
+    },
+    {
+        "Key": "shot_auto",
+        "zh_CN": "自动射击",
+        "disable": 0
+    },
+    {
+        "Key": "shot_hand",
+        "zh_CN": "手动射击",
+        "disable": 0
+    },
+    {
+        "Key": "press_fire",
+        "zh_CN": "按下开火",
+        "disable": 0
+    },
+    {
+        "Key": "release_fire",
+        "zh_CN": "松手开火",
+        "disable": 0
+    },
+    {
+        "Key": "only_aim_open",
+        "zh_CN": "开镜开启",
+        "disable": 0
+    },
+    {
+        "Key": "always_open",
+        "zh_CN": "始终开启",
+        "disable": 0
+    },
+    {
+        "Key": "turning_accelerate",
+        "zh_CN": "转向加速度",
+        "disable": 0
+    },
+    {
+        "Key": "rush_model",
+        "zh_CN": "疾跑方式",
+        "disable": 0
+    },
+    {
+        "Key": "autorush_model",
+        "zh_CN": "自动疾跑",
+        "disable": 0
+    },
+    {
+        "Key": "rush_press",
+        "zh_CN": "按住疾跑",
+        "disable": 0
+    },
+    {
+        "Key": "rush_switch",
+        "zh_CN": "切换疾跑",
+        "disable": 0
+    },
+    {
+        "Key": "boomwarn",
+        "zh_CN": "显示炸药桶预警圈",
+        "disable": 0
+    },
+    {
+        "Key": "protocolBtn5",
+        "zh_CN": "游戏使用协议",
+        "disable": 0
+    },
+    {
+        "Key": "protocolBtn6",
+        "zh_CN": "《尘白禁区》第三方SDK列表",
+        "disable": 0
+    },
+    {
+        "Key": "protocolBtn7",
+        "zh_CN": "《尘白禁区》隐私政策",
+        "disable": 0
+    },
+    {
+        "Key": "protocolBtn8",
+        "zh_CN": "注销游戏账号",
+        "disable": 0
+    },
+    {
+        "Key": "protocolBtn9",
+        "zh_CN": "資金決済法",
+        "disable": 1000
+    },
+    {
+        "Key": "protocolBtn10",
+        "zh_CN": "特定商取引法",
+        "disable": 1000
+    },
+    {
+        "Key": "protocolCtrl",
+        "zh_CN": "查看",
+        "disable": 0
+    },
+    {
+        "Key": "protocolGoto",
+        "zh_CN": "前往",
+        "disable": 0
+    },
+    {
+        "Key": "language",
+        "zh_CN": "语言设置",
+        "disable": 0
+    },
+    {
+        "Key": "game_language",
+        "zh_CN": "游戏语言",
+        "disable": 0
+    },
+    {
+        "Key": "game_voice",
+        "zh_CN": "游戏整体语音",
+        "disable": 0
+    },
+    {
+        "Key": "game_voice_tips",
+        "zh_CN": "设置游戏整体语音为“%s”，将修改部分队员单独的语音设置，是否确认设置？",
+        "disable": 0
+    },
+    {
+        "Key": "fire_swerve",
+        "zh_CN": "开火按钮转向",
+        "disable": 0
+    },
+    {
+        "Key": "cn_voice",
+        "zh_CN": "国语",
+        "disable": 0
+    },
+    {
+        "Key": "customer_service",
+        "zh_CN": "客户服务",
+        "disable": 0
+    },
+    {
+        "Key": "contact",
+        "zh_CN": "联系客服",
+        "disable": 0
+    },
+    {
+        "Key": "goto",
+        "zh_CN": "前往",
+        "disable": 0
+    },
+    {
+        "Key": "keyboardType",
+        "zh_CN": "键盘",
+        "disable": 0
+    },
+    {
+        "Key": "gamepadType",
+        "zh_CN": "手柄",
+        "disable": 0
+    },
+    {
+        "Key": "window_size",
+        "zh_CN": "显示模式",
+        "disable": 0
+    },
+    {
+        "Key": "no_border_full_screen",
+        "zh_CN": "无边框全屏",
+        "disable": 0
+    },
+    {
+        "Key": "full_screen",
+        "zh_CN": "全屏",
+        "disable": 0
+    },
+    {
+        "Key": "windowed",
+        "zh_CN": "窗口化",
+        "disable": 0
+    },
+    {
+        "Key": "2560x1440",
+        "zh_CN": "2560x1440",
+        "disable": 0
+    },
+    {
+        "Key": "1920x1080",
+        "zh_CN": "1920x1080",
+        "disable": 0
+    },
+    {
+        "Key": "1680x1050",
+        "zh_CN": "1680x1050",
+        "disable": 0
+    },
+    {
+        "Key": "1600x1024",
+        "zh_CN": "1600x1024",
+        "disable": 0
+    },
+    {
+        "Key": "1600x900",
+        "zh_CN": "1600x900",
+        "disable": 0
+    },
+    {
+        "Key": "1366x768",
+        "zh_CN": "1366x768",
+        "disable": 0
+    },
+    {
+        "Key": "1360x768",
+        "zh_CN": "1360x768",
+        "disable": 0
+    },
+    {
+        "Key": "1280x960",
+        "zh_CN": "1280x960",
+        "disable": 0
+    },
+    {
+        "Key": "1280x800",
+        "zh_CN": "1280x800",
+        "disable": 0
+    },
+    {
+        "Key": "1280x768",
+        "zh_CN": "1280x768",
+        "disable": 0
+    },
+    {
+        "Key": "1280x720",
+        "zh_CN": "1280x720",
+        "disable": 0
+    },
+    {
+        "Key": "1152x864",
+        "zh_CN": "1152x864",
+        "disable": 0
+    },
+    {
+        "Key": "1024x768",
+        "zh_CN": "1024x768",
+        "disable": 0
+    },
+    {
+        "Key": "800x600",
+        "zh_CN": "800x600",
+        "disable": 0
+    },
+    {
+        "Key": "1280x1024",
+        "zh_CN": "1280x1024",
+        "disable": 0
+    },
+    {
+        "Key": "3840x2160",
+        "zh_CN": "3840x2160",
+        "disable": 0
+    },
+    {
+        "Key": "2560x1600",
+        "zh_CN": "2560x1600",
+        "disable": 0
+    },
+    {
+        "Key": "2048x1536",
+        "zh_CN": "2048x1536",
+        "disable": 0
+    },
+    {
+        "Key": "1960x2160",
+        "zh_CN": "1960x2160",
+        "disable": 0
+    },
+    {
+        "Key": "rendering",
+        "zh_CN": "渲染精度",
+        "disable": 0
+    },
+    {
+        "Key": "run_type",
+        "zh_CN": "奔跑方式",
+        "disable": 0
+    },
+    {
+        "Key": "run_type1",
+        "zh_CN": "长按闪避",
+        "disable": 0
+    },
+    {
+        "Key": "run_type2",
+        "zh_CN": "拖动摇杆",
+        "disable": 0
+    },
+    {
+        "Key": "run_type3",
+        "zh_CN": "都开启",
+        "disable": 0
+    },
+    {
+        "Key": "deflection",
+        "zh_CN": "显示跳弹提示",
+        "disable": 0
+    },
+    {
+        "Key": "shoot_view1",
+        "zh_CN": "瞄准按钮支持转动视角",
+        "disable": 0
+    },
+    {
+        "Key": "shoot_view2",
+        "zh_CN": "开火按钮支持转动视角",
+        "disable": 0
+    },
+    {
+        "Key": "shoot_view3",
+        "zh_CN": "混合射击按钮支持转动视角",
+        "disable": 0
+    },
+    {
+        "Key": "sensitivity",
+        "zh_CN": "灵敏度设置",
+        "disable": 0
+    },
+    {
+        "Key": "sensitivity1",
+        "zh_CN": "不开镜",
+        "disable": 0
+    },
+    {
+        "Key": "sensitivity2",
+        "zh_CN": "开镜",
+        "disable": 0
+    },
+    {
+        "Key": "sensitivity3",
+        "zh_CN": "狙击枪开镜",
+        "disable": 0
+    },
+    {
+        "Key": "datainput",
+        "zh_CN": "原始数据输入",
+        "disable": 0
+    },
+    {
+        "Key": "msg_push",
+        "zh_CN": "消息推送",
+        "disable": 0
+    },
+    {
+        "Key": "energy_full",
+        "zh_CN": "感知回满",
+        "disable": 0
+    },
+    {
+        "Key": "effects",
+        "zh_CN": "特效质量",
+        "disable": 0
+    },
+    {
+        "Key": "scene",
+        "zh_CN": "场景细节",
+        "disable": 0
+    },
+    {
+        "Key": "texture",
+        "zh_CN": "贴图质量",
+        "disable": 0
+    },
+    {
+        "Key": "FXTAA",
+        "zh_CN": "FXAA",
+        "disable": 0
+    },
+    {
+        "Key": "TAA",
+        "zh_CN": "TAA",
+        "disable": 0
+    },
+    {
+        "Key": "PlusTAA",
+        "zh_CN": "增强TAA",
+        "disable": 0
+    },
+    {
+        "Key": "plus",
+        "zh_CN": "增强",
+        "disable": 0
+    },
+    {
+        "Key": "fpsMax",
+        "zh_CN": "最大帧率",
+        "disable": 0
+    },
+    {
+        "Key": "vertical",
+        "zh_CN": "垂直同步",
+        "disable": 0
+    },
+    {
+        "Key": "frog",
+        "zh_CN": "体积雾",
+        "disable": 0
+    },
+    {
+        "Key": "vacuumization",
+        "zh_CN": "虚化效果",
+        "disable": 0
+    },
+    {
+        "Key": "verticalslide",
+        "zh_CN": "纵向滑动比值",
+        "disable": 0
+    },
+    {
+        "Key": "damage_txt_show",
+        "zh_CN": "显示战斗跳字",
+        "disable": 0
+    },
+    {
+        "Key": "damage_txt_show1",
+        "zh_CN": "伤害数字",
+        "disable": 0
+    },
+    {
+        "Key": "damage_txt_show2",
+        "zh_CN": "“跳弹”提示",
+        "disable": 0
+    },
+    {
+        "Key": "damage_txt_show3",
+        "zh_CN": "“破坏”提示",
+        "disable": 0
+    },
+    {
+        "Key": "damage_txt_show4",
+        "zh_CN": "“免疫控制”提示",
+        "disable": 0
+    },
+    {
+        "Key": "selectall",
+        "zh_CN": "全选",
+        "disable": 0
+    },
+    {
+        "Key": "selectpart",
+        "zh_CN": "部分选择",
+        "disable": 0
+    },
+    {
+        "Key": "selectnone",
+        "zh_CN": "暂未选择",
+        "disable": 0
+    },
+    {
+        "Key": "Account1",
+        "zh_CN": "官方账号",
+        "disable": 0
+    },
+    {
+        "Key": "Account2",
+        "zh_CN": "X账号",
+        "disable": 0
+    },
+    {
+        "Key": "Account3",
+        "zh_CN": "苹果账号",
+        "disable": 0
+    },
+    {
+        "Key": "Account4",
+        "zh_CN": "脸书账号",
+        "disable": 0
+    },
+    {
+        "Key": "Account5",
+        "zh_CN": "谷歌账号",
+        "disable": 0
+    },
+    {
+        "Key": "Account6",
+        "zh_CN": "Steam账号",
+        "disable": 0
+    },
+    {
+        "Key": "Account7",
+        "zh_CN": "DMM账号",
+        "disable": 0
+    },
+    {
+        "Key": "exchange_code",
+        "zh_CN": "兑换码",
+        "disable": 0
+    },
+    {
+        "Key": "exchange_go",
+        "zh_CN": "前往兑换",
+        "disable": 0
+    },
+    {
+        "Key": "relevancy",
+        "zh_CN": "关联",
+        "disable": 0
+    },
+    {
+        "Key": "back_to_login_title",
+        "zh_CN": "返回登录界面",
+        "disable": 0
+    },
+    {
+        "Key": "back_to_login_btn",
+        "zh_CN": "前往界面",
+        "disable": 0
+    },
+    {
+        "Key": "handle_keyboard",
+        "zh_CN": "键位配置",
+        "disable": 0
+    },
+    {
+        "Key": "handle_autoaim",
+        "zh_CN": "辅助瞄准",
+        "disable": 0
+    },
+    {
+        "Key": "handle_shake",
+        "zh_CN": "手柄震动",
+        "disable": 0
+    },
+    {
+        "Key": "senior_angle_view",
+        "zh_CN": "高级设置",
+        "disable": 0
+    },
+    {
+        "Key": "detail_setting",
+        "zh_CN": "高级设置详情",
+        "disable": 0
+    },
+    {
+        "Key": "steering_sensitivity",
+        "zh_CN": "普通视角控制灵敏度",
+        "disable": 0
+    },
+    {
+        "Key": "aiming_sensitivity",
+        "zh_CN": "瞄准视角控制灵敏度",
+        "disable": 0
+    },
+    {
+        "Key": "sniperaiming_sensitivity",
+        "zh_CN": "狙击枪瞄准视角控制灵敏度",
+        "disable": 0
+    },
+    {
+        "Key": "steering_curve",
+        "zh_CN": "视角控制直接响应度",
+        "disable": 0
+    },
+    {
+        "Key": "steering_corner",
+        "zh_CN": "中心无反应区",
+        "disable": 0
+    },
+    {
+        "Key": "sterring_inverse",
+        "zh_CN": "控制方向反向",
+        "disable": 0
+    },
+    {
+        "Key": "move_corner",
+        "zh_CN": "中心无反应区",
+        "disable": 0
+    },
+    {
+        "Key": "handle",
+        "zh_CN": "手柄设置",
+        "disable": 0
+    },
+    {
+        "Key": "go_set",
+        "zh_CN": "进入",
+        "disable": 0
+    },
+    {
+        "Key": "corner",
+        "zh_CN": "中心无反应区",
+        "disable": 0
+    },
+    {
+        "Key": "external_threshold",
+        "zh_CN": "边缘无反应区",
+        "disable": 0
+    },
+    {
+        "Key": "response_curve",
+        "zh_CN": "摇杆响应曲线",
+        "disable": 0
+    },
+    {
+        "Key": "handle_lr_speed",
+        "zh_CN": "视角控制灵敏度（水平）",
+        "disable": 0
+    },
+    {
+        "Key": "handle_ud_speed",
+        "zh_CN": "视角控制灵敏度（垂直）",
+        "disable": 0
+    },
+    {
+        "Key": "extra_lr_speed",
+        "zh_CN": "推至边缘后视线加速（水平）",
+        "disable": 0
+    },
+    {
+        "Key": "extra_ud_speed",
+        "zh_CN": "推至边缘后视线加速（垂直）",
+        "disable": 0
+    },
+    {
+        "Key": "extra_start_steering_delay",
+        "zh_CN": "推至边缘后视线加速生效时间",
+        "disable": 0
+    },
+    {
+        "Key": "extra_start_steering_time",
+        "zh_CN": "推至边缘后视线加速生效延时",
+        "disable": 0
+    },
+    {
+        "Key": "aimed_handle_lr_speed",
+        "zh_CN": "视角控制灵敏度（水平）",
+        "disable": 0
+    },
+    {
+        "Key": "aimed_handle_ud_speed",
+        "zh_CN": "视角控制灵敏度（垂直）",
+        "disable": 0
+    },
+    {
+        "Key": "aimed_extra_lr_speed",
+        "zh_CN": "推至边缘后视线加速（水平）",
+        "disable": 0
+    },
+    {
+        "Key": "aimed_extra_ud_speed",
+        "zh_CN": "推至边缘后视线加速（垂直）",
+        "disable": 0
+    },
+    {
+        "Key": "aimed_extra_start_steering_delay",
+        "zh_CN": "推至边缘后视线加速生效时间",
+        "disable": 0
+    },
+    {
+        "Key": "aimed_extra_start_steering_time",
+        "zh_CN": "推至边缘后视线加速生效延时",
+        "disable": 0
+    },
+    {
+        "Key": "sniper_aimed_handle_lr_speed",
+        "zh_CN": "视角控制灵敏度（水平）",
+        "disable": 0
+    },
+    {
+        "Key": "sniper_aimed_handle_ud_speed",
+        "zh_CN": "视角控制灵敏度（垂直）",
+        "disable": 0
+    },
+    {
+        "Key": "sniper_aimed_extra_lr_speed",
+        "zh_CN": "推至边缘后视线加速（水平）",
+        "disable": 0
+    },
+    {
+        "Key": "sniper_aimed_extra_ud_speed",
+        "zh_CN": "推至边缘后视线加速（垂直）",
+        "disable": 0
+    },
+    {
+        "Key": "sniper_aimed_extra_start_steering_delay",
+        "zh_CN": "推至边缘后视线加速生效时间",
+        "disable": 0
+    },
+    {
+        "Key": "sniper_aimed_extra_start_steering_time",
+        "zh_CN": "推至边缘后视线加速生效延时",
+        "disable": 0
+    },
+    {
+        "Key": "Quick_Burst",
+        "zh_CN": "队员快捷爆发后离场",
+        "disable": 0
+    },
+    {
+        "Key": "controler_model_custom",
+        "zh_CN": "自定义键位",
+        "disable": 0
+    },
+    {
+        "Key": "controler_model1",
+        "zh_CN": "专注技能模式",
+        "disable": 0
+    },
+    {
+        "Key": "controler_model2",
+        "zh_CN": "专注射击模式",
+        "disable": 0
+    },
+    {
+        "Key": "controler_model3",
+        "zh_CN": "技能使用配套模式",
+        "disable": 0
+    },
+    {
+        "Key": "controler_model_custom_Desc",
+        "zh_CN": "可根据您的使用手柄的习惯，自行设定按键布局。标有*号的设置项，支持将已占用的功能按键设置为长按。",
+        "disable": 0
+    },
+    {
+        "Key": "controler_model1_Desc",
+        "zh_CN": "使用该预设配置，可以更方便、快捷地释放技能，达到伤害最大化。",
+        "disable": 0
+    },
+    {
+        "Key": "controler_model2_Desc",
+        "zh_CN": "使用该预设配置，更易做到精准射击，并可以更快地进行视角移动。",
+        "disable": 0
+    },
+    {
+        "Key": "controler_model3_Desc",
+        "zh_CN": "使用该预设配置，换人、支援技释放、后台队员爆发技快捷使用等操作的按键更具有关联性、更便于记忆。",
+        "disable": 0
+    },
+    {
+        "Key": "Quick_Burst_Hint",
+        "zh_CN": "所有可设置队员将改为快捷使用爆发技后<span color=\"#d68238\">%s</>，\\n您是否确定？",
+        "disable": 0
+    },
+    {
+        "Key": "Quick_Burst_Set1",
+        "zh_CN": "驻场",
+        "disable": 0
+    },
+    {
+        "Key": "Quick_Burst_Set2",
+        "zh_CN": "离场",
+        "disable": 0
+    },
+    {
+        "Key": "protocolURL",
+        "zh_CN": "https://www.amazingseasun.com/privacy.html?lang=zh-cn&gamecode=111111680",
+        "disable": 1000
+    },
+    {
+        "Key": "protocolURL.domestic",
+        "zh_CN": "https://www.cbjq.com/show-7126-8-1.html",
+        "disable": 1000
+    },
+    {
+        "Key": "useUrl",
+        "zh_CN": "https://www.amazingseasun.com/user.html?lang=zh-cn&gamecode=111111680",
+        "disable": 1000
+    },
+    {
+        "Key": "useUrl.domestic",
+        "zh_CN": "https://m.xoyo.com/agreements/agreements.html?name=kingsoft-network-game-agreement&hide-header-menu=true",
+        "disable": 1000
+    },
+    {
+        "Key": "auto_enterBlintage",
+        "zh_CN": "疾跑状态自动进入掩体",
+        "disable": 0
+    },
+    {
+        "Key": "auto_climbBlintage",
+        "zh_CN": "疾跑状态自动翻越掩体（开启后角色不会进入小型掩体）",
+        "disable": 0
+    },
+    {
+        "Key": "dmmUrl",
+        "zh_CN": "https://snowbreak.amazingseasun.com/show-679-10-1.html",
+        "disable": 1000
+    },
+    {
+        "Key": "dmmUrl.domestic",
+        "zh_CN": "https://snowbreak.amazingseasun.com/show-679-10-1.html",
+        "disable": 1000
+    },
+    {
+        "Key": "block_friend_request",
+        "zh_CN": "拒绝好友申请"
+    },
+    {
+        "Key": "modify_bound_phone",
+        "zh_CN": "修改绑定手机"
+    },
+    {
+        "Key": "modify_bound_phone_other",
+        "zh_CN": "GM修改绑定手机"
+    },
+    {
+        "Key": "modify_bound_email",
+        "zh_CN": "修改绑定邮箱"
+    },
+    {
+        "Key": "detail.10",
+        "zh_CN": "账号注销后，所有金山旗下产品均无法使用该账号进行登录，且该账号无法再次注册成为账号。申请账号注销后账号会永久冻结，且该账号下的所有角色均会被注销，请谨慎选择操作。"
+    },
+    {
+        "Key": "detail.20",
+        "zh_CN": "当前账号绑定手机若无法使用，可申请该业务进行修改。业务办理期间账号会冻结。"
+    },
+    {
+        "Key": "detail.bilics",
+        "zh_CN": "请打开Bilibili App-游戏中心-我的-联系客服，或打开游戏详情页-联系客服",
+        "disable": 1000
+    },
+    {
+        "Key": "resetplayer",
+        "zh_CN": "角色复位"
+    },
+    {
+        "Key": "reset_monster",
+        "zh_CN": "敌人复位"
+    },
+    {
+        "Key": "reset",
+        "zh_CN": "复位"
+    },
+    {
+        "Key": "mutiskillshield",
+        "zh_CN": "联机隐藏队友技能特效",
+        "disable": 0
+    },
+    {
+        "Key": "mutiskillshield_effectclosed",
+        "zh_CN": "隐藏特效",
+        "disable": 0
+    },
+    {
+        "Key": "mutiskillshield_effectopen",
+        "zh_CN": "显示特效",
+        "disable": 0
+    },
+    {
+        "Key": "hpbarshield",
+        "zh_CN": "联机隐藏队友头顶生命值",
+        "disable": 0
+    },
+    {
+        "Key": "ultimate_perform",
+        "zh_CN": "爆发技动画播放设置",
+        "disable": 0
+    },
+    {
+        "Key": "everytime",
+        "zh_CN": "总是播放",
+        "disable": 0
+    },
+    {
+        "Key": "fightone",
+        "zh_CN": "每次战斗仅播放第一次",
+        "disable": 0
+    },
+    {
+        "Key": "onlynew",
+        "zh_CN": "每名队员仅播放一次",
+        "disable": 0
+    },
+    {
+        "Key": "noperform",
+        "zh_CN": "不播放",
+        "disable": 0
+    },
+    {
+        "Key": "ultimate_perform_tips",
+        "zh_CN": "设置在下次进入关卡时生效",
+        "disable": 0
+    },
+    {
+        "Key": "girl_settingdes01",
+        "zh_CN": "已选思绪",
+        "disable": 0
+    },
+    {
+        "Key": "girl_settingdes02",
+        "zh_CN": "游戏性设置",
+        "disable": 0
+    },
+    {
+        "Key": "girl_settingdes03",
+        "zh_CN": "基础设置",
+        "disable": 0
+    },
+    {
+        "Key": "girl_settingdes04",
+        "zh_CN": "自动射击模式",
+        "disable": 0
+    },
+    {
+        "Key": "girl_settingdes05",
+        "zh_CN": "手动射击模式",
+        "disable": 0
+    },
+    {
+        "Key": "girl_settingdes06",
+        "zh_CN": "准星移动灵敏度",
+        "disable": 0
+    },
+    {
+        "Key": "girl_settingdes07",
+        "zh_CN": "重置",
+        "disable": 0
+    },
+    {
+        "Key": "subSetting_title",
+        "zh_CN": "字幕显示",
+        "disable": 0
+    },
+    {
+        "Key": "subSetting_option1",
+        "zh_CN": "全部关闭",
+        "disable": 0
+    },
+    {
+        "Key": "subSetting_option2",
+        "zh_CN": "开启互动字幕",
+        "disable": 0
+    },
+    {
+        "Key": "subSetting_option3",
+        "zh_CN": "开启其他字幕",
+        "disable": 0
+    },
+    {
+        "Key": "subSetting_option4",
+        "zh_CN": "全部开启",
+        "disable": 0
+    },
+    {
+        "Key": "subSetting_tips",
+        "zh_CN": "互动、关卡结算、共鸣动画、少女出浴字幕均会受到本设置影响",
+        "disable": 0
+    },
+    {
+        "Key": "ultra",
+        "zh_CN": "至臻",
+        "disable": 0
+    },
+    {
+        "Key": "download.lock",
+        "zh_CN": "暂未开放",
+        "disable": 0
+    },
+    {
+        "Key": "download.check",
+        "zh_CN": "开始下载",
+        "disable": 0
+    },
+    {
+        "Key": "download.downloading",
+        "zh_CN": "下载中：%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "download.pause",
+        "zh_CN": "已暂停：%s%%",
+        "disable": 0
+    },
+    {
+        "Key": "download.completed",
+        "zh_CN": "已完成",
+        "disable": 0
+    },
+    {
+        "Key": "download.title",
+        "zh_CN": "预下载",
+        "disable": 0
+    },
+    {
+        "Key": "gamestop",
+        "zh_CN": "游戏后台暂停",
+        "disable": 0
+    },
+    {
+        "Key": "gamemute",
+        "zh_CN": "游戏后台静音",
+        "disable": 0
+    },
+    {
+        "Key": "gamestoptips",
+        "zh_CN": "开启后，若在战斗中将游戏置于后台，游戏将自动暂停（联机除外）",
+        "disable": 0
+    },
+    {
+        "Key": "gamemutetips",
+        "zh_CN": "开启后，若将游戏置于后台，游戏将自动静音",
+        "disable": 0
+    },
+    {
+        "Key": "TxtSetupVoiceDownloadTitle1",
+        "zh_CN": "语音包下载",
+        "disable": 0
+    },
+    {
+        "Key": "farmwar_autoclose",
+        "zh_CN": "种植蔬菜伙伴后自动关闭种植界面",
+        "disable": 0
+    }
+]

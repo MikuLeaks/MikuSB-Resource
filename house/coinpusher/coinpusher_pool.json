@@ -1,0 +1,151 @@
+[
+    {
+        "PoolID": 1,
+        "Effect": [
+            1001,
+            [
+                8,
+                0.1
+            ]
+        ],
+        "ExtraParam": "",
+        "Weight": 100,
+        "IconGroup": "1006026,2",
+        "TextShow": "house.Coinpusher_PoolRewardName1",
+        "BaseNum": 8
+    },
+    {
+        "PoolID": 1,
+        "Effect": [
+            1001,
+            [
+                16,
+                0.1
+            ]
+        ],
+        "ExtraParam": "",
+        "Weight": 60,
+        "IconGroup": "1006026,3",
+        "TextShow": "house.Coinpusher_PoolRewardName1",
+        "BaseNum": 16
+    },
+    {
+        "PoolID": 1,
+        "Effect": [
+            1002,
+            40
+        ],
+        "ExtraParam": "",
+        "Weight": 100,
+        "IconGroup": "1006025,2",
+        "TextShow": "house.Coinpusher_PoolRewardName2",
+        "BaseNum": 40
+    },
+    {
+        "PoolID": 1,
+        "Effect": [
+            1002,
+            70
+        ],
+        "ExtraParam": "",
+        "Weight": 60,
+        "IconGroup": "1006025,3",
+        "TextShow": "house.Coinpusher_PoolRewardName2",
+        "BaseNum": 70
+    },
+    {
+        "PoolID": 1,
+        "Effect": [
+            1003,
+            [
+                2,
+                3
+            ]
+        ],
+        "ExtraParam": "",
+        "Weight": 70,
+        "IconGroup": "1006021,2",
+        "TextShow": "house.Coinpusher_PoolRewardName3",
+        "BaseNum": 1
+    },
+    {
+        "PoolID": 1,
+        "Effect": [
+            1003,
+            [
+                3,
+                4
+            ]
+        ],
+        "ExtraParam": "",
+        "Weight": 40,
+        "IconGroup": "1006021,3",
+        "TextShow": "house.Coinpusher_PoolRewardName4",
+        "BaseNum": 1
+    },
+    {
+        "PoolID": 1,
+        "Effect": [
+            1004,
+            2
+        ],
+        "ExtraParam": "",
+        "Weight": 20,
+        "IconGroup": "1006022,3",
+        "TextShow": "house.Coinpusher_PoolRewardName5"
+    },
+    {
+        "PoolID": 2,
+        "Effect": [
+            1005,
+            24
+        ],
+        "ExtraParam": "",
+        "Weight": 100,
+        "IconGroup": "1006023,2",
+        "TextShow": "house.Coinpusher_PoolRewardName6",
+        "BaseNum": 24
+    },
+    {
+        "PoolID": 2,
+        "Effect": [
+            1005,
+            40
+        ],
+        "ExtraParam": "",
+        "Weight": 80,
+        "IconGroup": "1006023,3",
+        "TextShow": "house.Coinpusher_PoolRewardName6",
+        "BaseNum": 40
+    },
+    {
+        "PoolID": 2,
+        "Effect": [
+            1006,
+            15
+        ],
+        "ExtraParam": [
+            "force",
+            90
+        ],
+        "Weight": 50,
+        "IconGroup": "1006024,2",
+        "TextShow": "house.Coinpusher_PoolRewardName7",
+        "BaseNum": 15
+    },
+    {
+        "PoolID": 2,
+        "Effect": [
+            1007,
+            18
+        ],
+        "ExtraParam": [
+            "force",
+            90
+        ],
+        "Weight": 30,
+        "IconGroup": "1006024,3",
+        "TextShow": "house.Coinpusher_PoolRewardName7",
+        "BaseNum": 18
+    }
+]

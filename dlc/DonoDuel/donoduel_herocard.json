@@ -1,0 +1,1124 @@
+[
+    {
+        "ID": 1,
+        "Name": "donoduel.herocard_name01",
+        "Condition": "",
+        "Stars": 5,
+        "AttackInitial": 4500,
+        "Attack": {
+            "1": 5625,
+            "2": 8438,
+            "3": 11250,
+            "4": 14063,
+            "5": 16875,
+            "6": 22500
+        },
+        "DefenseInitial": 480,
+        "Defense": {
+            "1": 600,
+            "2": 750,
+            "3": 900,
+            "4": 1050,
+            "5": 1200,
+            "6": 1500
+        },
+        "HealthInitial": 480000,
+        "Health": {
+            "1": 600000,
+            "2": 750000,
+            "3": 900000,
+            "4": 1050000,
+            "5": 1200000,
+            "6": 1500000
+        },
+        "ExtraBuff": 1001,
+        "BondID": [
+            1,
+            7
+        ],
+        "BuffTag": [
+            101,
+            107
+        ],
+        "SkillUnloked": [
+            2,
+            3,
+            4
+        ],
+        "Model": [
+            504001213
+        ],
+        "MaxModel": [
+            504002213
+        ],
+        "Icon": 1804052,
+        "MaxIcon": 1804238,
+        "Desc": "donoduel.herocard_name01_des"
+    },
+    {
+        "ID": 2,
+        "Name": "donoduel.herocard_name02",
+        "Condition": "",
+        "Stars": 5,
+        "AttackInitial": 4500,
+        "Attack": {
+            "1": 5625,
+            "2": 8438,
+            "3": 11250,
+            "4": 14063,
+            "5": 16875,
+            "6": 22500
+        },
+        "DefenseInitial": 480,
+        "Defense": {
+            "1": 600,
+            "2": 750,
+            "3": 900,
+            "4": 1050,
+            "5": 1200,
+            "6": 1500
+        },
+        "HealthInitial": 480000,
+        "Health": {
+            "1": 600000,
+            "2": 750000,
+            "3": 900000,
+            "4": 1050000,
+            "5": 1200000,
+            "6": 1500000
+        },
+        "ExtraBuff": 1001,
+        "BondID": [
+            1,
+            11
+        ],
+        "BuffTag": [
+            101,
+            111
+        ],
+        "SkillUnloked": [
+            2,
+            3,
+            4
+        ],
+        "Model": [
+            505001309
+        ],
+        "MaxModel": [
+            505002309
+        ],
+        "Icon": 1804104,
+        "MaxIcon": 1804105,
+        "Desc": "donoduel.herocard_name02_des",
+        "Recycle": 1,
+        "Limit": 1
+    },
+    {
+        "ID": 3,
+        "Name": "donoduel.herocard_name03",
+        "Condition": "",
+        "Stars": 5,
+        "AttackInitial": 4500,
+        "Attack": {
+            "1": 5625,
+            "2": 8438,
+            "3": 11250,
+            "4": 14063,
+            "5": 16875,
+            "6": 22500
+        },
+        "DefenseInitial": 480,
+        "Defense": {
+            "1": 600,
+            "2": 750,
+            "3": 900,
+            "4": 1050,
+            "5": 1200,
+            "6": 1500
+        },
+        "HealthInitial": 480000,
+        "Health": {
+            "1": 600000,
+            "2": 750000,
+            "3": 900000,
+            "4": 1050000,
+            "5": 1200000,
+            "6": 1500000
+        },
+        "ExtraBuff": 1001,
+        "BondID": [
+            1,
+            10
+        ],
+        "BuffTag": [
+            101,
+            110
+        ],
+        "SkillUnloked": [
+            2,
+            3,
+            4
+        ],
+        "Model": [
+            504001010
+        ],
+        "MaxModel": [
+            504002010
+        ],
+        "Icon": 1804009,
+        "MaxIcon": 1804245,
+        "Desc": "donoduel.herocard_name03_des"
+    },
+    {
+        "ID": 4,
+        "Name": "donoduel.herocard_name04",
+        "Condition": "",
+        "Stars": 5,
+        "AttackInitial": 4500,
+        "Attack": {
+            "1": 5625,
+            "2": 8438,
+            "3": 11250,
+            "4": 14063,
+            "5": 16875,
+            "6": 22500
+        },
+        "DefenseInitial": 480,
+        "Defense": {
+            "1": 600,
+            "2": 750,
+            "3": 900,
+            "4": 1050,
+            "5": 1200,
+            "6": 1500
+        },
+        "HealthInitial": 480000,
+        "Health": {
+            "1": 600000,
+            "2": 750000,
+            "3": 900000,
+            "4": 1050000,
+            "5": 1200000,
+            "6": 1500000
+        },
+        "ExtraBuff": 1001,
+        "BondID": [
+            1,
+            8
+        ],
+        "BuffTag": [
+            101,
+            108
+        ],
+        "SkillUnloked": [
+            2,
+            3,
+            4
+        ],
+        "Model": [
+            505001302
+        ],
+        "MaxModel": [
+            505002302
+        ],
+        "Icon": 1804086,
+        "MaxIcon": 1804257,
+        "Desc": "donoduel.herocard_name04_des"
+    },
+    {
+        "ID": 5,
+        "Name": "donoduel.herocard_name05",
+        "Condition": "",
+        "Stars": 5,
+        "AttackInitial": 6000,
+        "Attack": {
+            "1": 7500,
+            "2": 11250,
+            "3": 15000,
+            "4": 18750,
+            "5": 22500,
+            "6": 30000
+        },
+        "DefenseInitial": 400,
+        "Defense": {
+            "1": 500,
+            "2": 625,
+            "3": 750,
+            "4": 875,
+            "5": 1000,
+            "6": 1250
+        },
+        "HealthInitial": 400000,
+        "Health": {
+            "1": 500000,
+            "2": 625000,
+            "3": 750000,
+            "4": 875000,
+            "5": 1000000,
+            "6": 1250000
+        },
+        "ExtraBuff": 1001,
+        "BondID": [
+            2,
+            7
+        ],
+        "BuffTag": [
+            102,
+            107
+        ],
+        "SkillUnloked": [
+            2,
+            3,
+            4
+        ],
+        "Model": [
+            504001211
+        ],
+        "MaxModel": [
+            504002211
+        ],
+        "Icon": 1804028,
+        "MaxIcon": 1804235,
+        "Desc": "donoduel.herocard_name05_des"
+    },
+    {
+        "ID": 6,
+        "Name": "donoduel.herocard_name06",
+        "Condition": "",
+        "Stars": 5,
+        "AttackInitial": 6000,
+        "Attack": {
+            "1": 7500,
+            "2": 11250,
+            "3": 15000,
+            "4": 18750,
+            "5": 22500,
+            "6": 30000
+        },
+        "DefenseInitial": 400,
+        "Defense": {
+            "1": 500,
+            "2": 625,
+            "3": 750,
+            "4": 875,
+            "5": 1000,
+            "6": 1250
+        },
+        "HealthInitial": 400000,
+        "Health": {
+            "1": 500000,
+            "2": 625000,
+            "3": 750000,
+            "4": 875000,
+            "5": 1000000,
+            "6": 1250000
+        },
+        "ExtraBuff": 1001,
+        "BondID": [
+            2,
+            8
+        ],
+        "BuffTag": [
+            102,
+            108
+        ],
+        "SkillUnloked": [
+            2,
+            3,
+            4
+        ],
+        "Model": [
+            504301310
+        ],
+        "MaxModel": [
+            504302310
+        ],
+        "Icon": 1804148,
+        "MaxIcon": 1804191,
+        "Desc": "donoduel.herocard_name06_des"
+    },
+    {
+        "ID": 7,
+        "Name": "donoduel.herocard_name07",
+        "Condition": "",
+        "Stars": 5,
+        "AttackInitial": 6000,
+        "Attack": {
+            "1": 7500,
+            "2": 11250,
+            "3": 15000,
+            "4": 18750,
+            "5": 22500,
+            "6": 30000
+        },
+        "DefenseInitial": 400,
+        "Defense": {
+            "1": 500,
+            "2": 625,
+            "3": 750,
+            "4": 875,
+            "5": 1000,
+            "6": 1250
+        },
+        "HealthInitial": 400000,
+        "Health": {
+            "1": 500000,
+            "2": 625000,
+            "3": 750000,
+            "4": 875000,
+            "5": 1000000,
+            "6": 1250000
+        },
+        "ExtraBuff": 1001,
+        "BondID": [
+            2,
+            9
+        ],
+        "BuffTag": [
+            102,
+            109
+        ],
+        "SkillUnloked": [
+            2,
+            3,
+            4
+        ],
+        "Model": [
+            504001108
+        ],
+        "MaxModel": [
+            504002108
+        ],
+        "Icon": 1804021,
+        "MaxIcon": 1804251,
+        "Desc": "donoduel.herocard_name07_des"
+    },
+    {
+        "ID": 8,
+        "Name": "donoduel.herocard_name08",
+        "Condition": "",
+        "Stars": 5,
+        "AttackInitial": 6000,
+        "Attack": {
+            "1": 7500,
+            "2": 11250,
+            "3": 15000,
+            "4": 18750,
+            "5": 22500,
+            "6": 30000
+        },
+        "DefenseInitial": 400,
+        "Defense": {
+            "1": 500,
+            "2": 625,
+            "3": 750,
+            "4": 875,
+            "5": 1000,
+            "6": 1250
+        },
+        "HealthInitial": 400000,
+        "Health": {
+            "1": 500000,
+            "2": 625000,
+            "3": 750000,
+            "4": 875000,
+            "5": 1000000,
+            "6": 1250000
+        },
+        "ExtraBuff": 1001,
+        "BondID": [
+            2,
+            9
+        ],
+        "BuffTag": [
+            102,
+            109
+        ],
+        "SkillUnloked": [
+            2,
+            3,
+            4
+        ],
+        "Model": [
+            504001103
+        ],
+        "MaxModel": [
+            504002103
+        ],
+        "Icon": 1804016,
+        "MaxIcon": 1804248,
+        "Desc": "donoduel.herocard_name08_des"
+    },
+    {
+        "ID": 9,
+        "Name": "donoduel.herocard_name09",
+        "Condition": "",
+        "Stars": 5,
+        "AttackInitial": 7800,
+        "Attack": {
+            "1": 9750,
+            "2": 14625,
+            "3": 19500,
+            "4": 24375,
+            "5": 29250,
+            "6": 39000
+        },
+        "DefenseInitial": 320,
+        "Defense": {
+            "1": 400,
+            "2": 500,
+            "3": 600,
+            "4": 700,
+            "5": 800,
+            "6": 1000
+        },
+        "HealthInitial": 320000,
+        "Health": {
+            "1": 400000,
+            "2": 500000,
+            "3": 600000,
+            "4": 700000,
+            "5": 800000,
+            "6": 1000000
+        },
+        "ExtraBuff": 1001,
+        "BondID": [
+            3,
+            10
+        ],
+        "BuffTag": [
+            103,
+            110
+        ],
+        "SkillUnloked": [
+            2,
+            3,
+            4
+        ],
+        "Model": [
+            504001013
+        ],
+        "MaxModel": [
+            504002013
+        ],
+        "Icon": 1804010,
+        "MaxIcon": 1804069,
+        "Desc": "donoduel.herocard_name09_des"
+    },
+    {
+        "ID": 10,
+        "Name": "donoduel.herocard_name10",
+        "Condition": "",
+        "Stars": 5,
+        "AttackInitial": 7800,
+        "Attack": {
+            "1": 9750,
+            "2": 14625,
+            "3": 19500,
+            "4": 24375,
+            "5": 29250,
+            "6": 39000
+        },
+        "DefenseInitial": 320,
+        "Defense": {
+            "1": 400,
+            "2": 500,
+            "3": 600,
+            "4": 700,
+            "5": 800,
+            "6": 1000
+        },
+        "HealthInitial": 320000,
+        "Health": {
+            "1": 400000,
+            "2": 500000,
+            "3": 600000,
+            "4": 700000,
+            "5": 800000,
+            "6": 1000000
+        },
+        "ExtraBuff": 1001,
+        "BondID": [
+            3,
+            9
+        ],
+        "BuffTag": [
+            103,
+            109
+        ],
+        "SkillUnloked": [
+            2,
+            3,
+            4
+        ],
+        "Model": [
+            504501102
+        ],
+        "MaxModel": [
+            504502102
+        ],
+        "Icon": 1804015,
+        "MaxIcon": 1804247,
+        "Desc": "donoduel.herocard_name10_des"
+    },
+    {
+        "ID": 11,
+        "Name": "donoduel.herocard_name11",
+        "Condition": "",
+        "Stars": 5,
+        "AttackInitial": 7800,
+        "Attack": {
+            "1": 9750,
+            "2": 14625,
+            "3": 19500,
+            "4": 24375,
+            "5": 29250,
+            "6": 39000
+        },
+        "DefenseInitial": 320,
+        "Defense": {
+            "1": 400,
+            "2": 500,
+            "3": 600,
+            "4": 700,
+            "5": 800,
+            "6": 1000
+        },
+        "HealthInitial": 320000,
+        "Health": {
+            "1": 400000,
+            "2": 500000,
+            "3": 600000,
+            "4": 700000,
+            "5": 800000,
+            "6": 1000000
+        },
+        "ExtraBuff": 1001,
+        "BondID": [
+            3,
+            8
+        ],
+        "BuffTag": [
+            103,
+            108
+        ],
+        "SkillUnloked": [
+            2,
+            3,
+            4
+        ],
+        "Model": [
+            504001301
+        ],
+        "MaxModel": [
+            504002301
+        ],
+        "Icon": 1804061,
+        "MaxIcon": 1804256,
+        "Desc": "donoduel.herocard_name11_des"
+    },
+    {
+        "ID": 12,
+        "Name": "donoduel.herocard_name12",
+        "Condition": "",
+        "Stars": 5,
+        "AttackInitial": 7800,
+        "Attack": {
+            "1": 9750,
+            "2": 14625,
+            "3": 19500,
+            "4": 24375,
+            "5": 29250,
+            "6": 39000
+        },
+        "DefenseInitial": 320,
+        "Defense": {
+            "1": 400,
+            "2": 500,
+            "3": 600,
+            "4": 700,
+            "5": 800,
+            "6": 1000
+        },
+        "HealthInitial": 320000,
+        "Health": {
+            "1": 400000,
+            "2": 500000,
+            "3": 600000,
+            "4": 700000,
+            "5": 800000,
+            "6": 1000000
+        },
+        "ExtraBuff": 1001,
+        "BondID": [
+            3,
+            9
+        ],
+        "BuffTag": [
+            103,
+            109
+        ],
+        "SkillUnloked": [
+            2,
+            3,
+            4
+        ],
+        "Model": [
+            504001105
+        ],
+        "MaxModel": [
+            504002105
+        ],
+        "Icon": 1804018,
+        "MaxIcon": 1804249,
+        "Desc": "donoduel.herocard_name12_des"
+    },
+    {
+        "ID": 13,
+        "Name": "donoduel.herocard_name13",
+        "Condition": "",
+        "Stars": 5,
+        "AttackInitial": 6600,
+        "Attack": {
+            "1": 8250,
+            "2": 12375,
+            "3": 16500,
+            "4": 20625,
+            "5": 24750,
+            "6": 33000
+        },
+        "DefenseInitial": 360,
+        "Defense": {
+            "1": 450,
+            "2": 563,
+            "3": 675,
+            "4": 788,
+            "5": 900,
+            "6": 1125
+        },
+        "HealthInitial": 400000,
+        "Health": {
+            "1": 500000,
+            "2": 625000,
+            "3": 750000,
+            "4": 875000,
+            "5": 1000000,
+            "6": 1250000
+        },
+        "ExtraBuff": 1001,
+        "BondID": [
+            4,
+            7
+        ],
+        "BuffTag": [
+            104,
+            107
+        ],
+        "SkillUnloked": [
+            2,
+            3,
+            4
+        ],
+        "Model": [
+            504001212
+        ],
+        "MaxModel": [
+            504002212
+        ],
+        "Icon": 1804029,
+        "MaxIcon": 1804240,
+        "Desc": "donoduel.herocard_name13_des"
+    },
+    {
+        "ID": 14,
+        "Name": "donoduel.herocard_name14",
+        "Condition": "",
+        "Stars": 5,
+        "AttackInitial": 6000,
+        "Attack": {
+            "1": 7500,
+            "2": 11250,
+            "3": 15000,
+            "4": 18750,
+            "5": 22500,
+            "6": 30000
+        },
+        "DefenseInitial": 320,
+        "Defense": {
+            "1": 400,
+            "2": 500,
+            "3": 600,
+            "4": 700,
+            "5": 800,
+            "6": 1000
+        },
+        "HealthInitial": 360000,
+        "Health": {
+            "1": 450000,
+            "2": 562500,
+            "3": 675000,
+            "4": 787500,
+            "5": 900000,
+            "6": 1125000
+        },
+        "ExtraBuff": 1001,
+        "BondID": [
+            4,
+            6
+        ],
+        "BuffTag": [
+            104,
+            106
+        ],
+        "SkillUnloked": [
+            2,
+            3,
+            4
+        ],
+        "Model": [
+            504001606
+        ],
+        "MaxModel": [
+            504002606
+        ],
+        "Icon": 1804098,
+        "MaxIcon": 1804065,
+        "Desc": "donoduel.herocard_name14_des"
+    },
+    {
+        "ID": 15,
+        "Name": "donoduel.herocard_name15",
+        "Condition": "",
+        "Stars": 5,
+        "AttackInitial": 6600,
+        "Attack": {
+            "1": 8250,
+            "2": 12375,
+            "3": 16500,
+            "4": 20625,
+            "5": 24750,
+            "6": 33000
+        },
+        "DefenseInitial": 360,
+        "Defense": {
+            "1": 450,
+            "2": 563,
+            "3": 675,
+            "4": 788,
+            "5": 900,
+            "6": 1125
+        },
+        "HealthInitial": 400000,
+        "Health": {
+            "1": 500000,
+            "2": 625000,
+            "3": 750000,
+            "4": 875000,
+            "5": 1000000,
+            "6": 1250000
+        },
+        "ExtraBuff": 1001,
+        "BondID": [
+            4,
+            6
+        ],
+        "BuffTag": [
+            104,
+            106
+        ],
+        "SkillUnloked": [
+            2,
+            3,
+            4
+        ],
+        "Model": [
+            505001305
+        ],
+        "MaxModel": [
+            505002305
+        ],
+        "Icon": 1804090,
+        "MaxIcon": 1804258,
+        "Desc": "donoduel.herocard_name15_des"
+    },
+    {
+        "ID": 16,
+        "Name": "donoduel.herocard_name16",
+        "Condition": "",
+        "Stars": 5,
+        "AttackInitial": 6600,
+        "Attack": {
+            "1": 8250,
+            "2": 12375,
+            "3": 16500,
+            "4": 20625,
+            "5": 24750,
+            "6": 33000
+        },
+        "DefenseInitial": 360,
+        "Defense": {
+            "1": 450,
+            "2": 563,
+            "3": 675,
+            "4": 788,
+            "5": 900,
+            "6": 1125
+        },
+        "HealthInitial": 400000,
+        "Health": {
+            "1": 500000,
+            "2": 625000,
+            "3": 750000,
+            "4": 875000,
+            "5": 1000000,
+            "6": 1250000
+        },
+        "ExtraBuff": 1001,
+        "BondID": [
+            4,
+            9
+        ],
+        "BuffTag": [
+            104,
+            109
+        ],
+        "SkillUnloked": [
+            2,
+            3,
+            4
+        ],
+        "Model": [
+            504001106
+        ],
+        "MaxModel": [
+            504002106
+        ],
+        "Icon": 1804019,
+        "MaxIcon": 1804250,
+        "Desc": "donoduel.herocard_name16_des"
+    },
+    {
+        "ID": 17,
+        "Name": "donoduel.herocard_name17",
+        "Condition": "",
+        "Stars": 5,
+        "AttackInitial": 6600,
+        "Attack": {
+            "1": 8250,
+            "2": 12375,
+            "3": 16500,
+            "4": 20625,
+            "5": 24750,
+            "6": 33000
+        },
+        "DefenseInitial": 360,
+        "Defense": {
+            "1": 450,
+            "2": 563,
+            "3": 675,
+            "4": 788,
+            "5": 900,
+            "6": 1125
+        },
+        "HealthInitial": 400000,
+        "Health": {
+            "1": 500000,
+            "2": 625000,
+            "3": 750000,
+            "4": 875000,
+            "5": 1000000,
+            "6": 1250000
+        },
+        "ExtraBuff": 1001,
+        "BondID": [
+            5,
+            7
+        ],
+        "BuffTag": [
+            105,
+            107
+        ],
+        "SkillUnloked": [
+            2,
+            3,
+            4
+        ],
+        "Model": [
+            505001214
+        ],
+        "MaxModel": [
+            505002214
+        ],
+        "Icon": 1804064,
+        "MaxIcon": 1804239,
+        "Desc": "donoduel.herocard_name17_des"
+    },
+    {
+        "ID": 18,
+        "Name": "donoduel.herocard_name18",
+        "Condition": "",
+        "Stars": 5,
+        "AttackInitial": 6600,
+        "Attack": {
+            "1": 8250,
+            "2": 12375,
+            "3": 16500,
+            "4": 20625,
+            "5": 24750,
+            "6": 33000
+        },
+        "DefenseInitial": 360,
+        "Defense": {
+            "1": 450,
+            "2": 563,
+            "3": 675,
+            "4": 788,
+            "5": 900,
+            "6": 1125
+        },
+        "HealthInitial": 400000,
+        "Health": {
+            "1": 500000,
+            "2": 625000,
+            "3": 750000,
+            "4": 875000,
+            "5": 1000000,
+            "6": 1250000
+        },
+        "ExtraBuff": 1001,
+        "BondID": [
+            5,
+            10
+        ],
+        "BuffTag": [
+            105,
+            110
+        ],
+        "SkillUnloked": [
+            2,
+            3,
+            4
+        ],
+        "Model": [
+            505001501
+        ],
+        "MaxModel": [
+            505002501
+        ],
+        "Icon": 1804081,
+        "MaxIcon": 1804263,
+        "Desc": "donoduel.herocard_name18_des"
+    },
+    {
+        "ID": 19,
+        "Name": "donoduel.herocard_name19",
+        "Condition": "",
+        "Stars": 5,
+        "AttackInitial": 6600,
+        "Attack": {
+            "1": 8250,
+            "2": 12375,
+            "3": 16500,
+            "4": 20625,
+            "5": 24750,
+            "6": 33000
+        },
+        "DefenseInitial": 360,
+        "Defense": {
+            "1": 450,
+            "2": 563,
+            "3": 675,
+            "4": 788,
+            "5": 900,
+            "6": 1125
+        },
+        "HealthInitial": 400000,
+        "Health": {
+            "1": 500000,
+            "2": 625000,
+            "3": 750000,
+            "4": 875000,
+            "5": 1000000,
+            "6": 1250000
+        },
+        "ExtraBuff": 1001,
+        "BondID": [
+            5,
+            10
+        ],
+        "BuffTag": [
+            105,
+            110
+        ],
+        "SkillUnloked": [
+            2,
+            3,
+            4
+        ],
+        "Model": [
+            504001017
+        ],
+        "MaxModel": [
+            504002017
+        ],
+        "Icon": 1804040,
+        "MaxIcon": 1804246,
+        "Desc": "donoduel.herocard_name19_des"
+    },
+    {
+        "ID": 20,
+        "Name": "donoduel.herocard_name20",
+        "Condition": "",
+        "Stars": 5,
+        "AttackInitial": 6600,
+        "Attack": {
+            "1": 8250,
+            "2": 12375,
+            "3": 16500,
+            "4": 20625,
+            "5": 24750,
+            "6": 33000
+        },
+        "DefenseInitial": 360,
+        "Defense": {
+            "1": 450,
+            "2": 563,
+            "3": 675,
+            "4": 788,
+            "5": 900,
+            "6": 1125
+        },
+        "HealthInitial": 400000,
+        "Health": {
+            "1": 500000,
+            "2": 625000,
+            "3": 750000,
+            "4": 875000,
+            "5": 1000000,
+            "6": 1250000
+        },
+        "ExtraBuff": 1001,
+        "BondID": [
+            5,
+            8
+        ],
+        "BuffTag": [
+            105,
+            108
+        ],
+        "SkillUnloked": [
+            2,
+            3,
+            4
+        ],
+        "Model": [
+            504501215
+        ],
+        "MaxModel": [
+            504502215
+        ],
+        "Icon": 1804074,
+        "MaxIcon": 1804223,
+        "Desc": "donoduel.herocard_name20_des"
+    }
+]

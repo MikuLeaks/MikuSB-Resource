@@ -1,0 +1,198 @@
+[
+    {
+        "Type": "main",
+        "Scene": "Entry_01b",
+        "LightScene": "CharacterLighting",
+        "Class": "Main"
+    },
+    {
+        "Type": "gacha",
+        "Scene": "Entry_03",
+        "LightScene": "",
+        "Class": "Gacha"
+    },
+    {
+        "Type": "dungeonsboss",
+        "Scene": "Entry_05",
+        "LightScene": "CharacterLighting1",
+        "Class": "Monster",
+        "Env_mesh_Scale": [
+            13,
+            2.6,
+            13
+        ],
+        "entry02_Line_Radius": 1000,
+        "entry02_Line_Tile": 0.01,
+        "entry02_Line_Rotate": 80,
+        "RoleLighting_Rotation": [
+            -10,
+            0,
+            0
+        ],
+        "Unload": "",
+        "entry02_Line_OffsetV": 0.08
+    },
+    {
+        "Type": "role_lvup",
+        "Scene": "Entry_05",
+        "LightScene": "CharacterLighting1",
+        "Class": "Role",
+        "Env_mesh_Scale": [
+            18,
+            3.6,
+            18
+        ],
+        "entry02_Line_Radius": 1300,
+        "entry02_Line_Tile": 0.008,
+        "entry02_Line_Rotate": 80,
+        "RoleLighting_Rotation": [
+            -10,
+            -10,
+            0
+        ],
+        "Unload": "",
+        "entry02_Line_OffsetV": 0.08,
+        "e_Rotate": [
+            0,
+            10,
+            0
+        ],
+        "e_size": 4,
+        "e_x_count": 20,
+        "e_dimension": [
+            50,
+            50,
+            0
+        ]
+    },
+    {
+        "Type": "weapon",
+        "Scene": "Entry_05",
+        "LightScene": "WeaponLighting",
+        "Class": "Weapon",
+        "Env_mesh_Scale": [
+            3,
+            0.9,
+            3
+        ],
+        "entry02_Line_Radius": 200,
+        "entry02_Line_Tile": 0.02,
+        "entry02_Line_Rotate": 80,
+        "RoleLighting_Rotation": "",
+        "Unload": "",
+        "entry02_Line_OffsetV": 0.08,
+        "e_Rotate": [
+            0,
+            10,
+            0
+        ],
+        "e_size": 1.5,
+        "e_x_count": 8,
+        "e_dimension": [
+            40,
+            50,
+            0
+        ]
+    },
+    {
+        "Type": "weapon_info",
+        "Scene": "Entry_05",
+        "LightScene": "WeaponLighting",
+        "Class": "WeaponPart",
+        "Env_mesh_Scale": "",
+        "entry02_Line_Radius": 200,
+        "entry02_Line_Tile": 0.02,
+        "entry02_Line_Rotate": 80,
+        "RoleLighting_Rotation": "",
+        "Unload": "",
+        "entry02_Line_OffsetV": 0.08,
+        "e_Rotate": [
+            0,
+            10,
+            0
+        ],
+        "e_size": 1.5,
+        "e_x_count": 8,
+        "e_dimension": [
+            40,
+            50,
+            0
+        ]
+    },
+    {
+        "Type": "formation",
+        "Scene": "Entry_05",
+        "LightScene": "CharacterLighting1",
+        "Class": "",
+        "Env_mesh_Scale": [
+            20,
+            4,
+            20
+        ],
+        "entry02_Line_Radius": 500,
+        "entry02_Line_Tile": 0.008,
+        "entry02_Line_Rotate": 90,
+        "RoleLighting_Rotation": [
+            -44,
+            332,
+            0
+        ],
+        "Unload": "",
+        "entry02_Line_OffsetV": 1,
+        "e_Rotate": [
+            0,
+            0,
+            0
+        ],
+        "e_size": 4,
+        "e_x_count": 20,
+        "e_dimension": [
+            50,
+            50,
+            0
+        ]
+    },
+    {
+        "Type": "dlc1_main",
+        "Scene": "UI_DLC1Map",
+        "LightScene": "CharacterLighting1"
+    },
+    {
+        "Type": "dungeons",
+        "Scene": "Entry_06",
+        "LightScene": "",
+        "Class": "Dungeons"
+    },
+    {
+        "Type": "darkzone",
+        "Scene": "area09_91",
+        "LightScene": "area09_91_light"
+    },
+    {
+        "Type": "party1",
+        "Scene": "party06_00",
+        "LightScene": "part05_00_RoleLightController"
+    },
+    {
+        "Type": "seasonboss",
+        "Scene": "Entry_07"
+    },
+    {
+        "Type": "victorySeq",
+        "Scene": "vr02_02"
+    },
+    {
+        "Type": "rmol",
+        "Scene": "chess_dlc32_00"
+    },
+    {
+        "Type": "worldboss",
+        "Scene": "worldwar_00"
+    },
+    {
+        "Type": "donoduel",
+        "Scene": "bw_dnuo01",
+        "LightScene": "",
+        "Class": "DonoDuel"
+    }
+]

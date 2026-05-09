@@ -1,0 +1,2217 @@
+[
+    {
+        "ID": 1,
+        "Type": 5,
+        "SillinfoID": [
+            3810121
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1101_name",
+        "Des": "buff_online.buff_1101_dec",
+        "BuffParamPerCount": [
+            [
+                15
+            ],
+            [
+                22.5
+            ],
+            [
+                30
+            ]
+        ],
+        "Icon": 1001008,
+        "MaxLevel": 3,
+        "Quality": 1,
+        "Price": [
+            59,
+            8
+        ]
+    },
+    {
+        "ID": 2,
+        "Type": 2,
+        "SillinfoID": [
+            3810122
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1102_name",
+        "Des": "buff_online.buff_1102_dec",
+        "BuffParamPerCount": {
+            "10": 120
+        },
+        "Icon": 1001003,
+        "MaxLevel": 3,
+        "Quality": 4,
+        "Price": [
+            59,
+            50
+        ]
+    },
+    {
+        "ID": 3,
+        "Type": 2,
+        "SillinfoID": [
+            3810123
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1103_name",
+        "Des": "buff_online.buff_1103_dec",
+        "BuffParamPerCount": {
+            "20": 140
+        },
+        "Icon": 1001003,
+        "MaxLevel": 3,
+        "Quality": 4,
+        "Price": [
+            59,
+            50
+        ]
+    },
+    {
+        "ID": 4,
+        "Type": 3,
+        "SillinfoID": [
+            3810124
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1104_name",
+        "Des": "buff_online.buff_1104_dec",
+        "BuffParamPerCount": [
+            [
+                20
+            ],
+            [
+                30
+            ],
+            [
+                40
+            ]
+        ],
+        "Icon": 1001008,
+        "MaxLevel": 3,
+        "Quality": 1,
+        "Price": [
+            59,
+            8
+        ]
+    },
+    {
+        "ID": 5,
+        "Type": 1,
+        "SillinfoID": [
+            3810125
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1105_name",
+        "Des": "buff_online.buff_1105_dec",
+        "BuffParamPerCount": [
+            [
+                40
+            ],
+            [
+                60
+            ],
+            [
+                80
+            ]
+        ],
+        "Icon": 1001003,
+        "MaxLevel": 3,
+        "Quality": 4,
+        "Price": [
+            59,
+            50
+        ]
+    },
+    {
+        "ID": 6,
+        "Type": 4,
+        "SillinfoID": [
+            3810126
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1106_name",
+        "Des": "buff_online.buff_1106_dec",
+        "BuffParamPerCount": [
+            [
+                50
+            ],
+            [
+                70
+            ],
+            [
+                100
+            ]
+        ],
+        "Icon": 1001002,
+        "MaxLevel": 3,
+        "Quality": 4,
+        "Price": [
+            59,
+            50
+        ]
+    },
+    {
+        "ID": 7,
+        "Type": 2,
+        "SillinfoID": [
+            3810127
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1108_name",
+        "Des": "buff_online.buff_1108_dec",
+        "BuffParamPerCount": [
+            [
+                15
+            ],
+            [
+                22.5
+            ],
+            [
+                30
+            ]
+        ],
+        "Icon": 1001732,
+        "MaxLevel": 3,
+        "Quality": 1,
+        "Price": [
+            59,
+            8
+        ]
+    },
+    {
+        "ID": 8,
+        "Type": 5,
+        "SillinfoID": [
+            3810128
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1109_name",
+        "Des": "buff_online.buff_1109_dec",
+        "BuffParamPerCount": [
+            [
+                40
+            ],
+            [
+                60
+            ],
+            [
+                80
+            ]
+        ],
+        "Icon": 1001004,
+        "MaxLevel": 3,
+        "Quality": 4,
+        "Price": [
+            59,
+            50
+        ]
+    },
+    {
+        "ID": 9,
+        "Type": 4,
+        "SillinfoID": [
+            3810129
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1110_name",
+        "Des": "buff_online.buff_1110_dec",
+        "BuffParamPerCount": {
+            "10": 10,
+            "15": 10,
+            "20": 10
+        },
+        "Icon": 1001005,
+        "MaxLevel": 3,
+        "Quality": 1,
+        "Price": [
+            59,
+            8
+        ]
+    },
+    {
+        "ID": 10,
+        "Type": 3,
+        "SillinfoID": [
+            3810130
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1111_name",
+        "Des": "buff_online.buff_1111_dec",
+        "BuffParamPerCount": [
+            [
+                20
+            ],
+            [
+                30
+            ],
+            [
+                40
+            ]
+        ],
+        "Icon": 1001005,
+        "MaxLevel": 3,
+        "Quality": 3,
+        "Price": [
+            59,
+            25
+        ]
+    },
+    {
+        "ID": 11,
+        "Type": 4,
+        "SillinfoID": [
+            3810131
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1112_name",
+        "Des": "buff_online.buff_1112_dec",
+        "BuffParamPerCount": {
+            "4": 10,
+            "6": 10,
+            "8": 10
+        },
+        "Icon": 1001006,
+        "MaxLevel": 3,
+        "Quality": 1,
+        "Price": [
+            59,
+            8
+        ]
+    },
+    {
+        "ID": 12,
+        "Type": 3,
+        "SillinfoID": [
+            3810132
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1113_name",
+        "Des": "buff_online.buff_1113_dec",
+        "BuffParamPerCount": [
+            [
+                15
+            ],
+            [
+                22.5
+            ],
+            [
+                30
+            ]
+        ],
+        "Icon": 1001006,
+        "MaxLevel": 3,
+        "Quality": 2,
+        "Price": [
+            59,
+            15
+        ]
+    },
+    {
+        "ID": 13,
+        "Type": 1,
+        "SillinfoID": [
+            3810133
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1114_name",
+        "Des": "buff_online.buff_1114_dec",
+        "BuffParamPerCount": [
+            [
+                50
+            ],
+            [
+                75
+            ],
+            [
+                100
+            ]
+        ],
+        "Icon": 1001732,
+        "MaxLevel": 3,
+        "Quality": 5,
+        "Price": [
+            59,
+            80
+        ]
+    },
+    {
+        "ID": 14,
+        "Type": 3,
+        "SillinfoID": [
+            3810134
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1116_name",
+        "Des": "buff_online.buff_1116_dec",
+        "BuffParamPerCount": [
+            [
+                1
+            ],
+            [
+                1.5
+            ],
+            [
+                2
+            ]
+        ],
+        "Icon": 1001006,
+        "MaxLevel": 3,
+        "Quality": 5,
+        "Price": [
+            59,
+            80
+        ]
+    },
+    {
+        "ID": 15,
+        "Type": 5,
+        "SillinfoID": [
+            3810135
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1117_name",
+        "Des": "buff_online.buff_1117_dec",
+        "BuffParamPerCount": [
+            [
+                30
+            ],
+            [
+                45
+            ],
+            [
+                60
+            ]
+        ],
+        "Icon": 1001008,
+        "MaxLevel": 3,
+        "Quality": 2,
+        "Price": [
+            59,
+            15
+        ]
+    },
+    {
+        "ID": 16,
+        "Type": 5,
+        "SillinfoID": [
+            3810136
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1118_name",
+        "Des": "buff_online.buff_1118_dec",
+        "BuffParamPerCount": [
+            [
+                15
+            ],
+            [
+                22.5
+            ],
+            [
+                30
+            ]
+        ],
+        "Icon": 1001008,
+        "MaxLevel": 3,
+        "Quality": 1,
+        "Price": [
+            59,
+            8
+        ]
+    },
+    {
+        "ID": 17,
+        "Type": 4,
+        "SillinfoID": [
+            3810137
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1123_name",
+        "Des": "buff_online.buff_1123_dec",
+        "BuffParamPerCount": {
+            "5": 40
+        },
+        "Icon": 1001002,
+        "MaxLevel": 3,
+        "Quality": 2,
+        "Price": [
+            59,
+            15
+        ]
+    },
+    {
+        "ID": 18,
+        "Type": 1,
+        "SillinfoID": [
+            3810138
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1124_name",
+        "Des": "buff_online.buff_1124_dec",
+        "BuffParamPerCount": {
+            "1": 2,
+            "1.5": 2,
+            "2": 2
+        },
+        "Icon": 1001006,
+        "MaxLevel": 3,
+        "Quality": 1,
+        "Price": [
+            59,
+            8
+        ]
+    },
+    {
+        "ID": 19,
+        "Type": 5,
+        "SillinfoID": [
+            3810139
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1125_name",
+        "Des": "buff_online.buff_1125_dec",
+        "BuffParamPerCount": [
+            [
+                40
+            ],
+            [
+                60
+            ],
+            [
+                80
+            ]
+        ],
+        "Icon": 1001007,
+        "MaxLevel": 3,
+        "Quality": 4,
+        "Price": [
+            59,
+            50
+        ]
+    },
+    {
+        "ID": 20,
+        "Type": 2,
+        "SillinfoID": [
+            3810140
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1126_name",
+        "Des": "buff_online.buff_1126_dec",
+        "BuffParamPerCount": [
+            [
+                15
+            ],
+            [
+                22.5
+            ],
+            [
+                30
+            ]
+        ],
+        "Icon": 1001009,
+        "MaxLevel": 3,
+        "Quality": 4,
+        "Price": [
+            59,
+            50
+        ]
+    },
+    {
+        "ID": 21,
+        "Type": 2,
+        "SillinfoID": [
+            3810141
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1127_name",
+        "Des": "buff_online.buff_1127_dec",
+        "BuffParamPerCount": [
+            [
+                10
+            ],
+            [
+                15
+            ],
+            [
+                20
+            ]
+        ],
+        "Icon": 1001009,
+        "MaxLevel": 3,
+        "Quality": 1,
+        "Price": [
+            59,
+            8
+        ]
+    },
+    {
+        "ID": 22,
+        "Type": 3,
+        "SillinfoID": [
+            3810142
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1204_name",
+        "Des": "buff_online.buff_1204_dec",
+        "BuffParamPerCount": {
+            "40": 5,
+            "60": 5,
+            "80": 5
+        },
+        "Icon": 1001003,
+        "MaxLevel": 3,
+        "Quality": 4,
+        "Price": [
+            59,
+            50
+        ]
+    },
+    {
+        "ID": 23,
+        "Type": 4,
+        "SillinfoID": [
+            3810143
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1205_name",
+        "Des": "buff_online.buff_1205_dec",
+        "BuffParamPerCount": [
+            [
+                20
+            ],
+            [
+                30
+            ],
+            [
+                40
+            ]
+        ],
+        "Icon": 1001725,
+        "MaxLevel": 3,
+        "Quality": 3,
+        "Price": [
+            59,
+            25
+        ]
+    },
+    {
+        "ID": 24,
+        "Type": 2,
+        "SillinfoID": [
+            3810144
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1206_name",
+        "Des": "buff_online.buff_1206_dec",
+        "BuffParamPerCount": {
+            "50": 100
+        },
+        "Icon": 1001003,
+        "MaxLevel": 3,
+        "Quality": 3,
+        "Price": [
+            59,
+            25
+        ]
+    },
+    {
+        "ID": 25,
+        "Type": 4,
+        "SillinfoID": [
+            3810145
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1207_name",
+        "Des": "buff_online.buff_1208_dec",
+        "BuffParamPerCount": {
+            "33": 120
+        },
+        "Icon": 1001000,
+        "MaxLevel": 3,
+        "Quality": 4,
+        "Price": [
+            59,
+            50
+        ]
+    },
+    {
+        "ID": 26,
+        "Type": 1,
+        "SillinfoID": [
+            3810146
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1208_name",
+        "Des": "buff_online.buff_1207_dec",
+        "BuffParamPerCount": {
+            "33": 120
+        },
+        "Icon": 1001002,
+        "MaxLevel": 3,
+        "Quality": 5,
+        "Price": [
+            59,
+            80
+        ]
+    },
+    {
+        "ID": 27,
+        "Type": 4,
+        "SillinfoID": [
+            3810147
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1209_name",
+        "Des": "buff_online.buff_1209_dec",
+        "BuffParamPerCount": [
+            [
+                20
+            ],
+            [
+                30
+            ],
+            [
+                40
+            ]
+        ],
+        "Icon": 1001726,
+        "MaxLevel": 3,
+        "Quality": 3,
+        "Price": [
+            59,
+            25
+        ]
+    },
+    {
+        "ID": 28,
+        "Type": 4,
+        "SillinfoID": [
+            3810148
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1210_name",
+        "Des": "buff_online.buff_1210_dec",
+        "BuffParamPerCount": [
+            [
+                20
+            ],
+            [
+                30
+            ],
+            [
+                40
+            ]
+        ],
+        "Icon": 1001727,
+        "MaxLevel": 3,
+        "Quality": 3,
+        "Price": [
+            59,
+            25
+        ]
+    },
+    {
+        "ID": 29,
+        "Type": 4,
+        "SillinfoID": [
+            3810149
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1211_name",
+        "Des": "buff_online.buff_1211_dec",
+        "BuffParamPerCount": [
+            [
+                20
+            ],
+            [
+                30
+            ],
+            [
+                40
+            ]
+        ],
+        "Icon": 1001728,
+        "MaxLevel": 3,
+        "Quality": 3,
+        "Price": [
+            59,
+            25
+        ]
+    },
+    {
+        "ID": 30,
+        "Type": 4,
+        "SillinfoID": [
+            3810150
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1212_name",
+        "Des": "buff_online.buff_1212_dec",
+        "BuffParamPerCount": [
+            [
+                20
+            ],
+            [
+                30
+            ],
+            [
+                40
+            ]
+        ],
+        "Icon": 1001729,
+        "MaxLevel": 3,
+        "Quality": 3,
+        "Price": [
+            59,
+            25
+        ]
+    },
+    {
+        "ID": 31,
+        "Type": 5,
+        "SillinfoID": [
+            3810151
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1213_name",
+        "Des": "buff_online.buff_1213_dec",
+        "BuffParamPerCount": [
+            [
+                40
+            ],
+            [
+                60
+            ],
+            [
+                80
+            ]
+        ],
+        "Icon": 1001004,
+        "MaxLevel": 3,
+        "Quality": 5,
+        "Price": [
+            59,
+            80
+        ]
+    },
+    {
+        "ID": 32,
+        "Type": 2,
+        "SillinfoID": [
+            3810152
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1214_name",
+        "Des": "buff_online.buff_1214_dec",
+        "BuffParamPerCount": {
+            "1": 1,
+            "1.5": 1,
+            "2": 1
+        },
+        "Icon": 1001006,
+        "MaxLevel": 3,
+        "Quality": 3,
+        "Price": [
+            59,
+            25
+        ]
+    },
+    {
+        "ID": 33,
+        "Type": 2,
+        "SillinfoID": [
+            3810153
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1215_name",
+        "Des": "buff_online.buff_1215_dec",
+        "BuffParamPerCount": {
+            "15": 5,
+            "22.5": 5,
+            "30": 5
+        },
+        "Icon": 1001003,
+        "MaxLevel": 3,
+        "Quality": 3,
+        "Price": [
+            59,
+            25
+        ]
+    },
+    {
+        "ID": 34,
+        "Type": 4,
+        "SillinfoID": [
+            3810154
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1217_name",
+        "Des": "buff_online.buff_1217_dec",
+        "BuffParamPerCount": [
+            [
+                1
+            ],
+            [
+                1.5
+            ],
+            [
+                2
+            ]
+        ],
+        "Icon": 1001733,
+        "MaxLevel": 3,
+        "Quality": 2,
+        "Price": [
+            59,
+            15
+        ]
+    },
+    {
+        "ID": 35,
+        "Type": 2,
+        "SillinfoID": [
+            3810155
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1301_name",
+        "Des": "buff_online.buff_1301_dec",
+        "BuffParamPerCount": {
+            "2": 160
+        },
+        "Icon": 1001003,
+        "MaxLevel": 3,
+        "Quality": 4,
+        "Price": [
+            59,
+            50
+        ]
+    },
+    {
+        "ID": 36,
+        "Type": 1,
+        "SillinfoID": [
+            3810156
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1302_name",
+        "Des": "buff_online.buff_1302_dec",
+        "BuffParamPerCount": [
+            [
+                15
+            ],
+            [
+                22.5
+            ],
+            [
+                30
+            ]
+        ],
+        "Icon": 1001000,
+        "MaxLevel": 3,
+        "Quality": 1,
+        "Price": [
+            59,
+            8
+        ]
+    },
+    {
+        "ID": 37,
+        "Type": 4,
+        "SillinfoID": [
+            3810157
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1303_name",
+        "Des": "buff_online.buff_1303_dec",
+        "BuffParamPerCount": [
+            [
+                40
+            ],
+            [
+                60
+            ],
+            [
+                80
+            ]
+        ],
+        "Icon": 1001002,
+        "MaxLevel": 3,
+        "Quality": 5,
+        "Price": [
+            59,
+            80
+        ]
+    },
+    {
+        "ID": 38,
+        "Type": 1,
+        "SillinfoID": [
+            3810158
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1304_name",
+        "Des": "buff_online.buff_1304_dec",
+        "BuffParamPerCount": {
+            "50": 140
+        },
+        "Icon": 1001003,
+        "MaxLevel": 3,
+        "Quality": 5,
+        "Price": [
+            59,
+            80
+        ]
+    },
+    {
+        "ID": 39,
+        "Type": 4,
+        "SillinfoID": [
+            3810159
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1306_name",
+        "Des": "buff_online.buff_1306_dec",
+        "BuffParamPerCount": [
+            [
+                60
+            ],
+            [
+                90
+            ],
+            [
+                120
+            ]
+        ],
+        "Icon": 1001002,
+        "MaxLevel": 3,
+        "Quality": 4,
+        "Price": [
+            59,
+            50
+        ]
+    },
+    {
+        "ID": 40,
+        "Type": 1,
+        "SillinfoID": [
+            3810160
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1309_name",
+        "Des": "buff_online.buff_1309_dec",
+        "BuffParamPerCount": [
+            [
+                0.25
+            ],
+            [
+                0.75
+            ],
+            [
+                1
+            ]
+        ],
+        "Icon": 1001732,
+        "MaxLevel": 3,
+        "Quality": 2,
+        "Price": [
+            59,
+            15
+        ]
+    },
+    {
+        "ID": 41,
+        "Type": 1,
+        "SillinfoID": [
+            3810161
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1311_name",
+        "Des": "buff_online.buff_1311_dec",
+        "BuffParamPerCount": [
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ]
+        ],
+        "Icon": 1001732,
+        "MaxLevel": 3,
+        "Quality": 4,
+        "Price": [
+            59,
+            50
+        ]
+    },
+    {
+        "ID": 42,
+        "Type": 1,
+        "SillinfoID": [
+            3810162
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1312_name",
+        "Des": "buff_online.buff_1312_dec",
+        "BuffParamPerCount": [
+            [
+                30
+            ],
+            [
+                45
+            ],
+            [
+                60
+            ]
+        ],
+        "Icon": 1001732,
+        "MaxLevel": 3,
+        "Quality": 3,
+        "Price": [
+            59,
+            25
+        ]
+    },
+    {
+        "ID": 43,
+        "Type": 1,
+        "SillinfoID": [
+            3810163
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1315_name",
+        "Des": "online.SpeedScoreBuffDes6",
+        "BuffParamPerCount": [
+            [
+                0.5
+            ],
+            [
+                0.75
+            ],
+            [
+                1
+            ]
+        ],
+        "Icon": 1001007,
+        "MaxLevel": 3,
+        "Quality": 3,
+        "Price": [
+            59,
+            25
+        ]
+    },
+    {
+        "ID": 44,
+        "Type": 5,
+        "SillinfoID": [
+            3810164
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1316_name",
+        "Des": "buff_online.buff_1316_dec",
+        "BuffParamPerCount": [
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ]
+        ],
+        "Icon": 1001006,
+        "MaxLevel": 3,
+        "Quality": 3,
+        "Price": [
+            59,
+            25
+        ]
+    },
+    {
+        "ID": 45,
+        "Type": 2,
+        "SillinfoID": [
+            3810165
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1317_name",
+        "Des": "buff_online.buff_1317_dec",
+        "BuffParamPerCount": {
+            "8": 5,
+            "12": 5,
+            "16": 5
+        },
+        "Icon": 1001007,
+        "MaxLevel": 3,
+        "Quality": 2,
+        "Price": [
+            59,
+            15
+        ]
+    },
+    {
+        "ID": 46,
+        "Type": 5,
+        "SillinfoID": [
+            3810166
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1328_name",
+        "Des": "buff_online.buff_1328_dec",
+        "BuffParamPerCount": [
+            [
+                2,
+                2.5,
+                10
+            ],
+            [
+                3,
+                2.5,
+                10
+            ],
+            [
+                4,
+                2.5,
+                10
+            ]
+        ],
+        "Icon": 1001730,
+        "MaxLevel": 3,
+        "Quality": 3,
+        "Price": [
+            59,
+            25
+        ]
+    },
+    {
+        "ID": 47,
+        "Type": 3,
+        "SillinfoID": [
+            3810167
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1330_name",
+        "Des": "buff_online.buff_1330_dec",
+        "BuffParamPerCount": {
+            "1": 2
+        },
+        "Icon": 1001000,
+        "MaxLevel": 3,
+        "Quality": 5,
+        "Price": [
+            59,
+            80
+        ]
+    },
+    {
+        "ID": 48,
+        "Type": 1,
+        "SillinfoID": [
+            3810168
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1331_name",
+        "Des": "buff_online.buff_1331_dec",
+        "BuffParamPerCount": {
+            "4": 40
+        },
+        "Icon": 1001731,
+        "MaxLevel": 3,
+        "Quality": 2,
+        "Price": [
+            59,
+            15
+        ]
+    },
+    {
+        "ID": 49,
+        "Type": 3,
+        "SillinfoID": [
+            3810169
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1334_name",
+        "Des": "buff_online.buff_1334_dec",
+        "BuffParamPerCount": [
+            [
+                8
+            ],
+            [
+                12
+            ],
+            [
+                16
+            ]
+        ],
+        "Icon": 1001000,
+        "MaxLevel": 3,
+        "Quality": 3,
+        "Price": [
+            59,
+            25
+        ]
+    },
+    {
+        "ID": 50,
+        "Type": 5,
+        "SillinfoID": [
+            3810170
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1401_name",
+        "Des": "buff_online.buff_1401_dec",
+        "BuffParamPerCount": [
+            [
+                5
+            ],
+            [
+                7.5
+            ],
+            [
+                10
+            ]
+        ],
+        "Icon": 1001007,
+        "MaxLevel": 3,
+        "Quality": 5,
+        "Price": [
+            59,
+            80
+        ]
+    },
+    {
+        "ID": 51,
+        "Type": 3,
+        "SillinfoID": [
+            3810171
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1402_name",
+        "Des": "buff_online.buff_1402_dec",
+        "BuffParamPerCount": [
+            [
+                20
+            ],
+            [
+                30
+            ],
+            [
+                40
+            ]
+        ],
+        "Icon": 1001005,
+        "MaxLevel": 3,
+        "Quality": 2,
+        "Price": [
+            59,
+            15
+        ]
+    },
+    {
+        "ID": 52,
+        "Type": 2,
+        "SillinfoID": [
+            3810172
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1403_name",
+        "Des": "buff_online.buff_1403_dec",
+        "BuffParamPerCount": [
+            [
+                40
+            ],
+            [
+                60
+            ],
+            [
+                80
+            ]
+        ],
+        "Icon": 1001005,
+        "MaxLevel": 3,
+        "Quality": 5,
+        "Price": [
+            59,
+            80
+        ]
+    },
+    {
+        "ID": 53,
+        "Type": 3,
+        "SillinfoID": [
+            3810173
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1404_name",
+        "Des": "buff_online.buff_1404_dec",
+        "BuffParamPerCount": [
+            [
+                10
+            ],
+            [
+                15
+            ],
+            [
+                20
+            ]
+        ],
+        "Icon": 1001006,
+        "MaxLevel": 3,
+        "Quality": 1,
+        "Price": [
+            59,
+            8
+        ]
+    },
+    {
+        "ID": 54,
+        "Type": 5,
+        "SillinfoID": [
+            3810174
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1408_name",
+        "Des": "buff_online.buff_1408_dec",
+        "BuffParamPerCount": [
+            [
+                25
+            ],
+            [
+                37.5
+            ],
+            [
+                50
+            ]
+        ],
+        "Icon": 1001730,
+        "MaxLevel": 3,
+        "Quality": 4,
+        "Price": [
+            59,
+            50
+        ]
+    },
+    {
+        "ID": 55,
+        "Type": 5,
+        "SillinfoID": [
+            3810175
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1412_name",
+        "Des": "buff_online.buff_1412_dec",
+        "BuffParamPerCount": {
+            "30": 6,
+            "45": 6,
+            "60": 6
+        },
+        "Icon": 1001009,
+        "MaxLevel": 3,
+        "Quality": 5,
+        "Price": [
+            59,
+            80
+        ]
+    },
+    {
+        "ID": 56,
+        "Type": 3,
+        "SillinfoID": [
+            3810176
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1414_name",
+        "Des": "online.SpeedScoreBuffDes7",
+        "BuffParamPerCount": {
+            "120": 5,
+            "180": 5,
+            "240": 5
+        },
+        "Icon": 1001725,
+        "MaxLevel": 3,
+        "Quality": 4,
+        "Price": [
+            59,
+            50
+        ]
+    },
+    {
+        "ID": 57,
+        "Type": 3,
+        "SillinfoID": [
+            3810177
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1416_name",
+        "Des": "online.SpeedScoreBuffDes8",
+        "BuffParamPerCount": {
+            "120": 5,
+            "180": 5,
+            "240": 5
+        },
+        "Icon": 1001729,
+        "MaxLevel": 3,
+        "Quality": 4,
+        "Price": [
+            59,
+            50
+        ]
+    },
+    {
+        "ID": 58,
+        "Type": 3,
+        "SillinfoID": [
+            3810178
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1417_name",
+        "Des": "buff_online.buff_1417_dec",
+        "BuffParamPerCount": [
+            [
+                15
+            ],
+            [
+                22.5
+            ],
+            [
+                30
+            ]
+        ],
+        "Icon": 1001000,
+        "MaxLevel": 3,
+        "Quality": 3,
+        "Price": [
+            59,
+            25
+        ]
+    },
+    {
+        "ID": 59,
+        "Type": 3,
+        "SillinfoID": [
+            3810179
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1419_name",
+        "Des": "buff_online.buff_1419_dec",
+        "BuffParamPerCount": [
+            [
+                6,
+                40,
+                20
+            ],
+            [
+                6,
+                60,
+                30
+            ],
+            [
+                6,
+                80,
+                40
+            ]
+        ],
+        "Icon": 1001008,
+        "MaxLevel": 3,
+        "Quality": 5,
+        "Price": [
+            59,
+            80
+        ]
+    },
+    {
+        "ID": 60,
+        "Type": 1,
+        "SillinfoID": [
+            3810180
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1420_name",
+        "Des": "buff_online.buff_1420_dec",
+        "BuffParamPerCount": [
+            [
+                25
+            ],
+            [
+                37.5
+            ],
+            [
+                50
+            ]
+        ],
+        "Icon": 1001730,
+        "MaxLevel": 3,
+        "Quality": 4,
+        "Price": [
+            59,
+            50
+        ]
+    },
+    {
+        "ID": 61,
+        "Type": 5,
+        "SillinfoID": [
+            3810181
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1421_name",
+        "Des": "buff_online.buff_1421_dec",
+        "BuffParamPerCount": [
+            [
+                20
+            ],
+            [
+                30
+            ],
+            [
+                40
+            ]
+        ],
+        "Icon": 1001000,
+        "MaxLevel": 3,
+        "Quality": 3,
+        "Price": [
+            59,
+            25
+        ]
+    },
+    {
+        "ID": 62,
+        "Type": 3,
+        "SillinfoID": [
+            3810182
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1422_name",
+        "Des": "buff_online.buff_1422_dec",
+        "BuffParamPerCount": {
+            "3": 5,
+            "3.75": 5,
+            "5": 5
+        },
+        "Icon": 1001000,
+        "MaxLevel": 3,
+        "Quality": 2,
+        "Price": [
+            59,
+            15
+        ]
+    },
+    {
+        "ID": 63,
+        "Type": 2,
+        "SillinfoID": [
+            3810183
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1425_name",
+        "Des": "buff_online.buff_1425_dec",
+        "BuffParamPerCount": [
+            [
+                15,
+                2,
+                8,
+                50
+            ],
+            [
+                15,
+                3,
+                8,
+                50
+            ],
+            [
+                15,
+                4,
+                8,
+                50
+            ]
+        ],
+        "Icon": 1001000,
+        "MaxLevel": 3,
+        "Quality": 5,
+        "Price": [
+            59,
+            80
+        ]
+    },
+    {
+        "ID": 64,
+        "Type": 2,
+        "SillinfoID": [
+            3810184
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1426_name",
+        "Des": "buff_online.buff_1426_dec",
+        "BuffParamPerCount": [
+            [
+                6
+            ],
+            [
+                9
+            ],
+            [
+                12
+            ]
+        ],
+        "Icon": 1001000,
+        "MaxLevel": 3,
+        "Quality": 2,
+        "Price": [
+            59,
+            15
+        ]
+    },
+    {
+        "ID": 65,
+        "Type": 5,
+        "SillinfoID": [
+            3810185
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "buff_online.buff_1428_name",
+        "Des": "buff_online.buff_1428_dec",
+        "BuffParamPerCount": [
+            [
+                10
+            ],
+            [
+                15
+            ],
+            [
+                20
+            ]
+        ],
+        "Icon": 1001012,
+        "MaxLevel": 3,
+        "Quality": 2,
+        "Price": [
+            59,
+            15
+        ]
+    },
+    {
+        "ID": 66,
+        "Type": 1,
+        "SillinfoID": "",
+        "SkillfixID": "",
+        "ModifierID": [
+            3810104
+        ],
+        "Name": "online.SpeedScoreBuffName1",
+        "Des": "online.SpeedScoreBuffDes1",
+        "BuffParamPerCount": [
+            [
+                15,
+                0.2,
+                999
+            ],
+            [
+                15,
+                0.3,
+                999
+            ],
+            [
+                15,
+                0.4,
+                999
+            ]
+        ],
+        "Icon": 1001003,
+        "MaxLevel": 3,
+        "Quality": 5,
+        "Price": [
+            59,
+            80
+        ]
+    },
+    {
+        "ID": 67,
+        "Type": 2,
+        "SillinfoID": "",
+        "SkillfixID": "",
+        "ModifierID": [
+            3810105
+        ],
+        "Name": "online.SpeedScoreBuffName2",
+        "Des": "online.SpeedScoreBuffDes2",
+        "BuffParamPerCount": [
+            [
+                20,
+                3,
+                100,
+                20
+            ],
+            [
+                30,
+                4.5,
+                100,
+                20
+            ],
+            [
+                40,
+                6,
+                100,
+                20
+            ]
+        ],
+        "Icon": 1001000,
+        "MaxLevel": 3,
+        "Quality": 5,
+        "Price": [
+            59,
+            80
+        ]
+    },
+    {
+        "ID": 68,
+        "Type": 3,
+        "SillinfoID": "",
+        "SkillfixID": "",
+        "ModifierID": [
+            3810106
+        ],
+        "Name": "online.SpeedScoreBuffName3",
+        "Des": "online.SpeedScoreBuffDes3",
+        "BuffParamPerCount": [
+            [
+                5,
+                6,
+                6,
+                5
+            ],
+            [
+                5,
+                9,
+                6,
+                5
+            ],
+            [
+                5,
+                12,
+                6,
+                5
+            ]
+        ],
+        "Icon": 1001730,
+        "MaxLevel": 3,
+        "Quality": 5,
+        "Price": [
+            59,
+            80
+        ]
+    },
+    {
+        "ID": 69,
+        "Type": 4,
+        "SillinfoID": "",
+        "SkillfixID": "",
+        "ModifierID": [
+            3810107
+        ],
+        "Name": "online.SpeedScoreBuffName4",
+        "Des": "online.SpeedScoreBuffDes4",
+        "BuffParamPerCount": [
+            [
+                20,
+                1,
+                10,
+                99
+            ],
+            [
+                30,
+                1.5,
+                10,
+                99
+            ],
+            [
+                40,
+                2,
+                10,
+                99
+            ]
+        ],
+        "Icon": 1001009,
+        "MaxLevel": 3,
+        "Quality": 5,
+        "Price": [
+            59,
+            80
+        ]
+    },
+    {
+        "ID": 70,
+        "Type": 5,
+        "SillinfoID": "",
+        "SkillfixID": "",
+        "ModifierID": [
+            3810108
+        ],
+        "Name": "online.SpeedScoreBuffName5",
+        "Des": "online.SpeedScoreBuffDes5",
+        "BuffParamPerCount": [
+            [
+                30,
+                20,
+                20,
+                5
+            ],
+            [
+                45,
+                30,
+                30,
+                5
+            ],
+            [
+                60,
+                40,
+                40,
+                5
+            ]
+        ],
+        "Icon": 1001006,
+        "MaxLevel": 3,
+        "Quality": 5,
+        "Price": [
+            59,
+            80
+        ]
+    },
+    {
+        "ID": 71,
+        "Type": 2,
+        "SillinfoID": [
+            3810186
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "rogue3.reward_buff_name1",
+        "Des": "rogue3.reward_buff_des1",
+        "BuffParamPerCount": [
+            [
+                20,
+                50,
+                10,
+                10,
+                30
+            ],
+            [
+                20,
+                75,
+                10,
+                10,
+                30
+            ],
+            [
+                20,
+                100,
+                10,
+                10,
+                30
+            ]
+        ],
+        "Icon": 1001731,
+        "MaxLevel": 3,
+        "Quality": 5,
+        "Price": [
+            59,
+            80
+        ]
+    },
+    {
+        "ID": 72,
+        "Type": 5,
+        "SillinfoID": [
+            7016002
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "rogue3.reward_buff_name2",
+        "Des": "rogue3.reward_buff_des2",
+        "BuffParamPerCount": [
+            [
+                1,
+                10,
+                5,
+                15
+            ],
+            [
+                1,
+                10,
+                7.5,
+                15
+            ],
+            [
+                1,
+                10,
+                10,
+                15
+            ]
+        ],
+        "Icon": 1001006,
+        "MaxLevel": 3,
+        "Quality": 4,
+        "Price": [
+            59,
+            50
+        ]
+    },
+    {
+        "ID": 73,
+        "Type": 3,
+        "SillinfoID": [
+            3810188
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "rogue3.reward_buff_name3",
+        "Des": "rogue3.reward_buff_des3",
+        "BuffParamPerCount": [
+            [
+                1,
+                6,
+                5,
+                1
+            ],
+            [
+                1,
+                9,
+                5,
+                1
+            ],
+            [
+                1,
+                12,
+                5,
+                1
+            ]
+        ],
+        "Icon": 1001005,
+        "MaxLevel": 3,
+        "Quality": 4,
+        "Price": [
+            59,
+            50
+        ]
+    },
+    {
+        "ID": 74,
+        "Type": 4,
+        "SillinfoID": [
+            7016004
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "rogue3.reward_buff_name4",
+        "Des": "rogue3.reward_buff_des4",
+        "BuffParamPerCount": [
+            [
+                1,
+                5,
+                5,
+                50
+            ],
+            [
+                1,
+                5,
+                5,
+                75
+            ],
+            [
+                1,
+                5,
+                5,
+                100
+            ]
+        ],
+        "Icon": 1001727,
+        "MaxLevel": 3,
+        "Quality": 5,
+        "Price": [
+            59,
+            80
+        ]
+    },
+    {
+        "ID": 75,
+        "Type": 4,
+        "SillinfoID": [
+            7016005
+        ],
+        "SkillfixID": "",
+        "ModifierID": "",
+        "Name": "rogue3.reward_buff_name5",
+        "Des": "rogue3.reward_buff_des5",
+        "BuffParamPerCount": [
+            [
+                1,
+                10,
+                10,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                15,
+                10,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                20,
+                10,
+                1,
+                1,
+                1
+            ]
+        ],
+        "Icon": 1001733,
+        "MaxLevel": 3,
+        "Quality": 5,
+        "Price": [
+            59,
+            80
+        ]
+    },
+    {
+        "ID": 76,
+        "Type": "",
+        "SillinfoID": "",
+        "SkillfixID": "",
+        "ModifierID": [
+            3810193
+        ],
+        "Name": "",
+        "Des": "online.SpeedScoreBuffDes9",
+        "BuffParamPerCount": [
+            [
+                30,
+                15,
+                10,
+                5,
+                20
+            ]
+        ],
+        "Icon": "",
+        "MaxLevel": 1,
+        "Quality": 4
+    },
+    {
+        "ID": 77,
+        "Type": "",
+        "SillinfoID": "",
+        "SkillfixID": "",
+        "ModifierID": [
+            3810194
+        ],
+        "Name": "",
+        "Des": "online.SpeedScoreBuffDes10",
+        "BuffParamPerCount": [
+            [
+                30,
+                30,
+                30,
+                30,
+                10
+            ]
+        ],
+        "Icon": "",
+        "MaxLevel": 1,
+        "Quality": 4
+    },
+    {
+        "ID": 78,
+        "Type": "",
+        "SillinfoID": "",
+        "SkillfixID": "",
+        "ModifierID": [
+            3810195
+        ],
+        "Name": "",
+        "Des": "online.SpeedScoreBuffDes11",
+        "BuffParamPerCount": [
+            [
+                20,
+                20,
+                20,
+                15,
+                10
+            ]
+        ],
+        "Icon": "",
+        "MaxLevel": 1,
+        "Quality": 4
+    }
+]

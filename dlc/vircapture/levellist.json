@@ -1,0 +1,1539 @@
+[
+    {
+        "Level": 1,
+        "Exp": 2000,
+        "Num": 1,
+        "MaxCost": 10,
+        "MonLv": 101,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 1,
+        "ShowMaxCost": 10,
+        "ShowMonLv": 1,
+        "BlueRate": "",
+        "PurpleRate": "",
+        "GoldRate": "",
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 2,
+        "Exp": 4000,
+        "Num": 2,
+        "MaxCost": 12,
+        "MonLv": 102,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 2,
+        "ShowMaxCost": 12,
+        "ShowMonLv": 2,
+        "BlueRate": "",
+        "PurpleRate": "",
+        "GoldRate": "",
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 3,
+        "Exp": 6000,
+        "Num": 3,
+        "MaxCost": 14,
+        "MonLv": 103,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 3,
+        "ShowMaxCost": 14,
+        "ShowMonLv": 3,
+        "BlueRate": "",
+        "PurpleRate": "",
+        "GoldRate": "",
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 4,
+        "Exp": 6000,
+        "Num": 3,
+        "MaxCost": 16,
+        "MonLv": 104,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 3,
+        "ShowMaxCost": 16,
+        "ShowMonLv": 4,
+        "BlueRate": "",
+        "PurpleRate": "",
+        "GoldRate": "",
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 5,
+        "Exp": 8000,
+        "Num": 3,
+        "MaxCost": 18,
+        "MonLv": 105,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 3,
+        "ShowMaxCost": 18,
+        "ShowMonLv": 5,
+        "BlueRate": "",
+        "PurpleRate": "",
+        "GoldRate": "",
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 6,
+        "Exp": 8000,
+        "Num": 3,
+        "MaxCost": 20,
+        "MonLv": 106,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                1,
+                4
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 3,
+        "ShowMaxCost": 20,
+        "ShowMonLv": 6,
+        "BlueRate": "",
+        "PurpleRate": "",
+        "GoldRate": "",
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 7,
+        "Exp": 10000,
+        "Num": 4,
+        "MaxCost": 22,
+        "MonLv": 107,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                1,
+                4
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 4,
+        "ShowMaxCost": 22,
+        "ShowMonLv": 7,
+        "BlueRate": "",
+        "PurpleRate": "",
+        "GoldRate": "",
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 8,
+        "Exp": 10000,
+        "Num": 4,
+        "MaxCost": 24,
+        "MonLv": 108,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                1,
+                4
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 4,
+        "ShowMaxCost": 24,
+        "ShowMonLv": 8,
+        "BlueRate": "",
+        "PurpleRate": "",
+        "GoldRate": "",
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 9,
+        "Exp": 12000,
+        "Num": 4,
+        "MaxCost": 26,
+        "MonLv": 109,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                1,
+                4
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 4,
+        "ShowMaxCost": 26,
+        "ShowMonLv": 9,
+        "BlueRate": "",
+        "PurpleRate": "",
+        "GoldRate": "",
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 10,
+        "Exp": 12000,
+        "Num": 5,
+        "MaxCost": 28,
+        "MonLv": 110,
+        "Rewards": [
+            [
+                5,
+                9,
+                1,
+                3,
+                1
+            ],
+            [
+                5,
+                5,
+                1,
+                1,
+                4
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 28,
+        "ShowMonLv": 10,
+        "BlueRate": 85,
+        "PurpleRate": 10,
+        "GoldRate": 5,
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 11,
+        "Exp": 14000,
+        "Num": 5,
+        "MaxCost": 30,
+        "MonLv": 111,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                1,
+                4
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 30,
+        "ShowMonLv": 11,
+        "BlueRate": 84,
+        "PurpleRate": 11,
+        "GoldRate": 5,
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 12,
+        "Exp": 14000,
+        "Num": 5,
+        "MaxCost": 32,
+        "MonLv": 112,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                1,
+                4
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 32,
+        "ShowMonLv": 12,
+        "BlueRate": 83,
+        "PurpleRate": 12,
+        "GoldRate": 5,
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 13,
+        "Exp": 16000,
+        "Num": 5,
+        "MaxCost": 34,
+        "MonLv": 113,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                1,
+                4
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 34,
+        "ShowMonLv": 13,
+        "BlueRate": 82,
+        "PurpleRate": 13,
+        "GoldRate": 5,
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 14,
+        "Exp": 16000,
+        "Num": 5,
+        "MaxCost": 36,
+        "MonLv": 114,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                1,
+                4
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 36,
+        "ShowMonLv": 14,
+        "BlueRate": 81,
+        "PurpleRate": 14,
+        "GoldRate": 5,
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 15,
+        "Exp": 18000,
+        "Num": 5,
+        "MaxCost": 38,
+        "MonLv": 115,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                4,
+                1
+            ],
+            [
+                5,
+                5,
+                1,
+                1,
+                4
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 38,
+        "ShowMonLv": 15,
+        "BlueRate": 80,
+        "PurpleRate": 15,
+        "GoldRate": 5,
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 16,
+        "Exp": 18000,
+        "Num": 5,
+        "MaxCost": 40,
+        "MonLv": 116,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                2,
+                2
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 40,
+        "ShowMonLv": 16,
+        "BlueRate": 79,
+        "PurpleRate": 16,
+        "GoldRate": 5,
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 17,
+        "Exp": 20000,
+        "Num": 5,
+        "MaxCost": 42,
+        "MonLv": 117,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                2,
+                2
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 42,
+        "ShowMonLv": 17,
+        "BlueRate": 78,
+        "PurpleRate": 17,
+        "GoldRate": 5,
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 18,
+        "Exp": 20000,
+        "Num": 5,
+        "MaxCost": 44,
+        "MonLv": 118,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                2,
+                2
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 44,
+        "ShowMonLv": 18,
+        "BlueRate": 77,
+        "PurpleRate": 18,
+        "GoldRate": 5,
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 19,
+        "Exp": 24000,
+        "Num": 5,
+        "MaxCost": 46,
+        "MonLv": 119,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                2,
+                2
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 46,
+        "ShowMonLv": 19,
+        "BlueRate": 76,
+        "PurpleRate": 19,
+        "GoldRate": 5,
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 20,
+        "Exp": 24000,
+        "Num": 5,
+        "MaxCost": 48,
+        "MonLv": 120,
+        "Rewards": [
+            [
+                5,
+                9,
+                1,
+                3,
+                1
+            ],
+            [
+                5,
+                5,
+                1,
+                2,
+                2
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 48,
+        "ShowMonLv": 20,
+        "BlueRate": 75,
+        "PurpleRate": 20,
+        "GoldRate": 5,
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 21,
+        "Exp": 26000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 121,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                2,
+                2
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 21,
+        "BlueRate": 74,
+        "PurpleRate": 20,
+        "GoldRate": 6,
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 22,
+        "Exp": 26000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 122,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                2,
+                2
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 22,
+        "BlueRate": 73,
+        "PurpleRate": 20,
+        "GoldRate": 7,
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 23,
+        "Exp": 28000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 123,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                2,
+                2
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 23,
+        "BlueRate": 72,
+        "PurpleRate": 20,
+        "GoldRate": 8,
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 24,
+        "Exp": 28000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 124,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                2,
+                2
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 24,
+        "BlueRate": 71,
+        "PurpleRate": 20,
+        "GoldRate": 9,
+        "ExpUp": 1.5
+    },
+    {
+        "Level": 25,
+        "Exp": 30000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 125,
+        "Rewards": [
+            [
+                9,
+                2,
+                41,
+                3,
+                1
+            ],
+            [
+                5,
+                5,
+                1,
+                2,
+                2
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 25,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 26,
+        "Exp": 30000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 126,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                3,
+                1
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 26,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 27,
+        "Exp": 32000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 127,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                3,
+                1
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 27,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 28,
+        "Exp": 32000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 128,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                3,
+                1
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 28,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 29,
+        "Exp": 35000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 129,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                3,
+                1
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 29,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 30,
+        "Exp": 35000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 130,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                4,
+                1
+            ],
+            [
+                5,
+                5,
+                1,
+                3,
+                1
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 30,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 31,
+        "Exp": 40000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 131,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                3,
+                1
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 31,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 32,
+        "Exp": 45000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 132,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                3,
+                1
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 32,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 33,
+        "Exp": 50000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 133,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                3,
+                1
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 33,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 34,
+        "Exp": 55000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 134,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                3,
+                1
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 34,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 35,
+        "Exp": 60000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 135,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                4,
+                1
+            ],
+            [
+                5,
+                5,
+                1,
+                3,
+                1
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 35,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 36,
+        "Exp": 65000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 136,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 36,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 37,
+        "Exp": 70000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 137,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 37,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 38,
+        "Exp": 75000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 138,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 38,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 39,
+        "Exp": 80000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 139,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 39,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 40,
+        "Exp": 80000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 140,
+        "Rewards": [
+            [
+                5,
+                5,
+                1,
+                4,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 40,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 41,
+        "Exp": 80000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 141,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 41,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 42,
+        "Exp": 80000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 142,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 42,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 43,
+        "Exp": 80000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 143,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 43,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 44,
+        "Exp": 80000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 144,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 44,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 45,
+        "Exp": 80000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 145,
+        "Rewards": [
+            [
+                9,
+                2,
+                61,
+                1,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 45,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 46,
+        "Exp": 80000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 145,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 45,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 47,
+        "Exp": 80000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 145,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 45,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 48,
+        "Exp": 80000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 145,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 45,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 49,
+        "Exp": 80000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 145,
+        "Rewards": [
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 45,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    },
+    {
+        "Level": 50,
+        "Exp": 80000,
+        "Num": 5,
+        "MaxCost": 50,
+        "MonLv": 145,
+        "Rewards": [
+            [
+                11,
+                1,
+                49,
+                1,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                5,
+                2,
+                1,
+                3,
+                1
+            ]
+        ],
+        "ShowNum": 5,
+        "ShowMaxCost": 50,
+        "ShowMonLv": 45,
+        "BlueRate": 70,
+        "PurpleRate": 20,
+        "GoldRate": 10
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "Id": 1,
+        "Explain": "待机",
+        "Type": "sequence",
+        "Name": "mon402_base_stand",
+        "Path": "AnimSequence'/Game/Characters/Monster/mon402/Anim/mon402_base_stand.mon402_base_stand'"
+    },
+    {
+        "Id": 2,
+        "Explain": "讲述",
+        "Type": "sequence",
+        "Name": "mon402_house_talk",
+        "Path": "AnimSequence'/Game/Characters/Monster/mon402/Anim/mon402_house_talk.mon402_house_talk'"
+    },
+    {
+        "Id": 3,
+        "Explain": "否定",
+        "Type": "sequence",
+        "Name": "mon402_house_deny",
+        "Path": "AnimSequence'/Game/Characters/Monster/mon402/Anim/mon402_house_deny.mon402_house_deny'"
+    },
+    {
+        "Id": 4,
+        "Explain": "肯定",
+        "Type": "sequence",
+        "Name": "mon402_house_sure",
+        "Path": "AnimSequence'/Game/Characters/Monster/mon402/Anim/mon402_house_sure.mon402_house_sure'"
+    },
+    {
+        "Id": 100,
+        "Explain": "组合动作",
+        "Type": "custom_seq"
+    },
+    {
+        "Id": 101,
+        "Explain": "全部循环",
+        "Type": "custom_loop"
+    },
+    {
+        "Id": 102,
+        "Explain": "循环最后一个",
+        "Type": "custom_loop_last"
+    }
+]

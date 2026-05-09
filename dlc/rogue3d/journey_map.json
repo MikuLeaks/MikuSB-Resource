@@ -1,0 +1,3132 @@
+[
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 1,
+        "Position": 1,
+        "CameraOrder": 23,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            29
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 2,
+        "Position": 2,
+        "CameraOrder": 22,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            28,
+            29,
+            30
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            1,
+            6,
+            5,
+            30
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 3,
+        "Position": 3,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            30
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            21,
+            2,
+            5,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 4,
+        "Position": 4,
+        "CameraOrder": 21,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            27,
+            28,
+            51
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            13,
+            1,
+            14,
+            1,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 5,
+        "Position": 5,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            51
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": [
+            4,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 6,
+        "Position": 6,
+        "CameraOrder": 20,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            26,
+            27
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 7,
+        "Position": 7,
+        "CameraOrder": 19,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            25,
+            26
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            2,
+            1,
+            4,
+            3
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 8,
+        "Position": 8,
+        "CameraOrder": 18,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            24,
+            25,
+            50
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            3,
+            3
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 9,
+        "Position": 9,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 0,
+        "UnlockCondition": [
+            4,
+            5,
+            6
+        ],
+        "Line": [
+            50
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            2,
+            1,
+            100
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 10,
+        "Position": 10,
+        "CameraOrder": 17,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            23,
+            24
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            1,
+            1,
+            60000
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 11,
+        "Position": 11,
+        "CameraOrder": 16,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            21,
+            22
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 12,
+        "Position": 12,
+        "CameraOrder": 15,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            20,
+            21,
+            45
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            2,
+            18
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 13,
+        "Position": 13,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            45,
+            46,
+            47
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            3,
+            3
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 14,
+        "Position": 14,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            47,
+            48
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            1,
+            24
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 15,
+        "Position": 15,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            48,
+            49
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 16,
+        "Position": 16,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            49
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": [
+            6,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 17,
+        "Position": 17,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            46
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": [
+            9,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 18,
+        "Position": 18,
+        "CameraOrder": 14,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            19,
+            20,
+            43
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            2,
+            1,
+            4,
+            5
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 19,
+        "Position": 19,
+        "CameraOrder": 13,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            18,
+            19,
+            42
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            1,
+            1,
+            40000
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 20,
+        "Position": 20,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            43,
+            44
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            21,
+            2,
+            5,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 21,
+        "Position": 21,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            44
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": [
+            5,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 22,
+        "Position": 22,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            42
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": [
+            3,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 23,
+        "Position": 23,
+        "CameraOrder": 12,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            12,
+            18
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            4,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 24,
+        "Position": 24,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            10,
+            11,
+            41
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            2,
+            12
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 25,
+        "Position": 25,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 0,
+        "UnlockCondition": [
+            1,
+            2,
+            3
+        ],
+        "Line": [
+            41
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            2,
+            1,
+            100
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 26,
+        "Position": 26,
+        "CameraOrder": 10,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            16,
+            17
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": [
+            1,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 27,
+        "Position": 27,
+        "CameraOrder": 9,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            15,
+            16,
+            39
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            2,
+            1,
+            3,
+            20
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 28,
+        "Position": 28,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            14,
+            15
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 29,
+        "Position": 29,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            39,
+            40
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            1,
+            18
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 30,
+        "Position": 30,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            40
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": [
+            7,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 31,
+        "Position": 31,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            9,
+            10
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            21,
+            2,
+            5,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 32,
+        "Position": 32,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            8,
+            9
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            2,
+            1,
+            4,
+            3
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 33,
+        "Position": 33,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            7,
+            8
+        ],
+        "EventType": 4,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": "",
+        "TrialID": 103122
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 34,
+        "Position": 34,
+        "CameraOrder": 8,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            13,
+            14
+        ],
+        "EventType": 4,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": "",
+        "TrialID": 103126
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 35,
+        "Position": 35,
+        "CameraOrder": 7,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            6,
+            7,
+            13
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            2,
+            1,
+            4,
+            5
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 36,
+        "Position": 36,
+        "CameraOrder": 5,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            4,
+            5,
+            37
+        ],
+        "EventType": 4,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": "",
+        "TrialID": 103124
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 37,
+        "Position": 37,
+        "CameraOrder": 4,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            3,
+            4
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            1,
+            6,
+            5,
+            30
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 38,
+        "Position": 38,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            37
+        ],
+        "EventType": 3,
+        "Icon": 1001231
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 39,
+        "Position": 39,
+        "CameraOrder": 3,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            2,
+            3,
+            38
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            2,
+            1,
+            3,
+            20
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 40,
+        "Position": 40,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            36,
+            38
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            21,
+            2,
+            5,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 41,
+        "Position": 41,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            36
+        ],
+        "EventType": 4,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": "",
+        "TrialID": 103125
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 42,
+        "Position": 42,
+        "CameraOrder": 2,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            1,
+            2,
+            31
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            1,
+            1,
+            30000
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 43,
+        "Position": 43,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            31,
+            32
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            21,
+            2,
+            5,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 44,
+        "Position": 44,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            32,
+            33,
+            35
+        ],
+        "EventType": 4,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": "",
+        "TrialID": 103123
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 45,
+        "Position": 45,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            35
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": [
+            2,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 46,
+        "Position": 46,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            33,
+            34
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": [
+            8,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 47,
+        "Position": 47,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            34
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            4,
+            1
+        ]
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 100,
+        "Position": 100,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            1
+        ],
+        "EventType": 1
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 101,
+        "Position": 101,
+        "CameraOrder": 17,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            22,
+            23
+        ],
+        "EventType": 5,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": "",
+        "TrialID": "",
+        "DoorID": 3
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 102,
+        "Position": 102,
+        "CameraOrder": 11,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            11,
+            12,
+            17
+        ],
+        "EventType": 5,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": "",
+        "TrialID": "",
+        "DoorID": 1
+    },
+    {
+        "JourneyID": 2,
+        "PeriodsID": 1,
+        "ID": 103,
+        "Position": 103,
+        "CameraOrder": 6,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            5,
+            6
+        ],
+        "EventType": 5,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": "",
+        "TrialID": "",
+        "DoorID": 2
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 1,
+        "Position": 1,
+        "CameraOrder": 1,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            1,
+            2,
+            21,
+            19
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            1,
+            1,
+            5000
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 3,
+        "Position": 3,
+        "CameraOrder": 3,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            3,
+            4
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            2,
+            1,
+            4,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 4,
+        "Position": 4,
+        "CameraOrder": 4,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            4,
+            5,
+            26
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 5,
+        "Position": 5,
+        "CameraOrder": 5,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            5,
+            6
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 6,
+        "Position": 6,
+        "CameraOrder": 6,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            6,
+            7,
+            33
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            1,
+            1,
+            8000
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 7,
+        "Position": 7,
+        "CameraOrder": 7,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            7,
+            8
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            2,
+            1,
+            3,
+            5
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 8,
+        "Position": 8,
+        "CameraOrder": 8,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            8,
+            9
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 9,
+        "Position": 9,
+        "CameraOrder": 9,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            9,
+            10
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            2,
+            1,
+            50
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 10,
+        "Position": 10,
+        "CameraOrder": 10,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            10,
+            11
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            1,
+            1,
+            10000
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 11,
+        "Position": 11,
+        "CameraOrder": 11,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            11,
+            12
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            2,
+            1,
+            4,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 12,
+        "Position": 12,
+        "CameraOrder": 12,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            12,
+            13
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            1,
+            6,
+            5,
+            20
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 14,
+        "Position": 14,
+        "CameraOrder": 14,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            14,
+            15
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            1,
+            5
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 15,
+        "Position": 15,
+        "CameraOrder": 15,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            15,
+            16
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            3,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 16,
+        "Position": 16,
+        "CameraOrder": 16,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            16,
+            17,
+            43
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            2,
+            1,
+            50
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 17,
+        "Position": 17,
+        "CameraOrder": 17,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            17,
+            18
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            1,
+            1,
+            20000
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 18,
+        "Position": 18,
+        "CameraOrder": 18,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            18
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            13,
+            1,
+            17,
+            1,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 19,
+        "Position": 19,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            19,
+            20
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            2,
+            1,
+            3,
+            4
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 20,
+        "Position": 20,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            20
+        ],
+        "EventType": 6,
+        "Icon": 1001231
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 21,
+        "Position": 21,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            21,
+            22
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 22,
+        "Position": 22,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            22,
+            23
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            1,
+            6
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 23,
+        "Position": 23,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            23,
+            24
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 25,
+        "Position": 25,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            25
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": [
+            1,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 26,
+        "Position": 26,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            26,
+            27
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            2,
+            5
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 27,
+        "Position": 27,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            27,
+            28,
+            29
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            1,
+            1,
+            15000
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 28,
+        "Position": 28,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            28
+        ],
+        "EventType": 7,
+        "Icon": 1001087,
+        "Reward": "",
+        "DoorUnlockItem": "",
+        "TrialID": "",
+        "DoorID": "",
+        "BuffID": 5003
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 29,
+        "Position": 29,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            29,
+            30
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            2,
+            1,
+            3,
+            7
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 30,
+        "Position": 30,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            30,
+            31
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 31,
+        "Position": 31,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            31,
+            32
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            2,
+            1,
+            4,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 32,
+        "Position": 32,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 0,
+        "UnlockCondition": [
+            1,
+            2,
+            3
+        ],
+        "Line": [
+            32
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            21,
+            2,
+            5,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 33,
+        "Position": 33,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            33,
+            34
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            2,
+            1,
+            4,
+            2
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 34,
+        "Position": 34,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            34,
+            35
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            2,
+            1,
+            3,
+            7
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 35,
+        "Position": 35,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            35,
+            36
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 36,
+        "Position": 36,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            36,
+            37
+        ],
+        "EventType": 7,
+        "Icon": 1001089,
+        "Reward": "",
+        "DoorUnlockItem": "",
+        "TrialID": "",
+        "DoorID": "",
+        "BuffID": 5002
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 37,
+        "Position": 37,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            37
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": [
+            2,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 38,
+        "Position": 38,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            38,
+            39
+        ],
+        "EventType": 7,
+        "Icon": 1001082,
+        "Reward": "",
+        "DoorUnlockItem": "",
+        "TrialID": "",
+        "DoorID": "",
+        "BuffID": 5001
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 39,
+        "Position": 39,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            39,
+            40
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            2,
+            1,
+            4,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 40,
+        "Position": 40,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            40,
+            41
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            21,
+            2,
+            5,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 41,
+        "Position": 41,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            41,
+            42
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            1,
+            6
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 42,
+        "Position": 42,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            42
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": [
+            3,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 43,
+        "Position": 43,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            43,
+            44
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            2,
+            5
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 44,
+        "Position": 44,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            44,
+            45
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            4,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 45,
+        "Position": 45,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            45
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            3,
+            3
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 100,
+        "Position": 100,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            1
+        ],
+        "EventType": 1
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 101,
+        "Position": 101,
+        "CameraOrder": 2,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            2,
+            3
+        ],
+        "EventType": 5,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": "",
+        "TrialID": "",
+        "DoorID": 11
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 102,
+        "Position": 102,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            24,
+            25
+        ],
+        "EventType": 5,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": "",
+        "TrialID": "",
+        "DoorID": 12
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 2,
+        "ID": 103,
+        "Position": 103,
+        "CameraOrder": 13,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            13,
+            14,
+            38
+        ],
+        "EventType": 5,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": "",
+        "TrialID": "",
+        "DoorID": 13
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 201,
+        "Position": 1,
+        "CameraOrder": 1,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            201,
+            202
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            2,
+            1,
+            3,
+            5
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 202,
+        "Position": 2,
+        "CameraOrder": 2,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            202,
+            203
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            1,
+            1,
+            5000
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 203,
+        "Position": 3,
+        "CameraOrder": 3,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            203,
+            204
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            1,
+            5
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 204,
+        "Position": 4,
+        "CameraOrder": 5,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            205,
+            206,
+            223
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            2,
+            1,
+            4,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 205,
+        "Position": 5,
+        "CameraOrder": 6,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            206,
+            207,
+            225
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            1,
+            1,
+            8000
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 206,
+        "Position": 6,
+        "CameraOrder": 7,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            207,
+            208
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            1,
+            6,
+            5,
+            20
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 207,
+        "Position": 7,
+        "CameraOrder": 8,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            208,
+            209
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            2,
+            1,
+            4,
+            2
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 208,
+        "Position": 8,
+        "CameraOrder": 10,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            210,
+            211
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            2,
+            6
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 209,
+        "Position": 9,
+        "CameraOrder": 11,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            211,
+            212
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            1,
+            1,
+            15000
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 210,
+        "Position": 10,
+        "CameraOrder": 12,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            212,
+            213
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            2,
+            1,
+            4,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 211,
+        "Position": 11,
+        "CameraOrder": 13,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            213,
+            214
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 212,
+        "Position": 12,
+        "CameraOrder": 14,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            214,
+            215
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            3,
+            2
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 213,
+        "Position": 13,
+        "CameraOrder": 15,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            215,
+            216
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            2,
+            6
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 214,
+        "Position": 14,
+        "CameraOrder": 17,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            217,
+            218,
+            232
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            4,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 215,
+        "Position": 15,
+        "CameraOrder": 18,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            218,
+            219
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            6,
+            1,
+            2,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 216,
+        "Position": 16,
+        "CameraOrder": 19,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            219
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            21,
+            2,
+            5,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 217,
+        "Position": 17,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            220,
+            221
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            1,
+            1,
+            10000
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 218,
+        "Position": 18,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            221,
+            222
+        ],
+        "EventType": 7,
+        "Icon": 1001093,
+        "Reward": "",
+        "DoorUnlockItem": "",
+        "TrialID": "",
+        "DoorID": "",
+        "BuffID": 5004
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 219,
+        "Position": 19,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            222
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": [
+            4,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 220,
+        "Position": 20,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            223,
+            224
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            2,
+            1,
+            3,
+            6
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 221,
+        "Position": 21,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            224
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 222,
+        "Position": 22,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            225,
+            226
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            1,
+            1,
+            10000
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 223,
+        "Position": 23,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            226
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            2,
+            1,
+            3,
+            6
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 224,
+        "Position": 24,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            227,
+            228
+        ],
+        "EventType": 7,
+        "Icon": 1001096,
+        "Reward": "",
+        "DoorUnlockItem": "",
+        "TrialID": "",
+        "DoorID": "",
+        "BuffID": 5005
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 225,
+        "Position": 25,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            228,
+            229
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            2,
+            1,
+            4,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 226,
+        "Position": 26,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            229,
+            230
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            2,
+            1,
+            50
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 227,
+        "Position": 27,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            230,
+            231
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            2,
+            1,
+            4,
+            3
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 228,
+        "Position": 28,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 0,
+        "UnlockCondition": [
+            4,
+            5,
+            6
+        ],
+        "Line": [
+            231
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            21,
+            2,
+            5,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 229,
+        "Position": 29,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            232,
+            233,
+            235
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            2,
+            1,
+            3,
+            8
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 230,
+        "Position": 30,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            233,
+            234
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            1,
+            6
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 231,
+        "Position": 31,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            234
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": [
+            6,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 232,
+        "Position": 32,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            235,
+            236
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            2,
+            1,
+            50
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 233,
+        "Position": 33,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            236
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            1,
+            1,
+            20000
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 234,
+        "Position": 34,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            237,
+            238
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            3,
+            1,
+            1,
+            15000
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 235,
+        "Position": 35,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            238,
+            239
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            2,
+            1,
+            4,
+            3
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 236,
+        "Position": 36,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            239,
+            240,
+            241
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            5,
+            1,
+            1,
+            6
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 237,
+        "Position": 37,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            240
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            1,
+            6,
+            5,
+            20
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 238,
+        "Position": 38,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            241,
+            242
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            4,
+            2,
+            1,
+            4,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 239,
+        "Position": 39,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            242,
+            243
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": [
+            5,
+            21,
+            2,
+            5,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 240,
+        "Position": 40,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            243
+        ],
+        "EventType": 2,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": [
+            5,
+            1
+        ]
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 300,
+        "Position": 100,
+        "CameraOrder": "",
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            201
+        ],
+        "EventType": 1
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 301,
+        "Position": 101,
+        "CameraOrder": 4,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            204,
+            205,
+            220
+        ],
+        "EventType": 5,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": "",
+        "TrialID": "",
+        "DoorID": 14
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 302,
+        "Position": 102,
+        "CameraOrder": 9,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            209,
+            210,
+            227,
+            237
+        ],
+        "EventType": 5,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": "",
+        "TrialID": "",
+        "DoorID": 15
+    },
+    {
+        "JourneyID": 3,
+        "PeriodsID": 3,
+        "ID": 303,
+        "Position": 103,
+        "CameraOrder": 16,
+        "comment": "",
+        "DisplayStatus": 1,
+        "UnlockCondition": "",
+        "Line": [
+            216,
+            217
+        ],
+        "EventType": 5,
+        "Icon": "",
+        "Reward": "",
+        "DoorUnlockItem": "",
+        "TrialID": "",
+        "DoorID": 16
+    }
+]

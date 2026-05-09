@@ -1,0 +1,316 @@
+[
+    {
+        "ID": 1,
+        "Chapter": [
+            1
+        ],
+        "OpenDay": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "Condition": {
+            "[1, 1]": [
+                2,
+                10205
+            ]
+        },
+        "Bg": 1803026,
+        "Activity": [
+            [
+                20220331,
+                20220431,
+                3
+            ]
+        ],
+        "I18N": "TxtGoldDungeons",
+        "Tips": "TxtGoldDungeonsTips",
+        "EntryBg": 1803019
+    },
+    {
+        "ID": 2,
+        "Chapter": [
+            2
+        ],
+        "OpenDay": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "Condition": {
+            "[1, 1]": [
+                2,
+                10205
+            ]
+        },
+        "Bg": 1803026,
+        "Activity": [
+            [
+                20220331,
+                20220431,
+                3
+            ]
+        ],
+        "I18N": "TxtRoleExpDungeons",
+        "Tips": "TxtRoleExpDungeonsTips",
+        "EntryBg": 1803023
+    },
+    {
+        "ID": 3,
+        "Chapter": [
+            3
+        ],
+        "OpenDay": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "Condition": {
+            "[1, 1]": [
+                2,
+                10205
+            ]
+        },
+        "Bg": 1803026,
+        "Activity": [
+            [
+                20220331,
+                20220431,
+                3
+            ]
+        ],
+        "I18N": "TxtWeaponExpDungeons",
+        "Tips": "TxtWeaponExpDungeonsTips",
+        "EntryBg": 1803021
+    },
+    {
+        "ID": 4,
+        "Chapter": [
+            7
+        ],
+        "OpenDay": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "Condition": {
+            "[1, 1]": [
+                2,
+                10401
+            ]
+        },
+        "Bg": 1803026,
+        "Activity": [
+            [
+                20220331,
+                20220431,
+                3
+            ]
+        ],
+        "I18N": "TxtWeaponBreakDungeons",
+        "Tips": "TxtWeaponBreakDungeonsTips",
+        "EntryBg": 1803020
+    },
+    {
+        "ID": 5,
+        "Chapter": [
+            6
+        ],
+        "OpenDay": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "Condition": {
+            "[1, 1]": [
+                2,
+                10303
+            ]
+        },
+        "Bg": 1803026,
+        "Activity": [
+            [
+                20220331,
+                20220431,
+                3
+            ]
+        ],
+        "I18N": "TxtRoleMatertialsDungeons",
+        "Tips": "TxtRoleMatertialsDungeonsTips",
+        "EntryBg": 1803024
+    },
+    {
+        "ID": 6,
+        "Chapter": [
+            5
+        ],
+        "OpenDay": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "Condition": {
+            "[1, 1]": [
+                2,
+                10412
+            ]
+        },
+        "Bg": 1803026,
+        "Activity": [
+            [
+                20220331,
+                20220431,
+                3
+            ]
+        ],
+        "I18N": "TxtRoleDungeons",
+        "Tips": "TxtRoleDungeonsTips",
+        "EntryBg": 1803025,
+        "Introduction": "TxtSupportIntroduction",
+        "Guarantee": 100
+    },
+    {
+        "ID": 7,
+        "Chapter": [
+            10
+        ],
+        "OpenDay": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "Condition": [
+            [
+                [
+                    2,
+                    11544
+                ]
+            ],
+            [
+                [
+                    4,
+                    256
+                ],
+                [
+                    2,
+                    10809
+                ]
+            ]
+        ],
+        "Bg": 1803026,
+        "Activity": [
+            [
+                20220331,
+                20220431,
+                3
+            ]
+        ],
+        "I18N": "TxtDlcRoleDungeons",
+        "Tips": "TxtDlcRoleDungeonsTips",
+        "EntryBg": 1803052,
+        "Introduction": "TxtSupportIntroduction",
+        "Guarantee": 100
+    },
+    {
+        "ID": 8,
+        "Chapter": [
+            11
+        ],
+        "OpenDay": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "Condition": [
+            [
+                [
+                    1,
+                    20
+                ]
+            ]
+        ],
+        "Bg": 1803026,
+        "Activity": [
+            [
+                20220331,
+                20220431,
+                3
+            ]
+        ],
+        "I18N": "TxtDlcWeaponDungeons",
+        "Tips": "TxtDlcWeaponDungeonsTips",
+        "EntryBg": 1803061
+    },
+    {
+        "ID": 99,
+        "Chapter": [
+            99
+        ],
+        "OpenDay": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "Condition": [
+            [
+                [
+                    2,
+                    11502
+                ]
+            ],
+            [
+                [
+                    2,
+                    10103
+                ]
+            ]
+        ],
+        "Bg": 1803026,
+        "Activity": [
+            [
+                20220331,
+                20220431,
+                3
+            ]
+        ],
+        "I18N": "TxtTeachDungeons",
+        "Tips": "TxtTeachDungeonsTips",
+        "EntryBg": 1803027
+    }
+]

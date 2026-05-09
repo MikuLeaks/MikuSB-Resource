@@ -1,0 +1,4433 @@
+[
+    {
+        "rikiID": 5003,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 110201,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5003,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 110201,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5003,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 110201,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5003,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 110201,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5003,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 110201,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5003,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 110201,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5003,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 110201,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5003,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 110201,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5003,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 110201,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5005,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 110401,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5005,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 110401,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5005,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 110401,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5005,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 110401,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5005,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 110401,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5005,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 110401,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5005,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 110401,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5007,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 110601,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5007,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 110601,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5007,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 110601,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5007,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 110601,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5007,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 110601,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5007,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 110601,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5007,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 110601,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5013,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 101101,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5013,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 101101,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5013,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 101101,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5013,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 101101,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5013,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 101101,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5013,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 101101,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5013,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 101101,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5014,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 101201,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5014,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 101201,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5014,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 101201,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5015,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 111201,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5015,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 111201,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5015,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 111201,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5015,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 111201,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5015,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 111201,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5015,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 111201,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5015,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 111201,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5015,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 111201,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5015,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 111201,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5017,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 111401,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5017,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 111401,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5017,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 111401,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5017,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 111401,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5017,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 111401,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5017,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 111401,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5017,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 111401,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5017,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 111401,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5019,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 110202,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5019,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 110202,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5019,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 110202,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5019,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 110202,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5019,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 110202,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5019,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 110202,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5019,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 110202,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5020,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 110801,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5020,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 110801,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5020,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 110801,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5020,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 110801,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5020,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 110801,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5020,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 110801,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5020,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 110801,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5018,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 101701,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5018,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 101701,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5018,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 101701,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5018,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 101701,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5018,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 101701,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5018,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 101701,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5018,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 101701,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5018,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 101701,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5018,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 101701,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5022,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 101501,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5022,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 101501,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5022,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 101501,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5022,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 101501,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5022,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 101501,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5022,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 101501,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5022,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 101501,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5022,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 101501,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5022,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 101501,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5023,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 110402,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5023,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 110402,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5023,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 110402,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5023,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 110402,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5023,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 110402,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5023,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 110402,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5026,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 110102,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5026,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 110102,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5026,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 110102,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5026,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 110102,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5026,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 110102,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5026,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 110102,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5026,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 110102,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5026,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 110102,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5026,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 110102,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5029,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 101601,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5029,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 101601,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5029,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 101601,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5029,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 101601,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5029,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 101601,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5029,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 101601,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5029,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 101601,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5029,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 101601,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5029,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 101601,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5028,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 110803,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5028,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 110803,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5028,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 110803,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5028,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 110803,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5028,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 110803,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5028,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 110803,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5028,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 110803,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5028,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 110803,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5028,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 110803,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5031,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 110702,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5031,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 110702,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5031,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 110702,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5031,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 110702,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5031,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 110702,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5031,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 110702,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5031,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 110702,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5031,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 110702,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5031,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 110702,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5032,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 111102,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5032,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 111102,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5032,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 111102,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5032,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 111102,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5032,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 111102,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5032,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 111102,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5032,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 111102,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5032,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 111102,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5032,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 111102,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5034,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 110803,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5034,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 110803,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5034,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 110803,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5034,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 110803,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5034,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 110803,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5034,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 110803,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5034,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 110803,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5034,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 110803,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5034,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 110803,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5035,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 111302,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5035,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 111302,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5035,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 111302,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5035,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 111302,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5035,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 111302,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5035,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 111302,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5035,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 111302,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5035,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 111302,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5035,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 111302,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5042,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 120202,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5042,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 120202,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5042,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 120202,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5042,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 120202,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5042,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 120202,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5042,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 120202,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5042,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 120202,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5042,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 120202,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5042,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 120202,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5045,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 120802,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5045,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 120802,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5045,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 120802,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5045,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 120802,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5045,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 120802,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5045,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 120802,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5045,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 120802,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5045,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 120802,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5045,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 120802,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5043,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 110503,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5043,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 110503,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5043,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 110503,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5043,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 110503,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5043,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 110503,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5043,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 110503,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5043,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 110503,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5043,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 110503,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5043,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 110503,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5049,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 111404,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5049,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 111404,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5049,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 111404,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5049,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 111404,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5049,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 111404,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5049,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 111404,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5049,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 111404,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5049,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 111404,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5049,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 111404,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5050,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 101802,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5050,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 101802,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5050,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 101802,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5050,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 101802,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5050,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 101802,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5050,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 101802,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5050,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 101802,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5050,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 101802,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5050,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 101802,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5052,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 120502,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5052,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 120502,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5052,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 120502,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5052,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 120502,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5052,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 120502,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5052,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 120502,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5052,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 120502,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5052,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 120502,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5052,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 120502,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5051,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 111502,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5051,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 111502,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5051,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 111502,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5051,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 111502,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5051,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 111502,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5051,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 111502,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5051,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 111502,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5051,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 111502,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5051,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 111502,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5054,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 111103,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5054,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 111103,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5054,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 111103,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5054,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 111103,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5054,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 111103,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5054,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 111103,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5054,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 111103,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5054,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 111103,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5054,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 111103,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5055,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 120402,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5055,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 120402,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5055,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 120402,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5055,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 120402,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5055,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 120402,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5055,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 120402,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5055,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 120402,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5055,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 120402,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5055,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 120402,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5056,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 111304,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5056,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 111304,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5056,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 111304,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5056,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 111304,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5056,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 111304,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5056,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 111304,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5056,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 111304,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5056,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 111304,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5056,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 111304,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5060,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 101604,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5060,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 101604,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5060,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 101604,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5060,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 101604,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5060,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 101604,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5060,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 101604,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5060,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 101604,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5060,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 101604,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5060,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 101604,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5061,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 110705,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5061,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 110705,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5061,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 110705,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5061,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 110705,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5061,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 110705,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5061,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 110705,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5061,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 110705,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5061,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 110705,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5061,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 110705,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5066,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 121402,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5066,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 121402,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5066,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 121402,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5066,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 121402,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5066,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 121402,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5066,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 121402,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5066,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 121402,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5066,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 121402,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5066,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 121402,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5065,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 121002,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5065,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 121002,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5065,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 121002,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5065,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 121002,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5065,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 121002,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5065,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 121002,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5065,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 121002,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5065,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 121002,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5065,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 121002,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5067,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 120803,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5067,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 120803,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5067,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 120803,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5067,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 120803,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5067,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 120803,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5067,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 120803,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5067,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 120803,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5067,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 120803,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5067,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 120803,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5070,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 121102,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5070,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 121102,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5070,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 121102,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5070,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 121102,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5070,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 121102,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5070,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 121102,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5070,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 121102,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5070,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 121102,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5070,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 121102,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5071,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 101803,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5071,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 101803,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5071,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 101803,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5071,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 101803,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5071,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 101803,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5071,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 101803,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5071,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 101803,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5071,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 101803,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5071,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 101803,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5072,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 120503,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5072,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 120503,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5072,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 120503,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5072,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 120503,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5072,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 120503,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5072,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 120503,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5072,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 120503,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5072,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 120503,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5072,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 120503,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5075,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 102102,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5075,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 102102,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5075,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 102102,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5075,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 102102,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5075,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 102102,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5075,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 102102,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5075,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 102102,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5075,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 102102,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5075,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 102102,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5076,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 110302,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5076,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 110302,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5076,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 110302,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5076,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 110302,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5076,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 110302,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5076,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 110302,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5076,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 110302,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5076,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 110302,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5076,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 110302,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5077,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 111504,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5077,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 111504,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5077,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 111504,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5077,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 111504,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5077,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 111504,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5077,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 111504,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5077,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 111504,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5077,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 111504,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5077,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 111504,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5078,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 102002,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5078,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 102002,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5078,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 102002,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5078,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 102002,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5078,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 102002,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5078,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 102002,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5078,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 102002,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5078,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 102002,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5078,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 102002,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5080,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 111004,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5080,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 111004,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5080,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 111004,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5080,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 111004,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5080,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 111004,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5080,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 111004,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5080,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 111004,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5080,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 111004,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5080,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 111004,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5081,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 111802,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5081,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 111802,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5081,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 111802,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5081,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 111802,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5081,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 111802,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5081,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 111802,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5081,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 111802,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5081,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 111802,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5081,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 111802,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5082,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 120404,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5082,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 120404,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5082,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 120404,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5082,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 120404,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5082,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 120404,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5082,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 120404,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5082,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 120404,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5082,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 120404,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5082,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 120404,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5083,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 121403,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5083,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 121403,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5083,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 121403,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5083,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 121403,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5083,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 121403,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5083,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 121403,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5083,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 121403,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5083,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 121403,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5083,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 121403,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5087,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 121502,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5087,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 121502,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5087,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 121502,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5087,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 121502,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5087,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 121502,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5087,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 121502,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5087,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 121502,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5087,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 121502,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5087,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 121502,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5088,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 111702,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5088,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 111702,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5088,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 111702,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5088,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 111702,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5088,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 111702,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5088,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 111702,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5088,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 111702,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5088,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 111702,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5088,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 111702,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5089,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 121103,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5089,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 121103,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5089,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 121103,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5089,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 121103,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5089,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 121103,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5089,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 121103,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5089,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 121103,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5089,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 121103,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5089,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 121103,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5090,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 102003,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5090,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 102003,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5090,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 102003,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5090,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 102003,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5090,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 102003,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5090,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 102003,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5090,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 102003,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5090,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 102003,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5090,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 102003,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5047,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 101504,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5047,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 101504,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5047,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 101504,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5047,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 101504,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5047,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 101504,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5047,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 101504,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5047,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 101504,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5047,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 101504,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5047,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 101504,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5036,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 101504,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5036,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 101504,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5036,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 101504,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5036,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 101504,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5036,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 101504,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5036,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 101504,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5036,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 101504,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5036,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 101504,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5036,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 101504,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5012,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 111003,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5012,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 111003,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5012,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 111003,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5012,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 111003,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5012,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 111003,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5012,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 111003,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5012,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 111003,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5012,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 111003,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5012,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 111003,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5093,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 102202,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5093,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 102202,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5093,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 102202,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5093,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 102202,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5093,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 102202,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5093,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 102202,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5093,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 102202,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5093,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 102202,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5093,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 102202,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5094,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 110303,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5094,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 110303,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5094,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 110303,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5094,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 110303,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5094,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 110303,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5094,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 110303,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5094,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 110303,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5094,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 110303,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5094,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 110303,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5095,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 121003,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5095,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 121003,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5095,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 121003,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5095,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 121003,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5095,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 121003,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5095,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 121003,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5095,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 121003,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5095,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 121003,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5095,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 121003,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5099,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 130802,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5099,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 130802,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5099,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 130802,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5099,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 130802,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5099,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 130802,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5099,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 130802,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5099,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 130802,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5099,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 130802,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5099,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 130802,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5100,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 121302,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5100,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 121302,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5100,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 121302,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5100,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 121302,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5100,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 121302,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5100,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 121302,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5100,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 121302,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5100,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 121302,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5100,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 121302,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5102,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 111803,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5102,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 111803,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5102,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 111803,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5102,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 111803,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5102,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 111803,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5102,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 111803,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5102,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 111803,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5102,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 111803,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5102,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 111803,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5103,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 102103,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5103,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 102103,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5103,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 102103,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5103,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 102103,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5103,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 102103,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5103,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 102103,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5103,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 102103,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5103,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 102103,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5103,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 102103,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5104,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 120602,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5104,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 120602,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5104,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 120602,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5104,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 120602,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5104,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 120602,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5104,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 120602,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5104,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 120602,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5104,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 120602,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5104,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 120602,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5106,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 121503,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5106,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 121503,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5106,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 121503,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5106,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 121503,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5106,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 121503,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5106,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 121503,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5106,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 121503,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5106,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 121503,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5106,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 121503,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5107,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 102302,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5107,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 102302,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5107,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 102302,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5107,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 102302,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5107,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 102302,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5107,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 102302,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5107,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 102302,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5107,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 102302,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5107,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 102302,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5109,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 130803,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5109,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 130803,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5109,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 130803,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5109,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 130803,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5109,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 130803,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5109,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 130803,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5109,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 130803,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5109,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 130803,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5109,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 130803,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5111,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 121202,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5111,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 121202,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5111,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 121202,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5111,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 121202,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5111,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 121202,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5111,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 121202,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5111,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 121202,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5111,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 121202,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5111,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 121202,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5112,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 112002,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5112,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 112002,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5112,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 112002,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5112,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 112002,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5112,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 112002,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5112,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 112002,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5112,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 112002,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5112,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 112002,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5112,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 112002,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5113,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 120102,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5113,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 120102,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5113,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 120102,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5113,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 120102,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5113,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 120102,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5113,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 120102,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5113,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 120102,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5113,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 120102,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5113,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 120102,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5113,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 120102,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5113,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 120102,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5113,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 220102,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5113,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 220102,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5113,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 220102,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5114,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 130502,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5114,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 130502,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5114,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 130502,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5114,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 130502,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5114,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 130502,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5114,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 130502,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5114,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 130502,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5114,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 130502,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5114,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 130502,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5115,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 121303,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5115,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 121303,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5115,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 121303,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5115,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 121303,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5115,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 121303,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5115,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 121303,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5115,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 121303,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5115,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 121303,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5115,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 121303,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5116,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 102303,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5116,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 102303,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5116,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 102303,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5116,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 102303,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5116,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 102303,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5116,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 102303,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5116,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 102303,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5116,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 102303,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5116,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 102303,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5119,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 102402,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5119,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 102402,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5119,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 102402,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5119,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 102402,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5119,
+        "index": 5,
+        "VoiceID": "rikimain001",
+        "CharacterID": 102402,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5119,
+        "index": 6,
+        "VoiceID": "rikimain002",
+        "CharacterID": 102402,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5119,
+        "index": 7,
+        "VoiceID": "rikimain003",
+        "CharacterID": 102402,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5119,
+        "index": 8,
+        "VoiceID": "rikimain101",
+        "CharacterID": 102402,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5119,
+        "index": 9,
+        "VoiceID": "rikimain201",
+        "CharacterID": 102402,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5120,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 130402,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5120,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 130402,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5120,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 130402,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5120,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 130402,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5120,
+        "index": 5,
+        "VoiceID": "main001",
+        "CharacterID": 130402,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5120,
+        "index": 6,
+        "VoiceID": "main002",
+        "CharacterID": 130402,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5120,
+        "index": 7,
+        "VoiceID": "main003",
+        "CharacterID": 130402,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5120,
+        "index": 8,
+        "VoiceID": "main101",
+        "CharacterID": 130402,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5120,
+        "index": 9,
+        "VoiceID": "main201",
+        "CharacterID": 130402,
+        "UIkey": "ui.RikiskinSound7"
+    },
+    {
+        "rikiID": 5121,
+        "index": 1,
+        "VoiceID": "rikienterlevel1",
+        "CharacterID": 120603,
+        "UIkey": "ui.RikiskinSound10"
+    },
+    {
+        "rikiID": 5121,
+        "index": 2,
+        "VoiceID": "rikienterlevel2",
+        "CharacterID": 120603,
+        "UIkey": "ui.RikiskinSound11"
+    },
+    {
+        "rikiID": 5121,
+        "index": 3,
+        "VoiceID": "rikiwin1",
+        "CharacterID": 120603,
+        "UIkey": "ui.RikiskinSound12"
+    },
+    {
+        "rikiID": 5121,
+        "index": 4,
+        "VoiceID": "rikiwin2",
+        "CharacterID": 120603,
+        "UIkey": "ui.RikiskinSound13"
+    },
+    {
+        "rikiID": 5121,
+        "index": 5,
+        "VoiceID": "main001",
+        "CharacterID": 120603,
+        "UIkey": "ui.RikiskinSound3"
+    },
+    {
+        "rikiID": 5121,
+        "index": 6,
+        "VoiceID": "main002",
+        "CharacterID": 120603,
+        "UIkey": "ui.RikiskinSound4"
+    },
+    {
+        "rikiID": 5121,
+        "index": 7,
+        "VoiceID": "main003",
+        "CharacterID": 120603,
+        "UIkey": "ui.RikiskinSound5"
+    },
+    {
+        "rikiID": 5121,
+        "index": 8,
+        "VoiceID": "main101",
+        "CharacterID": 120603,
+        "UIkey": "ui.RikiskinSound6"
+    },
+    {
+        "rikiID": 5121,
+        "index": 9,
+        "VoiceID": "main201",
+        "CharacterID": 120603,
+        "UIkey": "ui.RikiskinSound7"
+    }
+]

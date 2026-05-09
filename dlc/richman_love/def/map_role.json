@@ -1,0 +1,94 @@
+[
+    {
+        "Map": 1,
+        "Slot": 1,
+        "RoleId": 1,
+        "Team": 101,
+        "Money": 10000
+    },
+    {
+        "Map": 1,
+        "Slot": 2,
+        "RoleId": 5,
+        "Team": 102,
+        "Money": 10000
+    },
+    {
+        "Map": 2,
+        "Slot": 1,
+        "RoleId": 1,
+        "Team": 201,
+        "Money": 10000
+    },
+    {
+        "Map": 2,
+        "Slot": 2,
+        "RoleId": 5,
+        "Team": 202,
+        "Money": 10000
+    },
+    {
+        "Map": 2,
+        "Slot": 3,
+        "RoleId": 7,
+        "Team": 203,
+        "Money": 10000
+    },
+    {
+        "Map": 3,
+        "Slot": 1,
+        "RoleId": 1,
+        "Team": 301,
+        "Money": 10000
+    },
+    {
+        "Map": 3,
+        "Slot": 2,
+        "RoleId": 2,
+        "Team": 302,
+        "Money": 10000
+    },
+    {
+        "Map": 3,
+        "Slot": 3,
+        "RoleId": 4,
+        "Team": 303,
+        "Money": 10000
+    },
+    {
+        "Map": 3,
+        "Slot": 4,
+        "RoleId": 5,
+        "Team": 304,
+        "Money": 10000
+    },
+    {
+        "Map": 4,
+        "Slot": 1,
+        "RoleId": 1,
+        "Team": 401,
+        "Money": 30000
+    },
+    {
+        "Map": 4,
+        "Slot": 2,
+        "RoleId": 5,
+        "Team": 401,
+        "Money": 30000
+    },
+    {
+        "Map": 4,
+        "Slot": 3,
+        "RoleId": 3,
+        "Team": 401,
+        "Money": 30000
+    },
+    {
+        "Map": 4,
+        "Slot": 4,
+        "RoleId": 6,
+        "Team": 402,
+        "Money": 70000,
+        "MoneyAdd": 3
+    }
+]

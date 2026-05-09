@@ -1,0 +1,5080 @@
+[
+    {
+        "Key": "vircapture_base01",
+        "zh_CN": "下班"
+    },
+    {
+        "Key": "vircapture_base02",
+        "zh_CN": "cost已达上限"
+    },
+    {
+        "Key": "vircapture_base03",
+        "zh_CN": "编队数量上限：%s"
+    },
+    {
+        "Key": "vircapture_base04",
+        "zh_CN": "每队Cost上限：%s"
+    },
+    {
+        "Key": "vircapture_base05",
+        "zh_CN": "开拓进程"
+    },
+    {
+        "Key": "vircapture_base06",
+        "zh_CN": "开拓奖励列表"
+    },
+    {
+        "Key": "vircapture_base07",
+        "zh_CN": "当前开拓进度",
+        "disable": 1
+    },
+    {
+        "Key": "vircapture_base08",
+        "zh_CN": "是否消耗【再来一次】快速为当前区域补货？"
+    },
+    {
+        "Key": "vircapture_base09",
+        "zh_CN": "星球环境似乎对天启者影响很大，队员的战斗能力将大幅降低",
+        "disable": 1
+    },
+    {
+        "Key": "vircapture_base10",
+        "zh_CN": "伙伴等级：%s"
+    },
+    {
+        "Key": "vircapture_base11",
+        "zh_CN": "【再来一次】数量不足"
+    },
+    {
+        "Key": "vircapture_base12",
+        "zh_CN": "编队数量已达上限"
+    },
+    {
+        "Key": "vircapture_base13",
+        "zh_CN": "提升开拓等级后解锁"
+    },
+    {
+        "Key": "vircapture_base14",
+        "zh_CN": "受星球环境影响，敌人和伙伴战斗能力大幅增强"
+    },
+    {
+        "Key": "vircapture_base15",
+        "zh_CN": "开拓等级达到%s后可领取"
+    },
+    {
+        "Key": "vircapture_base16",
+        "zh_CN": "解雇"
+    },
+    {
+        "Key": "vircapture_base17",
+        "zh_CN": "编队中伙伴不可解雇"
+    },
+    {
+        "Key": "vircapture_base18",
+        "zh_CN": "开拓等级达到%s级后解锁"
+    },
+    {
+        "Key": "vircapture_base19",
+        "zh_CN": "本次行动尚未完成，是否提前结算？"
+    },
+    {
+        "Key": "vircapture_base20",
+        "zh_CN": "下一阶"
+    },
+    {
+        "Key": "vircapture_base21",
+        "zh_CN": "右键新建：新建文件夹！"
+    },
+    {
+        "Key": "vircapture_base22",
+        "zh_CN": "收编名额不够了，请先解雇部分伙伴"
+    },
+    {
+        "Key": "vircapture_base23",
+        "zh_CN": "超强目标已出现！！！"
+    },
+    {
+        "Key": "vircapture_base24",
+        "zh_CN": "升阶成功"
+    },
+    {
+        "Key": "vircapture_base25",
+        "zh_CN": "本日【%s】可劝降次数已达上限"
+    },
+    {
+        "Key": "vircapture_base26",
+        "zh_CN": "本日劝降可获得经验已达上限"
+    },
+    {
+        "Key": "vircapture_TrialEnd",
+        "zh_CN": "距离试炼结束"
+    },
+    {
+        "Key": "vircapture_TrialStart",
+        "zh_CN": "距离试炼开启"
+    },
+    {
+        "Key": "vircapture_TrialTips",
+        "zh_CN": "本轮试炼已结束，麻烦下次赶早！"
+    },
+    {
+        "Key": "vircapture_BossLock",
+        "zh_CN": "超强目标候场中"
+    },
+    {
+        "Key": "vircapture_BossLockTips",
+        "zh_CN": "伙伴岛解锁【遗迹区】后，超强目标正式登场！"
+    },
+    {
+        "Key": "vircapture_BossLockTips2",
+        "zh_CN": "探险岛解锁【岩谷区】后，超强目标正式登场！"
+    },
+    {
+        "Key": "vircapture_BossLockTips3",
+        "zh_CN": "是否快速前往伙伴岛遗迹区与尖尖耳对话，了解探险岛解锁线索？"
+    },
+    {
+        "Key": "vircapture_BossLockTips4",
+        "zh_CN": "在开拓等级低于%s级期间，每次获得开拓经验均有1.5倍的加成效果。"
+    },
+    {
+        "Key": "vircapture_TPLockTips",
+        "zh_CN": "伙伴岛【遗迹区】尚未解锁"
+    },
+    {
+        "Key": "vircapture_ADTitle",
+        "zh_CN": "不删档测试开启，玩到就是赚到！"
+    },
+    {
+        "Key": "vircapture_ADContent",
+        "zh_CN": "不一样的地图（虽然很小），更强大的伙伴（虽然不多），全新的冒险！期待你的加入！"
+    },
+    {
+        "Key": "vircapture_ADContent2",
+        "zh_CN": "【新星开拓】这可是安卡希雅打造的全新力作！独树一帜的探索劝降玩法！分析员可以自由地探索游戏世界，劝降收编各色目标组建自己的队伍。还有钓鱼的等更多趣味内容等待着分析员哦！",
+        "disable": 0
+    },
+    {
+        "Key": "vircapture_ADTitle2",
+        "zh_CN": "分析员专属测试服，体验最新版本内容",
+        "disable": 0
+    },
+    {
+        "Key": "vircapture_GachaTips",
+        "zh_CN": "温馨提示：\\n·通过快捷劝降直接入队的伙伴，无法获得开拓经验。\\n·开拓等级会影响各品质伙伴的出现概率，超强目标暂无法通过快捷劝降获取。\\n·劝降名单中已解锁的伙伴，在每次快捷劝降时出现概率更高。\\n\\n概率详情："
+    },
+    {
+        "Key": "vircapture_GachaTips2",
+        "zh_CN": "\\n\\n·开拓等级%s：<span color=\"#2FDFFF\">一般目标</>出现概率%s%%、<span color=\"#C97BFF\">厉害目标</>出现概率%s%%、<span color=\"#FFA751\">强力目标</>出现概率%s%%"
+    },
+    {
+        "Key": "vircapture_GachaTitle",
+        "zh_CN": "劝降伙伴"
+    },
+    {
+        "Key": "vircapture_chapter01",
+        "zh_CN": "第1层"
+    },
+    {
+        "Key": "vircapture_chapter02",
+        "zh_CN": "第2层"
+    },
+    {
+        "Key": "vircapture_chapter03",
+        "zh_CN": "第3层"
+    },
+    {
+        "Key": "vircapture_chapter04",
+        "zh_CN": "第4层"
+    },
+    {
+        "Key": "vircapture_chapter05",
+        "zh_CN": "第5层"
+    },
+    {
+        "Key": "vircapture_chapter06",
+        "zh_CN": "第6层"
+    },
+    {
+        "Key": "mon_camp_01",
+        "zh_CN": "郊狼"
+    },
+    {
+        "Key": "mon_camp_02",
+        "zh_CN": "降临团"
+    },
+    {
+        "Key": "mon_camp_03",
+        "zh_CN": "逐光者"
+    },
+    {
+        "Key": "mon_camp_04",
+        "zh_CN": "泰坦"
+    },
+    {
+        "Key": "mon_camp_05",
+        "zh_CN": "其他"
+    },
+    {
+        "Key": "mon_type_01",
+        "zh_CN": "一般目标"
+    },
+    {
+        "Key": "mon_type_02",
+        "zh_CN": "厉害目标"
+    },
+    {
+        "Key": "mon_type_03",
+        "zh_CN": "强力目标"
+    },
+    {
+        "Key": "mon_type_04",
+        "zh_CN": "超强目标"
+    },
+    {
+        "Key": "mon_desc_00",
+        "zh_CN": "简介"
+    },
+    {
+        "Key": "mon_desc_01",
+        "zh_CN": "很常见的近战杂兵，“常见”是他最大的优点了。"
+    },
+    {
+        "Key": "mon_desc_02",
+        "zh_CN": "虽然穿衣风格很嘻哈，但是并不会说唱。"
+    },
+    {
+        "Key": "mon_desc_03",
+        "zh_CN": "曾经膝盖中过箭，因此非常注重膝盖的防护。"
+    },
+    {
+        "Key": "mon_desc_04",
+        "zh_CN": "几乎所有时间都戴着帽子，因为发型很乱不想打理。"
+    },
+    {
+        "Key": "mon_desc_05",
+        "zh_CN": "不是很聪明，常常因为自己的背包被打爆而受伤。"
+    },
+    {
+        "Key": "mon_desc_06",
+        "zh_CN": "很方便的机器，不怕疼也不需要休息，报废了可以换新的。"
+    },
+    {
+        "Key": "mon_desc_07",
+        "zh_CN": "梳着脏辫，也不会说唱，但会跳街舞，所以体术还不错。"
+    },
+    {
+        "Key": "mon_desc_08",
+        "zh_CN": "不战斗的时候，会用盾牌当桌子吃饭，深受同伴们喜爱。"
+    },
+    {
+        "Key": "mon_desc_09",
+        "zh_CN": "非常可靠的老大哥，但因肚腩被同伴吐槽了而决定减肥。"
+    },
+    {
+        "Key": "mon_desc_10",
+        "zh_CN": "铁锤的好伙伴，擅长远程作战，近期并没有减肥的打算。"
+    },
+    {
+        "Key": "mon_desc_11",
+        "zh_CN": "带的炸弹太重了，导致他一直弯腰驼背。"
+    },
+    {
+        "Key": "mon_desc_12",
+        "zh_CN": "外表有点像法师，实际上攻击距离并不远。"
+    },
+    {
+        "Key": "mon_desc_13",
+        "zh_CN": "与其他同伴相比，很擅长找掩体躲起来摸鱼。"
+    },
+    {
+        "Key": "mon_desc_14",
+        "zh_CN": "杂兵里的高智商选手，深知科技改变生活的道理。"
+    },
+    {
+        "Key": "mon_desc_15",
+        "zh_CN": "臂力惊人，准度可靠，经常弓着背是为了耍帅，腰没问题。"
+    },
+    {
+        "Key": "mon_desc_16",
+        "zh_CN": "臂力惊人，人没刀长，喜欢在出招后摆造型。"
+    },
+    {
+        "Key": "mon_desc_17",
+        "zh_CN": "一边转圈圈一边闪避的优雅大姐姐，战斗力也值得信任。"
+    },
+    {
+        "Key": "mon_desc_18",
+        "zh_CN": "体魄强健但并不擅长接近战，更喜欢保持距离搓火球。"
+    },
+    {
+        "Key": "mon_desc_19",
+        "zh_CN": "速度快，招式华丽，一把年纪了还爱出风头。"
+    },
+    {
+        "Key": "mon_desc_20",
+        "zh_CN": "有非常强的作战能力，但武器是本体，没了武器就废了。"
+    },
+    {
+        "Key": "mon_desc_21",
+        "zh_CN": "很常见的无人机，AI不是很聪明，但勉强能用。"
+    },
+    {
+        "Key": "mon_desc_22",
+        "zh_CN": "粗壮了许多的无人机，为什么能飞起来一直是个谜。"
+    },
+    {
+        "Key": "mon_desc_23",
+        "zh_CN": "背着各种导弹，堪称移动的武器库，但移动速度堪忧。"
+    },
+    {
+        "Key": "mon_desc_24",
+        "zh_CN": "外表比较憨厚，攻击手段不算多，但跑得还挺快。"
+    },
+    {
+        "Key": "mon_desc_25",
+        "zh_CN": "看上去应该是主坦克，实际攻击距离很远。"
+    },
+    {
+        "Key": "mon_desc_26",
+        "zh_CN": "表情看上去很痛苦，但只是战斗时太兴奋了。"
+    },
+    {
+        "Key": "mon_desc_27",
+        "zh_CN": "认为头部比较重要，所以只有头部有衣物遮挡。"
+    },
+    {
+        "Key": "mon_desc_28",
+        "zh_CN": "兴奋起来容易到处乱窜，攻击性强，据说是植入了吉娃娃犬的习性。"
+    },
+    {
+        "Key": "mon_desc_29",
+        "zh_CN": "为了保护自己而持有巨大的盾，却因为盾太重了而走不快。"
+    },
+    {
+        "Key": "mon_desc_30",
+        "zh_CN": "十分珍惜自己的长刀，有空的时候都会用破烂的衣服擦拭长刀。"
+    },
+    {
+        "Key": "mon_desc_31",
+        "zh_CN": "仿照爱思特做的野生伙伴，没有获得肖像使用权，请帮忙保密。"
+    },
+    {
+        "Key": "mon_desc_32",
+        "zh_CN": "作为敌人的时候很棘手，但作为伙伴的时候很可爱。"
+    },
+    {
+        "Key": "mon_desc_33",
+        "zh_CN": "担心跑步姿势不够优雅而被嘲笑，所以喜欢用飞的，尽管这样移动速度有点慢。"
+    },
+    {
+        "Key": "mon_desc_34",
+        "zh_CN": "外形和名称都充满沉稳之感，可以用电墙限制对手移动，但对灵活移动的物体就没那么从容了。"
+    },
+    {
+        "Key": "mon_desc_35",
+        "zh_CN": "在没人看到的地方喜欢挥舞着钳子……不对，是晃动着机械部件练习独特舞步。"
+    },
+    {
+        "Key": "mon_desc_36",
+        "zh_CN": "对自己亮眼纤细的外形十分满意，最讨厌的一个词是“华而不实”。"
+    },
+    {
+        "Key": "mon_desc_37",
+        "zh_CN": "这只大眼睛有着大范围的视域。不要以为贡露不在，贡露可能正悄悄注视着你。"
+    },
+    {
+        "Key": "mon_desc_38",
+        "zh_CN": "喜欢发动旋转技能探知环境，这其实是盖弥尔缓解紧张的一种方式。"
+    },
+    {
+        "Key": "mon_desc_39",
+        "zh_CN": "常常被叫错名字，但如果对方是关系不错的伙伴就不会生气。"
+    },
+    {
+        "Key": "mon_desc_40",
+        "zh_CN": "愿望是攻击效果能像塞壬的歌喉一样强而有力地穿透一切。"
+    },
+    {
+        "Key": "mon_desc_41",
+        "zh_CN": "根据透墨索斯的形态制作而成的伙伴，不必担心，这次搞定了版权使用许可。"
+    },
+    {
+        "Key": "mon_desc_42",
+        "zh_CN": "类人形态的机器人，看上去像是“脸”的位置可以更换成枪管形态进行射击。"
+    },
+    {
+        "Key": "mon_desc_43",
+        "zh_CN": "不战斗的时候有很多爱好，其中之一是利用自身“特长”修剪花花草草。"
+    },
+    {
+        "Key": "mon_desc_44",
+        "zh_CN": "一般情况下沉默寡言，但如果聊到远距离攻击有几种射击模式，哑炮就有话要说了。"
+    },
+    {
+        "Key": "skill_name_01",
+        "zh_CN": "在影子里"
+    },
+    {
+        "Key": "skill_desc_01",
+        "zh_CN": "每次攻击都会发射5个追踪子弹，每个均可造成攻击力%s%%的动能类型伤害，触发间隔10秒"
+    },
+    {
+        "Key": "skill_name_02",
+        "zh_CN": "爆裂射手"
+    },
+    {
+        "Key": "skill_desc_02",
+        "zh_CN": "每次攻击都会发射2个爆裂弹，每个均可在一定范围内造成攻击力%s%%的动能类型伤害。触发间隔20秒"
+    },
+    {
+        "Key": "skill_name_03",
+        "zh_CN": "强，无敌"
+    },
+    {
+        "Key": "skill_desc_03",
+        "zh_CN": "获得1次持续%s秒的无敌效果，触发间隔15秒"
+    },
+    {
+        "Key": "skill_name_04",
+        "zh_CN": "敲敲"
+    },
+    {
+        "Key": "skill_desc_04",
+        "zh_CN": "场上所有友方目标获得%s%%自身最大生命的护盾，该护盾不可叠加，触发间隔15秒"
+    },
+    {
+        "Key": "skill_name_05",
+        "zh_CN": "坚持治疗"
+    },
+    {
+        "Key": "skill_desc_05",
+        "zh_CN": "当前生命占最大生命百分比最低的友方目标每0.5秒回复%s%%最大生命，持续3秒，触发间隔15秒"
+    },
+    {
+        "Key": "skill_name_06",
+        "zh_CN": "布防"
+    },
+    {
+        "Key": "skill_desc_06",
+        "zh_CN": "所有敌方目标移动速度降低50%%，持续%s秒，触发间隔20秒"
+    },
+    {
+        "Key": "skill_name_07",
+        "zh_CN": "碎碎冰"
+    },
+    {
+        "Key": "skill_desc_07",
+        "zh_CN": "随机在敌方位置产生1次冰冻爆炸，造成攻击力%s%%的低温类型范围伤害，并施加持续%s秒的冻结效果，触发间隔30秒"
+    },
+    {
+        "Key": "skill_name_08",
+        "zh_CN": "挤一挤"
+    },
+    {
+        "Key": "skill_desc_08",
+        "zh_CN": "随机在敌方位置产生1个引力旋涡，吸附敌方目标，持续%s秒"
+    },
+    {
+        "Key": "skill_name_09",
+        "zh_CN": "粉碎机"
+    },
+    {
+        "Key": "skill_desc_09",
+        "zh_CN": "生成3个旋转尖刃，接触到敌方目标即刻对其造成攻击力%s%%的动能类型伤害"
+    },
+    {
+        "Key": "skill_name_10",
+        "zh_CN": "最后的防御"
+    },
+    {
+        "Key": "skill_desc_10",
+        "zh_CN": "生命低于10%%时，为场上友方目标提供自身最大生命%s%%的护盾，持续10秒，护盾可叠加，触发间隔120秒"
+    },
+    {
+        "Key": "skill_name_11",
+        "zh_CN": "最后一击"
+    },
+    {
+        "Key": "skill_desc_11",
+        "zh_CN": "生命低于10%%时，引发1次大范围爆炸，对范围内敌方目标造成攻击力%s%%的动能类型伤害，触发间隔120秒"
+    },
+    {
+        "Key": "skill_name_12",
+        "zh_CN": "反弹反弹"
+    },
+    {
+        "Key": "skill_desc_12",
+        "zh_CN": "每次受到伤害时，对敌方目标也造成1次该实际伤害%s%%的同类型伤害"
+    },
+    {
+        "Key": "skill_name_13",
+        "zh_CN": "巴萨卡！"
+    },
+    {
+        "Key": "skill_desc_13",
+        "zh_CN": "每次受到伤害时，自身造成的伤害提升%s%%，最多叠加10层，持续5秒"
+    },
+    {
+        "Key": "skill_name_14",
+        "zh_CN": "嗨铁鸭子"
+    },
+    {
+        "Key": "skill_desc_14",
+        "zh_CN": "当前生命高于50%%，造成的伤害提升%s%%"
+    },
+    {
+        "Key": "skill_name_15",
+        "zh_CN": "燃起来了"
+    },
+    {
+        "Key": "skill_desc_15",
+        "zh_CN": "当前生命低于50%%，受到的伤害降低%s%%"
+    },
+    {
+        "Key": "skill_name_16",
+        "zh_CN": "轻轻敲醒"
+    },
+    {
+        "Key": "skill_desc_16",
+        "zh_CN": "攻击命中敌方目标时，产生1秒眩晕效果，触发间隔%s秒"
+    },
+    {
+        "Key": "skill_name_17",
+        "zh_CN": "十年功力"
+    },
+    {
+        "Key": "skill_desc_17",
+        "zh_CN": "攻击命中敌方目标时会施加易伤效果，使目标受到伤害提高2%%，最多叠加%s层，持续5秒"
+    },
+    {
+        "Key": "skill_name_18",
+        "zh_CN": "拿来吧你"
+    },
+    {
+        "Key": "skill_desc_18",
+        "zh_CN": "攻击命中敌方目标时，自身回复该次伤害%s%%的生命"
+    },
+    {
+        "Key": "skill_name_19",
+        "zh_CN": "玻璃大炮"
+    },
+    {
+        "Key": "skill_desc_19",
+        "zh_CN": "攻击力提升%s%%，最大生命降低10%%"
+    },
+    {
+        "Key": "skill_name_20",
+        "zh_CN": "宅心“人”厚"
+    },
+    {
+        "Key": "skill_desc_20",
+        "zh_CN": "最大生命提升%s%%，攻击力降低10%%"
+    },
+    {
+        "Key": "skill_name_21",
+        "zh_CN": "临时主角"
+    },
+    {
+        "Key": "skill_desc_21",
+        "zh_CN": "即将倒下时会获得持续%s秒的“主角”状态，生命不再减少，触发间隔60秒"
+    },
+    {
+        "Key": "skill_name_22",
+        "zh_CN": "很快啊"
+    },
+    {
+        "Key": "skill_desc_22",
+        "zh_CN": "移动速度提高%s%%"
+    },
+    {
+        "Key": "skill_name_23",
+        "zh_CN": "召雷"
+    },
+    {
+        "Key": "skill_desc_23",
+        "zh_CN": "攻击命中目标时同时降下1道落雷，造成持续%s秒的麻痹效果，触发间隔20秒"
+    },
+    {
+        "Key": "skill_name_24",
+        "zh_CN": "吸引火力"
+    },
+    {
+        "Key": "skill_desc_24",
+        "zh_CN": "10秒内强制周围20米内所有敌方目标攻击自己，且自身受到的最终伤害降低%s%%，触发间隔15秒"
+    },
+    {
+        "Key": "skill_name_25",
+        "zh_CN": "崩崩鼓手"
+    },
+    {
+        "Key": "skill_desc_25",
+        "zh_CN": "在自身周围释放1次爆发冲击波，对范围内目标造成%s%%动能类型伤害，触发间隔5秒"
+    },
+    {
+        "Key": "skill_name_26",
+        "zh_CN": "移动电源"
+    },
+    {
+        "Key": "skill_desc_26",
+        "zh_CN": "攻击命中目标时，会使天启者回复%s点爆发能量和%s点常规能量，触发间隔5秒"
+    },
+    {
+        "Key": "skill_name_27",
+        "zh_CN": "擒王"
+    },
+    {
+        "Key": "skill_desc_27",
+        "zh_CN": "标记并优先攻击当前生命最大的目标，且自身对其造成的伤害提升%s%%，每隔15秒重新选择目标"
+    },
+    {
+        "Key": "skill_name_28",
+        "zh_CN": "绞杀"
+    },
+    {
+        "Key": "skill_desc_28",
+        "zh_CN": "标记并优先攻击当前生命最小的目标，且自身对其造成的伤害提升%s%%，每隔15秒重新选择目标"
+    },
+    {
+        "Key": "chip_name_01",
+        "zh_CN": "士气"
+    },
+    {
+        "Key": "chip_desc_01",
+        "zh_CN": "每有%s个士气指令，所有出战伙伴的攻击力提升%s%%，最大生命提升%s%%"
+    },
+    {
+        "Key": "chip_name_02",
+        "zh_CN": "悠哉"
+    },
+    {
+        "Key": "chip_desc_02",
+        "zh_CN": "每有%s个悠哉指令，所有出战伙伴的移动速度提升%s%%，每秒恢复0.1%%最大生命"
+    },
+    {
+        "Key": "chip_name_03",
+        "zh_CN": "强逐"
+    },
+    {
+        "Key": "chip_desc_03",
+        "zh_CN": "每有%s个强逐指令，所有出战伙伴对处于被控制状态的目标造成的伤害提升%s%%"
+    },
+    {
+        "Key": "chip_name_04",
+        "zh_CN": "防护"
+    },
+    {
+        "Key": "chip_desc_04",
+        "zh_CN": "每有%s个防护指令，所有出战伙伴每隔30秒获得自身最大生命%s%%的护盾，持续时间10秒"
+    },
+    {
+        "Key": "chip_name_05",
+        "zh_CN": "猛壮"
+    },
+    {
+        "Key": "chip_desc_05",
+        "zh_CN": "每有%s个猛壮指令，所有出战伙伴每隔30秒造成的伤害提升%s%%，持续时间10秒"
+    },
+    {
+        "Key": "chip_name_06",
+        "zh_CN": "顺生"
+    },
+    {
+        "Key": "chip_desc_06",
+        "zh_CN": "每有%s个顺生指令，所有出战伙伴攻击命中目标时，自身回复该次伤害%s%%的生命"
+    },
+    {
+        "Key": "chip_name_07",
+        "zh_CN": "贯空"
+    },
+    {
+        "Key": "chip_desc_07",
+        "zh_CN": "每有%s个贯空指令，所有出战伙伴攻击命中目标时，与目标直接距离每有1米，则造成的伤害提升%s%%，最多不超过%s%%"
+    },
+    {
+        "Key": "chip_name_08",
+        "zh_CN": "奋起"
+    },
+    {
+        "Key": "chip_desc_08",
+        "zh_CN": "每有%s个奋起指令，所有出战伙伴周围3米内存在敌方目标时，自身造成的伤害提升%s%%"
+    },
+    {
+        "Key": "chip_name_09",
+        "zh_CN": "幸运"
+    },
+    {
+        "Key": "chip_desc_09",
+        "zh_CN": "存在幸运指令时，所有出战伙伴攻击命中目标时，有%s%%概率使该次伤害翻倍"
+    },
+    {
+        "Key": "chip_name_10",
+        "zh_CN": "领袖"
+    },
+    {
+        "Key": "chip_desc_10",
+        "zh_CN": "存在领袖指令时，所有出战伙伴造成的最终伤害提升%s%%，受到的最终伤害降低%s%%"
+    },
+    {
+        "Key": "chip_name_11",
+        "zh_CN": "佣兵"
+    },
+    {
+        "Key": "chip_desc_11",
+        "zh_CN": "每有%s个佣兵指令，所有出战伙伴周围8米内存在友方目标时，自身受到的最终伤害降低%s%%"
+    },
+    {
+        "Key": "task_title_1",
+        "zh_CN": "开拓任务"
+    },
+    {
+        "Key": "task_title_2",
+        "zh_CN": "开拓目标"
+    },
+    {
+        "Key": "task_title_3",
+        "zh_CN": "钓鱼大赛"
+    },
+    {
+        "Key": "task_title_4",
+        "zh_CN": "经营目标"
+    },
+    {
+        "Key": "task_icon_1",
+        "zh_CN": "每周一、三、五刷新"
+    },
+    {
+        "Key": "task_name_1",
+        "zh_CN": "记得打卡"
+    },
+    {
+        "Key": "task_desc_1",
+        "zh_CN": "累计登录%s天游戏"
+    },
+    {
+        "Key": "task_name_2",
+        "zh_CN": "超级星探"
+    },
+    {
+        "Key": "task_desc_2",
+        "zh_CN": "累计劝降任意%s个伙伴"
+    },
+    {
+        "Key": "task_name_3",
+        "zh_CN": "英雄路过"
+    },
+    {
+        "Key": "task_desc_3",
+        "zh_CN": "在海岛累计击败%s个敌方目标"
+    },
+    {
+        "Key": "task_name_4",
+        "zh_CN": "炼一炼"
+    },
+    {
+        "Key": "task_desc_4",
+        "zh_CN": "本次 试炼吧！周期内，试炼积分达到%s"
+    },
+    {
+        "Key": "task_name_5",
+        "zh_CN": "开拓高手"
+    },
+    {
+        "Key": "task_desc_5",
+        "zh_CN": "开拓等级达到%s级"
+    },
+    {
+        "Key": "task_name_6",
+        "zh_CN": "进度要紧"
+    },
+    {
+        "Key": "task_desc_6",
+        "zh_CN": "开拓进程达到%s"
+    },
+    {
+        "Key": "task_name_7",
+        "zh_CN": "新星猎头"
+    },
+    {
+        "Key": "task_desc_7",
+        "zh_CN": "累计劝降%s个某某阵营的伙伴"
+    },
+    {
+        "Key": "task_name_8",
+        "zh_CN": "闯一闯"
+    },
+    {
+        "Key": "task_desc_8_1",
+        "zh_CN": "在 闯关吧！普通模式中完成10个关卡的挑战"
+    },
+    {
+        "Key": "task_desc_8_2",
+        "zh_CN": "在 闯关吧！普通模式中完成20个关卡的挑战"
+    },
+    {
+        "Key": "task_desc_8_3",
+        "zh_CN": "在 闯关吧！普通模式中完成30个关卡的挑战"
+    },
+    {
+        "Key": "task_desc_8_4",
+        "zh_CN": "在 闯关吧！普通模式中完成40个关卡的挑战"
+    },
+    {
+        "Key": "task_desc_8_5",
+        "zh_CN": "在 闯关吧！普通模式中完成50个关卡的挑战"
+    },
+    {
+        "Key": "task_desc_8_6",
+        "zh_CN": "在 闯关吧！普通模式中完成60个关卡的挑战"
+    },
+    {
+        "Key": "task_name_9",
+        "zh_CN": "钓鱼佬养成记"
+    },
+    {
+        "Key": "task_desc_9",
+        "zh_CN": "累积钓鱼%s次"
+    },
+    {
+        "Key": "task_name_10",
+        "zh_CN": "职业技能培训师"
+    },
+    {
+        "Key": "task_desc_10",
+        "zh_CN": "累积进行%s次技能升阶"
+    },
+    {
+        "Key": "task_name_11",
+        "zh_CN": "及时止损"
+    },
+    {
+        "Key": "task_desc_11",
+        "zh_CN": "累积解雇%s个伙伴"
+    },
+    {
+        "Key": "task_name_12",
+        "zh_CN": "搏一搏伙伴到手"
+    },
+    {
+        "Key": "task_desc_12",
+        "zh_CN": "快捷劝降中累计劝降%s次"
+    },
+    {
+        "Key": "task_name_13",
+        "zh_CN": "海岛回忆录"
+    },
+    {
+        "Key": "task_desc_13_1",
+        "zh_CN": "累积开启%s个搓饭煲"
+    },
+    {
+        "Key": "task_desc_13_2",
+        "zh_CN": "累积收集%s个金块块"
+    },
+    {
+        "Key": "task_desc_13_3",
+        "zh_CN": "累积打破%s个惊喜盒"
+    },
+    {
+        "Key": "task_desc_13_4",
+        "zh_CN": "累积激活%s个整备点"
+    },
+    {
+        "Key": "task_desc_13_5",
+        "zh_CN": "累积完成%s个小目标"
+    },
+    {
+        "Key": "task_desc_13_6",
+        "zh_CN": "累积探索%s个任意洞"
+    },
+    {
+        "Key": "task_desc_13_7",
+        "zh_CN": "累积点燃%s个流光炫彩"
+    },
+    {
+        "Key": "task_desc_13_8",
+        "zh_CN": "累积捕捉%s只夜光虫"
+    },
+    {
+        "Key": "task_desc_13_9",
+        "zh_CN": "累积放飞%s盏浮影灯"
+    },
+    {
+        "Key": "task_desc_13_10",
+        "zh_CN": "累积完成%s个脑力小挑战"
+    },
+    {
+        "Key": "task_name_14",
+        "zh_CN": "辛勤劳作"
+    },
+    {
+        "Key": "task_desc_14_1",
+        "zh_CN": "钓鱼大赛期间，累积采集%s次草药"
+    },
+    {
+        "Key": "task_desc_14_2",
+        "zh_CN": "钓鱼大赛期间，累积制作%s个鱼饵"
+    },
+    {
+        "Key": "task_desc_14_3",
+        "zh_CN": "累积采集%s株草药"
+    },
+    {
+        "Key": "task_desc_14_4",
+        "zh_CN": "累积制作%s个鱼饵"
+    },
+    {
+        "Key": "task_name_15",
+        "zh_CN": "钓鱼达人"
+    },
+    {
+        "Key": "task_desc_15_1",
+        "zh_CN": "钓鱼大赛期间，累积在白天进行钓鱼%s次"
+    },
+    {
+        "Key": "task_desc_15_2",
+        "zh_CN": "钓鱼大赛期间，累积在夜晚进行钓鱼%s次"
+    },
+    {
+        "Key": "task_name_16",
+        "zh_CN": "最佳评分"
+    },
+    {
+        "Key": "task_desc_16_1",
+        "zh_CN": "钓鱼大赛总评分达到%s"
+    },
+    {
+        "Key": "task_desc_16_2",
+        "zh_CN": "啸天锤头鲨评分达到%s"
+    },
+    {
+        "Key": "task_desc_16_3",
+        "zh_CN": "炽花火水母评分达到%s"
+    },
+    {
+        "Key": "task_name_17",
+        "zh_CN": "未来蓝图"
+    },
+    {
+        "Key": "task_desc_17_1",
+        "zh_CN": "蓝图岛等级提升至%s级"
+    },
+    {
+        "Key": "task_name_18",
+        "zh_CN": "职业精算"
+    },
+    {
+        "Key": "task_desc_18_1",
+        "zh_CN": "累计获得蓝图币达到%s"
+    },
+    {
+        "Key": "task_name_19",
+        "zh_CN": "精英岛主"
+    },
+    {
+        "Key": "task_desc_19_1",
+        "zh_CN": "累计聘用员工数量达到%s"
+    },
+    {
+        "Key": "task_desc_19_2",
+        "zh_CN": "蓝图岛的一般员工数量达到%s"
+    },
+    {
+        "Key": "task_desc_19_3",
+        "zh_CN": "蓝图岛的厉害员工数量达到%s"
+    },
+    {
+        "Key": "task_desc_19_4",
+        "zh_CN": "蓝图岛的强力员工数量达到%s"
+    },
+    {
+        "Key": "task_desc_19_5",
+        "zh_CN": "蓝图岛的超强员工数量达到%s"
+    },
+    {
+        "Key": "task_desc_19_6",
+        "zh_CN": "蓝图岛的4级员工数量达到%s"
+    },
+    {
+        "Key": "task_name_20",
+        "zh_CN": "土地规划师"
+    },
+    {
+        "Key": "task_desc_20_1",
+        "zh_CN": "在轻风广场建造全部建筑"
+    },
+    {
+        "Key": "task_desc_20_2",
+        "zh_CN": "在明日港建造全部建筑"
+    },
+    {
+        "Key": "task_desc_20_3",
+        "zh_CN": "在海之滨建造全部建筑"
+    },
+    {
+        "Key": "task_desc_20_4",
+        "zh_CN": "在新星广场建造全部建筑"
+    },
+    {
+        "Key": "task_desc_20_5",
+        "zh_CN": "在轻风广场累计建造%s幢达到2级的建筑"
+    },
+    {
+        "Key": "task_desc_20_6",
+        "zh_CN": "在轻风广场累计建造%s幢达到4级的建筑"
+    },
+    {
+        "Key": "task_desc_20_7",
+        "zh_CN": "在轻风广场累计建造%s幢达到8级的建筑"
+    },
+    {
+        "Key": "task_desc_20_8",
+        "zh_CN": "在轻风广场累计建造%s幢达到12级的建筑"
+    },
+    {
+        "Key": "task_desc_20_9",
+        "zh_CN": "在轻风广场累计建造%s幢达到16级的建筑"
+    },
+    {
+        "Key": "task_desc_20_10",
+        "zh_CN": "在明日港累计建造%s幢达到4级的建筑"
+    },
+    {
+        "Key": "task_desc_20_11",
+        "zh_CN": "在明日港累计建造%s幢达到8级的建筑"
+    },
+    {
+        "Key": "task_desc_20_12",
+        "zh_CN": "在明日港累计建造%s幢达到12级的建筑"
+    },
+    {
+        "Key": "task_desc_20_13",
+        "zh_CN": "在海之滨累计建造%s幢达到4级的建筑"
+    },
+    {
+        "Key": "task_desc_20_14",
+        "zh_CN": "在海之滨累计建造%s幢达到8级的建筑"
+    },
+    {
+        "Key": "task_desc_20_15",
+        "zh_CN": "在新星广场累计建造%s幢达到4级的建筑"
+    },
+    {
+        "Key": "task_name_21",
+        "zh_CN": "钓鱼佬养成记"
+    },
+    {
+        "Key": "task_desc_21_1",
+        "zh_CN": "在蓝图岛内，累计钓鱼%s次"
+    },
+    {
+        "Key": "story_name_01",
+        "zh_CN": "日志01",
+        "disable": 1
+    },
+    {
+        "Key": "story_desc_01",
+        "zh_CN": "首次删档测试相关影像记录",
+        "disable": 1
+    },
+    {
+        "Key": "story_name_02",
+        "zh_CN": "日志02",
+        "disable": 1
+    },
+    {
+        "Key": "story_desc_02",
+        "zh_CN": "也许不删档测试相关影像记录",
+        "disable": 1
+    },
+    {
+        "Key": "story_name_03",
+        "zh_CN": "日志03",
+        "disable": 1
+    },
+    {
+        "Key": "story_desc_03",
+        "zh_CN": "首个资料片相关影像记录",
+        "disable": 1
+    },
+    {
+        "Key": "buff_type_1",
+        "zh_CN": "COST大于{1}的伙伴，获得效果加成:{2}"
+    },
+    {
+        "Key": "buff_type_2",
+        "zh_CN": "COST小于{1}的伙伴，获得效果加成:{2}"
+    },
+    {
+        "Key": "buff_type_3",
+        "zh_CN": "编队中{1}阵营的伙伴，获得效果加成:{2}"
+    },
+    {
+        "Key": "buff_type_3_2",
+        "zh_CN": "编队中{1}阵营和{2}阵营的伙伴，获得效果加成:{3}"
+    },
+    {
+        "Key": "buff_type_4",
+        "zh_CN": "编队中{1}类型的伙伴，获得效果加成:{2}"
+    },
+    {
+        "Key": "buff_type_4_2",
+        "zh_CN": "编队中{1}类型和{2}类型的伙伴，获得效果加成:{3}"
+    },
+    {
+        "Key": "buff_type_5",
+        "zh_CN": "当伙伴编队中没有重复的伙伴时，所有伙伴获得效果加成:{1}"
+    },
+    {
+        "Key": "buff_desc_5000088",
+        "zh_CN": "自身造成的伤害提升50%"
+    },
+    {
+        "Key": "buff_desc_5000089",
+        "zh_CN": "对护盾造成的伤害提升100%"
+    },
+    {
+        "Key": "buff_desc_5000090",
+        "zh_CN": "自身受到的伤害降低50%"
+    },
+    {
+        "Key": "buff_desc_5000091",
+        "zh_CN": "击杀敌方目标时，自身恢复最大生命值10%的血量"
+    },
+    {
+        "Key": "buff_desc_5000092",
+        "zh_CN": "攻击命中目标后，造成50%的减速效果、持续3秒"
+    },
+    {
+        "Key": "buff_desc_5000093",
+        "zh_CN": "自身免疫所有控制效果"
+    },
+    {
+        "Key": "fish_rank_1",
+        "zh_CN": "钓鱼高手",
+        "disable": 1
+    },
+    {
+        "Key": "fish_rank_2",
+        "zh_CN": "长度排行"
+    },
+    {
+        "Key": "fish_rank_3",
+        "zh_CN": "最佳长度",
+        "disable": 1
+    },
+    {
+        "Key": "fish_rank_4",
+        "zh_CN": "重量排行"
+    },
+    {
+        "Key": "fish_rank_5",
+        "zh_CN": "最佳重量",
+        "disable": 1
+    },
+    {
+        "Key": "fish_rank_6",
+        "zh_CN": "钓鱼大赛剩余时间："
+    },
+    {
+        "Key": "fish_rank_tips1",
+        "zh_CN": "是否快捷传送至【探险岛】钓鱼大赛垂钓点位？"
+    },
+    {
+        "Key": "fish_rank_tips2",
+        "zh_CN": "探险岛【湖岛区】尚未解锁"
+    },
+    {
+        "Key": "light_switch_tips1",
+        "zh_CN": "是否将【%s】切换到夜晚状态？"
+    },
+    {
+        "Key": "light_switch_tips2",
+        "zh_CN": "是否将【%s】切换到白天状态？"
+    },
+    {
+        "Key": "area_name1",
+        "zh_CN": "轻风广场",
+        "disable": 0
+    },
+    {
+        "Key": "area_name2",
+        "zh_CN": "明日港",
+        "disable": 0
+    },
+    {
+        "Key": "area_name3",
+        "zh_CN": "海之滨",
+        "disable": 0
+    },
+    {
+        "Key": "area_name4",
+        "zh_CN": "新星广场",
+        "disable": 0
+    },
+    {
+        "Key": "area_name5",
+        "zh_CN": "秘密小岛",
+        "disable": 0
+    },
+    {
+        "Key": "attr_name1",
+        "zh_CN": "独特性",
+        "disable": 0
+    },
+    {
+        "Key": "attr_name2",
+        "zh_CN": "娱乐性",
+        "disable": 0
+    },
+    {
+        "Key": "attr_name3",
+        "zh_CN": "服务性",
+        "disable": 0
+    },
+    {
+        "Key": "attr_name_staff1",
+        "zh_CN": "独特性",
+        "disable": 0
+    },
+    {
+        "Key": "attr_name_staff2",
+        "zh_CN": "娱乐性",
+        "disable": 0
+    },
+    {
+        "Key": "attr_name_staff3",
+        "zh_CN": "服务性",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildfinishlang1",
+        "zh_CN": "分析员分析员！蓝图岛目前蒸蒸日上，蓬勃发展中~",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildfinishlang2",
+        "zh_CN": "恭喜分析员发财，恭喜分析员精彩！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildfinishlang3",
+        "zh_CN": "清风吹拂，岛屿焕发生机！分析员的建造成就了蓝图岛的美好~",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildfinishlang4",
+        "zh_CN": "分析员，岛屿收入已飞速提升，我们已经有建设新星太空站的实力了！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildfinishlang5",
+        "zh_CN": "魄力规划、硬核经营，分析员雷霆之姿已让全体员工臣服！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildfinishlang6",
+        "zh_CN": "岛屿等级提升、蓝图币多多，尖尖耳的工作热情高涨，制作人的点赞加无限。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_1_Name",
+        "zh_CN": "梦想之地",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_2_Name",
+        "zh_CN": "梦想之地",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_3_Name",
+        "zh_CN": "梦想之地",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_4_Name",
+        "zh_CN": "开始经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_5_Name",
+        "zh_CN": "开始经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_6_Name",
+        "zh_CN": "一个大目标？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_7_Name",
+        "zh_CN": "评级嘉奖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_7_1_Name",
+        "zh_CN": "评级嘉奖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_7_2_Name",
+        "zh_CN": "评级嘉奖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_7_3_Name",
+        "zh_CN": "评级嘉奖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_9_Name",
+        "zh_CN": "一个大目标？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_19_Name",
+        "zh_CN": "一个大目标？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_10_Name",
+        "zh_CN": "岛屿评级指标",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_11_Name",
+        "zh_CN": "传说中的厨师",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_12_Name",
+        "zh_CN": "传说中的厨师",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_13_Name",
+        "zh_CN": "传说中的厨师",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_14_Name",
+        "zh_CN": "传说中的厨师",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_15_Name",
+        "zh_CN": "传说中的厨师",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_17_Name",
+        "zh_CN": "岛屿升级",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra1_Name",
+        "zh_CN": "岛屿评级指标1",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra2_Name",
+        "zh_CN": "岛屿评级指标2",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_1_1_Name",
+        "zh_CN": "需要修理的员工",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_1_2_Name",
+        "zh_CN": "需要修理的员工",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_1_3_Name",
+        "zh_CN": "需要修理的员工",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_3_1_Name",
+        "zh_CN": "投诉处理",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_3_2_Name",
+        "zh_CN": "投诉处理",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_1_Des",
+        "zh_CN": "安卡希雅又加班加点做了点新东西——蓝图岛。但要如何把这里变成宇宙闻名的度假岛，还需要仔细考虑一下",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_2_Des",
+        "zh_CN": "安卡希雅又加班加点做了点新东西——蓝图岛。但要如何把这里变成宇宙闻名的度假岛，还需要仔细考虑一下",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_3_Des",
+        "zh_CN": "安卡希雅又加班加点做了点新东西——蓝图岛。但要如何把这里变成宇宙闻名的度假岛，还需要仔细考虑一下",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_4_Des",
+        "zh_CN": "关于岛屿的经营，助手尖尖耳似乎有事找你",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_5_Des",
+        "zh_CN": "关于岛屿的经营，助手尖尖耳似乎有事找你",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_6_Des",
+        "zh_CN": "建设蓝图岛似乎还有着阶段性的大目标，听听安卡希雅怎么讲吧",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_7_Des",
+        "zh_CN": "评级嘉奖制度会根据岛屿的多方面状况综合判断蓝图岛是否可以升级，当蓝图岛升级后会将会发放评级嘉奖。请努力达到这些条件吧",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_7_1_Des",
+        "zh_CN": "评级嘉奖制度会根据岛屿的多方面状况综合判断蓝图岛是否可以升级，当蓝图岛升级后会将会发放评级嘉奖。请努力达到这些条件吧",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_7_2_Des",
+        "zh_CN": "评级嘉奖制度会根据岛屿的多方面状况综合判断蓝图岛是否可以升级，当蓝图岛升级后会将会发放评级嘉奖。请努力达到这些条件吧",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_7_3_Des",
+        "zh_CN": "评级嘉奖制度会根据岛屿的多方面状况综合判断蓝图岛是否可以升级，当蓝图岛升级后会将会发放评级嘉奖。请努力达到这些条件吧",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_9_Des",
+        "zh_CN": "建设蓝图岛似乎还有着阶段性的大目标，听听安卡希雅怎么讲吧",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_19_Des",
+        "zh_CN": "建设蓝图岛似乎还有着阶段性的大目标，听听安卡希雅怎么讲吧",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_10_Des",
+        "zh_CN": "为了提升经营状况，还需要进行一些必要的努力",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_11_Des",
+        "zh_CN": "要想让蓝图岛打出名号，以食物作为招牌不失为好办法",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_12_Des",
+        "zh_CN": "要想让蓝图岛打出名号，以食物作为招牌不失为好办法",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_13_Des",
+        "zh_CN": "要想让蓝图岛打出名号，以食物作为招牌不失为好办法",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_14_Des",
+        "zh_CN": "要想让蓝图岛打出名号，以食物作为招牌不失为好办法",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_15_Des",
+        "zh_CN": "要想让蓝图岛打出名号，以食物作为招牌不失为好办法",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_17_Des",
+        "zh_CN": "一个阶段的努力有了很大的成果，安卡希雅有些话要对你说",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra1_Des",
+        "zh_CN": "在轻风广场建造海滩别墅后，完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra2_Des",
+        "zh_CN": "在轻风广场建造豪华餐厅后，完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_1_1_Des",
+        "zh_CN": "有一个员工奇奇怪怪的！快找尖尖耳和安卡希雅了解一下是怎么回事。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_1_2_Des",
+        "zh_CN": "有一个员工奇奇怪怪的！快找尖尖耳和安卡希雅了解一下是怎么回事。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_1_3_Des",
+        "zh_CN": "有一个员工奇奇怪怪的！快找尖尖耳和安卡希雅了解一下是怎么回事。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_3_1_Des",
+        "zh_CN": "收到了来自其他员工的投诉！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_3_2_Des",
+        "zh_CN": "收到了来自其他员工的投诉！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_1_Activedes",
+        "zh_CN": "招聘1位员工",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_2_Activedes",
+        "zh_CN": "前往接待中心",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_3_Activedes",
+        "zh_CN": "前往建造海滩别墅",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_4_Activedes",
+        "zh_CN": "尖尖耳似乎有话要说",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_5_Activedes",
+        "zh_CN": "完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_6_Activedes",
+        "zh_CN": "与尖尖耳对话",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_7_Activedes",
+        "zh_CN": "完成评级嘉奖条件以升级蓝图岛",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_7_1_Activedes",
+        "zh_CN": "海滩别墅达到{1}/{2}级",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_7_2_Activedes",
+        "zh_CN": "完成蓝图任务建造豪华餐厅，并提升至{1}/{2}级",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_7_3_Activedes",
+        "zh_CN": "累计消耗{1}/{2}蓝图币",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_9_Activedes",
+        "zh_CN": "完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_19_Activedes",
+        "zh_CN": "进行1次建筑升级",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_10_Activedes",
+        "zh_CN": "完成1次岛屿评级指标",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_11_Activedes",
+        "zh_CN": "与尖尖耳对话",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_12_Activedes",
+        "zh_CN": "寻找并聘用传说厨师",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_13_Activedes",
+        "zh_CN": "找尖尖耳进行岛屿规划",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_14_Activedes",
+        "zh_CN": "前往规划区域建造豪华餐厅",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_15_Activedes",
+        "zh_CN": "完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain1_17_Activedes",
+        "zh_CN": "在接待处外与安卡希雅见面",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra1_Activedes",
+        "zh_CN": "在轻风广场建造海滩别墅后，完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra2_Activedes",
+        "zh_CN": "在轻风广场建造豪华餐厅后，完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_1_1_Activedes",
+        "zh_CN": "找尖尖耳了解情况",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_1_2_Activedes",
+        "zh_CN": "去看看乌尔贡怎么了",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_1_3_Activedes",
+        "zh_CN": "回去找安卡希雅需要的东西",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_3_1_Activedes",
+        "zh_CN": "找尖尖耳了解情况",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_3_2_Activedes",
+        "zh_CN": "整治引发骚乱的员工",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_1_Name",
+        "zh_CN": "加快进度",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_1_Wall_Name",
+        "zh_CN": "加快进度",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_2_Name",
+        "zh_CN": "加快进度",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_3_Name",
+        "zh_CN": "加快进度",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_4_Name",
+        "zh_CN": "加快进度",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_5_1_Name",
+        "zh_CN": "加快进度",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_5_2_Name",
+        "zh_CN": "加快进度",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_6_Name",
+        "zh_CN": "加快进度",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_7_Name",
+        "zh_CN": "加快进度",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_8_Name",
+        "zh_CN": "加快进度",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_9_Name",
+        "zh_CN": "加快进度",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_10_Name",
+        "zh_CN": "加快进度",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_11_Name",
+        "zh_CN": "评级嘉奖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_11_1_Name",
+        "zh_CN": "评级嘉奖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_11_2_Name",
+        "zh_CN": "评级嘉奖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_11_3_Name",
+        "zh_CN": "评级嘉奖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_12_Name",
+        "zh_CN": "加快进度",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_13_Name",
+        "zh_CN": "岛屿评级指标",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_14_Name",
+        "zh_CN": "拉面回忆",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_15_Name",
+        "zh_CN": "拉面回忆",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_16_Name",
+        "zh_CN": "拉面回忆",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_17_Name",
+        "zh_CN": "拉面回忆",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_18_Name",
+        "zh_CN": "拉面回忆",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_19_Name",
+        "zh_CN": "岛屿评级指标",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_20_Name",
+        "zh_CN": "一波未平一波又起",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_21_Name",
+        "zh_CN": "一波未平一波又起",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_22_Name",
+        "zh_CN": "一波未平一波又起",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_23_Name",
+        "zh_CN": "一波未平一波又起",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_25_Name",
+        "zh_CN": "岛屿升级",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra3_Name",
+        "zh_CN": "岛屿评级指标3",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra4_Name",
+        "zh_CN": "岛屿评级指标4",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra5_Name",
+        "zh_CN": "岛屿评级指标5",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra6_Name",
+        "zh_CN": "岛屿评级指标6",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra7_Name",
+        "zh_CN": "岛屿评级指标7",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra8_Name",
+        "zh_CN": "岛屿评级指标8",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra9_Name",
+        "zh_CN": "岛屿评级指标9",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_1_1_Name",
+        "zh_CN": "人工智能？真的“智”吗？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_1_2_Name",
+        "zh_CN": "人工智能？真的“智”吗？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_2_1_Name",
+        "zh_CN": "面具的意义",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_2_2_Name",
+        "zh_CN": "面具的意义",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_2_3_Name",
+        "zh_CN": "面具的意义",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_3_1_Name",
+        "zh_CN": "钓点大集合",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_3_2_Name",
+        "zh_CN": "钓点大集合",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_3_3_Name",
+        "zh_CN": "钓点大集合",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_4_1_Name",
+        "zh_CN": "强制招聘",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_2_1_Name",
+        "zh_CN": "突然出现的野心家",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_2_2_Name",
+        "zh_CN": "突然出现的野心家",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_2_3_Name",
+        "zh_CN": "突然出现的野心家",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_2_4_Name",
+        "zh_CN": "突然出现的野心家",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_1_Des",
+        "zh_CN": "听说蓝图岛的建设进度马上就要突飞猛进了，不知道安卡希雅又加了些什么新东西",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_1_Wall_Des",
+        "zh_CN": "听说蓝图岛的建设进度马上就要突飞猛进了，不知道安卡希雅又加了些什么新东西",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_2_Des",
+        "zh_CN": "听说蓝图岛的建设进度马上就要突飞猛进了，不知道安卡希雅又加了些什么新东西",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_3_Des",
+        "zh_CN": "听说蓝图岛的建设进度马上就要突飞猛进了，不知道安卡希雅又加了些什么新东西",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_4_Des",
+        "zh_CN": "听说蓝图岛的建设进度马上就要突飞猛进了，不知道安卡希雅又加了些什么新东西",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_5_1_Des",
+        "zh_CN": "听说蓝图岛的建设进度马上就要突飞猛进了，不知道安卡希雅又加了些什么新东西",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_5_2_Des",
+        "zh_CN": "听说蓝图岛的建设进度马上就要突飞猛进了，不知道安卡希雅又加了些什么新东西",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_6_Des",
+        "zh_CN": "听说蓝图岛的建设进度马上就要突飞猛进了，不知道安卡希雅又加了些什么新东西",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_7_Des",
+        "zh_CN": "听说蓝图岛的建设进度马上就要突飞猛进了，不知道安卡希雅又加了些什么新东西",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_8_Des",
+        "zh_CN": "听说蓝图岛的建设进度马上就要突飞猛进了，不知道安卡希雅又加了些什么新东西",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_9_Des",
+        "zh_CN": "听说蓝图岛的建设进度马上就要突飞猛进了，不知道安卡希雅又加了些什么新东西",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_10_Des",
+        "zh_CN": "听说蓝图岛的建设进度马上就要突飞猛进了，不知道安卡希雅又加了些什么新东西",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_11_Des",
+        "zh_CN": "评级嘉奖制度会根据岛屿的多方面状况综合判断蓝图岛是否可以升级，当蓝图岛升级后会将会发放评级嘉奖。请努力达到这些条件吧",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_11_1_Des",
+        "zh_CN": "评级嘉奖制度会根据岛屿的多方面状况综合判断蓝图岛是否可以升级，当蓝图岛升级后会将会发放评级嘉奖。请努力达到这些条件吧",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_11_2_Des",
+        "zh_CN": "评级嘉奖制度会根据岛屿的多方面状况综合判断蓝图岛是否可以升级，当蓝图岛升级后会将会发放评级嘉奖。请努力达到这些条件吧",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_11_3_Des",
+        "zh_CN": "评级嘉奖制度会根据岛屿的多方面状况综合判断蓝图岛是否可以升级，当蓝图岛升级后会将会发放评级嘉奖。请努力达到这些条件吧",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_12_Des",
+        "zh_CN": "听说蓝图岛的建设进度马上就要突飞猛进了，不知道安卡希雅又加了些什么新东西",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_13_Des",
+        "zh_CN": "为了提升经营状况，还需要进行一些必要的努力",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_14_Des",
+        "zh_CN": "在让尖尖耳进行岛屿规划的时候，你回忆起一些曾经的片段，对接下来的蓝图岛建设，你似乎已经有了目标",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_15_Des",
+        "zh_CN": "在让尖尖耳进行岛屿规划的时候，你回忆起一些曾经的片段，对接下来的蓝图岛建设，你似乎已经有了目标",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_16_Des",
+        "zh_CN": "在让尖尖耳进行岛屿规划的时候，你回忆起一些曾经的片段，对接下来的蓝图岛建设，你似乎已经有了目标",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_17_Des",
+        "zh_CN": "在让尖尖耳进行岛屿规划的时候，你回忆起一些曾经的片段，对接下来的蓝图岛建设，你似乎已经有了目标",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_18_Des",
+        "zh_CN": "在让尖尖耳进行岛屿规划的时候，你回忆起一些曾经的片段，对接下来的蓝图岛建设，你似乎已经有了目标",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_19_Des",
+        "zh_CN": "为了提升经营状况，还需要进行一些必要的努力",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_20_Des",
+        "zh_CN": "明日港的建设稳步推进，但在员工那边似乎发生了一些麻烦事",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_21_Des",
+        "zh_CN": "明日港的建设稳步推进，但在员工那边似乎发生了一些麻烦事",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_22_Des",
+        "zh_CN": "明日港的建设稳步推进，但在员工那边似乎发生了一些麻烦事",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_23_Des",
+        "zh_CN": "明日港的建设稳步推进，但在员工那边似乎发生了一些麻烦事",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_25_Des",
+        "zh_CN": "一个阶段的努力有了很大的成果，安卡希雅有些话要对你说",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra3_Des",
+        "zh_CN": "明日港的模玩商店达到2级，并完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra4_Des",
+        "zh_CN": "轻风广场的海滩别墅升至6级，并完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra5_Des",
+        "zh_CN": "明日港的拉面博物馆升至4级，并完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra6_Des",
+        "zh_CN": "轻风广场的豪华餐厅升至6级，并完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra7_Des",
+        "zh_CN": "明日港的模玩商店达到4级，并完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra8_Des",
+        "zh_CN": "轻风广场的海滩别墅升至8级，并完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra9_Des",
+        "zh_CN": "轻风广场的豪华餐厅升至8级，并完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_1_1_Des",
+        "zh_CN": "有一个员工看起来笨笨的。即便如此也要自称是先进的智能助手吗？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_1_2_Des",
+        "zh_CN": "有一个员工看起来笨笨的。即便如此也要自称是先进的智能助手吗？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_2_1_Des",
+        "zh_CN": "戴面具的员工很焦虑的样子，在寻找什么呢？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_2_2_Des",
+        "zh_CN": "戴面具的员工很焦虑的样子，在寻找什么呢？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_2_3_Des",
+        "zh_CN": "戴面具的员工很焦虑的样子，在寻找什么呢？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_3_1_Des",
+        "zh_CN": "有员工邀请你去蓝图岛的钓点上小抛两竿。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_3_2_Des",
+        "zh_CN": "有员工邀请你去蓝图岛的钓点上小抛两竿。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_3_3_Des",
+        "zh_CN": "有员工邀请你去蓝图岛的钓点上小抛两竿。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_4_1_Des",
+        "zh_CN": "员工优化计划启动，去找些更厉害的帮手来吧。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_2_1_Des",
+        "zh_CN": "竟然有员工在加载的时候萌生了酝酿阴谋的计划，必须阻止它！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_2_2_Des",
+        "zh_CN": "竟然有员工在加载的时候萌生了酝酿阴谋的计划，必须阻止它！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_2_3_Des",
+        "zh_CN": "竟然有员工在加载的时候萌生了酝酿阴谋的计划，必须阻止它！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_2_4_Des",
+        "zh_CN": "竟然有员工在加载的时候萌生了酝酿阴谋的计划，必须阻止它！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_1_Activedes",
+        "zh_CN": "向尖尖耳确认岛屿情况",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_1_Wall_Activedes",
+        "zh_CN": "前往明日港",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_2_Activedes",
+        "zh_CN": "在明日港到处转转",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_3_Activedes",
+        "zh_CN": "清理明日港的敌人",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_4_Activedes",
+        "zh_CN": "探查下明日港其他区域的状况",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_5_1_Activedes",
+        "zh_CN": "删除",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_5_2_Activedes",
+        "zh_CN": "清理明日港的敌人",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_6_Activedes",
+        "zh_CN": "回到接待处询问情况",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_7_Activedes",
+        "zh_CN": "确认可进行建造的区域",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_8_Activedes",
+        "zh_CN": "确认可进行建造的区域",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_9_Activedes",
+        "zh_CN": "确认可进行建造的区域",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_10_Activedes",
+        "zh_CN": "找尖尖耳进行岛屿规划",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_11_Activedes",
+        "zh_CN": "完成评级嘉奖条件以升级蓝图岛",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_11_1_Activedes",
+        "zh_CN": "完成蓝图任务建造体感游戏馆，并提升至{1}/{2}级",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_11_2_Activedes",
+        "zh_CN": "岛屿等级达到2级后，完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_11_3_Activedes",
+        "zh_CN": "累计消耗{1}/{2}蓝图币",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_12_Activedes",
+        "zh_CN": "建造模玩商店",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_13_Activedes",
+        "zh_CN": "完成{1}/{2}次岛屿评级指标",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_14_Activedes",
+        "zh_CN": "找尖尖耳进行岛屿规划",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_15_Activedes",
+        "zh_CN": "建造拉面博物馆",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_16_Activedes",
+        "zh_CN": "获取尖尖耳的报告",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_17_Activedes",
+        "zh_CN": "寻找拉面匠人",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_18_Activedes",
+        "zh_CN": "与拉面匠人对话",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_19_Activedes",
+        "zh_CN": "完成{1}/{2}次岛屿评级指标",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_20_Activedes",
+        "zh_CN": "找尖尖耳进行岛屿规划",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_21_Activedes",
+        "zh_CN": "建造体感游戏馆",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_22_Activedes",
+        "zh_CN": "了解尖尖耳的紧急报告",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_23_Activedes",
+        "zh_CN": "平息擂台风波",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain2_25_Activedes",
+        "zh_CN": "在接待处外与安卡希雅见面",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra3_Activedes",
+        "zh_CN": "明日港的模玩商店达到2级，并完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra4_Activedes",
+        "zh_CN": "轻风广场的海滩别墅升至6级，并完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra5_Activedes",
+        "zh_CN": "明日港的拉面博物馆升至4级，并完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra6_Activedes",
+        "zh_CN": "轻风广场的豪华餐厅升至6级，并完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra7_Activedes",
+        "zh_CN": "明日港的模玩商店达到4级，并完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra8_Activedes",
+        "zh_CN": "轻风广场的海滩别墅升至8级，并完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra9_Activedes",
+        "zh_CN": "轻风广场的豪华餐厅升至8级，并完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_1_1_Activedes",
+        "zh_CN": "找笨笨的员工了解情况",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_1_2_Activedes",
+        "zh_CN": "前往“伙伴岛”通过人机检测",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_2_1_Activedes",
+        "zh_CN": "找戴面具的员工了解情况",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_2_2_Activedes",
+        "zh_CN": "找到脸部数据",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_2_3_Activedes",
+        "zh_CN": "将脸部数据交还给戴面具的员工",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_3_1_Activedes",
+        "zh_CN": "找想钓鱼的员工了解情况",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_3_2_Activedes",
+        "zh_CN": "钓一条鱼……或者其他东西",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_3_3_Activedes",
+        "zh_CN": "交流钓鱼心得……或许没有心得",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide2_4_1_Activedes",
+        "zh_CN": "击败并招聘员工",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_2_1_Activedes",
+        "zh_CN": "找奇怪的陌生员工了解情况",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_2_2_Activedes",
+        "zh_CN": "找到沃诺丢掉的“毁灭计时器”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_2_3_Activedes",
+        "zh_CN": "找到沃诺丢掉的“员工控制手册”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide1_2_4_Activedes",
+        "zh_CN": "击败并招聘沃诺",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_1_Name",
+        "zh_CN": "她的设想",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_1_Wall_Name",
+        "zh_CN": "她的设想",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_2_Name",
+        "zh_CN": "她的设想",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_3_Name",
+        "zh_CN": "她的设想",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_4_Name",
+        "zh_CN": "她的设想",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_5_Name",
+        "zh_CN": "她的设想",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_6_Name",
+        "zh_CN": "她的设想",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_26_Name",
+        "zh_CN": "三份的必要性",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_10_Name",
+        "zh_CN": "评级嘉奖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_10_1_Name",
+        "zh_CN": "评级嘉奖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_10_2_Name",
+        "zh_CN": "评级嘉奖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_10_3_Name",
+        "zh_CN": "评级嘉奖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_11_Name",
+        "zh_CN": "三份的必要性",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_12_Name",
+        "zh_CN": "岛屿评级指标",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_15_Name",
+        "zh_CN": "咸咸的海风",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_17_Name",
+        "zh_CN": "咸咸的海风",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_18_Name",
+        "zh_CN": "岛屿评级指标",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_19_Name",
+        "zh_CN": "气氛担当",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_21_Name",
+        "zh_CN": "气氛担当",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_22_Name",
+        "zh_CN": "岛屿评级指标",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_23_Name",
+        "zh_CN": "岛屿升级",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra10_Name",
+        "zh_CN": "岛屿评级指标10",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra11_Name",
+        "zh_CN": "岛屿评级指标11",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra12_Name",
+        "zh_CN": "岛屿评级指标12",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra13_Name",
+        "zh_CN": "岛屿评级指标13",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra14_Name",
+        "zh_CN": "岛屿评级指标14",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra15_Name",
+        "zh_CN": "岛屿评级指标15",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra16_Name",
+        "zh_CN": "岛屿评级指标16",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra17_Name",
+        "zh_CN": "岛屿评级指标17",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra18_Name",
+        "zh_CN": "岛屿评级指标18",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_1_1_Name",
+        "zh_CN": "蓝图岛五不思议·硅基生命",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_1_2_Name",
+        "zh_CN": "蓝图岛五不思议·硅基生命",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_1_3_Name",
+        "zh_CN": "蓝图岛五不思议·硅基生命",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_1_4_Name",
+        "zh_CN": "蓝图岛五不思议·硅基生命",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_2_1_Name",
+        "zh_CN": "蓝图岛五不思议·音乐家",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_2_2_Name",
+        "zh_CN": "蓝图岛五不思议·音乐家",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_2_3_Name",
+        "zh_CN": "蓝图岛五不思议·音乐家",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_1_Name",
+        "zh_CN": "蓝图岛五不思议·不灭海妖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_2_Name",
+        "zh_CN": "蓝图岛五不思议·不灭海妖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_3_Name",
+        "zh_CN": "蓝图岛五不思议·不灭海妖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_4_Name",
+        "zh_CN": "蓝图岛五不思议·不灭海妖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_5_Name",
+        "zh_CN": "蓝图岛五不思议·不灭海妖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_6_Name",
+        "zh_CN": "蓝图岛五不思议·不灭海妖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_7_Name",
+        "zh_CN": "蓝图岛五不思议·不灭海妖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_1_Des",
+        "zh_CN": "在建设海之滨的途中，你在与安卡希雅讨论岛屿规划时，发现她似乎早就有了一些想法",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_1_Wall_Des",
+        "zh_CN": "在建设海之滨的途中，你在与安卡希雅讨论岛屿规划时，发现她似乎早就有了一些想法",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_2_Des",
+        "zh_CN": "在建设海之滨的途中，你在与安卡希雅讨论岛屿规划时，发现她似乎早就有了一些想法",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_3_Des",
+        "zh_CN": "在建设海之滨的途中，你在与安卡希雅讨论岛屿规划时，发现她似乎早就有了一些想法",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_4_Des",
+        "zh_CN": "在建设海之滨的途中，你在与安卡希雅讨论岛屿规划时，发现她似乎早就有了一些想法",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_5_Des",
+        "zh_CN": "在建设海之滨的途中，你在与安卡希雅讨论岛屿规划时，发现她似乎早就有了一些想法",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_6_Des",
+        "zh_CN": "在建设海之滨的途中，你在与安卡希雅讨论岛屿规划时，发现她似乎早就有了一些想法",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_26_Des",
+        "zh_CN": "在游玩蓝图岛的过程中，你回想起来安卡希雅关于“留三份”那件小事，这件事给你对于蓝图岛建设带来了很大的灵感",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_10_Des",
+        "zh_CN": "评级嘉奖制度会根据岛屿的多方面状况综合判断蓝图岛是否可以升级，当蓝图岛升级后会将会发放评级嘉奖。请努力达到这些条件吧",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_10_1_Des",
+        "zh_CN": "评级嘉奖制度会根据岛屿的多方面状况综合判断蓝图岛是否可以升级，当蓝图岛升级后会将会发放评级嘉奖。请努力达到这些条件吧",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_10_2_Des",
+        "zh_CN": "评级嘉奖制度会根据岛屿的多方面状况综合判断蓝图岛是否可以升级，当蓝图岛升级后会将会发放评级嘉奖。请努力达到这些条件吧",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_10_3_Des",
+        "zh_CN": "评级嘉奖制度会根据岛屿的多方面状况综合判断蓝图岛是否可以升级，当蓝图岛升级后会将会发放评级嘉奖。请努力达到这些条件吧",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_11_Des",
+        "zh_CN": "在游玩蓝图岛的过程中，你回想起来安卡希雅关于“留三份”那件小事，这件事给你对于蓝图岛建设带来了很大的灵感",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_12_Des",
+        "zh_CN": "为了提升经营状况，还需要进行一些必要的努力",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_15_Des",
+        "zh_CN": "优秀的机器人助手尖尖耳似乎发生了一些奇怪的状况……",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_17_Des",
+        "zh_CN": "优秀的机器人助手尖尖耳似乎发生了一些奇怪的状况……",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_18_Des",
+        "zh_CN": "为了提升经营状况，还需要进行一些必要的努力",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_19_Des",
+        "zh_CN": "你在蓝图岛看到了熟悉的家伙，在和安卡希雅进行深度沟通后，你对于接下来的岛屿建设有了新的想法",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_21_Des",
+        "zh_CN": "你在蓝图岛看到了熟悉的家伙，在和安卡希雅进行深度沟通后，你对于接下来的岛屿建设有了新的想法",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_22_Des",
+        "zh_CN": "为了提升经营状况，还需要进行一些必要的努力",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_23_Des",
+        "zh_CN": "一个阶段的努力有了很大的成果，安卡希雅有些话要对你说",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra10_Des",
+        "zh_CN": "海之滨的次世代展览馆达到4级，并完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra11_Des",
+        "zh_CN": "明日港的模玩商店达到8级，并完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra12_Des",
+        "zh_CN": "海之滨的室内游乐场达到4级，并完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra13_Des",
+        "zh_CN": "轻风广场的海滩别墅达到10级，并完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra14_Des",
+        "zh_CN": "轻风广场的豪华餐厅达到12级，并完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra15_Des",
+        "zh_CN": "海之滨的新星剧场达到4级，并完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra16_Des",
+        "zh_CN": "轻风广场的海滩别墅达到12级，并完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra17_Des",
+        "zh_CN": "明日港的体感游戏馆达到8级，并完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra18_Des",
+        "zh_CN": "明日港的拉面博物馆达到8级，并完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_1_1_Des",
+        "zh_CN": "据目击报告称沙滩上有硅基生命活动的痕迹，快和安卡希雅一起过去看看吧。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_1_2_Des",
+        "zh_CN": "据目击报告称沙滩上有硅基生命活动的痕迹，快和安卡希雅一起过去看看吧。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_1_3_Des",
+        "zh_CN": "据目击报告称沙滩上有硅基生命活动的痕迹，快和安卡希雅一起过去看看吧。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_1_4_Des",
+        "zh_CN": "据目击报告称沙滩上有硅基生命活动的痕迹，快和安卡希雅一起过去看看吧。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_2_1_Des",
+        "zh_CN": "尖尖耳重磅举荐了一位音乐家，看起来是位很有特色的员工。它正在沙滩上等待差遣。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_2_2_Des",
+        "zh_CN": "尖尖耳重磅举荐了一位音乐家，看起来是位很有特色的员工。它正在沙滩上等待差遣。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_2_3_Des",
+        "zh_CN": "尖尖耳重磅举荐了一位音乐家，看起来是位很有特色的员工。它正在沙滩上等待差遣。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_1_Des",
+        "zh_CN": "蓝图岛上真的有海妖出没，想方设法抓住它，它一定会成为我们的得力干将的。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_2_Des",
+        "zh_CN": "蓝图岛上真的有海妖出没，想方设法抓住它，它一定会成为我们的得力干将的。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_3_Des",
+        "zh_CN": "蓝图岛上真的有海妖出没，想方设法抓住它，它一定会成为我们的得力干将的。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_4_Des",
+        "zh_CN": "蓝图岛上真的有海妖出没，想方设法抓住它，它一定会成为我们的得力干将的。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_5_Des",
+        "zh_CN": "蓝图岛上真的有海妖出没，想方设法抓住它，它一定会成为我们的得力干将的。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_6_Des",
+        "zh_CN": "蓝图岛上真的有海妖出没，想方设法抓住它，它一定会成为我们的得力干将的。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_7_Des",
+        "zh_CN": "蓝图岛上真的有海妖出没，想方设法抓住它，它一定会成为我们的得力干将的。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_1_Activedes",
+        "zh_CN": "向尖尖耳确认岛屿情况",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_1_Wall_Activedes",
+        "zh_CN": "前往海之滨",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_2_Activedes",
+        "zh_CN": "清理海之滨的敌人",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_3_Activedes",
+        "zh_CN": "在海之滨到处转转",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_4_Activedes",
+        "zh_CN": "确认可进行建造的区域",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_5_Activedes",
+        "zh_CN": "确认可进行建造的区域",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_6_Activedes",
+        "zh_CN": "向尖尖耳打探点消息",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_26_Activedes",
+        "zh_CN": "去安卡希雅为我准备的地方看看",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_10_Activedes",
+        "zh_CN": "完成评级嘉奖条件以升级蓝图岛",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_10_1_Activedes",
+        "zh_CN": "累计消耗{1}/{2}蓝图币",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_10_2_Activedes",
+        "zh_CN": "累计聘用{1}/{2}位员工",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_10_3_Activedes",
+        "zh_CN": "海之滨累计3个建筑达到4级",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_11_Activedes",
+        "zh_CN": "建造次世代展览馆",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_12_Activedes",
+        "zh_CN": "完成{1}/{2}次岛屿评级指标",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_15_Activedes",
+        "zh_CN": "找尖尖耳进行岛屿规划",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_17_Activedes",
+        "zh_CN": "建造室内游乐场",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_18_Activedes",
+        "zh_CN": "完成{1}/{2}次岛屿评级指标",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_19_Activedes",
+        "zh_CN": "去安卡希雅为我准备的地方看看",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_21_Activedes",
+        "zh_CN": "建造新星剧场",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_22_Activedes",
+        "zh_CN": "完成{1}/{2}次岛屿评级指标",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain3_23_Activedes",
+        "zh_CN": "在接待处外与安卡希雅见面",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra10_Activedes",
+        "zh_CN": "海之滨的次世代展览馆达到4级，并完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra11_Activedes",
+        "zh_CN": "明日港的模玩商店达到8级，并完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra12_Activedes",
+        "zh_CN": "海之滨的室内游乐场达到4级，并完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra13_Activedes",
+        "zh_CN": "轻风广场的海滩别墅达到10级，并完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra14_Activedes",
+        "zh_CN": "轻风广场的豪华餐厅达到12级，并完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra15_Activedes",
+        "zh_CN": "海之滨的新星剧场达到4级，并完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra16_Activedes",
+        "zh_CN": "轻风广场的海滩别墅达到12级，并完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra17_Activedes",
+        "zh_CN": "明日港的体感游戏馆达到8级，并完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra18_Activedes",
+        "zh_CN": "明日港的拉面博物馆达到8级，并完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_1_1_Activedes",
+        "zh_CN": "听尖尖耳向你汇报",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_1_2_Activedes",
+        "zh_CN": "寻找硅基生命的踪迹",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_1_3_Activedes",
+        "zh_CN": "在硅基生命逃脱之前追上它",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_1_4_Activedes",
+        "zh_CN": "带回去决定它的命运",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_2_1_Activedes",
+        "zh_CN": "找尖尖耳闲聊",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_2_2_Activedes",
+        "zh_CN": "去“伙伴岛”见见音乐家夏克威弗",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_2_3_Activedes",
+        "zh_CN": "带夏克威弗去见尖尖耳",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_1_Activedes",
+        "zh_CN": "和夏克威弗聊聊都市传说的事",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_2_Activedes",
+        "zh_CN": "搜集“海妖”活跃的痕迹1",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_3_Activedes",
+        "zh_CN": "搜集“海妖”活跃的痕迹2",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_4_Activedes",
+        "zh_CN": "搜集“海妖”活跃的痕迹3",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_5_Activedes",
+        "zh_CN": "在沙滩上讨论接下来怎么办",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_6_Activedes",
+        "zh_CN": "进入虫洞，追击“海妖”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide3_3_7_Activedes",
+        "zh_CN": "击败并招聘员工",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_1_Name",
+        "zh_CN": "最后关头",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_1_Wall_Name",
+        "zh_CN": "最后关头",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_2_Name",
+        "zh_CN": "最后关头",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_3_Name",
+        "zh_CN": "最后关头",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_4_Name",
+        "zh_CN": "最后关头",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_5_Name",
+        "zh_CN": "最后关头",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_6_Name",
+        "zh_CN": "最后关头",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_7_Name",
+        "zh_CN": "最后关头",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_8_Name",
+        "zh_CN": "评级嘉奖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_8_1_Name",
+        "zh_CN": "评级嘉奖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_8_2_Name",
+        "zh_CN": "评级嘉奖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_8_3_Name",
+        "zh_CN": "评级嘉奖",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_9_Name",
+        "zh_CN": "最后关头",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_10_Name",
+        "zh_CN": "岛屿评级指标",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_11_Name",
+        "zh_CN": "终章的礼物",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_12_Name",
+        "zh_CN": "终章的礼物",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_13_Name",
+        "zh_CN": "终章的礼物",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_14_Name",
+        "zh_CN": "终章的礼物",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_15_Name",
+        "zh_CN": "岛屿升级",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_17_Name",
+        "zh_CN": "额外惊喜",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra19_Name",
+        "zh_CN": "岛屿评级指标19",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra20_Name",
+        "zh_CN": "岛屿评级指标20",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra21_Name",
+        "zh_CN": "岛屿评级指标21",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra22_Name",
+        "zh_CN": "岛屿评级指标22",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra23_Name",
+        "zh_CN": "岛屿评级指标23",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra24_Name",
+        "zh_CN": "岛屿评级指标24",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra25_Name",
+        "zh_CN": "岛屿评级指标25",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra26_Name",
+        "zh_CN": "岛屿评级指标26",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra27_Name",
+        "zh_CN": "岛屿评级指标27",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra28_Name",
+        "zh_CN": "岛屿评级指标28",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra29_Name",
+        "zh_CN": "岛屿评级指标29",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra30_Name",
+        "zh_CN": "岛屿评级指标30",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_1_1_Name",
+        "zh_CN": "蓝图岛五不思议·天气与神明",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_1_2_Name",
+        "zh_CN": "蓝图岛五不思议·天气与神明",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_1_3_Name",
+        "zh_CN": "蓝图岛五不思议·天气与神明",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_1_4_Name",
+        "zh_CN": "蓝图岛五不思议·天气与神明",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_3_1_Name",
+        "zh_CN": "蓝图岛安全维护",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_3_2_Name",
+        "zh_CN": "蓝图岛安全维护",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_3_3_Name",
+        "zh_CN": "蓝图岛安全维护",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_3_4_Name",
+        "zh_CN": "蓝图岛安全维护",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_3_5_Name",
+        "zh_CN": "蓝图岛安全维护",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_3_6_Name",
+        "zh_CN": "蓝图岛安全维护",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_9_1_Name",
+        "zh_CN": "蓝图岛五不思议·开发记录",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_9_2_Name",
+        "zh_CN": "蓝图岛五不思议·开发记录",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_9_3_Name",
+        "zh_CN": "蓝图岛五不思议·开发记录",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_9_4_Name",
+        "zh_CN": "蓝图岛五不思议·开发记录",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_9_5_Name",
+        "zh_CN": "蓝图岛五不思议·开发记录",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_4_3_Name",
+        "zh_CN": "蓝图岛之星",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_10_3_Name",
+        "zh_CN": "蓝图岛之星",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_14_3_Name",
+        "zh_CN": "蓝图岛之星",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_15_3_Name",
+        "zh_CN": "蓝图岛之星",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_1_Des",
+        "zh_CN": "最后新星广场终于开放了，你决定让这个区域的建设更加独特，更加符合你和安卡希雅二人专属的梦想之地",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_1_Wall_Des",
+        "zh_CN": "最后新星广场终于开放了，你决定让这个区域的建设更加独特，更加符合你和安卡希雅二人专属的梦想之地",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_2_Des",
+        "zh_CN": "最后新星广场终于开放了，你决定让这个区域的建设更加独特，更加符合你和安卡希雅二人专属的梦想之地",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_3_Des",
+        "zh_CN": "最后新星广场终于开放了，你决定让这个区域的建设更加独特，更加符合你和安卡希雅二人专属的梦想之地",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_4_Des",
+        "zh_CN": "最后新星广场终于开放了，你决定让这个区域的建设更加独特，更加符合你和安卡希雅二人专属的梦想之地",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_5_Des",
+        "zh_CN": "最后新星广场终于开放了，你决定让这个区域的建设更加独特，更加符合你和安卡希雅二人专属的梦想之地",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_6_Des",
+        "zh_CN": "最后新星广场终于开放了，你决定让这个区域的建设更加独特，更加符合你和安卡希雅二人专属的梦想之地",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_7_Des",
+        "zh_CN": "最后新星广场终于开放了，你决定让这个区域的建设更加独特，更加符合你和安卡希雅二人专属的梦想之地",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_8_Des",
+        "zh_CN": "评级嘉奖制度会根据岛屿的多方面状况综合判断蓝图岛是否可以升级，当蓝图岛升级后会将会发放评级嘉奖。请努力达到这些条件吧",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_8_1_Des",
+        "zh_CN": "评级嘉奖制度会根据岛屿的多方面状况综合判断蓝图岛是否可以升级，当蓝图岛升级后会将会发放评级嘉奖。请努力达到这些条件吧",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_8_2_Des",
+        "zh_CN": "评级嘉奖制度会根据岛屿的多方面状况综合判断蓝图岛是否可以升级，当蓝图岛升级后会将会发放评级嘉奖。请努力达到这些条件吧",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_8_3_Des",
+        "zh_CN": "评级嘉奖制度会根据岛屿的多方面状况综合判断蓝图岛是否可以升级，当蓝图岛升级后会将会发放评级嘉奖。请努力达到这些条件吧",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_9_Des",
+        "zh_CN": "最后新星广场终于开放了，你决定让这个区域的建设更加独特，更加符合你和安卡希雅二人专属的梦想之地",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_10_Des",
+        "zh_CN": "为了提升经营状况，还需要进行一些必要的努力",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_11_Des",
+        "zh_CN": "蓝图岛的建设进度步入尾声，你决定额外送给安卡希雅一些“礼物”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_12_Des",
+        "zh_CN": "蓝图岛的建设进度步入尾声，你决定额外送给安卡希雅一些“礼物”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_13_Des",
+        "zh_CN": "蓝图岛的建设进度步入尾声，你决定额外送给安卡希雅一些“礼物”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_14_Des",
+        "zh_CN": "蓝图岛的建设进度步入尾声，你决定额外送给安卡希雅一些“礼物”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_15_Des",
+        "zh_CN": "一个阶段的努力有了很大的成果，安卡希雅有些话要对你说",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_17_Des",
+        "zh_CN": "安卡希雅在蓝图岛上似乎还准备了一些额外的小惊喜",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra19_Des",
+        "zh_CN": "新星广场的复古街机大楼达到2级，并完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra20_Des",
+        "zh_CN": "轻风广场的海滩别墅达到16级，达到卓越级经营效果时，完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra21_Des",
+        "zh_CN": "海之滨的次世代展览馆达到8级，达到卓越级经营效果时，完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra22_Des",
+        "zh_CN": "轻风广场的豪华餐厅达到16级，达到卓越级经营效果时，完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra23_Des",
+        "zh_CN": "明日港的模玩商店达到12级，达到卓越级经营效果时，完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra24_Des",
+        "zh_CN": "新星广场的零食工坊达到2级，达到卓越级经营效果时，完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra25_Des",
+        "zh_CN": "明日港的体感游戏馆达到12级，达到卓越级经营效果时，完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra26_Des",
+        "zh_CN": "明日港的拉面博物馆达到12级，达到卓越级经营效果时，完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra27_Des",
+        "zh_CN": "新星广场的零食工坊达到4级，达到卓越级经营效果时，完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra28_Des",
+        "zh_CN": "海之滨的室内游乐场达到8级，达到卓越级经营效果时，完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra29_Des",
+        "zh_CN": "海之滨的新星剧场达到8级，达到卓越级经营效果时，完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra30_Des",
+        "zh_CN": "新星广场的复古街机大楼达到4级，达到卓越级经营效果时，完成1次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_1_1_Des",
+        "zh_CN": "蓝图岛上的天气由一位懈怠的管理员操控，它可能知道“能改变天气的神明”的下落，必须找它质问清楚。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_1_2_Des",
+        "zh_CN": "蓝图岛上的天气由一位懈怠的管理员操控，它可能知道“能改变天气的神明”的下落，必须找它质问清楚。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_1_3_Des",
+        "zh_CN": "蓝图岛上的天气由一位懈怠的管理员操控，它可能知道“能改变天气的神明”的下落，必须找它质问清楚。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_1_4_Des",
+        "zh_CN": "蓝图岛上的天气由一位懈怠的管理员操控，它可能知道“能改变天气的神明”的下落，必须找它质问清楚。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_3_1_Des",
+        "zh_CN": "据工程师卡洛提斯说，岛上还存在一些安全隐患，和安卡希雅前去排查一下吧。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_3_2_Des",
+        "zh_CN": "据工程师卡洛提斯说，岛上还存在一些安全隐患，和安卡希雅前去排查一下吧。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_3_3_Des",
+        "zh_CN": "据工程师卡洛提斯说，岛上还存在一些安全隐患，和安卡希雅前去排查一下吧。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_3_4_Des",
+        "zh_CN": "据工程师卡洛提斯说，岛上还存在一些安全隐患，和安卡希雅前去排查一下吧。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_3_5_Des",
+        "zh_CN": "据工程师卡洛提斯说，岛上还存在一些安全隐患，和安卡希雅前去排查一下吧。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_3_6_Des",
+        "zh_CN": "据工程师卡洛提斯说，岛上还存在一些安全隐患，和安卡希雅前去排查一下吧。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_9_1_Des",
+        "zh_CN": "工程师卡洛提斯为你找到了一处密室，快去看看吧。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_9_2_Des",
+        "zh_CN": "工程师卡洛提斯为你找到了一处密室，快去看看吧。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_9_3_Des",
+        "zh_CN": "工程师卡洛提斯为你找到了一处密室，快去看看吧。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_9_4_Des",
+        "zh_CN": "工程师卡洛提斯为你找到了一处密室，快去看看吧。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_9_5_Des",
+        "zh_CN": "工程师卡洛提斯为你找到了一处密室，快去看看吧。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_4_3_Des",
+        "zh_CN": "蓝图岛建设的一大步！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_10_3_Des",
+        "zh_CN": "蓝图岛建设的一大步！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_14_3_Des",
+        "zh_CN": "蓝图岛建设的一大步！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_15_3_Des",
+        "zh_CN": "蓝图岛建设的一大步！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_1_Activedes",
+        "zh_CN": "向尖尖耳确认岛屿情况",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_1_Wall_Activedes",
+        "zh_CN": "前往新星广场",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_2_Activedes",
+        "zh_CN": "在新星广场到处转转",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_3_Activedes",
+        "zh_CN": "清理新星广场的敌人",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_4_Activedes",
+        "zh_CN": "确认可进行建造的区域",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_5_Activedes",
+        "zh_CN": "清理新星广场的敌人",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_6_Activedes",
+        "zh_CN": "确认可进行建造的区域",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_7_Activedes",
+        "zh_CN": "找尖尖耳进行岛屿规划",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_8_Activedes",
+        "zh_CN": "完成评级嘉奖条件以升级蓝图岛",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_8_1_Activedes",
+        "zh_CN": "累计消耗{1}/{2}蓝图币",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_8_2_Activedes",
+        "zh_CN": "累计{1}/{2}位员工达到满级",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_8_3_Activedes",
+        "zh_CN": "岛屿等级达到4级后，完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_9_Activedes",
+        "zh_CN": "建造复古街机大楼",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_10_Activedes",
+        "zh_CN": "完成{1}/{2}次岛屿评级指标",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_11_Activedes",
+        "zh_CN": "找尖尖耳进行岛屿规划",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_12_Activedes",
+        "zh_CN": "确认可进行建造的区域",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_13_Activedes",
+        "zh_CN": "为接下来的建造做一些准备",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_14_Activedes",
+        "zh_CN": "建造零食工坊",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_15_Activedes",
+        "zh_CN": "在接待处外与安卡希雅见面",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMain4_17_Activedes",
+        "zh_CN": "听听安卡希雅还要说什么",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra19_Activedes",
+        "zh_CN": "新星广场的复古街机大楼达到2级，并完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra20_Activedes",
+        "zh_CN": "轻风广场的海滩别墅达到16级，达到卓越级经营效果时，完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra21_Activedes",
+        "zh_CN": "海之滨的次世代展览馆达到8级，达到卓越级经营效果时，完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra22_Activedes",
+        "zh_CN": "轻风广场的豪华餐厅达到16级，达到卓越级经营效果时，完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra23_Activedes",
+        "zh_CN": "明日港的模玩商店达到12级，达到卓越级经营效果时，完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra24_Activedes",
+        "zh_CN": "新星广场的零食工坊达到2级，达到卓越级经营效果时，完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra25_Activedes",
+        "zh_CN": "明日港的体感游戏馆达到12级，达到卓越级经营效果时，完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra26_Activedes",
+        "zh_CN": "明日港的拉面博物馆达到12级，达到卓越级经营效果时，完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra27_Activedes",
+        "zh_CN": "新星广场的零食工坊达到4级，达到卓越级经营效果时，完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra28_Activedes",
+        "zh_CN": "海之滨的室内游乐场达到8级，达到卓越级经营效果时，完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra29_Activedes",
+        "zh_CN": "海之滨的新星剧场达到8级，达到卓越级经营效果时，完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildExtra30_Activedes",
+        "zh_CN": "新星广场的复古街机大楼达到4级，达到卓越级经营效果时，完成{1}/{2}次经营",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_1_1_Activedes",
+        "zh_CN": "和夏克威弗聊聊都市传说的事",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_1_2_Activedes",
+        "zh_CN": "搜集“神明”活跃的痕迹",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_1_3_Activedes",
+        "zh_CN": "前去直面“神明”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_1_4_Activedes",
+        "zh_CN": "在沙滩上讨论真相",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_3_1_Activedes",
+        "zh_CN": "找工程师卡洛提斯了解情况",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_3_2_Activedes",
+        "zh_CN": "进入正确的传送门",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_3_3_Activedes",
+        "zh_CN": "进入传送门，处理安全隐患",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_3_4_Activedes",
+        "zh_CN": "进入传送门，处理安全隐患",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_3_5_Activedes",
+        "zh_CN": "进入传送门，处理安全隐患",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_3_6_Activedes",
+        "zh_CN": "回去找卡洛提斯",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_9_1_Activedes",
+        "zh_CN": "找夏克威弗了解情况",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_9_2_Activedes",
+        "zh_CN": "根据卡洛提斯的提示，确认密室坐标X",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_9_3_Activedes",
+        "zh_CN": "根据卡洛提斯的提示，确认密室坐标Y",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_9_4_Activedes",
+        "zh_CN": "解锁安卡希雅的密室",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_9_5_Activedes",
+        "zh_CN": "找到安卡希雅，和她聊聊",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_4_3_Activedes",
+        "zh_CN": "与陌生的员工聊聊",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_10_3_Activedes",
+        "zh_CN": "与陌生的员工聊聊",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_14_3_Activedes",
+        "zh_CN": "与陌生的员工聊聊",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildSide4_15_3_Activedes",
+        "zh_CN": "与陌生的员工聊聊",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildWall2_Des",
+        "zh_CN": "蓝图岛等级达到2后解锁",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildWall3_Des",
+        "zh_CN": "蓝图岛等级达到3后解锁",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildWall4_Des",
+        "zh_CN": "蓝图岛等级达到4后解锁",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildWall5_Des",
+        "zh_CN": "完成前置任务后解锁",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildWall2_Activedes",
+        "zh_CN": "岛屿升级至2级",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildWall3_Activedes",
+        "zh_CN": "岛屿升级至3级",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildWall4_Activedes",
+        "zh_CN": "岛屿升级至4级",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8210_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8220_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8221_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8230_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8231_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8310_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8311_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8320_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8321_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8330_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8340_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8341_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8350_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8351_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8410_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8411_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8420_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8421_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8430_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8431_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8440_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8441_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8450_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8460_Name",
+        "zh_CN": "“特殊道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8210_Des",
+        "zh_CN": "是否消耗蓝图币，获得增益效果？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8220_Des",
+        "zh_CN": "“分析员，要来一份吗”小机器人的眼神里充满了真诚。\\n是否消耗蓝图币打赏小机器人，获取宝藏的位置信息？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8221_Des",
+        "zh_CN": "“小道消息大促销！只要一点小钱就可以买到大宝藏的消息，稳赚不赔！”一个小机器人正在兜售它捕捉到的宝藏信息。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8230_Des",
+        "zh_CN": "“分析员，要来一份吗”小机器人的眼神里充满了真诚。\\n是否消耗蓝图币打赏小机器人，获取宝藏的位置信息？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8231_Des",
+        "zh_CN": "“小道消息大促销！只要一点小钱就可以买到大宝藏的消息，稳赚不赔！”一个小机器人正在兜售它捕捉到的宝藏信息。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8310_Des",
+        "zh_CN": "“分析员，要来一份吗”小机器人的眼神里充满了真诚。\\n是否消耗蓝图币打赏小机器人，获取宝藏的位置信息？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8311_Des",
+        "zh_CN": "“小道消息大促销！只要一点小钱就可以买到大宝藏的消息，稳赚不赔！”一个小机器人正在兜售它捕捉到的宝藏信息。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8320_Des",
+        "zh_CN": "“分析员，要来一份吗”小机器人的眼神里充满了真诚。\\n是否消耗蓝图币打赏小机器人，获取宝藏的位置信息？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8321_Des",
+        "zh_CN": "“小道消息大促销！只要一点小钱就可以买到大宝藏的消息，稳赚不赔！”一个小机器人正在兜售它捕捉到的宝藏信息。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8330_Des",
+        "zh_CN": "是否消耗蓝图币，获得增益效果？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8340_Des",
+        "zh_CN": "“分析员，要来一份吗”小机器人的眼神里充满了真诚。\\n是否消耗蓝图币打赏小机器人，获取宝藏的位置信息？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8341_Des",
+        "zh_CN": "“小道消息大促销！只要一点小钱就可以买到大宝藏的消息，稳赚不赔！”一个小机器人正在兜售它捕捉到的宝藏信息。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8350_Des",
+        "zh_CN": "“分析员，要来一份吗”小机器人的眼神里充满了真诚。\\n是否消耗蓝图币打赏小机器人，获取宝藏的位置信息？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8351_Des",
+        "zh_CN": "“小道消息大促销！只要一点小钱就可以买到大宝藏的消息，稳赚不赔！”一个小机器人正在兜售它捕捉到的宝藏信息。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8410_Des",
+        "zh_CN": "“分析员，要来一份吗”小机器人的眼神里充满了真诚。\\n是否消耗蓝图币打赏小机器人，获取宝藏的位置信息？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8411_Des",
+        "zh_CN": "“小道消息大促销！只要一点小钱就可以买到大宝藏的消息，稳赚不赔！”一个小机器人正在兜售它捕捉到的宝藏信息。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8420_Des",
+        "zh_CN": "“分析员，要来一份吗”小机器人的眼神里充满了真诚。\\n是否消耗蓝图币打赏小机器人，获取宝藏的位置信息？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8421_Des",
+        "zh_CN": "“小道消息大促销！只要一点小钱就可以买到大宝藏的消息，稳赚不赔！”一个小机器人正在兜售它捕捉到的宝藏信息。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8430_Des",
+        "zh_CN": "“分析员，要来一份吗”小机器人的眼神里充满了真诚。\\n是否消耗蓝图币打赏小机器人，获取宝藏的位置信息？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8431_Des",
+        "zh_CN": "“小道消息大促销！只要一点小钱就可以买到大宝藏的消息，稳赚不赔！”一个小机器人正在兜售它捕捉到的宝藏信息。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8440_Des",
+        "zh_CN": "“分析员，要来一份吗”小机器人的眼神里充满了真诚。\\n是否消耗蓝图币打赏小机器人，获取宝藏的位置信息？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8441_Des",
+        "zh_CN": "“小道消息大促销！只要一点小钱就可以买到大宝藏的消息，稳赚不赔！”一个小机器人正在兜售它捕捉到的宝藏信息。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8450_Des",
+        "zh_CN": "是否消耗蓝图币，获得增益效果？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8460_Des",
+        "zh_CN": "是否消耗蓝图币，获得增益效果？",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8221_Activedes",
+        "zh_CN": "前往宝藏地",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8231_Activedes",
+        "zh_CN": "前往明日港的气球下方找到宝箱",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8311_Activedes",
+        "zh_CN": "前往海之滨的摊位旁找到宝箱",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8321_Activedes",
+        "zh_CN": "前往海之滨的泳池内找到宝箱",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8341_Activedes",
+        "zh_CN": "前往宝藏地",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8351_Activedes",
+        "zh_CN": "前往宝藏地",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8411_Activedes",
+        "zh_CN": "前往宝藏地",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8421_Activedes",
+        "zh_CN": "前往宝藏地",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8431_Activedes",
+        "zh_CN": "前往新星广场的箱子堆上找到宝箱",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildRandom_8441_Activedes",
+        "zh_CN": "前往轻风广场的草丛中找到宝箱",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNoMoney_9000_Name",
+        "zh_CN": "资金告急",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNoMoney_9001_Name",
+        "zh_CN": "资金告急",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNoMoney_9002_Name",
+        "zh_CN": "资金告急",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNoMoney_9003_Name",
+        "zh_CN": "资金告急",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNoMoney_9004_Name",
+        "zh_CN": "资金告急",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNoMoney_9000_Des",
+        "zh_CN": "优秀的建筑消耗了大量的成本，蓝图岛的经营遇到了资金告急的难处，不过安卡希雅早就准备好应对的方法",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNoMoney_9001_Des",
+        "zh_CN": "优秀的建筑消耗了大量的成本，蓝图岛的经营遇到了资金告急的难处，不过安卡希雅早就准备好应对的方法",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNoMoney_9002_Des",
+        "zh_CN": "优秀的建筑消耗了大量的成本，蓝图岛的经营遇到了资金告急的难处，不过安卡希雅早就准备好应对的方法",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNoMoney_9003_Des",
+        "zh_CN": "优秀的建筑消耗了大量的成本，蓝图岛的经营遇到了资金告急的难处，不过安卡希雅早就准备好应对的方法",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNoMoney_9004_Des",
+        "zh_CN": "优秀的建筑消耗了大量的成本，蓝图岛的经营遇到了资金告急的难处，不过安卡希雅早就准备好应对的方法",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNoMoney_9000_Activedes",
+        "zh_CN": "找到尖尖耳",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNoMoney_9001_Activedes",
+        "zh_CN": "找到尖尖耳",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNoMoney_9002_Activedes",
+        "zh_CN": "找到尖尖耳",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNoMoney_9003_Activedes",
+        "zh_CN": "找到尖尖耳",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNoMoney_9004_Activedes",
+        "zh_CN": "找到尖尖耳",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_101",
+        "zh_CN": "乌尔贡",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_102",
+        "zh_CN": "沃诺",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_103",
+        "zh_CN": "塞奇",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_104",
+        "zh_CN": "芬利",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_105",
+        "zh_CN": "里斯",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_106",
+        "zh_CN": "枫珀​",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_107",
+        "zh_CN": "传说厨师鲁恩",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_108",
+        "zh_CN": "戈迪尔",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_109",
+        "zh_CN": "夏克威弗",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_110",
+        "zh_CN": "派克",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_111",
+        "zh_CN": "戈洛玛尔",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_112",
+        "zh_CN": "艾弗里",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_113",
+        "zh_CN": "罗斯莱",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_114",
+        "zh_CN": "贝拉奇",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_115",
+        "zh_CN": "瓦洛尔",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_116",
+        "zh_CN": "诺亚斯",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_117",
+        "zh_CN": "林德拉",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_118",
+        "zh_CN": "艾力克​",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_119",
+        "zh_CN": "菲奥",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_120",
+        "zh_CN": "维索尔",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_121",
+        "zh_CN": "艾尔维克斯​​",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_201",
+        "zh_CN": "克希拉尔",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_202",
+        "zh_CN": "塔特",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_203",
+        "zh_CN": "西尔维",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_204",
+        "zh_CN": "巡逻机器人",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_205",
+        "zh_CN": "维勒",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_206",
+        "zh_CN": "镭刻",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_207",
+        "zh_CN": "沃特克斯​​",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_208",
+        "zh_CN": "神秘球",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_209",
+        "zh_CN": "卡洛提斯",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_210",
+        "zh_CN": "多格",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_211",
+        "zh_CN": "埃勒奥斯",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_212",
+        "zh_CN": "利布尔",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_213",
+        "zh_CN": "达瑞斯",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_214",
+        "zh_CN": "诺瓦",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_215",
+        "zh_CN": "菲克斯",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_301",
+        "zh_CN": "耶梦",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_302",
+        "zh_CN": "尤格索恩",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_303",
+        "zh_CN": "托伊",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_304",
+        "zh_CN": "维诺斯",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_305",
+        "zh_CN": "戈尔维斯​​",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_306",
+        "zh_CN": "加尔维",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_307",
+        "zh_CN": "拉面匠人",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_308",
+        "zh_CN": "洛克林",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_309",
+        "zh_CN": "布鲁",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_310",
+        "zh_CN": "维特斯",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_401",
+        "zh_CN": "佩芙",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_402",
+        "zh_CN": "铠恩",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_403",
+        "zh_CN": "潘克",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffName_404",
+        "zh_CN": "卡比",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_101",
+        "zh_CN": "看上去很厚重的员工。为了摸鱼，喜欢装出说话不利索的样子。其实它就是故意的",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_102",
+        "zh_CN": "总是在酝酿阴谋的员工。想得很多，做的很少，最喜欢的事情是用颜文字表达自己的心情",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_103",
+        "zh_CN": "不善言谈的员工，弓不离手，总是在上班时间打鸟",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_104",
+        "zh_CN": "一位健忘的员工，常常在站岗的时候忘记自己在上班，不小心蹲在那里睡着",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_105",
+        "zh_CN": "第一天上班就情绪异常高涨的员工，上一秒还在海滨捡垃圾，下一秒就能看到它在楼顶打扫卫生",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_106",
+        "zh_CN": "一位身手敏捷，行动迅速的员工。在被招聘后成为了蓝图岛上的优质跑腿",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_107",
+        "zh_CN": "不惜一切提升厨艺，但受到了自身极限的限制只能另辟蹊径。因为习惯用奇怪的姿势为菜品撒上金箔，而得到了传说厨师的名号",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_108",
+        "zh_CN": "自称舞蹈艺术家，喜欢在上班时跳芭蕾，声称是为了提升蓝图岛的艺术性。但常因转太快头晕而倒下，似乎企图用这种方式翘班",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_109",
+        "zh_CN": "实力强劲的音乐家，电吉他手，沙滩忠犬，是一位非常优秀的员工……它沦落到今天这个地步只是因为丢失了它的电吉他",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_110",
+        "zh_CN": "一位非常好动的员工，最好不要把它派到餐厅，不然可能会听到餐盘和杯子共奏的交响乐",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_111",
+        "zh_CN": "脾气不是很好的员工。非常容易和别人起冲突，是岛上被投诉次数最多的员工",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_112",
+        "zh_CN": "一位无论做什么事情都慢吞吞的员工，经常完成不了自己的工作，期待着工作可以自己消失",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_113",
+        "zh_CN": "一位重度近视的员工，喜欢戴着造型奇特的高度近视眼镜",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_114",
+        "zh_CN": "看起来非常认真工作的员工。但这名员工护目镜的内层是显示屏，此刻一动不动的它已经沉浸在了摸鱼的世界里",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_115",
+        "zh_CN": "一位喜欢记录生活的员工，在瞄准镜里看到的所有景色被它画成了一本小册子",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_116",
+        "zh_CN": "一位非常擅长迎宾的员工。因为长时间锻炼右臂肌肉以达到最好的招呼效果，导致手再也无法放下",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_117",
+        "zh_CN": "非常好面子的员工。十分看重自己的面容保养，尽管它戴着五层面具",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_118",
+        "zh_CN": "曾经一直游荡在岛屿中无所事事，在看到分析员的英姿后痛定思痛，决定走上一条新的道路，努力证明自己的能力希望可以被聘用",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_119",
+        "zh_CN": "平平无奇的打工战士，最喜欢的事情是通宵加班",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_120",
+        "zh_CN": "思维古板，性格偏执。在成为蓝图岛的员工后，“为蓝图岛献上生命”就成为了它的口头禅",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_121",
+        "zh_CN": "不修边幅的员工，每天上班时候都蓬头垢面，但它却把这当成一种艺术",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_201",
+        "zh_CN": "格斗技巧丰富的员工。平时沉默寡言，但绝不好惹",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_202",
+        "zh_CN": "喜欢挥舞着手中的大剑吟诗，认为大家会喜欢这样的表演。因过于危险已经被警告数次，但仍不悔改",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_203",
+        "zh_CN": "一位年事已高身材走形的员工。为了蓝图岛的形象，穿上了厚厚的铠甲遮挡肚腩",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_204",
+        "zh_CN": "勤勤恳恳巡逻的机器人，虽然能力不强，但做事会检查三遍，令人十分放心",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_205",
+        "zh_CN": "手上安装的光盾可以有效防止紫外线穿透，在室外没有遮阳伞的时候，这位员工将会派上很大的用处",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_206",
+        "zh_CN": "这名机器人员工被植入了蝎子的行为逻辑，但看起来更像一条可爱的小狗",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_207",
+        "zh_CN": "到点下班是这位员工的准则，在下班的那一刻，它会立即打开身上的光学迷彩，从蓝图岛上消失",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_208",
+        "zh_CN": "作为一名球形员工，神秘球的唯一能拿得出手的技能，就是化身并复制出不同形态的球，让安卡希雅与分析员畅玩球类运动",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_209",
+        "zh_CN": "岛上罕见的技术型员工，蓝图岛第一大学高材生，岛上的工程师。没有什么它做不到的事，也没有什么它修不好的东西",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_210",
+        "zh_CN": "没错，这是一名守卫犬员工。不用担心语言不通，因为它的尾巴就可以准确传达它的心情",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_211",
+        "zh_CN": "配备了最新的算法芯片，性能优越的员工。但因为某个漏洞的原因，经常会变成不太聪明的样子",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_212",
+        "zh_CN": "完美主义的员工。只会选择自己认可的人服务",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_213",
+        "zh_CN": "一位有强迫症的员工，即使在蓝图岛工作再也用不上武器，但它还是习惯性地摆起它的招牌姿势",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_214",
+        "zh_CN": "一位看起来很危险的员工，但随身携带两柄长长的管子并不是武器，而是天文望远镜",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_215",
+        "zh_CN": "擅长机械维修与养护，在成为蓝图岛的员工后，主动承担下岛上的机械维护工作",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_301",
+        "zh_CN": "代号“海妖”的员工。神出鬼没，造成了不小的破坏。尽管如此，它想要的只是一份高薪的工作而已",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_302",
+        "zh_CN": "代号“神明”的员工。蓝图岛气象局管理员，和尖尖耳一样可以呼风唤雨，改变蓝图岛的天气。不过本人十分懈怠，记得监督它",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_303",
+        "zh_CN": "狂热的拼装模型爱好者，在听闻蓝图岛将有模玩商店开放后，立马自荐来到这里打工。实际上它的希望是能在模玩商店买到自己曾经丢失的特殊配件",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_304",
+        "zh_CN": "腿部力量很强，能够胜任长期蹲守的工作，因此常被为委派为保安去守大门。因打工的时候过于认真，至今没有发现他的斗篷已经被门夹住扯烂",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_305",
+        "zh_CN": "外表很威严，内心有些柔软。在成为员工之后，决定守护蓝图岛上的所有的鲜花和小草",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_306",
+        "zh_CN": "有着深度洁癖，在成为蓝图岛的员工后，将手上的武器换为了高压喷水枪，不间断清洗岛上的所有建筑",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_307",
+        "zh_CN": "对于拉面有着近乎疯狂的执着，常年隐居研究制面技艺，被其他员工称为“拉面匠人”，最终失去了原本的名字",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_308",
+        "zh_CN": "工作的时候习惯打节拍，声称这样可以保证节奏和高注意力。但重重的节拍声经常会吓到其他的员工",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_309",
+        "zh_CN": "一位从外表到名字直至内核都很忧郁的员工。时常因为自己做得不够好而内耗，直至原地爆炸",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_310",
+        "zh_CN": "喜欢讲述自己光辉过往的员工，十分爱护自己的武器并喜欢时不时地炫耀它们。上班时倒是能听话地把它们收起来",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_401",
+        "zh_CN": "再次仿照爱思特做了一个员工，看上去有些别扭，好在打工能力非常强",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_402",
+        "zh_CN": "一名火力很强的员工。安卡希雅听了你的建议后将它分配给你，看上去就可以稳稳守护住蓝图岛的和平",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_403",
+        "zh_CN": "块头很大，看起来非常笨重。但意外地可以胜任很多类型的蓝图岛工作，是一位不可多得的好员工",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBulidStaffDes_404",
+        "zh_CN": "一位和透墨索斯一样吵闹的员工，不说话的时候可以高效工作6小时，剩下的时间都在吃和睡",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap325",
+        "zh_CN": "探险岛",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap326",
+        "zh_CN": "蓝图岛",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap5810",
+        "zh_CN": "伙伴岛",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap_1_5810",
+        "zh_CN": "伙伴岛-贵宾区",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap_2_5810",
+        "zh_CN": "伙伴岛-泊船区",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap_3_5810",
+        "zh_CN": "伙伴岛-休闲区",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap_4_5810",
+        "zh_CN": "伙伴岛-探险区",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap_5_5810",
+        "zh_CN": "伙伴岛-观光区",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap_6_5810",
+        "zh_CN": "伙伴岛-遗迹区",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap_1_325",
+        "zh_CN": "探险岛-雪林区",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap_2_325",
+        "zh_CN": "探险岛-湖岛区",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap_3_325",
+        "zh_CN": "探险岛-岩谷区",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap_1_326",
+        "zh_CN": "蓝图岛-轻风广场",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap_2_326",
+        "zh_CN": "蓝图岛-明日港",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap_3_326",
+        "zh_CN": "蓝图岛-海之滨",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap_4_326",
+        "zh_CN": "蓝图岛-新星广场",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap_5_326",
+        "zh_CN": "蓝图岛-秘密小岛",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMapLevel1",
+        "zh_CN": "蓝图岛等级1",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMapLevel2",
+        "zh_CN": "蓝图岛等级2",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMapLevel3",
+        "zh_CN": "蓝图岛等级3",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMapLevel4",
+        "zh_CN": "蓝图岛等级4",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMapLevel5",
+        "zh_CN": "蓝图岛等级5",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap_4131_326",
+        "zh_CN": "轻风广场",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap_4141_326",
+        "zh_CN": "明日港",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap_4151_326",
+        "zh_CN": "海之滨",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildMap_4161_326",
+        "zh_CN": "新星广场",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc01",
+        "zh_CN": "尖尖耳",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc11",
+        "zh_CN": "乌尔贡",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc14",
+        "zh_CN": "沃诺",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc21",
+        "zh_CN": "埃勒奥斯",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc22",
+        "zh_CN": "拉面匠人",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc23",
+        "zh_CN": "林德拉",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc24",
+        "zh_CN": "戈迪尔",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc32",
+        "zh_CN": "夏克威弗",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc33",
+        "zh_CN": "透墨索斯",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc34",
+        "zh_CN": "巡逻机器人",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc41",
+        "zh_CN": "安卡希雅的赠礼",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc42",
+        "zh_CN": "安卡希雅的赠礼",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc43",
+        "zh_CN": "安卡希雅的赠礼",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc44",
+        "zh_CN": "安卡希雅的赠礼",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc45",
+        "zh_CN": "卡洛提斯",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc46",
+        "zh_CN": "神秘球",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc01_Talk",
+        "zh_CN": "分析员，尖尖耳随时准备为您服务。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc11_Talk",
+        "zh_CN": "我我我我是是是是乌乌乌乌尔贡。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc14_Talk",
+        "zh_CN": "等我发射信号弹为号！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc21_Talk",
+        "zh_CN": "埃勒奥斯不是人机。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc22_Talk",
+        "zh_CN": "我将以一生穷极拉面之技艺——",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc23_Talk",
+        "zh_CN": "我这张脸真是完美！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc24_Talk",
+        "zh_CN": "退休后的生活必须不能少了钓鱼。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc32_Talk",
+        "zh_CN": "我不是流浪的崽，只吃黄金律动拌饭。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc33_Talk",
+        "zh_CN": "来一场派对吧，嘭~",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc34_Talk",
+        "zh_CN": "巡逻中——巡逻中——巡逻中——",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc41_Talk",
+        "zh_CN": "安卡希雅想要送给最爱的分析员一份礼物！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc42_Talk",
+        "zh_CN": "安卡希雅想要送给最爱的分析员一份礼物！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc43_Talk",
+        "zh_CN": "安卡希雅想要送给最爱的分析员一份礼物！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc44_Talk",
+        "zh_CN": "安卡希雅想要送给最爱的分析员一份礼物！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc45_Talk",
+        "zh_CN": "蓝图岛没有漏洞，一切运转正常。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtBuildNpc46_Talk",
+        "zh_CN": "勇敢帅气的分析员哟，我是一颗神秘的球——",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityQuest_1_Name",
+        "zh_CN": "收集“任务道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityQuest_2_Name",
+        "zh_CN": "点燃烟花",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityQuest_3_Name",
+        "zh_CN": "星祈心愿",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityQuest_1_des",
+        "zh_CN": "安卡希雅准备了新星开拓星祈节特别活动的任务道具，把它们都找出来吧。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityQuest_2_des",
+        "zh_CN": "安卡希雅准备的“任务道具”原来就是烟花，现在去海边把烟花点燃吧。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityQuest_3_des",
+        "zh_CN": "感受到了大家的心意，现在返回基地吧",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityQuest_1_Activedes",
+        "zh_CN": "收集全部“任务道具”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityQuest_1_1_Activedes",
+        "zh_CN": "收集“任务道具1”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityQuest_1_2_Activedes",
+        "zh_CN": "收集“任务道具2”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityQuest_1_3_Activedes",
+        "zh_CN": "收集“任务道具3”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityQuest_2_Activedes",
+        "zh_CN": "前往海边，点燃烟花",
+        "disable": 0
+    },
+    {
+        "Key": "TxtActivityQuest_3_Activedes",
+        "zh_CN": "感受到了大家的心意，现在返回基地吧",
+        "disable": 0
+    }
+]

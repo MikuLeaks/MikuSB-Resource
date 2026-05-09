@@ -1,0 +1,1144 @@
+[
+    {
+        "ID": 1001,
+        "Count": 3,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400001
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001003,
+        "Name": "rogue.buffname1",
+        "Desc": "rogue.buff1",
+        "BuffParamPerCount": [
+            60
+        ],
+        "SimpleDesc": "rogue.buff1"
+    },
+    {
+        "ID": 1002,
+        "Count": 3,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400007
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001000,
+        "Name": "rogue.buffname2",
+        "Desc": "rogue.buff2",
+        "BuffParamPerCount": [
+            50
+        ],
+        "SimpleDesc": "rogue.buff2"
+    },
+    {
+        "ID": 1003,
+        "Count": 3,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400011
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001009,
+        "Name": "rogue.buffname3",
+        "Desc": "rogue.buff3",
+        "BuffParamPerCount": [
+            100
+        ],
+        "SimpleDesc": "rogue.buff3"
+    },
+    {
+        "ID": 1004,
+        "Count": 3,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400003
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001001,
+        "Name": "rogue.buffname4",
+        "Desc": "rogue.buff4",
+        "BuffParamPerCount": [
+            25
+        ],
+        "SimpleDesc": "rogue.buff4"
+    },
+    {
+        "ID": 1005,
+        "Count": 3,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400002
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001002,
+        "Name": "rogue.buffname5",
+        "Desc": "rogue.buff5",
+        "BuffParamPerCount": [
+            65
+        ],
+        "SimpleDesc": "rogue.buff5"
+    },
+    {
+        "ID": 1006,
+        "Count": 3,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400010
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001004,
+        "Name": "rogue.buffname6",
+        "Desc": "rogue.buff6",
+        "BuffParamPerCount": [
+            50
+        ],
+        "SimpleDesc": "rogue.buff6"
+    },
+    {
+        "ID": 1007,
+        "Count": 3,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400022
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001002,
+        "Name": "rogue.buffname7",
+        "Desc": "rogue.buff7",
+        "BuffParamPerCount": [
+            20
+        ],
+        "SimpleDesc": "rogue.buff7"
+    },
+    {
+        "ID": 1008,
+        "Count": 3,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400066
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001004,
+        "Name": "rogue.buffname8",
+        "Desc": "rogue.buff8",
+        "BuffParamPerCount": [
+            70
+        ],
+        "SimpleDesc": "rogue.buff8"
+    },
+    {
+        "ID": 1009,
+        "Count": 3,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400067
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001007,
+        "Name": "rogue.buffname9",
+        "Desc": "rogue.buff9",
+        "BuffParamPerCount": [
+            50
+        ],
+        "SimpleDesc": "rogue.buff9"
+    },
+    {
+        "ID": 1010,
+        "Count": 3,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400068
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001005,
+        "Name": "rogue.buffname10",
+        "Desc": "rogue.buff10",
+        "BuffParamPerCount": [
+            100
+        ],
+        "SimpleDesc": "rogue.buff10"
+    },
+    {
+        "ID": 1011,
+        "Count": 3,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400069
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001009,
+        "Name": "rogue.buffname11",
+        "Desc": "rogue.buff11",
+        "BuffParamPerCount": [
+            30
+        ],
+        "SimpleDesc": "rogue.buff11"
+    },
+    {
+        "ID": 1012,
+        "Count": 3,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400004
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001005,
+        "Name": "rogue.buffname12",
+        "Desc": "rogue.buff12",
+        "BuffParamPerCount": [
+            30
+        ],
+        "SimpleDesc": "rogue.buff12"
+    },
+    {
+        "ID": 1013,
+        "Count": 3,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400006
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001006,
+        "Name": "rogue.buffname13",
+        "Desc": "rogue.buff13",
+        "BuffParamPerCount": [
+            50
+        ],
+        "SimpleDesc": "rogue.buff13"
+    },
+    {
+        "ID": 2001,
+        "Count": 1,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400021
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001009,
+        "Name": "rogue.buffname14",
+        "Desc": "rogue.buff14",
+        "BuffParamPerCount": [
+            200
+        ],
+        "SimpleDesc": "rogue.buff14"
+    },
+    {
+        "ID": 2002,
+        "Count": 1,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400047
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001000,
+        "Name": "rogue.buffname15",
+        "Desc": "rogue.buff15",
+        "BuffParamPerCount": [
+            5,
+            100
+        ],
+        "SimpleDesc": "rogue.buff15"
+    },
+    {
+        "ID": 2003,
+        "Count": 1,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400024
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001001,
+        "Name": "rogue.buffname16",
+        "Desc": "rogue.buff16",
+        "BuffParamPerCount": [
+            40,
+            15
+        ],
+        "SimpleDesc": "rogue.buff16"
+    },
+    {
+        "ID": 2004,
+        "Count": 1,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400048
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001002,
+        "Name": "rogue.buffname17",
+        "Desc": "rogue.buff17",
+        "BuffParamPerCount": [
+            40,
+            5
+        ],
+        "SimpleDesc": "rogue.buff17"
+    },
+    {
+        "ID": 2005,
+        "Count": 1,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400027
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001000,
+        "Name": "rogue.buffname18",
+        "Desc": "rogue.buff18",
+        "BuffParamPerCount": [
+            20,
+            5,
+            5
+        ],
+        "SimpleDesc": "rogue.buff18"
+    },
+    {
+        "ID": 3001,
+        "Count": 2,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400036
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001000,
+        "Name": "rogue.buffname19",
+        "Desc": "rogue.buff19",
+        "BuffParamPerCount": [
+            20,
+            75
+        ],
+        "SimpleDesc": "rogue.buff19"
+    },
+    {
+        "ID": 3002,
+        "Count": 2,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400037
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001000,
+        "Name": "rogue.buffname20",
+        "Desc": "rogue.buff20",
+        "BuffParamPerCount": [
+            50,
+            100
+        ],
+        "SimpleDesc": "rogue.buff20"
+    },
+    {
+        "ID": 3003,
+        "Count": 2,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400044
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001003,
+        "Name": "rogue.buffname21",
+        "Desc": "rogue.buff21",
+        "BuffParamPerCount": [
+            30,
+            60
+        ],
+        "SimpleDesc": "rogue.buff21"
+    },
+    {
+        "ID": 3004,
+        "Count": 2,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400046
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001002,
+        "Name": "rogue.buffname22",
+        "Desc": "rogue.buff22",
+        "BuffParamPerCount": [
+            20,
+            40
+        ],
+        "SimpleDesc": "rogue.buff22"
+    },
+    {
+        "ID": 3005,
+        "Count": 2,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400042
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001000,
+        "Name": "rogue.buffname23",
+        "Desc": "rogue.buff23",
+        "BuffParamPerCount": [
+            30,
+            60
+        ],
+        "SimpleDesc": "rogue.buff23"
+    },
+    {
+        "ID": 3006,
+        "Count": 2,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400041
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001000,
+        "Name": "rogue.buffname24",
+        "Desc": "rogue.buff24",
+        "BuffParamPerCount": [
+            1,
+            1.5
+        ],
+        "SimpleDesc": "rogue.buff24"
+    },
+    {
+        "ID": 4001,
+        "Count": 1,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400053
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001000,
+        "Name": "rogue.buffname25",
+        "Desc": "rogue.buff25",
+        "BuffParamPerCount": [
+            15
+        ],
+        "SimpleDesc": "rogue.buff25"
+    },
+    {
+        "ID": 4002,
+        "Count": 1,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400054
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001002,
+        "Name": "rogue.buffname26",
+        "Desc": "rogue.buff26",
+        "BuffParamPerCount": [
+            2.5
+        ],
+        "SimpleDesc": "rogue.buff26"
+    },
+    {
+        "ID": 4003,
+        "Count": 1,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400005
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001007,
+        "Name": "rogue.buffname27",
+        "Desc": "rogue.buff27",
+        "BuffParamPerCount": [
+            8,
+            5
+        ],
+        "SimpleDesc": "rogue.buff27"
+    },
+    {
+        "ID": 4004,
+        "Count": 1,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400009
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001007,
+        "Name": "rogue.buffname28",
+        "Desc": "rogue.buff28",
+        "BuffParamPerCount": [
+            0.5,
+            1
+        ],
+        "SimpleDesc": "rogue.buff28"
+    },
+    {
+        "ID": 4005,
+        "Count": 1,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400018
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001007,
+        "Name": "rogue.buffname29",
+        "Desc": "rogue.buff29",
+        "BuffParamPerCount": [
+            0.2,
+            0.5
+        ],
+        "SimpleDesc": "rogue.buff29"
+    },
+    {
+        "ID": 4006,
+        "Count": 1,
+        "EnemyBuff": "",
+        "Type": 1,
+        "Modifire": [
+            8400039
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001007,
+        "Name": "rogue.buffname30",
+        "Desc": "rogue.buff30",
+        "BuffParamPerCount": [
+            18,
+            30
+        ],
+        "SimpleDesc": "rogue.buff30"
+    },
+    {
+        "ID": 5001,
+        "Count": 1,
+        "EnemyBuff": "",
+        "Type": 3,
+        "Modifire": "",
+        "Percent": 80,
+        "Group": "",
+        "Icon": 1001010,
+        "Name": "rogue.buffname31",
+        "Desc": "rogue.buff31",
+        "BuffParamPerCount": [
+            80
+        ],
+        "SimpleDesc": "rogue.buff31"
+    },
+    {
+        "ID": 6001,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8411001
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001000,
+        "Name": "rogue.buffnameM01",
+        "Desc": "rogue.buffM01",
+        "BuffParamPerCount": [
+            20,
+            20,
+            10
+        ]
+    },
+    {
+        "ID": 6002,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8411002
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001000,
+        "Name": "rogue.buffnameM02",
+        "Desc": "rogue.buffM02",
+        "BuffParamPerCount": [
+            80,
+            40,
+            10
+        ]
+    },
+    {
+        "ID": 6003,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8411003
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001000,
+        "Name": "rogue.buffnameM03",
+        "Desc": "rogue.buffM03",
+        "BuffParamPerCount": [
+            160,
+            80,
+            15
+        ]
+    },
+    {
+        "ID": 6004,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8411004
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001000,
+        "Name": "rogue.buffnameM04",
+        "Desc": "rogue.buffM04",
+        "BuffParamPerCount": [
+            240,
+            120,
+            15
+        ]
+    },
+    {
+        "ID": 6005,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8411005
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001000,
+        "Name": "rogue.buffnameM05",
+        "Desc": "rogue.buffM05",
+        "BuffParamPerCount": [
+            300,
+            150,
+            20
+        ]
+    },
+    {
+        "ID": 6006,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8411006
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001000,
+        "Name": "rogue.buffnameM06",
+        "Desc": "rogue.buffM06",
+        "BuffParamPerCount": [
+            360,
+            180,
+            20
+        ]
+    },
+    {
+        "ID": 6007,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8411007
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001000,
+        "Name": "rogue.buffnameM07",
+        "Desc": "rogue.buffM07",
+        "BuffParamPerCount": [
+            400,
+            200,
+            25
+        ]
+    },
+    {
+        "ID": 6008,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8411008
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001000,
+        "Name": "rogue.buffnameM08",
+        "Desc": "rogue.buffM08",
+        "BuffParamPerCount": [
+            440,
+            220,
+            25
+        ]
+    },
+    {
+        "ID": 6009,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8411009
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001000,
+        "Name": "rogue.buffnameM09",
+        "Desc": "rogue.buffM09",
+        "BuffParamPerCount": [
+            480,
+            240,
+            30
+        ]
+    },
+    {
+        "ID": 6010,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8411010
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001000,
+        "Name": "rogue.buffnameM10",
+        "Desc": "rogue.buffM10",
+        "BuffParamPerCount": [
+            240,
+            120,
+            30
+        ]
+    },
+    {
+        "ID": 6101,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8412001,
+            8411002
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001005,
+        "Name": "rogue.buffnameM11",
+        "Desc": "rogue.buffM11",
+        "BuffParamPerCount": [
+            6
+        ]
+    },
+    {
+        "ID": 6102,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8412002,
+            8411004
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001005,
+        "Name": "rogue.buffnameM12",
+        "Desc": "rogue.buffM12",
+        "BuffParamPerCount": [
+            9
+        ]
+    },
+    {
+        "ID": 6103,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8412003,
+            8411006
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001005,
+        "Name": "rogue.buffnameM13",
+        "Desc": "rogue.buffM13",
+        "BuffParamPerCount": [
+            12
+        ]
+    },
+    {
+        "ID": 6104,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8412004,
+            8411008
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001005,
+        "Name": "rogue.buffnameM14",
+        "Desc": "rogue.buffM14",
+        "BuffParamPerCount": [
+            15
+        ]
+    },
+    {
+        "ID": 6105,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8412005,
+            8411010
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001005,
+        "Name": "rogue.buffnameM15",
+        "Desc": "rogue.buffM15",
+        "BuffParamPerCount": [
+            18
+        ]
+    },
+    {
+        "ID": 6201,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8413001,
+            8411002
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001007,
+        "Name": "rogue.buffnameM16",
+        "Desc": "rogue.buffM16",
+        "BuffParamPerCount": [
+            10,
+            2
+        ]
+    },
+    {
+        "ID": 6202,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8413002,
+            8411006
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001007,
+        "Name": "rogue.buffnameM17",
+        "Desc": "rogue.buffM17",
+        "BuffParamPerCount": [
+            10,
+            2.5
+        ]
+    },
+    {
+        "ID": 6203,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8413003,
+            8411009
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001007,
+        "Name": "rogue.buffnameM18",
+        "Desc": "rogue.buffM18",
+        "BuffParamPerCount": [
+            10,
+            3
+        ]
+    },
+    {
+        "ID": 6301,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8414001,
+            8411002
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001004,
+        "Name": "rogue.buffnameM19",
+        "Desc": "rogue.buffM19",
+        "BuffParamPerCount": [
+            1,
+            15
+        ]
+    },
+    {
+        "ID": 6302,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8414002,
+            8411006
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001004,
+        "Name": "rogue.buffnameM20",
+        "Desc": "rogue.buffM20",
+        "BuffParamPerCount": [
+            1.2,
+            15
+        ]
+    },
+    {
+        "ID": 6303,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8414003,
+            8411009
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001004,
+        "Name": "rogue.buffnameM21",
+        "Desc": "rogue.buffM21",
+        "BuffParamPerCount": [
+            1.4,
+            15
+        ]
+    },
+    {
+        "ID": 6401,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8415001,
+            8411002
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001002,
+        "Name": "rogue.buffnameM22",
+        "Desc": "rogue.buffM22",
+        "BuffParamPerCount": [
+            6,
+            2,
+            10
+        ]
+    },
+    {
+        "ID": 6402,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8415002,
+            8411006
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001002,
+        "Name": "rogue.buffnameM23",
+        "Desc": "rogue.buffM23",
+        "BuffParamPerCount": [
+            6,
+            3,
+            10
+        ]
+    },
+    {
+        "ID": 6403,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8415003,
+            8411009
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001002,
+        "Name": "rogue.buffnameM24",
+        "Desc": "rogue.buffM24",
+        "BuffParamPerCount": [
+            6,
+            4,
+            10
+        ]
+    },
+    {
+        "ID": 6501,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8416001,
+            8411002
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001009,
+        "Name": "rogue.buffnameM25",
+        "Desc": "rogue.buffM25",
+        "BuffParamPerCount": [
+            4,
+            10
+        ]
+    },
+    {
+        "ID": 6502,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8416002,
+            8411006
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001009,
+        "Name": "rogue.buffnameM26",
+        "Desc": "rogue.buffM26",
+        "BuffParamPerCount": [
+            6,
+            10
+        ]
+    },
+    {
+        "ID": 6503,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8416003,
+            8411009
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001009,
+        "Name": "rogue.buffnameM27",
+        "Desc": "rogue.buffM27",
+        "BuffParamPerCount": [
+            8,
+            10
+        ]
+    },
+    {
+        "ID": 6601,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8417001,
+            8411002
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001005,
+        "Name": "rogue.buffnameM28",
+        "Desc": "rogue.buffM28",
+        "BuffParamPerCount": [
+            3,
+            2,
+            20
+        ]
+    },
+    {
+        "ID": 6602,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8417002,
+            8411006
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001005,
+        "Name": "rogue.buffnameM29",
+        "Desc": "rogue.buffM29",
+        "BuffParamPerCount": [
+            4,
+            2,
+            20
+        ]
+    },
+    {
+        "ID": 6603,
+        "Count": 0,
+        "EnemyBuff": 1,
+        "Type": 1,
+        "Modifire": [
+            8417003,
+            8411009
+        ],
+        "Percent": "",
+        "Group": "",
+        "Icon": 1001005,
+        "Name": "rogue.buffnameM30",
+        "Desc": "rogue.buffM30",
+        "BuffParamPerCount": [
+            5,
+            2,
+            20
+        ]
+    }
+]

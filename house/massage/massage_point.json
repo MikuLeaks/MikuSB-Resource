@@ -1,0 +1,61 @@
+[
+    {
+        "ID": 1,
+        "SmoothingValue": [
+            0,
+            30
+        ],
+        "Actions": [
+            1,
+            2
+        ],
+        "ExtraSmoothing": "",
+        "GirlBreakTime": "",
+        "PlayerBreakTime": "",
+        "EnableAoeEffect": 1
+    },
+    {
+        "ID": 2,
+        "SmoothingValue": [
+            30,
+            60
+        ],
+        "Actions": [
+            1,
+            2
+        ],
+        "ExtraSmoothing": "",
+        "GirlBreakTime": "",
+        "PlayerBreakTime": "",
+        "EnableAoeEffect": 1
+    },
+    {
+        "ID": 3,
+        "SmoothingValue": [
+            60,
+            80
+        ],
+        "Actions": [
+            1,
+            2
+        ],
+        "ExtraSmoothing": "",
+        "GirlBreakTime": 1,
+        "PlayerBreakTime": 1,
+        "EnableAoeEffect": 1,
+        "SmoothNumOnFall": 60.0001
+    },
+    {
+        "ID": 4,
+        "SmoothingValue": [
+            80,
+            200
+        ],
+        "Actions": [
+            3
+        ],
+        "ExtraSmoothing": 20,
+        "GirlBreakTime": "",
+        "PlayerBreakTime": 1
+    }
+]

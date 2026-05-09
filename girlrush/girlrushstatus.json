@@ -1,0 +1,158 @@
+[
+    {
+        "SeasonID": 1,
+        "Id": 1,
+        "Grow": 1001,
+        "CharacterClass": "/Game/Blueprints/GirlRush/Hero/girl015a_02/BP_girl015a_02_n.BP_girl015a_02_n_C",
+        "CharacterClassSystem": [
+            1,
+            15,
+            2,
+            1
+        ],
+        "CharacterClassSystemSkin": [
+            7,
+            15,
+            2,
+            2
+        ],
+        "CharType": 1,
+        "Health_n": "girlrush.girl_des_02",
+        "CharDefaultSkill1": [
+            111511
+        ],
+        "CharDefaultSkill2": [
+            111521
+        ],
+        "DefaultSkill02Condition": [
+            [
+                2,
+                8657,
+                1
+            ]
+        ],
+        "DefaultSkill021UnlockDes": "girlrush.Weapon_ExtraUnlock1",
+        "WeaponScale": [
+            1,
+            1,
+            1
+        ],
+        "Charweapon": 9051407,
+        "Charweapon2": 9051508,
+        "Charweapon2Condition": [
+            [
+                1,
+                8656,
+                1
+            ]
+        ],
+        "Charweapon2UnlockDes": "girlrush.Skill_ExtraUnlock1",
+        "CharacterWwiseGroupName": "aliendefence.Alien_PalPassiveUnlock1",
+        "ChangeBulletsSkill": 111501,
+        "CharacterFaceClass": "/Game/Blueprints/GirlRush/Hero/girl015a_02/BP_girl015a_02_head_n.BP_girl015a_02_head_n_C"
+    },
+    {
+        "SeasonID": 1,
+        "Id": 2,
+        "Grow": 1002,
+        "CharacterClass": "/Game/Blueprints/GirlRush/Hero/girl020/BP_girl020_n.BP_girl020_n_C",
+        "CharacterClassSystem": [
+            1,
+            20,
+            1,
+            1
+        ],
+        "CharacterClassSystemSkin": [
+            7,
+            20,
+            1,
+            1
+        ],
+        "CharType": 2,
+        "Health_n": "girlrush.girl_des_01",
+        "CharDefaultSkill1": [
+            102011
+        ],
+        "CharDefaultSkill2": [
+            102021
+        ],
+        "DefaultSkill02Condition": [
+            [
+                2,
+                8659,
+                1
+            ]
+        ],
+        "DefaultSkill021UnlockDes": "girlrush.Weapon_ExtraUnlock1",
+        "WeaponScale": [
+            1,
+            1,
+            1
+        ],
+        "Charweapon": 9042411,
+        "Charweapon2": 9042506,
+        "Charweapon2Condition": [
+            [
+                1,
+                8658,
+                1
+            ]
+        ],
+        "Charweapon2UnlockDes": "girlrush.Skill_ExtraUnlock1",
+        "CharacterWwiseGroupName": "aliendefence.Alien_PalPassiveUnlock1",
+        "ChangeBulletsSkill": 102001,
+        "CharacterFaceClass": "/Game/Blueprints/GirlRush/Hero/girl020/BP_girl020_head_n.BP_girl020_head_n_C"
+    },
+    {
+        "SeasonID": 1,
+        "Id": 3,
+        "Grow": 1003,
+        "CharacterClass": "/Game/Blueprints/GirlRush/Hero/girl003a/BP_girl003a_n.BP_girl003a_n_C",
+        "CharacterClassSystem": [
+            1,
+            3,
+            2,
+            1
+        ],
+        "CharacterClassSystemSkin": [
+            7,
+            3,
+            2,
+            1
+        ],
+        "CharType": 3,
+        "Health_n": "girlrush.girl_des_03",
+        "CharDefaultSkill1": [
+            110311
+        ],
+        "CharDefaultSkill2": [
+            110321
+        ],
+        "DefaultSkill02Condition": [
+            [
+                2,
+                8661,
+                1
+            ]
+        ],
+        "DefaultSkill021UnlockDes": "girlrush.Weapon_ExtraUnlock1",
+        "WeaponScale": [
+            1,
+            1,
+            1
+        ],
+        "Charweapon": 9031402,
+        "Charweapon2": 9031506,
+        "Charweapon2Condition": [
+            [
+                1,
+                8660,
+                1
+            ]
+        ],
+        "Charweapon2UnlockDes": "girlrush.Skill_ExtraUnlock1",
+        "CharacterWwiseGroupName": "aliendefence.Alien_PalPassiveUnlock1",
+        "ChangeBulletsSkill": 110301,
+        "CharacterFaceClass": "/Game/Blueprints/GirlRush/Hero/girl003a/BP_girl003a_head_n.BP_girl003a_head_n_C"
+    }
+]

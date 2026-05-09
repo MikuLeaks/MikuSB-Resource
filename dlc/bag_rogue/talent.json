@@ -1,0 +1,902 @@
+[
+    {
+        "ID": 1,
+        "TalentType": 1,
+        "Icon": 1001266,
+        "Level": 1,
+        "TalentNum": 6,
+        "Name": "bagrogue.TalentName1",
+        "Des": "bagrogue.TalentDes12",
+        "ParamPerCount": [
+            100
+        ],
+        "SkillInfo": [
+            7201202,
+            1
+        ]
+    },
+    {
+        "ID": 2,
+        "TalentType": 1,
+        "Icon": 1001266,
+        "Level": 2,
+        "TalentNum": 14,
+        "Name": "bagrogue.TalentName1",
+        "Des": "bagrogue.TalentDes12",
+        "ParamPerCount": [
+            200
+        ],
+        "SkillInfo": [
+            7201202,
+            2
+        ]
+    },
+    {
+        "ID": 3,
+        "TalentType": 1,
+        "Icon": 1001266,
+        "Level": 3,
+        "TalentNum": 22,
+        "Name": "bagrogue.TalentName1",
+        "Des": "bagrogue.TalentDes12",
+        "ParamPerCount": [
+            300
+        ],
+        "SkillInfo": [
+            7201202,
+            3
+        ]
+    },
+    {
+        "ID": 4,
+        "TalentType": 1,
+        "Icon": 1001266,
+        "Level": 4,
+        "TalentNum": 30,
+        "Name": "bagrogue.TalentName1",
+        "Des": "bagrogue.TalentDes12",
+        "ParamPerCount": [
+            400
+        ],
+        "SkillInfo": [
+            7201202,
+            4
+        ]
+    },
+    {
+        "ID": 5,
+        "TalentType": 1,
+        "Icon": 1001266,
+        "Level": 5,
+        "TalentNum": 40,
+        "Name": "bagrogue.TalentName1",
+        "Des": "bagrogue.TalentDes12",
+        "ParamPerCount": [
+            500
+        ],
+        "SkillInfo": [
+            7201202,
+            5
+        ]
+    },
+    {
+        "ID": 6,
+        "TalentType": 2,
+        "Icon": 1001267,
+        "Level": 1,
+        "TalentNum": 4,
+        "Name": "bagrogue.TalentName2",
+        "Des": "bagrogue.TalentDes2",
+        "ParamPerCount": [
+            10
+        ],
+        "SkillInfo": [
+            7011046,
+            1
+        ]
+    },
+    {
+        "ID": 7,
+        "TalentType": 2,
+        "Icon": 1001267,
+        "Level": 2,
+        "TalentNum": 10,
+        "Name": "bagrogue.TalentName2",
+        "Des": "bagrogue.TalentDes2",
+        "ParamPerCount": [
+            20
+        ],
+        "SkillInfo": [
+            7011046,
+            2
+        ]
+    },
+    {
+        "ID": 8,
+        "TalentType": 2,
+        "Icon": 1001267,
+        "Level": 3,
+        "TalentNum": 16,
+        "Name": "bagrogue.TalentName2",
+        "Des": "bagrogue.TalentDes2",
+        "ParamPerCount": [
+            30
+        ],
+        "SkillInfo": [
+            7011046,
+            3
+        ]
+    },
+    {
+        "ID": 9,
+        "TalentType": 2,
+        "Icon": 1001267,
+        "Level": 4,
+        "TalentNum": 22,
+        "Name": "bagrogue.TalentName2",
+        "Des": "bagrogue.TalentDes2",
+        "ParamPerCount": [
+            40
+        ],
+        "SkillInfo": [
+            7011046,
+            4
+        ]
+    },
+    {
+        "ID": 10,
+        "TalentType": 2,
+        "Icon": 1001267,
+        "Level": 5,
+        "TalentNum": 30,
+        "Name": "bagrogue.TalentName2",
+        "Des": "bagrogue.TalentDes2",
+        "ParamPerCount": [
+            50
+        ],
+        "SkillInfo": [
+            7011046,
+            5
+        ]
+    },
+    {
+        "ID": 11,
+        "TalentType": 3,
+        "Icon": 1001268,
+        "Level": 1,
+        "TalentNum": 8,
+        "Name": "bagrogue.TalentName3",
+        "Des": "bagrogue.TalentDes3",
+        "ParamPerCount": [
+            10,
+            20
+        ],
+        "SkillInfo": [
+            7011047,
+            1
+        ]
+    },
+    {
+        "ID": 12,
+        "TalentType": 3,
+        "Icon": 1001268,
+        "Level": 2,
+        "TalentNum": 18,
+        "Name": "bagrogue.TalentName3",
+        "Des": "bagrogue.TalentDes3",
+        "ParamPerCount": [
+            20,
+            40
+        ],
+        "SkillInfo": [
+            7011047,
+            2
+        ]
+    },
+    {
+        "ID": 13,
+        "TalentType": 3,
+        "Icon": 1001268,
+        "Level": 3,
+        "TalentNum": 28,
+        "Name": "bagrogue.TalentName3",
+        "Des": "bagrogue.TalentDes3",
+        "ParamPerCount": [
+            30,
+            60
+        ],
+        "SkillInfo": [
+            7011047,
+            3
+        ]
+    },
+    {
+        "ID": 14,
+        "TalentType": 3,
+        "Icon": 1001268,
+        "Level": 4,
+        "TalentNum": 38,
+        "Name": "bagrogue.TalentName3",
+        "Des": "bagrogue.TalentDes3",
+        "ParamPerCount": [
+            40,
+            80
+        ],
+        "SkillInfo": [
+            7011047,
+            4
+        ]
+    },
+    {
+        "ID": 15,
+        "TalentType": 3,
+        "Icon": 1001268,
+        "Level": 5,
+        "TalentNum": 50,
+        "Name": "bagrogue.TalentName3",
+        "Des": "bagrogue.TalentDes3",
+        "ParamPerCount": [
+            50,
+            100
+        ],
+        "SkillInfo": [
+            7011047,
+            5
+        ]
+    },
+    {
+        "ID": 16,
+        "TalentType": 4,
+        "Icon": 1001269,
+        "Level": 1,
+        "TalentNum": 6,
+        "Name": "bagrogue.TalentName4",
+        "Des": "bagrogue.TalentDes4",
+        "ParamPerCount": [
+            3
+        ],
+        "SkillInfo": [
+            7011048,
+            1
+        ]
+    },
+    {
+        "ID": 17,
+        "TalentType": 4,
+        "Icon": 1001269,
+        "Level": 2,
+        "TalentNum": 14,
+        "Name": "bagrogue.TalentName4",
+        "Des": "bagrogue.TalentDes4",
+        "ParamPerCount": [
+            4
+        ],
+        "SkillInfo": [
+            7011048,
+            2
+        ]
+    },
+    {
+        "ID": 18,
+        "TalentType": 4,
+        "Icon": 1001269,
+        "Level": 3,
+        "TalentNum": 22,
+        "Name": "bagrogue.TalentName4",
+        "Des": "bagrogue.TalentDes4",
+        "ParamPerCount": [
+            5
+        ],
+        "SkillInfo": [
+            7011048,
+            3
+        ]
+    },
+    {
+        "ID": 19,
+        "TalentType": 4,
+        "Icon": 1001269,
+        "Level": 4,
+        "TalentNum": 30,
+        "Name": "bagrogue.TalentName4",
+        "Des": "bagrogue.TalentDes4",
+        "ParamPerCount": [
+            6
+        ],
+        "SkillInfo": [
+            7011048,
+            4
+        ]
+    },
+    {
+        "ID": 20,
+        "TalentType": 4,
+        "Icon": 1001269,
+        "Level": 5,
+        "TalentNum": 40,
+        "Name": "bagrogue.TalentName4",
+        "Des": "bagrogue.TalentDes4",
+        "ParamPerCount": [
+            7
+        ],
+        "SkillInfo": [
+            7011048,
+            5
+        ]
+    },
+    {
+        "ID": "##21",
+        "TalentType": 5,
+        "Icon": 1001270,
+        "Level": 1,
+        "TalentNum": 4,
+        "Name": "bagrogue.TalentName5",
+        "Des": "bagrogue.TalentDes5",
+        "ParamPerCount": [
+            1
+        ],
+        "SkillInfo": [
+            7011049,
+            1
+        ]
+    },
+    {
+        "ID": "##22",
+        "TalentType": 5,
+        "Icon": 1001270,
+        "Level": 2,
+        "TalentNum": 10,
+        "Name": "bagrogue.TalentName5",
+        "Des": "bagrogue.TalentDes5",
+        "ParamPerCount": [
+            2
+        ],
+        "SkillInfo": [
+            7011049,
+            2
+        ]
+    },
+    {
+        "ID": "##23",
+        "TalentType": 5,
+        "Icon": 1001270,
+        "Level": 3,
+        "TalentNum": 16,
+        "Name": "bagrogue.TalentName5",
+        "Des": "bagrogue.TalentDes5",
+        "ParamPerCount": [
+            3
+        ],
+        "SkillInfo": [
+            7011049,
+            3
+        ]
+    },
+    {
+        "ID": "##24",
+        "TalentType": 5,
+        "Icon": 1001270,
+        "Level": 4,
+        "TalentNum": 22,
+        "Name": "bagrogue.TalentName5",
+        "Des": "bagrogue.TalentDes5",
+        "ParamPerCount": [
+            4
+        ],
+        "SkillInfo": [
+            7011049,
+            4
+        ]
+    },
+    {
+        "ID": "##25",
+        "TalentType": 5,
+        "Icon": 1001270,
+        "Level": 5,
+        "TalentNum": 30,
+        "Name": "bagrogue.TalentName5",
+        "Des": "bagrogue.TalentDes5",
+        "ParamPerCount": [
+            5
+        ],
+        "SkillInfo": [
+            7011049,
+            5
+        ]
+    },
+    {
+        "ID": 26,
+        "TalentType": 6,
+        "Icon": 1001271,
+        "Level": 1,
+        "TalentNum": 6,
+        "Name": "bagrogue.TalentName6",
+        "Des": "bagrogue.TalentDes6",
+        "ParamPerCount": [
+            3
+        ],
+        "SkillInfo": [
+            7011050,
+            1
+        ]
+    },
+    {
+        "ID": 27,
+        "TalentType": 6,
+        "Icon": 1001271,
+        "Level": 2,
+        "TalentNum": 14,
+        "Name": "bagrogue.TalentName6",
+        "Des": "bagrogue.TalentDes6",
+        "ParamPerCount": [
+            4
+        ],
+        "SkillInfo": [
+            7011050,
+            2
+        ]
+    },
+    {
+        "ID": 28,
+        "TalentType": 6,
+        "Icon": 1001271,
+        "Level": 3,
+        "TalentNum": 22,
+        "Name": "bagrogue.TalentName6",
+        "Des": "bagrogue.TalentDes6",
+        "ParamPerCount": [
+            5
+        ],
+        "SkillInfo": [
+            7011050,
+            3
+        ]
+    },
+    {
+        "ID": 29,
+        "TalentType": 6,
+        "Icon": 1001271,
+        "Level": 4,
+        "TalentNum": 30,
+        "Name": "bagrogue.TalentName6",
+        "Des": "bagrogue.TalentDes6",
+        "ParamPerCount": [
+            6
+        ],
+        "SkillInfo": [
+            7011050,
+            4
+        ]
+    },
+    {
+        "ID": 30,
+        "TalentType": 6,
+        "Icon": 1001271,
+        "Level": 5,
+        "TalentNum": 40,
+        "Name": "bagrogue.TalentName6",
+        "Des": "bagrogue.TalentDes6",
+        "ParamPerCount": [
+            7
+        ],
+        "SkillInfo": [
+            7011050,
+            5
+        ]
+    },
+    {
+        "ID": 31,
+        "TalentType": 7,
+        "Icon": 1001272,
+        "Level": 1,
+        "TalentNum": 6,
+        "Name": "bagrogue.TalentName7",
+        "Des": "bagrogue.TalentDes13",
+        "ParamPerCount": [
+            2,
+            1000
+        ],
+        "SkillInfo": [
+            7201201,
+            1
+        ]
+    },
+    {
+        "ID": 32,
+        "TalentType": 7,
+        "Icon": 1001272,
+        "Level": 2,
+        "TalentNum": 14,
+        "Name": "bagrogue.TalentName7",
+        "Des": "bagrogue.TalentDes13",
+        "ParamPerCount": [
+            4,
+            2000
+        ],
+        "SkillInfo": [
+            7201201,
+            2
+        ]
+    },
+    {
+        "ID": 33,
+        "TalentType": 7,
+        "Icon": 1001272,
+        "Level": 3,
+        "TalentNum": 22,
+        "Name": "bagrogue.TalentName7",
+        "Des": "bagrogue.TalentDes13",
+        "ParamPerCount": [
+            6,
+            3000
+        ],
+        "SkillInfo": [
+            7201201,
+            3
+        ]
+    },
+    {
+        "ID": 34,
+        "TalentType": 7,
+        "Icon": 1001272,
+        "Level": 4,
+        "TalentNum": 30,
+        "Name": "bagrogue.TalentName7",
+        "Des": "bagrogue.TalentDes13",
+        "ParamPerCount": [
+            8,
+            4000
+        ],
+        "SkillInfo": [
+            7201201,
+            4
+        ]
+    },
+    {
+        "ID": 35,
+        "TalentType": 7,
+        "Icon": 1001272,
+        "Level": 5,
+        "TalentNum": 40,
+        "Name": "bagrogue.TalentName7",
+        "Des": "bagrogue.TalentDes13",
+        "ParamPerCount": [
+            10,
+            5000
+        ],
+        "SkillInfo": [
+            7201201,
+            5
+        ]
+    },
+    {
+        "ID": 36,
+        "TalentType": 8,
+        "Icon": 1001273,
+        "Level": 1,
+        "TalentNum": 4,
+        "Name": "bagrogue.TalentName8",
+        "Des": "bagrogue.TalentDes8",
+        "ParamPerCount": [
+            2,
+            10
+        ],
+        "SkillInfo": [
+            7011052,
+            1
+        ]
+    },
+    {
+        "ID": 37,
+        "TalentType": 8,
+        "Icon": 1001273,
+        "Level": 2,
+        "TalentNum": 10,
+        "Name": "bagrogue.TalentName8",
+        "Des": "bagrogue.TalentDes8",
+        "ParamPerCount": [
+            3,
+            20
+        ],
+        "SkillInfo": [
+            7011052,
+            2
+        ]
+    },
+    {
+        "ID": 38,
+        "TalentType": 8,
+        "Icon": 1001273,
+        "Level": 3,
+        "TalentNum": 16,
+        "Name": "bagrogue.TalentName8",
+        "Des": "bagrogue.TalentDes8",
+        "ParamPerCount": [
+            4,
+            30
+        ],
+        "SkillInfo": [
+            7011052,
+            3
+        ]
+    },
+    {
+        "ID": 39,
+        "TalentType": 8,
+        "Icon": 1001273,
+        "Level": 4,
+        "TalentNum": 22,
+        "Name": "bagrogue.TalentName8",
+        "Des": "bagrogue.TalentDes8",
+        "ParamPerCount": [
+            5,
+            40
+        ],
+        "SkillInfo": [
+            7011052,
+            4
+        ]
+    },
+    {
+        "ID": 40,
+        "TalentType": 8,
+        "Icon": 1001273,
+        "Level": 5,
+        "TalentNum": 30,
+        "Name": "bagrogue.TalentName8",
+        "Des": "bagrogue.TalentDes8",
+        "ParamPerCount": [
+            6,
+            50
+        ],
+        "SkillInfo": [
+            7011052,
+            5
+        ]
+    },
+    {
+        "ID": 41,
+        "TalentType": 9,
+        "Icon": 1001274,
+        "Level": 1,
+        "TalentNum": 4,
+        "Name": "bagrogue.TalentName9",
+        "Des": "bagrogue.TalentDes9",
+        "ParamPerCount": [
+            300
+        ],
+        "SkillInfo": [
+            7011053,
+            1
+        ]
+    },
+    {
+        "ID": 42,
+        "TalentType": 9,
+        "Icon": 1001274,
+        "Level": 2,
+        "TalentNum": 10,
+        "Name": "bagrogue.TalentName9",
+        "Des": "bagrogue.TalentDes9",
+        "ParamPerCount": [
+            600
+        ],
+        "SkillInfo": [
+            7011053,
+            2
+        ]
+    },
+    {
+        "ID": 43,
+        "TalentType": 9,
+        "Icon": 1001274,
+        "Level": 3,
+        "TalentNum": 16,
+        "Name": "bagrogue.TalentName9",
+        "Des": "bagrogue.TalentDes9",
+        "ParamPerCount": [
+            900
+        ],
+        "SkillInfo": [
+            7011053,
+            3
+        ]
+    },
+    {
+        "ID": 44,
+        "TalentType": 9,
+        "Icon": 1001274,
+        "Level": 4,
+        "TalentNum": 22,
+        "Name": "bagrogue.TalentName9",
+        "Des": "bagrogue.TalentDes9",
+        "ParamPerCount": [
+            1200
+        ],
+        "SkillInfo": [
+            7011053,
+            4
+        ]
+    },
+    {
+        "ID": 45,
+        "TalentType": 9,
+        "Icon": 1001274,
+        "Level": 5,
+        "TalentNum": 30,
+        "Name": "bagrogue.TalentName9",
+        "Des": "bagrogue.TalentDes9",
+        "ParamPerCount": [
+            1500
+        ],
+        "SkillInfo": [
+            7011053,
+            5
+        ]
+    },
+    {
+        "ID": 46,
+        "TalentType": 10,
+        "Icon": 1001275,
+        "Level": 1,
+        "TalentNum": 4,
+        "Name": "bagrogue.TalentName10",
+        "Des": "bagrogue.TalentDes10",
+        "ParamPerCount": [
+            1,
+            1
+        ],
+        "SkillInfo": [
+            7011054,
+            1
+        ]
+    },
+    {
+        "ID": 47,
+        "TalentType": 10,
+        "Icon": 1001275,
+        "Level": 2,
+        "TalentNum": 10,
+        "Name": "bagrogue.TalentName10",
+        "Des": "bagrogue.TalentDes10",
+        "ParamPerCount": [
+            2,
+            2
+        ],
+        "SkillInfo": [
+            7011054,
+            2
+        ]
+    },
+    {
+        "ID": 48,
+        "TalentType": 10,
+        "Icon": 1001275,
+        "Level": 3,
+        "TalentNum": 16,
+        "Name": "bagrogue.TalentName10",
+        "Des": "bagrogue.TalentDes10",
+        "ParamPerCount": [
+            3,
+            3
+        ],
+        "SkillInfo": [
+            7011054,
+            3
+        ]
+    },
+    {
+        "ID": 49,
+        "TalentType": 10,
+        "Icon": 1001275,
+        "Level": 4,
+        "TalentNum": 22,
+        "Name": "bagrogue.TalentName10",
+        "Des": "bagrogue.TalentDes10",
+        "ParamPerCount": [
+            4,
+            4
+        ],
+        "SkillInfo": [
+            7011054,
+            4
+        ]
+    },
+    {
+        "ID": 50,
+        "TalentType": 10,
+        "Icon": 1001275,
+        "Level": 5,
+        "TalentNum": 30,
+        "Name": "bagrogue.TalentName10",
+        "Des": "bagrogue.TalentDes10",
+        "ParamPerCount": [
+            5,
+            5
+        ],
+        "SkillInfo": [
+            7011054,
+            5
+        ]
+    },
+    {
+        "ID": 51,
+        "TalentType": 11,
+        "Icon": 1001454,
+        "Level": 1,
+        "TalentNum": 6,
+        "Name": "bagrogue.TalentName11",
+        "Des": "bagrogue.TalentDes11",
+        "ParamPerCount": [
+            25
+        ],
+        "SkillInfo": [
+            7011092,
+            1
+        ]
+    },
+    {
+        "ID": 52,
+        "TalentType": 11,
+        "Icon": 1001454,
+        "Level": 2,
+        "TalentNum": 14,
+        "Name": "bagrogue.TalentName11",
+        "Des": "bagrogue.TalentDes11",
+        "ParamPerCount": [
+            50
+        ],
+        "SkillInfo": [
+            7011092,
+            2
+        ]
+    },
+    {
+        "ID": 53,
+        "TalentType": 11,
+        "Icon": 1001454,
+        "Level": 3,
+        "TalentNum": 22,
+        "Name": "bagrogue.TalentName11",
+        "Des": "bagrogue.TalentDes11",
+        "ParamPerCount": [
+            75
+        ],
+        "SkillInfo": [
+            7011092,
+            3
+        ]
+    },
+    {
+        "ID": 54,
+        "TalentType": 11,
+        "Icon": 1001454,
+        "Level": 4,
+        "TalentNum": 30,
+        "Name": "bagrogue.TalentName11",
+        "Des": "bagrogue.TalentDes11",
+        "ParamPerCount": [
+            100
+        ],
+        "SkillInfo": [
+            7011092,
+            4
+        ]
+    },
+    {
+        "ID": 55,
+        "TalentType": 11,
+        "Icon": 1001454,
+        "Level": 5,
+        "TalentNum": 40,
+        "Name": "bagrogue.TalentName11",
+        "Des": "bagrogue.TalentDes11",
+        "ParamPerCount": [
+            125
+        ],
+        "SkillInfo": [
+            7011092,
+            5
+        ]
+    }
+]

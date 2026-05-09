@@ -1,0 +1,1516 @@
+[
+    {
+        "ShopId": 101,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202308070400]",
+        "EndTime": "[202308230400]",
+        "EnterStartTime": "[202308070400]",
+        "CloseEndTime": "[202308230400]",
+        "Columns": 18,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                23,
+                1,
+                2
+            ],
+            [
+                5,
+                23,
+                1,
+                1
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc1Shop"
+    },
+    {
+        "ShopId": 102,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202308070400]",
+        "EndTime": "[202308230400]",
+        "EnterStartTime": "[202308070400]",
+        "CloseEndTime": "[202308230400]",
+        "Columns": "",
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                23,
+                1,
+                1
+            ]
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc1Shop"
+    },
+    {
+        "ShopId": 103,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202309211000]",
+        "EndTime": "[202311020400]",
+        "EnterStartTime": "[202309211000]",
+        "CloseEndTime": "[202311020400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                4,
+                1,
+                6,
+                2
+            ],
+            [
+                4,
+                1,
+                6,
+                3
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc2Shop"
+    },
+    {
+        "ShopId": 104,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202309211000]",
+        "EndTime": "[202311020400]",
+        "EnterStartTime": "[202309211000]",
+        "CloseEndTime": "[202311020400]",
+        "Columns": "",
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                4,
+                1,
+                6,
+                3
+            ]
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc2Shop"
+    },
+    {
+        "ShopId": 105,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202311021000]",
+        "EndTime": "[202312140400]",
+        "EnterStartTime": "[202311021000]",
+        "CloseEndTime": "[202312140400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            16,
+            22
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc3Shop"
+    },
+    {
+        "ShopId": 106,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202311021000]",
+        "EndTime": "[202312140400]",
+        "EnterStartTime": "[202311021000]",
+        "CloseEndTime": "[202312140400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            16,
+            22
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc3Shop"
+    },
+    {
+        "ShopId": 107,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202312141000]",
+        "EndTime": "[202401180400]",
+        "EnterStartTime": "[202312141000]",
+        "CloseEndTime": "[202401180400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                1,
+                1
+            ],
+            [
+                5,
+                29,
+                1,
+                2
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc4Shop"
+    },
+    {
+        "ShopId": 108,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202312141000]",
+        "EndTime": "[202401180400]",
+        "EnterStartTime": "[202312141000]",
+        "CloseEndTime": "[202401180400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                1,
+                1
+            ],
+            [
+                5,
+                29,
+                1,
+                2
+            ]
+        ],
+        "Sort": 2,
+        "Version": 3,
+        "Coverage": "",
+        "JumpUI": "Dlc4Shop"
+    },
+    {
+        "ShopId": 109,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202401181000]",
+        "EndTime": "[202403070400]",
+        "EnterStartTime": "[202401181000]",
+        "CloseEndTime": "[202403070400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                2,
+                1
+            ],
+            [
+                5,
+                29,
+                2,
+                2
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc5Shop"
+    },
+    {
+        "ShopId": 110,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202401181000]",
+        "EndTime": "[202403070400]",
+        "EnterStartTime": "[202401181000]",
+        "CloseEndTime": "[202403070400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                2,
+                1
+            ],
+            [
+                5,
+                29,
+                2,
+                2
+            ]
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc5Shop"
+    },
+    {
+        "ShopId": 111,
+        "GroupName": "ui.DLC6shop1",
+        "StartTime": "[202403071000]",
+        "EndTime": "[202404270400]",
+        "EnterStartTime": "[202403071000]",
+        "CloseEndTime": "[202404270400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                30,
+                2,
+                3
+            ],
+            [
+                5,
+                30,
+                2,
+                4
+            ]
+        ],
+        "Sort": 3,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc6Shop"
+    },
+    {
+        "ShopId": 112,
+        "GroupName": "ui.DLC6shop2",
+        "StartTime": "[202403071000]",
+        "EndTime": "[202404270400]",
+        "EnterStartTime": "[202403071000]",
+        "CloseEndTime": "[202404270400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                30,
+                2,
+                3
+            ],
+            [
+                5,
+                30,
+                2,
+                4
+            ]
+        ],
+        "Sort": 4,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc6Shop"
+    },
+    {
+        "ShopId": 113,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202404181000]",
+        "EndTime": "[202405300400]",
+        "EnterStartTime": "[202404181000]",
+        "CloseEndTime": "[202405300400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                3,
+                1
+            ],
+            [
+                5,
+                29,
+                3,
+                2
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc7Shop"
+    },
+    {
+        "ShopId": 114,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202404181000]",
+        "EndTime": "[202405300400]",
+        "EnterStartTime": "[202404181000]",
+        "CloseEndTime": "[202405300400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                3,
+                1
+            ],
+            [
+                5,
+                29,
+                3,
+                2
+            ]
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc7Shop"
+    },
+    {
+        "ShopId": 115,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202405301000]",
+        "EndTime": "[202407110400]",
+        "EnterStartTime": "[202405301000]",
+        "CloseEndTime": "[202407110400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                4,
+                1
+            ],
+            [
+                5,
+                29,
+                4,
+                2
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc8Shop"
+    },
+    {
+        "ShopId": 116,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202405301000]",
+        "EndTime": "[202407110400]",
+        "EnterStartTime": "[202405301000]",
+        "CloseEndTime": "[202407110400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                4,
+                1
+            ],
+            [
+                5,
+                29,
+                4,
+                2
+            ]
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc8Shop"
+    },
+    {
+        "ShopId": 117,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202407110400]",
+        "EndTime": "[202408220400]",
+        "EnterStartTime": "[202407110400]",
+        "CloseEndTime": "[202408220400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                5,
+                1
+            ],
+            [
+                5,
+                29,
+                5,
+                2
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc9Shop"
+    },
+    {
+        "ShopId": 118,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202407110400]",
+        "EndTime": "[202408220400]",
+        "EnterStartTime": "[202407110400]",
+        "CloseEndTime": "[202408220400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                5,
+                1
+            ],
+            [
+                5,
+                29,
+                5,
+                2
+            ]
+        ],
+        "Sort": 2,
+        "Version": 2,
+        "Coverage": "",
+        "JumpUI": "Dlc9Shop"
+    },
+    {
+        "ShopId": 119,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202408221000]",
+        "EndTime": "[202409260400]",
+        "EnterStartTime": "[202408221000]",
+        "CloseEndTime": "[202409260400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                6,
+                1
+            ],
+            [
+                5,
+                29,
+                6,
+                2
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc10Shop"
+    },
+    {
+        "ShopId": 120,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202408221000]",
+        "EndTime": "[202409260400]",
+        "EnterStartTime": "[202408221000]",
+        "CloseEndTime": "[202409260400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                6,
+                1
+            ],
+            [
+                5,
+                29,
+                6,
+                2
+            ]
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc10Shop"
+    },
+    {
+        "ShopId": 121,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202409260400]",
+        "EndTime": "[202411070400]",
+        "EnterStartTime": "[202409260400]",
+        "CloseEndTime": "[202411070400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                7,
+                1
+            ],
+            [
+                5,
+                29,
+                7,
+                2
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc11Shop"
+    },
+    {
+        "ShopId": 122,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202409260400]",
+        "EndTime": "[202411070400]",
+        "EnterStartTime": "[202409260400]",
+        "CloseEndTime": "[202411070400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                7,
+                1
+            ],
+            [
+                5,
+                29,
+                7,
+                2
+            ]
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc11Shop"
+    },
+    {
+        "ShopId": 123,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202411071000]",
+        "EndTime": "[202412190400]",
+        "EnterStartTime": "[202411071000]",
+        "CloseEndTime": "[202412190400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                8,
+                1
+            ],
+            [
+                5,
+                29,
+                8,
+                2
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc23Shop"
+    },
+    {
+        "ShopId": 124,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202411071000]",
+        "EndTime": "[202412190400]",
+        "EnterStartTime": "[202411071000]",
+        "CloseEndTime": "[202412190400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                8,
+                1
+            ],
+            [
+                5,
+                29,
+                8,
+                2
+            ]
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc23Shop"
+    },
+    {
+        "ShopId": 125,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202412191000]",
+        "EndTime": "[202501230400]",
+        "EnterStartTime": "[202412191000]",
+        "CloseEndTime": "[202501230400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                9,
+                1
+            ],
+            [
+                5,
+                29,
+                9,
+                2
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc24Shop"
+    },
+    {
+        "ShopId": 126,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202412191000]",
+        "EndTime": "[202501230400]",
+        "EnterStartTime": "[202412191000]",
+        "CloseEndTime": "[202501230400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                9,
+                1
+            ],
+            [
+                5,
+                29,
+                9,
+                2
+            ]
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc24Shop"
+    },
+    {
+        "ShopId": 127,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202412191000]",
+        "EndTime": "[202503060400]",
+        "EnterStartTime": "[202412191000]",
+        "CloseEndTime": "[202503060400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                10,
+                1
+            ],
+            [
+                5,
+                29,
+                10,
+                2
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc25Shop"
+    },
+    {
+        "ShopId": 128,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202412191000]",
+        "EndTime": "[202503060400]",
+        "EnterStartTime": "[202412191000]",
+        "CloseEndTime": "[202503060400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                10,
+                1
+            ],
+            [
+                5,
+                29,
+                10,
+                2
+            ]
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc25Shop"
+    },
+    {
+        "ShopId": 129,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202503061000]",
+        "EndTime": "[202504170400]",
+        "EnterStartTime": "[202503061000]",
+        "CloseEndTime": "[202504170400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                11,
+                1
+            ],
+            [
+                5,
+                29,
+                11,
+                2
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc26Shop"
+    },
+    {
+        "ShopId": 130,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202503061000]",
+        "EndTime": "[202504170400]",
+        "EnterStartTime": "[202503061000]",
+        "CloseEndTime": "[202504170400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                11,
+                1
+            ],
+            [
+                5,
+                29,
+                11,
+                2
+            ]
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc26Shop"
+    },
+    {
+        "ShopId": 131,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202504170400]",
+        "EndTime": "[202505290400]",
+        "EnterStartTime": "[202504170400]",
+        "CloseEndTime": "[202505290400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                12,
+                1
+            ],
+            [
+                5,
+                29,
+                12,
+                2
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc27Shop"
+    },
+    {
+        "ShopId": 132,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202504170400]",
+        "EndTime": "[202505290400]",
+        "EnterStartTime": "[202504170400]",
+        "CloseEndTime": "[202505290400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                12,
+                1
+            ],
+            [
+                5,
+                29,
+                12,
+                2
+            ]
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc27Shop"
+    },
+    {
+        "ShopId": 133,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202505291000]",
+        "EndTime": "[202507100400]",
+        "EnterStartTime": "[202505291000]",
+        "CloseEndTime": "[202507100400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                13,
+                1
+            ],
+            [
+                5,
+                29,
+                13,
+                2
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc28Shop"
+    },
+    {
+        "ShopId": 134,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202505291000]",
+        "EndTime": "[202507100400]",
+        "EnterStartTime": "[202505291000]",
+        "CloseEndTime": "[202507100400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                13,
+                1
+            ],
+            [
+                5,
+                29,
+                13,
+                2
+            ]
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc28Shop"
+    },
+    {
+        "ShopId": 135,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202507100400]",
+        "EndTime": "[202508210400]",
+        "EnterStartTime": "[202507100400]",
+        "CloseEndTime": "[202508210400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                14,
+                1
+            ],
+            [
+                5,
+                29,
+                14,
+                2
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc30Shop"
+    },
+    {
+        "ShopId": 136,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202507100400]",
+        "EndTime": "[202508210400]",
+        "EnterStartTime": "[202507100400]",
+        "CloseEndTime": "[202508210400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                14,
+                1
+            ],
+            [
+                5,
+                29,
+                14,
+                2
+            ]
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc30Shop"
+    },
+    {
+        "ShopId": 137,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202508211000]",
+        "EndTime": "[202509250400]",
+        "EnterStartTime": "[202508211000]",
+        "CloseEndTime": "[202509250400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                15,
+                1
+            ],
+            [
+                5,
+                29,
+                15,
+                2
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc31Shop"
+    },
+    {
+        "ShopId": 138,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202508211000]",
+        "EndTime": "[202509250400]",
+        "EnterStartTime": "[202508211000]",
+        "CloseEndTime": "[202509250400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                15,
+                1
+            ],
+            [
+                5,
+                29,
+                15,
+                2
+            ]
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc31Shop"
+    },
+    {
+        "ShopId": 139,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202509250400]",
+        "EndTime": "[202511060400]",
+        "EnterStartTime": "[202509250400]",
+        "CloseEndTime": "[202511060400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                16,
+                1
+            ],
+            [
+                5,
+                29,
+                16,
+                2
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc32Shop"
+    },
+    {
+        "ShopId": 140,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202509250400]",
+        "EndTime": "[202511060400]",
+        "EnterStartTime": "[202509250400]",
+        "CloseEndTime": "[202511060400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                16,
+                1
+            ],
+            [
+                5,
+                29,
+                16,
+                2
+            ]
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc32Shop"
+    },
+    {
+        "ShopId": 141,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202511060400]",
+        "EndTime": "[202512180400]",
+        "EnterStartTime": "[202511060400]",
+        "CloseEndTime": "[202512180400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                17,
+                1
+            ],
+            [
+                5,
+                29,
+                17,
+                2
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc33Shop"
+    },
+    {
+        "ShopId": 142,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202511060400]",
+        "EndTime": "[202512180400]",
+        "EnterStartTime": "[202511060400]",
+        "CloseEndTime": "[202512180400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                17,
+                1
+            ],
+            [
+                5,
+                29,
+                17,
+                2
+            ]
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc33Shop"
+    },
+    {
+        "ShopId": 143,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202512180400]",
+        "EndTime": "[202601290400]",
+        "EnterStartTime": "[202512180400]",
+        "CloseEndTime": "[202601290400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                18,
+                1
+            ],
+            [
+                5,
+                29,
+                18,
+                2
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc34Shop"
+    },
+    {
+        "ShopId": 144,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202512180400]",
+        "EndTime": "[202601290400]",
+        "EnterStartTime": "[202512180400]",
+        "CloseEndTime": "[202601290400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                18,
+                1
+            ],
+            [
+                5,
+                29,
+                18,
+                2
+            ]
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc34Shop"
+    },
+    {
+        "ShopId": 145,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202601290400]",
+        "EndTime": "[202603190400]",
+        "EnterStartTime": "[202601290400]",
+        "CloseEndTime": "[202603190400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                19,
+                1
+            ],
+            [
+                5,
+                29,
+                19,
+                2
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc35Shop"
+    },
+    {
+        "ShopId": 146,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202601290400]",
+        "EndTime": "[202603190400]",
+        "EnterStartTime": "[202601290400]",
+        "CloseEndTime": "[202603190400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                19,
+                1
+            ],
+            [
+                5,
+                29,
+                19,
+                2
+            ]
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc35Shop"
+    },
+    {
+        "ShopId": 147,
+        "GroupName": "ui.DLC1shop1",
+        "StartTime": "[202603120400]",
+        "EndTime": "[202604230400]",
+        "EnterStartTime": "[202603120400]",
+        "CloseEndTime": "[202604230400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                20,
+                1
+            ],
+            [
+                5,
+                29,
+                20,
+                2
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc36Shop"
+    },
+    {
+        "ShopId": 148,
+        "GroupName": "ui.DLC1shop2",
+        "StartTime": "[202603120400]",
+        "EndTime": "[202604230400]",
+        "EnterStartTime": "[202603120400]",
+        "CloseEndTime": "[202604230400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                20,
+                1
+            ],
+            [
+                5,
+                29,
+                20,
+                2
+            ]
+        ],
+        "Sort": 2,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc36Shop"
+    },
+    {
+        "ShopId": 301,
+        "GroupName": "online.SpeedSocreShopName1",
+        "StartTime": "[202511101000]",
+        "EndTime": "[202512010400]",
+        "EnterStartTime": "[202511101000]",
+        "CloseEndTime": "[202512010400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            60
+        ],
+        "Sort": 1,
+        "Version": 1
+    },
+    {
+        "ShopId": 302,
+        "GroupName": "online.SpeedSocreShopName2",
+        "StartTime": "[202511101000]",
+        "EndTime": "[202512010400]",
+        "EnterStartTime": "[202511101000]",
+        "CloseEndTime": "[202512010400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            59
+        ],
+        "Sort": 1,
+        "Version": 1
+    },
+    {
+        "ShopId": 303,
+        "GroupName": "ui.TxtAssaulShopType1",
+        "StartTime": "[202602020400]",
+        "EndTime": "[209912310400]",
+        "EnterStartTime": "[202602020400]",
+        "CloseEndTime": "[209912310400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            62
+        ],
+        "Sort": 1,
+        "Version": 1
+    },
+    {
+        "ShopId": 304,
+        "GroupName": "ui.TxtAssaulShopType2",
+        "StartTime": "[202602020400]",
+        "EndTime": "[209912310400]",
+        "EnterStartTime": "[202602020400]",
+        "CloseEndTime": "[209912310400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            62
+        ],
+        "Sort": 1,
+        "Version": 1
+    },
+    {
+        "ShopId": 305,
+        "GroupName": "online.SpeedSocreShopName1",
+        "StartTime": "[202604240400]",
+        "EndTime": "[202605140400]",
+        "EnterStartTime": "[202604240400]",
+        "CloseEndTime": "[202605140400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            60
+        ],
+        "Sort": 1,
+        "Version": 1
+    },
+    {
+        "ShopId": 306,
+        "GroupName": "online.SpeedSocreShopName2",
+        "StartTime": "[202604240400]",
+        "EndTime": "[202605140400]",
+        "EnterStartTime": "[202604240400]",
+        "CloseEndTime": "[202605140400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            59
+        ],
+        "Sort": 1,
+        "Version": 1
+    },
+    {
+        "ShopId": 401,
+        "GroupName": "ui.DLC_fomer_shop1",
+        "StartTime": "[202505291000]",
+        "EndTime": "[202507100400]",
+        "EnterStartTime": "[202505291000]",
+        "CloseEndTime": "[202507100400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                3,
+                3
+            ],
+            [
+                5,
+                29,
+                3,
+                4
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc7Shop"
+    },
+    {
+        "ShopId": 402,
+        "GroupName": "ui.DLC_fomer_shop1",
+        "StartTime": "[202509040400]",
+        "EndTime": "[202509250400]",
+        "EnterStartTime": "[202509040400]",
+        "CloseEndTime": "[202509250400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                15,
+                3
+            ],
+            [
+                5,
+                29,
+                15,
+                4
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc3Shop"
+    },
+    {
+        "ShopId": 403,
+        "GroupName": "ui.DLC_fomer_shop1",
+        "StartTime": "[202511200400]",
+        "EndTime": "[202512180400]",
+        "EnterStartTime": "[202511200400]",
+        "CloseEndTime": "[202512180400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                17,
+                3
+            ],
+            [
+                5,
+                29,
+                17,
+                4
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc11Shop"
+    },
+    {
+        "ShopId": 404,
+        "GroupName": "ui.DLC_fomer_shop1",
+        "StartTime": "[202603120400]",
+        "EndTime": "[202604230400]",
+        "EnterStartTime": "[202603120400]",
+        "CloseEndTime": "[202604230400]",
+        "Columns": 99,
+        "Condition": "",
+        "ShopMoneyType": [
+            [
+                5,
+                29,
+                20,
+                3
+            ],
+            [
+                5,
+                29,
+                20,
+                4
+            ]
+        ],
+        "Sort": 1,
+        "Version": 1,
+        "Coverage": "",
+        "JumpUI": "Dlc26Shop"
+    }
+]

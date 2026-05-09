@@ -1,0 +1,138 @@
+[
+    {
+        "Id": 1,
+        "LangName": "playername",
+        "Scale": [
+            1.2,
+            1.2,
+            1.2
+        ],
+        "IconId": "chess.347",
+        "Image": "chess.320",
+        "ImageMessage": "chess.350",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3_role/BP_npc405_q.BP_npc405_q_C",
+        "Ability": 1,
+        "Param1": 5,
+        "Param2": "",
+        "AbilityDes": "season_item.TxtSkill1"
+    },
+    {
+        "Id": 2,
+        "LangName": "role.role_chapter_11211",
+        "Scale": [
+            1.2,
+            1.2,
+            1.2
+        ],
+        "IconId": "chess.344",
+        "Image": "chess.321",
+        "ImageMessage": "chess.351",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3_role/BP_girl012a_02_q.BP_girl012a_02_q_C",
+        "Ability": 4,
+        "Param1": "[3001,3006,3007]",
+        "Param2": 20,
+        "AbilityDes": "season_item.TxtSkill5"
+    },
+    {
+        "Id": 3,
+        "LangName": "role.role_chapter_11411",
+        "Scale": [
+            1.2,
+            1.2,
+            1.2
+        ],
+        "IconId": "chess.346",
+        "Image": "chess.322",
+        "ImageMessage": "chess.352",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3_role/BP_girl014a_03_q.BP_girl014a_03_q_C",
+        "Ability": 6,
+        "Param1": 0.2,
+        "Param2": "",
+        "AbilityDes": "season_item.TxtSkill7"
+    },
+    {
+        "Id": 4,
+        "LangName": "role.role_chapter_10411",
+        "Scale": [
+            1.2,
+            1.2,
+            1.2
+        ],
+        "IconId": "chess.342",
+        "Image": "chess.323",
+        "ImageMessage": "chess.353",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3_role/BP_girl004_02_q.BP_girl004_02_q_C",
+        "Ability": 4,
+        "Param1": "[3001,3006,3007]",
+        "Param2": 20,
+        "AbilityDes": "season_item.TxtSkill4"
+    },
+    {
+        "Id": 5,
+        "LangName": "role.role_chapter_10111",
+        "Scale": [
+            1.2,
+            1.2,
+            1.2
+        ],
+        "IconId": "chess.341",
+        "Image": "chess.324",
+        "ImageMessage": "chess.354",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3_role/BP_girl001_02_q.BP_girl001_02_q_C",
+        "Ability": 2,
+        "Param1": "",
+        "Param2": "",
+        "AbilityDes": "season_item.TxtSkill2"
+    },
+    {
+        "Id": 6,
+        "LangName": "plotrolename.Chara.221",
+        "Scale": [
+            1.2,
+            1.2,
+            1.2
+        ],
+        "IconId": "chess.340",
+        "Image": "chess.325",
+        "ImageMessage": "chess.355",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3_role/BP_boss302_q.BP_boss302_q_C",
+        "Ability": 7,
+        "Param1": 1,
+        "Param2": 0.2,
+        "AbilityDes": "season_item.TxtSkill8"
+    },
+    {
+        "Id": 7,
+        "LangName": "role.role_chapter_11111",
+        "Scale": [
+            1.2,
+            1.2,
+            1.2
+        ],
+        "IconId": "chess.343",
+        "Image": "chess.326",
+        "ImageMessage": "chess.356",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3_role/BP_girl011_02_q.BP_girl011_02_q_C",
+        "Ability": 5,
+        "Param1": 1,
+        "Param2": "",
+        "AbilityDes": "season_item.TxtSkill6"
+    },
+    {
+        "Id": 8,
+        "LangName": "plotrolename.Chara.13",
+        "Scale": [
+            1.2,
+            1.2,
+            1.2
+        ],
+        "IconId": "chess.345",
+        "Image": "chess.327",
+        "ImageMessage": "chess.357",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3_role/BP_girl013_02_q.BP_girl013_02_q_C",
+        "Ability": 3,
+        "Param1": "[2101,2102,2103]",
+        "Param2": 1,
+        "AbilityDes": "season_item.TxtSkill3"
+    }
+]

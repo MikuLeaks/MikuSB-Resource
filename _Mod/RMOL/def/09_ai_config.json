@@ -1,0 +1,296 @@
+[
+    {
+        "Id": 0,
+        "Nul": "参考配置",
+        "Double1": 40,
+        "Double2": 40,
+        "Double3": 40,
+        "ToIsland": 0,
+        "ToShop": 0,
+        "ToTravel": 0,
+        "ToStart": 0,
+        "ActiveSkillRate": 100,
+        "PassiveRate": 100,
+        "Buy1": [
+            2,
+            100
+        ],
+        "Buy2": [
+            2,
+            100
+        ],
+        "Buy3": [
+            2,
+            100
+        ],
+        "Purchase": [
+            2,
+            100
+        ],
+        "Upgrade": [
+            2,
+            100
+        ],
+        "Escape": [
+            2,
+            100
+        ],
+        "Shop": [
+            2,
+            100
+        ],
+        "Explain": "1.{2,100}表示资金超过价格2倍，有100概率执行;"
+    },
+    {
+        "Id": "2.购买时，优先检查检测3级地产，其次2级，1级"
+    },
+    {
+        "Id": "3.走到无人岛等4项表示投掷到点数区间时，优先判断要不要直接走到某个点"
+    },
+    {
+        "Id": 1,
+        "Nul": "默认AI",
+        "Double1": 40,
+        "Double2": 40,
+        "Double3": 40,
+        "ToIsland": -1.0,
+        "ToShop": -1.0,
+        "ToTravel": -1.0,
+        "ToStart": -1.0,
+        "ActiveSkillRate": 100,
+        "PassiveRate": 100,
+        "Buy1": [
+            1.2,
+            100
+        ],
+        "Buy2": [
+            1.2,
+            100
+        ],
+        "Buy3": [
+            1.2,
+            100
+        ],
+        "Purchase": [
+            1.2,
+            100
+        ],
+        "Upgrade": [
+            1.2,
+            100
+        ],
+        "Escape": [
+            1.5,
+            100
+        ],
+        "Shop": [
+            3,
+            100
+        ]
+    },
+    {
+        "Id": 2,
+        "Nul": "放水AI",
+        "Double1": 25,
+        "Double2": 10,
+        "Double3": 80,
+        "ToIsland": 75,
+        "ToShop": 0,
+        "ToTravel": 0,
+        "ToStart": 0,
+        "ActiveSkillRate": 50,
+        "PassiveRate": 50,
+        "Buy1": [
+            1.1,
+            100
+        ],
+        "Buy2": [
+            1.5,
+            100
+        ],
+        "Buy3": [
+            1.5,
+            50
+        ],
+        "Purchase": [
+            1.5,
+            0
+        ],
+        "Upgrade": [
+            1.5,
+            80
+        ],
+        "Escape": [
+            1.5,
+            20
+        ],
+        "Shop": [
+            1.2,
+            100
+        ]
+    },
+    {
+        "Id": 3,
+        "Nul": "开挂AI",
+        "Double1": 90,
+        "Double2": 90,
+        "Double3": 0,
+        "ToIsland": 0,
+        "ToShop": -1.0,
+        "ToTravel": -1.0,
+        "ToStart": 50,
+        "ActiveSkillRate": 100,
+        "PassiveRate": 100,
+        "Buy1": [
+            1.1,
+            100
+        ],
+        "Buy2": [
+            1.1,
+            100
+        ],
+        "Buy3": [
+            1.1,
+            100
+        ],
+        "Purchase": [
+            1.1,
+            100
+        ],
+        "Upgrade": [
+            1.1,
+            100
+        ],
+        "Escape": [
+            1.5,
+            100
+        ],
+        "Shop": [
+            3,
+            100
+        ]
+    },
+    {
+        "Id": 4,
+        "Nul": "引导AI",
+        "Double1": 40,
+        "Double2": 40,
+        "Double3": 40,
+        "ToIsland": -1.0,
+        "ToShop": -1.0,
+        "ToTravel": -1.0,
+        "ToStart": -1.0,
+        "ActiveSkillRate": 100,
+        "PassiveRate": 100,
+        "Buy1": [
+            1,
+            100
+        ],
+        "Buy2": [
+            1,
+            100
+        ],
+        "Buy3": [
+            1,
+            100
+        ],
+        "Purchase": [
+            1,
+            100
+        ],
+        "Upgrade": [
+            1,
+            100
+        ],
+        "Escape": [
+            1.5,
+            100
+        ],
+        "Shop": [
+            3,
+            100
+        ]
+    },
+    {
+        "Id": 5,
+        "Nul": "玩家AI-挑战关",
+        "Double1": 65,
+        "Double2": 65,
+        "Double3": 30,
+        "ToIsland": -1.0,
+        "ToShop": -1.0,
+        "ToTravel": -1.0,
+        "ToStart": -1.0,
+        "ActiveSkillRate": 100,
+        "PassiveRate": 100,
+        "Buy1": [
+            1.2,
+            100
+        ],
+        "Buy2": [
+            1.2,
+            100
+        ],
+        "Buy3": [
+            1.2,
+            100
+        ],
+        "Purchase": [
+            1.2,
+            100
+        ],
+        "Upgrade": [
+            1.2,
+            100
+        ],
+        "Escape": [
+            2,
+            100
+        ],
+        "Shop": [
+            3,
+            100
+        ]
+    },
+    {
+        "Id": 6,
+        "Nul": "放水plus",
+        "Double1": 0,
+        "Double2": 0,
+        "Double3": 100,
+        "ToIsland": 100,
+        "ToShop": 0,
+        "ToTravel": 0,
+        "ToStart": 0,
+        "ActiveSkillRate": 0,
+        "PassiveRate": 0,
+        "Buy1": [
+            1.1,
+            0
+        ],
+        "Buy2": [
+            1.5,
+            0
+        ],
+        "Buy3": [
+            1.5,
+            0
+        ],
+        "Purchase": [
+            1.5,
+            0
+        ],
+        "Upgrade": [
+            1.5,
+            0
+        ],
+        "Escape": [
+            1.5,
+            0
+        ],
+        "Shop": [
+            1.2,
+            0
+        ]
+    }
+]

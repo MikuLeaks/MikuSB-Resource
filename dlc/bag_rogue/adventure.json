@@ -1,0 +1,3327 @@
+[
+    {
+        "GroupId": 101,
+        "Id": 1011,
+        "Weight": 10000,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            1,
+            2
+        ]
+    },
+    {
+        "GroupId": 102,
+        "Id": 1021,
+        "Weight": 10000,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            2
+        ]
+    },
+    {
+        "GroupId": 103,
+        "Id": 1031,
+        "Weight": 10000,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            3
+        ]
+    },
+    {
+        "GroupId": 104,
+        "Id": 1041,
+        "Weight": 10000,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            3
+        ]
+    },
+    {
+        "GroupId": 111,
+        "Id": 1111,
+        "Weight": 3300,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            80
+        ]
+    },
+    {
+        "GroupId": 111,
+        "Id": 1112,
+        "Weight": 3300,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            85
+        ]
+    },
+    {
+        "GroupId": 111,
+        "Id": 1113,
+        "Weight": 3400,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            90
+        ]
+    },
+    {
+        "GroupId": 112,
+        "Id": 1121,
+        "Weight": 3300,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            110
+        ]
+    },
+    {
+        "GroupId": 112,
+        "Id": 1122,
+        "Weight": 3300,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            115
+        ]
+    },
+    {
+        "GroupId": 112,
+        "Id": 1123,
+        "Weight": 3400,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            120
+        ]
+    },
+    {
+        "GroupId": 113,
+        "Id": 1131,
+        "Weight": 3300,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            120
+        ]
+    },
+    {
+        "GroupId": 113,
+        "Id": 1132,
+        "Weight": 3300,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            135
+        ]
+    },
+    {
+        "GroupId": 113,
+        "Id": 1133,
+        "Weight": 3400,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            140
+        ]
+    },
+    {
+        "GroupId": 114,
+        "Id": 1141,
+        "Weight": 3300,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            180
+        ]
+    },
+    {
+        "GroupId": 114,
+        "Id": 1142,
+        "Weight": 3300,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            185
+        ]
+    },
+    {
+        "GroupId": 114,
+        "Id": 1143,
+        "Weight": 3400,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            190
+        ]
+    },
+    {
+        "GroupId": 121,
+        "Id": 1211,
+        "Weight": 10000,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            10
+        ]
+    },
+    {
+        "GroupId": 122,
+        "Id": 1221,
+        "Weight": 10000,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            12
+        ]
+    },
+    {
+        "GroupId": 123,
+        "Id": 1231,
+        "Weight": 10000,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            6
+        ]
+    },
+    {
+        "GroupId": 124,
+        "Id": 1241,
+        "Weight": 10000,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            8
+        ]
+    },
+    {
+        "GroupId": 131,
+        "Id": 1311,
+        "Weight": 1660,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            150
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 131,
+        "Id": 1312,
+        "Weight": 1660,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            150
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 131,
+        "Id": 1313,
+        "Weight": 1660,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            150
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 131,
+        "Id": 1314,
+        "Weight": 1660,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            150
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 131,
+        "Id": 1315,
+        "Weight": 1660,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            150
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 131,
+        "Id": 1316,
+        "Weight": 1700,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            150
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 131,
+        "Id": 1317,
+        "Weight": 1660,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            2
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 131,
+        "Id": 1318,
+        "Weight": 1660,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            2
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 131,
+        "Id": 1319,
+        "Weight": 1660,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            2
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 131,
+        "Id": 1320,
+        "Weight": 1660,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            2
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 131,
+        "Id": 1321,
+        "Weight": 1660,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            2
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 131,
+        "Id": 1322,
+        "Weight": 1700,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            2
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 131,
+        "Id": 1323,
+        "Weight": 1660,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            8
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 131,
+        "Id": 1324,
+        "Weight": 1660,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            8
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 131,
+        "Id": 1325,
+        "Weight": 1660,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            8
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 131,
+        "Id": 1326,
+        "Weight": 1660,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            8
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 131,
+        "Id": 1327,
+        "Weight": 1660,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            8
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 131,
+        "Id": 1328,
+        "Weight": 1700,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            8
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 141,
+        "Id": 1411,
+        "Weight": 560,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            200
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 141,
+        "Id": 1412,
+        "Weight": 560,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            200
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 141,
+        "Id": 1413,
+        "Weight": 560,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            200
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 141,
+        "Id": 1414,
+        "Weight": 560,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            200
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 141,
+        "Id": 1415,
+        "Weight": 560,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            200
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 141,
+        "Id": 1416,
+        "Weight": 560,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            200
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 141,
+        "Id": 1417,
+        "Weight": 560,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            3
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 141,
+        "Id": 1418,
+        "Weight": 560,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            3
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 141,
+        "Id": 1419,
+        "Weight": 560,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            3
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 141,
+        "Id": 1420,
+        "Weight": 560,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            3
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 141,
+        "Id": 1421,
+        "Weight": 560,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            3
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 141,
+        "Id": 1422,
+        "Weight": 540,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            3
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 141,
+        "Id": 1423,
+        "Weight": 550,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            9
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 141,
+        "Id": 1424,
+        "Weight": 550,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            9
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 141,
+        "Id": 1425,
+        "Weight": 550,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            9
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 141,
+        "Id": 1426,
+        "Weight": 550,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            9
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 141,
+        "Id": 1427,
+        "Weight": 550,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            9
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 141,
+        "Id": 1428,
+        "Weight": 550,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            9
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 151,
+        "Id": 1511,
+        "Weight": 560,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            250
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 151,
+        "Id": 1512,
+        "Weight": 560,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            250
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 151,
+        "Id": 1513,
+        "Weight": 560,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            250
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 151,
+        "Id": 1514,
+        "Weight": 560,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            250
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 151,
+        "Id": 1515,
+        "Weight": 560,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            250
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 151,
+        "Id": 1516,
+        "Weight": 560,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            250
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 151,
+        "Id": 1517,
+        "Weight": 560,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            3
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 151,
+        "Id": 1518,
+        "Weight": 560,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            3
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 151,
+        "Id": 1519,
+        "Weight": 560,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            3
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 151,
+        "Id": 1520,
+        "Weight": 560,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            3
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 151,
+        "Id": 1521,
+        "Weight": 560,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            3
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 151,
+        "Id": 1522,
+        "Weight": 540,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            3
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 151,
+        "Id": 1523,
+        "Weight": 550,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            10
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 151,
+        "Id": 1524,
+        "Weight": 550,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            10
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 151,
+        "Id": 1525,
+        "Weight": 550,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            10
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 151,
+        "Id": 1526,
+        "Weight": 550,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            10
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 151,
+        "Id": 1527,
+        "Weight": 550,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            10
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 151,
+        "Id": 1528,
+        "Weight": 550,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            10
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 161,
+        "Id": 1611,
+        "Weight": 560,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            300
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 161,
+        "Id": 1612,
+        "Weight": 560,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            300
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 161,
+        "Id": 1613,
+        "Weight": 560,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            300
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 161,
+        "Id": 1614,
+        "Weight": 560,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            300
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 161,
+        "Id": 1615,
+        "Weight": 560,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            300
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 161,
+        "Id": 1616,
+        "Weight": 560,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            300
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 161,
+        "Id": 1617,
+        "Weight": 560,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            4
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 161,
+        "Id": 1618,
+        "Weight": 560,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            4
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 161,
+        "Id": 1619,
+        "Weight": 560,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            4
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 161,
+        "Id": 1620,
+        "Weight": 560,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            4
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 161,
+        "Id": 1621,
+        "Weight": 560,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            4
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 161,
+        "Id": 1622,
+        "Weight": 540,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            4
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 161,
+        "Id": 1623,
+        "Weight": 550,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            12
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 161,
+        "Id": 1624,
+        "Weight": 550,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            12
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 161,
+        "Id": 1625,
+        "Weight": 550,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            12
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 161,
+        "Id": 1626,
+        "Weight": 550,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            12
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 161,
+        "Id": 1627,
+        "Weight": 550,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            12
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 161,
+        "Id": 1628,
+        "Weight": 550,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            12
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 201,
+        "Id": 2011,
+        "Weight": 10000,
+        "EventName": "bagrogue.StoryEvent1_1",
+        "OptionName": "bagrogue.StoryOption1_1",
+        "OptionDesc": "bagrogue.StoryDes1_1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            150
+        ]
+    },
+    {
+        "GroupId": 202,
+        "Id": 2021,
+        "Weight": 10000,
+        "EventName": "bagrogue.StoryEvent1_2",
+        "OptionName": "bagrogue.StoryOption1_2",
+        "OptionDesc": "bagrogue.StoryDes1_2",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            180
+        ]
+    },
+    {
+        "GroupId": 203,
+        "Id": 2031,
+        "Weight": 10000,
+        "EventName": "bagrogue.StoryEvent1_3",
+        "OptionName": "bagrogue.StoryOption1_3",
+        "OptionDesc": "bagrogue.StoryDes1_3",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            10
+        ]
+    },
+    {
+        "GroupId": 211,
+        "Id": 2111,
+        "Weight": 10000,
+        "EventName": "bagrogue.StoryEvent2_1",
+        "OptionName": "bagrogue.StoryOption2_1",
+        "OptionDesc": "bagrogue.StoryDes2_1",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            10
+        ]
+    },
+    {
+        "GroupId": 212,
+        "Id": 2121,
+        "Weight": 10000,
+        "EventName": "bagrogue.StoryEvent2_2",
+        "OptionName": "bagrogue.StoryOption2_2",
+        "OptionDesc": "bagrogue.StoryDes2_2",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            180
+        ]
+    },
+    {
+        "GroupId": 213,
+        "Id": 2131,
+        "Weight": 10000,
+        "EventName": "bagrogue.StoryEvent2_3",
+        "OptionName": "bagrogue.StoryOption2_3",
+        "OptionDesc": "bagrogue.StoryDes2_3",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            12
+        ]
+    },
+    {
+        "GroupId": 221,
+        "Id": 2211,
+        "Weight": 10000,
+        "EventName": "bagrogue.StoryEvent3_1",
+        "OptionName": "bagrogue.StoryOption3_1",
+        "OptionDesc": "bagrogue.StoryDes3_1",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            6
+        ]
+    },
+    {
+        "GroupId": 222,
+        "Id": 2221,
+        "Weight": 10000,
+        "EventName": "bagrogue.StoryEvent3_2",
+        "OptionName": "bagrogue.StoryOption3_2",
+        "OptionDesc": "bagrogue.StoryDes3_2",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            250
+        ]
+    },
+    {
+        "GroupId": 223,
+        "Id": 2231,
+        "Weight": 10000,
+        "EventName": "bagrogue.StoryEvent3_3",
+        "OptionName": "bagrogue.StoryOption3_3",
+        "OptionDesc": "bagrogue.StoryDes3_3",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            300
+        ]
+    },
+    {
+        "GroupId": 231,
+        "Id": 2311,
+        "Weight": 10000,
+        "EventName": "bagrogue.StoryEvent4_1",
+        "OptionName": "bagrogue.StoryOption4_1",
+        "OptionDesc": "bagrogue.StoryDes4_1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            250
+        ]
+    },
+    {
+        "GroupId": 232,
+        "Id": 2321,
+        "Weight": 10000,
+        "EventName": "bagrogue.StoryEvent4_2",
+        "OptionName": "bagrogue.StoryOption4_2",
+        "OptionDesc": "bagrogue.StoryDes4_2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            8
+        ]
+    },
+    {
+        "GroupId": 233,
+        "Id": 2331,
+        "Weight": 10000,
+        "EventName": "bagrogue.StoryEvent4_3",
+        "OptionName": "bagrogue.StoryOption4_3",
+        "OptionDesc": "bagrogue.StoryDes4_3",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            350
+        ]
+    },
+    {
+        "GroupId": 301,
+        "Id": 3011,
+        "Weight": 3500,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            1,
+            2
+        ]
+    },
+    {
+        "GroupId": 301,
+        "Id": 3012,
+        "Weight": 500,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            80
+        ]
+    },
+    {
+        "GroupId": 301,
+        "Id": 3013,
+        "Weight": 500,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            85
+        ]
+    },
+    {
+        "GroupId": 301,
+        "Id": 3014,
+        "Weight": 500,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            90
+        ]
+    },
+    {
+        "GroupId": 301,
+        "Id": 3015,
+        "Weight": 1500,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            5
+        ]
+    },
+    {
+        "GroupId": 301,
+        "Id": 3016,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            150
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 301,
+        "Id": 3017,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            150
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 301,
+        "Id": 3018,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            150
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 301,
+        "Id": 3019,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            150
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 301,
+        "Id": 3020,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            150
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 301,
+        "Id": 3021,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            150
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 301,
+        "Id": 3022,
+        "Weight": 250,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            7
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 301,
+        "Id": 3023,
+        "Weight": 250,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            7
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 301,
+        "Id": 3024,
+        "Weight": 250,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            7
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 301,
+        "Id": 3025,
+        "Weight": 250,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            7
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 301,
+        "Id": 3026,
+        "Weight": 250,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            7
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 301,
+        "Id": 3027,
+        "Weight": 250,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            7
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 301,
+        "Id": 3028,
+        "Weight": 166,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            2
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 301,
+        "Id": 3029,
+        "Weight": 166,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            2
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 301,
+        "Id": 3030,
+        "Weight": 166,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            2
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 301,
+        "Id": 3031,
+        "Weight": 166,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            2
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 301,
+        "Id": 3032,
+        "Weight": 166,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            2
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 301,
+        "Id": 3033,
+        "Weight": 166,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            2
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 311,
+        "Id": 3111,
+        "Weight": 3500,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            2
+        ]
+    },
+    {
+        "GroupId": 311,
+        "Id": 3112,
+        "Weight": 500,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            120
+        ]
+    },
+    {
+        "GroupId": 311,
+        "Id": 3113,
+        "Weight": 500,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            125
+        ]
+    },
+    {
+        "GroupId": 311,
+        "Id": 3114,
+        "Weight": 500,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            130
+        ]
+    },
+    {
+        "GroupId": 311,
+        "Id": 3115,
+        "Weight": 1500,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            6
+        ]
+    },
+    {
+        "GroupId": 311,
+        "Id": 3116,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            200
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 311,
+        "Id": 3117,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            200
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 311,
+        "Id": 3118,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            200
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 311,
+        "Id": 3119,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            200
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 311,
+        "Id": 3120,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            200
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 311,
+        "Id": 3121,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            200
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 311,
+        "Id": 3122,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            8
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 311,
+        "Id": 3123,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            8
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 311,
+        "Id": 3124,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            8
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 311,
+        "Id": 3125,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            8
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 311,
+        "Id": 3126,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            8
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 311,
+        "Id": 3127,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            8
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 311,
+        "Id": 3128,
+        "Weight": 250,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            3
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 311,
+        "Id": 3129,
+        "Weight": 250,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            3
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 311,
+        "Id": 3130,
+        "Weight": 250,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            3
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 311,
+        "Id": 3131,
+        "Weight": 250,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            3
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 311,
+        "Id": 3132,
+        "Weight": 250,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            3
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 311,
+        "Id": 3133,
+        "Weight": 250,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            3
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 321,
+        "Id": 3211,
+        "Weight": 3500,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            2
+        ]
+    },
+    {
+        "GroupId": 321,
+        "Id": 3212,
+        "Weight": 500,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            160
+        ]
+    },
+    {
+        "GroupId": 321,
+        "Id": 3213,
+        "Weight": 500,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            165
+        ]
+    },
+    {
+        "GroupId": 321,
+        "Id": 3214,
+        "Weight": 500,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            170
+        ]
+    },
+    {
+        "GroupId": 321,
+        "Id": 3215,
+        "Weight": 1500,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            8
+        ]
+    },
+    {
+        "GroupId": 321,
+        "Id": 3216,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            250
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 321,
+        "Id": 3217,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            250
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 321,
+        "Id": 3218,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            250
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 321,
+        "Id": 3219,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            250
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 321,
+        "Id": 3220,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            250
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 321,
+        "Id": 3221,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            250
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 321,
+        "Id": 3222,
+        "Weight": 250,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            10
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 321,
+        "Id": 3223,
+        "Weight": 250,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            10
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 321,
+        "Id": 3224,
+        "Weight": 250,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            10
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 321,
+        "Id": 3225,
+        "Weight": 250,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            10
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 321,
+        "Id": 3226,
+        "Weight": 250,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            10
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 321,
+        "Id": 3227,
+        "Weight": 250,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            10
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 321,
+        "Id": 3228,
+        "Weight": 166,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            3
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 321,
+        "Id": 3229,
+        "Weight": 166,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            3
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 321,
+        "Id": 3230,
+        "Weight": 166,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            3
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 321,
+        "Id": 3231,
+        "Weight": 166,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            3
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 321,
+        "Id": 3232,
+        "Weight": 166,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            3
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 321,
+        "Id": 3233,
+        "Weight": 166,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            3
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 331,
+        "Id": 3311,
+        "Weight": 3500,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            2
+        ]
+    },
+    {
+        "GroupId": 331,
+        "Id": 3312,
+        "Weight": 500,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            200
+        ]
+    },
+    {
+        "GroupId": 331,
+        "Id": 3313,
+        "Weight": 500,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            205
+        ]
+    },
+    {
+        "GroupId": 331,
+        "Id": 3314,
+        "Weight": 500,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            210
+        ]
+    },
+    {
+        "GroupId": 331,
+        "Id": 3315,
+        "Weight": 1500,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            10
+        ]
+    },
+    {
+        "GroupId": 331,
+        "Id": 3316,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            300
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 331,
+        "Id": 3317,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            300
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 331,
+        "Id": 3318,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            300
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 331,
+        "Id": 3319,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            300
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 331,
+        "Id": 3320,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            300
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 331,
+        "Id": 3321,
+        "Weight": 167,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            300
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 331,
+        "Id": 3322,
+        "Weight": 250,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            12
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 331,
+        "Id": 3323,
+        "Weight": 250,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            12
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 331,
+        "Id": 3324,
+        "Weight": 250,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            12
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 331,
+        "Id": 3325,
+        "Weight": 250,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            12
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 331,
+        "Id": 3326,
+        "Weight": 250,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            12
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 331,
+        "Id": 3327,
+        "Weight": 250,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            12
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 331,
+        "Id": 3328,
+        "Weight": 166,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            4
+        ],
+        "BuffId": 1
+    },
+    {
+        "GroupId": 331,
+        "Id": 3329,
+        "Weight": 166,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            4
+        ],
+        "BuffId": 2
+    },
+    {
+        "GroupId": 331,
+        "Id": 3330,
+        "Weight": 166,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            4
+        ],
+        "BuffId": 3
+    },
+    {
+        "GroupId": 331,
+        "Id": 3331,
+        "Weight": 166,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            4
+        ],
+        "BuffId": 4
+    },
+    {
+        "GroupId": 331,
+        "Id": 3332,
+        "Weight": 166,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            4
+        ],
+        "BuffId": 5
+    },
+    {
+        "GroupId": 331,
+        "Id": 3333,
+        "Weight": 166,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            4
+        ],
+        "BuffId": 6
+    },
+    {
+        "GroupId": 401,
+        "Id": 4011,
+        "Weight": 4000,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            2
+        ]
+    },
+    {
+        "GroupId": 401,
+        "Id": 4012,
+        "Weight": 3000,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            120
+        ]
+    },
+    {
+        "GroupId": 401,
+        "Id": 4013,
+        "Weight": 3000,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            7
+        ]
+    },
+    {
+        "GroupId": 411,
+        "Id": 4111,
+        "Weight": 4000,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            3
+        ]
+    },
+    {
+        "GroupId": 411,
+        "Id": 4112,
+        "Weight": 3000,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            160
+        ]
+    },
+    {
+        "GroupId": 411,
+        "Id": 4113,
+        "Weight": 3000,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            8
+        ]
+    },
+    {
+        "GroupId": 421,
+        "Id": 4211,
+        "Weight": 4000,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            3
+        ]
+    },
+    {
+        "GroupId": 421,
+        "Id": 4212,
+        "Weight": 3000,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            200
+        ]
+    },
+    {
+        "GroupId": 421,
+        "Id": 4213,
+        "Weight": 3000,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            9
+        ]
+    },
+    {
+        "GroupId": 431,
+        "Id": 4311,
+        "Weight": 10000,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            4
+        ]
+    },
+    {
+        "GroupId": 431,
+        "Id": 4312,
+        "Weight": 3000,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            250
+        ]
+    },
+    {
+        "GroupId": 431,
+        "Id": 4313,
+        "Weight": 3000,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            10
+        ]
+    },
+    {
+        "GroupId": 501,
+        "Id": 5011,
+        "Weight": 4000,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            2,
+            3
+        ]
+    },
+    {
+        "GroupId": 501,
+        "Id": 5012,
+        "Weight": 3000,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            160
+        ]
+    },
+    {
+        "GroupId": 501,
+        "Id": 5013,
+        "Weight": 3000,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            8
+        ]
+    },
+    {
+        "GroupId": 511,
+        "Id": 5111,
+        "Weight": 4000,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            3
+        ]
+    },
+    {
+        "GroupId": 511,
+        "Id": 5112,
+        "Weight": 3000,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            200
+        ]
+    },
+    {
+        "GroupId": 511,
+        "Id": 5113,
+        "Weight": 3000,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            9
+        ]
+    },
+    {
+        "GroupId": 521,
+        "Id": 5211,
+        "Weight": 4000,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            3,
+            4
+        ]
+    },
+    {
+        "GroupId": 521,
+        "Id": 5212,
+        "Weight": 3000,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            250
+        ]
+    },
+    {
+        "GroupId": 521,
+        "Id": 5213,
+        "Weight": 3000,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            10
+        ]
+    },
+    {
+        "GroupId": 531,
+        "Id": 5311,
+        "Weight": 10000,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 1,
+        "Option": [
+            4,
+            4
+        ]
+    },
+    {
+        "GroupId": 531,
+        "Id": 5312,
+        "Weight": 3000,
+        "EventName": "bagrogue.CommonEvent1",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.CommonDes1",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            300
+        ]
+    },
+    {
+        "GroupId": 531,
+        "Id": 5313,
+        "Weight": 3000,
+        "EventName": "bagrogue.CommonEvent2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.CommonDes2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            12
+        ]
+    },
+    {
+        "GroupId": 601,
+        "Id": 6011,
+        "Weight": 4000,
+        "EventName": "bagrogue.RoadoOption2",
+        "OptionName": "bagrogue.RoadoOption2",
+        "OptionDesc": "bagrogue.RoadoDes1",
+        "OptionIcon": "",
+        "OptionType": 4,
+        "Option": [
+            221
+        ]
+    },
+    {
+        "GroupId": 601,
+        "Id": 6012,
+        "Weight": 4000,
+        "EventName": "bagrogue.RoadoOption2",
+        "OptionName": "bagrogue.RoadoOption2",
+        "OptionDesc": "bagrogue.RoadoDes2",
+        "OptionIcon": "",
+        "OptionType": 4,
+        "Option": [
+            221
+        ]
+    },
+    {
+        "GroupId": 602,
+        "Id": 6021,
+        "Weight": 4000,
+        "EventName": "bagrogue.RoadoOption3",
+        "OptionName": "bagrogue.RoadoOption3",
+        "OptionDesc": "bagrogue.RoadoDes3",
+        "OptionIcon": "",
+        "OptionType": 4,
+        "Option": [
+            222
+        ]
+    },
+    {
+        "GroupId": 602,
+        "Id": 6022,
+        "Weight": 4000,
+        "EventName": "bagrogue.RoadoOption3",
+        "OptionName": "bagrogue.RoadoOption3",
+        "OptionDesc": "bagrogue.RoadoDes4",
+        "OptionIcon": "",
+        "OptionType": 4,
+        "Option": [
+            222
+        ]
+    },
+    {
+        "GroupId": 603,
+        "Id": 6031,
+        "Weight": 4000,
+        "EventName": "bagrogue.RoadoOption4",
+        "OptionName": "bagrogue.RoadoOption4",
+        "OptionDesc": "bagrogue.RoadoDes5",
+        "OptionIcon": "",
+        "OptionType": 4,
+        "Option": [
+            231
+        ]
+    },
+    {
+        "GroupId": 604,
+        "Id": 6041,
+        "Weight": 4000,
+        "EventName": "bagrogue.RoadoOption4",
+        "OptionName": "bagrogue.RoadoOption4",
+        "OptionDesc": "bagrogue.RoadoDes5",
+        "OptionIcon": "",
+        "OptionType": 4,
+        "Option": [
+            232
+        ]
+    },
+    {
+        "GroupId": 301,
+        "Id": 3034,
+        "Weight": 500,
+        "EventName": "bagrogue.CommonEvent3",
+        "OptionName": "bagrogue.CommonOption3",
+        "OptionDesc": "bagrogue.CommonDes3",
+        "OptionIcon": 110010651,
+        "OptionType": 5,
+        "Option": [
+            1
+        ]
+    },
+    {
+        "GroupId": 311,
+        "Id": 3134,
+        "Weight": 500,
+        "EventName": "bagrogue.CommonEvent3",
+        "OptionName": "bagrogue.CommonOption3",
+        "OptionDesc": "bagrogue.CommonDes3",
+        "OptionIcon": 110010651,
+        "OptionType": 5,
+        "Option": [
+            1
+        ]
+    },
+    {
+        "GroupId": 321,
+        "Id": 3234,
+        "Weight": 300,
+        "EventName": "bagrogue.CommonEvent3",
+        "OptionName": "bagrogue.CommonOption3",
+        "OptionDesc": "bagrogue.CommonDes3",
+        "OptionIcon": 110010651,
+        "OptionType": 5,
+        "Option": [
+            2
+        ]
+    },
+    {
+        "GroupId": 701,
+        "Id": 7011,
+        "Weight": 4000,
+        "EventName": "bagrogue.StoryEvent5_1",
+        "OptionName": "bagrogue.CommonOption3",
+        "OptionDesc": "bagrogue.StoryDes5_1",
+        "OptionIcon": 110010651,
+        "OptionType": 5,
+        "Option": [
+            1
+        ]
+    },
+    {
+        "GroupId": 702,
+        "Id": 7021,
+        "Weight": 10000,
+        "EventName": "bagrogue.StoryEvent5_2",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.StoryDes5_2",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            10
+        ]
+    },
+    {
+        "GroupId": 703,
+        "Id": 7031,
+        "Weight": 4000,
+        "EventName": "bagrogue.StoryEvent5_3",
+        "OptionName": "bagrogue.CommonOption2",
+        "OptionDesc": "bagrogue.StoryDes5_3",
+        "OptionIcon": 1001295,
+        "OptionType": 3,
+        "Option": [
+            12
+        ],
+        "BuffId": "",
+        "UnlockEnding": [
+            1
+        ]
+    },
+    {
+        "GroupId": 711,
+        "Id": 7111,
+        "Weight": 4000,
+        "EventName": "bagrogue.StoryEvent6_1",
+        "OptionName": "bagrogue.CommonOption3",
+        "OptionDesc": "bagrogue.StoryDes6_1",
+        "OptionIcon": 110010651,
+        "OptionType": 5,
+        "Option": [
+            1
+        ]
+    },
+    {
+        "GroupId": 712,
+        "Id": 7121,
+        "Weight": 10000,
+        "EventName": "bagrogue.StoryEvent6_2",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.StoryDes6_2",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            150
+        ]
+    },
+    {
+        "GroupId": 713,
+        "Id": 7131,
+        "Weight": 4000,
+        "EventName": "bagrogue.StoryEvent6_3",
+        "OptionName": "bagrogue.CommonOption1",
+        "OptionDesc": "bagrogue.StoryDes6_3",
+        "OptionIcon": 110010331,
+        "OptionType": 2,
+        "Option": [
+            360
+        ],
+        "BuffId": "",
+        "UnlockEnding": [
+            2
+        ]
+    },
+    {
+        "GroupId": 901,
+        "Id": 9011,
+        "Weight": 4000,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 6,
+        "Option": [
+            [
+                3,
+                3
+            ],
+            1
+        ]
+    },
+    {
+        "GroupId": 902,
+        "Id": 9021,
+        "Weight": 4000,
+        "EventName": "",
+        "OptionName": "",
+        "OptionDesc": "",
+        "OptionIcon": "",
+        "OptionType": 6,
+        "Option": [
+            [
+                4,
+                4
+            ],
+            1
+        ]
+    },
+    {
+        "GroupId": 1001,
+        "Id": 10011,
+        "Weight": 4000,
+        "EventName": "bagrogue.FinishNodeOption1",
+        "OptionName": "bagrogue.FinishNodeOption1",
+        "OptionDesc": "bagrogue.FinishNodeDes1",
+        "OptionIcon": 1001244,
+        "OptionType": 7
+    },
+    {
+        "GroupId": 1002,
+        "Id": 10021,
+        "Weight": 4000,
+        "EventName": "bagrogue.FinishNodeOption2",
+        "OptionName": "bagrogue.FinishNodeOption2",
+        "OptionDesc": "bagrogue.FinishNodeDes2",
+        "OptionIcon": 1001245,
+        "OptionType": 8
+    }
+]

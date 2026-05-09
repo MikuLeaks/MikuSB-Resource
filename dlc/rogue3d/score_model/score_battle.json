@@ -1,0 +1,300 @@
+[
+    {
+        "ID": 1,
+        "Name": "rogue3.ScoreBattleName6",
+        "Type": 1,
+        "Icon": 1001540,
+        "SmallIcon": 1001539,
+        "FloorIcon": 1001532,
+        "OpenTime": "[202510160400]",
+        "CloseTime": "[202511060400]",
+        "LevelBuff": {
+            "5213": 1
+        },
+        "SuggestRole": {
+            "21": 1,
+            "4": 3,
+            "7": 2,
+            "18": 2
+        },
+        "SuggestBuff": [
+            2,
+            4,
+            11,
+            54,
+            55,
+            112,
+            124
+        ],
+        "ScoreList": 1,
+        "Level": 8476,
+        "CostVolume": 250
+    },
+    {
+        "ID": 2,
+        "Name": "rogue3.ScoreBattleName7",
+        "Type": 1,
+        "Icon": 1001536,
+        "SmallIcon": 1001535,
+        "FloorIcon": 1001532,
+        "OpenTime": "[202510190400]",
+        "CloseTime": "[202511060400]",
+        "LevelBuff": {
+            "5214": 1
+        },
+        "SuggestRole": {
+            "14": 3,
+            "18": 1,
+            "8": 2,
+            "10": 3
+        },
+        "SuggestBuff": [
+            2,
+            4,
+            11,
+            20,
+            54,
+            55,
+            107,
+            108,
+            124,
+            134
+        ],
+        "ScoreList": 2,
+        "Level": 8477,
+        "CostVolume": 250
+    },
+    {
+        "ID": 3,
+        "Name": "rogue3.ScoreBattleName8",
+        "Type": 1,
+        "Icon": 1001538,
+        "SmallIcon": 1001537,
+        "FloorIcon": 1001532,
+        "OpenTime": "[202510220400]",
+        "CloseTime": "[202511060400]",
+        "LevelBuff": {
+            "5215": 1
+        },
+        "SuggestRole": {
+            "11": 3,
+            "2": 3,
+            "22": 1,
+            "8": 3
+        },
+        "SuggestBuff": [
+            2,
+            4,
+            11,
+            31,
+            54,
+            55,
+            105,
+            110,
+            124,
+            130,
+            135,
+            138
+        ],
+        "ScoreList": 3,
+        "Level": 8478,
+        "CostVolume": 250
+    },
+    {
+        "ID": 4,
+        "Name": "rogue3.ScoreBattleName9",
+        "Type": 1,
+        "Icon": 1001542,
+        "SmallIcon": 1001541,
+        "FloorIcon": 1001532,
+        "OpenTime": "[202510250400]",
+        "CloseTime": "[202511060400]",
+        "LevelBuff": {
+            "5216": 1
+        },
+        "SuggestRole": {
+            "8": 4,
+            "15": 3,
+            "20": 1,
+            "13": 3
+        },
+        "SuggestBuff": [
+            2,
+            4,
+            11,
+            18,
+            54,
+            55,
+            70,
+            79,
+            104,
+            109,
+            111,
+            124,
+            140
+        ],
+        "ScoreList": 4,
+        "Level": 8479,
+        "CostVolume": 250
+    },
+    {
+        "ID": 5,
+        "Name": "rogue3.ScoreBattleName4",
+        "Type": 2,
+        "Icon": 1001374,
+        "SmallIcon": 1001379,
+        "FloorIcon": 1001530,
+        "OpenTime": "[202510160400]",
+        "CloseTime": "[202511060400]",
+        "LevelBuff": {
+            "5222": 1,
+            "5223": 1
+        },
+        "SuggestRole": {
+            "15": 3,
+            "21": 1,
+            "2": 3,
+            "8": 4,
+            "22": 1
+        },
+        "SuggestBuff": [
+            2,
+            4,
+            5,
+            11,
+            48,
+            50,
+            54,
+            55,
+            59,
+            124,
+            133,
+            134
+        ],
+        "ScoreList": 5,
+        "Level": 8482,
+        "CostVolume": 250
+    },
+    {
+        "ID": 6,
+        "Name": "rogue3.ScoreBattleName1",
+        "Type": 2,
+        "Icon": 1001371,
+        "SmallIcon": 1001376,
+        "FloorIcon": 1001530,
+        "OpenTime": "[202510190400]",
+        "CloseTime": "[202511060400]",
+        "LevelBuff": {
+            "5208": 1,
+            "5221": 1
+        },
+        "SuggestRole": {
+            "15": 3,
+            "4": 3,
+            "20": 1,
+            "2": 3,
+            "8": 3
+        },
+        "SuggestBuff": [
+            104,
+            105,
+            106,
+            107,
+            118
+        ],
+        "ScoreList": 6,
+        "Level": 8480,
+        "CostVolume": 250
+    },
+    {
+        "ID": 7,
+        "Name": "rogue3.ScoreBattleName2",
+        "Type": 2,
+        "Icon": 1001372,
+        "SmallIcon": 1001377,
+        "FloorIcon": 1001530,
+        "OpenTime": "[202510220400]",
+        "CloseTime": "[202511060400]",
+        "LevelBuff": {
+            "5217": 1,
+            "5218": 1
+        },
+        "SuggestRole": {
+            "11": 3,
+            "14": 3,
+            "18": 2,
+            "1": 2
+        },
+        "SuggestBuff": [
+            3,
+            11,
+            20,
+            50,
+            54,
+            57,
+            60,
+            81,
+            82,
+            83,
+            87,
+            92,
+            97,
+            100,
+            108,
+            112,
+            114,
+            123,
+            126,
+            128,
+            129
+        ],
+        "ScoreList": 7,
+        "Level": 8481,
+        "CostVolume": 250
+    },
+    {
+        "ID": 8,
+        "Name": "rogue3.ScoreBattleName5",
+        "Type": 2,
+        "Icon": 1001375,
+        "SmallIcon": 1001380,
+        "FloorIcon": 1001531,
+        "OpenTime": "[202510250400]",
+        "CloseTime": "[202511060400]",
+        "LevelBuff": {
+            "5217": 1,
+            "5211": 1,
+            "5221": 1,
+            "5223": 1
+        },
+        "SuggestRole": {
+            "15": 3,
+            "14": 3,
+            "18": 1,
+            "17": 2,
+            "16": 1
+        },
+        "SuggestBuff": [
+            11,
+            20,
+            54,
+            59,
+            95,
+            113,
+            114,
+            119,
+            133
+        ],
+        "ScoreList": "",
+        "Level": 8483,
+        "CostVolume": 250,
+        "Challenges": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    }
+]

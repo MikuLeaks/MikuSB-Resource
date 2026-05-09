@@ -1,0 +1,839 @@
+[
+    {
+        "ID": 1,
+        "Schedule": 1,
+        "BaseVegOrNot": 1,
+        "Name": "farmwar.farmwar_vegname_01",
+        "Des": "farmwar.farmwar_vegdes_01",
+        "Icon": 4810001,
+        "HP": "farmwar.farmwar_vegHP_01",
+        "ATK": "farmwar.farmwar_vegATK_01",
+        "AOE": "farmwar.farmwar_vegAOE_01",
+        "VegetablesID": 19000001
+    },
+    {
+        "ID": 2,
+        "Schedule": 1,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_02",
+        "Des": "farmwar.farmwar_vegdes_02",
+        "Icon": 4810011,
+        "HP": "farmwar.farmwar_vegHP_02",
+        "ATK": "farmwar.farmwar_vegATK_02",
+        "AOE": "farmwar.farmwar_vegAOE_02",
+        "VegetablesID": 19000002,
+        "UnlockCondition": {
+            "1": 8714
+        }
+    },
+    {
+        "ID": 3,
+        "Schedule": 1,
+        "BaseVegOrNot": 1,
+        "Name": "farmwar.farmwar_vegname_03",
+        "Des": "farmwar.farmwar_vegdes_03",
+        "Icon": 4810021,
+        "HP": "farmwar.farmwar_vegHP_03",
+        "ATK": "farmwar.farmwar_vegATK_03",
+        "AOE": "farmwar.farmwar_vegAOE_03",
+        "VegetablesID": 19000003
+    },
+    {
+        "ID": 4,
+        "Schedule": 1,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_04",
+        "Des": "farmwar.farmwar_vegdes_04",
+        "Icon": 4810031,
+        "HP": "farmwar.farmwar_vegHP_04",
+        "ATK": "farmwar.farmwar_vegATK_04",
+        "AOE": "farmwar.farmwar_vegAOE_04",
+        "VegetablesID": 19000004,
+        "UnlockCondition": {
+            "1": 8715
+        }
+    },
+    {
+        "ID": 5,
+        "Schedule": 1,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_05",
+        "Des": "farmwar.farmwar_vegdes_05",
+        "Icon": 4810041,
+        "HP": "farmwar.farmwar_vegHP_05",
+        "ATK": "farmwar.farmwar_vegATK_05",
+        "AOE": "farmwar.farmwar_vegAOE_05",
+        "VegetablesID": 19000005,
+        "UnlockCondition": {
+            "1": 8717
+        }
+    },
+    {
+        "ID": 6,
+        "Schedule": 1,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_06",
+        "Des": "farmwar.farmwar_vegdes_06",
+        "Icon": 4810051,
+        "HP": "farmwar.farmwar_vegHP_06",
+        "ATK": "farmwar.farmwar_vegATK_06",
+        "AOE": "farmwar.farmwar_vegAOE_06",
+        "VegetablesID": 19000006,
+        "UnlockCondition": {
+            "1": 8715
+        }
+    },
+    {
+        "ID": 7,
+        "Schedule": 1,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_07",
+        "Des": "farmwar.farmwar_vegdes_07",
+        "Icon": 4810061,
+        "HP": "farmwar.farmwar_vegHP_07",
+        "ATK": "farmwar.farmwar_vegATK_07",
+        "AOE": "farmwar.farmwar_vegAOE_07",
+        "VegetablesID": 19000007,
+        "UnlockCondition": {
+            "1": 8717
+        }
+    },
+    {
+        "ID": 8,
+        "Schedule": 1,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_08",
+        "Des": "farmwar.farmwar_vegdes_08",
+        "Icon": 4810071,
+        "HP": "farmwar.farmwar_vegHP_08",
+        "ATK": "farmwar.farmwar_vegATK_08",
+        "AOE": "farmwar.farmwar_vegAOE_08",
+        "VegetablesID": 19000008,
+        "UnlockCondition": {
+            "1": 8715
+        }
+    },
+    {
+        "ID": 9,
+        "Schedule": 1,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_09",
+        "Des": "farmwar.farmwar_vegdes_09",
+        "Icon": 4810081,
+        "HP": "farmwar.farmwar_vegHP_09",
+        "ATK": "farmwar.farmwar_vegATK_09",
+        "AOE": "farmwar.farmwar_vegAOE_09",
+        "VegetablesID": 19000009,
+        "UnlockCondition": {
+            "1": 8717
+        }
+    },
+    {
+        "ID": 10,
+        "Schedule": 1,
+        "BaseVegOrNot": 1,
+        "Name": "farmwar.farmwar_vegname_10",
+        "Des": "farmwar.farmwar_vegdes_10",
+        "Icon": 4810091,
+        "HP": "farmwar.farmwar_vegHP_10",
+        "ATK": "farmwar.farmwar_vegATK_10",
+        "AOE": "farmwar.farmwar_vegAOE_10",
+        "VegetablesID": 19000010,
+        "UnlockCondition": {
+            "1": 8712
+        }
+    },
+    {
+        "ID": 11,
+        "Schedule": 1,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_11",
+        "Des": "farmwar.farmwar_vegdes_11",
+        "Icon": 4810101,
+        "HP": "farmwar.farmwar_vegHP_11",
+        "ATK": "farmwar.farmwar_vegATK_11",
+        "AOE": "farmwar.farmwar_vegAOE_11",
+        "VegetablesID": 19000011,
+        "UnlockCondition": {
+            "1": 8718
+        }
+    },
+    {
+        "ID": 12,
+        "Schedule": 1,
+        "BaseVegOrNot": 1,
+        "Name": "farmwar.farmwar_vegname_12",
+        "Des": "farmwar.farmwar_vegdes_12",
+        "Icon": 4810111,
+        "HP": "farmwar.farmwar_vegHP_12",
+        "ATK": "farmwar.farmwar_vegATK_12",
+        "AOE": "farmwar.farmwar_vegAOE_12",
+        "VegetablesID": 19000012,
+        "UnlockCondition": {
+            "1": 8714
+        }
+    },
+    {
+        "ID": 13,
+        "Schedule": 1,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_13",
+        "Des": "farmwar.farmwar_vegdes_13",
+        "Icon": 4810121,
+        "HP": "farmwar.farmwar_vegHP_13",
+        "ATK": "farmwar.farmwar_vegATK_13",
+        "AOE": "farmwar.farmwar_vegAOE_13",
+        "VegetablesID": 19000013,
+        "UnlockCondition": {
+            "1": 8719
+        }
+    },
+    {
+        "ID": 14,
+        "Schedule": 1,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_14",
+        "Des": "farmwar.farmwar_vegdes_14",
+        "Icon": 4810131,
+        "HP": "farmwar.farmwar_vegHP_14",
+        "ATK": "farmwar.farmwar_vegATK_14",
+        "AOE": "farmwar.farmwar_vegAOE_14",
+        "VegetablesID": 19000014,
+        "UnlockCondition": {
+            "1": 8719
+        }
+    },
+    {
+        "ID": 15,
+        "Schedule": 1,
+        "BaseVegOrNot": 1,
+        "Name": "farmwar.farmwar_vegname_15",
+        "Des": "farmwar.farmwar_vegdes_15",
+        "Icon": 4810141,
+        "HP": "farmwar.farmwar_vegHP_15",
+        "ATK": "farmwar.farmwar_vegATK_15",
+        "AOE": "farmwar.farmwar_vegAOE_15",
+        "VegetablesID": 19000015,
+        "UnlockCondition": {
+            "1": 8713
+        }
+    },
+    {
+        "ID": 16,
+        "Schedule": 1,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_16",
+        "Des": "farmwar.farmwar_vegdes_16",
+        "Icon": 4810151,
+        "HP": "farmwar.farmwar_vegHP_16",
+        "ATK": "farmwar.farmwar_vegATK_16",
+        "AOE": "farmwar.farmwar_vegAOE_16",
+        "VegetablesID": 19000016,
+        "UnlockCondition": {
+            "1": 8718
+        }
+    },
+    {
+        "ID": 17,
+        "Schedule": 1,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_17",
+        "Des": "farmwar.farmwar_vegdes_17",
+        "Icon": 4810161,
+        "HP": "farmwar.farmwar_vegHP_17",
+        "ATK": "farmwar.farmwar_vegATK_17",
+        "AOE": "farmwar.farmwar_vegAOE_17",
+        "VegetablesID": 19000017,
+        "UnlockCondition": {
+            "1": 8718
+        }
+    },
+    {
+        "ID": 18,
+        "Schedule": 1,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_18",
+        "Des": "farmwar.farmwar_vegdes_18",
+        "Icon": 4810171,
+        "HP": "farmwar.farmwar_vegHP_18",
+        "ATK": "farmwar.farmwar_vegATK_18",
+        "AOE": "farmwar.farmwar_vegAOE_18",
+        "VegetablesID": 19000018,
+        "UnlockCondition": {
+            "1": 8718
+        }
+    },
+    {
+        "ID": 19,
+        "Schedule": 2,
+        "BaseVegOrNot": 1,
+        "Name": "farmwar.farmwar_vegname_01",
+        "Des": "farmwar.farmwar_vegdes_01",
+        "Icon": 4810001,
+        "HP": "farmwar.farmwar_vegHP_01",
+        "ATK": "farmwar.farmwar_vegATK_01",
+        "AOE": "farmwar.farmwar_vegAOE_01",
+        "VegetablesID": 19000001,
+        "UnlockCondition": "",
+        "Contribution": [
+            2
+        ]
+    },
+    {
+        "ID": 20,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_02",
+        "Des": "farmwar.farmwar_vegdes_02",
+        "Icon": 4810011,
+        "HP": "farmwar.farmwar_vegHP_02",
+        "ATK": "farmwar.farmwar_vegATK_02",
+        "AOE": "farmwar.farmwar_vegAOE_02",
+        "VegetablesID": 19000002,
+        "UnlockCondition": {
+            "1": 8895
+        },
+        "Contribution": [
+            2
+        ]
+    },
+    {
+        "ID": 21,
+        "Schedule": 2,
+        "BaseVegOrNot": 1,
+        "Name": "farmwar.farmwar_vegname_03",
+        "Des": "farmwar.farmwar_vegdes_03",
+        "Icon": 4810021,
+        "HP": "farmwar.farmwar_vegHP_03",
+        "ATK": "farmwar.farmwar_vegATK_03",
+        "AOE": "farmwar.farmwar_vegAOE_03",
+        "VegetablesID": 19000003,
+        "UnlockCondition": "",
+        "Contribution": [
+            1
+        ]
+    },
+    {
+        "ID": 22,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_04",
+        "Des": "farmwar.farmwar_vegdes_04",
+        "Icon": 4810031,
+        "HP": "farmwar.farmwar_vegHP_04",
+        "ATK": "farmwar.farmwar_vegATK_04",
+        "AOE": "farmwar.farmwar_vegAOE_04",
+        "VegetablesID": 19000004,
+        "UnlockCondition": {
+            "1": 8894
+        },
+        "Contribution": [
+            1
+        ]
+    },
+    {
+        "ID": 23,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_05",
+        "Des": "farmwar.farmwar_vegdes_05",
+        "Icon": 4810041,
+        "HP": "farmwar.farmwar_vegHP_05",
+        "ATK": "farmwar.farmwar_vegATK_05",
+        "AOE": "farmwar.farmwar_vegAOE_05",
+        "VegetablesID": 19000005,
+        "UnlockCondition": {
+            "1": 8900
+        },
+        "Contribution": [
+            1
+        ]
+    },
+    {
+        "ID": 24,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_06",
+        "Des": "farmwar.farmwar_vegdes_06",
+        "Icon": 4810051,
+        "HP": "farmwar.farmwar_vegHP_06",
+        "ATK": "farmwar.farmwar_vegATK_06",
+        "AOE": "farmwar.farmwar_vegAOE_06",
+        "VegetablesID": 19000006,
+        "UnlockCondition": {
+            "1": 8894
+        },
+        "Contribution": [
+            1
+        ]
+    },
+    {
+        "ID": 25,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_07",
+        "Des": "farmwar.farmwar_vegdes_07",
+        "Icon": 4810061,
+        "HP": "farmwar.farmwar_vegHP_07",
+        "ATK": "farmwar.farmwar_vegATK_07",
+        "AOE": "farmwar.farmwar_vegAOE_07",
+        "VegetablesID": 19000007,
+        "UnlockCondition": {
+            "1": 8900
+        },
+        "Contribution": [
+            1
+        ]
+    },
+    {
+        "ID": 26,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_08",
+        "Des": "farmwar.farmwar_vegdes_08",
+        "Icon": 4810071,
+        "HP": "farmwar.farmwar_vegHP_08",
+        "ATK": "farmwar.farmwar_vegATK_08",
+        "AOE": "farmwar.farmwar_vegAOE_08",
+        "VegetablesID": 19000008,
+        "UnlockCondition": {
+            "1": 8894
+        },
+        "Contribution": [
+            1
+        ]
+    },
+    {
+        "ID": 27,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_09",
+        "Des": "farmwar.farmwar_vegdes_09",
+        "Icon": 4810081,
+        "HP": "farmwar.farmwar_vegHP_09",
+        "ATK": "farmwar.farmwar_vegATK_09",
+        "AOE": "farmwar.farmwar_vegAOE_09",
+        "VegetablesID": 19000009,
+        "UnlockCondition": {
+            "1": 8900
+        },
+        "Contribution": [
+            1
+        ]
+    },
+    {
+        "ID": 28,
+        "Schedule": 2,
+        "BaseVegOrNot": 1,
+        "Name": "farmwar.farmwar_vegname_10",
+        "Des": "farmwar.farmwar_vegdes_10",
+        "Icon": 4810091,
+        "HP": "farmwar.farmwar_vegHP_10",
+        "ATK": "farmwar.farmwar_vegATK_10",
+        "AOE": "farmwar.farmwar_vegAOE_10",
+        "VegetablesID": 19000010,
+        "UnlockCondition": {
+            "1": 8892
+        },
+        "Contribution": [
+            1,
+            3
+        ]
+    },
+    {
+        "ID": 29,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_11",
+        "Des": "farmwar.farmwar_vegdes_11",
+        "Icon": 4810101,
+        "HP": "farmwar.farmwar_vegHP_11",
+        "ATK": "farmwar.farmwar_vegATK_11",
+        "AOE": "farmwar.farmwar_vegAOE_11",
+        "VegetablesID": 19000011,
+        "UnlockCondition": {
+            "1": 8898
+        },
+        "Contribution": [
+            1,
+            3
+        ]
+    },
+    {
+        "ID": 30,
+        "Schedule": 2,
+        "BaseVegOrNot": 1,
+        "Name": "farmwar.farmwar_vegname_12",
+        "Des": "farmwar.farmwar_vegdes_12",
+        "Icon": 4810111,
+        "HP": "farmwar.farmwar_vegHP_12",
+        "ATK": "farmwar.farmwar_vegATK_12",
+        "AOE": "farmwar.farmwar_vegAOE_12",
+        "VegetablesID": 19000012,
+        "UnlockCondition": {
+            "1": 8896
+        },
+        "Contribution": [
+            1
+        ]
+    },
+    {
+        "ID": 31,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_13",
+        "Des": "farmwar.farmwar_vegdes_13",
+        "Icon": 4810121,
+        "HP": "farmwar.farmwar_vegHP_13",
+        "ATK": "farmwar.farmwar_vegATK_13",
+        "AOE": "farmwar.farmwar_vegAOE_13",
+        "VegetablesID": 19000013,
+        "UnlockCondition": {
+            "1": 8901
+        },
+        "Contribution": [
+            1
+        ]
+    },
+    {
+        "ID": 32,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_14",
+        "Des": "farmwar.farmwar_vegdes_14",
+        "Icon": 4810131,
+        "HP": "farmwar.farmwar_vegHP_14",
+        "ATK": "farmwar.farmwar_vegATK_14",
+        "AOE": "farmwar.farmwar_vegAOE_14",
+        "VegetablesID": 19000014,
+        "UnlockCondition": {
+            "1": 8901
+        },
+        "Contribution": [
+            1
+        ]
+    },
+    {
+        "ID": 33,
+        "Schedule": 2,
+        "BaseVegOrNot": 1,
+        "Name": "farmwar.farmwar_vegname_15",
+        "Des": "farmwar.farmwar_vegdes_15",
+        "Icon": 4810141,
+        "HP": "farmwar.farmwar_vegHP_15",
+        "ATK": "farmwar.farmwar_vegATK_15",
+        "AOE": "farmwar.farmwar_vegAOE_15",
+        "VegetablesID": 19000015,
+        "UnlockCondition": "",
+        "Contribution": [
+            3
+        ]
+    },
+    {
+        "ID": 34,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_16",
+        "Des": "farmwar.farmwar_vegdes_16",
+        "Icon": 4810151,
+        "HP": "farmwar.farmwar_vegHP_16",
+        "ATK": "farmwar.farmwar_vegATK_16",
+        "AOE": "farmwar.farmwar_vegAOE_16",
+        "VegetablesID": 19000016,
+        "UnlockCondition": {
+            "1": 8898
+        },
+        "Contribution": [
+            3
+        ]
+    },
+    {
+        "ID": 35,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_17",
+        "Des": "farmwar.farmwar_vegdes_17",
+        "Icon": 4810161,
+        "HP": "farmwar.farmwar_vegHP_17",
+        "ATK": "farmwar.farmwar_vegATK_17",
+        "AOE": "farmwar.farmwar_vegAOE_17",
+        "VegetablesID": 19000017,
+        "UnlockCondition": {
+            "1": 8898
+        },
+        "Contribution": [
+            3
+        ]
+    },
+    {
+        "ID": 36,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_18",
+        "Des": "farmwar.farmwar_vegdes_18",
+        "Icon": 4810171,
+        "HP": "farmwar.farmwar_vegHP_18",
+        "ATK": "farmwar.farmwar_vegATK_18",
+        "AOE": "farmwar.farmwar_vegAOE_18",
+        "VegetablesID": 19000018,
+        "UnlockCondition": {
+            "1": 8898
+        },
+        "Contribution": [
+            1,
+            3
+        ]
+    },
+    {
+        "ID": 37,
+        "Schedule": 2,
+        "BaseVegOrNot": 1,
+        "Name": "farmwar.farmwar_vegname_19",
+        "Des": "farmwar.farmwar_vegdes_19",
+        "Icon": 4810181,
+        "HP": "farmwar.farmwar_vegHP_19",
+        "ATK": "farmwar.farmwar_vegATK_19",
+        "AOE": "farmwar.farmwar_vegAOE_19",
+        "VegetablesID": 19000019,
+        "UnlockCondition": {
+            "1": 8893
+        },
+        "Contribution": [
+            1
+        ]
+    },
+    {
+        "ID": 38,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_20",
+        "Des": "farmwar.farmwar_vegdes_20",
+        "Icon": 4810191,
+        "HP": "farmwar.farmwar_vegHP_20",
+        "ATK": "farmwar.farmwar_vegATK_20",
+        "AOE": "farmwar.farmwar_vegAOE_20",
+        "VegetablesID": 19000020,
+        "UnlockCondition": {
+            "1": 8896
+        },
+        "Contribution": [
+            1
+        ]
+    },
+    {
+        "ID": 39,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_21",
+        "Des": "farmwar.farmwar_vegdes_21",
+        "Icon": 4810201,
+        "HP": "farmwar.farmwar_vegHP_21",
+        "ATK": "farmwar.farmwar_vegATK_21",
+        "AOE": "farmwar.farmwar_vegAOE_21",
+        "VegetablesID": 19000021,
+        "UnlockCondition": {
+            "1": 8896
+        },
+        "Contribution": [
+            1
+        ]
+    },
+    {
+        "ID": 40,
+        "Schedule": 2,
+        "BaseVegOrNot": 1,
+        "Name": "farmwar.farmwar_vegname_22",
+        "Des": "farmwar.farmwar_vegdes_22",
+        "Icon": 4810211,
+        "HP": "farmwar.farmwar_vegHP_22",
+        "ATK": "farmwar.farmwar_vegATK_22",
+        "AOE": "farmwar.farmwar_vegAOE_22",
+        "VegetablesID": 19000022,
+        "UnlockCondition": {
+            "1": 8895
+        },
+        "Contribution": [
+            1
+        ]
+    },
+    {
+        "ID": 41,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_23",
+        "Des": "farmwar.farmwar_vegdes_23",
+        "Icon": 4810221,
+        "HP": "farmwar.farmwar_vegHP_23",
+        "ATK": "farmwar.farmwar_vegATK_23",
+        "AOE": "farmwar.farmwar_vegAOE_23",
+        "VegetablesID": 19000023,
+        "UnlockCondition": {
+            "1": 8897
+        },
+        "Contribution": [
+            1
+        ]
+    },
+    {
+        "ID": 42,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_24",
+        "Des": "farmwar.farmwar_vegdes_24",
+        "Icon": 4810231,
+        "HP": "farmwar.farmwar_vegHP_24",
+        "ATK": "farmwar.farmwar_vegATK_24",
+        "AOE": "farmwar.farmwar_vegAOE_24",
+        "VegetablesID": 19000024,
+        "UnlockCondition": {
+            "1": 8897
+        },
+        "Contribution": [
+            1
+        ]
+    },
+    {
+        "ID": 43,
+        "Schedule": 2,
+        "BaseVegOrNot": 1,
+        "Name": "farmwar.farmwar_vegname_25",
+        "Des": "farmwar.farmwar_vegdes_25",
+        "Icon": 4810241,
+        "HP": "farmwar.farmwar_vegHP_25",
+        "ATK": "farmwar.farmwar_vegATK_25",
+        "AOE": "farmwar.farmwar_vegAOE_25",
+        "VegetablesID": 19000025,
+        "UnlockCondition": {
+            "1": 8897
+        },
+        "Contribution": [
+            1
+        ]
+    },
+    {
+        "ID": 44,
+        "Schedule": 2,
+        "BaseVegOrNot": 1,
+        "Name": "farmwar.farmwar_vegname_26",
+        "Des": "farmwar.farmwar_vegdes_26",
+        "Icon": 4810251,
+        "HP": "farmwar.farmwar_vegHP_26",
+        "ATK": "farmwar.farmwar_vegATK_26",
+        "AOE": "farmwar.farmwar_vegAOE_26",
+        "VegetablesID": 19000026,
+        "UnlockCondition": {
+            "1": 8899
+        },
+        "Contribution": [
+            3
+        ]
+    },
+    {
+        "ID": 45,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_27",
+        "Des": "farmwar.farmwar_vegdes_27",
+        "Icon": 4810261,
+        "HP": "farmwar.farmwar_vegHP_27",
+        "ATK": "farmwar.farmwar_vegATK_27",
+        "AOE": "farmwar.farmwar_vegAOE_27",
+        "VegetablesID": 19000027,
+        "UnlockCondition": {
+            "1": 8899
+        },
+        "Contribution": [
+            3
+        ]
+    },
+    {
+        "ID": 46,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_28",
+        "Des": "farmwar.farmwar_vegdes_28",
+        "Icon": 4810271,
+        "HP": "farmwar.farmwar_vegHP_28",
+        "ATK": "farmwar.farmwar_vegATK_28",
+        "AOE": "farmwar.farmwar_vegAOE_28",
+        "VegetablesID": 19000028,
+        "UnlockCondition": {
+            "1": 8899
+        },
+        "Contribution": [
+            3
+        ]
+    },
+    {
+        "ID": 47,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_29",
+        "Des": "farmwar.farmwar_vegdes_29",
+        "Icon": 4810281,
+        "HP": "farmwar.farmwar_vegHP_29",
+        "ATK": "farmwar.farmwar_vegATK_29",
+        "AOE": "farmwar.farmwar_vegAOE_29",
+        "VegetablesID": 19000029,
+        "UnlockCondition": {
+            "1": 8899
+        },
+        "Contribution": [
+            3
+        ]
+    },
+    {
+        "ID": 48,
+        "Schedule": 2,
+        "BaseVegOrNot": 1,
+        "Name": "farmwar.farmwar_vegname_30",
+        "Des": "farmwar.farmwar_vegdes_30",
+        "Icon": 4810291,
+        "HP": "farmwar.farmwar_vegHP_30",
+        "ATK": "farmwar.farmwar_vegATK_30",
+        "AOE": "farmwar.farmwar_vegAOE_30",
+        "VegetablesID": 19000030,
+        "UnlockCondition": {
+            "1": 8900
+        },
+        "Contribution": [
+            1
+        ]
+    },
+    {
+        "ID": 49,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_31",
+        "Des": "farmwar.farmwar_vegdes_31",
+        "Icon": 4810301,
+        "HP": "farmwar.farmwar_vegHP_31",
+        "ATK": "farmwar.farmwar_vegATK_31",
+        "AOE": "farmwar.farmwar_vegAOE_31",
+        "VegetablesID": 19000031,
+        "UnlockCondition": {
+            "1": 8902
+        },
+        "Contribution": [
+            1
+        ]
+    },
+    {
+        "ID": 50,
+        "Schedule": 2,
+        "BaseVegOrNot": "",
+        "Name": "farmwar.farmwar_vegname_32",
+        "Des": "farmwar.farmwar_vegdes_32",
+        "Icon": 4810311,
+        "HP": "farmwar.farmwar_vegHP_32",
+        "ATK": "farmwar.farmwar_vegATK_32",
+        "AOE": "farmwar.farmwar_vegAOE_32",
+        "VegetablesID": 19000032,
+        "UnlockCondition": {
+            "1": 8902
+        },
+        "Contribution": [
+            1
+        ]
+    }
+]

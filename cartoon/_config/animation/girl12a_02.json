@@ -1,0 +1,70 @@
+[
+    {
+        "Id": 1,
+        "Explain": "待机",
+        "Type": "sequence",
+        "Name": "girl012a_02_ui_stand01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl012a_02/Anim/girl012a_02_ui_stand01.girl012a_02_ui_stand01'"
+    },
+    {
+        "Id": 2,
+        "Explain": "讲述",
+        "Type": "sequence",
+        "Name": "girl012a_02_openworld_talk01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl012a_02/Anim/girl012a_02_openworld_talk01.girl012a_02_openworld_talk01'"
+    },
+    {
+        "Id": 3,
+        "Explain": "低头",
+        "Type": "sequence",
+        "Name": "girl012a_02_ui_ditou01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl012a_02/Anim/girl012a_02_ui_ditou01.girl012a_02_ui_ditou01'"
+    },
+    {
+        "Id": 4,
+        "Explain": "肯定",
+        "Type": "sequence",
+        "Name": "girl012a_02_openworld_sure",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl012a_02/Anim/girl012a_02_openworld_sure.girl012a_02_openworld_sure'"
+    },
+    {
+        "Id": 5,
+        "Explain": "否定",
+        "Type": "sequence",
+        "Name": "girl012a_02_openworld_deny",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl012a_02/Anim/girl012a_02_openworld_deny.girl012a_02_openworld_deny'"
+    },
+    {
+        "Id": 6,
+        "Explain": "思考前",
+        "Type": "sequence",
+        "Name": "girl012a_02_openworld_think_starrt",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl012a_02/Anim/girl012a_02_openworld_think_starrt.girl012a_02_openworld_think_starrt'"
+    },
+    {
+        "Id": 7,
+        "Explain": "思考循环",
+        "Type": "sequence",
+        "Name": "girl012a_02_openworld_think_loop",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl012a_02/Anim/girl012a_02_openworld_think_loop.girl012a_02_openworld_think_loop'"
+    },
+    {
+        "Id": 8,
+        "Explain": "思考后",
+        "Type": "sequence",
+        "Name": "girl012a_02_openworld_think_end",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl012a_02/Anim/girl012a_02_openworld_think_end.girl012a_02_openworld_think_end'"
+    },
+    {
+        "Id": 100,
+        "Explain": "一次思考",
+        "Type": "custom_seq",
+        "Name": "6;7;8"
+    },
+    {
+        "Id": 101,
+        "Explain": "思考循环",
+        "Type": "custom_loop_last",
+        "Name": "6;7"
+    }
+]

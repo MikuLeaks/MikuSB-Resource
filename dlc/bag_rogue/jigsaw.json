@@ -1,0 +1,3572 @@
+[
+    {
+        "ID": 1011,
+        "SubID": 101,
+        "Name": "bagrogue.JigsawName101",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 1,
+        "Icon": 1001301,
+        "Occupy": 1,
+        "Attribute": {
+            "AttackNum": 54
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 1
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 30,
+        "DiscardPrice": 10,
+        "Weight": 175
+    },
+    {
+        "ID": 1012,
+        "SubID": 101,
+        "Name": "bagrogue.JigsawName101",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 2,
+        "Icon": 1001301,
+        "Occupy": 1,
+        "Attribute": {
+            "AttackNum": 108
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 2
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 60,
+        "DiscardPrice": 20,
+        "Weight": 125
+    },
+    {
+        "ID": 1013,
+        "SubID": 101,
+        "Name": "bagrogue.JigsawName101",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 3,
+        "Icon": 1001301,
+        "Occupy": 1,
+        "Attribute": {
+            "AttackNum": 216
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 3
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 120,
+        "DiscardPrice": 40,
+        "Weight": 100
+    },
+    {
+        "ID": 1014,
+        "SubID": 101,
+        "Name": "bagrogue.JigsawName101",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 4,
+        "Icon": 1001301,
+        "Occupy": 1,
+        "Attribute": {
+            "AttackNum": 432
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 4
+        },
+        "AffixRule": {
+            "101": [
+                1,
+                2
+            ]
+        },
+        "Price": 240,
+        "DiscardPrice": 80,
+        "Weight": 75
+    },
+    {
+        "ID": 1015,
+        "SubID": 101,
+        "Name": "bagrogue.JigsawName101",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 5,
+        "Icon": 1001301,
+        "Occupy": 1,
+        "Attribute": {
+            "AttackNum": 864
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 5
+        },
+        "AffixRule": {
+            "101": [
+                2,
+                2
+            ]
+        },
+        "Price": 480,
+        "DiscardPrice": 160,
+        "Weight": 25
+    },
+    {
+        "ID": 1021,
+        "SubID": 102,
+        "Name": "bagrogue.JigsawName102",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 6,
+        "Icon": 1001302,
+        "Occupy": 1,
+        "Attribute": {
+            "DefenceNum": 20
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 1
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 30,
+        "DiscardPrice": 10,
+        "Weight": 175
+    },
+    {
+        "ID": 1022,
+        "SubID": 102,
+        "Name": "bagrogue.JigsawName102",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 7,
+        "Icon": 1001302,
+        "Occupy": 1,
+        "Attribute": {
+            "DefenceNum": 40
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 2
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 60,
+        "DiscardPrice": 20,
+        "Weight": 125
+    },
+    {
+        "ID": 1023,
+        "SubID": 102,
+        "Name": "bagrogue.JigsawName102",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 8,
+        "Icon": 1001302,
+        "Occupy": 1,
+        "Attribute": {
+            "DefenceNum": 80
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 3
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 120,
+        "DiscardPrice": 40,
+        "Weight": 100
+    },
+    {
+        "ID": 1024,
+        "SubID": 102,
+        "Name": "bagrogue.JigsawName102",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 9,
+        "Icon": 1001302,
+        "Occupy": 1,
+        "Attribute": {
+            "DefenceNum": 160
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 4
+        },
+        "AffixRule": {
+            "101": [
+                1,
+                2
+            ]
+        },
+        "Price": 240,
+        "DiscardPrice": 80,
+        "Weight": 75
+    },
+    {
+        "ID": 1025,
+        "SubID": 102,
+        "Name": "bagrogue.JigsawName102",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 10,
+        "Icon": 1001302,
+        "Occupy": 1,
+        "Attribute": {
+            "DefenceNum": 320
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 5
+        },
+        "AffixRule": {
+            "101": [
+                2,
+                2
+            ]
+        },
+        "Price": 480,
+        "DiscardPrice": 160,
+        "Weight": 25
+    },
+    {
+        "ID": 1031,
+        "SubID": 103,
+        "Name": "bagrogue.JigsawName103",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 11,
+        "Icon": 1001303,
+        "Occupy": 2,
+        "Attribute": {
+            "HealthNum": 625
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 2
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 30,
+        "DiscardPrice": 10,
+        "Weight": 245
+    },
+    {
+        "ID": 1032,
+        "SubID": 103,
+        "Name": "bagrogue.JigsawName103",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 12,
+        "Icon": 1001303,
+        "Occupy": 2,
+        "Attribute": {
+            "HealthNum": 1250
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 3
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 60,
+        "DiscardPrice": 20,
+        "Weight": 175
+    },
+    {
+        "ID": 1033,
+        "SubID": 103,
+        "Name": "bagrogue.JigsawName103",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 13,
+        "Icon": 1001303,
+        "Occupy": 2,
+        "Attribute": {
+            "HealthNum": 2500
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 5
+        },
+        "AffixRule": {
+            "100": [
+                2,
+                2
+            ]
+        },
+        "Price": 120,
+        "DiscardPrice": 40,
+        "Weight": 140
+    },
+    {
+        "ID": 1034,
+        "SubID": 103,
+        "Name": "bagrogue.JigsawName103",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 14,
+        "Icon": 1001303,
+        "Occupy": 2,
+        "Attribute": {
+            "HealthNum": 5000
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 7
+        },
+        "AffixRule": {
+            "101": [
+                2,
+                3
+            ]
+        },
+        "Price": 240,
+        "DiscardPrice": 80,
+        "Weight": 105
+    },
+    {
+        "ID": 1035,
+        "SubID": 103,
+        "Name": "bagrogue.JigsawName103",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 15,
+        "Icon": 1001303,
+        "Occupy": 2,
+        "Attribute": {
+            "HealthNum": 10000
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 9
+        },
+        "AffixRule": {
+            "101": [
+                3,
+                3
+            ]
+        },
+        "Price": 480,
+        "DiscardPrice": 160,
+        "Weight": 35
+    },
+    {
+        "ID": 1041,
+        "SubID": 104,
+        "Name": "bagrogue.JigsawName104",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 16,
+        "Icon": 1001304,
+        "Occupy": 2,
+        "Attribute": {
+            "DefenceNum": 25
+        },
+        "TalentType": 6,
+        "TalentNum": {
+            "6": 1,
+            "10": 1
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 30,
+        "DiscardPrice": 10,
+        "Weight": 245
+    },
+    {
+        "ID": 1042,
+        "SubID": 104,
+        "Name": "bagrogue.JigsawName104",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 17,
+        "Icon": 1001304,
+        "Occupy": 2,
+        "Attribute": {
+            "DefenceNum": 50
+        },
+        "TalentType": 6,
+        "TalentNum": {
+            "6": 2,
+            "10": 1
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 60,
+        "DiscardPrice": 20,
+        "Weight": 175
+    },
+    {
+        "ID": 1043,
+        "SubID": 104,
+        "Name": "bagrogue.JigsawName104",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 18,
+        "Icon": 1001304,
+        "Occupy": 2,
+        "Attribute": {
+            "DefenceNum": 100
+        },
+        "TalentType": 6,
+        "TalentNum": {
+            "6": 3,
+            "10": 2
+        },
+        "AffixRule": {
+            "100": [
+                2,
+                2
+            ]
+        },
+        "Price": 120,
+        "DiscardPrice": 40,
+        "Weight": 140
+    },
+    {
+        "ID": 1044,
+        "SubID": 104,
+        "Name": "bagrogue.JigsawName104",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 19,
+        "Icon": 1001304,
+        "Occupy": 2,
+        "Attribute": {
+            "DefenceNum": 200
+        },
+        "TalentType": 6,
+        "TalentNum": {
+            "6": 4,
+            "10": 3
+        },
+        "AffixRule": {
+            "101": [
+                2,
+                3
+            ]
+        },
+        "Price": 240,
+        "DiscardPrice": 80,
+        "Weight": 105
+    },
+    {
+        "ID": 1045,
+        "SubID": 104,
+        "Name": "bagrogue.JigsawName104",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 20,
+        "Icon": 1001304,
+        "Occupy": 2,
+        "Attribute": {
+            "DefenceNum": 400
+        },
+        "TalentType": 6,
+        "TalentNum": {
+            "6": 5,
+            "10": 4
+        },
+        "AffixRule": {
+            "101": [
+                3,
+                3
+            ]
+        },
+        "Price": 480,
+        "DiscardPrice": 160,
+        "Weight": 35
+    },
+    {
+        "ID": 1051,
+        "SubID": 105,
+        "Name": "bagrogue.JigsawName105",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 21,
+        "Icon": 1001305,
+        "Occupy": 3,
+        "Attribute": {
+            "DefenceNum": 45
+        },
+        "TalentType": 8,
+        "TalentNum": {
+            "8": 3
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 60,
+        "DiscardPrice": 20,
+        "Weight": 140
+    },
+    {
+        "ID": 1052,
+        "SubID": 105,
+        "Name": "bagrogue.JigsawName105",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 22,
+        "Icon": 1001305,
+        "Occupy": 3,
+        "Attribute": {
+            "DefenceNum": 90
+        },
+        "TalentType": 8,
+        "TalentNum": {
+            "8": 5
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                2
+            ]
+        },
+        "Price": 120,
+        "DiscardPrice": 40,
+        "Weight": 100
+    },
+    {
+        "ID": 1053,
+        "SubID": 105,
+        "Name": "bagrogue.JigsawName105",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 23,
+        "Icon": 1001305,
+        "Occupy": 3,
+        "Attribute": {
+            "DefenceNum": 180
+        },
+        "TalentType": 8,
+        "TalentNum": {
+            "8": 7
+        },
+        "AffixRule": {
+            "100": [
+                2,
+                2
+            ]
+        },
+        "Price": 240,
+        "DiscardPrice": 80,
+        "Weight": 80
+    },
+    {
+        "ID": 1054,
+        "SubID": 105,
+        "Name": "bagrogue.JigsawName105",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 24,
+        "Icon": 1001305,
+        "Occupy": 3,
+        "Attribute": {
+            "DefenceNum": 360
+        },
+        "TalentType": 8,
+        "TalentNum": {
+            "8": 9
+        },
+        "AffixRule": {
+            "101": [
+                3,
+                3
+            ]
+        },
+        "Price": 480,
+        "DiscardPrice": 160,
+        "Weight": 60
+    },
+    {
+        "ID": 1055,
+        "SubID": 105,
+        "Name": "bagrogue.JigsawName105",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 25,
+        "Icon": 1001305,
+        "Occupy": 3,
+        "Attribute": {
+            "DefenceNum": 720
+        },
+        "TalentType": 8,
+        "TalentNum": {
+            "8": 12
+        },
+        "AffixRule": {
+            "101": [
+                4,
+                4
+            ]
+        },
+        "Price": 960,
+        "DiscardPrice": 320,
+        "Weight": 20
+    },
+    {
+        "ID": 1061,
+        "SubID": 106,
+        "Name": "bagrogue.JigsawName106",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 26,
+        "Icon": 1001306,
+        "Occupy": 3,
+        "Attribute": {
+            "AttackNum": 122
+        },
+        "TalentType": 4,
+        "TalentNum": {
+            "4": 3
+        },
+        "AffixRule": {
+            "200": [
+                1,
+                1
+            ]
+        },
+        "Price": 60,
+        "DiscardPrice": 20,
+        "Weight": 140
+    },
+    {
+        "ID": 1062,
+        "SubID": 106,
+        "Name": "bagrogue.JigsawName106",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 27,
+        "Icon": 1001306,
+        "Occupy": 3,
+        "Attribute": {
+            "AttackNum": 243
+        },
+        "TalentType": 4,
+        "TalentNum": {
+            "4": 5
+        },
+        "AffixRule": {
+            "200": [
+                1,
+                2
+            ]
+        },
+        "Price": 120,
+        "DiscardPrice": 40,
+        "Weight": 100
+    },
+    {
+        "ID": 1063,
+        "SubID": 106,
+        "Name": "bagrogue.JigsawName106",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 28,
+        "Icon": 1001306,
+        "Occupy": 3,
+        "Attribute": {
+            "AttackNum": 486
+        },
+        "TalentType": 4,
+        "TalentNum": {
+            "4": 7
+        },
+        "AffixRule": {
+            "200": [
+                2,
+                2
+            ]
+        },
+        "Price": 240,
+        "DiscardPrice": 80,
+        "Weight": 80
+    },
+    {
+        "ID": 1064,
+        "SubID": 106,
+        "Name": "bagrogue.JigsawName106",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 29,
+        "Icon": 1001306,
+        "Occupy": 3,
+        "Attribute": {
+            "AttackNum": 972
+        },
+        "TalentType": 4,
+        "TalentNum": {
+            "4": 9
+        },
+        "AffixRule": {
+            "201": [
+                3,
+                3
+            ]
+        },
+        "Price": 480,
+        "DiscardPrice": 160,
+        "Weight": 60
+    },
+    {
+        "ID": 1065,
+        "SubID": 106,
+        "Name": "bagrogue.JigsawName106",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 30,
+        "Icon": 1001306,
+        "Occupy": 3,
+        "Attribute": {
+            "AttackNum": 1944
+        },
+        "TalentType": 4,
+        "TalentNum": {
+            "4": 12
+        },
+        "AffixRule": {
+            "201": [
+                4,
+                4
+            ]
+        },
+        "Price": 960,
+        "DiscardPrice": 320,
+        "Weight": 20
+    },
+    {
+        "ID": 1071,
+        "SubID": 107,
+        "Name": "bagrogue.JigsawName107",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 31,
+        "Icon": 1001307,
+        "Occupy": 4,
+        "Attribute": {
+            "AttackNum": 122
+        },
+        "TalentType": 4,
+        "TalentNum": {
+            "4": 3
+        },
+        "AffixRule": {
+            "200": [
+                1,
+                1
+            ]
+        },
+        "Price": 60,
+        "DiscardPrice": 20,
+        "Weight": 140
+    },
+    {
+        "ID": 1072,
+        "SubID": 107,
+        "Name": "bagrogue.JigsawName107",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 32,
+        "Icon": 1001307,
+        "Occupy": 4,
+        "Attribute": {
+            "AttackNum": 243
+        },
+        "TalentType": 4,
+        "TalentNum": {
+            "4": 5
+        },
+        "AffixRule": {
+            "200": [
+                1,
+                2
+            ]
+        },
+        "Price": 120,
+        "DiscardPrice": 40,
+        "Weight": 100
+    },
+    {
+        "ID": 1073,
+        "SubID": 107,
+        "Name": "bagrogue.JigsawName107",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 33,
+        "Icon": 1001307,
+        "Occupy": 4,
+        "Attribute": {
+            "AttackNum": 486
+        },
+        "TalentType": 4,
+        "TalentNum": {
+            "4": 7
+        },
+        "AffixRule": {
+            "200": [
+                2,
+                2
+            ]
+        },
+        "Price": 240,
+        "DiscardPrice": 80,
+        "Weight": 80
+    },
+    {
+        "ID": 1074,
+        "SubID": 107,
+        "Name": "bagrogue.JigsawName107",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 34,
+        "Icon": 1001307,
+        "Occupy": 4,
+        "Attribute": {
+            "AttackNum": 972
+        },
+        "TalentType": 4,
+        "TalentNum": {
+            "4": 9
+        },
+        "AffixRule": {
+            "201": [
+                3,
+                3
+            ]
+        },
+        "Price": 480,
+        "DiscardPrice": 160,
+        "Weight": 60
+    },
+    {
+        "ID": 1075,
+        "SubID": 107,
+        "Name": "bagrogue.JigsawName107",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 35,
+        "Icon": 1001307,
+        "Occupy": 4,
+        "Attribute": {
+            "AttackNum": 1944
+        },
+        "TalentType": 4,
+        "TalentNum": {
+            "4": 12
+        },
+        "AffixRule": {
+            "201": [
+                4,
+                4
+            ]
+        },
+        "Price": 960,
+        "DiscardPrice": 320,
+        "Weight": 20
+    },
+    {
+        "ID": 1081,
+        "SubID": 108,
+        "Name": "bagrogue.JigsawName108",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 36,
+        "Icon": 1001308,
+        "Occupy": 4,
+        "Attribute": {
+            "DefenceNum": 45
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 3
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 60,
+        "DiscardPrice": 20,
+        "Weight": 140
+    },
+    {
+        "ID": 1082,
+        "SubID": 108,
+        "Name": "bagrogue.JigsawName108",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 37,
+        "Icon": 1001308,
+        "Occupy": 4,
+        "Attribute": {
+            "DefenceNum": 90
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 5
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                2
+            ]
+        },
+        "Price": 120,
+        "DiscardPrice": 40,
+        "Weight": 100
+    },
+    {
+        "ID": 1083,
+        "SubID": 108,
+        "Name": "bagrogue.JigsawName108",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 38,
+        "Icon": 1001308,
+        "Occupy": 4,
+        "Attribute": {
+            "DefenceNum": 180
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 7
+        },
+        "AffixRule": {
+            "100": [
+                2,
+                2
+            ]
+        },
+        "Price": 240,
+        "DiscardPrice": 80,
+        "Weight": 80
+    },
+    {
+        "ID": 1084,
+        "SubID": 108,
+        "Name": "bagrogue.JigsawName108",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 39,
+        "Icon": 1001308,
+        "Occupy": 4,
+        "Attribute": {
+            "DefenceNum": 360
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 9
+        },
+        "AffixRule": {
+            "101": [
+                3,
+                3
+            ]
+        },
+        "Price": 480,
+        "DiscardPrice": 160,
+        "Weight": 60
+    },
+    {
+        "ID": 1085,
+        "SubID": 108,
+        "Name": "bagrogue.JigsawName108",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 40,
+        "Icon": 1001308,
+        "Occupy": 4,
+        "Attribute": {
+            "DefenceNum": 720
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 12
+        },
+        "AffixRule": {
+            "101": [
+                4,
+                4
+            ]
+        },
+        "Price": 960,
+        "DiscardPrice": 320,
+        "Weight": 20
+    },
+    {
+        "ID": 1091,
+        "SubID": 109,
+        "Name": "bagrogue.JigsawName109",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 41,
+        "Icon": 1001309,
+        "Occupy": 5,
+        "Attribute": {
+            "DefenceNum": 50
+        },
+        "TalentType": 2,
+        "TalentNum": {
+            "2": 4
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 60,
+        "DiscardPrice": 20,
+        "Weight": 112
+    },
+    {
+        "ID": 1092,
+        "SubID": 109,
+        "Name": "bagrogue.JigsawName109",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 42,
+        "Icon": 1001309,
+        "Occupy": 5,
+        "Attribute": {
+            "DefenceNum": 100
+        },
+        "TalentType": 2,
+        "TalentNum": {
+            "2": 6
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 120,
+        "DiscardPrice": 40,
+        "Weight": 80
+    },
+    {
+        "ID": 1093,
+        "SubID": 109,
+        "Name": "bagrogue.JigsawName109",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 43,
+        "Icon": 1001309,
+        "Occupy": 5,
+        "Attribute": {
+            "DefenceNum": 200
+        },
+        "TalentType": 2,
+        "TalentNum": {
+            "2": 9
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 240,
+        "DiscardPrice": 80,
+        "Weight": 64
+    },
+    {
+        "ID": 1094,
+        "SubID": 109,
+        "Name": "bagrogue.JigsawName109",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 44,
+        "Icon": 1001309,
+        "Occupy": 5,
+        "Attribute": {
+            "DefenceNum": 400
+        },
+        "TalentType": 2,
+        "TalentNum": {
+            "2": 12
+        },
+        "AffixRule": {
+            "101": [
+                1,
+                2
+            ]
+        },
+        "Price": 480,
+        "DiscardPrice": 160,
+        "Weight": 48
+    },
+    {
+        "ID": 1095,
+        "SubID": 109,
+        "Name": "bagrogue.JigsawName109",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 45,
+        "Icon": 1001309,
+        "Occupy": 5,
+        "Attribute": {
+            "DefenceNum": 800
+        },
+        "TalentType": 2,
+        "TalentNum": {
+            "2": 15
+        },
+        "AffixRule": {
+            "101": [
+                2,
+                2
+            ]
+        },
+        "Price": 960,
+        "DiscardPrice": 320,
+        "Weight": 16
+    },
+    {
+        "ID": 1101,
+        "SubID": 110,
+        "Name": "bagrogue.JigsawName110",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 46,
+        "Icon": 1001310,
+        "Occupy": 5,
+        "Attribute": {
+            "HealthNum": 1250
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 3,
+            "9": 1
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 60,
+        "DiscardPrice": 20,
+        "Weight": 112
+    },
+    {
+        "ID": 1102,
+        "SubID": 110,
+        "Name": "bagrogue.JigsawName110",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 47,
+        "Icon": 1001310,
+        "Occupy": 5,
+        "Attribute": {
+            "HealthNum": 2500
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 4,
+            "9": 2
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 120,
+        "DiscardPrice": 40,
+        "Weight": 80
+    },
+    {
+        "ID": 1103,
+        "SubID": 110,
+        "Name": "bagrogue.JigsawName110",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 48,
+        "Icon": 1001310,
+        "Occupy": 5,
+        "Attribute": {
+            "HealthNum": 5000
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 6,
+            "9": 3
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 240,
+        "DiscardPrice": 80,
+        "Weight": 64
+    },
+    {
+        "ID": 1104,
+        "SubID": 110,
+        "Name": "bagrogue.JigsawName110",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 49,
+        "Icon": 1001310,
+        "Occupy": 5,
+        "Attribute": {
+            "HealthNum": 10000
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 8,
+            "9": 4
+        },
+        "AffixRule": {
+            "101": [
+                1,
+                2
+            ]
+        },
+        "Price": 480,
+        "DiscardPrice": 160,
+        "Weight": 48
+    },
+    {
+        "ID": 1105,
+        "SubID": 110,
+        "Name": "bagrogue.JigsawName110",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 50,
+        "Icon": 1001310,
+        "Occupy": 5,
+        "Attribute": {
+            "HealthNum": 20000
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 9,
+            "9": 6
+        },
+        "AffixRule": {
+            "101": [
+                2,
+                2
+            ]
+        },
+        "Price": 960,
+        "DiscardPrice": 320,
+        "Weight": 16
+    },
+    {
+        "ID": 1111,
+        "SubID": 111,
+        "Name": "bagrogue.JigsawName111",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 51,
+        "Icon": 1001311,
+        "Occupy": 6,
+        "Attribute": {
+            "HealthNum": 1250
+        },
+        "TalentType": 7,
+        "TalentNum": {
+            "7": 4
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 60,
+        "DiscardPrice": 20,
+        "Weight": 112
+    },
+    {
+        "ID": 1112,
+        "SubID": 111,
+        "Name": "bagrogue.JigsawName111",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 52,
+        "Icon": 1001311,
+        "Occupy": 6,
+        "Attribute": {
+            "HealthNum": 2500
+        },
+        "TalentType": 7,
+        "TalentNum": {
+            "7": 6
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 120,
+        "DiscardPrice": 40,
+        "Weight": 80
+    },
+    {
+        "ID": 1113,
+        "SubID": 111,
+        "Name": "bagrogue.JigsawName111",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 53,
+        "Icon": 1001311,
+        "Occupy": 6,
+        "Attribute": {
+            "HealthNum": 5000
+        },
+        "TalentType": 7,
+        "TalentNum": {
+            "7": 9
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 240,
+        "DiscardPrice": 80,
+        "Weight": 64
+    },
+    {
+        "ID": 1114,
+        "SubID": 111,
+        "Name": "bagrogue.JigsawName111",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 54,
+        "Icon": 1001311,
+        "Occupy": 6,
+        "Attribute": {
+            "HealthNum": 10000
+        },
+        "TalentType": 7,
+        "TalentNum": {
+            "7": 12
+        },
+        "AffixRule": {
+            "101": [
+                1,
+                2
+            ]
+        },
+        "Price": 480,
+        "DiscardPrice": 160,
+        "Weight": 48
+    },
+    {
+        "ID": 1115,
+        "SubID": 111,
+        "Name": "bagrogue.JigsawName111",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 55,
+        "Icon": 1001311,
+        "Occupy": 6,
+        "Attribute": {
+            "HealthNum": 20000
+        },
+        "TalentType": 7,
+        "TalentNum": {
+            "7": 15
+        },
+        "AffixRule": {
+            "101": [
+                2,
+                2
+            ]
+        },
+        "Price": 960,
+        "DiscardPrice": 320,
+        "Weight": 16
+    },
+    {
+        "ID": 1121,
+        "SubID": 112,
+        "Name": "bagrogue.JigsawName112",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 56,
+        "Icon": 1001312,
+        "Occupy": 6,
+        "Attribute": {
+            "AttackNum": 135
+        },
+        "TalentType": 2,
+        "TalentNum": {
+            "2": 3,
+            "8": 1
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 60,
+        "DiscardPrice": 20,
+        "Weight": 112
+    },
+    {
+        "ID": 1122,
+        "SubID": 112,
+        "Name": "bagrogue.JigsawName112",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 57,
+        "Icon": 1001312,
+        "Occupy": 6,
+        "Attribute": {
+            "AttackNum": 270
+        },
+        "TalentType": 2,
+        "TalentNum": {
+            "2": 4,
+            "8": 2
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 120,
+        "DiscardPrice": 40,
+        "Weight": 80
+    },
+    {
+        "ID": 1123,
+        "SubID": 112,
+        "Name": "bagrogue.JigsawName112",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 58,
+        "Icon": 1001312,
+        "Occupy": 6,
+        "Attribute": {
+            "AttackNum": 540
+        },
+        "TalentType": 2,
+        "TalentNum": {
+            "2": 6,
+            "8": 3
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 240,
+        "DiscardPrice": 80,
+        "Weight": 64
+    },
+    {
+        "ID": 1124,
+        "SubID": 112,
+        "Name": "bagrogue.JigsawName112",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 59,
+        "Icon": 1001312,
+        "Occupy": 6,
+        "Attribute": {
+            "AttackNum": 1080
+        },
+        "TalentType": 2,
+        "TalentNum": {
+            "2": 8,
+            "8": 4
+        },
+        "AffixRule": {
+            "101": [
+                1,
+                2
+            ]
+        },
+        "Price": 480,
+        "DiscardPrice": 160,
+        "Weight": 48
+    },
+    {
+        "ID": 1125,
+        "SubID": 112,
+        "Name": "bagrogue.JigsawName112",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 60,
+        "Icon": 1001312,
+        "Occupy": 6,
+        "Attribute": {
+            "AttackNum": 2160
+        },
+        "TalentType": 2,
+        "TalentNum": {
+            "2": 9,
+            "8": 6
+        },
+        "AffixRule": {
+            "101": [
+                2,
+                2
+            ]
+        },
+        "Price": 960,
+        "DiscardPrice": 320,
+        "Weight": 16
+    },
+    {
+        "ID": 1131,
+        "SubID": 113,
+        "Name": "bagrogue.JigsawName113",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 61,
+        "Icon": 1001313,
+        "Occupy": 7,
+        "Attribute": {
+            "HealthNum": 1250
+        },
+        "TalentType": 8,
+        "TalentNum": {
+            "8": 3,
+            "10": 1
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 60,
+        "DiscardPrice": 20,
+        "Weight": 112
+    },
+    {
+        "ID": 1132,
+        "SubID": 113,
+        "Name": "bagrogue.JigsawName113",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 62,
+        "Icon": 1001313,
+        "Occupy": 7,
+        "Attribute": {
+            "HealthNum": 2500
+        },
+        "TalentType": 8,
+        "TalentNum": {
+            "8": 4,
+            "10": 2
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 120,
+        "DiscardPrice": 40,
+        "Weight": 80
+    },
+    {
+        "ID": 1133,
+        "SubID": 113,
+        "Name": "bagrogue.JigsawName113",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 63,
+        "Icon": 1001313,
+        "Occupy": 7,
+        "Attribute": {
+            "HealthNum": 5000
+        },
+        "TalentType": 8,
+        "TalentNum": {
+            "8": 6,
+            "10": 3
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 240,
+        "DiscardPrice": 80,
+        "Weight": 64
+    },
+    {
+        "ID": 1134,
+        "SubID": 113,
+        "Name": "bagrogue.JigsawName113",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 64,
+        "Icon": 1001313,
+        "Occupy": 7,
+        "Attribute": {
+            "HealthNum": 10000
+        },
+        "TalentType": 8,
+        "TalentNum": {
+            "8": 8,
+            "10": 4
+        },
+        "AffixRule": {
+            "101": [
+                1,
+                2
+            ]
+        },
+        "Price": 480,
+        "DiscardPrice": 160,
+        "Weight": 48
+    },
+    {
+        "ID": 1135,
+        "SubID": 113,
+        "Name": "bagrogue.JigsawName113",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 65,
+        "Icon": 1001313,
+        "Occupy": 7,
+        "Attribute": {
+            "HealthNum": 20000
+        },
+        "TalentType": 8,
+        "TalentNum": {
+            "8": 9,
+            "10": 6
+        },
+        "AffixRule": {
+            "101": [
+                2,
+                2
+            ]
+        },
+        "Price": 960,
+        "DiscardPrice": 320,
+        "Weight": 16
+    },
+    {
+        "ID": 1141,
+        "SubID": 114,
+        "Name": "bagrogue.JigsawName114",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 66,
+        "Icon": 1001314,
+        "Occupy": 7,
+        "Attribute": {
+            "AttackNum": 135
+        },
+        "TalentType": 4,
+        "TalentNum": {
+            "4": 4
+        },
+        "AffixRule": {
+            "200": [
+                1,
+                1
+            ]
+        },
+        "Price": 60,
+        "DiscardPrice": 20,
+        "Weight": 112
+    },
+    {
+        "ID": 1142,
+        "SubID": 114,
+        "Name": "bagrogue.JigsawName114",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 67,
+        "Icon": 1001314,
+        "Occupy": 7,
+        "Attribute": {
+            "AttackNum": 270
+        },
+        "TalentType": 4,
+        "TalentNum": {
+            "4": 6
+        },
+        "AffixRule": {
+            "200": [
+                1,
+                1
+            ]
+        },
+        "Price": 120,
+        "DiscardPrice": 40,
+        "Weight": 80
+    },
+    {
+        "ID": 1143,
+        "SubID": 114,
+        "Name": "bagrogue.JigsawName114",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 68,
+        "Icon": 1001314,
+        "Occupy": 7,
+        "Attribute": {
+            "AttackNum": 540
+        },
+        "TalentType": 4,
+        "TalentNum": {
+            "4": 9
+        },
+        "AffixRule": {
+            "200": [
+                1,
+                1
+            ]
+        },
+        "Price": 240,
+        "DiscardPrice": 80,
+        "Weight": 64
+    },
+    {
+        "ID": 1144,
+        "SubID": 114,
+        "Name": "bagrogue.JigsawName114",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 69,
+        "Icon": 1001314,
+        "Occupy": 7,
+        "Attribute": {
+            "AttackNum": 1080
+        },
+        "TalentType": 4,
+        "TalentNum": {
+            "4": 12
+        },
+        "AffixRule": {
+            "201": [
+                1,
+                2
+            ]
+        },
+        "Price": 480,
+        "DiscardPrice": 160,
+        "Weight": 48
+    },
+    {
+        "ID": 1145,
+        "SubID": 114,
+        "Name": "bagrogue.JigsawName114",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 70,
+        "Icon": 1001314,
+        "Occupy": 7,
+        "Attribute": {
+            "AttackNum": 2160
+        },
+        "TalentType": 4,
+        "TalentNum": {
+            "4": 15
+        },
+        "AffixRule": {
+            "201": [
+                2,
+                2
+            ]
+        },
+        "Price": 960,
+        "DiscardPrice": 320,
+        "Weight": 16
+    },
+    {
+        "ID": 1151,
+        "SubID": 115,
+        "Name": "bagrogue.JigsawName115",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 71,
+        "Icon": 1001315,
+        "Occupy": 9,
+        "Attribute": {
+            "HealthNum": 1250
+        },
+        "TalentType": 1,
+        "TalentNum": {
+            "1": 3,
+            "11": 1
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 60,
+        "DiscardPrice": 20,
+        "Weight": 112
+    },
+    {
+        "ID": 1152,
+        "SubID": 115,
+        "Name": "bagrogue.JigsawName115",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 72,
+        "Icon": 1001315,
+        "Occupy": 9,
+        "Attribute": {
+            "HealthNum": 2500
+        },
+        "TalentType": 1,
+        "TalentNum": {
+            "1": 4,
+            "11": 2
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 120,
+        "DiscardPrice": 40,
+        "Weight": 80
+    },
+    {
+        "ID": 1153,
+        "SubID": 115,
+        "Name": "bagrogue.JigsawName115",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 73,
+        "Icon": 1001315,
+        "Occupy": 9,
+        "Attribute": {
+            "HealthNum": 5000
+        },
+        "TalentType": 1,
+        "TalentNum": {
+            "1": 6,
+            "11": 3
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 240,
+        "DiscardPrice": 80,
+        "Weight": 64
+    },
+    {
+        "ID": 1154,
+        "SubID": 115,
+        "Name": "bagrogue.JigsawName115",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 74,
+        "Icon": 1001315,
+        "Occupy": 9,
+        "Attribute": {
+            "HealthNum": 10000
+        },
+        "TalentType": 1,
+        "TalentNum": {
+            "1": 8,
+            "11": 4
+        },
+        "AffixRule": {
+            "101": [
+                1,
+                2
+            ]
+        },
+        "Price": 480,
+        "DiscardPrice": 160,
+        "Weight": 48
+    },
+    {
+        "ID": 1155,
+        "SubID": 115,
+        "Name": "bagrogue.JigsawName115",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 75,
+        "Icon": 1001315,
+        "Occupy": 9,
+        "Attribute": {
+            "HealthNum": 20000
+        },
+        "TalentType": 1,
+        "TalentNum": {
+            "1": 9,
+            "11": 6
+        },
+        "AffixRule": {
+            "101": [
+                2,
+                2
+            ]
+        },
+        "Price": 960,
+        "DiscardPrice": 320,
+        "Weight": 16
+    },
+    {
+        "ID": 1161,
+        "SubID": 116,
+        "Name": "bagrogue.JigsawName116",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 76,
+        "Icon": 1001316,
+        "Occupy": 8,
+        "Attribute": {
+            "DefenceNum": 50
+        },
+        "TalentType": 1,
+        "TalentNum": {
+            "1": 4
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 60,
+        "DiscardPrice": 20,
+        "Weight": 112
+    },
+    {
+        "ID": 1162,
+        "SubID": 116,
+        "Name": "bagrogue.JigsawName116",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 77,
+        "Icon": 1001316,
+        "Occupy": 8,
+        "Attribute": {
+            "DefenceNum": 100
+        },
+        "TalentType": 1,
+        "TalentNum": {
+            "1": 6
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 120,
+        "DiscardPrice": 40,
+        "Weight": 80
+    },
+    {
+        "ID": 1163,
+        "SubID": 116,
+        "Name": "bagrogue.JigsawName116",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 78,
+        "Icon": 1001316,
+        "Occupy": 8,
+        "Attribute": {
+            "DefenceNum": 200
+        },
+        "TalentType": 1,
+        "TalentNum": {
+            "1": 9
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 240,
+        "DiscardPrice": 80,
+        "Weight": 64
+    },
+    {
+        "ID": 1164,
+        "SubID": 116,
+        "Name": "bagrogue.JigsawName116",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 79,
+        "Icon": 1001316,
+        "Occupy": 8,
+        "Attribute": {
+            "DefenceNum": 400
+        },
+        "TalentType": 1,
+        "TalentNum": {
+            "1": 12
+        },
+        "AffixRule": {
+            "101": [
+                1,
+                2
+            ]
+        },
+        "Price": 480,
+        "DiscardPrice": 160,
+        "Weight": 48
+    },
+    {
+        "ID": 1165,
+        "SubID": 116,
+        "Name": "bagrogue.JigsawName116",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 80,
+        "Icon": 1001316,
+        "Occupy": 8,
+        "Attribute": {
+            "DefenceNum": 800
+        },
+        "TalentType": 1,
+        "TalentNum": {
+            "1": 15
+        },
+        "AffixRule": {
+            "101": [
+                2,
+                2
+            ]
+        },
+        "Price": 960,
+        "DiscardPrice": 320,
+        "Weight": 16
+    },
+    {
+        "ID": 1171,
+        "SubID": 117,
+        "Name": "bagrogue.JigsawName117",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 81,
+        "Icon": 1001317,
+        "Occupy": 10,
+        "Attribute": {
+            "DefenceNum": 50
+        },
+        "TalentType": 9,
+        "TalentNum": {
+            "9": 3,
+            "6": 1
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 60,
+        "DiscardPrice": 20,
+        "Weight": 112
+    },
+    {
+        "ID": 1172,
+        "SubID": 117,
+        "Name": "bagrogue.JigsawName117",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 82,
+        "Icon": 1001317,
+        "Occupy": 10,
+        "Attribute": {
+            "DefenceNum": 100
+        },
+        "TalentType": 9,
+        "TalentNum": {
+            "9": 4,
+            "6": 2
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 120,
+        "DiscardPrice": 40,
+        "Weight": 80
+    },
+    {
+        "ID": 1173,
+        "SubID": 117,
+        "Name": "bagrogue.JigsawName117",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 83,
+        "Icon": 1001317,
+        "Occupy": 10,
+        "Attribute": {
+            "DefenceNum": 200
+        },
+        "TalentType": 9,
+        "TalentNum": {
+            "9": 6,
+            "6": 3
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 240,
+        "DiscardPrice": 80,
+        "Weight": 64
+    },
+    {
+        "ID": 1174,
+        "SubID": 117,
+        "Name": "bagrogue.JigsawName117",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 84,
+        "Icon": 1001317,
+        "Occupy": 10,
+        "Attribute": {
+            "DefenceNum": 400
+        },
+        "TalentType": 9,
+        "TalentNum": {
+            "9": 8,
+            "6": 4
+        },
+        "AffixRule": {
+            "101": [
+                1,
+                2
+            ]
+        },
+        "Price": 480,
+        "DiscardPrice": 160,
+        "Weight": 48
+    },
+    {
+        "ID": 1175,
+        "SubID": 117,
+        "Name": "bagrogue.JigsawName117",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 85,
+        "Icon": 1001317,
+        "Occupy": 10,
+        "Attribute": {
+            "DefenceNum": 800
+        },
+        "TalentType": 9,
+        "TalentNum": {
+            "9": 9,
+            "6": 6
+        },
+        "AffixRule": {
+            "101": [
+                2,
+                2
+            ]
+        },
+        "Price": 960,
+        "DiscardPrice": 320,
+        "Weight": 16
+    },
+    {
+        "ID": 1181,
+        "SubID": 118,
+        "Name": "bagrogue.JigsawName118",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 86,
+        "Icon": 1001318,
+        "Occupy": 11,
+        "Attribute": {
+            "HealthNum": 1250
+        },
+        "TalentType": 1,
+        "TalentNum": {
+            "1": 4
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 60,
+        "DiscardPrice": 20,
+        "Weight": 112
+    },
+    {
+        "ID": 1182,
+        "SubID": 118,
+        "Name": "bagrogue.JigsawName118",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 87,
+        "Icon": 1001318,
+        "Occupy": 11,
+        "Attribute": {
+            "HealthNum": 2500
+        },
+        "TalentType": 1,
+        "TalentNum": {
+            "1": 6
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 120,
+        "DiscardPrice": 40,
+        "Weight": 80
+    },
+    {
+        "ID": 1183,
+        "SubID": 118,
+        "Name": "bagrogue.JigsawName118",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 88,
+        "Icon": 1001318,
+        "Occupy": 11,
+        "Attribute": {
+            "HealthNum": 5000
+        },
+        "TalentType": 1,
+        "TalentNum": {
+            "1": 9
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 240,
+        "DiscardPrice": 80,
+        "Weight": 64
+    },
+    {
+        "ID": 1184,
+        "SubID": 118,
+        "Name": "bagrogue.JigsawName118",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 89,
+        "Icon": 1001318,
+        "Occupy": 11,
+        "Attribute": {
+            "HealthNum": 10000
+        },
+        "TalentType": 1,
+        "TalentNum": {
+            "1": 12
+        },
+        "AffixRule": {
+            "101": [
+                1,
+                2
+            ]
+        },
+        "Price": 480,
+        "DiscardPrice": 160,
+        "Weight": 48
+    },
+    {
+        "ID": 1185,
+        "SubID": 118,
+        "Name": "bagrogue.JigsawName118",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 90,
+        "Icon": 1001318,
+        "Occupy": 11,
+        "Attribute": {
+            "HealthNum": 20000
+        },
+        "TalentType": 1,
+        "TalentNum": {
+            "1": 15
+        },
+        "AffixRule": {
+            "101": [
+                2,
+                2
+            ]
+        },
+        "Price": 960,
+        "DiscardPrice": 320,
+        "Weight": 16
+    },
+    {
+        "ID": 1191,
+        "SubID": 119,
+        "Name": "bagrogue.JigsawName119",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 91,
+        "Icon": 1001319,
+        "Occupy": 12,
+        "Attribute": {
+            "DefenceNum": 70
+        },
+        "TalentType": 6,
+        "TalentNum": {
+            "6": 5
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 90,
+        "DiscardPrice": 30,
+        "Weight": 140
+    },
+    {
+        "ID": 1192,
+        "SubID": 119,
+        "Name": "bagrogue.JigsawName119",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 92,
+        "Icon": 1001319,
+        "Occupy": 12,
+        "Attribute": {
+            "DefenceNum": 140
+        },
+        "TalentType": 6,
+        "TalentNum": {
+            "6": 7
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 180,
+        "DiscardPrice": 60,
+        "Weight": 100
+    },
+    {
+        "ID": 1193,
+        "SubID": 119,
+        "Name": "bagrogue.JigsawName119",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 93,
+        "Icon": 1001319,
+        "Occupy": 12,
+        "Attribute": {
+            "DefenceNum": 280
+        },
+        "TalentType": 6,
+        "TalentNum": {
+            "6": 10
+        },
+        "AffixRule": {
+            "100": [
+                2,
+                2
+            ]
+        },
+        "Price": 360,
+        "DiscardPrice": 120,
+        "Weight": 80
+    },
+    {
+        "ID": 1194,
+        "SubID": 119,
+        "Name": "bagrogue.JigsawName119",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 94,
+        "Icon": 1001319,
+        "Occupy": 12,
+        "Attribute": {
+            "DefenceNum": 560
+        },
+        "TalentType": 6,
+        "TalentNum": {
+            "6": 14
+        },
+        "AffixRule": {
+            "101": [
+                2,
+                3
+            ]
+        },
+        "Price": 720,
+        "DiscardPrice": 240,
+        "Weight": 60
+    },
+    {
+        "ID": 1195,
+        "SubID": 119,
+        "Name": "bagrogue.JigsawName119",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 95,
+        "Icon": 1001319,
+        "Occupy": 12,
+        "Attribute": {
+            "DefenceNum": 1120
+        },
+        "TalentType": 6,
+        "TalentNum": {
+            "6": 18
+        },
+        "AffixRule": {
+            "101": [
+                3,
+                3
+            ]
+        },
+        "Price": 1440,
+        "DiscardPrice": 480,
+        "Weight": 20
+    },
+    {
+        "ID": 1201,
+        "SubID": 120,
+        "Name": "bagrogue.JigsawName120",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 96,
+        "Icon": 1001320,
+        "Occupy": 12,
+        "Attribute": {
+            "AttackNum": 189
+        },
+        "TalentType": 4,
+        "TalentNum": {
+            "4": 3,
+            "2": 2
+        },
+        "AffixRule": {
+            "200": [
+                1,
+                1
+            ]
+        },
+        "Price": 90,
+        "DiscardPrice": 30,
+        "Weight": 140
+    },
+    {
+        "ID": 1202,
+        "SubID": 120,
+        "Name": "bagrogue.JigsawName120",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 97,
+        "Icon": 1001320,
+        "Occupy": 12,
+        "Attribute": {
+            "AttackNum": 378
+        },
+        "TalentType": 4,
+        "TalentNum": {
+            "4": 4,
+            "2": 3
+        },
+        "AffixRule": {
+            "200": [
+                1,
+                1
+            ]
+        },
+        "Price": 180,
+        "DiscardPrice": 60,
+        "Weight": 100
+    },
+    {
+        "ID": 1203,
+        "SubID": 120,
+        "Name": "bagrogue.JigsawName120",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 98,
+        "Icon": 1001320,
+        "Occupy": 12,
+        "Attribute": {
+            "AttackNum": 756
+        },
+        "TalentType": 4,
+        "TalentNum": {
+            "4": 6,
+            "2": 4
+        },
+        "AffixRule": {
+            "200": [
+                2,
+                2
+            ]
+        },
+        "Price": 360,
+        "DiscardPrice": 120,
+        "Weight": 80
+    },
+    {
+        "ID": 1204,
+        "SubID": 120,
+        "Name": "bagrogue.JigsawName120",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 99,
+        "Icon": 1001320,
+        "Occupy": 12,
+        "Attribute": {
+            "AttackNum": 1512
+        },
+        "TalentType": 4,
+        "TalentNum": {
+            "4": 8,
+            "2": 6
+        },
+        "AffixRule": {
+            "201": [
+                2,
+                3
+            ]
+        },
+        "Price": 720,
+        "DiscardPrice": 240,
+        "Weight": 60
+    },
+    {
+        "ID": 1205,
+        "SubID": 120,
+        "Name": "bagrogue.JigsawName120",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 100,
+        "Icon": 1001320,
+        "Occupy": 12,
+        "Attribute": {
+            "AttackNum": 3024
+        },
+        "TalentType": 4,
+        "TalentNum": {
+            "4": 10,
+            "2": 8
+        },
+        "AffixRule": {
+            "201": [
+                3,
+                3
+            ]
+        },
+        "Price": 1440,
+        "DiscardPrice": 480,
+        "Weight": 20
+    },
+    {
+        "ID": "##1211",
+        "SubID": 121,
+        "Name": "bagrogue.JigsawName121",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 101,
+        "Icon": 1001321,
+        "Occupy": 13,
+        "Attribute": {
+            "AttackNum": 189
+        },
+        "TalentType": 1,
+        "TalentNum": {
+            "1": 3,
+            "5": 2
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 90,
+        "DiscardPrice": 30,
+        "Weight": 140
+    },
+    {
+        "ID": "##1212",
+        "SubID": 121,
+        "Name": "bagrogue.JigsawName121",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 102,
+        "Icon": 1001321,
+        "Occupy": 13,
+        "Attribute": {
+            "AttackNum": 378
+        },
+        "TalentType": 1,
+        "TalentNum": {
+            "1": 4,
+            "5": 3
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 180,
+        "DiscardPrice": 60,
+        "Weight": 100
+    },
+    {
+        "ID": "##1213",
+        "SubID": 121,
+        "Name": "bagrogue.JigsawName121",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 103,
+        "Icon": 1001321,
+        "Occupy": 13,
+        "Attribute": {
+            "AttackNum": 756
+        },
+        "TalentType": 1,
+        "TalentNum": {
+            "1": 6,
+            "5": 4
+        },
+        "AffixRule": {
+            "100": [
+                2,
+                2
+            ]
+        },
+        "Price": 360,
+        "DiscardPrice": 120,
+        "Weight": 80
+    },
+    {
+        "ID": "##1214",
+        "SubID": 121,
+        "Name": "bagrogue.JigsawName121",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 104,
+        "Icon": 1001321,
+        "Occupy": 13,
+        "Attribute": {
+            "AttackNum": 1512
+        },
+        "TalentType": 1,
+        "TalentNum": {
+            "1": 8,
+            "5": 6
+        },
+        "AffixRule": {
+            "101": [
+                2,
+                3
+            ]
+        },
+        "Price": 720,
+        "DiscardPrice": 240,
+        "Weight": 60
+    },
+    {
+        "ID": "##1215",
+        "SubID": 121,
+        "Name": "bagrogue.JigsawName121",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 105,
+        "Icon": 1001321,
+        "Occupy": 13,
+        "Attribute": {
+            "AttackNum": 3024
+        },
+        "TalentType": 1,
+        "TalentNum": {
+            "1": 10,
+            "5": 8
+        },
+        "AffixRule": {
+            "101": [
+                3,
+                3
+            ]
+        },
+        "Price": 1440,
+        "DiscardPrice": 480,
+        "Weight": 20
+    },
+    {
+        "ID": 1221,
+        "SubID": 122,
+        "Name": "bagrogue.JigsawName122",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 106,
+        "Icon": 1001322,
+        "Occupy": 14,
+        "Attribute": {
+            "AttackNum": 203
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 3,
+            "8": 3
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 90,
+        "DiscardPrice": 30,
+        "Weight": 175
+    },
+    {
+        "ID": 1222,
+        "SubID": 122,
+        "Name": "bagrogue.JigsawName122",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 107,
+        "Icon": 1001322,
+        "Occupy": 14,
+        "Attribute": {
+            "AttackNum": 405
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 5,
+            "8": 4
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 180,
+        "DiscardPrice": 60,
+        "Weight": 125
+    },
+    {
+        "ID": 1223,
+        "SubID": 122,
+        "Name": "bagrogue.JigsawName122",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 108,
+        "Icon": 1001322,
+        "Occupy": 14,
+        "Attribute": {
+            "AttackNum": 810
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 7,
+            "8": 5
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 360,
+        "DiscardPrice": 120,
+        "Weight": 100
+    },
+    {
+        "ID": 1224,
+        "SubID": 122,
+        "Name": "bagrogue.JigsawName122",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 109,
+        "Icon": 1001322,
+        "Occupy": 14,
+        "Attribute": {
+            "AttackNum": 1620
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 9,
+            "8": 7
+        },
+        "AffixRule": {
+            "101": [
+                1,
+                2
+            ]
+        },
+        "Price": 720,
+        "DiscardPrice": 240,
+        "Weight": 75
+    },
+    {
+        "ID": 1225,
+        "SubID": 122,
+        "Name": "bagrogue.JigsawName122",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 110,
+        "Icon": 1001322,
+        "Occupy": 14,
+        "Attribute": {
+            "AttackNum": 3240
+        },
+        "TalentType": 3,
+        "TalentNum": {
+            "3": 12,
+            "8": 8
+        },
+        "AffixRule": {
+            "101": [
+                2,
+                2
+            ]
+        },
+        "Price": 1440,
+        "DiscardPrice": 480,
+        "Weight": 25
+    },
+    {
+        "ID": 1231,
+        "SubID": 123,
+        "Name": "bagrogue.JigsawName123",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 111,
+        "Icon": 1001323,
+        "Occupy": 15,
+        "Attribute": {
+            "DefenceNum": 75
+        },
+        "TalentType": 10,
+        "TalentNum": {
+            "10": 3,
+            "6": 3
+        },
+        "AffixRule": {
+            "300": [
+                1,
+                1
+            ]
+        },
+        "Price": 90,
+        "DiscardPrice": 30,
+        "Weight": 175
+    },
+    {
+        "ID": 1232,
+        "SubID": 123,
+        "Name": "bagrogue.JigsawName123",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 112,
+        "Icon": 1001323,
+        "Occupy": 15,
+        "Attribute": {
+            "DefenceNum": 150
+        },
+        "TalentType": 10,
+        "TalentNum": {
+            "10": 5,
+            "6": 4
+        },
+        "AffixRule": {
+            "300": [
+                1,
+                1
+            ]
+        },
+        "Price": 180,
+        "DiscardPrice": 60,
+        "Weight": 125
+    },
+    {
+        "ID": 1233,
+        "SubID": 123,
+        "Name": "bagrogue.JigsawName123",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 113,
+        "Icon": 1001323,
+        "Occupy": 15,
+        "Attribute": {
+            "DefenceNum": 300
+        },
+        "TalentType": 10,
+        "TalentNum": {
+            "10": 7,
+            "6": 5
+        },
+        "AffixRule": {
+            "300": [
+                1,
+                1
+            ]
+        },
+        "Price": 360,
+        "DiscardPrice": 120,
+        "Weight": 100
+    },
+    {
+        "ID": 1234,
+        "SubID": 123,
+        "Name": "bagrogue.JigsawName123",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 114,
+        "Icon": 1001323,
+        "Occupy": 15,
+        "Attribute": {
+            "DefenceNum": 600
+        },
+        "TalentType": 10,
+        "TalentNum": {
+            "10": 9,
+            "6": 7
+        },
+        "AffixRule": {
+            "301": [
+                1,
+                2
+            ]
+        },
+        "Price": 720,
+        "DiscardPrice": 240,
+        "Weight": 75
+    },
+    {
+        "ID": 1235,
+        "SubID": 123,
+        "Name": "bagrogue.JigsawName123",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 115,
+        "Icon": 1001323,
+        "Occupy": 15,
+        "Attribute": {
+            "DefenceNum": 1200
+        },
+        "TalentType": 10,
+        "TalentNum": {
+            "10": 12,
+            "6": 8
+        },
+        "AffixRule": {
+            "301": [
+                2,
+                2
+            ]
+        },
+        "Price": 1440,
+        "DiscardPrice": 480,
+        "Weight": 25
+    },
+    {
+        "ID": 1241,
+        "SubID": 124,
+        "Name": "bagrogue.JigsawName124",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 116,
+        "Icon": 1001324,
+        "Occupy": 16,
+        "Attribute": {
+            "DefenceNum": 95
+        },
+        "TalentType": 7,
+        "TalentNum": {
+            "7": 4,
+            "9": 3
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 120,
+        "DiscardPrice": 40,
+        "Weight": 105
+    },
+    {
+        "ID": 1242,
+        "SubID": 124,
+        "Name": "bagrogue.JigsawName124",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 117,
+        "Icon": 1001324,
+        "Occupy": 16,
+        "Attribute": {
+            "DefenceNum": 190
+        },
+        "TalentType": 7,
+        "TalentNum": {
+            "7": 6,
+            "9": 4
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 240,
+        "DiscardPrice": 80,
+        "Weight": 75
+    },
+    {
+        "ID": 1243,
+        "SubID": 124,
+        "Name": "bagrogue.JigsawName124",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 118,
+        "Icon": 1001324,
+        "Occupy": 16,
+        "Attribute": {
+            "DefenceNum": 380
+        },
+        "TalentType": 7,
+        "TalentNum": {
+            "7": 9,
+            "9": 5
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 480,
+        "DiscardPrice": 160,
+        "Weight": 60
+    },
+    {
+        "ID": 1244,
+        "SubID": 124,
+        "Name": "bagrogue.JigsawName124",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 119,
+        "Icon": 1001324,
+        "Occupy": 16,
+        "Attribute": {
+            "DefenceNum": 760
+        },
+        "TalentType": 7,
+        "TalentNum": {
+            "7": 11,
+            "9": 7
+        },
+        "AffixRule": {
+            "101": [
+                1,
+                2
+            ]
+        },
+        "Price": 960,
+        "DiscardPrice": 320,
+        "Weight": 45
+    },
+    {
+        "ID": 1245,
+        "SubID": 124,
+        "Name": "bagrogue.JigsawName124",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 120,
+        "Icon": 1001324,
+        "Occupy": 16,
+        "Attribute": {
+            "DefenceNum": 1520
+        },
+        "TalentType": 7,
+        "TalentNum": {
+            "7": 14,
+            "9": 8
+        },
+        "AffixRule": {
+            "101": [
+                2,
+                2
+            ]
+        },
+        "Price": 1920,
+        "DiscardPrice": 640,
+        "Weight": 15
+    },
+    {
+        "ID": 1251,
+        "SubID": 125,
+        "Name": "bagrogue.JigsawName125",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 121,
+        "Icon": 1001325,
+        "Occupy": 17,
+        "Attribute": {
+            "HealthNum": 3000
+        },
+        "TalentType": 7,
+        "TalentNum": {
+            "7": 9
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 150,
+        "DiscardPrice": 50,
+        "Weight": 105
+    },
+    {
+        "ID": 1252,
+        "SubID": 125,
+        "Name": "bagrogue.JigsawName125",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 122,
+        "Icon": 1001325,
+        "Occupy": 17,
+        "Attribute": {
+            "HealthNum": 6000
+        },
+        "TalentType": 7,
+        "TalentNum": {
+            "7": 13
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 300,
+        "DiscardPrice": 100,
+        "Weight": 75
+    },
+    {
+        "ID": 1253,
+        "SubID": 125,
+        "Name": "bagrogue.JigsawName125",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 123,
+        "Icon": 1001325,
+        "Occupy": 17,
+        "Attribute": {
+            "HealthNum": 12000
+        },
+        "TalentType": 7,
+        "TalentNum": {
+            "7": 17
+        },
+        "AffixRule": {
+            "100": [
+                2,
+                2
+            ]
+        },
+        "Price": 600,
+        "DiscardPrice": 200,
+        "Weight": 60
+    },
+    {
+        "ID": 1254,
+        "SubID": 125,
+        "Name": "bagrogue.JigsawName125",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 124,
+        "Icon": 1001325,
+        "Occupy": 17,
+        "Attribute": {
+            "HealthNum": 24000
+        },
+        "TalentType": 7,
+        "TalentNum": {
+            "7": 22
+        },
+        "AffixRule": {
+            "101": [
+                2,
+                3
+            ]
+        },
+        "Price": 1200,
+        "DiscardPrice": 400,
+        "Weight": 45
+    },
+    {
+        "ID": 1255,
+        "SubID": 125,
+        "Name": "bagrogue.JigsawName125",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 125,
+        "Icon": 1001325,
+        "Occupy": 17,
+        "Attribute": {
+            "HealthNum": 48000
+        },
+        "TalentType": 7,
+        "TalentNum": {
+            "7": 27
+        },
+        "AffixRule": {
+            "101": [
+                3,
+                3
+            ]
+        },
+        "Price": 2400,
+        "DiscardPrice": 800,
+        "Weight": 15
+    },
+    {
+        "ID": 1261,
+        "SubID": 126,
+        "Name": "bagrogue.JigsawName126",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 126,
+        "Icon": 1001430,
+        "Occupy": 14,
+        "Attribute": {
+            "AttackNum": 54
+        },
+        "TalentType": 11,
+        "TalentNum": {
+            "11": 3,
+            "6": 3
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 90,
+        "DiscardPrice": 30,
+        "Weight": 175
+    },
+    {
+        "ID": 1262,
+        "SubID": 126,
+        "Name": "bagrogue.JigsawName126",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 127,
+        "Icon": 1001430,
+        "Occupy": 14,
+        "Attribute": {
+            "AttackNum": 108
+        },
+        "TalentType": 11,
+        "TalentNum": {
+            "11": 5,
+            "6": 4
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 180,
+        "DiscardPrice": 60,
+        "Weight": 125
+    },
+    {
+        "ID": 1263,
+        "SubID": 126,
+        "Name": "bagrogue.JigsawName126",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 128,
+        "Icon": 1001430,
+        "Occupy": 14,
+        "Attribute": {
+            "AttackNum": 216
+        },
+        "TalentType": 11,
+        "TalentNum": {
+            "11": 7,
+            "6": 5
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 360,
+        "DiscardPrice": 120,
+        "Weight": 100
+    },
+    {
+        "ID": 1264,
+        "SubID": 126,
+        "Name": "bagrogue.JigsawName126",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 129,
+        "Icon": 1001430,
+        "Occupy": 14,
+        "Attribute": {
+            "AttackNum": 432
+        },
+        "TalentType": 11,
+        "TalentNum": {
+            "11": 9,
+            "6": 7
+        },
+        "AffixRule": {
+            "101": [
+                1,
+                2
+            ]
+        },
+        "Price": 720,
+        "DiscardPrice": 240,
+        "Weight": 75
+    },
+    {
+        "ID": 1265,
+        "SubID": 126,
+        "Name": "bagrogue.JigsawName126",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 130,
+        "Icon": 1001430,
+        "Occupy": 14,
+        "Attribute": {
+            "AttackNum": 864
+        },
+        "TalentType": 11,
+        "TalentNum": {
+            "11": 12,
+            "6": 8
+        },
+        "AffixRule": {
+            "101": [
+                2,
+                2
+            ]
+        },
+        "Price": 1440,
+        "DiscardPrice": 480,
+        "Weight": 25
+    },
+    {
+        "ID": 1271,
+        "SubID": 127,
+        "Name": "bagrogue.JigsawName127",
+        "Quality": 1,
+        "Star": 1,
+        "RikiId": 131,
+        "Icon": 1001429,
+        "Occupy": 5,
+        "Attribute": {
+            "AttackNum": 203
+        },
+        "TalentType": 11,
+        "TalentNum": {
+            "11": 4
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 60,
+        "DiscardPrice": 20,
+        "Weight": 112
+    },
+    {
+        "ID": 1272,
+        "SubID": 127,
+        "Name": "bagrogue.JigsawName127",
+        "Quality": 2,
+        "Star": 2,
+        "RikiId": 132,
+        "Icon": 1001429,
+        "Occupy": 5,
+        "Attribute": {
+            "AttackNum": 405
+        },
+        "TalentType": 11,
+        "TalentNum": {
+            "11": 6
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 120,
+        "DiscardPrice": 40,
+        "Weight": 80
+    },
+    {
+        "ID": 1273,
+        "SubID": 127,
+        "Name": "bagrogue.JigsawName127",
+        "Quality": 3,
+        "Star": 3,
+        "RikiId": 133,
+        "Icon": 1001429,
+        "Occupy": 5,
+        "Attribute": {
+            "AttackNum": 810
+        },
+        "TalentType": 11,
+        "TalentNum": {
+            "11": 9
+        },
+        "AffixRule": {
+            "100": [
+                1,
+                1
+            ]
+        },
+        "Price": 240,
+        "DiscardPrice": 80,
+        "Weight": 64
+    },
+    {
+        "ID": 1274,
+        "SubID": 127,
+        "Name": "bagrogue.JigsawName127",
+        "Quality": 4,
+        "Star": 4,
+        "RikiId": 134,
+        "Icon": 1001429,
+        "Occupy": 5,
+        "Attribute": {
+            "AttackNum": 1620
+        },
+        "TalentType": 11,
+        "TalentNum": {
+            "11": 12
+        },
+        "AffixRule": {
+            "101": [
+                1,
+                2
+            ]
+        },
+        "Price": 480,
+        "DiscardPrice": 160,
+        "Weight": 48
+    },
+    {
+        "ID": 1275,
+        "SubID": 127,
+        "Name": "bagrogue.JigsawName127",
+        "Quality": 5,
+        "Star": 5,
+        "RikiId": 135,
+        "Icon": 1001429,
+        "Occupy": 5,
+        "Attribute": {
+            "AttackNum": 3240
+        },
+        "TalentType": 11,
+        "TalentNum": {
+            "11": 15
+        },
+        "AffixRule": {
+            "101": [
+                2,
+                2
+            ]
+        },
+        "Price": 960,
+        "DiscardPrice": 320,
+        "Weight": 16
+    }
+]

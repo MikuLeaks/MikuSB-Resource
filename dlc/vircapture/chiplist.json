@@ -1,0 +1,251 @@
+[
+    {
+        "Id": 1,
+        "BuffId": 5000070,
+        "Type": 1,
+        "Color": 4,
+        "Icon": 3600000,
+        "I18n": "vircapture.chip_name_01",
+        "Desc": "vircapture.chip_desc_01",
+        "DescValue": [
+            [
+                1,
+                6,
+                6
+            ],
+            [
+                2,
+                9,
+                9
+            ],
+            [
+                3,
+                12,
+                12
+            ]
+        ],
+        "DescCommon": "",
+        "Group": 1,
+        "NumLevel": {
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "Id": 2,
+        "BuffId": 5000074,
+        "Type": 1,
+        "Color": 4,
+        "Icon": 3600001,
+        "I18n": "vircapture.chip_name_02",
+        "Desc": "vircapture.chip_desc_02",
+        "DescValue": {
+            "1": 5,
+            "2": 15,
+            "3": 30
+        },
+        "DescCommon": "",
+        "Group": 2,
+        "NumLevel": {
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "Id": 3,
+        "BuffId": 5000076,
+        "Type": 1,
+        "Color": 4,
+        "Icon": 3600002,
+        "I18n": "vircapture.chip_name_03",
+        "Desc": "vircapture.chip_desc_03",
+        "DescValue": {
+            "1": 20,
+            "2": 30,
+            "3": 40
+        },
+        "DescCommon": "",
+        "Group": 3,
+        "NumLevel": {
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "Id": 4,
+        "BuffId": 5000077,
+        "Type": 1,
+        "Color": 4,
+        "Icon": 3600003,
+        "I18n": "vircapture.chip_name_04",
+        "Desc": "vircapture.chip_desc_04",
+        "DescValue": {
+            "1": 10,
+            "2": 15,
+            "3": 20
+        },
+        "DescCommon": "",
+        "Group": 4,
+        "NumLevel": {
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "Id": 5,
+        "BuffId": 5000080,
+        "Type": 1,
+        "Color": 4,
+        "Icon": 3600010,
+        "I18n": "vircapture.chip_name_05",
+        "Desc": "vircapture.chip_desc_05",
+        "DescValue": {
+            "1": 10,
+            "2": 15,
+            "3": 20
+        },
+        "DescCommon": "",
+        "Group": 5,
+        "NumLevel": {
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "Id": 6,
+        "BuffId": 5000082,
+        "Type": 1,
+        "Color": 4,
+        "Icon": 3600005,
+        "I18n": "vircapture.chip_name_06",
+        "Desc": "vircapture.chip_desc_06",
+        "DescValue": {
+            "1": 0.6,
+            "2": 0.8,
+            "3": 1
+        },
+        "DescCommon": "",
+        "Group": 6,
+        "NumLevel": {
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "Id": 7,
+        "BuffId": 5000083,
+        "Type": 1,
+        "Color": 4,
+        "Icon": 3600009,
+        "I18n": "vircapture.chip_name_07",
+        "Desc": "vircapture.chip_desc_07",
+        "DescValue": [
+            [
+                1,
+                1,
+                10
+            ],
+            [
+                2,
+                1.5,
+                15
+            ],
+            [
+                3,
+                2,
+                20
+            ]
+        ],
+        "DescCommon": "",
+        "Group": 7,
+        "NumLevel": {
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "Id": 8,
+        "BuffId": 5000084,
+        "Type": 1,
+        "Color": 4,
+        "Icon": 3600007,
+        "I18n": "vircapture.chip_name_08",
+        "Desc": "vircapture.chip_desc_08",
+        "DescValue": {
+            "1": 10,
+            "2": 15,
+            "3": 20
+        },
+        "DescCommon": "",
+        "Group": 8,
+        "NumLevel": {
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    },
+    {
+        "Id": 9,
+        "BuffId": 5000064,
+        "Type": 2,
+        "Color": 4,
+        "Icon": 3600011,
+        "I18n": "vircapture.chip_name_09",
+        "Desc": "vircapture.chip_desc_09",
+        "DescValue": [
+            [
+                10
+            ]
+        ],
+        "DescCommon": "",
+        "Group": 9,
+        "NumLevel": {
+            "1": 1
+        }
+    },
+    {
+        "Id": 10,
+        "BuffId": 5000085,
+        "Type": 1,
+        "Color": 5,
+        "Icon": 3600014,
+        "I18n": "vircapture.chip_name_10",
+        "Desc": "vircapture.chip_desc_10",
+        "DescValue": {
+            "15": 15
+        },
+        "DescCommon": "",
+        "Group": 10,
+        "NumLevel": {
+            "1": 1
+        }
+    },
+    {
+        "Id": 11,
+        "BuffId": 5000087,
+        "Type": 1,
+        "Color": 4,
+        "Icon": 3600013,
+        "I18n": "vircapture.chip_name_11",
+        "Desc": "vircapture.chip_desc_11",
+        "DescValue": {
+            "1": 5,
+            "2": 10,
+            "3": 15
+        },
+        "DescCommon": "",
+        "Group": 11,
+        "NumLevel": {
+            "1": 1,
+            "2": 2,
+            "3": 3
+        }
+    }
+]

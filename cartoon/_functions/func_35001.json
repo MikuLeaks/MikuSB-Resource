@@ -1,0 +1,162 @@
+{
+  "pages": [
+    {
+      "id": 1,
+      "name": "Page1",
+      "max_action_id": 28,
+      "traces": [
+        {
+          "id": 1,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 17,
+                  "tpl_id": "set_switch_to_player",
+                  "params": {
+                    "value": "1",
+                    "npcId": "girl017"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 18,
+                  "tpl_id": "set_3d_npc",
+                  "params": {
+                    "type": "1",
+                    "npcId": "girl017"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 19,
+                  "tpl_id": "rotate_player_and_transit_camera",
+                  "params": {
+                    "time": "0.5"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 13
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 20
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 21,
+                  "tpl_id": "set_3d_npc",
+                  "params": {
+                    "type": "2",
+                    "npcId": "dlc5_TalkNpc_01"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 22
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 23
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 24
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 25
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 26
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 27
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 28
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 16
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

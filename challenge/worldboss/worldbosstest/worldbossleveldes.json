@@ -1,0 +1,27 @@
+[
+    {
+        "ID": 2501,
+        "LevelID": 3401,
+        "StartTime": "[202512120400]",
+        "EndTime": "[202512140400]",
+        "AreaBuff": [
+            3101
+        ],
+        "SceneData": 1,
+        "LevelTitle": "season_title_name1",
+        "LevelDes": "season_level_des1"
+    },
+    {
+        "ID": 2511,
+        "LevelID": 3402,
+        "StartTime": "[202512140400]",
+        "EndTime": "[202512160400]",
+        "AreaBuff": [
+            3101,
+            3102
+        ],
+        "SceneData": 1,
+        "LevelTitle": "season_title_name1",
+        "LevelDes": "season_level_des2"
+    }
+]

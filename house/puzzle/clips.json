@@ -1,0 +1,1108 @@
+[
+    {
+        "ClipId": 1,
+        "RoaId": 1,
+        "StartOffset": [
+            0,
+            0
+        ],
+        "ClipInfo": {
+            "1": 1
+        },
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500001,
+        "DefaultNum": 4,
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 1,
+        "RoaId": 2,
+        "StartOffset": [
+            0,
+            -1
+        ],
+        "ClipInfo": {
+            "1": 1
+        },
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500001,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 1,
+        "RoaId": 3,
+        "StartOffset": [
+            -1,
+            -1
+        ],
+        "ClipInfo": {
+            "1": 1
+        },
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500001,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 1,
+        "RoaId": 4,
+        "StartOffset": [
+            -1,
+            0
+        ],
+        "ClipInfo": {
+            "1": 1
+        },
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500001,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 2,
+        "RoaId": 1,
+        "StartOffset": [
+            0,
+            0
+        ],
+        "ClipInfo": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500002,
+        "DefaultNum": 1,
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 2,
+        "RoaId": 2,
+        "StartOffset": [
+            0,
+            0
+        ],
+        "ClipInfo": [
+            [
+                1,
+                1,
+                1,
+                1
+            ]
+        ],
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500002,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 2,
+        "RoaId": 3,
+        "StartOffset": [
+            0,
+            -3
+        ],
+        "ClipInfo": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500002,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 2,
+        "RoaId": 4,
+        "StartOffset": [
+            -3,
+            0
+        ],
+        "ClipInfo": [
+            [
+                1,
+                1,
+                1,
+                1
+            ]
+        ],
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500002,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 3,
+        "RoaId": 1,
+        "StartOffset": [
+            0,
+            0
+        ],
+        "ClipInfo": [
+            [
+                0,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                0
+            ]
+        ],
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500003,
+        "DefaultNum": 1,
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 3,
+        "RoaId": 2,
+        "StartOffset": [
+            0,
+            -2
+        ],
+        "ClipInfo": {
+            "1": 1,
+            "0": 1
+        },
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500003,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 3,
+        "RoaId": 3,
+        "StartOffset": [
+            -2,
+            -1
+        ],
+        "ClipInfo": [
+            [
+                0,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                0
+            ]
+        ],
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500003,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 3,
+        "RoaId": 4,
+        "StartOffset": [
+            -1,
+            0
+        ],
+        "ClipInfo": {
+            "1": 1,
+            "0": 1
+        },
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500003,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 4,
+        "RoaId": 1,
+        "StartOffset": [
+            0,
+            0
+        ],
+        "ClipInfo": [
+            [
+                1,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                1
+            ]
+        ],
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500004,
+        "DefaultNum": 1,
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 4,
+        "RoaId": 2,
+        "StartOffset": [
+            0,
+            -2
+        ],
+        "ClipInfo": {
+            "0": 1,
+            "1": 0
+        },
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500004,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 4,
+        "RoaId": 3,
+        "StartOffset": [
+            -2,
+            -1
+        ],
+        "ClipInfo": [
+            [
+                1,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                1
+            ]
+        ],
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500004,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 4,
+        "RoaId": 4,
+        "StartOffset": [
+            -1,
+            0
+        ],
+        "ClipInfo": {
+            "0": 1,
+            "1": 0
+        },
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500004,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 5,
+        "RoaId": 1,
+        "StartOffset": [
+            0,
+            0
+        ],
+        "ClipInfo": {
+            "1": 1,
+            "0": 1
+        },
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500005,
+        "DefaultNum": 1,
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 5,
+        "RoaId": 2,
+        "StartOffset": [
+            0,
+            -1
+        ],
+        "ClipInfo": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                0
+            ]
+        ],
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500005,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 5,
+        "RoaId": 3,
+        "StartOffset": [
+            -1,
+            -2
+        ],
+        "ClipInfo": {
+            "1": 1
+        },
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500005,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 5,
+        "RoaId": 4,
+        "StartOffset": [
+            -2,
+            0
+        ],
+        "ClipInfo": [
+            [
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500005,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 6,
+        "RoaId": 1,
+        "StartOffset": [
+            0,
+            0
+        ],
+        "ClipInfo": {
+            "1": 0
+        },
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500006,
+        "DefaultNum": 1,
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 6,
+        "RoaId": 2,
+        "StartOffset": [
+            0,
+            -1
+        ],
+        "ClipInfo": [
+            [
+                1,
+                0,
+                0
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500006,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 6,
+        "RoaId": 3,
+        "StartOffset": [
+            -1,
+            -2
+        ],
+        "ClipInfo": {
+            "0": 1,
+            "1": 1
+        },
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500006,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 6,
+        "RoaId": 4,
+        "StartOffset": [
+            -2,
+            0
+        ],
+        "ClipInfo": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                0,
+                0,
+                1
+            ]
+        ],
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500006,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 7,
+        "RoaId": 1,
+        "StartOffset": [
+            0,
+            0
+        ],
+        "ClipInfo": [
+            [
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500007,
+        "DefaultNum": 1,
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 7,
+        "RoaId": 2,
+        "StartOffset": [
+            0,
+            -2
+        ],
+        "ClipInfo": {
+            "0": 1,
+            "1": 1
+        },
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500007,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 7,
+        "RoaId": 3,
+        "StartOffset": [
+            -2,
+            -1
+        ],
+        "ClipInfo": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                0,
+                1,
+                0
+            ]
+        ],
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500007,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 7,
+        "RoaId": 4,
+        "StartOffset": [
+            -1,
+            0
+        ],
+        "ClipInfo": {
+            "1": 0
+        },
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 10,
+        "IconId": 2500007,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 8,
+        "RoaId": 1,
+        "StartOffset": [
+            0,
+            0
+        ],
+        "ClipInfo": [
+            [
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                0,
+                1,
+                0
+            ]
+        ],
+        "IsSp": 1,
+        "SpReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                10
+            ]
+        ],
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 1,
+        "IconId": 2500008,
+        "DefaultNum": 1
+    },
+    {
+        "ClipId": 8,
+        "RoaId": 2,
+        "StartOffset": [
+            0,
+            -2
+        ],
+        "ClipInfo": [
+            [
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                0,
+                1,
+                0
+            ]
+        ],
+        "IsSp": 1,
+        "SpReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                10
+            ]
+        ],
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 1,
+        "IconId": 2500008
+    },
+    {
+        "ClipId": 8,
+        "RoaId": 3,
+        "StartOffset": [
+            -2,
+            -2
+        ],
+        "ClipInfo": [
+            [
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                0,
+                1,
+                0
+            ]
+        ],
+        "IsSp": 1,
+        "SpReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                10
+            ]
+        ],
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 1,
+        "IconId": 2500008
+    },
+    {
+        "ClipId": 8,
+        "RoaId": 4,
+        "StartOffset": [
+            -2,
+            0
+        ],
+        "ClipInfo": [
+            [
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                0,
+                1,
+                0
+            ]
+        ],
+        "IsSp": 1,
+        "SpReward": [
+            [
+                4,
+                1,
+                6,
+                5,
+                10
+            ]
+        ],
+        "CanGC": 1,
+        "CanGetByDrop": 1,
+        "DropWeight": 1,
+        "IconId": 2500008
+    },
+    {
+        "ClipId": 9,
+        "RoaId": 1,
+        "StartOffset": [
+            0,
+            0
+        ],
+        "ClipInfo": [
+            [
+                1
+            ]
+        ],
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 0,
+        "CanGetByDrop": 0,
+        "DropWeight": "",
+        "IconId": 2500009,
+        "DefaultNum": 1,
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 9,
+        "RoaId": 2,
+        "StartOffset": [
+            0,
+            0
+        ],
+        "ClipInfo": [
+            [
+                1
+            ]
+        ],
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 0,
+        "CanGetByDrop": 0,
+        "DropWeight": "",
+        "IconId": 2500009,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 9,
+        "RoaId": 3,
+        "StartOffset": [
+            0,
+            0
+        ],
+        "ClipInfo": [
+            [
+                1
+            ]
+        ],
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 0,
+        "CanGetByDrop": 0,
+        "DropWeight": "",
+        "IconId": 2500009,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 9,
+        "RoaId": 4,
+        "StartOffset": [
+            0,
+            0
+        ],
+        "ClipInfo": [
+            [
+                1
+            ]
+        ],
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 0,
+        "CanGetByDrop": 0,
+        "DropWeight": "",
+        "IconId": 2500009,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 10,
+        "RoaId": 1,
+        "StartOffset": [
+            0,
+            0
+        ],
+        "ClipInfo": [
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 0,
+        "CanGetByDrop": 0,
+        "DropWeight": "",
+        "IconId": 2500010,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 10,
+        "RoaId": 2,
+        "StartOffset": [
+            0,
+            0
+        ],
+        "ClipInfo": {
+            "1": 1
+        },
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 0,
+        "CanGetByDrop": 0,
+        "DropWeight": "",
+        "IconId": 2500010,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 10,
+        "RoaId": 3,
+        "StartOffset": [
+            0,
+            -1
+        ],
+        "ClipInfo": [
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 0,
+        "CanGetByDrop": 0,
+        "DropWeight": "",
+        "IconId": 2500010,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 10,
+        "RoaId": 4,
+        "StartOffset": [
+            -1,
+            0
+        ],
+        "ClipInfo": {
+            "1": 1
+        },
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 0,
+        "CanGetByDrop": 0,
+        "DropWeight": "",
+        "IconId": 2500010,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 11,
+        "RoaId": 1,
+        "StartOffset": [
+            0,
+            0
+        ],
+        "ClipInfo": {
+            "1": 0
+        },
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 0,
+        "CanGetByDrop": 0,
+        "DropWeight": "",
+        "IconId": 2500011,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 11,
+        "RoaId": 2,
+        "StartOffset": [
+            0,
+            -1
+        ],
+        "ClipInfo": {
+            "1": 1
+        },
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 0,
+        "CanGetByDrop": 0,
+        "DropWeight": "",
+        "IconId": 2500011,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 11,
+        "RoaId": 3,
+        "StartOffset": [
+            -1,
+            -1
+        ],
+        "ClipInfo": {
+            "0": 1,
+            "1": 1
+        },
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 0,
+        "CanGetByDrop": 0,
+        "DropWeight": "",
+        "IconId": 2500011,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    },
+    {
+        "ClipId": 11,
+        "RoaId": 4,
+        "StartOffset": [
+            -1,
+            0
+        ],
+        "ClipInfo": {
+            "1": 1,
+            "0": 1
+        },
+        "IsSp": 0,
+        "SpReward": "",
+        "CanGC": 0,
+        "CanGetByDrop": 0,
+        "DropWeight": "",
+        "IconId": 2500011,
+        "DefaultNum": "",
+        "CanGetFromSendWish": 1,
+        "SendWishDropWeight": 1
+    }
+]

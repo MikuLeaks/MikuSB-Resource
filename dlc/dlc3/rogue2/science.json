@@ -1,0 +1,266 @@
+[
+    {
+        "ID": 1,
+        "Area": 1,
+        "Conditions": "",
+        "PreID": "",
+        "Name": "",
+        "Des": "",
+        "MaxLevel": 1,
+        "Buff": "",
+        "LevelDes": "",
+        "DesValue": [
+            [
+                10
+            ]
+        ],
+        "Spend": [
+            [
+                10
+            ]
+        ]
+    },
+    {
+        "ID": 2,
+        "Area": 1,
+        "Conditions": "",
+        "PreID": [
+            1
+        ],
+        "Name": "",
+        "Des": "",
+        "MaxLevel": 5,
+        "Buff": "",
+        "LevelDes": [
+            [
+                "rogue.des1"
+            ],
+            [
+                "rogue.des2"
+            ],
+            [
+                "rogue.des3"
+            ],
+            [
+                "rogue.des4"
+            ],
+            [
+                "rogue.des5"
+            ]
+        ],
+        "DesValue": [
+            [
+                10
+            ],
+            [
+                12
+            ],
+            [
+                14
+            ],
+            [
+                16
+            ],
+            [
+                18
+            ]
+        ],
+        "Spend": [
+            [
+                10
+            ],
+            [
+                10
+            ],
+            [
+                10
+            ],
+            [
+                10
+            ],
+            [
+                10
+            ]
+        ]
+    },
+    {
+        "ID": 3,
+        "Area": 1,
+        "Conditions": "",
+        "PreID": [
+            1
+        ],
+        "Name": "",
+        "Des": "",
+        "MaxLevel": 5
+    },
+    {
+        "ID": 4,
+        "Area": 1,
+        "Conditions": "",
+        "PreID": [
+            1
+        ],
+        "Name": "",
+        "Des": "",
+        "MaxLevel": 5
+    },
+    {
+        "ID": 5,
+        "Area": 2,
+        "Conditions": 100,
+        "PreID": [
+            2,
+            3,
+            4
+        ],
+        "Name": "",
+        "Des": "",
+        "MaxLevel": 1
+    },
+    {
+        "ID": 6,
+        "Area": 2,
+        "Conditions": 100,
+        "PreID": [
+            5
+        ],
+        "Name": "",
+        "Des": "",
+        "MaxLevel": 5
+    },
+    {
+        "ID": 7,
+        "Area": 2,
+        "Conditions": 100,
+        "PreID": [
+            5
+        ],
+        "Name": "",
+        "Des": "",
+        "MaxLevel": 5
+    },
+    {
+        "ID": 8,
+        "Area": 2,
+        "Conditions": 100,
+        "PreID": [
+            5
+        ],
+        "Name": "",
+        "Des": "",
+        "MaxLevel": 5
+    },
+    {
+        "ID": 9,
+        "Area": 2,
+        "Conditions": 100,
+        "PreID": [
+            6
+        ],
+        "Name": "",
+        "Des": "",
+        "MaxLevel": 5
+    },
+    {
+        "ID": 10,
+        "Area": 2,
+        "Conditions": 100,
+        "PreID": [
+            7
+        ],
+        "Name": "",
+        "Des": "",
+        "MaxLevel": 5
+    },
+    {
+        "ID": 11,
+        "Area": 2,
+        "Conditions": 100,
+        "PreID": [
+            8
+        ],
+        "Name": "",
+        "Des": "",
+        "MaxLevel": 5
+    },
+    {
+        "ID": 12,
+        "Area": 3,
+        "Conditions": 200,
+        "PreID": [
+            9,
+            10,
+            11
+        ],
+        "Name": "",
+        "Des": "",
+        "MaxLevel": 1
+    },
+    {
+        "ID": 13,
+        "Area": 3,
+        "Conditions": 200,
+        "PreID": [
+            12
+        ],
+        "Name": "",
+        "Des": "",
+        "MaxLevel": 5
+    },
+    {
+        "ID": 14,
+        "Area": 3,
+        "Conditions": 200,
+        "PreID": [
+            12
+        ],
+        "Name": "",
+        "Des": "",
+        "MaxLevel": 5
+    },
+    {
+        "ID": 15,
+        "Area": 3,
+        "Conditions": 200,
+        "PreID": [
+            12
+        ],
+        "Name": "",
+        "Des": "",
+        "MaxLevel": 5
+    },
+    {
+        "ID": 16,
+        "Area": 3,
+        "Conditions": 200,
+        "PreID": [
+            13
+        ],
+        "Name": "",
+        "Des": "",
+        "MaxLevel": 5
+    },
+    {
+        "ID": 17,
+        "Area": 3,
+        "Conditions": 200,
+        "PreID": [
+            14
+        ],
+        "Name": "",
+        "Des": "",
+        "MaxLevel": 5
+    },
+    {
+        "ID": 18,
+        "Area": 3,
+        "Conditions": 200,
+        "PreID": [
+            15
+        ],
+        "Name": "",
+        "Des": "",
+        "MaxLevel": 5
+    }
+]

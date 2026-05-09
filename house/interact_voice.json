@@ -1,0 +1,984 @@
+[
+    {
+        "NpcId": 1,
+        "VoiceId": 40101,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 1,
+        "VoiceId": 40102,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 1,
+        "VoiceId": 40103,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 1,
+        "VoiceId": 40104,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 1,
+        "VoiceId": 40105,
+        "BeginHour": 20,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 2,
+        "VoiceId": 40201,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 2,
+        "VoiceId": 40202,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 2,
+        "VoiceId": 40203,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 2,
+        "VoiceId": 40204,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 2,
+        "VoiceId": 40205,
+        "BeginHour": 20,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 3,
+        "VoiceId": 40301,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 3,
+        "VoiceId": 40302,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 3,
+        "VoiceId": 40303,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 3,
+        "VoiceId": 40304,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 3,
+        "VoiceId": 40305,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": [
+            "house_bed1"
+        ],
+        "Weight": 100
+    },
+    {
+        "NpcId": 4,
+        "VoiceId": 40401,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 4,
+        "VoiceId": 40402,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 4,
+        "VoiceId": 40403,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 4,
+        "VoiceId": 40404,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 4,
+        "VoiceId": 40405,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": [
+            "house_bed1"
+        ],
+        "Weight": 100
+    },
+    {
+        "NpcId": 5,
+        "VoiceId": 40501,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 5,
+        "VoiceId": 40502,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 5,
+        "VoiceId": 40503,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 5,
+        "VoiceId": 40504,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 5,
+        "VoiceId": 40505,
+        "BeginHour": 20,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 6,
+        "VoiceId": 40601,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 6,
+        "VoiceId": 40602,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 6,
+        "VoiceId": 40603,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 6,
+        "VoiceId": 40604,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 6,
+        "VoiceId": 40605,
+        "BeginHour": 20,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 7,
+        "VoiceId": 40701,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 7,
+        "VoiceId": 40702,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 7,
+        "VoiceId": 40703,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 7,
+        "VoiceId": 40704,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 7,
+        "VoiceId": 40705,
+        "BeginHour": 20,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 8,
+        "VoiceId": 40801,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 8,
+        "VoiceId": 40802,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 8,
+        "VoiceId": 40803,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 8,
+        "VoiceId": 40804,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 8,
+        "VoiceId": 40805,
+        "BeginHour": 20,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 10,
+        "VoiceId": 41001,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 10,
+        "VoiceId": 41002,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 10,
+        "VoiceId": 41003,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 10,
+        "VoiceId": 41004,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 10,
+        "VoiceId": 41005,
+        "BeginHour": 20,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 11,
+        "VoiceId": 41101,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 11,
+        "VoiceId": 41102,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 11,
+        "VoiceId": 41103,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 11,
+        "VoiceId": 41104,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 11,
+        "VoiceId": 41105,
+        "BeginHour": 20,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 12,
+        "VoiceId": 41201,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 12,
+        "VoiceId": 41202,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 12,
+        "VoiceId": 41203,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 12,
+        "VoiceId": 41204,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 12,
+        "VoiceId": 41205,
+        "BeginHour": 20,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 13,
+        "VoiceId": 41301,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 13,
+        "VoiceId": 41302,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 13,
+        "VoiceId": 41303,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 13,
+        "VoiceId": 41304,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 13,
+        "VoiceId": 41305,
+        "BeginHour": 20,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 14,
+        "VoiceId": 41401,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 14,
+        "VoiceId": 41402,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 14,
+        "VoiceId": 41403,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 14,
+        "VoiceId": 41404,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 14,
+        "VoiceId": 41405,
+        "BeginHour": 20,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 17,
+        "VoiceId": 41701,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 17,
+        "VoiceId": 41702,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 17,
+        "VoiceId": 41703,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 17,
+        "VoiceId": 41704,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 17,
+        "VoiceId": 41705,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": [
+            "house_bed1"
+        ],
+        "Weight": 100
+    },
+    {
+        "NpcId": 15,
+        "VoiceId": 41501,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 15,
+        "VoiceId": 41502,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 15,
+        "VoiceId": 41503,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 15,
+        "VoiceId": 41504,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 15,
+        "VoiceId": 41505,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": [
+            "house_bed1"
+        ],
+        "Weight": 100
+    },
+    {
+        "NpcId": 16,
+        "VoiceId": 41601,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 16,
+        "VoiceId": 41602,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 16,
+        "VoiceId": 41603,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 16,
+        "VoiceId": 41604,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 16,
+        "VoiceId": 41605,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": [
+            "house_tentrest"
+        ],
+        "Weight": 100
+    },
+    {
+        "NpcId": 18,
+        "VoiceId": 41801,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 18,
+        "VoiceId": 41802,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 18,
+        "VoiceId": 41803,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 18,
+        "VoiceId": 41804,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 18,
+        "VoiceId": 41805,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": [
+            "house_bed1"
+        ],
+        "Weight": 100
+    },
+    {
+        "NpcId": 20,
+        "VoiceId": 42001,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 20,
+        "VoiceId": 42002,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 20,
+        "VoiceId": 42003,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 20,
+        "VoiceId": 42004,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 20,
+        "VoiceId": 42005,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": [
+            "house_bed1"
+        ],
+        "Weight": 100
+    },
+    {
+        "NpcId": 21,
+        "VoiceId": 42101,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 21,
+        "VoiceId": 42102,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 21,
+        "VoiceId": 42103,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 21,
+        "VoiceId": 42104,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 21,
+        "VoiceId": 42105,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": [
+            "house_bed1"
+        ],
+        "Weight": 100
+    },
+    {
+        "NpcId": 22,
+        "VoiceId": 42201,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 22,
+        "VoiceId": 42202,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 22,
+        "VoiceId": 42203,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 22,
+        "VoiceId": 42204,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 22,
+        "VoiceId": 42205,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": [
+            "house_bed1"
+        ],
+        "Weight": 100
+    },
+    {
+        "NpcId": 23,
+        "VoiceId": 42301,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 23,
+        "VoiceId": 42302,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 23,
+        "VoiceId": 42303,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 23,
+        "VoiceId": 42304,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 23,
+        "VoiceId": 42305,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": [
+            "house_bed1"
+        ],
+        "Weight": 100
+    },
+    {
+        "NpcId": 24,
+        "VoiceId": 42401,
+        "BeginHour": 6,
+        "EndHour": 10,
+        "TargetAction": "",
+        "Weight": 10
+    },
+    {
+        "NpcId": 24,
+        "VoiceId": 42402,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 24,
+        "VoiceId": 42403,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 24,
+        "VoiceId": 42404,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 24,
+        "VoiceId": 42405,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": [
+            "house_bed1"
+        ],
+        "Weight": 100
+    },
+    {
+        "NpcId": 101,
+        "VoiceId": 410101,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 101,
+        "VoiceId": 410102,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 101,
+        "VoiceId": 410103,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 101,
+        "VoiceId": 410104,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 101,
+        "VoiceId": 410105,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 103,
+        "VoiceId": 410101,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 103,
+        "VoiceId": 410102,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 103,
+        "VoiceId": 410103,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 103,
+        "VoiceId": 410104,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    },
+    {
+        "NpcId": 103,
+        "VoiceId": 410105,
+        "BeginHour": 0,
+        "EndHour": 24,
+        "TargetAction": "",
+        "Weight": 1
+    }
+]

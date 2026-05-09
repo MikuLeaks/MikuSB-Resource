@@ -1,0 +1,760 @@
+[
+    {
+        "Id": 101,
+        "NameKey": "rmol.ActiveSkillName01",
+        "Desc": "rmol.ActiveSkillDesc01",
+        "Icon": 4862001,
+        "Type": 1,
+        "Charge": 6,
+        "Rate": "",
+        "BeDefense": "",
+        "EffectName": "double_touzi"
+    },
+    {
+        "Id": 102,
+        "NameKey": "rmol.ActiveSkillName02",
+        "Desc": "rmol.ActiveSkillDesc02",
+        "Icon": 4862002,
+        "Type": 1,
+        "Charge": 6,
+        "Rate": "",
+        "BeDefense": 1,
+        "EffectName": "despoil_money",
+        "Param1": 20
+    },
+    {
+        "Id": 103,
+        "NameKey": "rmol.ActiveSkillName03",
+        "Desc": "rmol.ActiveSkillDesc03",
+        "Icon": 4862003,
+        "Type": 2,
+        "Charge": 9,
+        "Rate": "",
+        "BeDefense": 1,
+        "EffectName": "destroy_house"
+    },
+    {
+        "Id": 104,
+        "NameKey": "rmol.ActiveSkillName04",
+        "Desc": "rmol.ActiveSkillDesc04",
+        "Icon": 4862004,
+        "Type": 1,
+        "Charge": 10,
+        "Rate": "",
+        "BeDefense": "",
+        "EffectName": "goto_start"
+    },
+    {
+        "Id": 105,
+        "NameKey": "rmol.ActiveSkillName05",
+        "Desc": "rmol.ActiveSkillDesc05",
+        "Icon": 4862005,
+        "Type": 1,
+        "Charge": 7,
+        "Rate": "",
+        "BeDefense": "",
+        "EffectName": "upgrad_house_to_max"
+    },
+    {
+        "Id": 106,
+        "NameKey": "rmol.ActiveSkillName06",
+        "Desc": "rmol.ActiveSkillDesc06",
+        "Icon": 4862006,
+        "Type": 2,
+        "Charge": 4,
+        "Rate": "",
+        "BeDefense": 1,
+        "EffectName": "remove_enemy_charge",
+        "Param1": 4
+    },
+    {
+        "Id": 107,
+        "NameKey": "rmol.ActiveSkillName07",
+        "Desc": "rmol.ActiveSkillDesc07",
+        "Icon": 4862007,
+        "Type": 1,
+        "Charge": 6,
+        "Rate": "",
+        "BeDefense": 1,
+        "EffectName": "exchange_position"
+    },
+    {
+        "Id": 108,
+        "NameKey": "rmol.ActiveSkillName08",
+        "Desc": "rmol.ActiveSkillDesc08",
+        "Icon": 4862008,
+        "Type": 2,
+        "Charge": 5,
+        "Rate": "",
+        "BeDefense": 1,
+        "EffectName": "enemy_auto_touzi"
+    },
+    {
+        "Id": 109,
+        "NameKey": "rmol.ActiveSkillName09",
+        "Desc": "rmol.ActiveSkillDesc09",
+        "Icon": 4862009,
+        "Type": 1,
+        "Charge": 9,
+        "Rate": "",
+        "BeDefense": "",
+        "EffectName": "skill_moveto_realway",
+        "Param1": 30
+    },
+    {
+        "Id": 201,
+        "NameKey": "rmol.PassiveSkillName01",
+        "Desc": "rmol.PassiveSkillDesc01",
+        "Icon": 4862010,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 100,
+        "BeDefense": "",
+        "EffectName": "init_add_charge",
+        "Param1": 3
+    },
+    {
+        "Id": 202,
+        "NameKey": "rmol.PassiveSkillName02",
+        "Desc": "rmol.PassiveSkillDesc02",
+        "Icon": 4862011,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 100,
+        "BeDefense": "",
+        "EffectName": "init_add_money",
+        "Param1": 20
+    },
+    {
+        "Id": 203,
+        "NameKey": "rmol.PassiveSkillName25",
+        "Desc": "rmol.PassiveSkillDesc25",
+        "Icon": 4862034,
+        "Type": 1,
+        "Charge": "",
+        "Rate": 100,
+        "BeDefense": "",
+        "EffectName": "add_money_in_start",
+        "Param1": 20
+    },
+    {
+        "Id": 204,
+        "NameKey": "rmol.PassiveSkillName04",
+        "Desc": "rmol.PassiveSkillDesc04",
+        "Icon": 4862013,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 100,
+        "BeDefense": 1,
+        "EffectName": "reduce_enemy_money",
+        "Param1": 15,
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10001
+        }
+    },
+    {
+        "Id": 205,
+        "NameKey": "rmol.PassiveSkillName21",
+        "Desc": "rmol.PassiveSkillDesc21",
+        "Icon": 4862030,
+        "Type": 1,
+        "Charge": "",
+        "Rate": 25,
+        "BeDefense": "",
+        "EffectName": "defended_skill",
+        "Param1": "",
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10001
+        }
+    },
+    {
+        "Id": 206,
+        "NameKey": "rmol.PassiveSkillName22",
+        "Desc": "rmol.PassiveSkillDesc22",
+        "Icon": 4862031,
+        "Type": 1,
+        "Charge": "",
+        "Rate": 20,
+        "BeDefense": "",
+        "EffectName": "defended_passive",
+        "Param1": "",
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10001
+        }
+    },
+    {
+        "Id": 207,
+        "NameKey": "rmol.PassiveSkillName05",
+        "Desc": "rmol.PassiveSkillDesc05",
+        "Icon": 4862014,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 100,
+        "BeDefense": "",
+        "EffectName": "discount_empty_ground",
+        "Param1": 15,
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10002
+        }
+    },
+    {
+        "Id": 208,
+        "NameKey": "rmol.PassiveSkillName08",
+        "Desc": "rmol.PassiveSkillDesc08",
+        "Icon": 4862017,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 60,
+        "BeDefense": "",
+        "EffectName": "discount_toll",
+        "Param1": 35,
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10002
+        }
+    },
+    {
+        "Id": 209,
+        "NameKey": "rmol.PassiveSkillName14",
+        "Desc": "rmol.PassiveSkillDesc14",
+        "Icon": 4862023,
+        "Type": 1,
+        "Charge": "",
+        "Rate": 100,
+        "BeDefense": 1,
+        "EffectName": "stolen_money",
+        "Param1": 30,
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10002
+        }
+    },
+    {
+        "Id": 210,
+        "NameKey": "rmol.PassiveSkillName03",
+        "Desc": "rmol.PassiveSkillDesc03",
+        "Icon": 4862012,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 100,
+        "BeDefense": "",
+        "EffectName": "init_add_rate",
+        "Param1": 15,
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10003
+        }
+    },
+    {
+        "Id": 211,
+        "NameKey": "rmol.PassiveSkillName06",
+        "Desc": "rmol.PassiveSkillDesc06",
+        "Icon": 4862015,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 100,
+        "BeDefense": "",
+        "EffectName": "discount_in_shop",
+        "Param1": 40,
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10003
+        }
+    },
+    {
+        "Id": 212,
+        "NameKey": "rmol.PassiveSkillName23",
+        "Desc": "rmol.PassiveSkillDesc23",
+        "Icon": 4862032,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 100,
+        "BeDefense": "",
+        "EffectName": "discount_escape_island",
+        "Param1": 50,
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10003
+        }
+    },
+    {
+        "Id": 213,
+        "NameKey": "rmol.PassiveSkillName30",
+        "Desc": "rmol.PassiveSkillDesc30",
+        "Icon": 4862039,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 20,
+        "BeDefense": "",
+        "EffectName": "add_toll_after_buy",
+        "Param1": 100,
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10004
+        }
+    },
+    {
+        "Id": 214,
+        "NameKey": "rmol.PassiveSkillName07",
+        "Desc": "rmol.PassiveSkillDesc07",
+        "Icon": 4862016,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 55,
+        "BeDefense": "",
+        "EffectName": "discount_self_house",
+        "Param1": 25,
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10004
+        }
+    },
+    {
+        "Id": 215,
+        "NameKey": "rmol.PassiveSkillName19",
+        "Desc": "rmol.PassiveSkillDesc19",
+        "Icon": 4862028,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 20,
+        "BeDefense": 1,
+        "EffectName": "disable_double_touzi",
+        "Param1": "",
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10004
+        }
+    },
+    {
+        "Id": 216,
+        "NameKey": "rmol.PassiveSkillName16",
+        "Desc": "rmol.PassiveSkillDesc16",
+        "Icon": 4862025,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 35,
+        "BeDefense": "",
+        "EffectName": "ignore_island_in_double",
+        "Param1": "",
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10005
+        }
+    },
+    {
+        "Id": 217,
+        "NameKey": "rmol.PassiveSkillName17",
+        "Desc": "rmol.PassiveSkillDesc17",
+        "Icon": 4862026,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 100,
+        "BeDefense": "",
+        "EffectName": "add_money_before_operation",
+        "Param1": 5,
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10005
+        }
+    },
+    {
+        "Id": 218,
+        "NameKey": "rmol.PassiveSkillName18",
+        "Desc": "rmol.PassiveSkillDesc18",
+        "Icon": 4862027,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 25,
+        "BeDefense": "",
+        "EffectName": "must_double_touzi",
+        "Param1": "",
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10005
+        }
+    },
+    {
+        "Id": 219,
+        "NameKey": "rmol.PassiveSkillName09",
+        "Desc": "rmol.PassiveSkillDesc09",
+        "Icon": 4862018,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 20,
+        "BeDefense": "",
+        "EffectName": "discount_toll_zero",
+        "Param1": "",
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10006
+        }
+    },
+    {
+        "Id": 220,
+        "NameKey": "rmol.PassiveSkillName15",
+        "Desc": "rmol.PassiveSkillDesc15",
+        "Icon": 4862024,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 100,
+        "BeDefense": 1,
+        "EffectName": "stolen_charge",
+        "Param1": 2,
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10006
+        }
+    },
+    {
+        "Id": 221,
+        "NameKey": "rmol.PassiveSkillName27",
+        "Desc": "rmol.PassiveSkillDesc27",
+        "Icon": 4862036,
+        "Type": 1,
+        "Charge": "",
+        "Rate": 100,
+        "BeDefense": 1,
+        "EffectName": "moveto_island_after_house_warning",
+        "Param1": 6,
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10006
+        }
+    },
+    {
+        "Id": 222,
+        "NameKey": "rmol.PassiveSkillName10",
+        "Desc": "rmol.PassiveSkillDesc10",
+        "Icon": 4862019,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 60,
+        "BeDefense": "",
+        "EffectName": "discount_purchase",
+        "Param1": 30,
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10007
+        }
+    },
+    {
+        "Id": 223,
+        "NameKey": "rmol.PassiveSkillName12",
+        "Desc": "rmol.PassiveSkillDesc12",
+        "Icon": 4862021,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 25,
+        "BeDefense": "",
+        "EffectName": "debuff_enemy_buy",
+        "Param1": 50,
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10007
+        }
+    },
+    {
+        "Id": 224,
+        "NameKey": "rmol.PassiveSkillName20",
+        "Desc": "rmol.PassiveSkillDesc20",
+        "Icon": 4862029,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 60,
+        "BeDefense": "",
+        "EffectName": "add_charge_after_useskill",
+        "Param1": 2,
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10007
+        }
+    },
+    {
+        "Id": 225,
+        "NameKey": "rmol.PassiveSkillName13",
+        "Desc": "rmol.PassiveSkillDesc13",
+        "Icon": 4862022,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 35,
+        "BeDefense": "",
+        "EffectName": "debuff_enemy_purchase",
+        "Param1": 50,
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10008
+        }
+    },
+    {
+        "Id": 226,
+        "NameKey": "rmol.PassiveSkillName24",
+        "Desc": "rmol.PassiveSkillDesc24",
+        "Icon": 4862033,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 100,
+        "BeDefense": "",
+        "EffectName": "add_charget_in_start",
+        "Param1": 1,
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10008
+        }
+    },
+    {
+        "Id": 227,
+        "NameKey": "rmol.PassiveSkillName28",
+        "Desc": "rmol.PassiveSkillDesc28",
+        "Icon": 4862037,
+        "Type": 1,
+        "Charge": "",
+        "Rate": 100,
+        "BeDefense": 1,
+        "EffectName": "moveto_island_after_score_warning",
+        "Param1": 6,
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10008
+        }
+    },
+    {
+        "Id": 228,
+        "NameKey": "rmol.PassiveSkillName11",
+        "Desc": "rmol.PassiveSkillDesc11",
+        "Icon": 4862020,
+        "Type": 2,
+        "Charge": "",
+        "Rate": 40,
+        "BeDefense": "",
+        "EffectName": "discount_railway",
+        "Param1": 50,
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10009
+        }
+    },
+    {
+        "Id": 229,
+        "NameKey": "rmol.PassiveSkillName26",
+        "Desc": "rmol.PassiveSkillDesc26",
+        "Icon": 4862035,
+        "Type": 1,
+        "Charge": "",
+        "Rate": 20,
+        "BeDefense": "",
+        "EffectName": "moveto_start_after_buy3",
+        "Param1": "",
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10009
+        }
+    },
+    {
+        "Id": 230,
+        "NameKey": "rmol.PassiveSkillName29",
+        "Desc": "rmol.PassiveSkillDesc29",
+        "Icon": 4862038,
+        "Type": 1,
+        "Charge": "",
+        "Rate": 25,
+        "BeDefense": "",
+        "EffectName": "random_levelup_when_enemy_levelup",
+        "Param1": "",
+        "Price": "",
+        "AvailableCondition": {
+            "27": 10009
+        }
+    },
+    {
+        "Id": 301,
+        "NameKey": "rmol.RandCardSkillName01",
+        "Desc": "rmol.RandCardSkillDesc01",
+        "Icon": 4864007,
+        "Type": 2,
+        "Charge": "",
+        "Rate": "",
+        "BeDefense": "",
+        "EffectName": "card_random_poweroff_until_arrive"
+    },
+    {
+        "Id": 302,
+        "NameKey": "rmol.RandCardSkillName02",
+        "Desc": "rmol.RandCardSkillDesc02",
+        "Icon": 4864011,
+        "Type": 2,
+        "Charge": "",
+        "Rate": "",
+        "BeDefense": "",
+        "EffectName": "card_random_free_toll_until_arrive"
+    },
+    {
+        "Id": 303,
+        "NameKey": "rmol.RandCardSkillName03",
+        "Desc": "rmol.RandCardSkillDesc03",
+        "Icon": 4864008,
+        "Type": 2,
+        "Charge": "",
+        "Rate": "",
+        "BeDefense": "",
+        "EffectName": "card_random_toll_multi_until_arrive",
+        "Param1": 100
+    },
+    {
+        "Id": 304,
+        "NameKey": "rmol.RandCardSkillName04",
+        "Desc": "rmol.RandCardSkillDesc04",
+        "Icon": 4864001,
+        "Type": 2,
+        "Charge": "",
+        "Rate": "",
+        "BeDefense": "",
+        "EffectName": "card_random_destroy_house"
+    },
+    {
+        "Id": 305,
+        "NameKey": "rmol.RandCardSkillName05",
+        "Desc": "rmol.RandCardSkillDesc05",
+        "Icon": 4864002,
+        "Type": 1,
+        "Charge": "",
+        "Rate": "",
+        "BeDefense": "",
+        "EffectName": "card_moveto_start"
+    },
+    {
+        "Id": 306,
+        "NameKey": "rmol.RandCardSkillName06",
+        "Desc": "rmol.RandCardSkillDesc06",
+        "Icon": 4864003,
+        "Type": 1,
+        "Charge": "",
+        "Rate": "",
+        "BeDefense": "",
+        "EffectName": "card_moveto_shop"
+    },
+    {
+        "Id": 307,
+        "NameKey": "rmol.RandCardSkillName07",
+        "Desc": "rmol.RandCardSkillDesc07",
+        "Icon": 4864004,
+        "Type": 1,
+        "Charge": "",
+        "Rate": "",
+        "BeDefense": "",
+        "EffectName": "card_moveto_realway"
+    },
+    {
+        "Id": 308,
+        "NameKey": "rmol.RandCardSkillName08",
+        "Desc": "rmol.RandCardSkillDesc08",
+        "Icon": 4864005,
+        "Type": 3,
+        "Charge": "",
+        "Rate": "",
+        "BeDefense": "",
+        "EffectName": "card_moveto_island"
+    },
+    {
+        "Id": 309,
+        "NameKey": "rmol.RandCardSkillName09",
+        "Desc": "rmol.RandCardSkillDesc09",
+        "Icon": 4864006,
+        "Type": 2,
+        "Charge": "",
+        "Rate": "",
+        "BeDefense": "",
+        "EffectName": "card_add_charge",
+        "Param1": 2
+    },
+    {
+        "Id": 310,
+        "NameKey": "rmol.RandCardSkillName10",
+        "Desc": "rmol.RandCardSkillDesc10",
+        "Icon": 4864011,
+        "Type": 2,
+        "Charge": "",
+        "Rate": "",
+        "BeDefense": "",
+        "EffectName": "card_next_toll_zero"
+    },
+    {
+        "Id": 311,
+        "NameKey": "rmol.RandCardSkillName11",
+        "Desc": "rmol.RandCardSkillDesc11",
+        "Icon": 4864009,
+        "Type": 1,
+        "Charge": "",
+        "Rate": "",
+        "BeDefense": "",
+        "EffectName": "card_random_empty_ground_buy"
+    },
+    {
+        "Id": 401,
+        "NameKey": "rmol.StoreCardSkillName01",
+        "Desc": "rmol.StoreCardSkillDesc01",
+        "Icon": 4864007,
+        "Type": 2,
+        "Charge": "",
+        "Rate": "",
+        "BeDefense": "",
+        "EffectName": "shop_poweroff_until_arrive",
+        "Param1": "",
+        "Price": 0.05
+    },
+    {
+        "Id": 402,
+        "NameKey": "rmol.StoreCardSkillName02",
+        "Desc": "rmol.StoreCardSkillDesc02",
+        "Icon": 4864008,
+        "Type": 2,
+        "Charge": "",
+        "Rate": "",
+        "BeDefense": "",
+        "EffectName": "shop_toll_add_until_arrive",
+        "Param1": 100,
+        "Price": 0.04
+    },
+    {
+        "Id": 403,
+        "NameKey": "rmol.StoreCardSkillName03",
+        "Desc": "rmol.StoreCardSkillDesc03",
+        "Icon": 4864009,
+        "Type": 1,
+        "Charge": "",
+        "Rate": "",
+        "BeDefense": "",
+        "EffectName": "shop_free_buy_house",
+        "Param1": "",
+        "Price": 0.06
+    },
+    {
+        "Id": 404,
+        "NameKey": "rmol.StoreCardSkillName04",
+        "Desc": "rmol.StoreCardSkillDesc04",
+        "Icon": 4864010,
+        "Type": 1,
+        "Charge": "",
+        "Rate": "",
+        "BeDefense": "",
+        "EffectName": "shop_free_to_landmark",
+        "Param1": "",
+        "Price": 0.12
+    },
+    {
+        "Id": 405,
+        "NameKey": "rmol.StoreCardSkillName05",
+        "Desc": "rmol.StoreCardSkillDesc05",
+        "Icon": 4864011,
+        "Type": 2,
+        "Charge": "",
+        "Rate": "",
+        "BeDefense": "",
+        "EffectName": "shop_next_toll_zero",
+        "Param1": "",
+        "Price": 0.05
+    }
+]

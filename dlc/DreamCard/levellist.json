@@ -1,0 +1,2580 @@
+[
+    {
+        "LevelListID": 1,
+        "InitialRole": 13,
+        "IconID": 4104001,
+        "Name": "dreamcard.level_name01",
+        "Des": "dreamcard.level_desc01",
+        "Condition": [],
+        "HardStage": 1,
+        "DreamLevelID": 1,
+        "Hard": 1,
+        "BossListID": {
+            "11": 1
+        },
+        "RoundNum": [
+            5,
+            5
+        ],
+        "BuildID": [
+            1
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            1,
+            2,
+            5,
+            5,
+            8,
+            19,
+            19
+        ],
+        "TreZeroID": [
+            9
+        ],
+        "StarMessID": {
+            "1": [],
+            "3": [
+                2
+            ],
+            "4": [
+                500
+            ]
+        },
+        "RewardID": 1,
+        "Items": {
+            "101": 0,
+            "102": 0,
+            "103": 5,
+            "104": 3,
+            "105": 0
+        }
+    },
+    {
+        "LevelListID": 2,
+        "InitialRole": 13,
+        "IconID": 4104001,
+        "Name": "dreamcard.level_name02",
+        "Des": "dreamcard.level_desc02",
+        "Condition": [
+            1
+        ],
+        "HardStage": 1,
+        "DreamLevelID": 1,
+        "Hard": 1,
+        "BossListID": {
+            "12": 2
+        },
+        "RoundNum": [
+            6,
+            6
+        ],
+        "BuildID": [
+            1
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            2,
+            5,
+            6,
+            7
+        ],
+        "TreZeroID": [
+            14
+        ],
+        "StarMessID": {
+            "2": [
+                1
+            ],
+            "3": [
+                2
+            ],
+            "4": [
+                1000
+            ]
+        },
+        "RewardID": 2,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 10,
+            "104": 5,
+            "105": 10
+        }
+    },
+    {
+        "LevelListID": 2,
+        "InitialRole": 13,
+        "IconID": 4104001,
+        "Name": "dreamcard.level_name02",
+        "Des": "dreamcard.level_desc02",
+        "Condition": [
+            1
+        ],
+        "HardStage": 2,
+        "DreamLevelID": 21,
+        "Hard": 1,
+        "BossListID": {
+            "13": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            7
+        ],
+        "BuildID": [
+            1,
+            2,
+            3
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            1,
+            2,
+            8,
+            19,
+            19,
+            40,
+            40
+        ],
+        "TreZeroID": [
+            10
+        ],
+        "StarMessID": {
+            "1": [],
+            "7": [
+                1000
+            ],
+            "3": [
+                2
+            ]
+        },
+        "RewardID": 3,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 10,
+            "104": 5,
+            "105": 10
+        }
+    },
+    {
+        "LevelListID": 3,
+        "InitialRole": 9,
+        "IconID": 4104004,
+        "Name": "dreamcard.level_name03",
+        "Des": "dreamcard.level_desc03",
+        "Condition": [
+            2
+        ],
+        "HardStage": 1,
+        "DreamLevelID": 2,
+        "Hard": 1.5,
+        "BossListID": {
+            "12": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            7
+        ],
+        "BuildID": [
+            4,
+            1
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            2,
+            53,
+            49,
+            50,
+            50,
+            50,
+            58
+        ],
+        "TreZeroID": [
+            15
+        ],
+        "StarMessID": {
+            "2": [
+                1
+            ],
+            "4": [
+                3000
+            ],
+            "3": [
+                2
+            ]
+        },
+        "RewardID": 4,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 10,
+            "104": 5,
+            "105": 10
+        }
+    },
+    {
+        "LevelListID": 3,
+        "InitialRole": 9,
+        "IconID": 4104004,
+        "Name": "dreamcard.level_name03",
+        "Des": "dreamcard.level_desc03",
+        "Condition": [
+            2
+        ],
+        "HardStage": 2,
+        "DreamLevelID": 4,
+        "Hard": 1.2,
+        "BossListID": {
+            "13": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7
+        ],
+        "BuildID": [
+            4,
+            1,
+            2
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            2,
+            22,
+            53,
+            58,
+            49,
+            49,
+            50,
+            50
+        ],
+        "TreZeroID": [
+            11
+        ],
+        "StarMessID": {
+            "10": [
+                1,
+                4
+            ],
+            "3": [
+                3
+            ],
+            "14": [
+                1,
+                54
+            ]
+        },
+        "RewardID": 5,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 3,
+        "InitialRole": 9,
+        "IconID": 4104004,
+        "Name": "dreamcard.level_name03",
+        "Des": "dreamcard.level_desc03",
+        "Condition": [
+            2
+        ],
+        "HardStage": 3,
+        "DreamLevelID": 5,
+        "Hard": 1.4,
+        "BossListID": {
+            "13": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            6,
+            7
+        ],
+        "BuildID": [
+            4,
+            1,
+            2,
+            5
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            2,
+            22,
+            53,
+            58,
+            49,
+            63,
+            50,
+            65
+        ],
+        "TreZeroID": [
+            11
+        ],
+        "StarMessID": {
+            "2": [
+                2
+            ],
+            "10": [
+                2,
+                4
+            ],
+            "3": [
+                4
+            ]
+        },
+        "RewardID": 38,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 4,
+        "InitialRole": 10,
+        "IconID": 4104005,
+        "Name": "dreamcard.level_name04",
+        "Des": "dreamcard.level_desc04",
+        "Condition": [
+            3
+        ],
+        "HardStage": 1,
+        "DreamLevelID": 2,
+        "Hard": 1,
+        "BossListID": {
+            "14": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7
+        ],
+        "BuildID": [
+            5,
+            1
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            2,
+            68,
+            65,
+            62,
+            62,
+            67,
+            63
+        ],
+        "TreZeroID": [
+            74
+        ],
+        "StarMessID": {
+            "2": [
+                1
+            ],
+            "9": [
+                6,
+                600
+            ],
+            "13": [
+                8,
+                62
+            ]
+        },
+        "RewardID": 6,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 4,
+        "InitialRole": 10,
+        "IconID": 4104005,
+        "Name": "dreamcard.level_name04",
+        "Des": "dreamcard.level_desc04",
+        "Condition": [
+            3
+        ],
+        "HardStage": 2,
+        "DreamLevelID": 4,
+        "Hard": 1.4,
+        "BossListID": {
+            "14": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            5,
+            1,
+            8
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            2,
+            63,
+            63,
+            67,
+            68,
+            71,
+            62
+        ],
+        "TreZeroID": [
+            75,
+            75
+        ],
+        "StarMessID": {
+            "3": [
+                4
+            ],
+            "6": [
+                5,
+                40000
+            ],
+            "13": [
+                2,
+                71
+            ]
+        },
+        "RewardID": 7,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 4,
+        "InitialRole": 10,
+        "IconID": 4104005,
+        "Name": "dreamcard.level_name04",
+        "Des": "dreamcard.level_desc04",
+        "Condition": [
+            3
+        ],
+        "HardStage": 3,
+        "DreamLevelID": 5,
+        "Hard": 1.6,
+        "BossListID": {
+            "14": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            5,
+            1,
+            8,
+            4
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            2,
+            63,
+            50,
+            67,
+            59,
+            71,
+            62
+        ],
+        "TreZeroID": [
+            75
+        ],
+        "StarMessID": {
+            "1": [],
+            "6": [
+                5,
+                60000
+            ],
+            "13": [
+                3,
+                71
+            ]
+        },
+        "RewardID": 39,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 5,
+        "InitialRole": 11,
+        "IconID": 4104008,
+        "Name": "dreamcard.level_name05",
+        "Des": "dreamcard.level_desc05",
+        "Condition": [
+            4
+        ],
+        "HardStage": 1,
+        "DreamLevelID": 3,
+        "Hard": 1,
+        "BossListID": {
+            "15": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7
+        ],
+        "BuildID": [
+            8,
+            1
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            2,
+            109,
+            109,
+            110,
+            110,
+            113,
+            115
+        ],
+        "TreZeroID": [
+            121
+        ],
+        "StarMessID": {
+            "2": [
+                1
+            ],
+            "3": [
+                3
+            ],
+            "12": [
+                40
+            ]
+        },
+        "RewardID": 8,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 5,
+        "InitialRole": 11,
+        "IconID": 4104008,
+        "Name": "dreamcard.level_name05",
+        "Des": "dreamcard.level_desc05",
+        "Condition": [
+            4
+        ],
+        "HardStage": 2,
+        "DreamLevelID": 5,
+        "Hard": 1,
+        "BossListID": {
+            "15": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            8,
+            1,
+            4,
+            5
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            6,
+            6,
+            62,
+            62,
+            51,
+            118,
+            113,
+            117
+        ],
+        "TreZeroID": [
+            122,
+            12
+        ],
+        "StarMessID": {
+            "3": [
+                4
+            ],
+            "6": [
+                8,
+                50000
+            ],
+            "12": [
+                50
+            ]
+        },
+        "RewardID": 9,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 5,
+        "InitialRole": 11,
+        "IconID": 4104008,
+        "Name": "dreamcard.level_name05",
+        "Des": "dreamcard.level_desc05",
+        "Condition": [
+            4
+        ],
+        "HardStage": 3,
+        "DreamLevelID": 6,
+        "Hard": 1.2,
+        "BossListID": {
+            "15": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            8,
+            1,
+            4,
+            5,
+            11
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            6,
+            156,
+            62,
+            62,
+            51,
+            118,
+            113,
+            154
+        ],
+        "TreZeroID": [
+            122
+        ],
+        "StarMessID": {
+            "1": [],
+            "3": [
+                4
+            ],
+            "6": [
+                8,
+                70000
+            ]
+        },
+        "RewardID": 40,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 6,
+        "InitialRole": 7,
+        "IconID": 4104003,
+        "Name": "dreamcard.level_name06",
+        "Des": "dreamcard.level_desc06",
+        "Condition": [
+            2
+        ],
+        "HardStage": 1,
+        "DreamLevelID": 2,
+        "Hard": 1.5,
+        "BossListID": {
+            "12": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            7
+        ],
+        "BuildID": [
+            3,
+            1
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            2,
+            36,
+            42,
+            44,
+            35
+        ],
+        "TreZeroID": [
+            12
+        ],
+        "StarMessID": {
+            "2": [
+                1
+            ],
+            "4": [
+                3000
+            ],
+            "3": [
+                2
+            ]
+        },
+        "RewardID": 10,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 10,
+            "104": 5,
+            "105": 10
+        }
+    },
+    {
+        "LevelListID": 6,
+        "InitialRole": 7,
+        "IconID": 4104003,
+        "Name": "dreamcard.level_name06",
+        "Des": "dreamcard.level_desc06",
+        "Condition": [
+            2
+        ],
+        "HardStage": 2,
+        "DreamLevelID": 4,
+        "Hard": 1.2,
+        "BossListID": {
+            "13": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7
+        ],
+        "BuildID": [
+            3,
+            1,
+            2
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            43,
+            34,
+            34,
+            35,
+            35,
+            36,
+            80,
+            83
+        ],
+        "TreZeroID": [
+            10
+        ],
+        "StarMessID": {
+            "3": [
+                3
+            ],
+            "7": [
+                1000
+            ],
+            "6": [
+                3,
+                30000
+            ]
+        },
+        "RewardID": 11,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 6,
+        "InitialRole": 7,
+        "IconID": 4104003,
+        "Name": "dreamcard.level_name06",
+        "Des": "dreamcard.level_desc06",
+        "Condition": [
+            2
+        ],
+        "HardStage": 3,
+        "DreamLevelID": 5,
+        "Hard": 1.4,
+        "BossListID": {
+            "13": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            6,
+            7
+        ],
+        "BuildID": [
+            3,
+            1,
+            2,
+            6
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            43,
+            34,
+            34,
+            35,
+            78,
+            36,
+            80,
+            77,
+            77
+        ],
+        "TreZeroID": [
+            11
+        ],
+        "StarMessID": {
+            "3": [
+                4
+            ],
+            "7": [
+                1200
+            ],
+            "6": [
+                3,
+                50000
+            ]
+        },
+        "RewardID": 36,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 7,
+        "InitialRole": 1,
+        "IconID": 4104002,
+        "Name": "dreamcard.level_name07",
+        "Des": "dreamcard.level_desc07",
+        "Condition": [
+            6
+        ],
+        "HardStage": 1,
+        "DreamLevelID": 2,
+        "Hard": 1,
+        "BossListID": {
+            "14": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7
+        ],
+        "BuildID": [
+            2,
+            1
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            19,
+            19,
+            19,
+            22,
+            23,
+            26,
+            21
+        ],
+        "TreZeroID": [
+            33
+        ],
+        "StarMessID": {
+            "2": [
+                1
+            ],
+            "4": [
+                5000
+            ],
+            "13": [
+                2,
+                24
+            ]
+        },
+        "RewardID": 12,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 7,
+        "InitialRole": 1,
+        "IconID": 4104002,
+        "Name": "dreamcard.level_name07",
+        "Des": "dreamcard.level_desc07",
+        "Condition": [
+            6
+        ],
+        "HardStage": 2,
+        "DreamLevelID": 4,
+        "Hard": 1.4,
+        "BossListID": {
+            "14": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            2,
+            1,
+            7
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            2,
+            21,
+            24,
+            26,
+            30,
+            19,
+            19
+        ],
+        "TreZeroID": [
+            12,
+            13
+        ],
+        "StarMessID": {
+            "3": [
+                4
+            ],
+            "6": [
+                2,
+                40000
+            ],
+            "13": [
+                2,
+                27
+            ]
+        },
+        "RewardID": 13,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 7,
+        "InitialRole": 1,
+        "IconID": 4104002,
+        "Name": "dreamcard.level_name07",
+        "Des": "dreamcard.level_desc07",
+        "Condition": [
+            6
+        ],
+        "HardStage": 3,
+        "DreamLevelID": 5,
+        "Hard": 1.6,
+        "BossListID": {
+            "14": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            2,
+            1,
+            7,
+            10
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            2,
+            21,
+            24,
+            26,
+            30,
+            139,
+            19,
+            141
+        ],
+        "TreZeroID": [
+            12,
+            9
+        ],
+        "StarMessID": {
+            "2": [
+                2
+            ],
+            "6": [
+                2,
+                60000
+            ],
+            "13": [
+                3,
+                27
+            ]
+        },
+        "RewardID": 30,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 8,
+        "InitialRole": 8,
+        "IconID": 4104007,
+        "Name": "dreamcard.level_name08",
+        "Des": "dreamcard.level_desc08",
+        "Condition": [
+            7
+        ],
+        "HardStage": 1,
+        "DreamLevelID": 3,
+        "Hard": 1,
+        "BossListID": {
+            "15": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7
+        ],
+        "BuildID": [
+            7,
+            1
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            2,
+            94,
+            96,
+            92,
+            92,
+            97,
+            93
+        ],
+        "TreZeroID": [
+            106
+        ],
+        "StarMessID": {
+            "2": [
+                1
+            ],
+            "3": [
+                3
+            ],
+            "7": [
+                2000
+            ]
+        },
+        "RewardID": 14,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 8,
+        "InitialRole": 8,
+        "IconID": 4104007,
+        "Name": "dreamcard.level_name08",
+        "Des": "dreamcard.level_desc08",
+        "Condition": [
+            7
+        ],
+        "HardStage": 2,
+        "DreamLevelID": 5,
+        "Hard": 1,
+        "BossListID": {
+            "15": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            7,
+            1,
+            2,
+            3
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            104,
+            92,
+            92,
+            94,
+            102,
+            100
+        ],
+        "TreZeroID": [
+            108,
+            12
+        ],
+        "StarMessID": {
+            "3": [
+                4
+            ],
+            "6": [
+                7,
+                50000
+            ],
+            "13": [
+                15,
+                93
+            ]
+        },
+        "RewardID": 15,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 8,
+        "InitialRole": 8,
+        "IconID": 4104007,
+        "Name": "dreamcard.level_name08",
+        "Des": "dreamcard.level_desc08",
+        "Condition": [
+            7
+        ],
+        "HardStage": 3,
+        "DreamLevelID": 6,
+        "Hard": 1.2,
+        "BossListID": {
+            "15": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            7,
+            1,
+            2,
+            3,
+            14
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            104,
+            92,
+            92,
+            94,
+            195,
+            100,
+            199
+        ],
+        "TreZeroID": [
+            106
+        ],
+        "StarMessID": {
+            "2": [
+                2
+            ],
+            "6": [
+                7,
+                60000
+            ],
+            "13": [
+                15,
+                93
+            ]
+        },
+        "RewardID": 37,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 9,
+        "InitialRole": 13,
+        "IconID": 4104006,
+        "Name": "dreamcard.level_name09",
+        "Des": "dreamcard.level_desc09",
+        "Condition": [
+            6,
+            8
+        ],
+        "HardStage": 1,
+        "DreamLevelID": 2,
+        "Hard": 1,
+        "BossListID": {
+            "14": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7
+        ],
+        "BuildID": [
+            6,
+            1
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            2,
+            77,
+            77,
+            77,
+            79,
+            80,
+            81,
+            84
+        ],
+        "TreZeroID": [
+            13
+        ],
+        "StarMessID": {
+            "2": [
+                1
+            ],
+            "4": [
+                5000
+            ],
+            "7": [
+                2000
+            ]
+        },
+        "RewardID": 16,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 9,
+        "InitialRole": 13,
+        "IconID": 4104006,
+        "Name": "dreamcard.level_name09",
+        "Des": "dreamcard.level_desc09",
+        "Condition": [
+            6,
+            8
+        ],
+        "HardStage": 2,
+        "DreamLevelID": 4,
+        "Hard": 1.4,
+        "BossListID": {
+            "14": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            6,
+            1,
+            9
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            2,
+            8,
+            85,
+            77,
+            77,
+            80,
+            80
+        ],
+        "TreZeroID": [
+            88,
+            90
+        ],
+        "StarMessID": {
+            "3": [
+                4
+            ],
+            "6": [
+                6,
+                40000
+            ],
+            "13": [
+                2,
+                79
+            ]
+        },
+        "RewardID": 17,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 9,
+        "InitialRole": 13,
+        "IconID": 4104006,
+        "Name": "dreamcard.level_name09",
+        "Des": "dreamcard.level_desc09",
+        "Condition": [
+            6,
+            8
+        ],
+        "HardStage": 3,
+        "DreamLevelID": 5,
+        "Hard": 1.6,
+        "BossListID": {
+            "14": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            6,
+            1,
+            9,
+            13
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            2,
+            8,
+            85,
+            77,
+            181,
+            80,
+            185
+        ],
+        "TreZeroID": [
+            90
+        ],
+        "StarMessID": {
+            "2": [
+                2
+            ],
+            "6": [
+                6,
+                50000
+            ],
+            "13": [
+                4,
+                79
+            ]
+        },
+        "RewardID": 42,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 10,
+        "InitialRole": 12,
+        "IconID": 4104009,
+        "Name": "dreamcard.level_name10",
+        "Des": "dreamcard.level_desc10",
+        "Condition": [
+            9
+        ],
+        "HardStage": 1,
+        "DreamLevelID": 3,
+        "Hard": 1,
+        "BossListID": {
+            "15": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7
+        ],
+        "BuildID": [
+            9,
+            1
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            133,
+            124,
+            123,
+            123,
+            123,
+            125,
+            135
+        ],
+        "TreZeroID": [
+            136,
+            9
+        ],
+        "StarMessID": {
+            "2": [
+                1
+            ],
+            "3": [
+                3
+            ],
+            "11": [
+                1,
+                4
+            ]
+        },
+        "RewardID": 18,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 10,
+        "InitialRole": 12,
+        "IconID": 4104009,
+        "Name": "dreamcard.level_name10",
+        "Des": "dreamcard.level_desc10",
+        "Condition": [
+            9
+        ],
+        "HardStage": 2,
+        "DreamLevelID": 5,
+        "Hard": 1,
+        "BossListID": {
+            "15": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            9,
+            1,
+            3,
+            6
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            126,
+            133,
+            131,
+            128,
+            123,
+            123,
+            8,
+            44
+        ],
+        "TreZeroID": [
+            138,
+            12
+        ],
+        "StarMessID": {
+            "3": [
+                4
+            ],
+            "6": [
+                9,
+                50000
+            ],
+            "14": [
+                4,
+                127
+            ]
+        },
+        "RewardID": 19,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 10,
+        "InitialRole": 12,
+        "IconID": 4104009,
+        "Name": "dreamcard.level_name10",
+        "Des": "dreamcard.level_desc10",
+        "Condition": [
+            9
+        ],
+        "HardStage": 3,
+        "DreamLevelID": 6,
+        "Hard": 1.2,
+        "BossListID": {
+            "15": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            9,
+            1,
+            3,
+            6,
+            14
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            126,
+            133,
+            195,
+            128,
+            123,
+            123,
+            8,
+            44,
+            200
+        ],
+        "TreZeroID": [
+            138,
+            9
+        ],
+        "StarMessID": {
+            "6": [
+                9,
+                60000
+            ],
+            "11": [
+                1,
+                4
+            ],
+            "14": [
+                5,
+                127
+            ]
+        },
+        "RewardID": 41,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 11,
+        "InitialRole": 2,
+        "IconID": 4104010,
+        "Name": "dreamcard.level_name11",
+        "Des": "dreamcard.level_desc11",
+        "Condition": [
+            12
+        ],
+        "HardStage": 1,
+        "DreamLevelID": 2,
+        "Hard": 1.5,
+        "BossListID": {
+            "12": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7
+        ],
+        "BuildID": [
+            10,
+            1
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            2,
+            139,
+            139,
+            140,
+            142,
+            141
+        ],
+        "TreZeroID": [
+            208
+        ],
+        "StarMessID": {
+            "2": [
+                2
+            ],
+            "3": [
+                3
+            ],
+            "4": [
+                1000
+            ]
+        },
+        "RewardID": 20,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 11,
+        "InitialRole": 2,
+        "IconID": 4104010,
+        "Name": "dreamcard.level_name11",
+        "Des": "dreamcard.level_desc11",
+        "Condition": [
+            12
+        ],
+        "HardStage": 2,
+        "DreamLevelID": 4,
+        "Hard": 1.2,
+        "BossListID": {
+            "13": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            10,
+            1,
+            4
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            145,
+            145,
+            150,
+            153,
+            139,
+            1,
+            51
+        ],
+        "TreZeroID": [
+            209
+        ],
+        "StarMessID": {
+            "10": [
+                1,
+                4
+            ],
+            "6": [
+                10,
+                50000
+            ],
+            "3": [
+                4
+            ]
+        },
+        "RewardID": 21,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 11,
+        "InitialRole": 2,
+        "IconID": 4104010,
+        "Name": "dreamcard.level_name11",
+        "Des": "dreamcard.level_desc11",
+        "Condition": [
+            12
+        ],
+        "HardStage": 3,
+        "DreamLevelID": 5,
+        "Hard": 1.2,
+        "BossListID": {
+            "15": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            10,
+            1,
+            4,
+            8
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            145,
+            109,
+            153,
+            139,
+            51,
+            110
+        ],
+        "TreZeroID": [
+            208
+        ],
+        "StarMessID": {
+            "10": [
+                2,
+                4
+            ],
+            "6": [
+                10,
+                80000
+            ],
+            "4": [
+                3000
+            ]
+        },
+        "RewardID": 31,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 12,
+        "InitialRole": 3,
+        "IconID": 4104011,
+        "Name": "dreamcard.level_name12",
+        "Des": "dreamcard.level_desc12",
+        "Condition": [
+            5
+        ],
+        "HardStage": 1,
+        "DreamLevelID": 2,
+        "Hard": 1,
+        "BossListID": {
+            "14": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7
+        ],
+        "BuildID": [
+            11,
+            1
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            154,
+            156,
+            155,
+            160,
+            154
+        ],
+        "TreZeroID": [
+            211
+        ],
+        "StarMessID": {
+            "2": [
+                2
+            ],
+            "3": [
+                3
+            ],
+            "4": [
+                1500
+            ]
+        },
+        "RewardID": 22,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 12,
+        "InitialRole": 3,
+        "IconID": 4104011,
+        "Name": "dreamcard.level_name12",
+        "Des": "dreamcard.level_desc12",
+        "Condition": [
+            5
+        ],
+        "HardStage": 2,
+        "DreamLevelID": 4,
+        "Hard": 1.4,
+        "BossListID": {
+            "14": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            11,
+            1,
+            8
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            2,
+            163,
+            164,
+            160,
+            161,
+            109,
+            109
+        ],
+        "TreZeroID": [
+            210
+        ],
+        "StarMessID": {
+            "1": [],
+            "6": [
+                11,
+                40000
+            ],
+            "3": [
+                4
+            ]
+        },
+        "RewardID": 23,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 12,
+        "InitialRole": 3,
+        "IconID": 4104011,
+        "Name": "dreamcard.level_name12",
+        "Des": "dreamcard.level_desc12",
+        "Condition": [
+            5
+        ],
+        "HardStage": 3,
+        "DreamLevelID": 5,
+        "Hard": 1.6,
+        "BossListID": {
+            "14": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            11,
+            1,
+            8,
+            10
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            163,
+            160,
+            161,
+            139,
+            109,
+            146
+        ],
+        "TreZeroID": [
+            211
+        ],
+        "StarMessID": {
+            "1": [],
+            "6": [
+                11,
+                80000
+            ],
+            "4": [
+                3000
+            ]
+        },
+        "RewardID": 32,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 13,
+        "InitialRole": 4,
+        "IconID": 4104012,
+        "Name": "dreamcard.level_name13",
+        "Des": "dreamcard.level_desc13",
+        "Condition": [
+            4
+        ],
+        "HardStage": 1,
+        "DreamLevelID": 3,
+        "Hard": 1,
+        "BossListID": {
+            "15": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7
+        ],
+        "BuildID": [
+            12,
+            1
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            2,
+            169,
+            174,
+            175,
+            171
+        ],
+        "TreZeroID": [
+            212
+        ],
+        "StarMessID": {
+            "2": [
+                2
+            ],
+            "3": [
+                3
+            ],
+            "4": [
+                1500
+            ]
+        },
+        "RewardID": 24,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 13,
+        "InitialRole": 4,
+        "IconID": 4104012,
+        "Name": "dreamcard.level_name13",
+        "Des": "dreamcard.level_desc13",
+        "Condition": [
+            4
+        ],
+        "HardStage": 2,
+        "DreamLevelID": 4,
+        "Hard": 1,
+        "BossListID": {
+            "15": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            12,
+            1,
+            5
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            177,
+            178,
+            179,
+            180,
+            4,
+            62,
+            62
+        ],
+        "TreZeroID": [
+            213,
+            214
+        ],
+        "StarMessID": {
+            "1": [],
+            "6": [
+                12,
+                40000
+            ],
+            "3": [
+                4
+            ]
+        },
+        "RewardID": 25,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 13,
+        "InitialRole": 4,
+        "IconID": 4104012,
+        "Name": "dreamcard.level_name13",
+        "Des": "dreamcard.level_desc13",
+        "Condition": [
+            4
+        ],
+        "HardStage": 3,
+        "DreamLevelID": 5,
+        "Hard": 1.2,
+        "BossListID": {
+            "15": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            12,
+            1,
+            5,
+            4
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            177,
+            178,
+            179,
+            180,
+            4,
+            62,
+            50,
+            53
+        ],
+        "TreZeroID": [
+            213,
+            10
+        ],
+        "StarMessID": {
+            "1": [],
+            "6": [
+                12,
+                60000
+            ],
+            "4": [
+                3000
+            ]
+        },
+        "RewardID": 33,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 14,
+        "InitialRole": 6,
+        "IconID": 4104014,
+        "Name": "dreamcard.level_name14",
+        "Des": "dreamcard.level_desc14",
+        "Condition": [
+            9
+        ],
+        "HardStage": 1,
+        "DreamLevelID": 3,
+        "Hard": 1,
+        "BossListID": {
+            "15": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7
+        ],
+        "BuildID": [
+            14,
+            1
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            195,
+            196,
+            199,
+            197,
+            198,
+            204,
+            6
+        ],
+        "TreZeroID": [
+            218
+        ],
+        "StarMessID": {
+            "2": [
+                2
+            ],
+            "3": [
+                3
+            ],
+            "4": [
+                1500
+            ]
+        },
+        "RewardID": 28,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 14,
+        "InitialRole": 6,
+        "IconID": 4104014,
+        "Name": "dreamcard.level_name14",
+        "Des": "dreamcard.level_desc14",
+        "Condition": [
+            9
+        ],
+        "HardStage": 2,
+        "DreamLevelID": 4,
+        "Hard": 1,
+        "BossListID": {
+            "15": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            14,
+            1,
+            3
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            205,
+            206,
+            207,
+            201,
+            36,
+            38,
+            40
+        ],
+        "TreZeroID": [
+            219
+        ],
+        "StarMessID": {
+            "1": [],
+            "6": [
+                14,
+                40000
+            ],
+            "3": [
+                4
+            ]
+        },
+        "RewardID": 29,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 14,
+        "InitialRole": 6,
+        "IconID": 4104014,
+        "Name": "dreamcard.level_name14",
+        "Des": "dreamcard.level_desc14",
+        "Condition": [
+            9
+        ],
+        "HardStage": 3,
+        "DreamLevelID": 5,
+        "Hard": 1.2,
+        "BossListID": {
+            "15": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            14,
+            1,
+            3,
+            13
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            185,
+            186,
+            206,
+            207,
+            201,
+            36,
+            38,
+            40
+        ],
+        "TreZeroID": [
+            218,
+            11
+        ],
+        "StarMessID": {
+            "1": [],
+            "6": [
+                14,
+                60000
+            ],
+            "4": [
+                3000
+            ]
+        },
+        "RewardID": 35,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 15,
+        "InitialRole": 5,
+        "IconID": 4104013,
+        "Name": "dreamcard.level_name15",
+        "Des": "dreamcard.level_desc15",
+        "Condition": [
+            14
+        ],
+        "HardStage": 1,
+        "DreamLevelID": 2,
+        "Hard": 1,
+        "BossListID": {
+            "14": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7
+        ],
+        "BuildID": [
+            13,
+            1
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            181,
+            181,
+            184,
+            186,
+            183,
+            184,
+            187
+        ],
+        "TreZeroID": [
+            215
+        ],
+        "StarMessID": {
+            "2": [
+                2
+            ],
+            "3": [
+                3
+            ],
+            "4": [
+                1000
+            ]
+        },
+        "RewardID": 26,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 15,
+        "InitialRole": 5,
+        "IconID": 4104013,
+        "Name": "dreamcard.level_name15",
+        "Des": "dreamcard.level_desc15",
+        "Condition": [
+            14
+        ],
+        "HardStage": 2,
+        "DreamLevelID": 4,
+        "Hard": 1.4,
+        "BossListID": {
+            "14": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            13,
+            1,
+            6
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            2,
+            8,
+            187,
+            190,
+            191,
+            190,
+            77,
+            77
+        ],
+        "TreZeroID": [
+            216
+        ],
+        "StarMessID": {
+            "10": [
+                1,
+                4
+            ],
+            "6": [
+                13,
+                50000
+            ],
+            "3": [
+                4
+            ]
+        },
+        "RewardID": 27,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    },
+    {
+        "LevelListID": 15,
+        "InitialRole": 5,
+        "IconID": 4104013,
+        "Name": "dreamcard.level_name15",
+        "Des": "dreamcard.level_desc15",
+        "Condition": [
+            14
+        ],
+        "HardStage": 3,
+        "DreamLevelID": 5,
+        "Hard": 1.6,
+        "BossListID": {
+            "14": 3
+        },
+        "RoundNum": [
+            6,
+            6,
+            6,
+            6,
+            7,
+            7
+        ],
+        "BuildID": [
+            13,
+            1,
+            6,
+            3
+        ],
+        "BuffID": [],
+        "ChessZeroID": [
+            1,
+            2,
+            8,
+            187,
+            190,
+            191,
+            34,
+            34,
+            37
+        ],
+        "TreZeroID": [
+            215,
+            9
+        ],
+        "StarMessID": {
+            "10": [
+                3,
+                4
+            ],
+            "6": [
+                13,
+                60000
+            ],
+            "4": [
+                2000
+            ]
+        },
+        "RewardID": 34,
+        "Items": {
+            "101": 1,
+            "102": 1,
+            "103": 20,
+            "104": 10,
+            "105": 20
+        }
+    }
+]

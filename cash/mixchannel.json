@@ -1,0 +1,84 @@
+[
+    {
+        "Id": 1,
+        "RechargeChannel": [
+            "jinshan.jinshan",
+            "pc_jinshan.pc_jinshan"
+        ],
+        "Coverage": 1
+    },
+    {
+        "Id": 2,
+        "RechargeChannel": [
+            "bili.bili",
+            "pc_bili.pc_bili"
+        ],
+        "Coverage": 1
+    },
+    {
+        "Id": 3,
+        "RechargeChannel": [
+            "seasun.seasun",
+            "seasun.web"
+        ],
+        "Coverage": 2
+    },
+    {
+        "Id": 4,
+        "RechargeChannel": [
+            "pc_seasun.pc_seasun",
+            "ios_seasunApple.ios_seasunApple",
+            "seasun.seasun",
+            "seasun.web",
+            "seasun.onestore",
+            "seasun.samsung",
+            "seasun.qooapp"
+        ],
+        "Coverage": 2
+    },
+    {
+        "Id": 5,
+        "RechargeChannel": [
+            "ios_seasunApple.ios_seasunApple",
+            "seasun.web"
+        ],
+        "Coverage": 2
+    },
+    {
+        "Id": 6,
+        "RechargeChannel": [
+            "seasun.onestore",
+            "pc_seasun.pc_seasun",
+            "ios_seasunApple.ios_seasunApple",
+            "seasun.seasun",
+            "seasun.web",
+            "seasun.samsung"
+        ],
+        "Coverage": 2
+    },
+    {
+        "Id": 7,
+        "RechargeChannel": [
+            "seasun.samsung",
+            "pc_seasun.pc_seasun",
+            "ios_seasunApple.ios_seasunApple",
+            "seasun.seasun",
+            "seasun.web",
+            "seasun.onestore"
+        ],
+        "Coverage": 2
+    },
+    {
+        "Id": 8,
+        "RechargeChannel": [
+            "seasun.qooapp",
+            "seasun.onestore",
+            "pc_seasun.pc_seasun",
+            "ios_seasunApple.ios_seasunApple",
+            "seasun.seasun",
+            "seasun.web",
+            "seasun.samsung"
+        ],
+        "Coverage": 2
+    }
+]

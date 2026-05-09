@@ -1,0 +1,221 @@
+[
+    {
+        "ID": 1,
+        "MapId": 1,
+        "MapResource": [
+            "dlc1",
+            1
+        ],
+        "Name": "ui.TxtChessChapter1",
+        "OP": "",
+        "UnlockTime": "[202205090400]"
+    },
+    {
+        "ID": 1,
+        "MapId": 2,
+        "MapResource": [
+            "dlc1",
+            2
+        ],
+        "Name": "ui.TxtChessChapter2",
+        "OP": "",
+        "UnlockTime": "[202208090400]"
+    },
+    {
+        "ID": 1,
+        "MapId": 3,
+        "MapResource": [
+            "dlc1",
+            3
+        ],
+        "Name": "ui.TxtChessChapter3",
+        "OP": "",
+        "UnlockTime": "[202208090400]"
+    },
+    {
+        "ID": 1,
+        "MapId": 4,
+        "MapResource": [
+            "dlc1",
+            4
+        ],
+        "Name": "ui.TxtChessChapter4",
+        "OP": "",
+        "UnlockTime": "[202208090400]"
+    },
+    {
+        "ID": 1,
+        "MapId": 5,
+        "MapResource": [
+            "dlc1",
+            5
+        ],
+        "Name": "ui.TxtChessChapter5",
+        "OP": "",
+        "UnlockTime": "[202208090400]"
+    },
+    {
+        "ID": 1,
+        "MapId": 6,
+        "MapResource": [
+            "dlc1",
+            6
+        ],
+        "Name": "ui.TxtChessChapter6",
+        "OP": "",
+        "UnlockTime": "[202208090400]"
+    },
+    {
+        "ID": 2,
+        "MapId": 1,
+        "MapResource": [
+            "dlc3",
+            1
+        ],
+        "Name": "ui.main_1",
+        "OP": "",
+        "UnlockTime": "[202311130400]",
+        "Condition": "",
+        "RankAward": [
+            20,
+            10
+        ]
+    },
+    {
+        "ID": 2,
+        "MapId": 2,
+        "MapResource": [
+            "dlc3",
+            2
+        ],
+        "Name": "ui.main_2",
+        "OP": "",
+        "UnlockTime": "[202311150400]",
+        "Condition": "",
+        "RankAward": [
+            50,
+            30,
+            20
+        ]
+    },
+    {
+        "ID": 2,
+        "MapId": 3,
+        "MapResource": [
+            "dlc3",
+            3
+        ],
+        "Name": "ui.main_3",
+        "OP": "",
+        "UnlockTime": "[202311170400]",
+        "Condition": "",
+        "RankAward": [
+            50,
+            40,
+            30,
+            20
+        ]
+    },
+    {
+        "ID": 2,
+        "MapId": 4,
+        "MapResource": [
+            "dlc3",
+            4
+        ],
+        "Name": "ui.main_4",
+        "OP": "",
+        "UnlockTime": "[202311190400]",
+        "Condition": "",
+        "RankAward": [
+            50,
+            40,
+            30,
+            20
+        ]
+    },
+    {
+        "ID": 3,
+        "MapId": 1,
+        "MapResource": [
+            "dlc9",
+            1
+        ],
+        "Name": "ui.main_1",
+        "OP": "OP",
+        "UnlockTime": "[202401190400]"
+    },
+    {
+        "ID": 4,
+        "MapId": 1,
+        "MapResource": [
+            "dlc3",
+            1
+        ],
+        "Name": "ui.main_1",
+        "OP": "",
+        "UnlockTime": "[202507100400]",
+        "Condition": "",
+        "RankAward": [
+            20,
+            10
+        ],
+        "MapTarget": 20798
+    },
+    {
+        "ID": 4,
+        "MapId": 2,
+        "MapResource": [
+            "dlc3",
+            2
+        ],
+        "Name": "ui.main_2",
+        "OP": "",
+        "UnlockTime": "[202507121000]",
+        "Condition": "",
+        "RankAward": [
+            50,
+            30,
+            20
+        ],
+        "MapTarget": 20799
+    },
+    {
+        "ID": 4,
+        "MapId": 3,
+        "MapResource": [
+            "dlc3",
+            3
+        ],
+        "Name": "ui.main_3",
+        "OP": "",
+        "UnlockTime": "[202507141000]",
+        "Condition": "",
+        "RankAward": [
+            50,
+            40,
+            30,
+            20
+        ],
+        "MapTarget": 20800
+    },
+    {
+        "ID": 4,
+        "MapId": 4,
+        "MapResource": [
+            "dlc3",
+            4
+        ],
+        "Name": "ui.main_4",
+        "OP": "",
+        "UnlockTime": "[202507161000]",
+        "Condition": "",
+        "RankAward": [
+            50,
+            40,
+            30,
+            20
+        ],
+        "MapTarget": 20801
+    }
+]

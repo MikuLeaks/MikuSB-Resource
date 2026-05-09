@@ -1,0 +1,20 @@
+[
+    {
+        "Action": 1,
+        "PerStrength": 10,
+        "PerSmoothingValue": 10,
+        "SecondaryPerSmoothingValue": 5
+    },
+    {
+        "Action": 2,
+        "PerStrength": 10,
+        "PerSmoothingValue": 10,
+        "SecondaryPerSmoothingValue": 0
+    },
+    {
+        "Action": 3,
+        "PerStrength": 10,
+        "PerSmoothingValue": -5.0,
+        "SecondaryPerSmoothingValue": 0
+    }
+]

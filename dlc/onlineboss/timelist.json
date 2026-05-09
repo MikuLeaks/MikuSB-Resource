@@ -1,0 +1,185 @@
+[
+    {
+        "Id": 1,
+        "StartTime": "[202311271000]",
+        "EndTime": "[202312130400]",
+        "AwardTime": "[202312140400]",
+        "Condition": "",
+        "LevelList": [
+            9000,
+            9001,
+            9002,
+            9003
+        ],
+        "OnlineLevel": 5,
+        "RankTime": "",
+        "Intro": 57,
+        "UIName": "",
+        "Title": "ui.TxtOnlineBossTheme"
+    },
+    {
+        "Id": 2,
+        "StartTime": "[202312201000]",
+        "EndTime": "[202401030400]",
+        "AwardTime": "[202401040400]",
+        "Condition": "",
+        "LevelList": [
+            9010,
+            9011,
+            9012,
+            9013
+        ],
+        "OnlineLevel": 8,
+        "RankTime": "",
+        "Intro": 66,
+        "UIName": "OnlineBoss2",
+        "Title": "ui.TxtDLC4.BtnOnline"
+    },
+    {
+        "Id": 3,
+        "StartTime": "[202401221000]",
+        "EndTime": "[202402050400]",
+        "AwardTime": "[202402060400]",
+        "Condition": "",
+        "LevelList": [
+            9020,
+            9021,
+            9022,
+            9023
+        ],
+        "OnlineLevel": 9,
+        "RankTime": "",
+        "Intro": 67,
+        "UIName": "Dlc5OnlineBoss",
+        "Title": "ui.TxtDLC5.BtnOnline"
+    },
+    {
+        "Id": 4,
+        "StartTime": "[202403111000]",
+        "EndTime": "[202403250400]",
+        "AwardTime": "[202403260400]",
+        "Condition": "",
+        "LevelList": [
+            9030,
+            9031,
+            9032,
+            9033
+        ],
+        "OnlineLevel": 14,
+        "RankTime": "",
+        "Intro": 71,
+        "UIName": "Dlc6OnlineBoss",
+        "Title": "ui.TxtDLC6.BtnOnline"
+    },
+    {
+        "Id": 5,
+        "StartTime": "[202404221000]",
+        "EndTime": "[202405060400]",
+        "AwardTime": "[202405070400]",
+        "Condition": "",
+        "LevelList": [
+            9040,
+            9041,
+            9042,
+            9043
+        ],
+        "OnlineLevel": 20,
+        "RankTime": "",
+        "Intro": 82,
+        "UIName": "Dlc7OnlineBoss",
+        "Title": "ui.TxtDLC7.BtnOnline"
+    },
+    {
+        "Id": 6,
+        "StartTime": "[202406061000]",
+        "EndTime": "[202406200400]",
+        "AwardTime": "[202406210400]",
+        "Condition": "",
+        "LevelList": [
+            9050,
+            9051,
+            9052,
+            9053
+        ],
+        "OnlineLevel": 24,
+        "RankTime": "",
+        "Intro": 87,
+        "UIName": "Dlc8OnlineBoss",
+        "Title": "ui.TxtDLC8.BtnOnline"
+    },
+    {
+        "Id": 7,
+        "StartTime": "[202407150400]",
+        "EndTime": "[202407290400]",
+        "AwardTime": "[202407300400]",
+        "Condition": "",
+        "LevelList": [
+            9060,
+            9061,
+            9062,
+            9063
+        ],
+        "OnlineLevel": 28,
+        "RankTime": "",
+        "Intro": 98,
+        "UIName": "Dlc9OnlineBoss",
+        "Title": "ui.TxtDLC9.BtnOnline"
+    },
+    {
+        "Id": 8,
+        "StartTime": "[202408231000]",
+        "EndTime": "[202409060400]",
+        "AwardTime": "[202409070400]",
+        "Condition": "",
+        "LevelList": [
+            2000,
+            2001,
+            2002,
+            2003,
+            2004
+        ],
+        "OnlineLevel": "",
+        "RankTime": "",
+        "Intro": 115,
+        "UIName": "Dlc10OnlineBoss",
+        "Title": "ui.TxtDLC10.BtnOnline"
+    },
+    {
+        "Id": 9,
+        "StartTime": "[202409300400]",
+        "EndTime": "[202410140400]",
+        "AwardTime": "[202410150400]",
+        "Condition": "",
+        "LevelList": [
+            2010,
+            2011,
+            2012,
+            2013,
+            2014
+        ],
+        "OnlineLevel": "",
+        "RankTime": "",
+        "Intro": 123,
+        "UIName": "Dlc11OnlineBoss",
+        "Title": "ui.TxtDLC11.BtnOnline"
+    },
+    {
+        "Id": 10,
+        "StartTime": "[202411110400]",
+        "EndTime": "[202411250400]",
+        "AwardTime": "[202411260400]",
+        "Condition": "",
+        "LevelList": [
+            2020,
+            2021,
+            2022,
+            2023,
+            2024
+        ],
+        "OnlineLevel": "",
+        "RankTime": "",
+        "Intro": 143,
+        "UIName": "Dlc12OnlineBoss",
+        "Title": "ui.TxtDLC12.BtnOnline"
+    }
+]

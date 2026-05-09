@@ -1,0 +1,50 @@
+[
+    {
+        "ActivityID": 1,
+        "StartTime": "[202412310400]",
+        "EndTime": "[202501140400]",
+        "CartoonID": 0,
+        "UnlockNum": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+        ],
+        "IntroPic": 4840001,
+        "IntroName": "ui.MessageActivity.Name01"
+    },
+    {
+        "ActivityID": 2,
+        "StartTime": "[202507200400]",
+        "EndTime": "[202508210400]",
+        "CartoonID": 0,
+        "UnlockNum": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            4
+        ],
+        "IntroPic": 4840002,
+        "IntroName": "ui.MessageActivity.Name02"
+    },
+    {
+        "ActivityID": 3,
+        "StartTime": "[202602160400]",
+        "EndTime": "[202603120400]",
+        "CartoonID": 0,
+        "UnlockNum": [
+            3,
+            3,
+            3,
+            3,
+            4,
+            5
+        ],
+        "IntroPic": 4840003,
+        "IntroName": "ui.MessageActivity.Name03"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "ID": 1,
+        "EventText": "callme_ui.TxtCMclock01_name1",
+        "VoiceID": "CMclock03",
+        "DesTxt": "callme_ui.TxtCMclock01_des1"
+    },
+    {
+        "ID": 2,
+        "EventText": "callme_ui.TxtCMclock01_name2",
+        "VoiceID": "CMclock04",
+        "DesTxt": "callme_ui.TxtCMclock01_des2"
+    },
+    {
+        "ID": 3,
+        "EventText": "callme_ui.TxtCMclock01_name3",
+        "VoiceID": "CMclock05",
+        "DesTxt": "callme_ui.TxtCMclock01_des3"
+    },
+    {
+        "ID": 4,
+        "EventText": "callme_ui.TxtCMclock01_name4",
+        "VoiceID": "CMclock06",
+        "DesTxt": "callme_ui.TxtCMclock01_des4"
+    },
+    {
+        "ID": 5,
+        "EventText": "callme_ui.TxtCMclock01_name5",
+        "VoiceID": "CMclock07",
+        "DesTxt": "callme_ui.TxtCMclock01_des5"
+    },
+    {
+        "ID": 6,
+        "EventText": "callme_ui.TxtCMclock01_name6",
+        "VoiceID": "CMclock08,CMclock09",
+        "DesTxt": "callme_ui.TxtCMclock01_des6,callme_ui.TxtCMclock01_des7"
+    }
+]

@@ -1,0 +1,1031 @@
+[
+    {
+        "ActId": 2,
+        "ID": 101,
+        "Name": "ui.MainQuest_name_01",
+        "IconId": 1009017,
+        "Describe": "ui.MainQuest_desc_01",
+        "Target": "ui.MainQuest_target_01",
+        "Group": 1,
+        "GroupType": 0,
+        "AreaId": 1,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": "",
+        "Type": 3,
+        "CheckValue": 1,
+        "Param": [
+            6
+        ],
+        "Rewards": [
+            [
+                5,
+                1,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                4,
+                1,
+                9,
+                1,
+                300
+            ]
+        ],
+        "ActorId": 233
+    },
+    {
+        "ActId": 2,
+        "ID": 102,
+        "Name": "ui.MainQuest_name_02",
+        "IconId": 1009017,
+        "Describe": "ui.MainQuest_desc_02",
+        "Target": "ui.MainQuest_target_02",
+        "Group": 1,
+        "GroupType": 0,
+        "AreaId": 1,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": 101,
+        "Type": 9,
+        "CheckValue": 1,
+        "Param": [
+            5,
+            27,
+            1,
+            1
+        ],
+        "Rewards": [
+            [
+                5,
+                1,
+                1,
+                3,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                4,
+                1,
+                9,
+                1,
+                300
+            ]
+        ],
+        "ActorId": 226,
+        "Owactor": 179,
+        "PlotId": "",
+        "SimpleDialogueID": "dlc3world1"
+    },
+    {
+        "ActId": 2,
+        "ID": 103,
+        "Name": "ui.MainQuest_name_03",
+        "IconId": 1009017,
+        "Describe": "ui.MainQuest_desc_03",
+        "Target": "ui.MainQuest_target_03",
+        "Group": 1,
+        "GroupType": 0,
+        "AreaId": 1,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": 102,
+        "Type": 9,
+        "CheckValue": 1,
+        "Param": [
+            5,
+            27,
+            2,
+            1
+        ],
+        "Rewards": [
+            [
+                5,
+                1,
+                1,
+                3,
+                4
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                4,
+                1,
+                9,
+                1,
+                300
+            ]
+        ],
+        "ActorId": 224,
+        "Owactor": 175
+    },
+    {
+        "ActId": 2,
+        "ID": 104,
+        "Name": "ui.MainQuest_name_04",
+        "IconId": 1009017,
+        "Describe": "ui.MainQuest_desc_04",
+        "Target": "ui.MainQuest_target_04",
+        "Group": 1,
+        "GroupType": 0,
+        "AreaId": 1,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": 103,
+        "Type": 9,
+        "CheckValue": 1,
+        "Param": [
+            5,
+            27,
+            3,
+            1
+        ],
+        "Rewards": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                4,
+                1,
+                9,
+                1,
+                300
+            ]
+        ],
+        "ActorId": 225,
+        "Owactor": 176,
+        "PlotId": "",
+        "SimpleDialogueID": "dlc3world2"
+    },
+    {
+        "ActId": 2,
+        "ID": 105,
+        "Name": "ui.MainQuest_name_05",
+        "IconId": 1009017,
+        "Describe": "ui.MainQuest_desc_05",
+        "Target": "ui.MainQuest_target_05",
+        "Group": 1,
+        "GroupType": 0,
+        "AreaId": 1,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": 104,
+        "Type": 3,
+        "CheckValue": 1,
+        "Param": [
+            6
+        ],
+        "Rewards": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                6000
+            ],
+            [
+                4,
+                1,
+                9,
+                1,
+                300
+            ]
+        ],
+        "ActorId": 233
+    },
+    {
+        "ActId": 2,
+        "ID": 201,
+        "Name": "ui.MainQuest_name_06",
+        "IconId": 1009017,
+        "Describe": "ui.MainQuest_desc_06",
+        "Target": "ui.MainQuest_target_06",
+        "Group": 1,
+        "GroupType": 0,
+        "AreaId": 2,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": 105,
+        "Type": 3,
+        "CheckValue": 1,
+        "Param": [
+            8
+        ],
+        "Rewards": [
+            [
+                5,
+                1,
+                1,
+                4,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                4,
+                1,
+                9,
+                1,
+                300
+            ]
+        ],
+        "ActorId": 234,
+        "Owactor": "",
+        "PlotId": 8203102
+    },
+    {
+        "ActId": 2,
+        "ID": 202,
+        "Name": "ui.MainQuest_name_07",
+        "IconId": 1009017,
+        "Describe": "ui.MainQuest_desc_07",
+        "Target": "ui.MainQuest_target_07",
+        "Group": 1,
+        "GroupType": 0,
+        "AreaId": 2,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": 201,
+        "Type": 9,
+        "CheckValue": 1,
+        "Param": [
+            5,
+            27,
+            4,
+            1
+        ],
+        "Rewards": [
+            [
+                5,
+                1,
+                1,
+                4,
+                3
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                4,
+                1,
+                9,
+                1,
+                300
+            ]
+        ],
+        "ActorId": 227,
+        "Owactor": 39,
+        "PlotId": "",
+        "SimpleDialogueID": "dlc3world3"
+    },
+    {
+        "ActId": 2,
+        "ID": 203,
+        "Name": "ui.MainQuest_name_08",
+        "IconId": 1009017,
+        "Describe": "ui.MainQuest_desc_08",
+        "Target": "ui.MainQuest_target_08",
+        "Group": 1,
+        "GroupType": 0,
+        "AreaId": 2,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": 202,
+        "Type": 9,
+        "CheckValue": 1,
+        "Param": [
+            5,
+            27,
+            5,
+            1
+        ],
+        "Rewards": [
+            [
+                5,
+                1,
+                1,
+                4,
+                4
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                4,
+                1,
+                9,
+                1,
+                300
+            ]
+        ],
+        "ActorId": 228,
+        "Owactor": 40
+    },
+    {
+        "ActId": 2,
+        "ID": 204,
+        "Name": "ui.MainQuest_name_09",
+        "IconId": 1009017,
+        "Describe": "ui.MainQuest_desc_09",
+        "Target": "ui.MainQuest_target_09",
+        "Group": 1,
+        "GroupType": 0,
+        "AreaId": 2,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": 203,
+        "Type": 9,
+        "CheckValue": 1,
+        "Param": [
+            5,
+            27,
+            6,
+            1
+        ],
+        "Rewards": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                4,
+                1,
+                9,
+                1,
+                300
+            ]
+        ],
+        "ActorId": 229,
+        "Owactor": 69,
+        "PlotId": "",
+        "SimpleDialogueID": "dlc3world4"
+    },
+    {
+        "ActId": 2,
+        "ID": 205,
+        "Name": "ui.MainQuest_name_10",
+        "IconId": 1009017,
+        "Describe": "ui.MainQuest_desc_10",
+        "Target": "ui.MainQuest_target_10",
+        "Group": 1,
+        "GroupType": 0,
+        "AreaId": 2,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": 204,
+        "Type": 3,
+        "CheckValue": 1,
+        "Param": [
+            8
+        ],
+        "Rewards": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                6000
+            ],
+            [
+                4,
+                1,
+                9,
+                1,
+                300
+            ]
+        ],
+        "ActorId": 234
+    },
+    {
+        "ActId": 2,
+        "ID": 301,
+        "Name": "ui.MainQuest_name_11",
+        "IconId": 1009017,
+        "Describe": "ui.MainQuest_desc_11",
+        "Target": "ui.MainQuest_target_11",
+        "Group": 1,
+        "GroupType": 0,
+        "AreaId": 3,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": 205,
+        "Type": 3,
+        "CheckValue": 1,
+        "Param": [
+            9
+        ],
+        "Rewards": [
+            [
+                5,
+                6,
+                1,
+                2,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                4,
+                1,
+                9,
+                1,
+                300
+            ]
+        ],
+        "ActorId": 235,
+        "Owactor": "",
+        "PlotId": 8203103
+    },
+    {
+        "ActId": 2,
+        "ID": 302,
+        "Name": "ui.MainQuest_name_12",
+        "IconId": 1009017,
+        "Describe": "ui.MainQuest_desc_12",
+        "Target": "ui.MainQuest_target_12",
+        "Group": 1,
+        "GroupType": 0,
+        "AreaId": 3,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": 301,
+        "Type": 9,
+        "CheckValue": 1,
+        "Param": [
+            5,
+            27,
+            7,
+            1
+        ],
+        "Rewards": [
+            [
+                5,
+                6,
+                1,
+                2,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                4,
+                1,
+                9,
+                1,
+                300
+            ]
+        ],
+        "ActorId": 230,
+        "Owactor": 59,
+        "PlotId": "",
+        "SimpleDialogueID": "dlc3world6"
+    },
+    {
+        "ActId": 2,
+        "ID": 303,
+        "Name": "ui.MainQuest_name_13",
+        "IconId": 1009017,
+        "Describe": "ui.MainQuest_desc_13",
+        "Target": "ui.MainQuest_target_13",
+        "Group": 1,
+        "GroupType": 0,
+        "AreaId": 3,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": 302,
+        "Type": 9,
+        "CheckValue": 1,
+        "Param": [
+            5,
+            27,
+            8,
+            1
+        ],
+        "Rewards": [
+            [
+                5,
+                9,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                4,
+                1,
+                9,
+                1,
+                300
+            ]
+        ],
+        "ActorId": 231,
+        "Owactor": 66
+    },
+    {
+        "ActId": 2,
+        "ID": 304,
+        "Name": "ui.MainQuest_name_14",
+        "IconId": 1009017,
+        "Describe": "ui.MainQuest_desc_14",
+        "Target": "ui.MainQuest_target_14",
+        "Group": 1,
+        "GroupType": 0,
+        "AreaId": 3,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": 303,
+        "Type": 9,
+        "CheckValue": 1,
+        "Param": [
+            5,
+            27,
+            9,
+            1
+        ],
+        "Rewards": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                3000
+            ],
+            [
+                4,
+                1,
+                9,
+                1,
+                300
+            ]
+        ],
+        "ActorId": 232,
+        "Owactor": 71,
+        "PlotId": "",
+        "SimpleDialogueID": "dlc3world7"
+    },
+    {
+        "ActId": 2,
+        "ID": 305,
+        "Name": "ui.MainQuest_name_15",
+        "IconId": 1009017,
+        "Describe": "ui.MainQuest_desc_15",
+        "Target": "ui.MainQuest_target_15",
+        "Group": 1,
+        "GroupType": 0,
+        "AreaId": 3,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": 304,
+        "Type": 3,
+        "CheckValue": 1,
+        "Param": [
+            9
+        ],
+        "Rewards": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                6000
+            ],
+            [
+                4,
+                1,
+                9,
+                1,
+                300
+            ]
+        ],
+        "ActorId": 235,
+        "Owactor": "",
+        "PlotId": "",
+        "SimpleDialogueID": "dlc3world8"
+    },
+    {
+        "ActId": 2,
+        "ID": 402,
+        "Name": "ui.MainQuest_name_16",
+        "IconId": 1009017,
+        "Describe": "ui.MainQuest_desc_16",
+        "Target": "ui.MainQuest_target_16",
+        "Group": 1,
+        "GroupType": 0,
+        "AreaId": 3,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": 305,
+        "Type": 11,
+        "CheckValue": 1,
+        "Param": [
+            4550
+        ],
+        "Rewards": [
+            [
+                5,
+                9,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                6000
+            ],
+            [
+                4,
+                1,
+                9,
+                1,
+                300
+            ]
+        ],
+        "ActorId": 411,
+        "Owactor": 412
+    },
+    {
+        "ActId": 2,
+        "ID": 403,
+        "Name": "ui.MainQuest_name_17",
+        "IconId": 1009017,
+        "Describe": "ui.MainQuest_desc_17",
+        "Target": "ui.MainQuest_target_17",
+        "Group": 1,
+        "GroupType": 0,
+        "AreaId": 3,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": 402,
+        "Type": 3,
+        "CheckValue": 1,
+        "Param": [
+            9
+        ],
+        "Rewards": [
+            [
+                5,
+                27,
+                26,
+                1,
+                1
+            ],
+            [
+                5,
+                27,
+                27,
+                1,
+                1
+            ],
+            [
+                5,
+                27,
+                28,
+                1,
+                1
+            ],
+            [
+                4,
+                1,
+                9,
+                1,
+                300
+            ]
+        ],
+        "ActorId": 235
+    },
+    {
+        "ActId": 2,
+        "ID": 1001,
+        "Name": "ui.BranchQuest_name_01",
+        "IconId": 1009018,
+        "Describe": "ui.BranchQuest_desc_01",
+        "Target": "ui.BranchQuest_target_01",
+        "Group": 2,
+        "GroupType": "",
+        "AreaId": 1,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": "",
+        "Type": 4,
+        "CheckValue": 25,
+        "Param": "",
+        "Rewards": [
+            [
+                4,
+                1,
+                9,
+                1,
+                1500
+            ]
+        ],
+        "ActorId": 216
+    },
+    {
+        "ActId": 2,
+        "ID": 1002,
+        "Name": "ui.BranchQuest_name_02",
+        "IconId": 1009018,
+        "Describe": "ui.BranchQuest_desc_02",
+        "Target": "ui.BranchQuest_target_02",
+        "Group": 2,
+        "GroupType": "",
+        "AreaId": 1,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": "",
+        "Type": 7,
+        "CheckValue": 5,
+        "Param": "",
+        "Rewards": [
+            [
+                4,
+                1,
+                9,
+                1,
+                1500
+            ],
+            [
+                4,
+                1,
+                9,
+                3,
+                100
+            ]
+        ],
+        "ActorId": 217
+    },
+    {
+        "ActId": 2,
+        "ID": 1003,
+        "Name": "ui.BranchQuest_name_03",
+        "IconId": 1009018,
+        "Describe": "ui.BranchQuest_desc_03",
+        "Target": "ui.BranchQuest_target_03",
+        "Group": 2,
+        "GroupType": "",
+        "AreaId": 1,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": "",
+        "Type": 5,
+        "CheckValue": 1,
+        "Param": [
+            104
+        ],
+        "Rewards": [
+            [
+                4,
+                1,
+                9,
+                1,
+                1500
+            ]
+        ],
+        "ActorId": 218
+    },
+    {
+        "ActId": 2,
+        "ID": 1004,
+        "Name": "ui.BranchQuest_name_03",
+        "IconId": 1009018,
+        "Describe": "ui.BranchQuest_desc_03",
+        "Target": "ui.BranchQuest_target_03",
+        "Group": 2,
+        "GroupType": "",
+        "AreaId": 1,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": "",
+        "Type": 5,
+        "CheckValue": 1,
+        "Param": [
+            916
+        ],
+        "Rewards": [
+            [
+                4,
+                1,
+                9,
+                1,
+                1500
+            ]
+        ],
+        "ActorId": 219
+    },
+    {
+        "ActId": 2,
+        "ID": 2003,
+        "Name": "ui.BranchQuest_name_03",
+        "IconId": 1009018,
+        "Describe": "ui.BranchQuest_desc_03",
+        "Target": "ui.BranchQuest_target_03",
+        "Group": 2,
+        "GroupType": "",
+        "AreaId": 2,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": "",
+        "Type": 5,
+        "CheckValue": 1,
+        "Param": [
+            703
+        ],
+        "Rewards": [
+            [
+                4,
+                1,
+                9,
+                1,
+                1500
+            ]
+        ],
+        "ActorId": 220
+    },
+    {
+        "ActId": 2,
+        "ID": 2004,
+        "Name": "ui.BranchQuest_name_03",
+        "IconId": 1009018,
+        "Describe": "ui.BranchQuest_desc_03",
+        "Target": "ui.BranchQuest_target_03",
+        "Group": 2,
+        "GroupType": "",
+        "AreaId": 2,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": "",
+        "Type": 5,
+        "CheckValue": 1,
+        "Param": [
+            603
+        ],
+        "Rewards": [
+            [
+                4,
+                1,
+                9,
+                1,
+                1500
+            ]
+        ],
+        "ActorId": 221
+    },
+    {
+        "ActId": 2,
+        "ID": 3003,
+        "Name": "ui.BranchQuest_name_03",
+        "IconId": 1009018,
+        "Describe": "ui.BranchQuest_desc_03",
+        "Target": "ui.BranchQuest_target_03",
+        "Group": 2,
+        "GroupType": "",
+        "AreaId": 3,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": "",
+        "Type": 5,
+        "CheckValue": 1,
+        "Param": [
+            201
+        ],
+        "Rewards": [
+            [
+                4,
+                1,
+                9,
+                1,
+                1500
+            ]
+        ],
+        "ActorId": 222
+    },
+    {
+        "ActId": 2,
+        "ID": 3004,
+        "Name": "ui.BranchQuest_name_03",
+        "IconId": 1009018,
+        "Describe": "ui.BranchQuest_desc_03",
+        "Target": "ui.BranchQuest_target_03",
+        "Group": 2,
+        "GroupType": "",
+        "AreaId": 3,
+        "Condition": "",
+        "TaskCondition": "",
+        "PreID": "",
+        "Type": 5,
+        "CheckValue": 1,
+        "Param": [
+            407
+        ],
+        "Rewards": [
+            [
+                4,
+                1,
+                9,
+                1,
+                1500
+            ]
+        ],
+        "ActorId": 223
+    }
+]

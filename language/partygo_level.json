@@ -1,0 +1,577 @@
+[
+    {
+        "Key": "partymode1",
+        "zh_CN": "竞速赛",
+        "disable": 0
+    },
+    {
+        "Key": "partymode2",
+        "zh_CN": "生存赛",
+        "disable": 0
+    },
+    {
+        "Key": "partymode3",
+        "zh_CN": "抢分赛",
+        "disable": 0
+    },
+    {
+        "Key": "partymode4",
+        "zh_CN": "捉迷藏",
+        "disable": 0
+    },
+    {
+        "Key": "partymode5",
+        "zh_CN": "优化吧",
+        "disable": 0
+    },
+    {
+        "Key": "partymode6",
+        "zh_CN": "决战哈姆",
+        "disable": 0
+    },
+    {
+        "Key": "partygoal",
+        "zh_CN": "冲关目标",
+        "disable": 0
+    },
+    {
+        "Key": "partyZbugGoal",
+        "zh_CN": "行动目标",
+        "disable": 0
+    },
+    {
+        "Key": "partyZbugGoal_des1",
+        "zh_CN": "优化所有海姆大玩家，重振哈姆军团！",
+        "disable": 0
+    },
+    {
+        "Key": "partyZbugGoal_des2",
+        "zh_CN": "击败哈姆，并且战斗到最后一刻！",
+        "disable": 0
+    },
+    {
+        "Key": "partynum1",
+        "zh_CN": "完成人数",
+        "disable": 0
+    },
+    {
+        "Key": "partynum2",
+        "zh_CN": "存活人数",
+        "disable": 0
+    },
+    {
+        "Key": "partynum3",
+        "zh_CN": "抢分进度",
+        "disable": 0
+    },
+    {
+        "Key": "partynum4",
+        "zh_CN": "剩余躲藏者",
+        "disable": 0
+    },
+    {
+        "Key": "partynum5",
+        "zh_CN": "当前积分",
+        "disable": 0
+    },
+    {
+        "Key": "partywait",
+        "zh_CN": "等待其他冲关选手进入……",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9600",
+        "zh_CN": "滚筒冲刺",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9601",
+        "zh_CN": "混合障碍赛",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9602",
+        "zh_CN": "涡轮风车",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9603",
+        "zh_CN": "旋转、弹弹！",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9604",
+        "zh_CN": "摇摆重锤",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9605",
+        "zh_CN": "勇往直前",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9606",
+        "zh_CN": "撞门挑战",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9607",
+        "zh_CN": "跷跷躲避球",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9608",
+        "zh_CN": "传送带逃脱",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9609",
+        "zh_CN": "“恐高症”",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9610",
+        "zh_CN": "圆环大作战",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9611",
+        "zh_CN": "金币大作战",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9600_des",
+        "zh_CN": "注意不要从滚筒掉下，<span color=\"#ffc500\">全速冲向终点吧！</>",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9601_des",
+        "zh_CN": "越过各类障碍，<span color=\"#ffc500\">全速冲向终点吧！</>",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9602_des",
+        "zh_CN": "在不断旋转的风车扇叶上找到落脚点，<span color=\"#ffc500\">全速冲向终点吧！</>",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9603_des",
+        "zh_CN": "在高速旋转的盘子上前进，并躲避弹力方块，<span color=\"#ffc500\">全速冲向终点吧！</>",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9604_des",
+        "zh_CN": "躲开多种摆锤的撞击，<span color=\"#ffc500\">全速冲向终点吧！</>",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9605_des",
+        "zh_CN": "找准时机穿越挡板障碍，<span color=\"#ffc500\">全速冲向终点吧！</>",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9606_des",
+        "zh_CN": "终点就在大门的后面，<span color=\"#ffc500\">大胆地选择一扇门冲过去吧！</>",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9607_des",
+        "zh_CN": "在跷跷板上保持平衡并躲开飞来的球，<span color=\"#ffc500\">不要掉下跷跷板！</>",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9608_des",
+        "zh_CN": "在传送带上专心躲避各种障碍，<span color=\"#ffc500\">并留到最后吧！</>",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9609_des",
+        "zh_CN": "被踩过的地板会消失哦，快点找到下一个落脚点，<span color=\"#ffc500\">别掉下平台！</>",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9610_des",
+        "zh_CN": "穿越不同颜色的圆环获得积分吧！<span color=\"#36ff03ff\">绿色10分；</><span color=\"#4F8FFFFF\">蓝色20分；</><span color=\"#F10CFBFF\">紫色40分；</>选择合适的方法才能获取更多积分~",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9611_des",
+        "zh_CN": "躲避障碍，<span color=\"#ffc500\">多多获取金币吧！</>",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9612",
+        "zh_CN": "黏黏冲刺",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9613",
+        "zh_CN": "极速跑酷",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9614",
+        "zh_CN": "暴怒弹球",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9615",
+        "zh_CN": "转盘逃脱",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9616",
+        "zh_CN": "记忆大师",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9617",
+        "zh_CN": "滚筒逃脱",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9618",
+        "zh_CN": "超级“恐高症”",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9619",
+        "zh_CN": "极速跑酷2.0",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9620",
+        "zh_CN": "捣蛋逃脱",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9621",
+        "zh_CN": "捣蛋追逐",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9622",
+        "zh_CN": "圆环大作战2.0",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9612_des",
+        "zh_CN": "别被那些黏黏糊糊的东西困住脚步，<span color=\"#ffc500\">利用压缩气锤一下子飞到终点吧！</>",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9613_des",
+        "zh_CN": "借助<span color=\"#ffc500\">加速门</>，像风一样快速<span color=\"#ffc500\">完成2圈跑酷</>吧！",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9614_des",
+        "zh_CN": "不要被巨大的弹球从平台上弹飞，小心地<span color=\"#ffc500\">以最快速度冲向终点吧！</>",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9615_des",
+        "zh_CN": "在不断旋转的转盘上专心躲避各种障碍，并<span color=\"#ffc500\">留到最后吧！</>",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9616_des",
+        "zh_CN": "赶快记起<span color=\"#ffc500\">显示屏上出现的图案</>在哪块地板上，快速站上去<span color=\"#ffc500\">对应的地板</>，<span color=\"#ffc500\">一直留到最后吧！</>",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9617_des",
+        "zh_CN": "注意不要从滚筒掉下，<span color=\"#ffc500\">一直留到最后吧！</>",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9618_des",
+        "zh_CN": "<span color=\"#ffc500\">每层地板被踩过之后都会彻底消失</>，快点找到下一个落脚点，坚持别掉下平台，<span color=\"#ffc500\">一直到最后！</>",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9619_des",
+        "zh_CN": "躲避平台上的各种障碍并利用<span color=\"#ffc500\">冲刺技能</>，以最快速度<span color=\"#ffc500\">完成2圈跑酷</>吧！",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9620_des",
+        "zh_CN": "脚下的地板会<span color=\"#ffc500\">随着时间流失而分批消失</>，尽全力不要掉下去。利用<span color=\"#ffc500\">炸弹道具</>可以让其他选手掉下平台，但同时也要保护好自己。<span color=\"#ffc500\">尽情捣蛋吧！</>",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9621_des",
+        "zh_CN": "利用<span color=\"#ffc500\">炸弹道具</>可以让其他选手先掉下平台，但同时也要保护好自己，千万别掉下平台。<span color=\"#ffc500\">尽情捣蛋吧！</>",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9622_des",
+        "zh_CN": "利用<span color=\"#ffc500\">飞扑技能</>越过圆环吧！<span color=\"#4F8FFFFF\">蓝色1分；</><span color=\"#ffc500\">橙色3分；</><span color=\"#F10CFBFF\">紫色5分；</>选择合适的方法才能获取更多积分~",
+        "disable": 0
+    },
+    {
+        "Key": "HideAndSeek_Skill01_name",
+        "zh_CN": "复制体",
+        "disable": 0
+    },
+    {
+        "Key": "HideAndSeek_Skill02_name",
+        "zh_CN": "光学迷彩",
+        "disable": 0
+    },
+    {
+        "Key": "HideAndSeek_Skill03_name",
+        "zh_CN": "扫描仪",
+        "disable": 0
+    },
+    {
+        "Key": "HideAndSeek_Skill04_name",
+        "zh_CN": "定位仪",
+        "disable": 0
+    },
+    {
+        "Key": "HideAndSeek_Skill01_des",
+        "zh_CN": "使用后，将复制1个当前拟态的物品留在原地，场上至多存在%d个复制体\\n注：非拟态时不可使用",
+        "disable": 0
+    },
+    {
+        "Key": "HideAndSeek_Skill02_des",
+        "zh_CN": "使用后，进入持续%d秒的隐身状态",
+        "disable": 0
+    },
+    {
+        "Key": "HideAndSeek_Skill03_des",
+        "zh_CN": "使用后，以自身为中心生成1个持续%d秒的扫描区域，当有【躲避方】进入扫描区域，区域将会变色做出提醒",
+        "disable": 0
+    },
+    {
+        "Key": "HideAndSeek_Skill04_des",
+        "zh_CN": "使用后，持续追踪离自身最近的1位【躲避方】",
+        "disable": 0
+    },
+    {
+        "Key": "partygoal_HAS_1",
+        "zh_CN": "抓捕目标",
+        "disable": 0
+    },
+    {
+        "Key": "partygoal_HAS_2",
+        "zh_CN": "躲藏目标",
+        "disable": 0
+    },
+    {
+        "Key": "partygoal_HAS_3",
+        "zh_CN": "已追捕",
+        "disable": 0
+    },
+    {
+        "Key": "partygoal_HAS_4",
+        "zh_CN": "躲藏中",
+        "disable": 0
+    },
+    {
+        "Key": "partyHAS_state_1",
+        "zh_CN": "躲避方完成躲藏，追捕方开始追捕！",
+        "disable": 0
+    },
+    {
+        "Key": "partyHAS_state_2",
+        "zh_CN": "躲避方强制切换拟态，追捕方技能使用间隔减少",
+        "disable": 0
+    },
+    {
+        "Key": "partyHAS_state_3",
+        "zh_CN": "即将终局，追捕能力增强！",
+        "disable": 0
+    },
+    {
+        "Key": "partyHAS_state_4",
+        "zh_CN": "躲避方强制切换拟态！",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9623",
+        "zh_CN": "水上乐园·集市",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9624",
+        "zh_CN": "水上乐园·通道",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9625",
+        "zh_CN": "水上乐园·舞台",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9623_des",
+        "zh_CN": "热闹的水上乐园，是非常适合捉迷藏的地方",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9624_des",
+        "zh_CN": "热闹的水上乐园，是非常适合捉迷藏的地方",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9625_des",
+        "zh_CN": "热闹的水上乐园，是非常适合捉迷藏的地方",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9623_des1",
+        "zh_CN": "每个看起来合理的、不合理的物件都可能是对手的伪装，把躲起来的选手都找出来吧",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9623_des2",
+        "zh_CN": "伪装、隐藏、逃跑，总之逃过他们的追捕吧",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9624_des1",
+        "zh_CN": "每个看起来合理的、不合理的物件都可能是对手的伪装，把躲起来的选手都找出来吧",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9624_des2",
+        "zh_CN": "伪装、隐藏、逃跑，总之逃过他们的追捕吧",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9625_des1",
+        "zh_CN": "每个看起来合理的、不合理的物件都可能是对手的伪装，把躲起来的选手都找出来吧",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9625_des2",
+        "zh_CN": "伪装、隐藏、逃跑，总之逃过他们的追捕吧",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9626",
+        "zh_CN": "喧闹小镇",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9627",
+        "zh_CN": "曲率美学",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9628",
+        "zh_CN": "门扉穿梭",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9629",
+        "zh_CN": "方型硬币盒",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9630",
+        "zh_CN": "翻滚爱好者",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9632",
+        "zh_CN": "喧闹小镇",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9633",
+        "zh_CN": "决胜之城",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9634",
+        "zh_CN": "回声广场",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9626_des",
+        "zh_CN": "不是哈姆的喧闹让小镇亮起了灯火，那只是安卡希雅在赶工测试而已！",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9627_des",
+        "zh_CN": "又大又圆还有缝！别被迷晕了，快走！圆盘和圆球非常容易让你从平台上坠落！",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9628_des",
+        "zh_CN": "勇往直前！试着一次冲过开开合合的门板吧！做不到的话不要勉强，找准时机冲过去也可以过关！",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9629_des",
+        "zh_CN": "嘿，见过方块形状的硬币吗？据说一直维持正面的人会有好运！",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9630_des",
+        "zh_CN": "这些圆盘和滚筒学会了翻滚动作！请使出浑身解数抵达终点吧！",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9632_des",
+        "zh_CN": "不是哈姆的喧闹让小镇亮起了灯火，那只是安卡希雅在赶工测试而已！",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9633_des",
+        "zh_CN": "武器、阳光、决心，此刻已做好完全准备，是时候和哈姆进行最终决战了！",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9634_des",
+        "zh_CN": "哈姆们想把快乐分享给广场上的每个人，接受还是拒绝，这是一个问题。",
+        "disable": 0
+    },
+    {
+        "Key": "TxtPartyGuide1",
+        "zh_CN": "“哈姆”用近战攻击会将“大玩家”同化为“小哈姆”",
+        "disable": 0
+    },
+    {
+        "Key": "TxtPartyGuide2",
+        "zh_CN": "你是海姆大玩家，请选择武器，在30秒内通过射击击败“哈姆”！",
+        "disable": 0
+    },
+    {
+        "Key": "TxtPartyGuide3",
+        "zh_CN": "“哈姆军团”重生了！海姆大玩家，请存活到最后！",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9637",
+        "zh_CN": "海岛迷踪",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9638",
+        "zh_CN": "轻风乐园",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9639",
+        "zh_CN": "静谧小镇",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9637_des",
+        "zh_CN": "阳光明媚，欢乐无限，到惬意的海岛玩一场轻松的捉迷藏吧！",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9638_des",
+        "zh_CN": "温柔的清风吹拂着所有人的脸庞——嘘，都藏好，可别暴露了！",
+        "disable": 0
+    },
+    {
+        "Key": "partygo_level9639_des",
+        "zh_CN": "在恬适的度假小镇中玩捉迷藏，也是一种熟悉这里风情的方式哦！",
+        "disable": 0
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "Name": "HealthAdditionRate",
+        "AttrGroup": "Health",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "HealthAdditionVal",
+        "AttrGroup": "Health",
+        "AttachType": 0,
+        "ValueType": 0,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "Health",
+        "AttrGroup": "Health",
+        "AttachType": 0,
+        "ValueType": 0,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "CurHealth",
+        "AttrGroup": "Health",
+        "AttachType": 0,
+        "ValueType": 0,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "AttackAdditionRate",
+        "AttrGroup": "Attack",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "Attack",
+        "AttrGroup": "Attack",
+        "AttachType": 0,
+        "ValueType": 0,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "DefenceAdditionRate",
+        "AttrGroup": "Defence",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "Defence",
+        "AttrGroup": "Defence",
+        "AttachType": 0,
+        "ValueType": 0,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "DamageAdditionRate",
+        "AttrGroup": "DmgAdd",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "FinalDamageBonus",
+        "AttrGroup": "FDB",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "DamageTakeMultiplier",
+        "AttrGroup": "DTM",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "DamageReduceRate",
+        "AttrGroup": "DRR",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 0,
+        "LimitMaxValue": 80,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "DamageCoefficient",
+        "AttrGroup": "DMGCoefficient",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "FixedDamage",
+        "AttrGroup": "FixDMG",
+        "AttachType": 0,
+        "ValueType": 0,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "ReduceSkillCD",
+        "AttrGroup": "Skill",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "SkillStoreCount",
+        "AttrGroup": "Skill",
+        "AttachType": 0,
+        "ValueType": 0,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "MaxScatterRatio",
+        "AttrGroup": "ScatterRatio",
+        "AttachType": 0,
+        "ValueType": 0,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "ShootAddScatterRatio",
+        "AttrGroup": "ScatterRatio",
+        "AttachType": 0,
+        "ValueType": 0,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "RecoverScatterSpeedRatio",
+        "AttrGroup": "ScatterRatio",
+        "AttachType": 0,
+        "ValueType": 0,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "MeleeAtkRange",
+        "AttrGroup": "MeleeWeapon",
+        "AttachType": 0,
+        "ValueType": 0,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "MeleeAtkRangeAddRate",
+        "AttrGroup": "MeleeWeapon",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "MeleeAtkSpeed",
+        "AttrGroup": "MeleeWeapon",
+        "AttachType": 0,
+        "ValueType": 0,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "MeleeAtkSpeedBonus",
+        "AttrGroup": "MeleeWeapon",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "OutFightAddHpBonus",
+        "AttrGroup": "OutFight",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "SkillPower",
+        "AttrGroup": "Power",
+        "AttachType": 0,
+        "ValueType": 0,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "SkillPowerMax",
+        "AttrGroup": "Power",
+        "AttachType": 0,
+        "ValueType": 0,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "SkillPowerShootAdditionRate",
+        "AttrGroup": "Power",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "MoveSpeedBonus",
+        "AttrGroup": "Speed",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "MaxSpeedSlowDownPercent",
+        "AttrGroup": "Speed",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 1,
+        "LimitMaxValue": 100,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "PenetrationCount",
+        "AttrGroup": "Penetration",
+        "AttachType": 0,
+        "ValueType": 0,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "PenetrationMultiplier",
+        "AttrGroup": "Penetration",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "ExpBonus",
+        "AttrGroup": "Exp",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "JumpBonus",
+        "AttrGroup": "Jump",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "WeaponAttack",
+        "AttrGroup": "WAttack",
+        "AttachType": 1,
+        "ValueType": 0,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "ShootSpeed",
+        "AttrGroup": "ShootSpeed",
+        "AttachType": 1,
+        "ValueType": 0,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "ShootSpeedBonus",
+        "AttrGroup": "ShootSpeed",
+        "AttachType": 1,
+        "ValueType": 1,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "ShootSpeedBonusByChar",
+        "AttrGroup": "ShootSpeed",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "MagazineCapacity",
+        "AttrGroup": "MagCapacity",
+        "AttachType": 1,
+        "ValueType": 0,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "MagazineCapacityBonus",
+        "AttrGroup": "MagCapacity",
+        "AttachType": 1,
+        "ValueType": 1,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "ReloadSpeed",
+        "AttrGroup": "ReloadSpeed",
+        "AttachType": 1,
+        "ValueType": 0,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "ReloadSpeedBonus",
+        "AttrGroup": "ReloadSpeed",
+        "AttachType": 1,
+        "ValueType": 1,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "ReloadSpeedBonusByChar",
+        "AttrGroup": "ReloadSpeed",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "WeaponFitRate",
+        "AttrGroup": "WeaponFitRate",
+        "AttachType": 1,
+        "ValueType": 1,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "StandardShootRange",
+        "AttrGroup": "ShootRange",
+        "AttachType": 1,
+        "ValueType": 0,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "ReduceShootRange",
+        "AttrGroup": "ShootRange",
+        "AttachType": 1,
+        "ValueType": 0,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "ExtremeShootRange",
+        "AttrGroup": "ShootRange",
+        "AttachType": 1,
+        "ValueType": 0,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "CRTValue",
+        "AttrGroup": "CRTValue",
+        "AttachType": 1,
+        "ValueType": 1,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "CRTValueFormChar",
+        "AttrGroup": "CRTValue",
+        "AttachType": 0,
+        "ValueType": 1,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "CRTDamage",
+        "AttrGroup": "CRTDmg",
+        "AttachType": 1,
+        "ValueType": 1,
+        "bReplicated": 1,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    },
+    {
+        "Name": "ShootAddSkillPower",
+        "AttrGroup": "Power",
+        "AttachType": 1,
+        "ValueType": 0,
+        "bReplicated": 0,
+        "LimitMaxValue": -1.0,
+        "LimitMinValue": 0
+    }
+]

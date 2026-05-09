@@ -1,0 +1,221 @@
+{
+  "pages": [
+    {
+      "id": 1,
+      "name": "Page1",
+      "max_action_id": 16,
+      "traces": [
+        {
+          "id": 1,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 1,
+                  "tpl_id": "screen_fade",
+                  "params": {
+                    "fade_type": "1",
+                    "style": "1",
+                    "time": "0"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 5,
+                  "tpl_id": "hide_scene_character",
+                  "params": {
+                    "radius": "100000",
+                    "pos": "-24051,-23485,86"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 9,
+                  "tpl_id": "play_level_sequence",
+                  "params": {
+                    "wait": "1",
+                    "autoDestroy": "1",
+                    "path": "LevelSequence'/Game/Cinematics/house/pub_open/Sequence/dlc30_pub_open_Master.dlc30_pub_open_Master'",
+                    "pathFix": "LevelSequence'/Game/Cinematics/house/pub_open/Sequence/dlc30_pub_open_Master.dlc30_pub_open_Master'"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 13
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 2,
+                  "tpl_id": "play_bgm",
+                  "params": {
+                    "name": "BGM|Story|DLC30_XJG"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 6,
+                  "tpl_id": "show_or_hide_house_player",
+                  "params": {
+                    "type": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 10,
+                  "tpl_id": "screen_fade",
+                  "params": {
+                    "fade_type": "2",
+                    "style": "1",
+                    "time": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 3
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 7
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 11
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "lines": [
+            {
+              "actions": [
+                {
+                  "id": 4
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 8
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 12
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "id": 16
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "max_page_id": 1,
+  "cur_page_id": 1,
+  "max_fsm_id": 9,
+  "fsm_nodes": [
+    {
+      "id": 1,
+      "tpl_id": "begin",
+      "output_pints": [
+        2
+      ]
+    },
+    {
+      "id": 3,
+      "pos_y": 100,
+      "tpl_id": "play",
+      "input_pints": [
+        4
+      ],
+      "output_pints": [
+        5
+      ],
+      "params": {
+        "page": "1"
+      }
+    },
+    {
+      "id": 7,
+      "pos_y": 200,
+      "tpl_id": "end",
+      "input_pints": [
+        8
+      ]
+    }
+  ],
+  "fsm_links": [
+    {
+      "id": 6,
+      "start_id": 2,
+      "end_id": 4
+    },
+    {
+      "id": 9,
+      "start_id": 5,
+      "end_id": 8
+    }
+  ]
+}

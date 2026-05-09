@@ -1,0 +1,919 @@
+[
+    {
+        "Key": "gold_not_enough",
+        "zh_CN": "资金不足",
+        "disable": 0
+    },
+    {
+        "Key": "girlcard_not_found",
+        "zh_CN": "当前队员不存在",
+        "disable": 0
+    },
+    {
+        "Key": "girlcard_cmd_err",
+        "zh_CN": "所需材料不足",
+        "disable": 0
+    },
+    {
+        "Key": "girlcard_update_failed",
+        "zh_CN": "升级失败",
+        "disable": 0
+    },
+    {
+        "Key": "NotEnoughItem",
+        "zh_CN": "道具不足",
+        "disable": 0
+    },
+    {
+        "Key": "cost_money_failed",
+        "zh_CN": "主货币支付失败",
+        "disable": 0
+    },
+    {
+        "Key": "BadParam",
+        "zh_CN": "请求参数错误",
+        "disable": 0
+    },
+    {
+        "Key": "ItemNotExists",
+        "zh_CN": "物品不存在",
+        "disable": 0
+    },
+    {
+        "Key": "Recycle.ItemNotExists",
+        "zh_CN": "回收失败，物品不存在",
+        "disable": 0
+    },
+    {
+        "Key": "Recycle.ItemNotEnough",
+        "zh_CN": "回收失败，物品不足",
+        "disable": 0
+    },
+    {
+        "Key": "Recycle.ItemNotExpiration",
+        "zh_CN": "回收失败，物品尚未过期，不可回收",
+        "disable": 0
+    },
+    {
+        "Key": "Recycle.ItemCanNotRecycle",
+        "zh_CN": "回收失败，物品不可回收",
+        "disable": 0
+    },
+    {
+        "Key": "LoginNeed",
+        "zh_CN": "数据异常，请重新登录。是否返回？",
+        "disable": 0
+    },
+    {
+        "Key": "MissServerLoginNeed",
+        "zh_CN": "找不到服务，请返回登录，是否返回？",
+        "disable": 0
+    },
+    {
+        "Key": "function_ban",
+        "zh_CN": "功能维护中",
+        "disable": 0
+    },
+    {
+        "Key": 101,
+        "zh_CN": "网络写占用",
+        "disable": 0
+    },
+    {
+        "Key": 102,
+        "zh_CN": "网络读占用",
+        "disable": 0
+    },
+    {
+        "Key": 103,
+        "zh_CN": "网络超时",
+        "disable": 0
+    },
+    {
+        "Key": 104,
+        "zh_CN": "网络链接正在关闭",
+        "disable": 0
+    },
+    {
+        "Key": 105,
+        "zh_CN": "网络链接已经关闭",
+        "disable": 0
+    },
+    {
+        "Key": 106,
+        "zh_CN": "网络链接无效",
+        "disable": 0
+    },
+    {
+        "Key": 107,
+        "zh_CN": "网络包序列化失败",
+        "disable": 0
+    },
+    {
+        "Key": 108,
+        "zh_CN": "网络包反序列化失败",
+        "disable": 0
+    },
+    {
+        "Key": 109,
+        "zh_CN": "网络锁定失败",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": 201,
+        "zh_CN": "找不到服务",
+        "disable": 0
+    },
+    {
+        "Key": 202,
+        "zh_CN": "服务重复",
+        "disable": 0
+    },
+    {
+        "Key": 203,
+        "zh_CN": "服务没有相应的方法",
+        "disable": 0
+    },
+    {
+        "Key": 204,
+        "zh_CN": "参数无效",
+        "disable": 0
+    },
+    {
+        "Key": 205,
+        "zh_CN": "数据库操作失败",
+        "disable": 0
+    },
+    {
+        "Key": 206,
+        "zh_CN": "服务内部错误",
+        "disable": 0
+    },
+    {
+        "Key": 207,
+        "zh_CN": "重复操作",
+        "disable": 0
+    },
+    {
+        "Key": 208,
+        "zh_CN": "维护状态中",
+        "disable": 0
+    },
+    {
+        "Key": 209,
+        "zh_CN": "服务未就绪",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": 301,
+        "zh_CN": "未登录",
+        "disable": 0
+    },
+    {
+        "Key": 302,
+        "zh_CN": "重复登录",
+        "disable": 0
+    },
+    {
+        "Key": 303,
+        "zh_CN": "客户端版本无效",
+        "disable": 0
+    },
+    {
+        "Key": 304,
+        "zh_CN": "登录认证失败",
+        "disable": 0
+    },
+    {
+        "Key": 305,
+        "zh_CN": "登录人数超出限制",
+        "disable": 0
+    },
+    {
+        "Key": 306,
+        "zh_CN": "不允许登录",
+        "disable": 0
+    },
+    {
+        "Key": 307,
+        "zh_CN": "未受邀请",
+        "disable": 0
+    },
+    {
+        "Key": 308,
+        "zh_CN": "防沉迷条件不匹配",
+        "disable": 0
+    },
+    {
+        "Key": 309,
+        "zh_CN": "防沉迷配置出错",
+        "disable": 0
+    },
+    {
+        "Key": 310,
+        "zh_CN": "用户未实名认证，请先完成实名认证",
+        "disable": 0
+    },
+    {
+        "Key": 311,
+        "zh_CN": "游客1小时体验时间到",
+        "disable": 0
+    },
+    {
+        "Key": 312,
+        "zh_CN": "同一设备，15天内不得重复体验游客模式",
+        "disable": 0
+    },
+    {
+        "Key": 313,
+        "zh_CN": "检测到您为未成年用户，不在法定规定时间内不提供游戏服务",
+        "disable": 0
+    },
+    {
+        "Key": 314,
+        "zh_CN": "检测到您为未成年用户，暂无法提供游戏服务",
+        "disable": 0
+    },
+    {
+        "Key": 315,
+        "zh_CN": "踢除失败",
+        "disable": 0
+    },
+    {
+        "Key": 316,
+        "zh_CN": "赠送感知失败",
+        "disable": 0
+    },
+    {
+        "Key": 317,
+        "zh_CN": "当前排队登录的人数过多，请稍后再试",
+        "disable": 0
+    },
+    {
+        "Key": 318,
+        "zh_CN": "注册已关闭，尽情期待。",
+        "disable": 0
+    },
+    {
+        "Key": 319,
+        "zh_CN": "当前服务器登入人数已满，请稍后再试",
+        "disable": 0
+    },
+    {
+        "Key": 320,
+        "zh_CN": "登录认证失败，您的账号已被另一台设备绑定",
+        "disable": 0
+    },
+    {
+        "Key": 321,
+        "zh_CN": "版本过低，请更新客户端",
+        "disable": 0
+    },
+    {
+        "Key": 322,
+        "zh_CN": "为维护未成年人健康上网环境，本游戏暂不支持实名认证18岁以下的用户登录体验",
+        "disable": 1000
+    },
+    {
+        "Key": 323,
+        "zh_CN": "因您的账号存在违规退单，账号进入暂时封停状态。请先前往下方链接进行补款。\\n账单金额 %s USD",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": 401,
+        "zh_CN": "当前昵称已存在，请重新输入",
+        "disable": 0
+    },
+    {
+        "Key": 402,
+        "zh_CN": "含有敏感词汇，请重新输入",
+        "disable": 0
+    },
+    {
+        "Key": 403,
+        "zh_CN": "含有敏感词汇，请重新输入",
+        "disable": 0
+    },
+    {
+        "Key": 404,
+        "zh_CN": "所需数据金不足，修改失败",
+        "disable": 0
+    },
+    {
+        "Key": 405,
+        "zh_CN": "修改签名失败",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": 410,
+        "zh_CN": "当前好友申请已存在",
+        "disable": 0
+    },
+    {
+        "Key": 411,
+        "zh_CN": "当前好友申请不存在",
+        "disable": 0
+    },
+    {
+        "Key": 412,
+        "zh_CN": "不可重复赠送好友感知",
+        "disable": 0
+    },
+    {
+        "Key": 413,
+        "zh_CN": "好友赠送的感知已过期，不可领取",
+        "disable": 0
+    },
+    {
+        "Key": 414,
+        "zh_CN": "已经领取过好友的感知",
+        "disable": 0
+    },
+    {
+        "Key": 415,
+        "zh_CN": "处于黑名单关系中，无法添加好友",
+        "disable": 0
+    },
+    {
+        "Key": 416,
+        "zh_CN": "当前好友关系不存在",
+        "disable": 0
+    },
+    {
+        "Key": 417,
+        "zh_CN": "操作过于频繁，请稍后再试",
+        "disable": 0
+    },
+    {
+        "Key": 418,
+        "zh_CN": "已经是您的好友",
+        "disable": 0
+    },
+    {
+        "Key": 419,
+        "zh_CN": "己方好友已达上限",
+        "disable": 0
+    },
+    {
+        "Key": 420,
+        "zh_CN": "对方好友已达上限",
+        "disable": 0
+    },
+    {
+        "Key": 421,
+        "zh_CN": "好友已失去链接",
+        "disable": 0
+    },
+    {
+        "Key": 422,
+        "zh_CN": "黑名单人数已达上限",
+        "disable": 0
+    },
+    {
+        "Key": 423,
+        "zh_CN": "该玩家已拒绝接受任何好友申请",
+        "disable": 0
+    },
+    {
+        "Key": 424,
+        "zh_CN": "修改权限被限制，请于解限后重试",
+        "disable": 0
+    },
+    {
+        "Key": 501,
+        "zh_CN": "重复订单",
+        "disable": 0
+    },
+    {
+        "Key": 502,
+        "zh_CN": "订单无效",
+        "disable": 0
+    },
+    {
+        "Key": 503,
+        "zh_CN": "问卷重复",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": 601,
+        "zh_CN": "找不到社团",
+        "disable": 0
+    },
+    {
+        "Key": 602,
+        "zh_CN": "已经加入了社团",
+        "disable": 0
+    },
+    {
+        "Key": 603,
+        "zh_CN": "社团成员已满",
+        "disable": 0
+    },
+    {
+        "Key": 604,
+        "zh_CN": "无社团操作权限",
+        "disable": 0
+    },
+    {
+        "Key": 605,
+        "zh_CN": "找不到要加入的社团",
+        "disable": 0
+    },
+    {
+        "Key": 606,
+        "zh_CN": "找不到社团成员",
+        "disable": 0
+    },
+    {
+        "Key": 607,
+        "zh_CN": "非活跃社团",
+        "disable": 0
+    },
+    {
+        "Key": 608,
+        "zh_CN": "不能从社团中踢掉自己",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": 701,
+        "zh_CN": "物品不存在",
+        "disable": 0
+    },
+    {
+        "Key": 702,
+        "zh_CN": "物品使用失败",
+        "disable": 0
+    },
+    {
+        "Key": 703,
+        "zh_CN": "邮件不存在",
+        "disable": 0
+    },
+    {
+        "Key": 704,
+        "zh_CN": "邮件已读",
+        "disable": 0
+    },
+    {
+        "Key": 705,
+        "zh_CN": "邮件附件已经领取",
+        "disable": 0
+    },
+    {
+        "Key": 706,
+        "zh_CN": "找不到玩家",
+        "disable": 0
+    },
+    {
+        "Key": 707,
+        "zh_CN": "非活跃玩家",
+        "disable": 0
+    },
+    {
+        "Key": 708,
+        "zh_CN": "频道已满",
+        "disable": 0
+    },
+    {
+        "Key": 709,
+        "zh_CN": "找不到频道",
+        "disable": 0
+    },
+    {
+        "Key": 710,
+        "zh_CN": "联机重复匹配",
+        "disable": 0
+    },
+    {
+        "Key": 711,
+        "zh_CN": "已经在联机房间内",
+        "disable": 0
+    },
+    {
+        "Key": 712,
+        "zh_CN": "联机创建房间失败",
+        "disable": 0
+    },
+    {
+        "Key": 713,
+        "zh_CN": "联机房间不存在",
+        "disable": 0
+    },
+    {
+        "Key": 714,
+        "zh_CN": "队员没有准备",
+        "disable": 0
+    },
+    {
+        "Key": 715,
+        "zh_CN": "不是队长，无法操作",
+        "disable": 0
+    },
+    {
+        "Key": 716,
+        "zh_CN": "房间状态不允许该操作",
+        "disable": 0
+    },
+    {
+        "Key": 717,
+        "zh_CN": "邀请玩家失败",
+        "disable": 0
+    },
+    {
+        "Key": 718,
+        "zh_CN": "编队信息错误",
+        "disable": 0
+    },
+    {
+        "Key": 719,
+        "zh_CN": "准备状态，不能更换角色",
+        "disable": 0
+    },
+    {
+        "Key": 720,
+        "zh_CN": "该房间已经满员",
+        "disable": 0
+    },
+    {
+        "Key": 722,
+        "zh_CN": "系统维护期间，无法发送消息",
+        "disable": 0
+    },
+    {
+        "Key": 723,
+        "zh_CN": "当前处于禁言期间，无法发送消息",
+        "disable": 0
+    },
+    {
+        "Key": 724,
+        "zh_CN": "操作过于频繁，请歇歇"
+    },
+    {
+        "Key": "logistics_not",
+        "zh_CN": "没有后勤",
+        "disable": 0
+    },
+    {
+        "Key": "logicard_max_level",
+        "zh_CN": "后勤最大等级",
+        "disable": 0
+    },
+    {
+        "Key": "logistics_not_max_level",
+        "zh_CN": "后勤未到最大等级",
+        "disable": 0
+    },
+    {
+        "Key": "logistic_material_not_enough_cost",
+        "zh_CN": "后勤突破材料不足",
+        "disable": 0
+    },
+    {
+        "Key": "logistic_need_gold_not_enough",
+        "zh_CN": "后勤金币不足",
+        "disable": 0
+    },
+    {
+        "Key": "logistic_material_not_enough",
+        "zh_CN": "后勤材料不足",
+        "disable": 0
+    },
+    {
+        "Key": "logistic__update_failed",
+        "zh_CN": "后勤升级失败",
+        "disable": 0
+    },
+    {
+        "Key": "logistic_cmd_err",
+        "zh_CN": "后勤错误",
+        "disable": 0
+    },
+    {
+        "Key": "logistic_card_break_max",
+        "zh_CN": "后勤突破满级",
+        "disable": 0
+    },
+    {
+        "Key": "logistci_gold_not_enough",
+        "zh_CN": "后勤金币不足",
+        "disable": 0
+    },
+    {
+        "Key": "logistic_skill_cmd_err",
+        "zh_CN": "后勤技能错误",
+        "disable": 0
+    },
+    {
+        "Key": "logistic_upgrade_mat_failed",
+        "zh_CN": "后勤升级材料错误",
+        "disable": 0
+    },
+    {
+        "Key": "weapon_replace_cmd_err",
+        "zh_CN": "武器替换错误",
+        "disable": 0
+    },
+    {
+        "Key": "card_not_found",
+        "zh_CN": "找不到卡",
+        "disable": 0
+    },
+    {
+        "Key": "weapon_not_found",
+        "zh_CN": "找不到武器",
+        "disable": 0
+    },
+    {
+        "Key": "weapon_has_use",
+        "zh_CN": "武器使用错误",
+        "disable": 0
+    },
+    {
+        "Key": "weapon_replace_fail",
+        "zh_CN": "武器替换失败",
+        "disable": 0
+    },
+    {
+        "Key": "weapon_exchange_cmd_err",
+        "zh_CN": "替换武器错误",
+        "disable": 0
+    },
+    {
+        "Key": "weapon_exchange_fail",
+        "zh_CN": "替换武器错误",
+        "disable": 0
+    },
+    {
+        "Key": "weapon_upgrade_cmd_err",
+        "zh_CN": "武器升级错误",
+        "disable": 0
+    },
+    {
+        "Key": "weapon_max_level",
+        "zh_CN": "武器等级最大",
+        "disable": 0
+    },
+    {
+        "Key": "weapon_upgrade_failed",
+        "zh_CN": "武器升级失败",
+        "disable": 0
+    },
+    {
+        "Key": "weapon_break_cmd_err",
+        "zh_CN": "武器突破错误",
+        "disable": 0
+    },
+    {
+        "Key": "weapon_max_break",
+        "zh_CN": "武器满破",
+        "disable": 0
+    },
+    {
+        "Key": "weapon_evolution_cmd_err",
+        "zh_CN": "武器改造错误",
+        "disable": 0
+    },
+    {
+        "Key": "weapon_evolution_max",
+        "zh_CN": "武器改造满阶",
+        "disable": 0
+    },
+    {
+        "Key": "mat_not_found",
+        "zh_CN": "找不到材料",
+        "disable": 0
+    },
+    {
+        "Key": "weapon_evolution_mat_err",
+        "zh_CN": "武器改造材料错误",
+        "disable": 0
+    },
+    {
+        "Key": "weapon_evolution_mat_not_enough",
+        "zh_CN": "武器改造材料不足",
+        "disable": 0
+    },
+    {
+        "Key": "use_error",
+        "zh_CN": "使用错误",
+        "disable": 0
+    },
+    {
+        "Key": "weapon_part_replace_cmd_err",
+        "zh_CN": "零件替换错误",
+        "disable": 0
+    },
+    {
+        "Key": "weapon_part_replace_nil",
+        "zh_CN": "零件替换为空",
+        "disable": 0
+    },
+    {
+        "Key": "weapon_slot_not_open",
+        "zh_CN": "武器槽位未开放",
+        "disable": 0
+    },
+    {
+        "Key": "weapon_part_not_find",
+        "zh_CN": "找不到零件",
+        "disable": 0
+    },
+    {
+        "Key": "weapon_part_not_allow",
+        "zh_CN": "不允许的零件",
+        "disable": 0
+    },
+    {
+        "Key": "BadParam1",
+        "zh_CN": "参数1错误",
+        "disable": 0
+    },
+    {
+        "Key": "time_out",
+        "zh_CN": "超时",
+        "disable": 0
+    },
+    {
+        "Key": "award error",
+        "zh_CN": "奖励错误",
+        "disable": 0
+    },
+    {
+        "Key": "BadParam5",
+        "zh_CN": "参数5错误",
+        "disable": 0
+    },
+    {
+        "Key": "cash_exchange_failed",
+        "zh_CN": "货币兑换失败",
+        "disable": 0
+    },
+    {
+        "Key": "affix_pool_not_find",
+        "zh_CN": "未找到特长池",
+        "disable": 0
+    },
+    {
+        "Key": "rename_not_enough_money",
+        "zh_CN": "所需数据金不足，修改失败",
+        "disable": 0
+    },
+    {
+        "Key": "skin_not_found",
+        "zh_CN": "未找到时装",
+        "disable": 0
+    },
+    {
+        "Key": "fashion_now_use",
+        "zh_CN": "当前时装已被使用",
+        "disable": 0
+    },
+    {
+        "Key": "fashion_replace_fail",
+        "zh_CN": "替换时装错误",
+        "disable": 0
+    },
+    {
+        "Key": "affix_exist",
+        "zh_CN": "已有待定特长",
+        "disable": 0
+    },
+    {
+        "Key": "netfailure_0",
+        "zh_CN": "网络服务已经存在",
+        "disable": 0
+    },
+    {
+        "Key": "netfailure_1",
+        "zh_CN": "网络服务创建失败",
+        "disable": 0
+    },
+    {
+        "Key": "netfailure_2",
+        "zh_CN": "网络服务监听失败",
+        "disable": 0
+    },
+    {
+        "Key": "netfailure_3",
+        "zh_CN": "网络链接丢失",
+        "disable": 0
+    },
+    {
+        "Key": "netfailure_4",
+        "zh_CN": "网络链接超时",
+        "disable": 0
+    },
+    {
+        "Key": "netfailure_5",
+        "zh_CN": "网络服务接收到失败信息",
+        "disable": 0
+    },
+    {
+        "Key": "netfailure_6",
+        "zh_CN": "客户端版本与服务器不匹配",
+        "disable": 0
+    },
+    {
+        "Key": "netfailure_7",
+        "zh_CN": "服务器版本与客户端不匹配",
+        "disable": 0
+    },
+    {
+        "Key": "netfailure_8",
+        "zh_CN": "网络链接出错",
+        "disable": 0
+    },
+    {
+        "Key": "netfailure_9",
+        "zh_CN": "网络标识不匹配",
+        "disable": 0
+    },
+    {
+        "Key": "netfailure_10",
+        "zh_CN": "网络校验不匹配",
+        "disable": 0
+    },
+    {
+        "Key": "multiple_not_open",
+        "zh_CN": "多倍收益未开启",
+        "disable": 0
+    },
+    {
+        "Key": "multiple_not_support",
+        "zh_CN": "当前倍率不支持",
+        "disable": 0
+    },
+    {
+        "Key": "roleconsume_not_enough",
+        "zh_CN": "记忆嵌片不足",
+        "disable": 0
+    },
+    {
+        "Key": "BadProductId",
+        "zh_CN": "错误的充值商品id",
+        "disable": 0
+    },
+    {
+        "Key": "BadIBGoodId",
+        "zh_CN": "错误的商品信息",
+        "disable": 0
+    },
+    {
+        "Key": "Area_Url_Error",
+        "zh_CN": "当前区域的服务器暂未开放",
+        "disable": 0
+    },
+    {
+        "Key": "mopup_not_open",
+        "zh_CN": "扫荡未开启",
+        "disable": 0
+    },
+    {
+        "Key": "ItemClose",
+        "zh_CN": "存在未解禁道具，道具数据异常",
+        "disable": 0
+    },
+    {
+        "Key": "not_lineup",
+        "zh_CN": "编队信息错误",
+        "disable": 0
+    },
+    {
+        "Key": "not_level_config",
+        "zh_CN": "关卡信息错误",
+        "disable": 0
+    },
+    {
+        "Key": "vigor_not_enough",
+        "zh_CN": "感知不足",
+        "disable": 0
+    },
+    {
+        "Key": "condition_limit",
+        "zh_CN": "不符合限制条件",
+        "disable": 0
+    },
+    {
+        "Key": "optimize",
+        "zh_CN": "优化调整中，敬请期待",
+        "disable": 0
+    }
+]

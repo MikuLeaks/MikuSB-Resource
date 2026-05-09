@@ -1,0 +1,38 @@
+[
+    {
+        "GroupID": 1,
+        "StartTime": "",
+        "EndTime": "",
+        "GroupDes": "vircapture.task_title_1",
+        "Condition": {
+            "20": 5
+        }
+    },
+    {
+        "GroupID": 2,
+        "StartTime": "",
+        "EndTime": "",
+        "GroupDes": "vircapture.task_title_2",
+        "Condition": {
+            "20": 5
+        }
+    },
+    {
+        "GroupID": 3,
+        "StartTime": "[202501230400]",
+        "EndTime": "[202503060400]",
+        "GroupDes": "vircapture.task_title_3",
+        "Condition": {
+            "20": 5
+        }
+    },
+    {
+        "GroupID": 4,
+        "StartTime": "",
+        "EndTime": "",
+        "GroupDes": "vircapture.task_title_4",
+        "Condition": {
+            "20": 5
+        }
+    }
+]

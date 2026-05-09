@@ -1,0 +1,1261 @@
+[
+    {
+        "Id": 1,
+        "Background": [
+            0,
+            0,
+            0
+        ],
+        "TxtColor": [
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "Id": 2001,
+        "Background": [
+            180,
+            0,
+            0
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "LangName": "",
+        "Desc": "",
+        "Icon": "",
+        "Type": 1,
+        "Layer": "",
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "Price": "",
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact001_02_sm.chess03_interact001_02_sm_C"
+    },
+    {
+        "Id": 2002,
+        "Background": [
+            45,
+            45,
+            45,
+            255
+        ],
+        "TxtColor": [
+            200,
+            200,
+            200
+        ],
+        "LangName": "",
+        "Desc": "",
+        "Icon": "",
+        "Type": 1,
+        "Layer": "",
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "Price": "",
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact001_01_sm.chess03_interact001_01_sm_C"
+    },
+    {
+        "Id": 2101,
+        "Background": [
+            128,
+            225,
+            242,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "LangName": "season_item.chess03_22",
+        "Desc": "season_item.chess03_22.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 1,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "Price": "",
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "auto_get_card",
+        "TagParam": 11,
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact001_grid_hint_04.chess03_interact001_grid_hint_04_C"
+    },
+    {
+        "Id": 2102,
+        "Background": [
+            128,
+            225,
+            242,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "LangName": "season_item.chess03_22",
+        "Desc": "season_item.chess03_23.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 1,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "Price": "",
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "auto_get_card",
+        "TagParam": 10,
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact001_grid_hint_05.chess03_interact001_grid_hint_05_C"
+    },
+    {
+        "Id": 2103,
+        "Background": [
+            128,
+            225,
+            242,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "LangName": "season_item.chess03_22",
+        "Desc": "season_item.chess03_24.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 1,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "Price": "",
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "auto_get_card",
+        "TagParam": 12,
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact001_grid_hint_06.chess03_interact001_grid_hint_06_C"
+    },
+    {
+        "Id": 2104,
+        "Background": [
+            241,
+            133,
+            208,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "LangName": "season_item.chess03_25",
+        "Desc": "season_item.chess03_25.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 1,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "Price": "",
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "flip_game",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact001_grid_hint_02.chess03_interact001_grid_hint_02_C"
+    },
+    {
+        "Id": 2105,
+        "Background": [
+            242,
+            241,
+            128,
+            255
+        ],
+        "TxtColor": [
+            200,
+            45,
+            0
+        ],
+        "LangName": "season_item.chess03_26",
+        "Desc": "season_item.chess03_26.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 1,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "Price": "",
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "tavern_question",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact001_grid_hint.chess03_interact001_grid_hint_C"
+    },
+    {
+        "Id": 2106,
+        "Background": [
+            242,
+            241,
+            128,
+            255
+        ],
+        "TxtColor": [
+            20,
+            0,
+            0
+        ],
+        "LangName": "season_item.chess03_27",
+        "Desc": "season_item.chess03_27.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 1,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "Price": "",
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "random_event",
+        "TagParam": 4,
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact001_grid_hint_01.chess03_interact001_grid_hint_01_C"
+    },
+    {
+        "Id": 2107,
+        "Background": [
+            241,
+            133,
+            208,
+            255
+        ],
+        "TxtColor": [
+            200,
+            25,
+            0
+        ],
+        "LangName": "season_item.chess03_28",
+        "Desc": "season_item.chess03_28.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 1,
+        "PageIndex": 2,
+        "ClassName": "class_transfer",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "Price": "",
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact001_grid_hint_07.chess03_interact001_grid_hint_07_C"
+    },
+    {
+        "Id": 2108,
+        "Background": [
+            241,
+            133,
+            208,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "LangName": "season_item.chess03_33",
+        "Desc": "season_item.chess03_33.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 1,
+        "PageIndex": 3,
+        "ClassName": "class_random_item",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "Price": "",
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "random_item",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact001_grid_hint_03.chess03_interact001_grid_hint_03_C"
+    },
+    {
+        "Id": 3001,
+        "Background": [
+            205,
+            133,
+            63
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "LangName": "season_item.chess03_1",
+        "Desc": "season_item.chess03_1.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 3,
+        "PageIndex": 2,
+        "ClassName": "class_telephone",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "Price": "",
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact003_01_sm.chess03_interact003_01_sm_C"
+    },
+    {
+        "Id": 3002,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "LangName": "season_item.chess03_2",
+        "Desc": "season_item.chess03_2.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 2,
+        "PageIndex": 2,
+        "ClassName": "class_hospital",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "Price": "",
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact011_01_sm.chess03_interact011_01_sm_C"
+    },
+    {
+        "Id": 3006,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "LangName": "season_item.chess03_31",
+        "Desc": "season_item.chess03_31.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 2,
+        "PageIndex": 2,
+        "ClassName": "class_bomb",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "Price": "",
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "landmine",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact002_01_sm.chess03_interact002_01_sm_C"
+    },
+    {
+        "Id": 3007,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "LangName": "season_item.chess03_30",
+        "Desc": "season_item.chess03_30.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 2,
+        "PageIndex": 2,
+        "ClassName": "class_bomb",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "Price": "",
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "explosive",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact009_01_sm.chess03_interact009_01_sm_C"
+    },
+    {
+        "Id": 3010,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "LangName": "season_item.chess03_22",
+        "Desc": "season_item.chess03_22.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 2,
+        "PageIndex": 2,
+        "ClassName": "class_bomb",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "Price": "",
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "missile",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact008_01_sm.chess03_interact008_01_sm_C"
+    },
+    {
+        "Id": 3011,
+        "Background": [
+            75,
+            75,
+            75,
+            255
+        ],
+        "TxtColor": [
+            200,
+            200,
+            200
+        ],
+        "LangName": "",
+        "Desc": "",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 2,
+        "PageIndex": 2,
+        "ClassName": "class_road_dir",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "Price": "",
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/survivors/empty_object.empty_object_C"
+    },
+    {
+        "Id": 3013,
+        "Background": [
+            75,
+            0,
+            0,
+            255
+        ],
+        "TxtColor": [
+            200,
+            0,
+            0
+        ],
+        "LangName": "season_item.chess03_29",
+        "Desc": "season_item.chess03_29.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 2,
+        "PageIndex": 2,
+        "ClassName": "class_barrier",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "Price": "",
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact013_01_sm.chess03_interact013_01_sm_C"
+    },
+    {
+        "Id": 4001,
+        "Background": [
+            70,
+            50,
+            30
+        ],
+        "TxtColor": [
+            255,
+            255,
+            255
+        ],
+        "LangName": "season_item.chess03_3",
+        "Desc": "season_item.chess03_3.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 2,
+        "PageIndex": 3,
+        "ClassName": "class_building",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "Price": 200,
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact004_01_sm.chess03_interact004_01_sm_C"
+    },
+    {
+        "Id": 4002,
+        "Background": [
+            100,
+            80,
+            60
+        ],
+        "TxtColor": [
+            255,
+            255,
+            255
+        ],
+        "LangName": "season_item.chess03_4;season_item.chess03_7",
+        "Desc": "season_item.chess03_4.desc;season_item.chess03_7.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 3,
+        "PageIndex": 3,
+        "ClassName": "class_building",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "Price": 500,
+        "PriceLv": 200,
+        "PriceToll": 350,
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact007_01_sm.chess03_interact007_01_sm_C"
+    },
+    {
+        "Id": 4003,
+        "Background": [
+            100,
+            80,
+            60
+        ],
+        "TxtColor": [
+            255,
+            255,
+            255
+        ],
+        "LangName": "season_item.chess03_5;season_item.chess03_8",
+        "Desc": "season_item.chess03_5.desc;season_item.chess03_8.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 3,
+        "PageIndex": 3,
+        "ClassName": "class_building",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "Price": 800,
+        "PriceLv": 200,
+        "PriceToll": 560,
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact007_02_sm.chess03_interact007_02_sm_C"
+    },
+    {
+        "Id": 4004,
+        "Background": [
+            100,
+            80,
+            60
+        ],
+        "TxtColor": [
+            255,
+            255,
+            255
+        ],
+        "LangName": "season_item.chess03_6;season_item.chess03_9",
+        "Desc": "season_item.chess03_6.desc;season_item.chess03_9.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 3,
+        "PageIndex": 3,
+        "ClassName": "class_building",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "Price": 1200,
+        "PriceLv": 200,
+        "PriceToll": 840,
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact007_03_sm.chess03_interact007_03_sm_C"
+    },
+    {
+        "Id": 4008,
+        "Background": [
+            100,
+            80,
+            60
+        ],
+        "TxtColor": [
+            255,
+            255,
+            255
+        ],
+        "LangName": "season_item.chess03_10;season_item.chess03_13",
+        "Desc": "season_item.chess03_10.desc;season_item.chess03_13.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 3,
+        "PageIndex": 3,
+        "ClassName": "class_building",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            2,
+            2
+        ],
+        "LandType": "block",
+        "Price": 2000,
+        "PriceLv": "",
+        "PriceToll": 1400,
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact006_01_sm.chess03_interact006_01_sm_C"
+    },
+    {
+        "Id": 4009,
+        "Background": [
+            100,
+            80,
+            60
+        ],
+        "TxtColor": [
+            255,
+            255,
+            255
+        ],
+        "LangName": "season_item.chess03_11;season_item.chess03_14",
+        "Desc": "season_item.chess03_11.desc;season_item.chess03_14.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 3,
+        "PageIndex": 3,
+        "ClassName": "class_building",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            2,
+            2
+        ],
+        "LandType": "block",
+        "Price": 2500,
+        "PriceLv": 300,
+        "PriceToll": 1750,
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact006_02_sm.chess03_interact006_02_sm_C"
+    },
+    {
+        "Id": 4010,
+        "Background": [
+            100,
+            80,
+            60
+        ],
+        "TxtColor": [
+            255,
+            255,
+            255
+        ],
+        "LangName": "season_item.chess03_12;season_item.chess03_15",
+        "Desc": "season_item.chess03_12.desc;season_item.chess03_15.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 3,
+        "PageIndex": 3,
+        "ClassName": "class_building",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            2,
+            2
+        ],
+        "LandType": "block",
+        "Price": 3000,
+        "PriceLv": 300,
+        "PriceToll": 2100,
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact006_03_sm.chess03_interact006_03_sm_C"
+    },
+    {
+        "Id": 4014,
+        "Background": [
+            100,
+            80,
+            60
+        ],
+        "TxtColor": [
+            255,
+            255,
+            255
+        ],
+        "LangName": "season_item.chess03_16;season_item.chess03_19",
+        "Desc": "season_item.chess03_16.desc;season_item.chess03_19.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 3,
+        "PageIndex": 3,
+        "ClassName": "class_building",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            2,
+            2
+        ],
+        "LandType": "block",
+        "Price": 2000,
+        "PriceLv": "",
+        "PriceToll": 1400,
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact005_01_sm.chess03_interact005_01_sm_C"
+    },
+    {
+        "Id": 4015,
+        "Background": [
+            100,
+            80,
+            60
+        ],
+        "TxtColor": [
+            255,
+            255,
+            255
+        ],
+        "LangName": "season_item.chess03_17;season_item.chess03_20",
+        "Desc": "season_item.chess03_17.desc;season_item.chess03_20.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 3,
+        "PageIndex": 3,
+        "ClassName": "class_building",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            2,
+            2
+        ],
+        "LandType": "block",
+        "Price": 2500,
+        "PriceLv": 300,
+        "PriceToll": 1750,
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact005_02_sm.chess03_interact005_02_sm_C"
+    },
+    {
+        "Id": 4016,
+        "Background": [
+            100,
+            80,
+            60
+        ],
+        "TxtColor": [
+            255,
+            255,
+            255
+        ],
+        "LangName": "season_item.chess03_18;season_item.chess03_21",
+        "Desc": "season_item.chess03_18.desc;season_item.chess03_21.desc",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 3,
+        "PageIndex": 3,
+        "ClassName": "class_building",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            2,
+            2
+        ],
+        "LandType": "block",
+        "Price": 3000,
+        "PriceLv": 300,
+        "PriceToll": 2100,
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact005_03_sm.chess03_interact005_03_sm_C"
+    },
+    {
+        "Id": 5001,
+        "Background": "",
+        "TxtColor": "",
+        "LangName": "",
+        "Desc": "",
+        "Icon": "",
+        "Type": "",
+        "Layer": "",
+        "PageIndex": "",
+        "ClassName": "",
+        "Offset": "",
+        "Scale": "",
+        "Size": "",
+        "LandType": "",
+        "Price": "",
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact014_01_sm.chess03_interact014_01_sm_C"
+    },
+    {
+        "Id": 5002,
+        "Background": "",
+        "TxtColor": "",
+        "LangName": "",
+        "Desc": "",
+        "Icon": "",
+        "Type": "",
+        "Layer": "",
+        "PageIndex": "",
+        "ClassName": "",
+        "Offset": "",
+        "Scale": "",
+        "Size": "",
+        "LandType": "",
+        "Price": "",
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact014_02_sm.chess03_interact014_02_sm_C"
+    },
+    {
+        "Id": 6001,
+        "Background": [
+            128,
+            128,
+            128,
+            200
+        ],
+        "TxtColor": [
+            240,
+            240,
+            0
+        ],
+        "LangName": "",
+        "Desc": "",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 2,
+        "PageIndex": "",
+        "ClassName": "class_born",
+        "Offset": "",
+        "Scale": [
+            1,
+            0.1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "Price": "",
+        "PriceLv": "",
+        "PriceToll": "",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "start",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/survivors/empty_object.empty_object_C"
+    }
+]

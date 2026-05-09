@@ -1,0 +1,2301 @@
+[
+    {
+        "ID": 101,
+        "Type": 1,
+        "Sort": 101,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_main_name101",
+        "TaskDesc": "donoduel.task_main_name101_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 101,
+        "AcceptStory": "DLC35_event/DonoDuel_phase1_01",
+        "AcceptTrack": "",
+        "Objectives": 10,
+        "Param": [],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition101",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 101,
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                2000
+            ]
+        ],
+        "Reward2": [
+            1,
+            5,
+            9
+        ],
+        "Reward3": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                5,
+                1,
+                1
+            ],
+            [
+                9,
+                1,
+                1
+            ]
+        ]
+    },
+    {
+        "ID": 102,
+        "Type": 1,
+        "Sort": 102,
+        "PreID": 101,
+        "Condition": "",
+        "TaskName": "donoduel.task_main_name102",
+        "TaskDesc": "donoduel.task_main_name102_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 101,
+        "AcceptStory": "",
+        "AcceptTrack": 1,
+        "Objectives": 1,
+        "Param": [
+            5505
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition102",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 101,
+        "SubmitStory": "DLC35_event/DonoDuel_phase1_02",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                2000
+            ]
+        ]
+    },
+    {
+        "ID": 103,
+        "Type": 1,
+        "Sort": 103,
+        "PreID": 102,
+        "Condition": "",
+        "TaskName": "donoduel.task_main_name103",
+        "TaskDesc": "donoduel.task_main_name103_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 101,
+        "AcceptStory": "",
+        "AcceptTrack": 5,
+        "Objectives": 2,
+        "Param": [
+            1,
+            1
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition103",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 101,
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                3000
+            ]
+        ]
+    },
+    {
+        "ID": 104,
+        "Type": 1,
+        "Sort": 104,
+        "PreID": 103,
+        "Condition": "",
+        "TaskName": "donoduel.task_main_name104",
+        "TaskDesc": "donoduel.task_main_name104_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 101,
+        "AcceptStory": "DLC35_event/DonoDuel_phase1_03",
+        "AcceptTrack": 4,
+        "Objectives": 4,
+        "Param": [
+            -1,
+            1
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition104",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 101,
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                5000
+            ]
+        ],
+        "Reward2": [
+            14,
+            17
+        ],
+        "Reward3": [
+            [
+                14,
+                1,
+                1
+            ],
+            [
+                17,
+                1,
+                1
+            ]
+        ]
+    },
+    {
+        "ID": 105,
+        "Type": 1,
+        "Sort": 105,
+        "PreID": 104,
+        "Condition": "",
+        "TaskName": "donoduel.task_main_name105",
+        "TaskDesc": "donoduel.task_main_name105_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 101,
+        "AcceptStory": "DLC35_event/DonoDuel_phase1_04",
+        "AcceptTrack": 2,
+        "Objectives": 5,
+        "Param": [],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition105",
+        "CompleteTrack": 101,
+        "SubmitAuto": "",
+        "SubmitNPC": 101,
+        "SubmitStory": "DLC35_event/DonoDuel_phase1_05",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                5000
+            ]
+        ],
+        "Reward2": [
+            6,
+            10
+        ],
+        "Reward3": [
+            [
+                6,
+                1,
+                1
+            ],
+            [
+                10,
+                1,
+                1
+            ]
+        ]
+    },
+    {
+        "ID": 106,
+        "Type": 1,
+        "Sort": 106,
+        "PreID": 105,
+        "Condition": "",
+        "TaskName": "donoduel.task_main_name106",
+        "TaskDesc": "donoduel.task_main_name106_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 101,
+        "AcceptStory": "",
+        "AcceptTrack": 1,
+        "Objectives": 1,
+        "Param": [
+            5506
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition106",
+        "CompleteTrack": 101,
+        "SubmitAuto": "",
+        "SubmitNPC": 101,
+        "SubmitStory": "DLC35_event/DonoDuel_phase1_06",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                5000
+            ]
+        ]
+    },
+    {
+        "ID": 107,
+        "Type": 1,
+        "Sort": 107,
+        "PreID": 106,
+        "Condition": "",
+        "TaskName": "donoduel.task_main_name107",
+        "TaskDesc": "donoduel.task_main_name107_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 101,
+        "AcceptStory": "",
+        "AcceptTrack": 3,
+        "Objectives": 8,
+        "Param": [],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition107",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 101,
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                5000
+            ]
+        ]
+    },
+    {
+        "ID": 108,
+        "Type": 1,
+        "Sort": 108,
+        "PreID": 107,
+        "Condition": "",
+        "TaskName": "donoduel.task_main_name108",
+        "TaskDesc": "donoduel.task_main_name108_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 101,
+        "AcceptStory": "DLC35_event/DonoDuel_phase1_07",
+        "AcceptTrack": 5,
+        "Objectives": 2,
+        "Param": [
+            -1,
+            1
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition108",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 101,
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                8000
+            ]
+        ],
+        "Reward2": [
+            3,
+            13
+        ],
+        "Reward3": [
+            [
+                3,
+                1,
+                1
+            ],
+            [
+                13,
+                1,
+                1
+            ]
+        ]
+    },
+    {
+        "ID": 109,
+        "Type": 1,
+        "Sort": 109,
+        "PreID": 108,
+        "Condition": "",
+        "TaskName": "donoduel.task_main_name109",
+        "TaskDesc": "donoduel.task_main_name109_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 101,
+        "AcceptStory": "DLC35_event/DonoDuel_phase2_01a",
+        "AcceptTrack": 1,
+        "Objectives": 1,
+        "Param": [
+            5507
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition109",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 101,
+        "SubmitStory": "DLC35_event/DonoDuel_phase2_01b",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                10000
+            ]
+        ],
+        "Reward2": [
+            16,
+            18
+        ],
+        "Reward3": [
+            [
+                16,
+                1,
+                1
+            ],
+            [
+                18,
+                1,
+                1
+            ]
+        ]
+    },
+    {
+        "ID": 110,
+        "Type": 1,
+        "Sort": 110,
+        "PreID": 109,
+        "Condition": "",
+        "TaskName": "donoduel.task_main_name110",
+        "TaskDesc": "donoduel.task_main_name110_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 102,
+        "AcceptStory": "DLC35_event/DonoDuel_phase2_02a",
+        "AcceptTrack": 1,
+        "Objectives": 1,
+        "Param": [
+            5508
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition110",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 102,
+        "SubmitStory": "DLC35_event/DonoDuel_phase2_02b",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                10000
+            ]
+        ],
+        "Reward2": [
+            7,
+            19
+        ],
+        "Reward3": [
+            [
+                7,
+                1,
+                1
+            ],
+            [
+                19,
+                1,
+                1
+            ]
+        ]
+    },
+    {
+        "ID": 111,
+        "Type": 1,
+        "Sort": 111,
+        "PreID": 110,
+        "Condition": "",
+        "TaskName": "donoduel.task_main_name111",
+        "TaskDesc": "donoduel.task_main_name111_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 104,
+        "AcceptStory": "DLC35_event/DonoDuel_phase2_03a",
+        "AcceptTrack": 1,
+        "Objectives": 1,
+        "Param": [
+            5509
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition111",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 104,
+        "SubmitStory": "DLC35_event/DonoDuel_phase2_03b",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                10000
+            ]
+        ],
+        "Reward2": [
+            4,
+            11
+        ],
+        "Reward3": [
+            [
+                4,
+                1,
+                1
+            ],
+            [
+                11,
+                1,
+                1
+            ]
+        ]
+    },
+    {
+        "ID": 112,
+        "Type": 1,
+        "Sort": 112,
+        "PreID": 111,
+        "Condition": "",
+        "TaskName": "donoduel.task_main_name112",
+        "TaskDesc": "donoduel.task_main_name112_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 103,
+        "AcceptStory": "DLC35_event/DonoDuel_phase2_04a",
+        "AcceptTrack": 1,
+        "Objectives": 1,
+        "Param": [
+            5510
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition112",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 103,
+        "SubmitStory": "DLC35_event/DonoDuel_phase2_04b",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                10000
+            ]
+        ],
+        "Reward2": [
+            8,
+            20
+        ],
+        "Reward3": [
+            [
+                8,
+                1,
+                1
+            ],
+            [
+                20,
+                1,
+                1
+            ]
+        ]
+    },
+    {
+        "ID": 113,
+        "Type": 1,
+        "Sort": 113,
+        "PreID": 112,
+        "Condition": "",
+        "TaskName": "donoduel.task_main_name113",
+        "TaskDesc": "donoduel.task_main_name113_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 105,
+        "AcceptStory": "DLC35_event/DonoDuel_phase2_05a",
+        "AcceptTrack": 1,
+        "Objectives": 1,
+        "Param": [
+            5511
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition113",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 105,
+        "SubmitStory": "DLC35_event/DonoDuel_phase2_05b",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                10000
+            ]
+        ],
+        "Reward2": [
+            12,
+            15
+        ],
+        "Reward3": [
+            [
+                12,
+                1,
+                1
+            ],
+            [
+                15,
+                1,
+                1
+            ]
+        ]
+    },
+    {
+        "ID": 114,
+        "Type": 1,
+        "Sort": 114,
+        "PreID": 113,
+        "Condition": "",
+        "TaskName": "donoduel.task_main_name114",
+        "TaskDesc": "donoduel.task_main_name114_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 101,
+        "AcceptStory": "DLC35_event/DonoDuel_phase2_06a",
+        "AcceptTrack": 1,
+        "Objectives": 1,
+        "Param": [
+            5512
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition114",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 101,
+        "SubmitStory": "DLC35_event/DonoDuel_phase2_06b",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                15000
+            ]
+        ],
+        "Reward2": [
+            2
+        ],
+        "Reward3": [
+            [
+                2,
+                1,
+                5
+            ]
+        ]
+    },
+    {
+        "ID": 201,
+        "Type": 2,
+        "Sort": 201,
+        "PreID": 108,
+        "Condition": "",
+        "TaskName": "donoduel.task_side01_name201",
+        "TaskDesc": "donoduel.task_side01_name201_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 201,
+        "AcceptStory": "DLC35_event/DonoDuel_sub1_01",
+        "AcceptTrack": 5,
+        "Objectives": 2,
+        "Param": [
+            2,
+            3
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition201",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 201,
+        "SubmitStory": "",
+        "Reward1": "",
+        "Reward2": "",
+        "Reward3": [
+            [
+                2,
+                1,
+                5
+            ],
+            [
+                2,
+                1,
+                5
+            ],
+            [
+                2,
+                1,
+                5
+            ]
+        ]
+    },
+    {
+        "ID": 202,
+        "Type": 2,
+        "Sort": 202,
+        "PreID": 201,
+        "Condition": "",
+        "TaskName": "donoduel.task_side01_name202",
+        "TaskDesc": "donoduel.task_side01_name202_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 201,
+        "AcceptStory": "DLC35_event/DonoDuel_sub1_02",
+        "AcceptTrack": 5,
+        "Objectives": 2,
+        "Param": [
+            3,
+            3
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition202",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 201,
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                8000
+            ]
+        ],
+        "Reward2": "",
+        "Reward3": [
+            [
+                2,
+                2,
+                5
+            ],
+            [
+                2,
+                2,
+                5
+            ]
+        ]
+    },
+    {
+        "ID": 203,
+        "Type": 2,
+        "Sort": 203,
+        "PreID": 202,
+        "Condition": "",
+        "TaskName": "donoduel.task_side01_name203",
+        "TaskDesc": "donoduel.task_side01_name203_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 201,
+        "AcceptStory": "DLC35_event/DonoDuel_sub1_03",
+        "AcceptTrack": 5,
+        "Objectives": 2,
+        "Param": [
+            4,
+            10
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition203",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 201,
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                8000
+            ]
+        ],
+        "Reward2": "",
+        "Reward3": [
+            [
+                2,
+                2,
+                5
+            ],
+            [
+                2,
+                2,
+                5
+            ],
+            [
+                2,
+                2,
+                5
+            ]
+        ]
+    },
+    {
+        "ID": 301,
+        "Type": 2,
+        "Sort": 301,
+        "PreID": 108,
+        "Condition": "",
+        "TaskName": "donoduel.task_side02_name301",
+        "TaskDesc": "donoduel.task_side02_name301_des",
+        "AcceptAuto": "",
+        "AcceptNPC": 202,
+        "AcceptStory": "DLC35_event/DonoDuel_sub2_01",
+        "AcceptTrack": 4,
+        "Objectives": 3,
+        "Param": [
+            -1,
+            2,
+            1
+        ],
+        "CheckValue": 5,
+        "ObjectivesDesc": "donoduel.task_condition301",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 202,
+        "SubmitStory": "",
+        "Reward1": "",
+        "Reward2": "",
+        "Reward3": [
+            [
+                2,
+                1,
+                5
+            ]
+        ]
+    },
+    {
+        "ID": 302,
+        "Type": 2,
+        "Sort": 302,
+        "PreID": 301,
+        "Condition": "",
+        "TaskName": "donoduel.task_side02_name302",
+        "TaskDesc": "donoduel.task_side02_name302_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 202,
+        "AcceptStory": "",
+        "AcceptTrack": 4,
+        "Objectives": 3,
+        "Param": [
+            -1,
+            1,
+            2
+        ],
+        "CheckValue": 5,
+        "ObjectivesDesc": "donoduel.task_condition302",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 202,
+        "SubmitStory": "",
+        "Reward1": "",
+        "Reward2": "",
+        "Reward3": [
+            [
+                2,
+                1,
+                5
+            ],
+            [
+                2,
+                1,
+                5
+            ]
+        ]
+    },
+    {
+        "ID": 303,
+        "Type": 2,
+        "Sort": 303,
+        "PreID": 302,
+        "Condition": "",
+        "TaskName": "donoduel.task_side02_name303",
+        "TaskDesc": "donoduel.task_side02_name303_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 202,
+        "AcceptStory": "",
+        "AcceptTrack": 4,
+        "Objectives": 3,
+        "Param": [
+            -1,
+            3,
+            1
+        ],
+        "CheckValue": 5,
+        "ObjectivesDesc": "donoduel.task_condition303",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 202,
+        "SubmitStory": "",
+        "Reward1": "",
+        "Reward2": "",
+        "Reward3": [
+            [
+                2,
+                1,
+                5
+            ],
+            [
+                2,
+                1,
+                5
+            ],
+            [
+                2,
+                1,
+                5
+            ]
+        ]
+    },
+    {
+        "ID": 304,
+        "Type": 2,
+        "Sort": 304,
+        "PreID": 303,
+        "Condition": "",
+        "TaskName": "donoduel.task_side02_name304",
+        "TaskDesc": "donoduel.task_side02_name304_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 202,
+        "AcceptStory": "",
+        "AcceptTrack": 4,
+        "Objectives": 3,
+        "Param": [
+            -1,
+            1,
+            3
+        ],
+        "CheckValue": 5,
+        "ObjectivesDesc": "donoduel.task_condition304",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 202,
+        "SubmitStory": "",
+        "Reward1": "",
+        "Reward2": "",
+        "Reward3": [
+            [
+                2,
+                2,
+                5
+            ]
+        ]
+    },
+    {
+        "ID": 305,
+        "Type": 2,
+        "Sort": 305,
+        "PreID": 304,
+        "Condition": "",
+        "TaskName": "donoduel.task_side02_name305",
+        "TaskDesc": "donoduel.task_side02_name305_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 202,
+        "AcceptStory": "",
+        "AcceptTrack": 4,
+        "Objectives": 3,
+        "Param": [
+            -1,
+            1,
+            4
+        ],
+        "CheckValue": 5,
+        "ObjectivesDesc": "donoduel.task_condition305",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 202,
+        "SubmitStory": "",
+        "Reward1": "",
+        "Reward2": "",
+        "Reward3": [
+            [
+                2,
+                2,
+                5
+            ]
+        ]
+    },
+    {
+        "ID": 306,
+        "Type": 2,
+        "Sort": 306,
+        "PreID": 305,
+        "Condition": "",
+        "TaskName": "donoduel.task_side02_name306",
+        "TaskDesc": "donoduel.task_side02_name306_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 202,
+        "AcceptStory": "",
+        "AcceptTrack": 4,
+        "Objectives": 3,
+        "Param": [
+            -1,
+            4,
+            1
+        ],
+        "CheckValue": 5,
+        "ObjectivesDesc": "donoduel.task_condition306",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 202,
+        "SubmitStory": "",
+        "Reward1": "",
+        "Reward2": "",
+        "Reward3": [
+            [
+                2,
+                2,
+                5
+            ],
+            [
+                2,
+                2,
+                5
+            ]
+        ]
+    },
+    {
+        "ID": 307,
+        "Type": 2,
+        "Sort": 307,
+        "PreID": 306,
+        "Condition": "",
+        "TaskName": "donoduel.task_side02_name307",
+        "TaskDesc": "donoduel.task_side02_name307_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 202,
+        "AcceptStory": "",
+        "AcceptTrack": 4,
+        "Objectives": 3,
+        "Param": [
+            -1,
+            1,
+            5
+        ],
+        "CheckValue": 5,
+        "ObjectivesDesc": "donoduel.task_condition307",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 202,
+        "SubmitStory": "",
+        "Reward1": "",
+        "Reward2": "",
+        "Reward3": [
+            [
+                2,
+                2,
+                5
+            ],
+            [
+                2,
+                2,
+                5
+            ]
+        ]
+    },
+    {
+        "ID": 308,
+        "Type": 2,
+        "Sort": 308,
+        "PreID": 307,
+        "Condition": "",
+        "TaskName": "donoduel.task_side02_name308",
+        "TaskDesc": "donoduel.task_side02_name308_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 202,
+        "AcceptStory": "",
+        "AcceptTrack": 4,
+        "Objectives": 3,
+        "Param": [
+            -1,
+            5,
+            1
+        ],
+        "CheckValue": 5,
+        "ObjectivesDesc": "donoduel.task_condition308",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 202,
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                8000
+            ]
+        ]
+    },
+    {
+        "ID": 309,
+        "Type": 2,
+        "Sort": 309,
+        "PreID": 308,
+        "Condition": "",
+        "TaskName": "donoduel.task_side02_name309",
+        "TaskDesc": "donoduel.task_side02_name309_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 202,
+        "AcceptStory": "",
+        "AcceptTrack": 4,
+        "Objectives": 3,
+        "Param": [
+            -1,
+            1,
+            6
+        ],
+        "CheckValue": 5,
+        "ObjectivesDesc": "donoduel.task_condition309",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 202,
+        "SubmitStory": "DLC35_event/DonoDuel_sub2_02",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                8000
+            ]
+        ]
+    },
+    {
+        "ID": 401,
+        "Type": 2,
+        "Sort": 401,
+        "PreID": 503,
+        "Condition": "",
+        "TaskName": "donoduel.task_side04_name401",
+        "TaskDesc": "donoduel.task_side04_name401_des",
+        "AcceptAuto": "",
+        "AcceptNPC": 204,
+        "AcceptStory": "DLC35_event/DonoDuel_sub4_01",
+        "AcceptTrack": 4,
+        "Objectives": 3,
+        "Param": [
+            2,
+            2,
+            1
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition401",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 204,
+        "SubmitStory": "",
+        "Reward1": "",
+        "Reward2": "",
+        "Reward3": [
+            [
+                2,
+                1,
+                5
+            ],
+            [
+                2,
+                1,
+                5
+            ]
+        ]
+    },
+    {
+        "ID": 402,
+        "Type": 2,
+        "Sort": 402,
+        "PreID": 401,
+        "Condition": "",
+        "TaskName": "donoduel.task_side04_name402",
+        "TaskDesc": "donoduel.task_side04_name402_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 204,
+        "AcceptStory": "",
+        "AcceptTrack": 4,
+        "Objectives": 3,
+        "Param": [
+            2,
+            3,
+            1
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition402",
+        "CompleteTrack": 204,
+        "SubmitAuto": 1,
+        "SubmitNPC": 204,
+        "SubmitStory": "DLC35_event/DonoDuel_sub4_02",
+        "Reward1": "",
+        "Reward2": "",
+        "Reward3": [
+            [
+                2,
+                2,
+                5
+            ]
+        ]
+    },
+    {
+        "ID": 403,
+        "Type": 2,
+        "Sort": 403,
+        "PreID": 402,
+        "Condition": "",
+        "TaskName": "donoduel.task_side04_name403",
+        "TaskDesc": "donoduel.task_side04_name403_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 204,
+        "AcceptStory": "",
+        "AcceptTrack": 1,
+        "Objectives": 9,
+        "Param": [
+            2,
+            5518
+        ],
+        "CheckValue": 5,
+        "ObjectivesDesc": "donoduel.task_condition403",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 204,
+        "SubmitStory": "",
+        "Reward1": "",
+        "Reward2": "",
+        "Reward3": [
+            [
+                2,
+                3,
+                5
+            ]
+        ]
+    },
+    {
+        "ID": 404,
+        "Type": 2,
+        "Sort": 404,
+        "PreID": 403,
+        "Condition": "",
+        "TaskName": "donoduel.task_side04_name404",
+        "TaskDesc": "donoduel.task_side04_name404_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 204,
+        "AcceptStory": "DLC35_event/DonoDuel_sub4_03",
+        "AcceptTrack": 4,
+        "Objectives": 3,
+        "Param": [
+            2,
+            4,
+            1
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition404",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 204,
+        "SubmitStory": "",
+        "Reward1": "",
+        "Reward2": "",
+        "Reward3": [
+            [
+                2,
+                3,
+                5
+            ]
+        ]
+    },
+    {
+        "ID": 405,
+        "Type": 2,
+        "Sort": 405,
+        "PreID": 404,
+        "Condition": "",
+        "TaskName": "donoduel.task_side04_name405",
+        "TaskDesc": "donoduel.task_side04_name405_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 204,
+        "AcceptStory": "",
+        "AcceptTrack": 4,
+        "Objectives": 3,
+        "Param": [
+            2,
+            5,
+            1
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition405",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 204,
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                10000
+            ]
+        ]
+    },
+    {
+        "ID": 406,
+        "Type": 2,
+        "Sort": 406,
+        "PreID": 405,
+        "Condition": "",
+        "TaskName": "donoduel.task_side04_name406",
+        "TaskDesc": "donoduel.task_side04_name406_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 204,
+        "AcceptStory": "",
+        "AcceptTrack": 1,
+        "Objectives": 9,
+        "Param": [
+            2,
+            5518
+        ],
+        "CheckValue": 15,
+        "ObjectivesDesc": "donoduel.task_condition406",
+        "CompleteTrack": 204,
+        "SubmitAuto": 1,
+        "SubmitNPC": 204,
+        "SubmitStory": "DLC35_event/DonoDuel_sub4_04",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                12000
+            ]
+        ]
+    },
+    {
+        "ID": 501,
+        "Type": 2,
+        "Sort": 501,
+        "PreID": 114,
+        "Condition": "",
+        "TaskName": "donoduel.task_side05_name501",
+        "TaskDesc": "donoduel.task_side05_name501_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 205,
+        "AcceptStory": "DLC35_event/DonoDuel_sub5_01",
+        "AcceptTrack": 1,
+        "Objectives": 1,
+        "Param": [
+            5513
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition501",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 205,
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                6000
+            ]
+        ],
+        "Reward2": "",
+        "Reward3": [
+            [
+                2,
+                1,
+                5
+            ]
+        ]
+    },
+    {
+        "ID": 502,
+        "Type": 2,
+        "Sort": 502,
+        "PreID": 501,
+        "Condition": "",
+        "TaskName": "donoduel.task_side05_name502",
+        "TaskDesc": "donoduel.task_side05_name502_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 205,
+        "AcceptStory": "",
+        "AcceptTrack": 1,
+        "Objectives": 1,
+        "Param": [
+            5514
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition502",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 205,
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                8000
+            ]
+        ],
+        "Reward2": "",
+        "Reward3": [
+            [
+                2,
+                1,
+                5
+            ],
+            [
+                2,
+                1,
+                5
+            ]
+        ]
+    },
+    {
+        "ID": 503,
+        "Type": 2,
+        "Sort": 503,
+        "PreID": 502,
+        "Condition": "",
+        "TaskName": "donoduel.task_side05_name503",
+        "TaskDesc": "donoduel.task_side05_name503_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 205,
+        "AcceptStory": "",
+        "AcceptTrack": 1,
+        "Objectives": 1,
+        "Param": [
+            5515
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition503",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 205,
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                10000
+            ]
+        ],
+        "Reward2": "",
+        "Reward3": [
+            [
+                2,
+                1,
+                5
+            ],
+            [
+                2,
+                1,
+                5
+            ],
+            [
+                2,
+                1,
+                5
+            ]
+        ]
+    },
+    {
+        "ID": 504,
+        "Type": 2,
+        "Sort": 504,
+        "PreID": 503,
+        "Condition": "",
+        "TaskName": "donoduel.task_side05_name504",
+        "TaskDesc": "donoduel.task_side05_name504_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 205,
+        "AcceptStory": "",
+        "AcceptTrack": 1,
+        "Objectives": 1,
+        "Param": [
+            5516
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition504",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 205,
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                12000
+            ]
+        ],
+        "Reward2": "",
+        "Reward3": [
+            [
+                2,
+                2,
+                5
+            ]
+        ]
+    },
+    {
+        "ID": 505,
+        "Type": 2,
+        "Sort": 505,
+        "PreID": 504,
+        "Condition": "",
+        "TaskName": "donoduel.task_side05_name505",
+        "TaskDesc": "donoduel.task_side05_name505_des",
+        "AcceptAuto": 1,
+        "AcceptNPC": 205,
+        "AcceptStory": "",
+        "AcceptTrack": 1,
+        "Objectives": 1,
+        "Param": [
+            5517
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition505",
+        "CompleteTrack": "",
+        "SubmitAuto": 1,
+        "SubmitNPC": 205,
+        "SubmitStory": "DLC35_event/DonoDuel_sub5_02",
+        "Reward1": [
+            [
+                4,
+                1,
+                6,
+                18,
+                15000
+            ]
+        ],
+        "Reward2": "",
+        "Reward3": [
+            [
+                2,
+                2,
+                5
+            ],
+            [
+                2,
+                2,
+                5
+            ]
+        ]
+    },
+    {
+        "ID": 601,
+        "Type": 3,
+        "Sort": 601,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_atlas_name601",
+        "TaskDesc": "",
+        "AcceptAuto": "",
+        "AcceptNPC": "",
+        "AcceptStory": "",
+        "AcceptTrack": "",
+        "Objectives": 7,
+        "Param": [],
+        "CheckValue": 2,
+        "ObjectivesDesc": "donoduel.task_condition601",
+        "CompleteTrack": "",
+        "SubmitAuto": "",
+        "SubmitNPC": "",
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                1,
+                6,
+                18,
+                8000
+            ]
+        ]
+    },
+    {
+        "ID": 602,
+        "Type": 3,
+        "Sort": 602,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_atlas_name602",
+        "TaskDesc": "",
+        "AcceptAuto": "",
+        "AcceptNPC": "",
+        "AcceptStory": "",
+        "AcceptTrack": "",
+        "Objectives": 7,
+        "Param": [],
+        "CheckValue": 10,
+        "ObjectivesDesc": "donoduel.task_condition602",
+        "CompleteTrack": "",
+        "SubmitAuto": "",
+        "SubmitNPC": "",
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                4,
+                3,
+                1,
+                1,
+                6000
+            ],
+            [
+                4,
+                1,
+                6,
+                18,
+                8000
+            ]
+        ]
+    },
+    {
+        "ID": 603,
+        "Type": 3,
+        "Sort": 603,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_atlas_name603",
+        "TaskDesc": "",
+        "AcceptAuto": "",
+        "AcceptNPC": "",
+        "AcceptStory": "",
+        "AcceptTrack": "",
+        "Objectives": 7,
+        "Param": [],
+        "CheckValue": 20,
+        "ObjectivesDesc": "donoduel.task_condition603",
+        "CompleteTrack": "",
+        "SubmitAuto": "",
+        "SubmitNPC": "",
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                5,
+                29,
+                19,
+                1,
+                25
+            ],
+            [
+                4,
+                1,
+                6,
+                18,
+                8000
+            ]
+        ]
+    },
+    {
+        "ID": 604,
+        "Type": 3,
+        "Sort": 604,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_atlas_name604",
+        "TaskDesc": "",
+        "AcceptAuto": "",
+        "AcceptNPC": "",
+        "AcceptStory": "",
+        "AcceptTrack": "",
+        "Objectives": 7,
+        "Param": [],
+        "CheckValue": 30,
+        "ObjectivesDesc": "donoduel.task_condition604",
+        "CompleteTrack": "",
+        "SubmitAuto": "",
+        "SubmitNPC": "",
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                5,
+                5,
+                1,
+                2,
+                5
+            ],
+            [
+                4,
+                1,
+                6,
+                18,
+                10000
+            ]
+        ]
+    },
+    {
+        "ID": 605,
+        "Type": 3,
+        "Sort": 605,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_atlas_name606",
+        "TaskDesc": "",
+        "AcceptAuto": "",
+        "AcceptNPC": "",
+        "AcceptStory": "",
+        "AcceptTrack": "",
+        "Objectives": 4,
+        "Param": [
+            -1,
+            2
+        ],
+        "CheckValue": 2,
+        "ObjectivesDesc": "donoduel.task_condition605",
+        "CompleteTrack": "",
+        "SubmitAuto": "",
+        "SubmitNPC": "",
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                5,
+                2,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                1,
+                6,
+                18,
+                8000
+            ]
+        ]
+    },
+    {
+        "ID": 606,
+        "Type": 3,
+        "Sort": 606,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_atlas_name607",
+        "TaskDesc": "",
+        "AcceptAuto": "",
+        "AcceptNPC": "",
+        "AcceptStory": "",
+        "AcceptTrack": "",
+        "Objectives": 4,
+        "Param": [
+            -1,
+            2
+        ],
+        "CheckValue": 10,
+        "ObjectivesDesc": "donoduel.task_condition606",
+        "CompleteTrack": "",
+        "SubmitAuto": "",
+        "SubmitNPC": "",
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                4,
+                3,
+                1,
+                1,
+                6000
+            ],
+            [
+                4,
+                1,
+                6,
+                18,
+                10000
+            ]
+        ]
+    },
+    {
+        "ID": 607,
+        "Type": 3,
+        "Sort": 607,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_atlas_name608",
+        "TaskDesc": "",
+        "AcceptAuto": "",
+        "AcceptNPC": "",
+        "AcceptStory": "",
+        "AcceptTrack": "",
+        "Objectives": 4,
+        "Param": [
+            -1,
+            2
+        ],
+        "CheckValue": 20,
+        "ObjectivesDesc": "donoduel.task_condition607",
+        "CompleteTrack": "",
+        "SubmitAuto": "",
+        "SubmitNPC": "",
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                5,
+                29,
+                19,
+                1,
+                25
+            ],
+            [
+                4,
+                1,
+                6,
+                18,
+                12000
+            ]
+        ]
+    },
+    {
+        "ID": 608,
+        "Type": 3,
+        "Sort": 608,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_atlas_name609",
+        "TaskDesc": "",
+        "AcceptAuto": "",
+        "AcceptNPC": "",
+        "AcceptStory": "",
+        "AcceptTrack": "",
+        "Objectives": 4,
+        "Param": [
+            -1,
+            2
+        ],
+        "CheckValue": 40,
+        "ObjectivesDesc": "donoduel.task_condition608",
+        "CompleteTrack": "",
+        "SubmitAuto": "",
+        "SubmitNPC": "",
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                5,
+                9,
+                1,
+                2,
+                5
+            ],
+            [
+                4,
+                1,
+                6,
+                18,
+                5000
+            ]
+        ]
+    },
+    {
+        "ID": 609,
+        "Type": 3,
+        "Sort": 609,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_atlas_name610",
+        "TaskDesc": "",
+        "AcceptAuto": "",
+        "AcceptNPC": "",
+        "AcceptStory": "",
+        "AcceptTrack": "",
+        "Objectives": 4,
+        "Param": [
+            -1,
+            1
+        ],
+        "CheckValue": 2,
+        "ObjectivesDesc": "donoduel.task_condition609",
+        "CompleteTrack": "",
+        "SubmitAuto": "",
+        "SubmitNPC": "",
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                5,
+                3,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                1,
+                6,
+                18,
+                8000
+            ]
+        ]
+    },
+    {
+        "ID": 610,
+        "Type": 3,
+        "Sort": 610,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_atlas_name611",
+        "TaskDesc": "",
+        "AcceptAuto": "",
+        "AcceptNPC": "",
+        "AcceptStory": "",
+        "AcceptTrack": "",
+        "Objectives": 4,
+        "Param": [
+            -1,
+            1
+        ],
+        "CheckValue": 10,
+        "ObjectivesDesc": "donoduel.task_condition610",
+        "CompleteTrack": "",
+        "SubmitAuto": "",
+        "SubmitNPC": "",
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                4,
+                3,
+                1,
+                1,
+                6000
+            ],
+            [
+                4,
+                1,
+                6,
+                18,
+                10000
+            ]
+        ]
+    },
+    {
+        "ID": 611,
+        "Type": 3,
+        "Sort": 611,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_atlas_name612",
+        "TaskDesc": "",
+        "AcceptAuto": "",
+        "AcceptNPC": "",
+        "AcceptStory": "",
+        "AcceptTrack": "",
+        "Objectives": 4,
+        "Param": [
+            -1,
+            1
+        ],
+        "CheckValue": 20,
+        "ObjectivesDesc": "donoduel.task_condition611",
+        "CompleteTrack": "",
+        "SubmitAuto": "",
+        "SubmitNPC": "",
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                5,
+                29,
+                19,
+                1,
+                25
+            ],
+            [
+                4,
+                1,
+                6,
+                18,
+                12000
+            ]
+        ]
+    },
+    {
+        "ID": 612,
+        "Type": 3,
+        "Sort": 612,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_atlas_name613",
+        "TaskDesc": "",
+        "AcceptAuto": "",
+        "AcceptNPC": "",
+        "AcceptStory": "",
+        "AcceptTrack": "",
+        "Objectives": 4,
+        "Param": [
+            -1,
+            1
+        ],
+        "CheckValue": 40,
+        "ObjectivesDesc": "donoduel.task_condition612",
+        "CompleteTrack": "",
+        "SubmitAuto": "",
+        "SubmitNPC": "",
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                5,
+                9,
+                1,
+                2,
+                5
+            ],
+            [
+                4,
+                1,
+                6,
+                18,
+                5000
+            ]
+        ]
+    },
+    {
+        "ID": 613,
+        "Type": 3,
+        "Sort": 613,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_atlas_name614",
+        "TaskDesc": "",
+        "AcceptAuto": "",
+        "AcceptNPC": "",
+        "AcceptStory": "",
+        "AcceptTrack": "",
+        "Objectives": 6,
+        "Param": [
+            -1,
+            1,
+            6
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition613",
+        "CompleteTrack": "",
+        "SubmitAuto": "",
+        "SubmitNPC": "",
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                5,
+                3,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                1,
+                6,
+                18,
+                8000
+            ]
+        ]
+    },
+    {
+        "ID": 614,
+        "Type": 3,
+        "Sort": 614,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_atlas_name615",
+        "TaskDesc": "",
+        "AcceptAuto": "",
+        "AcceptNPC": "",
+        "AcceptStory": "",
+        "AcceptTrack": "",
+        "Objectives": 6,
+        "Param": [
+            -1,
+            5,
+            1
+        ],
+        "CheckValue": 1,
+        "ObjectivesDesc": "donoduel.task_condition614",
+        "CompleteTrack": "",
+        "SubmitAuto": "",
+        "SubmitNPC": "",
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                4,
+                3,
+                1,
+                1,
+                8000
+            ],
+            [
+                4,
+                1,
+                6,
+                18,
+                8000
+            ]
+        ]
+    },
+    {
+        "ID": 615,
+        "Type": 3,
+        "Sort": 615,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_atlas_name616",
+        "TaskDesc": "",
+        "AcceptAuto": "",
+        "AcceptNPC": "",
+        "AcceptStory": "",
+        "AcceptTrack": "",
+        "Objectives": 6,
+        "Param": [
+            -1,
+            1,
+            6
+        ],
+        "CheckValue": 5,
+        "ObjectivesDesc": "donoduel.task_condition615",
+        "CompleteTrack": "",
+        "SubmitAuto": "",
+        "SubmitNPC": "",
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                5,
+                29,
+                19,
+                1,
+                25
+            ],
+            [
+                4,
+                1,
+                6,
+                18,
+                10000
+            ]
+        ]
+    },
+    {
+        "ID": 616,
+        "Type": 3,
+        "Sort": 616,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_atlas_name617",
+        "TaskDesc": "",
+        "AcceptAuto": "",
+        "AcceptNPC": "",
+        "AcceptStory": "",
+        "AcceptTrack": "",
+        "Objectives": 6,
+        "Param": [
+            -1,
+            5,
+            1
+        ],
+        "CheckValue": 5,
+        "ObjectivesDesc": "donoduel.task_condition616",
+        "CompleteTrack": "",
+        "SubmitAuto": "",
+        "SubmitNPC": "",
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                4,
+                3,
+                1,
+                1,
+                10000
+            ],
+            [
+                4,
+                1,
+                6,
+                18,
+                10000
+            ]
+        ]
+    },
+    {
+        "ID": 617,
+        "Type": 3,
+        "Sort": 617,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_atlas_name618",
+        "TaskDesc": "",
+        "AcceptAuto": "",
+        "AcceptNPC": "",
+        "AcceptStory": "",
+        "AcceptTrack": "",
+        "Objectives": 6,
+        "Param": [
+            -1,
+            1,
+            6
+        ],
+        "CheckValue": 10,
+        "ObjectivesDesc": "donoduel.task_condition617",
+        "CompleteTrack": "",
+        "SubmitAuto": "",
+        "SubmitNPC": "",
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                5,
+                5,
+                1,
+                3,
+                1
+            ],
+            [
+                4,
+                1,
+                6,
+                18,
+                12000
+            ]
+        ]
+    },
+    {
+        "ID": 618,
+        "Type": 3,
+        "Sort": 618,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_atlas_name619",
+        "TaskDesc": "",
+        "AcceptAuto": "",
+        "AcceptNPC": "",
+        "AcceptStory": "",
+        "AcceptTrack": "",
+        "Objectives": 6,
+        "Param": [
+            -1,
+            5,
+            1
+        ],
+        "CheckValue": 10,
+        "ObjectivesDesc": "donoduel.task_condition618",
+        "CompleteTrack": "",
+        "SubmitAuto": "",
+        "SubmitNPC": "",
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                4,
+                3,
+                1,
+                1,
+                12000
+            ],
+            [
+                4,
+                1,
+                6,
+                18,
+                12000
+            ]
+        ]
+    },
+    {
+        "ID": 619,
+        "Type": 3,
+        "Sort": 619,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_atlas_name620",
+        "TaskDesc": "",
+        "AcceptAuto": "",
+        "AcceptNPC": "",
+        "AcceptStory": "",
+        "AcceptTrack": "",
+        "Objectives": 6,
+        "Param": [
+            -1,
+            1,
+            6
+        ],
+        "CheckValue": 15,
+        "ObjectivesDesc": "donoduel.task_condition619",
+        "CompleteTrack": "",
+        "SubmitAuto": "",
+        "SubmitNPC": "",
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                5,
+                5,
+                1,
+                3,
+                2
+            ],
+            [
+                4,
+                1,
+                6,
+                18,
+                6000
+            ]
+        ]
+    },
+    {
+        "ID": 620,
+        "Type": 3,
+        "Sort": 620,
+        "PreID": "",
+        "Condition": "",
+        "TaskName": "donoduel.task_atlas_name621",
+        "TaskDesc": "",
+        "AcceptAuto": "",
+        "AcceptNPC": "",
+        "AcceptStory": "",
+        "AcceptTrack": "",
+        "Objectives": 6,
+        "Param": [
+            -1,
+            5,
+            1
+        ],
+        "CheckValue": 15,
+        "ObjectivesDesc": "donoduel.task_condition620",
+        "CompleteTrack": "",
+        "SubmitAuto": "",
+        "SubmitNPC": "",
+        "SubmitStory": "",
+        "Reward1": [
+            [
+                4,
+                3,
+                1,
+                1,
+                16000
+            ],
+            [
+                4,
+                1,
+                6,
+                18,
+                6000
+            ]
+        ]
+    }
+]

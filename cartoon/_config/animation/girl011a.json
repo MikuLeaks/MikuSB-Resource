@@ -1,0 +1,28 @@
+[
+    {
+        "Id": 1,
+        "Explain": "待机",
+        "Type": "sequence",
+        "Name": "girl011a_ui_stand01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl011a/Anim/girl011a_ui_stand01.girl011a_ui_stand01'"
+    },
+    {
+        "Id": 2,
+        "Explain": "怀疑",
+        "Type": "sequence",
+        "Name": "girl011a_ui_ziyan01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl011a/Anim/girl011a_ui_ziyan01.girl011a_ui_ziyan01'"
+    },
+    {
+        "Id": 100,
+        "Explain": "一次思考",
+        "Type": "custom_seq",
+        "Name": "11;12;13"
+    },
+    {
+        "Id": 101,
+        "Explain": "思考循环",
+        "Type": "custom_loop_last",
+        "Name": "11;12"
+    }
+]

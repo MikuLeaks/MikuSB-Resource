@@ -1,0 +1,223 @@
+[
+    {
+        "action": "Fire",
+        "xbox": [
+            "Gamepad_RightTrigger",
+            "Gamepad_RightTrigger",
+            "Gamepad_RightTrigger"
+        ],
+        "ps4": [
+            "HIDJoystick_Button8",
+            "HIDJoystick_Button8",
+            "HIDJoystick_Button8"
+        ]
+    },
+    {
+        "action": "Aim",
+        "xbox": [
+            "Gamepad_LeftTrigger",
+            "Gamepad_LeftTrigger",
+            "Gamepad_LeftTrigger"
+        ],
+        "ps4": [
+            "HIDJoystick_Button7",
+            "HIDJoystick_Button7",
+            "HIDJoystick_Button7"
+        ]
+    },
+    {
+        "action": "Rush",
+        "xbox": [
+            "Gamepad_LeftThumbstick",
+            "Gamepad_LeftThumbstick",
+            "Gamepad_LeftThumbstick"
+        ],
+        "ps4": [
+            "HIDJoystick_Button11",
+            "HIDJoystick_Button11",
+            "HIDJoystick_Button11"
+        ]
+    },
+    {
+        "action": "SceneInteraction",
+        "xbox": [
+            "Gamepad_FaceButton_Left",
+            "Gamepad_FaceButton_Left",
+            "Gamepad_FaceButton_Left"
+        ],
+        "ps4": [
+            "HIDJoystick_Button1",
+            "HIDJoystick_Button1",
+            "HIDJoystick_Button1"
+        ]
+    },
+    {
+        "action": "Switch_F",
+        "xbox": [
+            "Gamepad_DPad_Up",
+            "Gamepad_DPad_Up",
+            "Gamepad_DPad_Up"
+        ],
+        "ps4": [
+            "HIDJoystick_DPADUP",
+            "HIDJoystick_DPADUP",
+            "HIDJoystick_DPADUP"
+        ]
+    },
+    {
+        "action": "Switch_B",
+        "xbox": [
+            "Gamepad_DPad_Right",
+            "Gamepad_DPad_Right",
+            "Gamepad_DPad_Right"
+        ],
+        "ps4": [
+            "HIDJoystick_DPADRIGHT",
+            "HIDJoystick_DPADRIGHT",
+            "HIDJoystick_DPADRIGHT"
+        ]
+    },
+    {
+        "action": "Switch_C",
+        "xbox": [
+            "Gamepad_DPad_Down",
+            "Gamepad_DPad_Down",
+            "Gamepad_DPad_Down"
+        ],
+        "ps4": [
+            "HIDJoystick_DPADDOWN",
+            "HIDJoystick_DPADDOWN",
+            "HIDJoystick_DPADDOWN"
+        ]
+    },
+    {
+        "action": "Reload",
+        "xbox": [
+            "Gamepad_FaceButton_Left",
+            "Gamepad_FaceButton_Left",
+            "Gamepad_FaceButton_Left"
+        ],
+        "ps4": [
+            "HIDJoystick_Button1",
+            "HIDJoystick_Button1",
+            "HIDJoystick_Button1"
+        ]
+    },
+    {
+        "action": "Skill2",
+        "xbox": [
+            "Gamepad_FaceButton_Bottom",
+            "Gamepad_FaceButton_Top",
+            "Gamepad_FaceButton_Top"
+        ],
+        "ps4": [
+            "HIDJoystick_Button2",
+            "HIDJoystick_Button4",
+            "HIDJoystick_Button4"
+        ]
+    },
+    {
+        "action": "Dodge",
+        "xbox": [
+            "Gamepad_RightShoulder",
+            "Gamepad_FaceButton_Bottom",
+            "Gamepad_FaceButton_Bottom"
+        ],
+        "ps4": [
+            "HIDJoystick_Button6",
+            "HIDJoystick_Button2",
+            "HIDJoystick_Button2"
+        ]
+    },
+    {
+        "action": "Map",
+        "xbox": [
+            "Gamepad_Special_Left",
+            "Gamepad_Special_Left",
+            "Gamepad_Special_Left"
+        ],
+        "ps4": [
+            "HIDJoystick_Button9",
+            "HIDJoystick_Button9",
+            "HIDJoystick_Button9"
+        ]
+    },
+    {
+        "action": "Jump",
+        "xbox": [
+            "Gamepad_LeftShoulder",
+            "Gamepad_FaceButton_Right",
+            "Gamepad_FaceButton_Right"
+        ],
+        "ps4": [
+            "HIDJoystick_Button5",
+            "HIDJoystick_Button3",
+            "HIDJoystick_Button3"
+        ]
+    },
+    {
+        "action": "SwitchSkillIntro",
+        "xbox": [
+            "Gamepad_DPad_Left",
+            "Gamepad_DPad_Left",
+            "Gamepad_DPad_Left"
+        ],
+        "ps4": [
+            "HIDJoystick_DPADLEFT",
+            "HIDJoystick_DPADLEFT",
+            "HIDJoystick_DPADLEFT"
+        ]
+    },
+    {
+        "action": "SupportSkillL",
+        "xbox": [
+            "Gamepad_FaceButton_Top",
+            "Gamepad_LeftShoulder",
+            ""
+        ],
+        "ps4": [
+            "HIDJoystick_Button4",
+            "HIDJoystick_Button5",
+            ""
+        ]
+    },
+    {
+        "action": "SupportSkillR",
+        "xbox": [
+            "Gamepad_FaceButton_Right",
+            "Gamepad_RightShoulder",
+            ""
+        ],
+        "ps4": [
+            "HIDJoystick_Button3",
+            "HIDJoystick_Button6",
+            ""
+        ]
+    },
+    {
+        "action": "SpecialKey1",
+        "xbox": [
+            "",
+            "",
+            "Gamepad_LeftShoulder"
+        ],
+        "ps4": [
+            "",
+            "",
+            "HIDJoystick_Button5"
+        ]
+    },
+    {
+        "action": "SpecialKey2",
+        "xbox": [
+            "",
+            "",
+            "Gamepad_RightShoulder"
+        ],
+        "ps4": [
+            "",
+            "",
+            "HIDJoystick_Button6"
+        ]
+    }
+]

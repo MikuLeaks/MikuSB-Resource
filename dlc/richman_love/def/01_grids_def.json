@@ -1,0 +1,342 @@
+[
+    {
+        "Id": 1,
+        "GroundHint": "",
+        "Background": [
+            0,
+            0,
+            0
+        ],
+        "TxtColor": [
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "Id": 2001,
+        "GroundHint": "",
+        "Background": [
+            180,
+            0,
+            0
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "LangName": "",
+        "Desc": "",
+        "Icon": "",
+        "Type": 1,
+        "Layer": "",
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc3/chess03_interact001_02_sm.chess03_interact001_02_sm_C"
+    },
+    {
+        "Id": 2002,
+        "GroundHint": "",
+        "Background": [
+            45,
+            45,
+            45,
+            255
+        ],
+        "TxtColor": [
+            200,
+            200,
+            200
+        ],
+        "LangName": "",
+        "Desc": "",
+        "Icon": "",
+        "Type": 1,
+        "Layer": "",
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc9/chess09_ground.chess09_ground_C"
+    },
+    {
+        "Id": 3001,
+        "GroundHint": "",
+        "Background": [
+            205,
+            133,
+            63
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "LangName": "season_item.TxtRichManLovegroundname1",
+        "Desc": "season_item.TxtRichManLovegrounddes1",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 2,
+        "PageIndex": 2,
+        "ClassName": "class_born",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc9/chess09_start.chess09_start_C"
+    },
+    {
+        "Id": 3002,
+        "GroundHint": "",
+        "Background": [
+            242,
+            241,
+            128,
+            255
+        ],
+        "TxtColor": [
+            20,
+            0,
+            0
+        ],
+        "LangName": "season_item.TxtRichManLovegroundname2",
+        "Desc": "season_item.TxtRichManLovegrounddes2",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 2,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "random_event",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc9/chess09_event1.chess09_event1_C"
+    },
+    {
+        "Id": 3003,
+        "GroundHint": "",
+        "Background": [
+            128,
+            225,
+            242,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "LangName": "season_item.TxtRichManLovegroundname3",
+        "Desc": "season_item.TxtRichManLovegrounddes3",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 2,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "multi_random_event,random_event",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc9/chess09_event2.chess09_event2_C"
+    },
+    {
+        "Id": 3004,
+        "GroundHint": "",
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "LangName": "season_item.TxtRichManLovegroundname5",
+        "Desc": "season_item.TxtRichManLovegrounddes5",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 2,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "flip_game",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc9/chess09_game.chess09_game_C"
+    },
+    {
+        "Id": 3005,
+        "GroundHint": "",
+        "Background": [
+            241,
+            133,
+            208,
+            255
+        ],
+        "TxtColor": [
+            200,
+            25,
+            0
+        ],
+        "LangName": "season_item.TxtRichManLovegroundname4,season_item.TxtRichManLovegroundname7",
+        "Desc": "season_item.TxtRichManLovegrounddes4,season_item.TxtRichManLovegrounddes7",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 2,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "girl_event",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc9/chess09_girl.chess09_girl_C"
+    },
+    {
+        "Id": 3006,
+        "GroundHint": "",
+        "Background": [
+            75,
+            75,
+            75,
+            255
+        ],
+        "TxtColor": [
+            200,
+            200,
+            200
+        ],
+        "LangName": "season_item.TxtRichManLovegroundname6",
+        "Desc": "season_item.TxtRichManLovegrounddes6",
+        "Icon": "",
+        "Type": 2,
+        "Layer": 3,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": 0.03,
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "special_event",
+        "TagParam": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc9/chess09_special.chess09_special_C"
+    }
+]

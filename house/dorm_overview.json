@@ -1,0 +1,51 @@
+[
+    {
+        "AreaID": 1,
+        "AreaPreview": 1006019,
+        "AreaNameJump": "house.puzzleentry",
+        "FuncDes": "house.FuncDes01",
+        "TaskID": 20701
+    },
+    {
+        "AreaID": 2,
+        "AreaPreview": 1006015,
+        "AreaNameJump": "ui.TxtHealthRoom",
+        "FuncDes": "house.FuncDes02",
+        "TaskID": 20702
+    },
+    {
+        "AreaID": 3,
+        "AreaPreview": 1006016,
+        "AreaNameJump": "ui.TxtDorm.Hotspring",
+        "FuncDes": "house.FuncDes03",
+        "TaskID": 20703
+    },
+    {
+        "AreaID": 4,
+        "AreaPreview": 1006017,
+        "AreaNameJump": "ui.TxtCamera.title",
+        "FuncDes": "house.FuncDes04",
+        "TaskID": 20704
+    },
+    {
+        "AreaID": 5,
+        "AreaPreview": 1006018,
+        "AreaNameJump": "ui.TxtPubName",
+        "FuncDes": "house.FuncDes05",
+        "TaskID": 20705
+    },
+    {
+        "AreaID": 6,
+        "AreaPreview": 1006020,
+        "AreaNameJump": "ui.TxtBeachName",
+        "FuncDes": "house.FuncDes06",
+        "TaskID": 20706
+    },
+    {
+        "AreaID": 7,
+        "AreaPreview": 1006027,
+        "AreaNameJump": "ui.TxtArcadeName",
+        "FuncDes": "house.FuncDes07",
+        "TaskID": 20707
+    }
+]

@@ -1,0 +1,444 @@
+[
+    {
+        "Id": 1,
+        "Background": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "Id": 2,
+        "Background": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "Id": 3,
+        "Background": [
+            0,
+            0,
+            0
+        ],
+        "TxtColor": [
+            255,
+            255,
+            255
+        ],
+        "Layer": 6,
+        "Offset": 0,
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block"
+    },
+    {
+        "Id": 4,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Layer": "",
+        "Offset": "",
+        "Scale": "",
+        "Size": 1,
+        "LandType": 2,
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": [
+            1,
+            1,
+            1
+        ],
+        "ModelPath": [
+            1,
+            1
+        ]
+    },
+    {
+        "Id": 10,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": "",
+        "Layer": 1,
+        "Offset": 0,
+        "Scale": [
+            0.99,
+            0.99,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "ModelPath": "/Game/Blueprints/Chess/demo/Cube_Grey.Cube_Grey_C"
+    },
+    {
+        "Id": 11,
+        "Background": [
+            0,
+            0,
+            255
+        ],
+        "TxtColor": "",
+        "Layer": 1,
+        "Offset": 0,
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "ModelPath": "/Game/Blueprints/Chess/demo/Cube_Blue.Cube_Blue_C"
+    },
+    {
+        "Id": 20,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Layer": 2,
+        "Offset": 0,
+        "Scale": [
+            1,
+            0.1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "start",
+        "ModelPath": "/Game/Blueprints/Chess/demo/Empty.Empty_C"
+    },
+    {
+        "Id": 21,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Layer": 2,
+        "Offset": -0.08,
+        "Scale": [
+            1,
+            1,
+            0.1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "ModelPath": "/Game/Blueprints/Chess/demo/Cube_Green_NoCollision.Cube_Green_NoCollision_C"
+    },
+    {
+        "Id": 22,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Layer": 2,
+        "Offset": 0,
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "ModelPath": "/Game/Blueprints/Chess/demo/Empty.Empty_C"
+    },
+    {
+        "Id": 30,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Layer": 2,
+        "Offset": 0,
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "ModelPath": "/Game/Blueprints/Chess/demo/Cube_Orange.Cube_Orange_C"
+    },
+    {
+        "Id": 32,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Layer": 2,
+        "Offset": 0,
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "ModelPath": "/Game/Blueprints/Chess/demo/Cube_Red.Cube_Red_C"
+    },
+    {
+        "Id": 33,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Layer": 2,
+        "Offset": 0,
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "",
+        "ModelPath": "/Game/Blueprints/Chess/demo/Cube_Push_Box.Cube_Push_Box_C"
+    },
+    {
+        "Id": 34,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Layer": 2,
+        "Offset": 0,
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "",
+        "ModelPath": "/Game/Blueprints/Chess/demo/Cube_Orange.Cube_Orange_C"
+    },
+    {
+        "Id": 50,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Layer": 3,
+        "Offset": 0,
+        "Scale": [
+            2,
+            2,
+            1
+        ],
+        "Size": [
+            2,
+            2
+        ],
+        "LandType": "block",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "ModelPath": "/Game/Blueprints/Chess/demo/Cube_Orange.Cube_Orange_C"
+    },
+    {
+        "Id": 51,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Layer": 3,
+        "Offset": 0,
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "ModelPath": "/Game/Blueprints/Chess/demo/Cube_Orange.Cube_Orange_C"
+    },
+    {
+        "Id": 52,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Layer": 3,
+        "Offset": 0,
+        "Scale": [
+            3,
+            3,
+            1
+        ],
+        "Size": [
+            3,
+            3
+        ],
+        "LandType": "block",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "ModelPath": "/Game/Blueprints/Chess/demo/Cube_Orange.Cube_Orange_C"
+    },
+    {
+        "Id": 53,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Layer": 3,
+        "Offset": 0,
+        "Scale": [
+            4,
+            4,
+            1
+        ],
+        "Size": [
+            4,
+            4
+        ],
+        "LandType": "block",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "ModelPath": "/Game/Blueprints/Chess/demo/Cube_Orange.Cube_Orange_C"
+    }
+]

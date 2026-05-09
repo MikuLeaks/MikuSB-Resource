@@ -1,0 +1,660 @@
+[
+    {
+        "ID": 101,
+        "Name": "starwish.StoryName1",
+        "Desc": "starwish.StoryDesc1",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130040003,
+        "NpcName": "card.girl021",
+        "Dialogue": "starwish.Dialogue1",
+        "Prequest": "",
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'HouseTransPosOnMap_Starwish2', HouseAreaType.Hall}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 102,
+        "Name": "starwish.StoryName2",
+        "Desc": "starwish.StoryDesc2",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130040003,
+        "NpcName": "card.girl021",
+        "Dialogue": "starwish.Dialogue2",
+        "Prequest": 101,
+        "TreeStage": 1,
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'MassageTransPos2', HouseAreaType.Massage}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 103,
+        "Name": "starwish.StoryName3",
+        "Desc": "starwish.StoryDesc3",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130040003,
+        "NpcName": "card.girl021",
+        "Dialogue": "starwish.Dialogue3",
+        "Prequest": 102,
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'HouseTransPosOnMap3', HouseAreaType.Hall}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 104,
+        "Name": "starwish.StoryName4",
+        "Desc": "starwish.StoryDesc4",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130040003,
+        "NpcName": "card.girl021",
+        "Dialogue": "starwish.Dialogue4",
+        "Prequest": 103,
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 201,
+        "Name": "starwish.StoryName5",
+        "Desc": "starwish.StoryDesc5",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 2600151,
+        "NpcName": "card.NPC001",
+        "Dialogue": "starwish.Dialogue5",
+        "Prequest": 104,
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 202,
+        "Name": "starwish.StoryName6",
+        "Desc": "starwish.StoryDesc6",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130060003,
+        "NpcName": "card.girl031",
+        "Dialogue": "starwish.Dialogue6",
+        "Prequest": 201,
+        "TreeStage": 2,
+        "GotoUI": "Dlc34Refresh",
+        "ConditionGoto": "",
+        "tbParam": [
+            34
+        ],
+        "CheckValue": 1
+    },
+    {
+        "ID": 203,
+        "Name": "starwish.StoryName7",
+        "Desc": "starwish.StoryDesc7",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130420003,
+        "NpcName": "card.girl211",
+        "Dialogue": "starwish.Dialogue7",
+        "Prequest": 202,
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'HouseTransPosOnMap3', HouseAreaType.Hall}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 204,
+        "Name": "starwish.StoryName8",
+        "Desc": "starwish.StoryDesc8",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130250003,
+        "NpcName": "card.girl151",
+        "Dialogue": "starwish.Dialogue8",
+        "Prequest": 203,
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 301,
+        "Name": "starwish.StoryName9",
+        "Desc": "starwish.StoryDesc9",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 2600151,
+        "NpcName": "card.NPC001",
+        "Dialogue": "starwish.Dialogue9",
+        "Prequest": 204,
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'PubTransPos1', HouseAreaType.Pub}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 302,
+        "Name": "starwish.StoryName10",
+        "Desc": "starwish.StoryDesc10",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130260003,
+        "NpcName": "card.girl161",
+        "Dialogue": "starwish.Dialogue10",
+        "Prequest": 301,
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'PubTransPos1', HouseAreaType.Pub}",
+        "CheckValue": 3
+    },
+    {
+        "ID": 303,
+        "Name": "starwish.StoryName11",
+        "Desc": "starwish.StoryDesc11",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130240003,
+        "NpcName": "card.girl171",
+        "Dialogue": "starwish.Dialogue11",
+        "Prequest": 302,
+        "TreeStage": 3,
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'PubTransPos2', HouseAreaType.Pub}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 304,
+        "Name": "starwish.StoryName12",
+        "Desc": "starwish.StoryDesc12",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130260003,
+        "NpcName": "card.girl161",
+        "Dialogue": "starwish.Dialogue12",
+        "Prequest": 303,
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 401,
+        "Name": "starwish.StoryName13",
+        "Desc": "starwish.StoryDesc13",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 2600151,
+        "NpcName": "card.NPC001",
+        "Dialogue": "starwish.Dialogue13",
+        "Prequest": 304,
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'HouseTransPosOnMap_Starwish2', HouseAreaType.Hall}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 402,
+        "Name": "starwish.StoryName14",
+        "Desc": "starwish.StoryDesc14",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 2600151,
+        "NpcName": "card.NPC001",
+        "Dialogue": "starwish.Dialogue14",
+        "Prequest": 401,
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'HouseTransPosOnMap1', HouseAreaType.Hall}",
+        "CheckValue": 3
+    },
+    {
+        "ID": 403,
+        "Name": "starwish.StoryName15",
+        "Desc": "starwish.StoryDesc15",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130370003,
+        "NpcName": "card.girl201",
+        "Dialogue": "starwish.Dialogue15",
+        "Prequest": 402,
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "DLC_Logic.GotoDlcMainStory",
+        "tbParam": [
+            11713,
+            27,
+            "dlc34story"
+        ],
+        "CheckValue": 1
+    },
+    {
+        "ID": 404,
+        "Name": "starwish.StoryName16",
+        "Desc": "starwish.StoryDesc16",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130370003,
+        "NpcName": "card.girl201",
+        "Dialogue": "starwish.Dialogue16",
+        "Prequest": 403,
+        "TreeStage": 4,
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 501,
+        "Name": "starwish.StoryName17",
+        "Desc": "starwish.StoryDesc17",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 2600151,
+        "NpcName": "card.NPC001",
+        "Dialogue": "starwish.Dialogue17",
+        "Prequest": 404,
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 502,
+        "Name": "starwish.StoryName18",
+        "Desc": "starwish.StoryDesc18",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130090003,
+        "NpcName": "card.girl051",
+        "Dialogue": "starwish.Dialogue18",
+        "Prequest": 501,
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'HotSpringTransPos1', HouseAreaType.HotSpring}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 503,
+        "Name": "starwish.StoryName19",
+        "Desc": "starwish.StoryDesc19",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130090003,
+        "NpcName": "card.girl051",
+        "Dialogue": "starwish.Dialogue19",
+        "Prequest": 502,
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.TransToPS",
+        "tbParam": "{false}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 504,
+        "Name": "starwish.StoryName20",
+        "Desc": "starwish.StoryDesc20",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130090003,
+        "NpcName": "card.girl051",
+        "Dialogue": "starwish.Dialogue20",
+        "Prequest": 503,
+        "TreeStage": 5,
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 601,
+        "Name": "starwish.StoryName21",
+        "Desc": "starwish.StoryDesc21",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 2600151,
+        "NpcName": "card.NPC001",
+        "Dialogue": "starwish.Dialogue21",
+        "Prequest": 504,
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 602,
+        "Name": "starwish.StoryName22",
+        "Desc": "starwish.StoryDesc22",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130200003,
+        "NpcName": "card.girl131",
+        "Dialogue": "starwish.Dialogue22",
+        "Prequest": 601,
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'BeachTransPos2', HouseAreaType.Beach}",
+        "CheckValue": 3
+    },
+    {
+        "ID": 603,
+        "Name": "starwish.StoryName23",
+        "Desc": "starwish.StoryDesc23",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130130003,
+        "NpcName": "card.girl081",
+        "Dialogue": "starwish.Dialogue23",
+        "Prequest": 602,
+        "TreeStage": 6,
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'BeachTransPos2', HouseAreaType.Beach}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 604,
+        "Name": "starwish.StoryName24",
+        "Desc": "starwish.StoryDesc24",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130130003,
+        "NpcName": "card.girl081",
+        "Dialogue": "starwish.Dialogue24",
+        "Prequest": 603,
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 701,
+        "Name": "starwish.StoryName25",
+        "Desc": "starwish.StoryDesc25",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 2600151,
+        "NpcName": "card.NPC001",
+        "Dialogue": "starwish.Dialogue25",
+        "Prequest": 604,
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 702,
+        "Name": "starwish.StoryName26",
+        "Desc": "starwish.StoryDesc26",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130020003,
+        "NpcName": "card.girl011",
+        "Dialogue": "starwish.Dialogue26",
+        "Prequest": 701,
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "VirCapture.CheckOpenAct",
+        "tbParam": "{VirCapture}",
+        "CheckValue": 1
+    },
+    {
+        "ID": 703,
+        "Name": "starwish.StoryName27",
+        "Desc": "starwish.StoryDesc27",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130020003,
+        "NpcName": "card.girl011",
+        "Dialogue": "starwish.Dialogue27",
+        "Prequest": 701,
+        "TreeStage": 7,
+        "GotoUI": "",
+        "ConditionGoto": "VirCapture.CheckOpenAct",
+        "tbParam": "{VirCapture}",
+        "CheckValue": 1,
+        "AutoFinishParam": [
+            10001,
+            10002,
+            10003,
+            10004,
+            10005,
+            10006
+        ]
+    },
+    {
+        "ID": 704,
+        "Name": "starwish.StoryName28",
+        "Desc": "starwish.StoryDesc28",
+        "Award": [
+            [
+                4,
+                1,
+                36,
+                1,
+                50
+            ]
+        ],
+        "Icon": 130020003,
+        "NpcName": "card.girl011",
+        "Dialogue": "starwish.Dialogue28",
+        "Prequest": 703,
+        "TreeStage": "",
+        "GotoUI": "",
+        "ConditionGoto": "HouseLogic.GoToHouseArea",
+        "tbParam": "{HouseLogic,'HouseTransPosOnMap_Starwish1', HouseAreaType.Hall}",
+        "CheckValue": 1
+    }
+]

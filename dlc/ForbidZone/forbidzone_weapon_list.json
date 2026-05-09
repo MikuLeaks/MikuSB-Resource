@@ -1,0 +1,482 @@
+[
+    {
+        "Id": 1,
+        "Type": 1,
+        "LightType": 3,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName22",
+        "Icon": 1001327,
+        "Desc": "online.Forbidzone_WeaponDesc22",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 3,
+        "AbilityList": [
+            11,
+            12,
+            13
+        ]
+    },
+    {
+        "Id": 2,
+        "Type": 1,
+        "LightType": 1,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName23",
+        "Icon": 1001328,
+        "Desc": "online.Forbidzone_WeaponDesc23",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 3,
+        "AbilityList": [
+            21,
+            22,
+            23
+        ]
+    },
+    {
+        "Id": 3,
+        "Type": 1,
+        "LightType": 1,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName21",
+        "Icon": 1001326,
+        "Desc": "online.Forbidzone_WeaponDesc21",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 3,
+        "AbilityList": [
+            31,
+            32,
+            33
+        ]
+    },
+    {
+        "Id": 4,
+        "Type": 1,
+        "LightType": 1,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName24",
+        "Icon": 1001329,
+        "Desc": "online.Forbidzone_WeaponDesc24",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 3,
+        "AbilityList": [
+            41,
+            42,
+            43
+        ]
+    },
+    {
+        "Id": 5,
+        "Type": 1,
+        "LightType": 1,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName4",
+        "Icon": 1001249,
+        "Desc": "online.Forbidzone_WeaponDesc4",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 4,
+        "AbilityList": [
+            51,
+            52,
+            275,
+            276
+        ]
+    },
+    {
+        "Id": 6,
+        "Type": 1,
+        "LightType": 1,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName2",
+        "Icon": 1001247,
+        "Desc": "online.Forbidzone_WeaponDesc2",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 4,
+        "AbilityList": [
+            61,
+            62,
+            63,
+            274
+        ],
+        "InitInfo": [
+            1,
+            1
+        ]
+    },
+    {
+        "Id": 7,
+        "Type": 1,
+        "LightType": 1,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName5",
+        "Icon": 1001250,
+        "Desc": "online.Forbidzone_WeaponDesc5",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 3,
+        "AbilityList": [
+            71,
+            72,
+            73
+        ],
+        "InitInfo": [
+            1
+        ]
+    },
+    {
+        "Id": 8,
+        "Type": 1,
+        "LightType": 1,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName3",
+        "Icon": 1001248,
+        "Desc": "online.Forbidzone_WeaponDesc3",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 3,
+        "AbilityList": [
+            81,
+            82,
+            83
+        ]
+    },
+    {
+        "Id": 9,
+        "Type": 1,
+        "LightType": 1,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName1",
+        "Icon": 1001246,
+        "Desc": "online.Forbidzone_WeaponDesc1",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 3,
+        "AbilityList": [
+            91,
+            92,
+            93
+        ]
+    },
+    {
+        "Id": 10,
+        "Type": 2,
+        "LightType": 2,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName26",
+        "Icon": 1001331,
+        "Desc": "online.Forbidzone_WeaponDesc26",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 3,
+        "AbilityList": [
+            101,
+            102,
+            103
+        ],
+        "InitInfo": [
+            1
+        ],
+        "OnlyOne": 1
+    },
+    {
+        "Id": 11,
+        "Type": 2,
+        "LightType": 2,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName25",
+        "Icon": 1001330,
+        "Desc": "online.Forbidzone_WeaponDesc25",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 3,
+        "AbilityList": [
+            111,
+            112,
+            113
+        ]
+    },
+    {
+        "Id": 12,
+        "Type": 2,
+        "LightType": 1,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName27",
+        "Icon": 1001332,
+        "Desc": "online.Forbidzone_WeaponDesc27",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 3,
+        "AbilityList": [
+            121,
+            122,
+            123
+        ],
+        "InitInfo": [
+            1
+        ]
+    },
+    {
+        "Id": 13,
+        "Type": 2,
+        "LightType": 1,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName28",
+        "Icon": 1001333,
+        "Desc": "online.Forbidzone_WeaponDesc28",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 4,
+        "AbilityList": [
+            131,
+            132,
+            134,
+            135
+        ]
+    },
+    {
+        "Id": 14,
+        "Type": 2,
+        "LightType": 2,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName6",
+        "Icon": 1001251,
+        "Desc": "online.Forbidzone_WeaponDesc6",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 4,
+        "AbilityList": [
+            141,
+            142,
+            144,
+            145
+        ],
+        "InitInfo": [
+            1,
+            1
+        ]
+    },
+    {
+        "Id": 17,
+        "Type": 2,
+        "LightType": 2,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName7",
+        "Icon": 1001252,
+        "Desc": "online.Forbidzone_WeaponDesc7",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 4,
+        "AbilityList": [
+            171,
+            172,
+            271,
+            272
+        ]
+    },
+    {
+        "Id": 18,
+        "Type": 2,
+        "LightType": 2,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName11",
+        "Icon": 1001256,
+        "Desc": "online.Forbidzone_WeaponDesc11",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 3,
+        "AbilityList": [
+            181,
+            182,
+            183
+        ]
+    },
+    {
+        "Id": 19,
+        "Type": 1,
+        "LightType": 1,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName29",
+        "Icon": 1001403,
+        "Desc": "online.Forbidzone_WeaponDesc29",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 4,
+        "AbilityList": [
+            191,
+            192,
+            277,
+            278
+        ]
+    },
+    {
+        "Id": 20,
+        "Type": 1,
+        "LightType": 1,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName30",
+        "Icon": 1001404,
+        "Desc": "online.Forbidzone_WeaponDesc30",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 3,
+        "AbilityList": [
+            201,
+            202,
+            203
+        ]
+    },
+    {
+        "Id": 21,
+        "Type": 1,
+        "LightType": 1,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName31",
+        "Icon": 1001405,
+        "Desc": "online.Forbidzone_WeaponDesc31",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 3,
+        "AbilityList": [
+            211,
+            212,
+            213
+        ]
+    },
+    {
+        "Id": 22,
+        "Type": 2,
+        "LightType": 2,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName36",
+        "Icon": 1001406,
+        "Desc": "online.Forbidzone_WeaponDesc36",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 4,
+        "AbilityList": [
+            221,
+            222,
+            223,
+            224
+        ],
+        "InitInfo": [
+            1
+        ]
+    },
+    {
+        "Id": 23,
+        "Type": 2,
+        "LightType": 2,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName32",
+        "Icon": 1001407,
+        "Desc": "online.Forbidzone_WeaponDesc32",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 3,
+        "AbilityList": [
+            231,
+            232,
+            233
+        ]
+    },
+    {
+        "Id": 24,
+        "Type": 2,
+        "LightType": 2,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName33",
+        "Icon": 1001408,
+        "Desc": "online.Forbidzone_WeaponDesc33",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 4,
+        "AbilityList": [
+            241,
+            242,
+            243,
+            244
+        ]
+    },
+    {
+        "Id": 25,
+        "Type": 2,
+        "LightType": 2,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName34",
+        "Icon": 1001409,
+        "Desc": "online.Forbidzone_WeaponDesc34",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 4,
+        "AbilityList": [
+            251,
+            252,
+            279,
+            280
+        ]
+    },
+    {
+        "Id": 26,
+        "Type": 2,
+        "LightType": 2,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName35",
+        "Icon": 1001410,
+        "Desc": "online.Forbidzone_WeaponDesc35",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 3,
+        "AbilityList": [
+            261,
+            262,
+            263
+        ]
+    },
+    {
+        "Id": 27,
+        "Type": 2,
+        "LightType": 2,
+        "Color": 4,
+        "I18n": "online.Forbidzone_WeaponName10",
+        "Icon": 1001255,
+        "Desc": "online.Forbidzone_WeaponDesc10",
+        "DescValue": "",
+        "DescCommon": "",
+        "CostId": 1,
+        "MaxLevel": 3,
+        "AbilityList": [
+            161,
+            162,
+            163
+        ]
+    }
+]

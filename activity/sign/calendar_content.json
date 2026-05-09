@@ -1,0 +1,1511 @@
+[
+    {
+        "content_id": 100001,
+        "name": "card.girl084_suits",
+        "StartTime": "[202509250400]",
+        "EndTime": "[202511060400]",
+        "preview": [
+            [
+                1,
+                8,
+                4,
+                1
+            ],
+            [
+                2,
+                1,
+                33,
+                1
+            ]
+        ],
+        "label": "ui.TextCalendarTag1",
+        "GotoUI": "",
+        "tbParam": [
+            3,
+            179
+        ],
+        "ConditionGoto": "FunctionRouter.GoTo"
+    },
+    {
+        "content_id": 100002,
+        "name": "card.girl133_suits",
+        "StartTime": "[202510161000]",
+        "EndTime": "[202511060400]",
+        "preview": [
+            [
+                1,
+                13,
+                3,
+                1
+            ],
+            [
+                2,
+                4,
+                32,
+                1
+            ]
+        ],
+        "label": "ui.TextCalendarTag1",
+        "GotoUI": "",
+        "tbParam": [
+            3,
+            181
+        ],
+        "ConditionGoto": "FunctionRouter.GoTo"
+    },
+    {
+        "content_id": 100003,
+        "name": "activity.Lable28",
+        "StartTime": "[202510161000]",
+        "EndTime": "[202511060400]",
+        "preview": [
+            [
+                1,
+                13,
+                3,
+                1
+            ],
+            [
+                3,
+                1,
+                54,
+                2,
+                1
+            ],
+            [
+                3,
+                2,
+                54,
+                2,
+                1
+            ],
+            [
+                3,
+                3,
+                54,
+                2,
+                1
+            ]
+        ],
+        "label": "activity.sign"
+    },
+    {
+        "content_id": 100004,
+        "name": "ui.TxtDLC32.BtnRmol",
+        "StartTime": "[202509250400]",
+        "EndTime": "[202511060400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                11,
+                1,
+                56,
+                1
+            ],
+            [
+                4,
+                1,
+                6,
+                5
+            ],
+            [
+                5,
+                29,
+                16,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ]
+        ],
+        "label": "ui.TxtDLC1ChessMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "DLC_RMOL.CheckOpenUI(1)"
+    },
+    {
+        "content_id": 100005,
+        "name": "ui.TxtDLC32.BtnRush",
+        "StartTime": "[202509280400]",
+        "EndTime": "[202511060400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                9,
+                2,
+                96,
+                1
+            ],
+            [
+                11,
+                1,
+                54,
+                1
+            ],
+            [
+                5,
+                29,
+                16,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ]
+        ],
+        "label": "ui.TxtDLC1ChessMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "Online.GoToUI({91,92})"
+    },
+    {
+        "content_id": 100006,
+        "name": "ui.TxtDLC24.BtnMow",
+        "StartTime": "[202510130400]",
+        "EndTime": "[202511020400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                13,
+                1,
+                32,
+                1
+            ],
+            [
+                5,
+                29,
+                16,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ]
+        ],
+        "label": "ui.TxtDLC2TowerMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "AlienDefense.CheckOpenAct()"
+    },
+    {
+        "content_id": 100007,
+        "name": "ui.TxtOnlineSeaName",
+        "StartTime": "[202510200400]",
+        "EndTime": "[202511060400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                11,
+                1,
+                55,
+                1
+            ],
+            [
+                13,
+                1,
+                33,
+                1
+            ],
+            [
+                5,
+                29,
+                16,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ]
+        ],
+        "label": "ui.TxtDLC2OnlineMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "Online.GoToUI({88,90})"
+    },
+    {
+        "content_id": 100008,
+        "name": "ui.TxtDLC24.BtnBoss",
+        "StartTime": "[202509250400]",
+        "EndTime": "[202510230400]",
+        "preview": [
+            [
+                5,
+                6,
+                2,
+                1
+            ],
+            [
+                5,
+                29,
+                16,
+                2
+            ],
+            [
+                5,
+                5,
+                1,
+                2
+            ],
+            [
+                5,
+                5,
+                1,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ]
+        ],
+        "label": "ui.TxtDLC2TowerMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "SeasonBossLogic.CheckOpen(true)"
+    },
+    {
+        "content_id": 100009,
+        "name": "ui.TxtDLC32.BtnDefense",
+        "StartTime": "[202510060400]",
+        "EndTime": "[202510200400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                5,
+                29,
+                16,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ]
+        ],
+        "label": "ui.TxtDLC2TowerMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "DefendLogic.CheckOpenAct()"
+    },
+    {
+        "content_id": 100010,
+        "name": "ui.TxtOnlineEvent3",
+        "StartTime": "[202510230400]",
+        "EndTime": "[202511060400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                5,
+                6,
+                1,
+                2
+            ],
+            [
+                5,
+                3,
+                1,
+                3
+            ]
+        ],
+        "label": "ui.TxtDLC2OnlineMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "Online.GoToUI({93})"
+    },
+    {
+        "content_id": 100101,
+        "name": "card.girl231_suits",
+        "StartTime": "[202511060400]",
+        "EndTime": "[202512180400]",
+        "preview": [
+            [
+                1,
+                23,
+                1,
+                1
+            ],
+            [
+                2,
+                3,
+                33,
+                1
+            ]
+        ],
+        "label": "ui.TextCalendarTag1",
+        "GotoUI": "",
+        "tbParam": [
+            3,
+            187
+        ],
+        "ConditionGoto": "FunctionRouter.GoTo"
+    },
+    {
+        "content_id": 100102,
+        "name": "ui.TxtDLC33.BtnPuzzle1",
+        "StartTime": "[202511271000]",
+        "EndTime": "[202512180400]",
+        "preview": [
+            [
+                1,
+                6,
+                3,
+                1
+            ],
+            [
+                2,
+                5,
+                31,
+                1
+            ],
+            [
+                3,
+                1,
+                56,
+                2
+            ],
+            [
+                3,
+                2,
+                56,
+                2
+            ],
+            [
+                3,
+                3,
+                56,
+                2
+            ]
+        ],
+        "label": "ui.TxtDLC1ChessMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "JigsawPuzzle.EnterByActivityId(390)"
+    },
+    {
+        "content_id": 100103,
+        "name": "ui.TxtOnlinePurge",
+        "StartTime": "[202511101000]",
+        "EndTime": "[202512010400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                13,
+                1,
+                37,
+                1
+            ],
+            [
+                11,
+                1,
+                58,
+                1
+            ],
+            [
+                5,
+                6,
+                1,
+                2
+            ]
+        ],
+        "label": "ui.TxtDLC2OnlineMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "Online.GoToUI({98,99})"
+    },
+    {
+        "content_id": 100104,
+        "name": "ui.TxtDLC33.BtnFormer1",
+        "StartTime": "[202511200400]",
+        "EndTime": "[202512180400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                5,
+                5,
+                1,
+                4
+            ],
+            [
+                5,
+                1,
+                1,
+                4
+            ],
+            [
+                5,
+                2,
+                1,
+                4
+            ],
+            [
+                5,
+                3,
+                1,
+                4
+            ]
+        ],
+        "label": "ui.TxtDLC.TagRemake",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "DLC_Chapter.CheckOpenAct(29, \"dlc11story\")"
+    },
+    {
+        "content_id": 100105,
+        "name": "ui.TxtDLC28.BtnTowerrush",
+        "StartTime": "[202512010400]",
+        "EndTime": "[202512150400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                13,
+                1,
+                36,
+                1
+            ],
+            [
+                11,
+                1,
+                60,
+                1
+            ]
+        ],
+        "label": "ui.TxtDLC2OnlineMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "Online.GoToUI({95,96})"
+    },
+    {
+        "content_id": 100106,
+        "name": "ui.TxtDLC33.BtnClimbTower",
+        "StartTime": "[202512041000]",
+        "EndTime": "[202512180400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                11,
+                1,
+                59,
+                1
+            ],
+            [
+                13,
+                1,
+                38,
+                1
+            ]
+        ],
+        "label": "ui.TxtDLC2TowerMark",
+        "GotoUI": "",
+        "tbParam": [
+            "ClimbTower"
+        ],
+        "ConditionGoto": "DLC_Logic.OpenFunc"
+    },
+    {
+        "content_id": 100107,
+        "name": "ui.TxtDLC24.BtnBoss",
+        "StartTime": "[202511060400]",
+        "EndTime": "[202512040400]",
+        "preview": [
+            [
+                5,
+                6,
+                2,
+                1
+            ],
+            [
+                5,
+                29,
+                17,
+                2
+            ],
+            [
+                5,
+                5,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ],
+            [
+                5,
+                5,
+                1,
+                1
+            ]
+        ],
+        "label": "ui.TxtDLC2TowerMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "SeasonBossLogic.CheckOpen(true)"
+    },
+    {
+        "content_id": 100108,
+        "name": "ui.TxtDLC33.BtnDefense",
+        "StartTime": "[202511170400]",
+        "EndTime": "[202512010400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                5,
+                29,
+                17,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ]
+        ],
+        "label": "ui.TxtDLC2TowerMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "DefendLogic.CheckOpenAct()"
+    },
+    {
+        "content_id": 100109,
+        "name": "ui.TxtOnlineEvent3",
+        "StartTime": "[202512040400]",
+        "EndTime": "[202512180400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                5,
+                6,
+                1,
+                2
+            ],
+            [
+                5,
+                3,
+                1,
+                3
+            ]
+        ],
+        "label": "ui.TxtDLC2OnlineMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "Online.GoToUI({97})"
+    },
+    {
+        "content_id": 100201,
+        "name": "card.girl202_suits",
+        "StartTime": "[202512180400]",
+        "EndTime": "[202601290400]",
+        "preview": [
+            [
+                1,
+                20,
+                2,
+                1
+            ],
+            [
+                2,
+                7,
+                5,
+                1
+            ]
+        ],
+        "label": "ui.TextCalendarTag1",
+        "GotoUI": "",
+        "tbParam": [
+            3,
+            189
+        ],
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "CheckCompleted": "",
+        "Top": 0
+    },
+    {
+        "content_id": 100202,
+        "name": "ui.TxtDLC33.BtnPuzzle1",
+        "StartTime": "[202601011000]",
+        "EndTime": "[202601290400]",
+        "preview": [
+            [
+                1,
+                12,
+                3,
+                1
+            ],
+            [
+                2,
+                2,
+                27,
+                1
+            ],
+            [
+                3,
+                1,
+                58,
+                2
+            ],
+            [
+                3,
+                2,
+                58,
+                2
+            ],
+            [
+                3,
+                3,
+                58,
+                2
+            ]
+        ],
+        "label": "ui.TxtDLC1ChessMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "JigsawPuzzle.EnterByActivityId(417)",
+        "CheckCompleted": "",
+        "Top": 0
+    },
+    {
+        "content_id": 100203,
+        "name": "ui.TxtDLC34.BtnWorldboss",
+        "StartTime": "[202512251000]",
+        "EndTime": "[202601230400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                15,
+                1,
+                7,
+                1
+            ],
+            [
+                14,
+                1,
+                62,
+                1
+            ],
+            [
+                5,
+                29,
+                18,
+                2
+            ],
+            [
+                5,
+                6,
+                2,
+                1
+            ]
+        ],
+        "label": "ui.TxtDLC2TowerMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "WorldBossLogic.CheckOpen()",
+        "CheckCompleted": "",
+        "Top": 0
+    },
+    {
+        "content_id": 100205,
+        "name": "ui.TxtDLC32.BtnRush",
+        "StartTime": "[202512180400]",
+        "EndTime": "[202601290400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                4,
+                1,
+                6,
+                5
+            ],
+            [
+                5,
+                29,
+                18,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ]
+        ],
+        "label": "ui.TxtDLC1ChessMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "Online.GoToUI({103,104})",
+        "CheckCompleted": "",
+        "Top": 1
+    },
+    {
+        "content_id": 100204,
+        "name": "ui.TxtDLC30.BtnFarmwar",
+        "StartTime": "[202601080400]",
+        "EndTime": "[202601290400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                11,
+                1,
+                64,
+                1
+            ],
+            [
+                13,
+                1,
+                39,
+                1
+            ],
+            [
+                5,
+                29,
+                18,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ]
+        ],
+        "label": "ui.TxtDLC1ChessMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "FarmWarActivity.CheckOpen()",
+        "CheckCompleted": "",
+        "Top": 1
+    },
+    {
+        "content_id": 100206,
+        "name": "ui.TxtDLC34.BtnCelebrate",
+        "StartTime": "[202512251000]",
+        "EndTime": "[202601290400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                11,
+                1,
+                65,
+                1
+            ],
+            [
+                8,
+                99,
+                34,
+                3
+            ],
+            [
+                4,
+                1,
+                6,
+                5
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ]
+        ],
+        "label": "ui.TxtDLC1ChessMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "StarWishLogic.CheckOpenAct",
+        "CheckCompleted": "",
+        "Top": 0
+    },
+    {
+        "content_id": 100207,
+        "name": "ui.TxtOnlineres.Title",
+        "StartTime": "[202512290400]",
+        "EndTime": "[202601120400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                11,
+                1,
+                63,
+                1
+            ],
+            [
+                5,
+                29,
+                18,
+                2
+            ]
+        ],
+        "label": "ui.TxtDLC2OnlineMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "Online.GoToUI({100,101})",
+        "CheckCompleted": "",
+        "Top": 0
+    },
+    {
+        "content_id": 100208,
+        "name": "ui.TxtDLC34.BtnDefense",
+        "StartTime": "[202601120400]",
+        "EndTime": "[202601260400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                5,
+                29,
+                18,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ]
+        ],
+        "label": "ui.TxtDLC2TowerMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "DefendLogic.CheckOpenAct()",
+        "CheckCompleted": "",
+        "Top": 0
+    },
+    {
+        "content_id": 100209,
+        "name": "ui.TxtOnlineEvent3",
+        "StartTime": "[202601150400]",
+        "EndTime": "[202601290400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                5,
+                6,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ]
+        ],
+        "label": "ui.TxtDLC2OnlineMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "Online.GoToUI({102})",
+        "CheckCompleted": "",
+        "Top": 0
+    },
+    {
+        "content_id": 100301,
+        "name": "activity.Lable28",
+        "StartTime": "[202602121000]",
+        "EndTime": "[202603120400]",
+        "preview": [
+            [
+                1,
+                5,
+                4,
+                1
+            ],
+            [
+                3,
+                1,
+                60,
+                2,
+                1
+            ],
+            [
+                3,
+                2,
+                60,
+                2,
+                1
+            ],
+            [
+                3,
+                3,
+                60,
+                2,
+                1
+            ]
+        ],
+        "label": "activity.sign",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "",
+        "CheckCompleted": "function() return Activity.CheckSpInviteCalendar(557) end",
+        "Top": 1
+    },
+    {
+        "content_id": 100302,
+        "name": "card.girl013_suits",
+        "StartTime": "[202601290400]",
+        "EndTime": "[202603120400]",
+        "preview": [
+            [
+                1,
+                1,
+                3,
+                1
+            ],
+            [
+                2,
+                10,
+                3,
+                1
+            ]
+        ],
+        "label": "ui.TextCalendarTag1",
+        "GotoUI": "",
+        "tbParam": [
+            3,
+            191
+        ],
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "CheckCompleted": "",
+        "Top": 2
+    },
+    {
+        "content_id": 100303,
+        "name": "card.girl054_suits",
+        "StartTime": "[202602121000]",
+        "EndTime": "[202603120400]",
+        "preview": [
+            [
+                1,
+                5,
+                4,
+                1
+            ],
+            [
+                2,
+                1,
+                35,
+                1
+            ]
+        ],
+        "label": "ui.TextCalendarTag1",
+        "GotoUI": "",
+        "tbParam": [
+            3,
+            193
+        ],
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "CheckCompleted": "",
+        "Top": 1
+    },
+    {
+        "content_id": 100304,
+        "name": "ui.TxtDLC35.BtnRush",
+        "StartTime": "[202601290400]",
+        "EndTime": "[202603120400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                4,
+                1,
+                6,
+                5
+            ],
+            [
+                9,
+                2,
+                108,
+                1
+            ],
+            [
+                11,
+                1,
+                67,
+                1
+            ],
+            [
+                5,
+                29,
+                19,
+                2
+            ]
+        ],
+        "label": "ui.TxtDLC30.MaskLeisure",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "Online.GoToUI({105,112})",
+        "CheckCompleted": "",
+        "Top": 0
+    },
+    {
+        "content_id": 100305,
+        "name": "ui.TxtDLC35.BtnDonoduel",
+        "StartTime": "[202602050400]",
+        "EndTime": "[202603120400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                13,
+                1,
+                42,
+                1
+            ],
+            [
+                11,
+                1,
+                70,
+                1
+            ],
+            [
+                5,
+                9,
+                1,
+                3
+            ],
+            [
+                5,
+                5,
+                1,
+                4
+            ],
+            [
+                5,
+                6,
+                1,
+                2
+            ]
+        ],
+        "label": "ui.TxtDLC1ChessMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "DonoDuel:OpenMainMap()",
+        "CheckCompleted": "",
+        "Top": 0
+    },
+    {
+        "content_id": 100306,
+        "name": "ui.TxtAssaultopsName",
+        "StartTime": "[202602020400]",
+        "EndTime": "[202603120400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                13,
+                1,
+                43,
+                1
+            ],
+            [
+                11,
+                1,
+                69,
+                1
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ]
+        ],
+        "label": "ui.TxtActivityTap2",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "Online.GoToUI({106,107})",
+        "CheckCompleted": "",
+        "Top": 0
+    },
+    {
+        "content_id": 100307,
+        "name": "ui.TxtDLC24.BtnDorm",
+        "StartTime": "[202602160400]",
+        "EndTime": "[202603120400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                9,
+                2,
+                106,
+                1
+            ],
+            [
+                14,
+                1,
+                67,
+                1
+            ],
+            [
+                4,
+                1,
+                6,
+                5
+            ]
+        ],
+        "label": "ui.TxtDLC30.MaskLeisure",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "HouseLogic.GoToHouseFromGirlSendMessage(HouseLogic)",
+        "CheckCompleted": "",
+        "Top": 0
+    },
+    {
+        "content_id": 100308,
+        "name": "ui.TxtDLC24.BtnMow",
+        "StartTime": "[202602120400]",
+        "EndTime": "[202603040400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                13,
+                1,
+                40,
+                1
+            ],
+            [
+                5,
+                29,
+                19,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ]
+        ],
+        "label": "ui.TxtDLC1ChessMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "AlienDefense.CheckOpenAct()",
+        "CheckCompleted": "",
+        "Top": 0
+    },
+    {
+        "content_id": 100309,
+        "name": "ui.TxtDLC24.BtnBoss",
+        "StartTime": "[202601290400]",
+        "EndTime": "[202602260400]",
+        "preview": [
+            [
+                5,
+                6,
+                2,
+                1
+            ],
+            [
+                5,
+                29,
+                19,
+                2
+            ],
+            [
+                5,
+                5,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ],
+            [
+                5,
+                5,
+                1,
+                1
+            ]
+        ],
+        "label": "ui.TxtDLC2TowerMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "SeasonBossLogic.CheckOpen(true)",
+        "CheckCompleted": "",
+        "Top": 0
+    },
+    {
+        "content_id": 100310,
+        "name": "ui.TxtDLC35.BtnDefense",
+        "StartTime": "[202602230400]",
+        "EndTime": "[202603090400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                5,
+                29,
+                19,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ]
+        ],
+        "label": "ui.TxtDLC2TowerMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "DefendLogic.CheckOpenAct()",
+        "CheckCompleted": "",
+        "Top": 0
+    },
+    {
+        "content_id": 100311,
+        "name": "ui.TxtOnlineEvent3",
+        "StartTime": "[202602260400]",
+        "EndTime": "[202603120400]",
+        "preview": [
+            [
+                4,
+                3,
+                2,
+                1
+            ],
+            [
+                5,
+                6,
+                1,
+                2
+            ],
+            [
+                4,
+                3,
+                1,
+                1
+            ]
+        ],
+        "label": "ui.TxtDLC2OnlineMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "Online.GoToUI({111})",
+        "CheckCompleted": "",
+        "Top": 0
+    },
+    {
+        "content_id": 100312,
+        "name": "ui.TxtDLC33.BtnPuzzle1",
+        "StartTime": "[202603120400]",
+        "EndTime": "[202604230400]",
+        "preview": [
+            [
+                1,
+                6,
+                3,
+                1
+            ],
+            [
+                2,
+                5,
+                31,
+                1
+            ],
+            [
+                3,
+                1,
+                56,
+                2
+            ],
+            [
+                3,
+                2,
+                56,
+                2
+            ],
+            [
+                3,
+                3,
+                56,
+                2
+            ]
+        ],
+        "label": "ui.TxtDLC1ChessMark1",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "JigsawPuzzle.EnterByActivityId(390)"
+    },
+    {
+        "content_id": 100313,
+        "name": "ui.TxtDLC33.BtnPuzzle1",
+        "StartTime": "[202603260400]",
+        "EndTime": "[202604230400]",
+        "preview": [
+            [
+                1,
+                4,
+                4,
+                1
+            ],
+            [
+                2,
+                2,
+                27,
+                1
+            ],
+            [
+                5,
+                32,
+                4,
+                1
+            ],
+            [
+                3,
+                2,
+                56,
+                2
+            ],
+            [
+                3,
+                2,
+                58,
+                2
+            ],
+            [
+                3,
+                3,
+                58,
+                2
+            ]
+        ],
+        "label": "ui.TxtDLC1ChessMark",
+        "GotoUI": "",
+        "tbParam": "",
+        "ConditionGoto": "JigsawPuzzle.EnterByActivityId(602)"
+    }
+]

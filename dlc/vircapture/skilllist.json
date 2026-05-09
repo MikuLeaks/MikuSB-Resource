@@ -1,0 +1,926 @@
+[
+    {
+        "Id": 1,
+        "BuffId": 5000043,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_03",
+        "Desc": "vircapture.skill_desc_03",
+        "DescValue": [
+            [
+                1.5
+            ],
+            [
+                1.6
+            ],
+            [
+                1.7
+            ],
+            [
+                1.9
+            ],
+            [
+                2.1
+            ],
+            [
+                2.5
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": "",
+        "MaxLevel": 6,
+        "MutexID": 1
+    },
+    {
+        "Id": 2,
+        "BuffId": 5000056,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_05",
+        "Desc": "vircapture.skill_desc_05",
+        "DescValue": [
+            [
+                0.5
+            ],
+            [
+                0.55
+            ],
+            [
+                0.6
+            ],
+            [
+                0.7
+            ],
+            [
+                0.8
+            ],
+            [
+                1
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": "",
+        "MaxLevel": 6,
+        "MutexID": 2
+    },
+    {
+        "Id": 3,
+        "BuffId": 5000047,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_14",
+        "Desc": "vircapture.skill_desc_14",
+        "DescValue": [
+            [
+                10
+            ],
+            [
+                11
+            ],
+            [
+                12
+            ],
+            [
+                14
+            ],
+            [
+                16
+            ],
+            [
+                20
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": "",
+        "MaxLevel": 6,
+        "MutexID": 3
+    },
+    {
+        "Id": 4,
+        "BuffId": 5000048,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_15",
+        "Desc": "vircapture.skill_desc_15",
+        "DescValue": [
+            [
+                10
+            ],
+            [
+                11
+            ],
+            [
+                12
+            ],
+            [
+                14
+            ],
+            [
+                16
+            ],
+            [
+                20
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": "",
+        "MaxLevel": 6,
+        "MutexID": 4
+    },
+    {
+        "Id": 5,
+        "BuffId": 5000056,
+        "Type": 1,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_21",
+        "Desc": "vircapture.skill_desc_21",
+        "DescValue": [
+            [
+                3
+            ],
+            [
+                3.5
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ],
+            [
+                8
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": "",
+        "MaxLevel": 6,
+        "MutexID": 5
+    },
+    {
+        "Id": 6,
+        "BuffId": 5000046,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_13",
+        "Desc": "vircapture.skill_desc_13",
+        "DescValue": [
+            [
+                1
+            ],
+            [
+                1.1
+            ],
+            [
+                1.2
+            ],
+            [
+                1.4
+            ],
+            [
+                1.6
+            ],
+            [
+                2
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": "",
+        "MaxLevel": 6,
+        "MutexID": 6
+    },
+    {
+        "Id": 7,
+        "BuffId": 5000035,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_07",
+        "Desc": "vircapture.skill_desc_07",
+        "DescValue": {
+            "100": 1,
+            "110": 1.1,
+            "120": 1.2,
+            "140": 1.4,
+            "160": 1.6,
+            "200": 2
+        },
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": 1,
+        "MaxLevel": 6,
+        "MutexID": 7
+    },
+    {
+        "Id": 8,
+        "BuffId": 5000037,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_08",
+        "Desc": "vircapture.skill_desc_08",
+        "DescValue": [
+            [
+                2
+            ],
+            [
+                2.2
+            ],
+            [
+                2.4
+            ],
+            [
+                2.8
+            ],
+            [
+                3.2
+            ],
+            [
+                4
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": "",
+        "MaxLevel": 6,
+        "MutexID": 8
+    },
+    {
+        "Id": 9,
+        "BuffId": 5000039,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_09",
+        "Desc": "vircapture.skill_desc_09",
+        "DescValue": [
+            [
+                5
+            ],
+            [
+                5.5
+            ],
+            [
+                6
+            ],
+            [
+                7
+            ],
+            [
+                8
+            ],
+            [
+                10
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": 1,
+        "MaxLevel": 6,
+        "MutexID": 9
+    },
+    {
+        "Id": 10,
+        "BuffId": 5000033,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_01",
+        "Desc": "vircapture.skill_desc_01",
+        "DescValue": [
+            [
+                20
+            ],
+            [
+                22
+            ],
+            [
+                24
+            ],
+            [
+                28
+            ],
+            [
+                32
+            ],
+            [
+                40
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": 1,
+        "MaxLevel": 6,
+        "MutexID": 10
+    },
+    {
+        "Id": 11,
+        "BuffId": 5000034,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_02",
+        "Desc": "vircapture.skill_desc_02",
+        "DescValue": [
+            [
+                60
+            ],
+            [
+                65
+            ],
+            [
+                70
+            ],
+            [
+                82.5
+            ],
+            [
+                95
+            ],
+            [
+                120
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": 1,
+        "MaxLevel": 6,
+        "MutexID": 11
+    },
+    {
+        "Id": 12,
+        "BuffId": 5000045,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_06",
+        "Desc": "vircapture.skill_desc_06",
+        "DescValue": [
+            [
+                3
+            ],
+            [
+                3.5
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ],
+            [
+                8
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": "",
+        "MaxLevel": 6,
+        "MutexID": 12
+    },
+    {
+        "Id": 13,
+        "BuffId": 5000052,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_19",
+        "Desc": "vircapture.skill_desc_19",
+        "DescValue": [
+            [
+                20
+            ],
+            [
+                21
+            ],
+            [
+                22
+            ],
+            [
+                24
+            ],
+            [
+                26
+            ],
+            [
+                30
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": "",
+        "MaxLevel": 6,
+        "MutexID": 13
+    },
+    {
+        "Id": 14,
+        "BuffId": 5000053,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_20",
+        "Desc": "vircapture.skill_desc_20",
+        "DescValue": [
+            [
+                20
+            ],
+            [
+                21
+            ],
+            [
+                22
+            ],
+            [
+                24
+            ],
+            [
+                26
+            ],
+            [
+                30
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": "",
+        "MaxLevel": 6,
+        "MutexID": 14
+    },
+    {
+        "Id": 15,
+        "BuffId": 5000059,
+        "Type": 1,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_12",
+        "Desc": "vircapture.skill_desc_12",
+        "DescValue": [
+            [
+                500
+            ],
+            [
+                550
+            ],
+            [
+                600
+            ],
+            [
+                700
+            ],
+            [
+                800
+            ],
+            [
+                1000
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": "",
+        "MaxLevel": 6,
+        "MutexID": 15
+    },
+    {
+        "Id": 16,
+        "BuffId": 5000042,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_10",
+        "Desc": "vircapture.skill_desc_10",
+        "DescValue": [
+            [
+                10
+            ],
+            [
+                11
+            ],
+            [
+                12
+            ],
+            [
+                14
+            ],
+            [
+                16
+            ],
+            [
+                20
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": "",
+        "MaxLevel": 6,
+        "MutexID": 16
+    },
+    {
+        "Id": 17,
+        "BuffId": 5000041,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_11",
+        "Desc": "vircapture.skill_desc_11",
+        "DescValue": [
+            [
+                1000
+            ],
+            [
+                1100
+            ],
+            [
+                1200
+            ],
+            [
+                1400
+            ],
+            [
+                1600
+            ],
+            [
+                2000
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": 1,
+        "MaxLevel": 6,
+        "MutexID": 17
+    },
+    {
+        "Id": 18,
+        "BuffId": 5000049,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_17",
+        "Desc": "vircapture.skill_desc_17",
+        "DescValue": [
+            [
+                1
+            ],
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                5
+            ],
+            [
+                7
+            ],
+            [
+                10
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": "",
+        "MaxLevel": 6,
+        "MutexID": 18
+    },
+    {
+        "Id": 19,
+        "BuffId": 5000050,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_16",
+        "Desc": "vircapture.skill_desc_16",
+        "DescValue": [
+            [
+                20
+            ],
+            [
+                19
+            ],
+            [
+                18
+            ],
+            [
+                16
+            ],
+            [
+                14
+            ],
+            [
+                10
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": "",
+        "MaxLevel": 6,
+        "MutexID": 19
+    },
+    {
+        "Id": 20,
+        "BuffId": 5000060,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_23",
+        "Desc": "vircapture.skill_desc_23",
+        "DescValue": [
+            [
+                1
+            ],
+            [
+                1.1
+            ],
+            [
+                1.2
+            ],
+            [
+                1.4
+            ],
+            [
+                1.6
+            ],
+            [
+                2
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": "",
+        "MaxLevel": 6,
+        "MutexID": 20
+    },
+    {
+        "Id": 21,
+        "BuffId": 5000062,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_24",
+        "Desc": "vircapture.skill_desc_24",
+        "DescValue": [
+            [
+                10
+            ],
+            [
+                11
+            ],
+            [
+                12
+            ],
+            [
+                14
+            ],
+            [
+                16
+            ],
+            [
+                20
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": "",
+        "MaxLevel": 6,
+        "MutexID": 21
+    },
+    {
+        "Id": 22,
+        "BuffId": 5000063,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_25",
+        "Desc": "vircapture.skill_desc_25",
+        "DescValue": [
+            [
+                50
+            ],
+            [
+                55
+            ],
+            [
+                60
+            ],
+            [
+                70
+            ],
+            [
+                80
+            ],
+            [
+                100
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": 1,
+        "MaxLevel": 6,
+        "MutexID": 22
+    },
+    {
+        "Id": 23,
+        "BuffId": 5000067,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_26",
+        "Desc": "vircapture.skill_desc_26",
+        "DescValue": {
+            "1": 1,
+            "1.1": 1.1,
+            "1.2": 1.2,
+            "1.4": 1.4,
+            "1.6": 1.6,
+            "2": 2
+        },
+        "DescCommon": "",
+        "Group": [
+            1,
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": "",
+        "MaxLevel": 6,
+        "MutexID": 23
+    },
+    {
+        "Id": 24,
+        "BuffId": 5000065,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_27",
+        "Desc": "vircapture.skill_desc_27",
+        "DescValue": [
+            [
+                10
+            ],
+            [
+                11
+            ],
+            [
+                12
+            ],
+            [
+                14
+            ],
+            [
+                16
+            ],
+            [
+                20
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            1
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": "",
+        "MaxLevel": 6,
+        "MutexID": 100
+    },
+    {
+        "Id": 25,
+        "BuffId": 5000066,
+        "Type": 2,
+        "Color": 4,
+        "I18n": "vircapture.skill_name_28",
+        "Desc": "vircapture.skill_desc_28",
+        "DescValue": [
+            [
+                10
+            ],
+            [
+                11
+            ],
+            [
+                12
+            ],
+            [
+                14
+            ],
+            [
+                16
+            ],
+            [
+                20
+            ]
+        ],
+        "DescCommon": "",
+        "Group": [
+            2
+        ],
+        "GroupCommon": "",
+        "CostId": 1,
+        "UseSPAtk": "",
+        "MaxLevel": 6,
+        "MutexID": 100
+    }
+]

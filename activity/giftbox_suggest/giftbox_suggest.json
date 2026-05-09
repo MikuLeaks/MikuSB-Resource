@@ -1,0 +1,201 @@
+[
+    {
+        "Id": 1,
+        "Sort": 1,
+        "Tittle": 1603107,
+        "Des": "ui.giftboxsuggest_card",
+        "Des2": [
+            "card.girl023_suits",
+            "card.girl132_suits",
+            "card.girl072_suits",
+            "card.girl151_suits"
+        ],
+        "ibgoodsID": 529,
+        "Type": 0,
+        "Imgae": 1603110,
+        "BoxIcon": 110105016,
+        "DiscountIcon": 1603114,
+        "StartTime": "[202512180400]",
+        "EndTime": "[205012010400]",
+        "Count": 1,
+        "Period": 168,
+        "Pre_goodsID": "",
+        "Condition_newplayer": [
+            [
+                [
+                    2,
+                    11422
+                ],
+                [
+                    28,
+                    "202512180400"
+                ],
+                [
+                    15,
+                    10223
+                ]
+            ]
+        ],
+        "Condition_oldplayer": {
+            "[28, '202512180400']": [
+                15,
+                11003
+            ]
+        },
+        "Condition1": {
+            "1": 101
+        },
+        "Items": [
+            [
+                1,
+                2,
+                3,
+                1,
+                1
+            ],
+            [
+                1,
+                13,
+                2,
+                1,
+                1
+            ],
+            [
+                1,
+                7,
+                2,
+                1,
+                1
+            ],
+            [
+                1,
+                15,
+                1,
+                1,
+                1
+            ]
+        ]
+    },
+    {
+        "Id": 2,
+        "Sort": 2,
+        "Tittle": 1603108,
+        "Des": "ui.giftboxsuggest_weapon",
+        "Des2": [
+            "ui.giftboxsuggest_weapon1",
+            "ui.giftboxsuggest_weapon2",
+            "ui.giftboxsuggest_weapon3",
+            "ui.giftboxsuggest_weapon4"
+        ],
+        "ibgoodsID": 530,
+        "Type": 1,
+        "Imgae": 1603111,
+        "BoxIcon": 110105019,
+        "DiscountIcon": 1603115,
+        "StartTime": "[202512180400]",
+        "EndTime": "[205012010400]",
+        "Count": 1,
+        "Period": 168,
+        "Pre_goodsID": "",
+        "Condition_newplayer": {
+            "[28, '202512180400']": [
+                15,
+                11203
+            ]
+        },
+        "Condition_oldplayer": {
+            "[28, '202512180400']": [
+                15,
+                11203
+            ]
+        },
+        "Condition1": {
+            "1": 101
+        },
+        "Items": [
+            [
+                2,
+                7,
+                3,
+                1,
+                1
+            ],
+            [
+                2,
+                3,
+                26,
+                1,
+                1
+            ],
+            [
+                2,
+                1,
+                27,
+                1,
+                1
+            ],
+            [
+                2,
+                6,
+                4,
+                1,
+                1
+            ]
+        ]
+    },
+    {
+        "Id": 3,
+        "Sort": 3,
+        "Tittle": 1603109,
+        "Des": "ui.giftboxsuggest_support",
+        "Des2": "",
+        "ibgoodsID": 540,
+        "Type": 2,
+        "Imgae": 1603112,
+        "BoxIcon": "",
+        "DiscountIcon": "",
+        "StartTime": "[202512180400]",
+        "EndTime": "[205012010400]",
+        "Count": 1,
+        "Period": 168,
+        "Pre_goodsID": "",
+        "Condition_newplayer": {
+            "[28, '202512180400']": [
+                15,
+                11207
+            ]
+        },
+        "Condition_oldplayer": {
+            "[28, '202512180400']": [
+                15,
+                11207
+            ]
+        },
+        "Condition1": {
+            "1": 101
+        },
+        "Items": [
+            [
+                4,
+                5,
+                9,
+                10,
+                1
+            ],
+            [
+                5,
+                3,
+                1,
+                4,
+                155
+            ],
+            [
+                4,
+                3,
+                1,
+                1,
+                350000
+            ]
+        ]
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "ID": 1,
+        "ModeType": 1,
+        "PlayerNum": 2,
+        "RankExp": [
+            100,
+            70
+        ],
+        "TrialExp": [
+            80,
+            56
+        ],
+        "UnlockLv": 0
+    },
+    {
+        "ID": 2,
+        "ModeType": 1,
+        "PlayerNum": 3,
+        "RankExp": [
+            200,
+            175,
+            150
+        ],
+        "TrialExp": [
+            160,
+            140,
+            120
+        ],
+        "UnlockLv": 0
+    },
+    {
+        "ID": 3,
+        "ModeType": 1,
+        "PlayerNum": 4,
+        "RankExp": [
+            360,
+            340,
+            320,
+            300
+        ],
+        "TrialExp": [
+            288,
+            272,
+            256,
+            240
+        ],
+        "UnlockLv": 0
+    },
+    {
+        "ID": 11,
+        "ModeType": 2,
+        "PlayerNum": 2,
+        "RankExp": [
+            100,
+            70
+        ],
+        "TrialExp": [
+            80,
+            56
+        ],
+        "UnlockLv": 5
+    },
+    {
+        "ID": 12,
+        "ModeType": 2,
+        "PlayerNum": 3,
+        "RankExp": [
+            200,
+            175,
+            150
+        ],
+        "TrialExp": [
+            160,
+            140,
+            120
+        ],
+        "UnlockLv": 5
+    },
+    {
+        "ID": 13,
+        "ModeType": 2,
+        "PlayerNum": 4,
+        "RankExp": [
+            360,
+            340,
+            320,
+            300
+        ],
+        "TrialExp": [
+            288,
+            272,
+            256,
+            240
+        ],
+        "UnlockLv": 5
+    },
+    {
+        "ID": 21,
+        "ModeType": 3,
+        "PlayerNum": 2,
+        "RankExp": [
+            20,
+            10
+        ],
+        "TrialExp": [
+            20,
+            10
+        ],
+        "UnlockLv": 0
+    },
+    {
+        "ID": 31,
+        "ModeType": 4,
+        "PlayerNum": 4,
+        "RankExp": [
+            50,
+            40,
+            30,
+            20
+        ],
+        "TrialExp": [
+            50,
+            40,
+            30,
+            20
+        ],
+        "UnlockLv": 5
+    }
+]

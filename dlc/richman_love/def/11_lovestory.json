@@ -1,0 +1,842 @@
+[
+    {
+        "id": 1,
+        "Npcid": 1,
+        "Name": "season_ui.lifuweekname1",
+        "Path": "Richman/girl002a_event_01",
+        "Courage": 100,
+        "Knowledge": 100,
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 100,
+        "sp_week_type": "",
+        "PreStoryId": "",
+        "tbAnswer1": [
+            52,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tbAnswer2": [
+            0,
+            52,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 2,
+        "Npcid": 1,
+        "Name": "season_ui.lifuweekname2",
+        "Path": "Richman/girl002a_event_02",
+        "Courage": 200,
+        "Knowledge": 200,
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 100,
+        "sp_week_type": "",
+        "PreStoryId": 1,
+        "tbAnswer1": [
+            0,
+            52,
+            0,
+            0,
+            0
+        ],
+        "tbAnswer2": [
+            52,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 3,
+        "Npcid": 1,
+        "Name": "season_ui.lifuweekname3",
+        "Path": "Richman/girl002a_event_03",
+        "Courage": 300,
+        "Knowledge": 300,
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 100,
+        "sp_week_type": "",
+        "PreStoryId": 2,
+        "tbAnswer1": [
+            52,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tbAnswer2": [
+            0,
+            52,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 4,
+        "Npcid": 1,
+        "Name": "season_ui.lifuweekname4",
+        "Path": "Richman/girl002a_event_04",
+        "Courage": 520,
+        "Knowledge": 520,
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 100,
+        "sp_week_type": "",
+        "PreStoryId": 3,
+        "tbAnswer1": [
+            52,
+            0,
+            0,
+            0,
+            0
+        ],
+        "tbAnswer2": [
+            0,
+            52,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 5,
+        "Npcid": 2,
+        "Name": "season_ui.fenniweekname1",
+        "Path": "Richman/girl008a_event_01",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": 100,
+        "Charm": 100,
+        "Dexterity": "",
+        "Weight": 100,
+        "sp_week_type": "",
+        "PreStoryId": "",
+        "tbAnswer1": [
+            0,
+            0,
+            52,
+            0,
+            0
+        ],
+        "tbAnswer2": [
+            0,
+            0,
+            0,
+            52,
+            0
+        ]
+    },
+    {
+        "id": 6,
+        "Npcid": 2,
+        "Name": "season_ui.fenniweekname2",
+        "Path": "Richman/girl008a_event_02",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": 200,
+        "Charm": 200,
+        "Dexterity": "",
+        "Weight": 100,
+        "sp_week_type": "",
+        "PreStoryId": 5,
+        "tbAnswer1": [
+            0,
+            0,
+            52,
+            0,
+            0
+        ],
+        "tbAnswer2": [
+            0,
+            0,
+            0,
+            52,
+            0
+        ]
+    },
+    {
+        "id": 7,
+        "Npcid": 2,
+        "Name": "season_ui.fenniweekname3",
+        "Path": "Richman/girl008a_event_03",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": 300,
+        "Charm": 300,
+        "Dexterity": "",
+        "Weight": 100,
+        "sp_week_type": "",
+        "PreStoryId": 6,
+        "tbAnswer1": [
+            0,
+            0,
+            52,
+            0,
+            0
+        ],
+        "tbAnswer2": [
+            0,
+            0,
+            0,
+            52,
+            0
+        ]
+    },
+    {
+        "id": 8,
+        "Npcid": 2,
+        "Name": "season_ui.fenniweekname4",
+        "Path": "Richman/girl008a_event_04",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": 520,
+        "Charm": 520,
+        "Dexterity": "",
+        "Weight": 100,
+        "sp_week_type": "",
+        "PreStoryId": 7,
+        "tbAnswer1": [
+            0,
+            0,
+            52,
+            0,
+            0
+        ],
+        "tbAnswer2": [
+            0,
+            0,
+            0,
+            52,
+            0
+        ]
+    },
+    {
+        "id": 9,
+        "Npcid": 3,
+        "Name": "season_ui.mlaweekname1",
+        "Path": "Richman/girl005a_event_01",
+        "Courage": "",
+        "Knowledge": 100,
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": 100,
+        "Weight": 100,
+        "sp_week_type": "",
+        "PreStoryId": "",
+        "tbAnswer1": [
+            0,
+            0,
+            0,
+            0,
+            52
+        ],
+        "tbAnswer2": [
+            0,
+            52,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 10,
+        "Npcid": 3,
+        "Name": "season_ui.mlaweekname2",
+        "Path": "Richman/girl005a_event_02",
+        "Courage": "",
+        "Knowledge": 200,
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": 200,
+        "Weight": 100,
+        "sp_week_type": "",
+        "PreStoryId": 9,
+        "tbAnswer1": [
+            0,
+            52,
+            0,
+            0,
+            0
+        ],
+        "tbAnswer2": [
+            0,
+            0,
+            0,
+            0,
+            52
+        ]
+    },
+    {
+        "id": 11,
+        "Npcid": 3,
+        "Name": "season_ui.mlaweekname3",
+        "Path": "Richman/girl005a_event_03",
+        "Courage": "",
+        "Knowledge": 300,
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": 300,
+        "Weight": 100,
+        "sp_week_type": "",
+        "PreStoryId": 10,
+        "tbAnswer1": [
+            0,
+            52,
+            0,
+            0,
+            0
+        ],
+        "tbAnswer2": [
+            0,
+            0,
+            0,
+            0,
+            52
+        ]
+    },
+    {
+        "id": 12,
+        "Npcid": 3,
+        "Name": "season_ui.mlaweekname4",
+        "Path": "Richman/girl005a_event_04",
+        "Courage": "",
+        "Knowledge": 520,
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": 520,
+        "Weight": 100,
+        "sp_week_type": "",
+        "PreStoryId": 11,
+        "tbAnswer1": [
+            0,
+            52,
+            0,
+            0,
+            0
+        ],
+        "tbAnswer2": [
+            0,
+            0,
+            0,
+            0,
+            52
+        ]
+    },
+    {
+        "id": 13,
+        "Npcid": 1,
+        "Name": "season_ui.lifuspecial1name1",
+        "Path": "Richman/girl002a_date_01",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 20,
+        "sp_week_type": 1,
+        "PreStoryId": "",
+        "tbAnswer1": [
+            30,
+            30,
+            0,
+            0,
+            0
+        ],
+        "tbAnswer2": [
+            30,
+            30,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 14,
+        "Npcid": 1,
+        "Name": "season_ui.lifuspecial1name2",
+        "Path": "Richman/girl002a_date_02",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 20,
+        "sp_week_type": 1,
+        "PreStoryId": "",
+        "tbAnswer1": [
+            30,
+            30,
+            0,
+            0,
+            0
+        ],
+        "tbAnswer2": [
+            30,
+            30,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 15,
+        "Npcid": 1,
+        "Name": "season_ui.lifuspecial1name3",
+        "Path": "Richman/girl002a_date_03",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 50,
+        "sp_week_type": 1,
+        "PreStoryId": "",
+        "tbAnswer1": [
+            30,
+            30,
+            0,
+            0,
+            0
+        ],
+        "tbAnswer2": [
+            30,
+            30,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 16,
+        "Npcid": 1,
+        "Name": "season_ui.lifuspecial2name1",
+        "Path": "Richman/girl002a_date_04",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 20,
+        "sp_week_type": 2,
+        "PreStoryId": "",
+        "tbAnswer1": [
+            30,
+            30,
+            0,
+            0,
+            0
+        ],
+        "tbAnswer2": [
+            30,
+            30,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 17,
+        "Npcid": 1,
+        "Name": "season_ui.lifuspecial2name2",
+        "Path": "Richman/girl002a_date_05",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 20,
+        "sp_week_type": 2,
+        "PreStoryId": "",
+        "tbAnswer1": [
+            30,
+            30,
+            0,
+            0,
+            0
+        ],
+        "tbAnswer2": [
+            30,
+            30,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 18,
+        "Npcid": 1,
+        "Name": "season_ui.lifuspecial2name3",
+        "Path": "Richman/girl002a_date_06",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 50,
+        "sp_week_type": 2,
+        "PreStoryId": "",
+        "tbAnswer1": [
+            30,
+            30,
+            0,
+            0,
+            0
+        ],
+        "tbAnswer2": [
+            30,
+            30,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "id": 19,
+        "Npcid": 2,
+        "Name": "season_ui.fennispecial1name1",
+        "Path": "Richman/girl008a_date_01",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 20,
+        "sp_week_type": 1,
+        "PreStoryId": "",
+        "tbAnswer1": [
+            0,
+            0,
+            30,
+            30,
+            0
+        ],
+        "tbAnswer2": [
+            0,
+            0,
+            30,
+            30,
+            0
+        ]
+    },
+    {
+        "id": 20,
+        "Npcid": 2,
+        "Name": "season_ui.fennispecial1name2",
+        "Path": "Richman/girl008a_date_02",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 20,
+        "sp_week_type": 1,
+        "PreStoryId": "",
+        "tbAnswer1": [
+            0,
+            0,
+            30,
+            30,
+            0
+        ],
+        "tbAnswer2": [
+            0,
+            0,
+            30,
+            30,
+            0
+        ]
+    },
+    {
+        "id": 21,
+        "Npcid": 2,
+        "Name": "season_ui.fennispecial1name3",
+        "Path": "Richman/girl008a_date_03",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 50,
+        "sp_week_type": 1,
+        "PreStoryId": "",
+        "tbAnswer1": [
+            0,
+            0,
+            30,
+            30,
+            0
+        ],
+        "tbAnswer2": [
+            0,
+            0,
+            30,
+            30,
+            0
+        ]
+    },
+    {
+        "id": 22,
+        "Npcid": 2,
+        "Name": "season_ui.fennispecial2name1",
+        "Path": "Richman/girl008a_date_04",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 20,
+        "sp_week_type": 2,
+        "PreStoryId": "",
+        "tbAnswer1": [
+            0,
+            0,
+            30,
+            30,
+            0
+        ],
+        "tbAnswer2": [
+            0,
+            0,
+            30,
+            30,
+            0
+        ]
+    },
+    {
+        "id": 23,
+        "Npcid": 2,
+        "Name": "season_ui.fennispecial2name2",
+        "Path": "Richman/girl008a_date_05",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 20,
+        "sp_week_type": 2,
+        "PreStoryId": "",
+        "tbAnswer1": [
+            0,
+            0,
+            30,
+            30,
+            0
+        ],
+        "tbAnswer2": [
+            0,
+            0,
+            30,
+            30,
+            0
+        ]
+    },
+    {
+        "id": 24,
+        "Npcid": 2,
+        "Name": "season_ui.fennispecial2name3",
+        "Path": "Richman/girl008a_date_06",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 50,
+        "sp_week_type": 2,
+        "PreStoryId": "",
+        "tbAnswer1": [
+            0,
+            0,
+            30,
+            30,
+            0
+        ],
+        "tbAnswer2": [
+            0,
+            0,
+            30,
+            30,
+            0
+        ]
+    },
+    {
+        "id": 25,
+        "Npcid": 3,
+        "Name": "season_ui.mlaspecial1name1",
+        "Path": "Richman/girl005a_date_01",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 20,
+        "sp_week_type": 1,
+        "PreStoryId": "",
+        "tbAnswer1": [
+            0,
+            30,
+            0,
+            0,
+            30
+        ],
+        "tbAnswer2": [
+            0,
+            30,
+            0,
+            0,
+            30
+        ]
+    },
+    {
+        "id": 26,
+        "Npcid": 3,
+        "Name": "season_ui.mlaspecial1name2",
+        "Path": "Richman/girl005a_date_02",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 20,
+        "sp_week_type": 1,
+        "PreStoryId": "",
+        "tbAnswer1": [
+            0,
+            30,
+            0,
+            0,
+            30
+        ],
+        "tbAnswer2": [
+            0,
+            30,
+            0,
+            0,
+            30
+        ]
+    },
+    {
+        "id": 27,
+        "Npcid": 3,
+        "Name": "season_ui.mlaspecial1name3",
+        "Path": "Richman/girl005a_date_03",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 50,
+        "sp_week_type": 1,
+        "PreStoryId": "",
+        "tbAnswer1": [
+            0,
+            30,
+            0,
+            0,
+            30
+        ],
+        "tbAnswer2": [
+            0,
+            30,
+            0,
+            0,
+            30
+        ]
+    },
+    {
+        "id": 28,
+        "Npcid": 3,
+        "Name": "season_ui.mlaspecial2name1",
+        "Path": "Richman/girl005a_date_04",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 20,
+        "sp_week_type": 2,
+        "PreStoryId": "",
+        "tbAnswer1": [
+            0,
+            30,
+            0,
+            0,
+            30
+        ],
+        "tbAnswer2": [
+            0,
+            30,
+            0,
+            0,
+            30
+        ]
+    },
+    {
+        "id": 29,
+        "Npcid": 3,
+        "Name": "season_ui.mlaspecial2name2",
+        "Path": "Richman/girl005a_date_05",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 20,
+        "sp_week_type": 2,
+        "PreStoryId": "",
+        "tbAnswer1": [
+            0,
+            30,
+            0,
+            0,
+            30
+        ],
+        "tbAnswer2": [
+            0,
+            30,
+            0,
+            0,
+            30
+        ]
+    },
+    {
+        "id": 30,
+        "Npcid": 3,
+        "Name": "season_ui.mlaspecial2name3",
+        "Path": "Richman/girl005a_date_06",
+        "Courage": "",
+        "Knowledge": "",
+        "Consideration": "",
+        "Charm": "",
+        "Dexterity": "",
+        "Weight": 50,
+        "sp_week_type": 2,
+        "PreStoryId": "",
+        "tbAnswer1": [
+            0,
+            30,
+            0,
+            0,
+            30
+        ],
+        "tbAnswer2": [
+            0,
+            30,
+            0,
+            0,
+            30
+        ]
+    }
+]

@@ -1,0 +1,2949 @@
+[
+    {
+        "Key": "donoduel_name01",
+        "zh_CN": "多诺-巅峰对决",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_01",
+        "zh_CN": "正式学习1",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_02",
+        "zh_CN": "正式学习5",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_03",
+        "zh_CN": "对决，开始",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_04",
+        "zh_CN": "她更爱的“游戏”",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_05",
+        "zh_CN": "艰难的选择",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_06",
+        "zh_CN": "新的记录",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_07",
+        "zh_CN": "逃课打法",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_08",
+        "zh_CN": "为记忆搬家",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_10",
+        "zh_CN": "挑战之路1",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_11",
+        "zh_CN": "挑战之路2",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_12",
+        "zh_CN": "挑战之路3",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_13",
+        "zh_CN": "挑战之路4",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_14",
+        "zh_CN": "挑战之路5",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_15",
+        "zh_CN": "巅峰模式",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_01_des",
+        "zh_CN": "让安卡希雅如此沉迷的多诺卡到底是什么样的游戏，体验过了才会更加清楚。",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_02_des",
+        "zh_CN": "既然安卡希雅已经做了这么多的准备工作，那就试着进一步了解她所喜爱的多诺卡吧。",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_03_des",
+        "zh_CN": "在完成了所有多诺卡相关的规则学习后，入坑仪式也完满结束。那么，就开始对决吧。",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_04_des",
+        "zh_CN": "虽然茉莉安也加入到了多诺卡入坑仪式的队伍中，但她似乎不是奔着卡牌来的……",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_05_des",
+        "zh_CN": "咕咕哝哝的米娅揉搓着自己毛茸茸的头发，似乎在进行一场艰难的选择。",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_06_des",
+        "zh_CN": "瑟瑞斯仍然保持着记录任何小事的习惯，但从刚刚开始，她就在反复看同一页笔记了……",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_07_des",
+        "zh_CN": "不知道肴已经睡了多久，这会儿她正在半睁睡眼望着你，她真的是来玩多诺卡的吗？",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_08_des",
+        "zh_CN": "安卡希雅最终还是鼓起勇气，和你说出了她的心愿。",
+        "disable": 0
+    },
+    {
+        "Key": "arena_level_name_15_des",
+        "zh_CN": "在巅峰模式中，可以携带10张多诺卡进入对决。每回合对决开始前，可从携带的10张多诺卡中，任选最多5张多诺卡出阵。通过在不同回合调整阵容，尽可能取得更多回合的对决胜利。每回合对决结束后，多诺卡将继承上回合的生命值。",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond1_name",
+        "zh_CN": "防御者",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond2_name",
+        "zh_CN": "近战士",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond3_name",
+        "zh_CN": "远攻手",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond4_name",
+        "zh_CN": "异术师",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond5_name",
+        "zh_CN": "战术家",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond6_name",
+        "zh_CN": "附属幻影",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond7_name",
+        "zh_CN": "异界斗士",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond8_name",
+        "zh_CN": "机甲构装",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond9_name",
+        "zh_CN": "觉醒协奏",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond10_name",
+        "zh_CN": "奇点核心",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond11_name",
+        "zh_CN": "巨神兵",
+        "disable": 0
+    },
+    {
+        "Key": "buff_herocard_buff",
+        "zh_CN": "造成的最终伤害提升15%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond1_des02",
+        "zh_CN": "全部出阵卡牌防御力提升10%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond1_des03",
+        "zh_CN": "全部出阵卡牌防御力提升15%。当出阵卡牌生命降低至30%以下，对自身3米内全部目标造成1秒的眩晕效果，仅在1张卡牌上生效1次",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond2_des02",
+        "zh_CN": "全部出阵卡牌最大生命提升12.5%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond2_des03",
+        "zh_CN": "全部出阵卡牌最大生命提升17.5%。当出阵卡牌生命低于30%时，攻击力提升20%，仅在1张卡牌上生效1次",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond3_des02",
+        "zh_CN": "任意出阵卡牌造成伤害时，无视敌方10%的防御力",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond3_des03",
+        "zh_CN": "任意出阵卡牌造成伤害时，无视敌方15%的防御力。当出阵卡牌生命高于50%时，攻击力提升10%，仅在1张卡牌上生效1次",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond4_des02",
+        "zh_CN": "全部附属单位的生命与攻击力提升10%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond4_des03",
+        "zh_CN": "全部附属单位的生命与攻击力提升12.5%。当附属单位对敌方造成伤害时，敌方目标攻击力降低20%，效果持续5秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond5_des02",
+        "zh_CN": "全部出阵卡牌攻击力提升12.5%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond5_des03",
+        "zh_CN": "全部出阵卡牌攻击力提升17.5%。对生命高于50%的敌方造成伤害时，有50%的概率对目标施加1秒眩晕效果，每张卡牌上每间隔6秒可生效1次",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond6_des02",
+        "zh_CN": "附属单位下场时，部署附属单位的卡牌防御力提升12%，持续5秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond7_des02",
+        "zh_CN": "全部出阵卡牌攻击力提升12.5%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond7_des03",
+        "zh_CN": "全部出阵卡牌生命、攻击力均提升12.5%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond7_des04",
+        "zh_CN": "全部出阵卡牌攻击力提升20%，此连携卡牌进入休整状态后，其余全部出阵卡牌回复6%自身最大生命",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond8_des02",
+        "zh_CN": "此连携卡牌对敌方造成伤害时，附加【1级破片】效果，持续5秒，使敌方受到此连携卡牌的伤害提升20%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond8_des03",
+        "zh_CN": "带有此连携效果的卡牌对敌方造成伤害时，附加【2级破片】效果，持续5秒，使敌方受到此连携卡牌的伤害提升20%，攻击力降低20%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond8_des04",
+        "zh_CN": "带有此连携效果的卡牌对敌方造成伤害时，附加【3级破片】效果，持续5秒，使敌方受到此连携卡牌的伤害提升20%，攻击力降低20%，且敌方在造成伤害时，会损失2%当前生命",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond9_des02",
+        "zh_CN": "全部出阵卡牌攻击力、防御力与最大生命均提升4%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond9_des03",
+        "zh_CN": "全部出阵卡牌攻击力、防御力与最大生命均提升8%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond9_des04",
+        "zh_CN": "全部出阵卡牌攻击力、防御力与最大生命均提升12%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond9_des05",
+        "zh_CN": "全部出阵卡牌攻击力、防御力与最大生命均提升16%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond10_des02",
+        "zh_CN": "带有此连携效果的卡牌击倒敌方后，全部出阵卡牌攻击力提升27.5%，效果持续5秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond10_des03",
+        "zh_CN": "带有此连携效果的卡牌击倒敌方后，全部出阵卡牌攻击力提升40%，效果持续5秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond10_des04",
+        "zh_CN": "带有此连携效果的卡牌击倒敌方后，全部出阵卡牌攻击力提升40%，并进入隐身状态，持续5秒，卡牌受到伤害或对敌方进行攻击，都会退出隐身状态",
+        "disable": 0
+    },
+    {
+        "Key": "buff_bond11_des01",
+        "zh_CN": "此连携卡牌出阵时，自身防御力提升30%，效果持续5秒，并对敌方施加5秒【诱敌】效果，当进入休整状态后，回复其余全部出阵卡牌6%最大生命",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree01_name",
+        "zh_CN": "N倍速",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree02_name",
+        "zh_CN": "射击提升",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree03_name",
+        "zh_CN": "技能提升",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree04_name",
+        "zh_CN": "定向引力",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree06_name",
+        "zh_CN": "绒绒毛球",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree07_name",
+        "zh_CN": "多多益善",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree08_name",
+        "zh_CN": "定向引力",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree09_name",
+        "zh_CN": "N倍速",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree10_name",
+        "zh_CN": "射击提升",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree11_name",
+        "zh_CN": "技能提升",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree12_name",
+        "zh_CN": "定向引力",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree13_name",
+        "zh_CN": "绒绒毛球",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree14_name",
+        "zh_CN": "多多益善",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree15_name",
+        "zh_CN": "定向引力",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree16_name",
+        "zh_CN": "N倍速",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree17_name",
+        "zh_CN": "射击提升",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree18_name",
+        "zh_CN": "技能提升",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree19_name",
+        "zh_CN": "定向引力",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree21_name",
+        "zh_CN": "绒绒毛球",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree22_name",
+        "zh_CN": "多多益善",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree23_name",
+        "zh_CN": "定向引力",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree24_name",
+        "zh_CN": "N倍速",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree25_name",
+        "zh_CN": "射击提升",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree26_name",
+        "zh_CN": "技能提升",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree01",
+        "zh_CN": "上阵队员的移动速度提升10%\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree02",
+        "zh_CN": "上阵队员的造成的射击伤害提升20%\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree03",
+        "zh_CN": "上阵队员的技能伤害提升20%\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree04",
+        "zh_CN": "新增带有【附属幻影】卡组连携的选项，选择后获取带有该类连携的多诺卡概率提升\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree06",
+        "zh_CN": "获取毛球币的数量提升10%\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree07",
+        "zh_CN": "探索时，可存储在背包中的多诺卡数量增加15\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree08",
+        "zh_CN": "新增带有【异界斗士】卡组连携的选项，选择后获取带有该类连携的多诺卡概率提升\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree09",
+        "zh_CN": "上阵队员的移动速度提升10%\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree10",
+        "zh_CN": "上阵队员的造成的射击伤害提升20%\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree11",
+        "zh_CN": "上阵队员的技能伤害提升20%\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree12",
+        "zh_CN": "新增带有【机甲构装】卡组连携的选项，选择后获取带有该类连携的多诺卡概率提升\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree13",
+        "zh_CN": "获取毛球币的数量提升10%\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree14",
+        "zh_CN": "探索时，可存储在背包中的多诺卡数量增加15\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree15",
+        "zh_CN": "新增带有【觉醒协奏】卡组连携的选项，选择后获取带有该类连携的多诺卡概率提升\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree16",
+        "zh_CN": "上阵队员的移动速度提升10%\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree17",
+        "zh_CN": "上阵队员的造成的射击伤害提升20%\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree18",
+        "zh_CN": "上阵队员的技能伤害提升20%\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree19",
+        "zh_CN": "新增带有【奇点核心】卡组连携的选项，选择后获取带有该类连携的多诺卡概率提升\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree21",
+        "zh_CN": "获取毛球币的数量提升10%\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree22",
+        "zh_CN": "探索时，可存储在背包中的多诺卡数量增加15\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree23",
+        "zh_CN": "新增带有【巨神兵】卡组连携的选项，选择后获取带有该类连携的多诺卡概率提升\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree24",
+        "zh_CN": "上阵队员的移动速度提升10%\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree25",
+        "zh_CN": "上阵队员的造成的射击伤害提升20%\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_skill_tree26",
+        "zh_CN": "上阵队员的技能伤害提升20%\\n\\n（仅在探索多诺卡中生效）",
+        "disable": 0
+    },
+    {
+        "Key": "buff_room_convalesce01_name",
+        "zh_CN": "急救援助Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "buff_room_convalesce02_name",
+        "zh_CN": "补救措施Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "buff_room_convalesce03_name",
+        "zh_CN": "急救援助Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "buff_room_convalesce04_name",
+        "zh_CN": "补救措施Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "buff_room_adventure01_name",
+        "zh_CN": "专注·攻击Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "buff_room_adventure02_name",
+        "zh_CN": "专注·生命Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "buff_room_adventure03_name",
+        "zh_CN": "专注·防御Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "buff_room_adventure04_name",
+        "zh_CN": "专注·攻击Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "buff_room_adventure05_name",
+        "zh_CN": "专注·生命Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "buff_room_adventure06_name",
+        "zh_CN": "专注·防御Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "buff_room_convalesce01",
+        "zh_CN": "立即回复全部卡牌20%自身最大生命的生命",
+        "disable": 0
+    },
+    {
+        "Key": "buff_room_convalesce02",
+        "zh_CN": "立即结束全部卡牌的休整状态",
+        "disable": 0
+    },
+    {
+        "Key": "buff_room_convalesce03",
+        "zh_CN": "立即回复全队队员20%自身最大生命的生命",
+        "disable": 0
+    },
+    {
+        "Key": "buff_room_convalesce04",
+        "zh_CN": "随机复归1名撤退的队员",
+        "disable": 0
+    },
+    {
+        "Key": "buff_room_adventure01",
+        "zh_CN": "本次探索中，场上卡牌攻击力提升20%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_room_adventure02",
+        "zh_CN": "本次探索中，场上卡牌最大生命提升20%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_room_adventure03",
+        "zh_CN": "本次探索中，场上卡牌的防御力提升20%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_room_adventure04",
+        "zh_CN": "本次探索中，场上队员攻击力提升20%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_room_adventure05",
+        "zh_CN": "本次探索中，场上队员最大生命提升20%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_room_adventure06",
+        "zh_CN": "本次探索中，场上队员防御力提升20%",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_01",
+        "zh_CN": "常规探索",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_02",
+        "zh_CN": "进阶探索",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_03",
+        "zh_CN": "高难探索",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_04",
+        "zh_CN": "毛球币探索",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_05",
+        "zh_CN": "休整处",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_06",
+        "zh_CN": "技能重塑",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_07",
+        "zh_CN": "探索奇遇",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_08",
+        "zh_CN": "幸运转转转",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_09",
+        "zh_CN": "探索奇遇",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_10",
+        "zh_CN": "循环探索",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_11",
+        "zh_CN": "完成探索",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_01_des",
+        "zh_CN": "常规的多诺卡探索战斗，完成战斗后可以获得一定量的多诺卡及毛球币",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_02_des",
+        "zh_CN": "较难的多诺卡探索战斗，完成战斗后可以获得较多的多诺卡及毛球币",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_03_des",
+        "zh_CN": "较难的多诺卡探索战斗，完成战斗后可以获得更多的多诺卡及毛球币",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_04_des",
+        "zh_CN": "完成探索战斗后，会获得较多的毛球币",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_05_des",
+        "zh_CN": "进入后，可以为上阵队员与出阵卡牌选择1种恢复效果",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_06_des",
+        "zh_CN": "可以在此处对已获取的多诺卡进行技能重塑",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_07_des",
+        "zh_CN": "进入后可以随机获取1个增益效果，但有概率遭遇战斗",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_08_des",
+        "zh_CN": "消耗毛球币，有机会获得各类奖励",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_09_des",
+        "zh_CN": "进入后可以随机获取1个增益效果，但有概率遭遇战斗",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_10_des",
+        "zh_CN": "进入后，可以反复进行各类型探索，可以在需要的时机，选择退出并获取奖励。循环探索中，仅会获得进入时所携带的全部类型卡牌，请谨慎选择需要携带的卡牌",
+        "disable": 0
+    },
+    {
+        "Key": "room_name_11_des",
+        "zh_CN": "选择后将进入结算，结束探索",
+        "disable": 0
+    },
+    {
+        "Key": "function_name01",
+        "zh_CN": "探索多诺卡",
+        "disable": 0
+    },
+    {
+        "Key": "function_name02",
+        "zh_CN": "多诺对决",
+        "disable": 0
+    },
+    {
+        "Key": "function_name03",
+        "zh_CN": "挑战模式",
+        "disable": 0
+    },
+    {
+        "Key": "function_name04",
+        "zh_CN": "巅峰模式",
+        "disable": 0
+    },
+    {
+        "Key": "function_name05",
+        "zh_CN": "多诺卡培养",
+        "disable": 0
+    },
+    {
+        "Key": "function_name06",
+        "zh_CN": "探索加速包",
+        "disable": 0
+    },
+    {
+        "Key": "function_name07",
+        "zh_CN": "食指技",
+        "disable": 0
+    },
+    {
+        "Key": "function_name08",
+        "zh_CN": "多诺卡总览",
+        "disable": 0
+    },
+    {
+        "Key": "function_name09",
+        "zh_CN": "多诺卡技能",
+        "disable": 0
+    },
+    {
+        "Key": "function_name10",
+        "zh_CN": "卡组连携",
+        "disable": 0
+    },
+    {
+        "Key": "function_name11",
+        "zh_CN": "故事模式",
+        "disable": 0
+    },
+    {
+        "Key": "function_name01_des",
+        "zh_CN": "可以在此处与少女共同探索战斗，并获得多诺卡。战斗中可以携带多诺卡，让其作为助手加入战斗队伍",
+        "disable": 0
+    },
+    {
+        "Key": "function_name02_des",
+        "zh_CN": "多诺对决共有3种模式：故事模式、挑战模式、巅峰模式\\n从此处进入可以快速进入希望体验的模式",
+        "disable": 0
+    },
+    {
+        "Key": "function_name05_des",
+        "zh_CN": "可以在此对卡牌进行属性加点、星级提升和潜能提升，培养后的多诺卡将有更强的对决表现",
+        "disable": 0
+    },
+    {
+        "Key": "function_name06_des",
+        "zh_CN": "使用毛球币解锁探索加速包，可以让探索中获取多诺卡变得更容易",
+        "disable": 0
+    },
+    {
+        "Key": "function_name07_des",
+        "zh_CN": "在多诺对决中，分析员专用的特殊技能。在合适的时机使用，可以改变战局走向",
+        "disable": 0
+    },
+    {
+        "Key": "function_name08_des",
+        "zh_CN": "可以在此处全面了解多诺卡的属性、数值等各项信息",
+        "disable": 0
+    },
+    {
+        "Key": "function_name09_des",
+        "zh_CN": "可以在此处了解全部可嵌入多诺卡的技能效果",
+        "disable": 0
+    },
+    {
+        "Key": "function_name10_des",
+        "zh_CN": "可以在此处了解多诺卡的各种卡组连携效果",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name01",
+        "zh_CN": "沉堤石人",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name02",
+        "zh_CN": "重型武装兽",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name03",
+        "zh_CN": "钢铁猛虎",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name04",
+        "zh_CN": "再生机甲",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name05",
+        "zh_CN": "拉力侠",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name06",
+        "zh_CN": "扫地机器人",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name07",
+        "zh_CN": "黑魔战女孩",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name08",
+        "zh_CN": "漆黑断罪者",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name09",
+        "zh_CN": "烈火炮手",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name10",
+        "zh_CN": "光线融合怪",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name11",
+        "zh_CN": "螃蟹弹弓",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name12",
+        "zh_CN": "突刺终结者",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name13",
+        "zh_CN": "听不见魔导",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name14",
+        "zh_CN": "魔术台",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name15",
+        "zh_CN": "天雷马",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name16",
+        "zh_CN": "披风游侠",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name17",
+        "zh_CN": "兽角融合怪",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name18",
+        "zh_CN": "断罪奇兵",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name19",
+        "zh_CN": "无懈突击兵",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name20",
+        "zh_CN": "夏克威弗",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name01_des",
+        "zh_CN": "它喜欢走在队伍的最后，一点一点爬到擂台上，再堂堂正正地彻底击败对手。",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name02_des",
+        "zh_CN": "看起来很结实，其实也很结实的家伙。",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name03_des",
+        "zh_CN": "如果长出爪子，它会考虑再做一份战士的简历。",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name04_des",
+        "zh_CN": "穿上机甲的它曾经也在对决中所向披靡。",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name05_des",
+        "zh_CN": "它总是幻想自己是某个超级英雄，可惜，这里没有摩天楼。",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name06_des",
+        "zh_CN": "一款对决好帮手，对清理战场有独到的见解。",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name07_des",
+        "zh_CN": "超级厉害的女魔战士，凭借超高人气而活跃在多诺对决的一线。",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name08_des",
+        "zh_CN": "眼神锁定猎物，技能任由重塑，对决姿势很酷，总是享受孤独。",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name09_des",
+        "zh_CN": "成为烈火炮手前，只是一堆废铜烂铁。",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name10_des",
+        "zh_CN": "在另一款科幻游戏中，一度夺取了怪兽制空权，做成多诺卡也可以大放异彩。",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name11_des",
+        "zh_CN": "在对决中时刻保持横行霸道的风格，实力超群。",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name12_des",
+        "zh_CN": "时常怀着一击必胜的决心上战场。",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name13_des",
+        "zh_CN": "听力很差，完全依赖魔力定位的魔导师，曾因太过超模而成为了多诺卡夺冠热门。",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name14_des",
+        "zh_CN": "刻印着神秘字母的魔术炮台……",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name15_des",
+        "zh_CN": "可以释放强力魔术式的机甲，摧枯拉朽。",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name16_des",
+        "zh_CN": "喜欢跑来跑去，不知道究竟在忙些什么。",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name17_des",
+        "zh_CN": "力气很大，总是很有活力的家伙。",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name18_des",
+        "zh_CN": "擅长奇袭，是个很难搞的家伙。",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name19_des",
+        "zh_CN": "浑身都是铠甲，看起来似乎无懈可击的家伙……",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_name20_des",
+        "zh_CN": "会唱歌，还会写字的艺术家机器人。",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_101",
+        "zh_CN": "战术诱导",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_102",
+        "zh_CN": "稳健护甲",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_103",
+        "zh_CN": "围城领域",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_111",
+        "zh_CN": "痛觉反弹",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_112",
+        "zh_CN": "生命传承",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_113",
+        "zh_CN": "绝命抵挡",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_121",
+        "zh_CN": "歼灭协议",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_122",
+        "zh_CN": "能源回收",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_123",
+        "zh_CN": "战势浩荡",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_131",
+        "zh_CN": "脉冲震荡",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_132",
+        "zh_CN": "战意涌动",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_133",
+        "zh_CN": "终结冰爆",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_141",
+        "zh_CN": "炽热连击",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_142",
+        "zh_CN": "远距补贴",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_143",
+        "zh_CN": "锐气高涨",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_151",
+        "zh_CN": "定向打击",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_152",
+        "zh_CN": "重锤裂解",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_153",
+        "zh_CN": "融蚀侵袭",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_161",
+        "zh_CN": "广泛疗域",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_162",
+        "zh_CN": "激昂领域",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_163",
+        "zh_CN": "锈蚀防护",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_171",
+        "zh_CN": "即刻爆破",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_172",
+        "zh_CN": "中心强化",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_173",
+        "zh_CN": "创伤印记",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_181",
+        "zh_CN": "间歇强击",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_182",
+        "zh_CN": "死线宣告",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_183",
+        "zh_CN": "玻璃弹珠",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_191",
+        "zh_CN": "匿行猎杀",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_192",
+        "zh_CN": "卷土重来",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_193",
+        "zh_CN": "跟踪追击",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_101_des",
+        "zh_CN": "对自身2.5米范围内的目标施加【诱敌】效果，自身受到的最终伤害降低10%，效果持续5秒，触发间隔15秒",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_102_des",
+        "zh_CN": "受到伤害时，获得【坚韧】效果，使自身防御力提升5%，效果持续5秒，该效果最多叠加3层，【坚韧】叠满层后自身受到的最终伤害降低3%",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_103_des",
+        "zh_CN": "被施加【诱敌】效果的敌方目标攻击力降低20%，受治疗效果降低15%",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_111_des",
+        "zh_CN": "受到敌方伤害的40%将会返还给该敌方，效果持续5秒，触发间隔10秒",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_112_des",
+        "zh_CN": "生命首次低于50%时，自身与距离自身距离最近的友方受到治疗，回复20%自身最大生命的生命",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_113_des",
+        "zh_CN": "生命低于30%后，可以免疫1次受到的致命伤害，随后获得1秒无敌效果，1回合对决内仅生效1次",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_121_des",
+        "zh_CN": "对自身2.5米范围内，包含附属单位的全部敌方目标造成伤害时，伤害提升30%",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_122_des",
+        "zh_CN": "造成伤害时，回复造成伤害总量11%的生命",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_123_des",
+        "zh_CN": "每击倒1个敌方，将会获得1个【声势】标记，使自身攻击力与防御力提升4%，最多叠加5层",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_131_des",
+        "zh_CN": "对自身2.5米范围内的目标，造成1次攻击力300%的伤害，触发间隔4秒",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_132_des",
+        "zh_CN": "自身2.5米范围内有2个及以上的敌方时，自身攻击力与防御力均提升15%",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_133_des",
+        "zh_CN": "进入休整状态时，对敌方造成自身攻击力1375%的低温类型伤害，并施加持续4秒的冻结效果",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_141_des",
+        "zh_CN": "连续攻击敌方4次，每次攻击造成自身攻击力120%的高热类型伤害，【远攻手】类连携卡牌触发间隔5秒，其他卡牌触发间隔10秒",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_142_des",
+        "zh_CN": "对敌方造成伤害时，若敌方距离自身大于5米，则伤害提升36%",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_143_des",
+        "zh_CN": "每次对敌方造成伤害，会获得1层【锐气】效果，自身攻击力提升10%，效果持续5秒，【锐气】效果最多可叠加3层",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_151_des",
+        "zh_CN": "对距离自身一定范围的任意1个敌方目标造成攻击力220%的高热类型伤害，目标受治疗效果降低20%，持续5秒，触发间隔5秒",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_152_des",
+        "zh_CN": "对敌方造成伤害时，为其施加【裂纹】效果，持续3秒。当【裂纹】叠加至4层时，对目标造成1次其生命值10%的伤害，并清空【裂纹】效果。清空后，该敌方10秒内不可被再次施加【裂纹】效果",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_153_des",
+        "zh_CN": "对敌方造成伤害时，为其施加【熔蚀】效果，当其再次受到伤害时，受到伤害提升15%，随后清空【熔蚀】效果。清空后，该敌方10秒内不可被再次施加【熔蚀】效果",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_161_des",
+        "zh_CN": "对自身2.5米范围内，包含自身在内至多3个我方卡牌施加【治愈】效果，回复自身攻击力100%的生命，触发间隔5秒",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_162_des",
+        "zh_CN": "自身5米范围内的全部友方攻击力提升17.5%",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_163_des",
+        "zh_CN": "对敌方造成伤害时，使目标防御力降低24%，效果持续3秒",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_171_des",
+        "zh_CN": "对敌方放出1个【碰碰弹】，接触敌方后引爆，对2.5米范围内的全部敌方造成自身攻击力350%的高热类型伤害，触发间隔5秒",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_172_des",
+        "zh_CN": "自身2.5米范围内每存在1个友方单位，自身伤害提升9%，伤害最多提升36%",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_173_des",
+        "zh_CN": "对敌方造成伤害时，目标受治疗效果降低30%，效果持续3秒",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_181_des",
+        "zh_CN": "对敌方造成1次攻击力200%的伤害，触发间隔6秒",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_182_des",
+        "zh_CN": "当敌方生命低于10%时，对其造成伤害可将其直接击倒，触发间隔15秒",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_183_des",
+        "zh_CN": "攻击力提升60%，防御力降低24%",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_191_des",
+        "zh_CN": "【战术家】类连携卡牌击倒敌方目标后，进入隐身状态，效果持续10秒，其他卡牌持续时间减半，该效果触发间隔10秒。当卡牌受到伤害或对敌方进行攻击，都会退出隐身状态",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_192_des",
+        "zh_CN": "退出隐身状态后，首次使用技能命中敌方时，额外对其造成自身攻击力950%的伤害",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_193_des",
+        "zh_CN": "对生命低于50%的敌方造成的伤害提升40%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_arena_level01",
+        "zh_CN": "我方<span color=\"#d6f753\">【防御者】</>类连携卡牌每损失10%生命值，防御力提升5%；当场上有我方此类连携卡牌进入休整状态后，我方全队回复5%自身最大生命",
+        "disable": 0
+    },
+    {
+        "Key": "buff_arena_level02",
+        "zh_CN": "我方<span color=\"#d6f753\">【近战士】</>类连携卡牌生命低于50%时，每次攻击可回复自身造成伤害总量10%的生命；当场上有我方此类连携卡牌进入休整状态后，我方全队攻击力提升5%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_arena_level03",
+        "zh_CN": "<span color=\"#d6f753\">【远攻手】</>类连携卡牌对敌方造成伤害时，有50%概率施加易伤效果，使其5秒内受到的伤害提升30%，当场上我方有此类连携卡牌进入休整状态后，全队无视敌方25%防御力，效果持续5秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_arena_level04",
+        "zh_CN": "<span color=\"#d6f753\">【异术师】</>类连携卡牌对敌方造成伤害时，有10%概率使其进入被控制状态，效果持续5秒；当场上有我方此类连携卡牌进入休整状态后，对全部敌方施加【眩晕】效果，效果持续5秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_arena_level05",
+        "zh_CN": "我方每多出阵1个<span color=\"#d6f753\">【战术家】</>类连携卡牌，其攻击力提升5%；我方此类连携卡牌受到伤害时，有5%的概率获得50%伤害减免；当场上有我方此类连携卡进入休整状态后，全队获得10%的伤害减免，效果持续10秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_arena_level06",
+        "zh_CN": "敌方目标被施加【诱敌】效果时，防御力降低20%；我方将其击倒后，攻击力提升10%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_arena_level07",
+        "zh_CN": "我方将受到的伤害返还给敌方时，回复自身1%最大生命，触发间隔2秒；我方受到治疗时，攻击力提升25%，效果持续5秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_arena_level08",
+        "zh_CN": "对敌方造成伤害时，有5%概率提高自身1%攻击力；场上每倒下1个敌方目标，我方全队受治疗效果提升10%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_arena_level09",
+        "zh_CN": "对敌方造成伤害时，有5%概率对其施加【冰冻】效果，持续1秒，对处于【冰冻】效果的敌方造成的伤害提升30%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_arena_level10",
+        "zh_CN": "我方对自身3米范围以外的敌方造成的伤害提升30%；受到自身3米范围以内的敌方攻击时，防御力提升20%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_arena_level11",
+        "zh_CN": "对敌方造成的高热类型伤害提升20%；对自身5米范围以外的敌方，造成的高热伤害再次提升50%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_arena_level12",
+        "zh_CN": "受治疗效果提升20%；敌方处于被控制状态时，受到的伤害提升15%，效果持续3秒",
+        "disable": 0
+    },
+    {
+        "Key": "buff_arena_level13",
+        "zh_CN": "场上每存在1个附属单位，我方全队攻击力与最大生命提升5%，至多可提升25%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_arena_level14",
+        "zh_CN": "场上每有1个敌方目标倒下，我方全队防御力提升10%，且受治疗效果提升5%",
+        "disable": 0
+    },
+    {
+        "Key": "buff_arena_level15",
+        "zh_CN": "我方退出隐身状态后，在5秒内击倒敌方目标，可恢复自身攻击力100%的生命",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_tag01",
+        "zh_CN": "防御者",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_tag02",
+        "zh_CN": "近战士",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_tag03",
+        "zh_CN": "远攻手",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_tag04",
+        "zh_CN": "异术师",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_tag05",
+        "zh_CN": "战术家",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_tag10",
+        "zh_CN": "超距贯穿",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_tag11",
+        "zh_CN": "远域力场",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_tag12",
+        "zh_CN": "刚毅啸叫",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_tag13",
+        "zh_CN": "硬质反伤",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_tag14",
+        "zh_CN": "狂涛战意",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_tag15",
+        "zh_CN": "集中爆破",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_tag16",
+        "zh_CN": "猎意共鸣",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_tag17",
+        "zh_CN": "边界打击",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_tag18",
+        "zh_CN": "狂野一斩",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_skill_tag19",
+        "zh_CN": "噬猎影遁",
+        "disable": 0
+    },
+    {
+        "Key": "leaderskill_01_name",
+        "zh_CN": "打完下班",
+        "disable": 0
+    },
+    {
+        "Key": "leaderskill_02_name",
+        "zh_CN": "生命的馈赠",
+        "disable": 0
+    },
+    {
+        "Key": "leaderskill_03_name",
+        "zh_CN": "我来助你",
+        "disable": 0
+    },
+    {
+        "Key": "leaderskill_04_name",
+        "zh_CN": "一级震慑",
+        "disable": 0
+    },
+    {
+        "Key": "leaderskill_05_name",
+        "zh_CN": "时间线操控",
+        "disable": 0
+    },
+    {
+        "Key": "leaderskill_06_name",
+        "zh_CN": "降下天罚",
+        "disable": 0
+    },
+    {
+        "Key": "leaderskill_01_des",
+        "zh_CN": "使用后，提升全部上阵卡牌75%的攻击力，效果持续10秒，触发间隔30秒",
+        "disable": 0
+    },
+    {
+        "Key": "leaderskill_02_des",
+        "zh_CN": "使用后，恢复全部上阵卡牌40%的生命，触发间隔30秒",
+        "disable": 0
+    },
+    {
+        "Key": "leaderskill_03_des",
+        "zh_CN": "使用后，清除全部上阵卡牌的负面效果，使其受到的伤害降低50%，持续10秒，触发间隔30秒",
+        "disable": 0
+    },
+    {
+        "Key": "leaderskill_04_des",
+        "zh_CN": "使用后，全部敌方卡牌在10秒内无法释放技能，触发间隔30秒",
+        "disable": 0
+    },
+    {
+        "Key": "leaderskill_05_des",
+        "zh_CN": "使用后，全部敌方卡牌在5秒内停止动作，触发间隔30秒",
+        "disable": 0
+    },
+    {
+        "Key": "leaderskill_06_des",
+        "zh_CN": "使用后，在场上降下3道雷光，随机对3个敌方卡牌造成3次伤害，触发间隔30秒",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name101",
+        "zh_CN": "入坑仪式",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name102",
+        "zh_CN": "正式学习1",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name103",
+        "zh_CN": "正式学习2",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name104",
+        "zh_CN": "正式学习3",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name105",
+        "zh_CN": "正式学习4",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name106",
+        "zh_CN": "正式学习5",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name107",
+        "zh_CN": "正式学习6",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name108",
+        "zh_CN": "正式学习7",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name109",
+        "zh_CN": "对决，开始",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name110",
+        "zh_CN": "她更爱的“游戏”",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name111",
+        "zh_CN": "艰难的选择",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name112",
+        "zh_CN": "新的记录",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name113",
+        "zh_CN": "逃课打法",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name114",
+        "zh_CN": "为记忆搬家",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name101_des",
+        "zh_CN": "回到基地后，安卡希雅似乎一直忙于准备什么。今天，她郑重地邀请你去一个地方，准备对你说一件很重要的事情。",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name102_des",
+        "zh_CN": "让安卡希雅如此沉迷的多诺卡到底是什么样的游戏，体验过了才会更加清楚。",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name103_des",
+        "zh_CN": "既然安卡希雅已经做了这么多的准备工作，那就试着进一步了解她所喜爱的多诺卡吧。",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name104_des",
+        "zh_CN": "既然安卡希雅已经做了这么多的准备工作，那就试着进一步了解她所喜爱的多诺卡吧。",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name105_des",
+        "zh_CN": "既然安卡希雅已经做了这么多的准备工作，那就试着进一步了解她所喜爱的多诺卡吧。",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name106_des",
+        "zh_CN": "既然安卡希雅已经做了这么多的准备工作，那就试着进一步了解她所喜爱的多诺卡吧。",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name107_des",
+        "zh_CN": "既然安卡希雅已经做了这么多的准备工作，那就试着进一步了解她所喜爱的多诺卡吧。",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name108_des",
+        "zh_CN": "既然安卡希雅已经做了这么多的准备工作，那就试着进一步了解她所喜爱的多诺卡吧。",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name109_des",
+        "zh_CN": "在完成了所有多诺卡相关的规则学习后，入坑仪式也完满结束。那么，就开始对决吧。",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name110_des",
+        "zh_CN": "虽然茉莉安也加入到了多诺卡入坑仪式的队伍中，但她似乎不是奔着卡牌来的……",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name111_des",
+        "zh_CN": "咕咕哝哝的米娅揉搓着自己毛茸茸的头发，似乎在进行一场艰难的选择。",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name112_des",
+        "zh_CN": "瑟瑞斯仍然保持着记录任何小事的习惯，但从刚刚开始，她就在反复看同一页笔记了……",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name113_des",
+        "zh_CN": "不知道肴已经睡了多久，这会儿她正在半睁睡眼望着你，她真的是来玩多诺卡的吗？",
+        "disable": 0
+    },
+    {
+        "Key": "task_main_name114_des",
+        "zh_CN": "安卡希雅最终还是鼓起勇气，和你说出了她的心愿。",
+        "disable": 0
+    },
+    {
+        "Key": "task_side01_name201",
+        "zh_CN": "探索达人1",
+        "disable": 0
+    },
+    {
+        "Key": "task_side01_name202",
+        "zh_CN": "探索达人2",
+        "disable": 0
+    },
+    {
+        "Key": "task_side01_name203",
+        "zh_CN": "探索达人3",
+        "disable": 0
+    },
+    {
+        "Key": "task_side01_name201_des",
+        "zh_CN": "想要在对决中有更多可选的强力多诺卡，也许要先经历一番试炼……",
+        "disable": 0
+    },
+    {
+        "Key": "task_side01_name202_des",
+        "zh_CN": "想要在对决中有更多可选的强力多诺卡，也许要先经历一番试炼……",
+        "disable": 0
+    },
+    {
+        "Key": "task_side01_name203_des",
+        "zh_CN": "想要在对决中有更多可选的强力多诺卡，也许要先经历一番试炼……",
+        "disable": 0
+    },
+    {
+        "Key": "task_side02_name301",
+        "zh_CN": "养成之路1",
+        "disable": 0
+    },
+    {
+        "Key": "task_side02_name302",
+        "zh_CN": "养成之路2",
+        "disable": 0
+    },
+    {
+        "Key": "task_side02_name303",
+        "zh_CN": "养成之路3",
+        "disable": 0
+    },
+    {
+        "Key": "task_side02_name304",
+        "zh_CN": "养成之路4",
+        "disable": 0
+    },
+    {
+        "Key": "task_side02_name305",
+        "zh_CN": "养成之路5",
+        "disable": 0
+    },
+    {
+        "Key": "task_side02_name306",
+        "zh_CN": "养成之路6",
+        "disable": 0
+    },
+    {
+        "Key": "task_side02_name307",
+        "zh_CN": "养成之路7",
+        "disable": 0
+    },
+    {
+        "Key": "task_side02_name308",
+        "zh_CN": "养成之路8",
+        "disable": 0
+    },
+    {
+        "Key": "task_side02_name309",
+        "zh_CN": "养成之路9",
+        "disable": 0
+    },
+    {
+        "Key": "task_side02_name301_des",
+        "zh_CN": "想让多诺卡在对决中有更好的战斗表现，需要对卡牌进行全面细致的培养，这是一个不小的挑战。",
+        "disable": 0
+    },
+    {
+        "Key": "task_side02_name302_des",
+        "zh_CN": "想让多诺卡在对决中有更好的战斗表现，需要对卡牌进行全面细致的培养，这是一个不小的挑战。",
+        "disable": 0
+    },
+    {
+        "Key": "task_side02_name303_des",
+        "zh_CN": "想让多诺卡在对决中有更好的战斗表现，需要对卡牌进行全面细致的培养，这是一个不小的挑战。",
+        "disable": 0
+    },
+    {
+        "Key": "task_side02_name304_des",
+        "zh_CN": "想让多诺卡在对决中有更好的战斗表现，需要对卡牌进行全面细致的培养，这是一个不小的挑战。",
+        "disable": 0
+    },
+    {
+        "Key": "task_side02_name305_des",
+        "zh_CN": "想让多诺卡在对决中有更好的战斗表现，需要对卡牌进行全面细致的培养，这是一个不小的挑战。",
+        "disable": 0
+    },
+    {
+        "Key": "task_side02_name306_des",
+        "zh_CN": "想让多诺卡在对决中有更好的战斗表现，需要对卡牌进行全面细致的培养，这是一个不小的挑战。",
+        "disable": 0
+    },
+    {
+        "Key": "task_side02_name307_des",
+        "zh_CN": "想让多诺卡在对决中有更好的战斗表现，需要对卡牌进行全面细致的培养，这是一个不小的挑战。",
+        "disable": 0
+    },
+    {
+        "Key": "task_side02_name308_des",
+        "zh_CN": "想让多诺卡在对决中有更好的战斗表现，需要对卡牌进行全面细致的培养，这是一个不小的挑战。",
+        "disable": 0
+    },
+    {
+        "Key": "task_side02_name309_des",
+        "zh_CN": "想让多诺卡在对决中有更好的战斗表现，需要对卡牌进行全面细致的培养，这是一个不小的挑战。",
+        "disable": 0
+    },
+    {
+        "Key": "task_side04_name401",
+        "zh_CN": "“普通”的多诺卡？",
+        "disable": 0
+    },
+    {
+        "Key": "task_side04_name402",
+        "zh_CN": "专注培养1",
+        "disable": 0
+    },
+    {
+        "Key": "task_side04_name403",
+        "zh_CN": "崭露头角",
+        "disable": 0
+    },
+    {
+        "Key": "task_side04_name404",
+        "zh_CN": "专注培养2",
+        "disable": 0
+    },
+    {
+        "Key": "task_side04_name405",
+        "zh_CN": "专注培养3",
+        "disable": 0
+    },
+    {
+        "Key": "task_side04_name406",
+        "zh_CN": "隐藏的“完美卡牌”",
+        "disable": 0
+    },
+    {
+        "Key": "task_side04_name401_des",
+        "zh_CN": "在进行了多场对决后，得到的奖励却是一张看起来非常普通的多诺卡，不过你却不这么认为……",
+        "disable": 0
+    },
+    {
+        "Key": "task_side04_name402_des",
+        "zh_CN": "在进行了多场对决后，得到的奖励却是一张看起来非常普通的多诺卡，不过你却不这么认为……",
+        "disable": 0
+    },
+    {
+        "Key": "task_side04_name403_des",
+        "zh_CN": "在你的专注培养之下，这张多诺卡的表现似乎已经发生了质的变化。",
+        "disable": 0
+    },
+    {
+        "Key": "task_side04_name404_des",
+        "zh_CN": "既然如此，何不再增加一点专注培养，看看它最终会成长到什么程度？",
+        "disable": 0
+    },
+    {
+        "Key": "task_side04_name405_des",
+        "zh_CN": "既然如此，何不再增加一点专注培养，看看它最终会成长到什么程度？",
+        "disable": 0
+    },
+    {
+        "Key": "task_side04_name406_des",
+        "zh_CN": "检验这张卡牌最终成长的时刻到了……",
+        "disable": 0
+    },
+    {
+        "Key": "task_side05_name501",
+        "zh_CN": "挑战之路1",
+        "disable": 0
+    },
+    {
+        "Key": "task_side05_name502",
+        "zh_CN": "挑战之路2",
+        "disable": 0
+    },
+    {
+        "Key": "task_side05_name503",
+        "zh_CN": "挑战之路3",
+        "disable": 0
+    },
+    {
+        "Key": "task_side05_name504",
+        "zh_CN": "挑战之路4",
+        "disable": 0
+    },
+    {
+        "Key": "task_side05_name505",
+        "zh_CN": "挑战之路5",
+        "disable": 0
+    },
+    {
+        "Key": "task_side05_name501_des",
+        "zh_CN": "一生的游戏搭子安卡希雅向你发来了对决邀请，请全力以赴进行一场畅快的对决吧。",
+        "disable": 0
+    },
+    {
+        "Key": "task_side05_name502_des",
+        "zh_CN": "一生的游戏搭子安卡希雅向你发来了对决邀请，请全力以赴进行一场畅快的对决吧。",
+        "disable": 0
+    },
+    {
+        "Key": "task_side05_name503_des",
+        "zh_CN": "一生的游戏搭子安卡希雅向你发来了对决邀请，请全力以赴进行一场畅快的对决吧。",
+        "disable": 0
+    },
+    {
+        "Key": "task_side05_name504_des",
+        "zh_CN": "一生的游戏搭子安卡希雅向你发来了对决邀请，请全力以赴进行一场畅快的对决吧。",
+        "disable": 0
+    },
+    {
+        "Key": "task_side05_name505_des",
+        "zh_CN": "一生的游戏搭子安卡希雅向你发来了对决邀请，请全力以赴进行一场畅快的对决吧。",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name601",
+        "zh_CN": "技多不压身1",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name602",
+        "zh_CN": "技多不压身2",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name603",
+        "zh_CN": "技多不压身3",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name604",
+        "zh_CN": "技多不压身4",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name605",
+        "zh_CN": "技多不压身5",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name606",
+        "zh_CN": "多诺卡培养大师1",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name607",
+        "zh_CN": "多诺卡培养大师2",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name608",
+        "zh_CN": "多诺卡培养大师3",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name609",
+        "zh_CN": "多诺卡培养大师4",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name610",
+        "zh_CN": "多诺卡培养大师5",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name611",
+        "zh_CN": "多诺卡培养大师6",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name612",
+        "zh_CN": "多诺卡培养大师7",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name613",
+        "zh_CN": "多诺卡培养大师8",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name614",
+        "zh_CN": "多诺卡培养大师9",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name615",
+        "zh_CN": "多诺卡培养大师10",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name616",
+        "zh_CN": "多诺卡培养大师11",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name617",
+        "zh_CN": "多诺卡培养大师12",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name618",
+        "zh_CN": "多诺卡培养大师13",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name619",
+        "zh_CN": "多诺卡培养大师14",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name620",
+        "zh_CN": "多诺卡培养大师15",
+        "disable": 0
+    },
+    {
+        "Key": "task_atlas_name621",
+        "zh_CN": "多诺卡培养大师16",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition101",
+        "zh_CN": "应安卡希雅的邀请来到多诺卡牌房间",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition102",
+        "zh_CN": "体验多诺对决   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition103",
+        "zh_CN": "前往获取多诺卡   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition104",
+        "zh_CN": "前往进行潜能提升   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition105",
+        "zh_CN": "前往携带食指技后，和安卡希雅聊聊   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition106",
+        "zh_CN": "完成1次多诺对决后，和安卡希雅聊聊   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition107",
+        "zh_CN": "激活1个探索加速包   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition108",
+        "zh_CN": "完成1次多诺卡探索   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition109",
+        "zh_CN": "正式进行多诺对决   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition110",
+        "zh_CN": "完成对决后，和茉莉安聊聊   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition111",
+        "zh_CN": "完成对决后，和米娅聊聊   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition112",
+        "zh_CN": "完成对决后，和瑟瑞斯聊聊   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition113",
+        "zh_CN": "完成对决后，和肴聊聊   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition114",
+        "zh_CN": "完成对决后，和安卡希雅聊聊   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition201",
+        "zh_CN": "在探索多诺卡中到达第2阶第3区   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition202",
+        "zh_CN": "在探索多诺卡中到达第3阶第3区   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition203",
+        "zh_CN": "在探索多诺卡中到达第4阶第10区   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition301",
+        "zh_CN": "将任意5张多诺卡升级至2星   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition302",
+        "zh_CN": "将任意5张多诺卡的潜能升级至绿色   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition303",
+        "zh_CN": "将任意5张多诺卡升级至3星   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition304",
+        "zh_CN": "将任意5张多诺卡的潜能升级至蓝色   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition305",
+        "zh_CN": "将任意5张多诺卡的潜能升级至紫色   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition306",
+        "zh_CN": "将任意5张多诺卡升级至4星   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition307",
+        "zh_CN": "将任意5张多诺卡的潜能升级至橙色   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition308",
+        "zh_CN": "将任意5张多诺卡升级至5星   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition309",
+        "zh_CN": "将任意5张多诺卡的潜能升级至红色   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition401",
+        "zh_CN": "将【重型武装兽】提升至2星   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition402",
+        "zh_CN": "将【重型武装兽】提升至3星   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition403",
+        "zh_CN": "出阵【重型武装兽】，在【巅峰模式】中累计击倒5个敌方目标   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition404",
+        "zh_CN": "将【重型武装兽】提升至4星   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition405",
+        "zh_CN": "将【重型武装兽】提升至5星   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition406",
+        "zh_CN": "出阵【重型武装兽】，在【巅峰模式】中累计击倒15个敌方目标   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition501",
+        "zh_CN": "完成挑战模式第1关   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition502",
+        "zh_CN": "完成挑战模式第2关   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition503",
+        "zh_CN": "完成挑战模式第3关   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition504",
+        "zh_CN": "完成挑战模式第4关   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition505",
+        "zh_CN": "完成挑战模式第5关   {1}/{2}",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition601",
+        "zh_CN": "累计为多诺卡嵌入技能2次",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition602",
+        "zh_CN": "累计为多诺卡嵌入技能10次",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition603",
+        "zh_CN": "累计为多诺卡嵌入技能20次",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition604",
+        "zh_CN": "累计为多诺卡嵌入技能30次",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition605",
+        "zh_CN": "累计为多诺卡提升2次星级",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition606",
+        "zh_CN": "累计为多诺卡提升10次星级",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition607",
+        "zh_CN": "累计为多诺卡提升20次星级",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition608",
+        "zh_CN": "累计为多诺卡提升40次星级",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition609",
+        "zh_CN": "累计为多诺卡提升2次潜能",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition610",
+        "zh_CN": "累计为多诺卡提升10次潜能",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition611",
+        "zh_CN": "累计为多诺卡提升20次潜能",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition612",
+        "zh_CN": "累计为多诺卡提升40次潜能",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition613",
+        "zh_CN": "累计拥有1张红色潜能的多诺卡",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition614",
+        "zh_CN": "累计拥有1张5星多诺卡",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition615",
+        "zh_CN": "累计拥有5张红色潜能的多诺卡",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition616",
+        "zh_CN": "累计拥有5张5星多诺卡",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition617",
+        "zh_CN": "累计拥有10张红色潜能的多诺卡",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition618",
+        "zh_CN": "累计拥有10张5星多诺卡",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition619",
+        "zh_CN": "累计拥有15张红色潜能的多诺卡",
+        "disable": 0
+    },
+    {
+        "Key": "task_condition620",
+        "zh_CN": "累计拥有15张5星多诺卡",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_sort01",
+        "zh_CN": "星级",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_sort02",
+        "zh_CN": "潜能",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_sort03",
+        "zh_CN": "卡组连携",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_sort04",
+        "zh_CN": "攻击",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_sort05",
+        "zh_CN": "防御",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_sort06",
+        "zh_CN": "生命",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter00",
+        "zh_CN": "全部",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter01",
+        "zh_CN": "防御者",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter02",
+        "zh_CN": "近战士",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter03",
+        "zh_CN": "远攻手",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter04",
+        "zh_CN": "异术师",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter05",
+        "zh_CN": "战术家",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter06",
+        "zh_CN": "附属幻影",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter07",
+        "zh_CN": "异界斗士",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter08",
+        "zh_CN": "机甲构装",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter09",
+        "zh_CN": "觉醒协奏",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter10",
+        "zh_CN": "奇点核心",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter11",
+        "zh_CN": "巨神兵",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter12",
+        "zh_CN": "1星",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter13",
+        "zh_CN": "2星",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter14",
+        "zh_CN": "3星",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter15",
+        "zh_CN": "4星",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter16",
+        "zh_CN": "5星",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter17",
+        "zh_CN": "白色",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter18",
+        "zh_CN": "绿色",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter19",
+        "zh_CN": "蓝色",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter20",
+        "zh_CN": "紫色",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter21",
+        "zh_CN": "橙色",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_filter22",
+        "zh_CN": "红色",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_star",
+        "zh_CN": "星级提升",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_upgrade",
+        "zh_CN": "多诺卡加点",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_potential",
+        "zh_CN": "潜能提升",
+        "disable": 0
+    },
+    {
+        "Key": "ui_herocard_skill",
+        "zh_CN": "技能重塑",
+        "disable": 0
+    },
+    {
+        "Key": "ui_guide_herocard",
+        "zh_CN": "多诺卡总览",
+        "disable": 0
+    },
+    {
+        "Key": "ui_guide_skill",
+        "zh_CN": "多诺卡技能",
+        "disable": 0
+    },
+    {
+        "Key": "ui_guide_bond",
+        "zh_CN": "卡组连携",
+        "disable": 0
+    },
+    {
+        "Key": "ui_guide_task",
+        "zh_CN": "收集详情",
+        "disable": 0
+    },
+    {
+        "Key": "ui_bag_herocard_star1",
+        "zh_CN": "1星",
+        "disable": 0
+    },
+    {
+        "Key": "ui_bag_herocard_star2",
+        "zh_CN": "2星",
+        "disable": 0
+    },
+    {
+        "Key": "ui_bag_herocard_star3",
+        "zh_CN": "3星",
+        "disable": 0
+    },
+    {
+        "Key": "ui_bag_herocard_star4",
+        "zh_CN": "4星",
+        "disable": 0
+    },
+    {
+        "Key": "ui_bag_herocard_star5",
+        "zh_CN": "5星",
+        "disable": 0
+    },
+    {
+        "Key": "ui_bag_herocard_selected",
+        "zh_CN": "已选{1}",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_name01",
+        "zh_CN": "各类卡组连携的卡牌出现概率持平",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_name02",
+        "zh_CN": "带有【防御者】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_name03",
+        "zh_CN": "带有【近战士】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_name04",
+        "zh_CN": "带有【远攻手】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_name05",
+        "zh_CN": "带有【异术师】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_name06",
+        "zh_CN": "带有【战术家】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_name07",
+        "zh_CN": "带有【附属幻影】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_name08",
+        "zh_CN": "带有【异界斗士】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_name09",
+        "zh_CN": "带有【机甲构装】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_name10",
+        "zh_CN": "带有【觉醒协奏】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_name11",
+        "zh_CN": "带有【奇点核心】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_name12",
+        "zh_CN": "带有【巨神兵】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_desc01",
+        "zh_CN": "各类卡组连携的卡牌出现概率持平",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_desc02",
+        "zh_CN": "带有【防御者】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_desc03",
+        "zh_CN": "带有【近战士】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_desc04",
+        "zh_CN": "带有【远攻手】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_desc05",
+        "zh_CN": "带有【异术师】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_desc06",
+        "zh_CN": "带有【战术家】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_desc07",
+        "zh_CN": "带有【附属幻影】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_desc08",
+        "zh_CN": "带有【异界斗士】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_desc09",
+        "zh_CN": "带有【机甲构装】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_desc10",
+        "zh_CN": "带有【觉醒协奏】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_desc11",
+        "zh_CN": "带有【奇点核心】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "initial_option_desc12",
+        "zh_CN": "带有【巨神兵】卡组连携的卡牌出现概率提升",
+        "disable": 0
+    },
+    {
+        "Key": "location_duel_location1",
+        "zh_CN": "多诺对决",
+        "disable": 0
+    },
+    {
+        "Key": "location_duel_location2",
+        "zh_CN": "食指技",
+        "disable": 0
+    },
+    {
+        "Key": "location_duel_location3",
+        "zh_CN": "探索加速包",
+        "disable": 0
+    },
+    {
+        "Key": "location_duel_location4",
+        "zh_CN": "多诺卡培养",
+        "disable": 0
+    },
+    {
+        "Key": "location_duel_location5",
+        "zh_CN": "探索多诺卡",
+        "disable": 0
+    },
+    {
+        "Key": "location_duel_location6",
+        "zh_CN": "多诺卡技能",
+        "disable": 0
+    },
+    {
+        "Key": "location_duel_location7",
+        "zh_CN": "卡组连携",
+        "disable": 0
+    },
+    {
+        "Key": "location_duel_location8",
+        "zh_CN": "多诺卡总览",
+        "disable": 0
+    },
+    {
+        "Key": "rogue_progress",
+        "zh_CN": "第{1}阶第{2}区",
+        "disable": 0
+    },
+    {
+        "Key": "one_click_title",
+        "zh_CN": "一键提升",
+        "disable": 0
+    },
+    {
+        "Key": "one_click_desc",
+        "zh_CN": "使用全部不高于选中卡牌星级的素材，快速为选中卡牌提升1星级",
+        "disable": 0
+    },
+    {
+        "Key": "star_upgrade_max",
+        "zh_CN": "已达当前最大值",
+        "disable": 0
+    },
+    {
+        "Key": "attribute_upgrade_max",
+        "zh_CN": "已达当前最大值",
+        "disable": 0
+    },
+    {
+        "Key": "quality_upgrade_max",
+        "zh_CN": "已达到潜能上限",
+        "disable": 0
+    },
+    {
+        "Key": "attribute_upgrade_interval",
+        "zh_CN": "加点数值随机<span color=\"#227014FF\">（{1}-{2}）</>",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_star_upgrade",
+        "zh_CN": "已经提升星级，{1}已更新高阶形态",
+        "disable": 0
+    },
+    {
+        "Key": "herocard_star_material",
+        "zh_CN": "暂无可使用的多诺卡",
+        "disable": 0
+    },
+    {
+        "Key": "quality_upgrade_condition01",
+        "zh_CN": "已达到潜能上限",
+        "disable": 0
+    },
+    {
+        "Key": "quality_upgrade_condition02",
+        "zh_CN": "完成【{1}】对决后解锁",
+        "disable": 0
+    },
+    {
+        "Key": "skilltree_activated",
+        "zh_CN": "已获取",
+        "disable": 0
+    },
+    {
+        "Key": "skilltree_unlocked",
+        "zh_CN": "前置探索加速包未获取",
+        "disable": 0
+    },
+    {
+        "Key": "donorogue_enter",
+        "zh_CN": "进入",
+        "disable": 0
+    },
+    {
+        "Key": "donorogue_exit",
+        "zh_CN": "结算退出",
+        "disable": 0
+    },
+    {
+        "Key": "quality_upgrade_unlocked",
+        "zh_CN": "潜能上限已提高",
+        "disable": 0
+    },
+    {
+        "Key": "unlocked_quality",
+        "zh_CN": "可进行提升",
+        "disable": 0
+    },
+    {
+        "Key": "leaderskill_unlocked",
+        "zh_CN": "新的食指技【{1}】",
+        "disable": 0
+    },
+    {
+        "Key": "unlocked_prompt",
+        "zh_CN": "已解锁",
+        "disable": 0
+    },
+    {
+        "Key": "function_unlocked",
+        "zh_CN": [
+            1
+        ],
+        "disable": 0
+    },
+    {
+        "Key": "unlocked_function",
+        "zh_CN": "已开放",
+        "disable": 0
+    },
+    {
+        "Key": "enemy_details",
+        "zh_CN": "第{1}回合",
+        "disable": 0
+    },
+    {
+        "Key": "text_floating_01",
+        "zh_CN": "无法继续获取卡牌，请前往多诺卡培养或背包处理",
+        "disable": 0
+    },
+    {
+        "Key": "text_floating_03",
+        "zh_CN": "当前可使用卡牌不足，无法提升星级",
+        "disable": 0
+    },
+    {
+        "Key": "text_floating_04",
+        "zh_CN": "暂无任何卡牌出阵，无法进入对决",
+        "disable": 0
+    },
+    {
+        "Key": "text_floating_05",
+        "zh_CN": "存在被锁定的卡牌，无法进行拆解",
+        "disable": 0
+    },
+    {
+        "Key": "text_floating_06",
+        "zh_CN": "通过提升卡牌星级，可以解锁更多技能栏位",
+        "disable": 0
+    },
+    {
+        "Key": "text_floating_07",
+        "zh_CN": "当前卡牌未嵌入技能，无法进行技能重塑",
+        "disable": 0
+    },
+    {
+        "Key": "text_floating_08",
+        "zh_CN": "嵌入技能已被锁定，无法进行技能重塑",
+        "disable": 0
+    },
+    {
+        "Key": "text_floating_09",
+        "zh_CN": "%s不足",
+        "disable": 0
+    },
+    {
+        "Key": "text_floating_10",
+        "zh_CN": "请选择要拆解的多诺卡",
+        "disable": 0
+    },
+    {
+        "Key": "text_floating_11",
+        "zh_CN": "已选多诺卡达到上限",
+        "disable": 0
+    },
+    {
+        "Key": "text_floating_12",
+        "zh_CN": "当前特殊卡牌不允许解锁，无法进行拆解",
+        "disable": 0
+    },
+    {
+        "Key": "text_floating_13",
+        "zh_CN": "当前没有可拆解的多诺卡",
+        "disable": 0
+    },
+    {
+        "Key": "text_double_confirmation",
+        "zh_CN": "退出将会进入结算，是否继续",
+        "disable": 0
+    },
+    {
+        "Key": "text_condition36",
+        "zh_CN": "完成【{1}】任务后解锁",
+        "disable": 0
+    },
+    {
+        "Key": "text_condition37",
+        "zh_CN": "完成【{1}】对决后解锁",
+        "disable": 0
+    },
+    {
+        "Key": "settlement_information01",
+        "zh_CN": "探索深度",
+        "disable": 0
+    },
+    {
+        "Key": "settlement_information02",
+        "zh_CN": "队员造成伤害",
+        "disable": 0
+    },
+    {
+        "Key": "settlement_information03",
+        "zh_CN": "队员受到伤害",
+        "disable": 0
+    },
+    {
+        "Key": "settlement_information04",
+        "zh_CN": "卡牌造成伤害",
+        "disable": 0
+    },
+    {
+        "Key": "settlement_information05",
+        "zh_CN": "卡牌受到伤害",
+        "disable": 0
+    },
+    {
+        "Key": "duel_npc_name101",
+        "zh_CN": "安卡希雅",
+        "disable": 0
+    },
+    {
+        "Key": "duel_npc_name102",
+        "zh_CN": "茉莉安",
+        "disable": 0
+    },
+    {
+        "Key": "duel_npc_name103",
+        "zh_CN": "瑟瑞斯",
+        "disable": 0
+    },
+    {
+        "Key": "duel_npc_name104",
+        "zh_CN": "米娅",
+        "disable": 0
+    },
+    {
+        "Key": "duel_npc_name105",
+        "zh_CN": "肴",
+        "disable": 0
+    },
+    {
+        "Key": "duel_arena_skill",
+        "zh_CN": "最高击倒敌方目标数量：{1}",
+        "disable": 0
+    },
+    {
+        "Key": "duel_reward_item",
+        "zh_CN": "获得奖励",
+        "disable": 0
+    },
+    {
+        "Key": "duel_reward_card",
+        "zh_CN": "获得多诺卡",
+        "disable": 0
+    }
+]

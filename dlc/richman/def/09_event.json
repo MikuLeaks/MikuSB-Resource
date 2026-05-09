@@ -1,0 +1,72 @@
+[
+    {
+        "Id": 1,
+        "Pic": 1010,
+        "Money": "1;1000",
+        "Rest": "",
+        "RankUp": "",
+        "Role": 1,
+        "Uikey": "season_item.TxtRichManEvent1",
+        "Probability": 200
+    },
+    {
+        "Id": 2,
+        "Pic": 1010,
+        "Money": "1;1000",
+        "Rest": "",
+        "RankUp": "",
+        "Role": 2,
+        "Uikey": "season_item.TxtRichManEvent11",
+        "Probability": 100
+    },
+    {
+        "Id": 3,
+        "Pic": 1010,
+        "Money": "",
+        "Rest": "",
+        "RankUp": "4;2",
+        "Role": 1,
+        "Uikey": "season_item.TxtRichManEvent2",
+        "Probability": 50
+    },
+    {
+        "Id": 4,
+        "Pic": 1011,
+        "Money": "2;500",
+        "Rest": "",
+        "RankUp": "",
+        "Role": 1,
+        "Uikey": "season_item.TxtRichManEvent3",
+        "Probability": 200
+    },
+    {
+        "Id": 5,
+        "Pic": 1011,
+        "Money": "2;1000",
+        "Rest": "",
+        "RankUp": "",
+        "Role": 2,
+        "Uikey": "season_item.TxtRichManEvent4",
+        "Probability": 100
+    },
+    {
+        "Id": 6,
+        "Pic": 1013,
+        "Money": "",
+        "Rest": 1,
+        "RankUp": "",
+        "Role": 1,
+        "Uikey": "season_item.TxtRichManEvent5",
+        "Probability": 200
+    },
+    {
+        "Id": 7,
+        "Pic": 1014,
+        "Money": "2;500",
+        "Rest": "",
+        "RankUp": "",
+        "Role": 3,
+        "Uikey": "season_item.TxtRichManEvent6",
+        "Probability": 150
+    }
+]

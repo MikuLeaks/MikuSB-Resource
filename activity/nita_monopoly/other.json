@@ -1,0 +1,85 @@
+[
+    {
+        "PreviewDate": "[202504300400]",
+        "OpenDate": "[202505011000]",
+        "CloseDate": "[209905290400]",
+        "BaseMoveIncome": 30,
+        "MoneyCellPool": [
+            200,
+            400
+        ],
+        "AwardCellMoney": [
+            300,
+            500
+        ],
+        "AwardCellMagicItemProb": 50,
+        "AwardCellMagicItems": [
+            8,
+            9,
+            21,
+            22,
+            23,
+            25,
+            26,
+            28,
+            29,
+            30,
+            31
+        ],
+        "FruitMachineMoney": [
+            800,
+            600,
+            400,
+            200
+        ],
+        "FruitMachineProb": [
+            [
+                10,
+                40,
+                40,
+                10
+            ],
+            [
+                40,
+                10,
+                10,
+                40
+            ]
+        ],
+        "CardGameMoney": [
+            700,
+            500,
+            300
+        ],
+        "MultiLuck": [
+            20,
+            2,
+            5
+        ],
+        "RandomCellPool": {
+            "7": 10,
+            "8": 30,
+            "2": 30,
+            "4": 30
+        },
+        "SupriseCellMutil": 1.2,
+        "Flop": [
+            [
+                1,
+                4803013,
+                700
+            ],
+            [
+                2,
+                4803015,
+                500
+            ],
+            [
+                3,
+                4803016,
+                300
+            ]
+        ],
+        "FlopTime": 1000
+    }
+]

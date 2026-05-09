@@ -1,0 +1,73 @@
+[
+    {
+        "ID": 20000,
+        "Schedule": 1,
+        "TeamOrNot": "",
+        "Name": "farmwar.farmwar_itemname_01",
+        "Des": "farmwar.farmwar_itemdes_01",
+        "DesParam": "",
+        "Icon": 110010882
+    },
+    {
+        "ID": 20001,
+        "Schedule": 1,
+        "TeamOrNot": "",
+        "Name": "farmwar.farmwar_itemname_02",
+        "Des": "farmwar.farmwar_itemdes_02",
+        "DesParam": [
+            60,
+            100
+        ],
+        "Icon": 110010892
+    },
+    {
+        "ID": 20002,
+        "Schedule": 2,
+        "TeamOrNot": 1,
+        "Name": "farmwar.farmwar_itemname_01",
+        "Des": "farmwar.farmwar_itemdes_01",
+        "DesParam": "",
+        "Icon": 110010882,
+        "DestroyType": 1
+    },
+    {
+        "ID": 20003,
+        "Schedule": 2,
+        "TeamOrNot": 1,
+        "Name": "farmwar.farmwar_itemname_02",
+        "Des": "farmwar.farmwar_itemdes_02",
+        "DesParam": [
+            3
+        ],
+        "Icon": 110011732,
+        "DestroyType": 2
+    },
+    {
+        "ID": 20004,
+        "Schedule": 2,
+        "TeamOrNot": 1,
+        "Name": "farmwar.farmwar_itemname_03",
+        "Des": "farmwar.farmwar_itemdes_03",
+        "DesParam": [
+            10
+        ],
+        "Icon": 110011742,
+        "DestroyType": 3
+    },
+    {
+        "ID": 20005,
+        "Schedule": 2,
+        "TeamOrNot": "",
+        "Name": "farmwar.farmwar_itemname_04",
+        "Des": "farmwar.farmwar_itemdes_04",
+        "DesParam": [
+            40,
+            60,
+            40,
+            60,
+            40,
+            60
+        ],
+        "Icon": 110010892
+    }
+]

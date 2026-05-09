@@ -1,0 +1,355 @@
+[
+    {
+        "SeasonID": 1,
+        "Type": 1,
+        "NoticeStratTime": "[202405011000]",
+        "NoticeEndTime": "[202405021000]",
+        "OpenTime": "[202405021000]",
+        "CloseTime": "[202405230400]",
+        "Name": "rogue3.season_name",
+        "Bg": 1001156,
+        "Logo": "",
+        "Story": "",
+        "MallId": "",
+        "CoinId": "",
+        "Daily": [
+            13001
+        ],
+        "Weekly": [
+            13002,
+            13036
+        ],
+        "Normal": [
+            13003,
+            13004,
+            13005,
+            13006,
+            13007,
+            13008,
+            13009,
+            13012,
+            13013,
+            13014,
+            13015,
+            13016,
+            13017,
+            13018,
+            13019,
+            13020,
+            13021,
+            13022,
+            13023,
+            13024,
+            13025,
+            13026,
+            13027,
+            13028,
+            13029,
+            13030,
+            13031,
+            13032,
+            13033,
+            13034,
+            13035
+        ],
+        "PoolList": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "PeriodsID": "",
+        "SeasonDrop": [
+            4,
+            1,
+            21,
+            1
+        ],
+        "DaliyDropLimit": 20,
+        "MasterKeyDrop": "",
+        "PoolTicket": {
+            "1": [
+                28,
+                1
+            ],
+            "10": [
+                28,
+                10
+            ]
+        },
+        "EnergyRecover": "",
+        "SeasonSkill": [
+            1,
+            12
+        ]
+    },
+    {
+        "SeasonID": 2,
+        "Type": 2,
+        "NoticeStratTime": "[202407110400]",
+        "NoticeEndTime": "[202407250400]",
+        "OpenTime": "[202407250400]",
+        "CloseTime": "[202408150400]",
+        "Name": "rogue3.season_name",
+        "Bg": 1001156,
+        "Logo": "",
+        "Story": 8109101,
+        "MallId": "",
+        "CoinId": "",
+        "Daily": "",
+        "Weekly": "",
+        "Normal": "",
+        "PoolList": "",
+        "PeriodsID": [
+            1
+        ],
+        "SeasonDrop": "",
+        "DaliyDropLimit": "",
+        "MasterKeyDrop": "",
+        "PoolTicket": "",
+        "EnergyRecover": [
+            300,
+            10
+        ],
+        "SeasonSkill": [
+            2
+        ]
+    },
+    {
+        "SeasonID": 3,
+        "Type": 2,
+        "NoticeStratTime": "[202409260400]",
+        "NoticeEndTime": "[202410100400]",
+        "OpenTime": "[202410100400]",
+        "CloseTime": "[202410310400]",
+        "Name": "rogue3.season_name",
+        "Bg": 1001156,
+        "Logo": "",
+        "Story": 8111101,
+        "MallId": "",
+        "CoinId": "",
+        "Daily": "",
+        "Weekly": "",
+        "Normal": "",
+        "PoolList": "",
+        "PeriodsID": [
+            2,
+            3
+        ],
+        "SeasonDrop": "",
+        "DaliyDropLimit": "",
+        "MasterKeyDrop": [
+            4,
+            1,
+            23,
+            8
+        ],
+        "PoolTicket": "",
+        "EnergyRecover": "",
+        "SeasonSkill": [
+            3,
+            14
+        ],
+        "TrialID": [
+            103143,
+            103144,
+            103145,
+            103146,
+            103147
+        ]
+    },
+    {
+        "SeasonID": 4,
+        "Type": 3,
+        "NoticeStratTime": "[202501230400]",
+        "NoticeEndTime": "[202502061000]",
+        "OpenTime": "[202502061000]",
+        "CloseTime": "[202502270400]",
+        "Name": "rogue3.season_name",
+        "Bg": 1001156,
+        "Logo": "",
+        "Story": "",
+        "MallId": "",
+        "CoinId": "",
+        "Daily": "",
+        "Weekly": "",
+        "Normal": "",
+        "PoolList": "",
+        "PeriodsID": "",
+        "SeasonDrop": "",
+        "DaliyDropLimit": "",
+        "MasterKeyDrop": "",
+        "PoolTicket": "",
+        "EnergyRecover": "",
+        "SeasonSkill": "",
+        "TrialID": [
+            103168,
+            103169,
+            103170,
+            103171,
+            103172,
+            103173
+        ],
+        "ScoreBattle": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "MaterialBuffBattle": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "ScoreItem": 50
+    },
+    {
+        "SeasonID": 5,
+        "Type": 3,
+        "NoticeStratTime": "[202503220400]",
+        "NoticeEndTime": "[202505061000]",
+        "OpenTime": "[202505061000]",
+        "CloseTime": "[202505270400]",
+        "Name": "rogue3.season_name",
+        "Bg": 1001156,
+        "Logo": "",
+        "Story": "",
+        "MallId": "",
+        "CoinId": "",
+        "Daily": "",
+        "Weekly": "",
+        "Normal": "",
+        "PoolList": "",
+        "PeriodsID": "",
+        "SeasonDrop": "",
+        "DaliyDropLimit": "",
+        "MasterKeyDrop": "",
+        "PoolTicket": "",
+        "EnergyRecover": "",
+        "SeasonSkill": "",
+        "TrialID": [
+            103168,
+            103195,
+            103170,
+            103171,
+            103172,
+            103173
+        ],
+        "ScoreBattle": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "MaterialBuffBattle": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "ScoreItem": 50
+    },
+    {
+        "SeasonID": 6,
+        "Type": 3,
+        "NoticeStratTime": "[202506100400]",
+        "NoticeEndTime": "[202506241000]",
+        "OpenTime": "[202506241000]",
+        "CloseTime": "[202508110400]",
+        "Name": "rogue3.season_name",
+        "Bg": 1001156,
+        "Logo": "",
+        "Story": "",
+        "MallId": "",
+        "CoinId": "",
+        "Daily": "",
+        "Weekly": "",
+        "Normal": "",
+        "PoolList": "",
+        "PeriodsID": "",
+        "SeasonDrop": "",
+        "DaliyDropLimit": "",
+        "MasterKeyDrop": "",
+        "PoolTicket": "",
+        "EnergyRecover": "",
+        "SeasonSkill": "",
+        "TrialID": [
+            103168,
+            103195,
+            103170,
+            103171,
+            103172,
+            103173
+        ],
+        "ScoreBattle": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "MaterialBuffBattle": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "ScoreItem": 50
+    },
+    {
+        "SeasonID": 7,
+        "Type": 3,
+        "NoticeStratTime": "[202510020400]",
+        "NoticeEndTime": "[202510160400]",
+        "OpenTime": "[202510160400]",
+        "CloseTime": "[202511060400]",
+        "Name": "rogue3.season_name",
+        "Bg": 1001156,
+        "Logo": "",
+        "Story": "",
+        "MallId": "",
+        "CoinId": "",
+        "Daily": "",
+        "Weekly": "",
+        "Normal": "",
+        "PoolList": "",
+        "PeriodsID": "",
+        "SeasonDrop": "",
+        "DaliyDropLimit": "",
+        "MasterKeyDrop": "",
+        "PoolTicket": "",
+        "EnergyRecover": "",
+        "SeasonSkill": "",
+        "TrialID": [
+            104001,
+            104002,
+            104003,
+            104004,
+            104005,
+            104006
+        ],
+        "ScoreBattle": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "MaterialBuffBattle": [
+            1,
+            2,
+            3
+        ],
+        "ScoreItem": 50,
+        "UavId": 1
+    }
+]

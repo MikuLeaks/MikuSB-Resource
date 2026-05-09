@@ -1,0 +1,23 @@
+[
+    {
+        "Id": 1,
+        "Explain": "待机",
+        "Type": "sequence",
+        "Name": "girl003_ui_stand01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl003/Anim/girl003_ui_stand01.girl003_ui_stand01'"
+    },
+    {
+        "Id": 2,
+        "Explain": "悄悄话",
+        "Type": "sequence",
+        "Name": "girl003_ui_whisper01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl003/Anim/girl003_ui_whisper01.girl003_ui_whisper01'"
+    },
+    {
+        "Id": 3,
+        "Explain": "思考",
+        "Type": "sequence",
+        "Name": "girl003_ui_hope01",
+        "Path": "AnimSequence'/Game/Characters/Girl/girl003/Anim/girl003_ui_hope01.girl003_ui_hope01'"
+    }
+]

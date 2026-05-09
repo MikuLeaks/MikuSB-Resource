@@ -1,0 +1,832 @@
+[
+    {
+        "Key": 1,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "谜之无人机",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "呵呵呵呵，没想到约定的时间这么快就到了。",
+        "disable": 0
+    },
+    {
+        "Key": 2,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "谜之无人机",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "那么，就来兑现承诺吧~",
+        "disable": 0
+    },
+    {
+        "Key": 3,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "谜之无人机",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "首先是把电磁墙给消掉，然后再去联系……",
+        "disable": 0
+    },
+    {
+        "Key": 4,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "恩雅",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这个声音是？肴，遗迹区和观光区之间的电磁墙好像……",
+        "disable": 0
+    },
+    {
+        "Key": 5,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "恩雅",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "消失了？",
+        "disable": 0
+    },
+    {
+        "Key": 6,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "肴",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "啊？",
+        "disable": 0
+    },
+    {
+        "Key": 7,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "恩雅",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "得抓紧时间去确认分析员的安全！",
+        "disable": 0
+    },
+    {
+        "Key": 8,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "肴",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "喂，等等……恩雅你的枪掉了。",
+        "disable": 0
+    },
+    {
+        "Key": 9,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "恩雅",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "哎，谢谢提醒，是我太心急了……",
+        "disable": 0
+    },
+    {
+        "Key": 10,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "肴",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你就放一百个心吧，以playername的身手，绝对不会出什么事的。",
+        "disable": 0
+    },
+    {
+        "Key": 11,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "肴",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "而且说不定电磁墙的消失，就和他有关……",
+        "disable": 0
+    },
+    {
+        "Key": "b-1",
+        "Flag": "b-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 12,
+        "Flag": "b-1-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "正是在下。",
+        "disable": 0
+    },
+    {
+        "Key": 13,
+        "Flag": "b-1-2",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "好久不见。",
+        "disable": 0
+    },
+    {
+        "Key": 14,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "恩雅",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员？！",
+        "disable": 0
+    },
+    {
+        "Key": 15,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "肴",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "看吧，我就说他肯定没事嘛。",
+        "disable": 0
+    },
+    {
+        "Key": 16,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "肴",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不过……这中间一定也发生了很多我们不知道的事情吧？",
+        "disable": 0
+    },
+    {
+        "Key": 17,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "恩雅",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员，和我们说一说吧。",
+        "disable": 0
+    },
+    {
+        "Key": "b-2",
+        "Flag": "b-2",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 18,
+        "Flag": "b-2-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "总之，情况就是这样。",
+        "disable": 0
+    },
+    {
+        "Key": 19,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "辰星泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "然后，在遗迹区和观光区之间的电磁墙消失之后，今天那个黑客又通过无人机联系了我们。",
+        "disable": 0
+    },
+    {
+        "Key": 20,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "辰星泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "依旧是要我们去收集写有香蒲古文的石板碎片。",
+        "disable": 0
+    },
+    {
+        "Key": 21,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "芬妮泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这次的“奖励”是消除剩余所有的隔离墙。",
+        "disable": 0
+    },
+    {
+        "Key": 22,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "芬妮泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这么一来就算是我们成功夺回岛屿的控制权了吧？",
+        "disable": 0
+    },
+    {
+        "Key": 23,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "猫汐尔泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "恰恰相反，我们只是在她的指挥下又转了一圈而已。",
+        "disable": 0
+    },
+    {
+        "Key": 24,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "肴",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "啊，那要不态度强硬点，不按她的要求来如何？毕竟她又不给我们加班费。",
+        "disable": 0
+    },
+    {
+        "Key": 25,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "恩雅",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "那样的话那位部员小姐就有危险了。",
+        "disable": 0
+    },
+    {
+        "Key": 26,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "维修部部员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "还请不用担心我。",
+        "disable": 0
+    },
+    {
+        "Key": 27,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "芬妮泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "哎？那个被劫持的部员！为什么你能联系上我们？",
+        "disable": 0
+    },
+    {
+        "Key": 28,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "猫汐尔泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我从分析员那部被打烂的通讯终端中恢复了部分通讯记录。",
+        "disable": 0
+    },
+    {
+        "Key": 29,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "猫汐尔泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "其中就有部员小姐的通讯识别码，那个识别码貌似正好可以绕过屏蔽。",
+        "disable": 0
+    },
+    {
+        "Key": 30,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "芬妮泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你们这样做真的不会被那个黑客发现吗，如果被发现的话……",
+        "disable": 0
+    },
+    {
+        "Key": 31,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "维修部部员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "事已至此，只能被迫赌上性命了。",
+        "disable": 0
+    },
+    {
+        "Key": "b-3",
+        "Flag": "b-3",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 32,
+        "Flag": "b-3-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "真是勇敢啊。",
+        "disable": 0
+    },
+    {
+        "Key": 33,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "维修部部员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": 34,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "维修部部员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "抱歉，其实我完全没有做好赌上性命的准备，只是不想在气势上输给海姆达尔部队的各位。",
+        "disable": 0
+    },
+    {
+        "Key": 35,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "芬妮泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不要在这种莫名其妙的地方较劲啊……",
+        "disable": 0
+    },
+    {
+        "Key": 36,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "维修部部员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "所以拜托各位，还是请各位尽快搞定那个黑客吧。别看我长得有些成熟，但其实我今年才19岁，还是个没有谈过恋爱的实习生……",
+        "disable": 0
+    },
+    {
+        "Key": "b-4",
+        "Flag": "b-4",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 37,
+        "Flag": "b-4-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "后半段就不用强调了。",
+        "disable": 0
+    },
+    {
+        "Key": 38,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "维修部部员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "总之，我不希望拖大家后腿……",
+        "disable": 0
+    },
+    {
+        "Key": "b-5",
+        "Flag": "b-5",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 39,
+        "Flag": "b-5-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "别这么说，你可是有着能绕开黑客屏障的技术。",
+        "disable": 0
+    },
+    {
+        "Key": "b-6",
+        "Flag": "b-6",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 40,
+        "Flag": "b-6-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "说不定最后还得靠部员小姐。",
+        "disable": 0
+    },
+    {
+        "Key": 41,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "维修部部员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员先生……谢谢你信任我。",
+        "disable": 0
+    },
+    {
+        "Key": "b-7",
+        "Flag": "b-7",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 42,
+        "Flag": "b-7-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "对了，说起来你的名字是？",
+        "disable": 0
+    },
+    {
+        "Key": 43,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "安提2",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "叫我安提就好。",
+        "disable": 0
+    },
+    {
+        "Key": 44,
+        "Flag": "",
+        "Pos": 1,
+        "Speaker": "恩雅",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "安提……安提……念起来既顺口又好听。",
+        "disable": 0
+    },
+    {
+        "Key": 45,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "芬妮泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "而且还很少见哦，是个好名字！",
+        "disable": 0
+    },
+    {
+        "Key": 46,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "安提2",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "谢谢两位夸奖。",
+        "disable": 0
+    },
+    {
+        "Key": 47,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "猫汐尔泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": "b-8",
+        "Flag": "b-8",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 48,
+        "Flag": "b-8-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "猫汐尔怎么了？",
+        "disable": 0
+    },
+    {
+        "Key": 49,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "猫汐尔泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "总觉得好像在哪里听过这个名字……",
+        "disable": 0
+    },
+    {
+        "Key": 50,
+        "Flag": "",
+        "Pos": 1,
+        "Speaker": "恩雅",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "虽然少见，但是也不排除有重名的人吧。",
+        "disable": 0
+    },
+    {
+        "Key": 51,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "猫汐尔泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "也许吧，不过果然还是很在意喵。",
+        "disable": 0
+    },
+    {
+        "Key": 52,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "芬妮泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "猫汐尔这股万事都要钻研一下的劲还是先收一收吧，我们差不多该出发了。",
+        "disable": 0
+    },
+    {
+        "Key": 53,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "辰星泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "嗯，这次我们要不要试试分头行动，毕竟现在人手也变多了。",
+        "disable": 0
+    },
+    {
+        "Key": 54,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "恩雅",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我没什么意见哦，不过在那之前我也要换上泳装！",
+        "disable": 0
+    },
+    {
+        "Key": 55,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "恩雅",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "只有我和肴穿成这样也太不公平了吧，分析员的注意力都被辰星和芬妮吸走了哦~",
+        "disable": 0
+    },
+    {
+        "Key": 56,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "辰星泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不，我们只是没机会换而已，要是可以的话我也想穿着“云篆”作战。",
+        "disable": 0
+    },
+    {
+        "Key": 57,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "猫汐尔泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": 58,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "远离人群的猫汐尔似乎一直有什么话想和我说。",
+        "disable": 0
+    },
+    {
+        "Key": 59,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "于是，在正式行动之前找了个和她独处的机会。",
+        "disable": 0
+    },
+    {
+        "Key": "b-9",
+        "Flag": "b-9",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 60,
+        "Flag": "b-9-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这里没有别人了。",
+        "disable": 0
+    },
+    {
+        "Key": 61,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "猫汐尔泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": "b-10",
+        "Flag": "b-10",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 62,
+        "Flag": "b-10-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我身上没带任何通讯终端，安提也听不见的。",
+        "disable": 0
+    },
+    {
+        "Key": 63,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "猫汐尔泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员，接下来要留意那个叫安提的维修部员。",
+        "disable": 0
+    },
+    {
+        "Key": "b-11",
+        "Flag": "b-11",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 64,
+        "Flag": "b-11-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "果然，她有问题吗？",
+        "disable": 0
+    },
+    {
+        "Key": 65,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "猫汐尔泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我不确定，但是能绕开屏障且至今没有被发现的人，一定不简单。",
+        "disable": 0
+    },
+    {
+        "Key": 66,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "猫汐尔泳装",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "而且她很了解你，知道你一定会去拯救“无辜”的她。",
+        "disable": 0
+    },
+    {
+        "Key": "b-12",
+        "Flag": "b-12",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 67,
+        "Flag": "b-12-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "大概是过去的职业习惯吧。",
+        "disable": 0
+    },
+    {
+        "Key": "b-13",
+        "Flag": "b-13",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": 68,
+        "Flag": "b-13-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不过还是谢谢提醒，接下来我会留心的。",
+        "disable": 0
+    },
+    {
+        "Key": 69,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "安提2",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "分析员，请原谅我利用了你和猫汐尔……",
+        "disable": 0
+    },
+    {
+        "Key": 70,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "安提2",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我必须要找到……最后的……",
+        "disable": 0
+    }
+]

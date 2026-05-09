@@ -1,0 +1,1590 @@
+[
+    {
+        "LevelID": 2501,
+        "Type": 0,
+        "MapID": 2501,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "600120301": 25
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2501_01.SeasonBoss_2501_01",
+        "BossMaxHp": 74000
+    },
+    {
+        "LevelID": 2511,
+        "Type": 0,
+        "MapID": 2501,
+        "FightID": 1,
+        "Condition": {
+            "2": 2501
+        },
+        "Monster": {
+            "600120301": 40
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2501_02.SeasonBoss_2501_02",
+        "BossMaxHp": 185600
+    },
+    {
+        "LevelID": 2521,
+        "Type": 0,
+        "MapID": 2501,
+        "FightID": 1,
+        "Condition": {
+            "2": 2511
+        },
+        "Monster": {
+            "600120301": 60
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2501_03.SeasonBoss_2501_03",
+        "BossMaxHp": 516200
+    },
+    {
+        "LevelID": 2531,
+        "Type": 0,
+        "MapID": 2501,
+        "FightID": 1,
+        "Condition": {
+            "2": 2521
+        },
+        "Monster": {
+            "600120301": 80
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2501_04.SeasonBoss_2501_04",
+        "BossMaxHp": 1093000
+    },
+    {
+        "LevelID": 2541,
+        "Type": 0,
+        "MapID": 2501,
+        "FightID": 1,
+        "Condition": {
+            "2": 2531
+        },
+        "Monster": {
+            "600120301": 90
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2501_05.SeasonBoss_2501_05",
+        "BossMaxHp": -1.0
+    },
+    {
+        "LevelID": 2504,
+        "Type": 0,
+        "MapID": 2504,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "600130203": 25
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2504_01.SeasonBoss_2504_01",
+        "BossMaxHp": 74000
+    },
+    {
+        "LevelID": 2514,
+        "Type": 0,
+        "MapID": 2504,
+        "FightID": 1,
+        "Condition": {
+            "2": 2504
+        },
+        "Monster": {
+            "600130203": 40
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2504_02.SeasonBoss_2504_02",
+        "BossMaxHp": 185600
+    },
+    {
+        "LevelID": 2524,
+        "Type": 0,
+        "MapID": 2504,
+        "FightID": 1,
+        "Condition": {
+            "2": 2514
+        },
+        "Monster": {
+            "600130203": 60
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2504_03.SeasonBoss_2504_03",
+        "BossMaxHp": 516200
+    },
+    {
+        "LevelID": 2534,
+        "Type": 0,
+        "MapID": 2504,
+        "FightID": 1,
+        "Condition": {
+            "2": 2524
+        },
+        "Monster": {
+            "600130203": 80
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2504_04.SeasonBoss_2504_04",
+        "BossMaxHp": 1093000
+    },
+    {
+        "LevelID": 2544,
+        "Type": 0,
+        "MapID": 2504,
+        "FightID": 1,
+        "Condition": {
+            "2": 2534
+        },
+        "Monster": {
+            "600130203": 90
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2504_05.SeasonBoss_2504_05",
+        "BossMaxHp": -1.0
+    },
+    {
+        "LevelID": 2503,
+        "Type": 0,
+        "MapID": 2503,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "600120701": 25
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2503_01.SeasonBoss_2503_01",
+        "BossMaxHp": 74000
+    },
+    {
+        "LevelID": 2513,
+        "Type": 0,
+        "MapID": 2503,
+        "FightID": 1,
+        "Condition": {
+            "2": 2503
+        },
+        "Monster": {
+            "600120701": 40
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2503_02.SeasonBoss_2503_02",
+        "BossMaxHp": 185600
+    },
+    {
+        "LevelID": 2523,
+        "Type": 0,
+        "MapID": 2503,
+        "FightID": 1,
+        "Condition": {
+            "2": 2513
+        },
+        "Monster": {
+            "600120701": 60
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2503_03.SeasonBoss_2503_03",
+        "BossMaxHp": 516200
+    },
+    {
+        "LevelID": 2533,
+        "Type": 0,
+        "MapID": 2503,
+        "FightID": 1,
+        "Condition": {
+            "2": 2523
+        },
+        "Monster": {
+            "600120701": 80
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2503_04.SeasonBoss_2503_04",
+        "BossMaxHp": 1093000
+    },
+    {
+        "LevelID": 2543,
+        "Type": 0,
+        "MapID": 2503,
+        "FightID": 1,
+        "Condition": {
+            "2": 2533
+        },
+        "Monster": {
+            "600120701": 90
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2503_05.SeasonBoss_2503_05",
+        "BossMaxHp": -1.0
+    },
+    {
+        "LevelID": 2502,
+        "Type": 0,
+        "MapID": 2502,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "600100501": 25
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2502_01.SeasonBoss_2502_01",
+        "BossMaxHp": 74000
+    },
+    {
+        "LevelID": 2512,
+        "Type": 0,
+        "MapID": 2502,
+        "FightID": 1,
+        "Condition": {
+            "2": 2502
+        },
+        "Monster": {
+            "600100501": 40
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2502_02.SeasonBoss_2502_02",
+        "BossMaxHp": 185600
+    },
+    {
+        "LevelID": 2522,
+        "Type": 0,
+        "MapID": 2502,
+        "FightID": 1,
+        "Condition": {
+            "2": 2512
+        },
+        "Monster": {
+            "600100501": 60
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2502_03.SeasonBoss_2502_03",
+        "BossMaxHp": 516200
+    },
+    {
+        "LevelID": 2532,
+        "Type": 0,
+        "MapID": 2502,
+        "FightID": 1,
+        "Condition": {
+            "2": 2522
+        },
+        "Monster": {
+            "600100501": 80
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2502_04.SeasonBoss_2502_04",
+        "BossMaxHp": 1093000
+    },
+    {
+        "LevelID": 2542,
+        "Type": 0,
+        "MapID": 2502,
+        "FightID": 1,
+        "Condition": {
+            "2": 2532
+        },
+        "Monster": {
+            "600100501": 90
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2502_05.SeasonBoss_2502_05",
+        "BossMaxHp": -1.0
+    },
+    {
+        "LevelID": 2505,
+        "Type": 0,
+        "MapID": 2505,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "600120603": 25
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2505_01.SeasonBoss_2505_01",
+        "BossMaxHp": 74000
+    },
+    {
+        "LevelID": 2515,
+        "Type": 0,
+        "MapID": 2505,
+        "FightID": 1,
+        "Condition": {
+            "2": 2505
+        },
+        "Monster": {
+            "600120603": 40
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2505_02.SeasonBoss_2505_02",
+        "BossMaxHp": 185600
+    },
+    {
+        "LevelID": 2525,
+        "Type": 0,
+        "MapID": 2505,
+        "FightID": 1,
+        "Condition": {
+            "2": 2515
+        },
+        "Monster": {
+            "600120603": 60
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2505_03.SeasonBoss_2505_03",
+        "BossMaxHp": 516200
+    },
+    {
+        "LevelID": 2535,
+        "Type": 0,
+        "MapID": 2505,
+        "FightID": 1,
+        "Condition": {
+            "2": 2525
+        },
+        "Monster": {
+            "600120603": 80
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2505_04.SeasonBoss_2505_04",
+        "BossMaxHp": 1093000
+    },
+    {
+        "LevelID": 2545,
+        "Type": 0,
+        "MapID": 2505,
+        "FightID": 1,
+        "Condition": {
+            "2": 2535
+        },
+        "Monster": {
+            "600120603": 90
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2505_05.SeasonBoss_2505_05",
+        "BossMaxHp": -1.0
+    },
+    {
+        "LevelID": 2506,
+        "Type": 0,
+        "MapID": 2506,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "600120401": 25
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2506_01.SeasonBoss_2506_01",
+        "BossMaxHp": 74000
+    },
+    {
+        "LevelID": 2516,
+        "Type": 0,
+        "MapID": 2506,
+        "FightID": 1,
+        "Condition": {
+            "2": 2506
+        },
+        "Monster": {
+            "600120401": 40
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2506_02.SeasonBoss_2506_02",
+        "BossMaxHp": 185600
+    },
+    {
+        "LevelID": 2526,
+        "Type": 0,
+        "MapID": 2506,
+        "FightID": 1,
+        "Condition": {
+            "2": 2516
+        },
+        "Monster": {
+            "600120401": 60
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2506_03.SeasonBoss_2506_03",
+        "BossMaxHp": 516200
+    },
+    {
+        "LevelID": 2536,
+        "Type": 0,
+        "MapID": 2506,
+        "FightID": 1,
+        "Condition": {
+            "2": 2526
+        },
+        "Monster": {
+            "600120401": 80
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2506_04.SeasonBoss_2506_04",
+        "BossMaxHp": 1093000
+    },
+    {
+        "LevelID": 2546,
+        "Type": 0,
+        "MapID": 2506,
+        "FightID": 1,
+        "Condition": {
+            "2": 2536
+        },
+        "Monster": {
+            "600120401": 90
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2506_05.SeasonBoss_2506_05",
+        "BossMaxHp": -1.0
+    },
+    {
+        "LevelID": 2604,
+        "Type": 0,
+        "MapID": 2504,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "600130203": 25
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2504_01.SeasonBoss_2504_01",
+        "BossMaxHp": 74000
+    },
+    {
+        "LevelID": 2614,
+        "Type": 0,
+        "MapID": 2504,
+        "FightID": 1,
+        "Condition": {
+            "2": 2604
+        },
+        "Monster": {
+            "600130203": 40
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2504_02.SeasonBoss_2504_02",
+        "BossMaxHp": 185600
+    },
+    {
+        "LevelID": 2624,
+        "Type": 0,
+        "MapID": 2504,
+        "FightID": 1,
+        "Condition": {
+            "2": 2614
+        },
+        "Monster": {
+            "600130203": 60
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2504_03.SeasonBoss_2504_03",
+        "BossMaxHp": 516200
+    },
+    {
+        "LevelID": 2634,
+        "Type": 0,
+        "MapID": 2504,
+        "FightID": 1,
+        "Condition": {
+            "2": 2624
+        },
+        "Monster": {
+            "600130203": 80
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2504_04.SeasonBoss_2504_04",
+        "BossMaxHp": 1093000
+    },
+    {
+        "LevelID": 2644,
+        "Type": 0,
+        "MapID": 2504,
+        "FightID": 1,
+        "Condition": {
+            "2": 2634
+        },
+        "Monster": {
+            "600130203": 90
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2504_05.SeasonBoss_2504_05",
+        "BossMaxHp": -1.0
+    },
+    {
+        "LevelID": 2507,
+        "Type": 0,
+        "MapID": 2507,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "600150302": 25
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2507_01.SeasonBoss_2507_01",
+        "BossMaxHp": 74000
+    },
+    {
+        "LevelID": 2517,
+        "Type": 0,
+        "MapID": 2507,
+        "FightID": 1,
+        "Condition": {
+            "2": 2507
+        },
+        "Monster": {
+            "600150302": 40
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2507_02.SeasonBoss_2507_02",
+        "BossMaxHp": 185600
+    },
+    {
+        "LevelID": 2527,
+        "Type": 0,
+        "MapID": 2507,
+        "FightID": 1,
+        "Condition": {
+            "2": 2517
+        },
+        "Monster": {
+            "600150302": 60
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2507_03.SeasonBoss_2507_03",
+        "BossMaxHp": 516200
+    },
+    {
+        "LevelID": 2537,
+        "Type": 0,
+        "MapID": 2507,
+        "FightID": 1,
+        "Condition": {
+            "2": 2527
+        },
+        "Monster": {
+            "600150302": 80
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2507_04.SeasonBoss_2507_04",
+        "BossMaxHp": 1093000
+    },
+    {
+        "LevelID": 2547,
+        "Type": 0,
+        "MapID": 2507,
+        "FightID": 1,
+        "Condition": {
+            "2": 2537
+        },
+        "Monster": {
+            "600150302": 90
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2507_05.SeasonBoss_2507_05",
+        "BossMaxHp": -1.0
+    },
+    {
+        "LevelID": 2508,
+        "Type": 0,
+        "MapID": 2508,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "600100205": 25
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2508_01.SeasonBoss_2508_01",
+        "BossMaxHp": 74000
+    },
+    {
+        "LevelID": 2518,
+        "Type": 0,
+        "MapID": 2508,
+        "FightID": 1,
+        "Condition": {
+            "2": 2508
+        },
+        "Monster": {
+            "600100205": 40
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2508_02.SeasonBoss_2508_02",
+        "BossMaxHp": 185600
+    },
+    {
+        "LevelID": 2528,
+        "Type": 0,
+        "MapID": 2508,
+        "FightID": 1,
+        "Condition": {
+            "2": 2518
+        },
+        "Monster": {
+            "600100205": 60
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2508_03.SeasonBoss_2508_03",
+        "BossMaxHp": 516200
+    },
+    {
+        "LevelID": 2538,
+        "Type": 0,
+        "MapID": 2508,
+        "FightID": 1,
+        "Condition": {
+            "2": 2528
+        },
+        "Monster": {
+            "600100205": 80
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2508_04.SeasonBoss_2508_04",
+        "BossMaxHp": 1093000
+    },
+    {
+        "LevelID": 2548,
+        "Type": 0,
+        "MapID": 2508,
+        "FightID": 1,
+        "Condition": {
+            "2": 2538
+        },
+        "Monster": {
+            "600100205": 90
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2508_05.SeasonBoss_2508_05",
+        "BossMaxHp": -1.0
+    },
+    {
+        "LevelID": 2509,
+        "Type": 0,
+        "MapID": 2509,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "600120504": 25
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2509_1.SeasonBoss_2509_1",
+        "BossMaxHp": 74000
+    },
+    {
+        "LevelID": 2519,
+        "Type": 0,
+        "MapID": 2509,
+        "FightID": 1,
+        "Condition": {
+            "2": 2509
+        },
+        "Monster": {
+            "600120504": 40
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2509_2.SeasonBoss_2509_2",
+        "BossMaxHp": 185600
+    },
+    {
+        "LevelID": 2529,
+        "Type": 0,
+        "MapID": 2509,
+        "FightID": 1,
+        "Condition": {
+            "2": 2519
+        },
+        "Monster": {
+            "600120504": 60
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2509_3.SeasonBoss_2509_3",
+        "BossMaxHp": 516200
+    },
+    {
+        "LevelID": 2539,
+        "Type": 0,
+        "MapID": 2509,
+        "FightID": 1,
+        "Condition": {
+            "2": 2529
+        },
+        "Monster": {
+            "600120504": 80
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2509_4.SeasonBoss_2509_4",
+        "BossMaxHp": 1093000
+    },
+    {
+        "LevelID": 2549,
+        "Type": 0,
+        "MapID": 2509,
+        "FightID": 1,
+        "Condition": {
+            "2": 2539
+        },
+        "Monster": {
+            "600120504": 90
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2509_5.SeasonBoss_2509_5",
+        "BossMaxHp": -1.0
+    },
+    {
+        "LevelID": 2601,
+        "Type": 0,
+        "MapID": 2601,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "600130204": 25
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2601_01.SeasonBoss_2601_01",
+        "BossMaxHp": 74000
+    },
+    {
+        "LevelID": 2611,
+        "Type": 0,
+        "MapID": 2601,
+        "FightID": 1,
+        "Condition": {
+            "2": 2601
+        },
+        "Monster": {
+            "600130204": 40
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2601_02.SeasonBoss_2601_02",
+        "BossMaxHp": 185600
+    },
+    {
+        "LevelID": 2621,
+        "Type": 0,
+        "MapID": 2601,
+        "FightID": 1,
+        "Condition": {
+            "2": 2611
+        },
+        "Monster": {
+            "600130204": 60
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2601_03.SeasonBoss_2601_03",
+        "BossMaxHp": 516200
+    },
+    {
+        "LevelID": 2631,
+        "Type": 0,
+        "MapID": 2601,
+        "FightID": 1,
+        "Condition": {
+            "2": 2621
+        },
+        "Monster": {
+            "600130204": 80
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2601_04.SeasonBoss_2601_04",
+        "BossMaxHp": 1093000
+    },
+    {
+        "LevelID": 2641,
+        "Type": 0,
+        "MapID": 2601,
+        "FightID": 1,
+        "Condition": {
+            "2": 2631
+        },
+        "Monster": {
+            "600130204": 90
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2601_05.SeasonBoss_2601_05",
+        "BossMaxHp": -1.0
+    },
+    {
+        "LevelID": 2602,
+        "Type": 0,
+        "MapID": 2602,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "600100402": 25
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2602_01.SeasonBoss_2602_01",
+        "BossMaxHp": 74000
+    },
+    {
+        "LevelID": 2612,
+        "Type": 0,
+        "MapID": 2602,
+        "FightID": 1,
+        "Condition": {
+            "2": 2602
+        },
+        "Monster": {
+            "600100402": 40
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2602_02.SeasonBoss_2602_02",
+        "BossMaxHp": 185600
+    },
+    {
+        "LevelID": 2622,
+        "Type": 0,
+        "MapID": 2602,
+        "FightID": 1,
+        "Condition": {
+            "2": 2612
+        },
+        "Monster": {
+            "600100402": 60
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2602_03.SeasonBoss_2602_03",
+        "BossMaxHp": 516200
+    },
+    {
+        "LevelID": 2632,
+        "Type": 0,
+        "MapID": 2602,
+        "FightID": 1,
+        "Condition": {
+            "2": 2622
+        },
+        "Monster": {
+            "600100402": 80
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2602_04.SeasonBoss_2602_04",
+        "BossMaxHp": 1093000
+    },
+    {
+        "LevelID": 2642,
+        "Type": 0,
+        "MapID": 2602,
+        "FightID": 1,
+        "Condition": {
+            "2": 2632
+        },
+        "Monster": {
+            "600100402": 90
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2602_05.SeasonBoss_2602_05",
+        "BossMaxHp": -1.0
+    },
+    {
+        "LevelID": 2603,
+        "Type": 0,
+        "MapID": 2603,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "600120604": 25
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2603_01.SeasonBoss_2603_01",
+        "BossMaxHp": 74000
+    },
+    {
+        "LevelID": 2613,
+        "Type": 0,
+        "MapID": 2603,
+        "FightID": 1,
+        "Condition": {
+            "2": 2603
+        },
+        "Monster": {
+            "600120604": 40
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2603_02.SeasonBoss_2603_02",
+        "BossMaxHp": 185600
+    },
+    {
+        "LevelID": 2623,
+        "Type": 0,
+        "MapID": 2603,
+        "FightID": 1,
+        "Condition": {
+            "2": 2613
+        },
+        "Monster": {
+            "600120604": 60
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2603_03.SeasonBoss_2603_03",
+        "BossMaxHp": 516200
+    },
+    {
+        "LevelID": 2633,
+        "Type": 0,
+        "MapID": 2603,
+        "FightID": 1,
+        "Condition": {
+            "2": 2623
+        },
+        "Monster": {
+            "600120604": 80
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2603_04.SeasonBoss_2603_04",
+        "BossMaxHp": 1093000
+    },
+    {
+        "LevelID": 2643,
+        "Type": 0,
+        "MapID": 2603,
+        "FightID": 1,
+        "Condition": {
+            "2": 2633
+        },
+        "Monster": {
+            "600120604": 90
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2603_05.SeasonBoss_2603_05",
+        "BossMaxHp": -1.0
+    },
+    {
+        "LevelID": 2604,
+        "Type": 0,
+        "MapID": 2604,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": [
+            [
+                600140103,
+                25
+            ],
+            4001211,
+            4001212,
+            4001213
+        ],
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2604_01.SeasonBoss_2604_01",
+        "BossMaxHp": 94868,
+        "CalcMonsterDamage": 1
+    },
+    {
+        "LevelID": 2614,
+        "Type": 0,
+        "MapID": 2604,
+        "FightID": 1,
+        "Condition": {
+            "2": 2604
+        },
+        "Monster": [
+            [
+                600140103,
+                40
+            ],
+            4001211,
+            4001212,
+            4001213
+        ],
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2604_02.SeasonBoss_2604_02",
+        "BossMaxHp": 241081,
+        "CalcMonsterDamage": 1
+    },
+    {
+        "LevelID": 2624,
+        "Type": 0,
+        "MapID": 2604,
+        "FightID": 1,
+        "Condition": {
+            "2": 2614
+        },
+        "Monster": [
+            [
+                600140103,
+                60
+            ],
+            4001211,
+            4001212,
+            4001213
+        ],
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2604_03.SeasonBoss_2604_03",
+        "BossMaxHp": 683659,
+        "CalcMonsterDamage": 1
+    },
+    {
+        "LevelID": 2634,
+        "Type": 0,
+        "MapID": 2604,
+        "FightID": 1,
+        "Condition": {
+            "2": 2624
+        },
+        "Monster": [
+            [
+                600140103,
+                80
+            ],
+            4001211,
+            4001212,
+            4001213
+        ],
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2604_04.SeasonBoss_2604_04",
+        "BossMaxHp": 1476711,
+        "CalcMonsterDamage": 1
+    },
+    {
+        "LevelID": 2644,
+        "Type": 0,
+        "MapID": 2604,
+        "FightID": 1,
+        "Condition": {
+            "2": 2634
+        },
+        "Monster": [
+            [
+                600140103,
+                90
+            ],
+            4001211,
+            4001212,
+            4001213
+        ],
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2604_05.SeasonBoss_2604_05",
+        "BossMaxHp": -1.0,
+        "CalcMonsterDamage": 1
+    },
+    {
+        "LevelID": 2605,
+        "Type": 0,
+        "MapID": 2605,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "600100601": 25
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2605_01.SeasonBoss_2605_01",
+        "BossMaxHp": 74000
+    },
+    {
+        "LevelID": 2615,
+        "Type": 0,
+        "MapID": 2605,
+        "FightID": 1,
+        "Condition": {
+            "2": 2605
+        },
+        "Monster": {
+            "600100601": 40
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2605_02.SeasonBoss_2605_02",
+        "BossMaxHp": 185600
+    },
+    {
+        "LevelID": 2625,
+        "Type": 0,
+        "MapID": 2605,
+        "FightID": 1,
+        "Condition": {
+            "2": 2615
+        },
+        "Monster": {
+            "600100601": 60
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2605_03.SeasonBoss_2605_03",
+        "BossMaxHp": 516200
+    },
+    {
+        "LevelID": 2635,
+        "Type": 0,
+        "MapID": 2605,
+        "FightID": 1,
+        "Condition": {
+            "2": 2625
+        },
+        "Monster": {
+            "600100601": 80
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2605_04.SeasonBoss_2605_04",
+        "BossMaxHp": 1093000
+    },
+    {
+        "LevelID": 2645,
+        "Type": 0,
+        "MapID": 2605,
+        "FightID": 1,
+        "Condition": {
+            "2": 2635
+        },
+        "Monster": {
+            "600100601": 90
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2605_05.SeasonBoss_2605_05",
+        "BossMaxHp": -1.0
+    },
+    {
+        "LevelID": 2606,
+        "Type": 0,
+        "MapID": 2606,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "600150601": 25
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2606_01.SeasonBoss_2606_01",
+        "BossMaxHp": 74000
+    },
+    {
+        "LevelID": 2616,
+        "Type": 0,
+        "MapID": 2606,
+        "FightID": 1,
+        "Condition": {
+            "2": 2606
+        },
+        "Monster": {
+            "600150601": 40
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2606_02.SeasonBoss_2606_02",
+        "BossMaxHp": 185600
+    },
+    {
+        "LevelID": 2626,
+        "Type": 0,
+        "MapID": 2606,
+        "FightID": 1,
+        "Condition": {
+            "2": 2616
+        },
+        "Monster": {
+            "600150601": 60
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2606_03.SeasonBoss_2606_03",
+        "BossMaxHp": 516200
+    },
+    {
+        "LevelID": 2636,
+        "Type": 0,
+        "MapID": 2606,
+        "FightID": 1,
+        "Condition": {
+            "2": 2626
+        },
+        "Monster": {
+            "600150601": 80
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2606_04.SeasonBoss_2606_04",
+        "BossMaxHp": 1093000
+    },
+    {
+        "LevelID": 2646,
+        "Type": 0,
+        "MapID": 2606,
+        "FightID": 1,
+        "Condition": {
+            "2": 2636
+        },
+        "Monster": {
+            "600150601": 90
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2606_05.SeasonBoss_2606_05",
+        "BossMaxHp": -1.0
+    },
+    {
+        "LevelID": 2607,
+        "Type": 0,
+        "MapID": 2607,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "600230102": 25
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2607_01.SeasonBoss_2607_01",
+        "BossMaxHp": 74000
+    },
+    {
+        "LevelID": 2617,
+        "Type": 0,
+        "MapID": 2607,
+        "FightID": 1,
+        "Condition": {
+            "2": 2607
+        },
+        "Monster": {
+            "600230102": 40
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2607_02.SeasonBoss_2607_02",
+        "BossMaxHp": 185600
+    },
+    {
+        "LevelID": 2627,
+        "Type": 0,
+        "MapID": 2607,
+        "FightID": 1,
+        "Condition": {
+            "2": 2617
+        },
+        "Monster": {
+            "600230102": 60
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2607_03.SeasonBoss_2607_03",
+        "BossMaxHp": 516200
+    },
+    {
+        "LevelID": 2637,
+        "Type": 0,
+        "MapID": 2607,
+        "FightID": 1,
+        "Condition": {
+            "2": 2627
+        },
+        "Monster": {
+            "600230102": 80
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2607_04.SeasonBoss_2607_04",
+        "BossMaxHp": 1093000
+    },
+    {
+        "LevelID": 2647,
+        "Type": 0,
+        "MapID": 2607,
+        "FightID": 1,
+        "Condition": {
+            "2": 2637
+        },
+        "Monster": {
+            "600230102": 90
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2607_05.SeasonBoss_2607_05",
+        "BossMaxHp": -1.0
+    },
+    {
+        "LevelID": 2608,
+        "Type": 0,
+        "MapID": 2608,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": [
+            [
+                600160101,
+                25
+            ],
+            4009013
+        ],
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2608_01.SeasonBoss_2608_01",
+        "BossMaxHp": 74000
+    },
+    {
+        "LevelID": 2618,
+        "Type": 0,
+        "MapID": 2608,
+        "FightID": 1,
+        "Condition": {
+            "2": 2608
+        },
+        "Monster": [
+            [
+                600160101,
+                40
+            ],
+            4009013
+        ],
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2608_02.SeasonBoss_2608_02",
+        "BossMaxHp": 185600
+    },
+    {
+        "LevelID": 2628,
+        "Type": 0,
+        "MapID": 2608,
+        "FightID": 1,
+        "Condition": {
+            "2": 2618
+        },
+        "Monster": [
+            [
+                600160101,
+                60
+            ],
+            4009013
+        ],
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2608_03.SeasonBoss_2608_03",
+        "BossMaxHp": 516200
+    },
+    {
+        "LevelID": 2638,
+        "Type": 0,
+        "MapID": 2608,
+        "FightID": 1,
+        "Condition": {
+            "2": 2628
+        },
+        "Monster": [
+            [
+                600160101,
+                80
+            ],
+            4009013
+        ],
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2608_04.SeasonBoss_2608_04",
+        "BossMaxHp": 1093000
+    },
+    {
+        "LevelID": 2648,
+        "Type": 0,
+        "MapID": 2608,
+        "FightID": 1,
+        "Condition": {
+            "2": 2638
+        },
+        "Monster": [
+            [
+                600160101,
+                90
+            ],
+            4009013
+        ],
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2608_05.SeasonBoss_2608_05",
+        "BossMaxHp": -1.0
+    },
+    {
+        "LevelID": 2609,
+        "Type": 0,
+        "MapID": 2609,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "600160203": 25
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2609_01.SeasonBoss_2609_01",
+        "BossMaxHp": 74000
+    },
+    {
+        "LevelID": 2619,
+        "Type": 0,
+        "MapID": 2609,
+        "FightID": 1,
+        "Condition": {
+            "2": 2609
+        },
+        "Monster": {
+            "600160203": 40
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2609_02.SeasonBoss_2609_02",
+        "BossMaxHp": 185600
+    },
+    {
+        "LevelID": 2629,
+        "Type": 0,
+        "MapID": 2609,
+        "FightID": 1,
+        "Condition": {
+            "2": 2619
+        },
+        "Monster": {
+            "600160203": 60
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2609_03.SeasonBoss_2609_03",
+        "BossMaxHp": 516200
+    },
+    {
+        "LevelID": 2639,
+        "Type": 0,
+        "MapID": 2609,
+        "FightID": 1,
+        "Condition": {
+            "2": 2629
+        },
+        "Monster": {
+            "600160203": 80
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2609_04.SeasonBoss_2609_04",
+        "BossMaxHp": 1093000
+    },
+    {
+        "LevelID": 2649,
+        "Type": 0,
+        "MapID": 2609,
+        "FightID": 1,
+        "Condition": {
+            "2": 2639
+        },
+        "Monster": {
+            "600160203": 90
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2609_05.SeasonBoss_2609_05",
+        "BossMaxHp": -1.0
+    },
+    {
+        "LevelID": 2701,
+        "Type": 0,
+        "MapID": 2701,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "600220601": 25
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2701_01.SeasonBoss_2701_01",
+        "BossMaxHp": 74000
+    },
+    {
+        "LevelID": 2711,
+        "Type": 0,
+        "MapID": 2701,
+        "FightID": 1,
+        "Condition": {
+            "2": 2701
+        },
+        "Monster": {
+            "600220601": 40
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2701_02.SeasonBoss_2701_02",
+        "BossMaxHp": 185600
+    },
+    {
+        "LevelID": 2721,
+        "Type": 0,
+        "MapID": 2701,
+        "FightID": 1,
+        "Condition": {
+            "2": 2711
+        },
+        "Monster": {
+            "600220601": 60
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2701_03.SeasonBoss_2701_03",
+        "BossMaxHp": 516200
+    },
+    {
+        "LevelID": 2731,
+        "Type": 0,
+        "MapID": 2701,
+        "FightID": 1,
+        "Condition": {
+            "2": 2721
+        },
+        "Monster": {
+            "600220601": 80
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2701_04.SeasonBoss_2701_04",
+        "BossMaxHp": 1093000
+    },
+    {
+        "LevelID": 2741,
+        "Type": 0,
+        "MapID": 2701,
+        "FightID": 1,
+        "Condition": {
+            "2": 2731
+        },
+        "Monster": {
+            "600220601": 90
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2701_05.SeasonBoss_2701_05",
+        "BossMaxHp": -1.0
+    },
+    {
+        "LevelID": 2702,
+        "Type": 0,
+        "MapID": 2702,
+        "FightID": 1,
+        "Condition": "",
+        "Monster": {
+            "600120901": 25
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2702_01.SeasonBoss_2702_01",
+        "BossMaxHp": 74000
+    },
+    {
+        "LevelID": 2712,
+        "Type": 0,
+        "MapID": 2702,
+        "FightID": 1,
+        "Condition": {
+            "2": 2702
+        },
+        "Monster": {
+            "600120901": 40
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2702_02.SeasonBoss_2702_02",
+        "BossMaxHp": 185600
+    },
+    {
+        "LevelID": 2722,
+        "Type": 0,
+        "MapID": 2702,
+        "FightID": 1,
+        "Condition": {
+            "2": 2712
+        },
+        "Monster": {
+            "600120901": 60
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2702_03.SeasonBoss_2702_03",
+        "BossMaxHp": 516200
+    },
+    {
+        "LevelID": 2732,
+        "Type": 0,
+        "MapID": 2702,
+        "FightID": 1,
+        "Condition": {
+            "2": 2722
+        },
+        "Monster": {
+            "600120901": 80
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2702_04.SeasonBoss_2702_04",
+        "BossMaxHp": 1093000
+    },
+    {
+        "LevelID": 2742,
+        "Type": 0,
+        "MapID": 2702,
+        "FightID": 1,
+        "Condition": {
+            "2": 2732
+        },
+        "Monster": {
+            "600120901": 90
+        },
+        "LevelStrength": 1,
+        "TaskPath": "SeasonBoss/SeasonBoss_2702_05.SeasonBoss_2702_05",
+        "BossMaxHp": -1.0
+    }
+]

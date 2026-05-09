@@ -1,0 +1,101 @@
+[
+    {
+        "ModeType": 1,
+        "RoundNum": 3,
+        "LifeNum": {
+            "2": 2,
+            "3": 3,
+            "4": 4
+        },
+        "FreshItemNum": {
+            "0": 0,
+            "2": 2
+        },
+        "DynBullet": [
+            1,
+            1,
+            0
+        ],
+        "MinMagazine": 2,
+        "ExpPerRound": 100,
+        "BaseMoney": "",
+        "MaxMoney": "",
+        "GuideBullet": "",
+        "GuideItems": "",
+        "GuideGirlID": "",
+        "ExpForMiniRound": [
+            24,
+            32,
+            44
+        ]
+    },
+    {
+        "ModeType": 2,
+        "RoundNum": 3,
+        "LifeNum": {
+            "2": 4
+        },
+        "FreshItemNum": {
+            "2": -1
+        },
+        "DynBullet": [
+            1,
+            0,
+            0
+        ],
+        "MinMagazine": 2,
+        "ExpPerRound": 500,
+        "BaseMoney": 6666,
+        "MaxMoney": 999999999,
+        "GuideBullet": "",
+        "GuideItems": "",
+        "GuideGirlID": "",
+        "ExpForMiniRound": [
+            120,
+            160,
+            220
+        ]
+    },
+    {
+        "ModeType": 3,
+        "RoundNum": 3,
+        "LifeNum": {
+            "2": 2,
+            "3": 3,
+            "4": 4
+        },
+        "FreshItemNum": {
+            "0": 0,
+            "2": 2
+        },
+        "DynBullet": [
+            1,
+            1,
+            1
+        ],
+        "MinMagazine": 2,
+        "ExpPerRound": 100,
+        "BaseMoney": "",
+        "MaxMoney": "",
+        "GuideBullet": [
+            1,
+            2
+        ],
+        "GuideItems": {
+            "1": [
+                2,
+                3
+            ],
+            "2": [
+                1,
+                2
+            ]
+        },
+        "GuideGirlID": 5,
+        "ExpForMiniRound": [
+            24,
+            32,
+            44
+        ]
+    }
+]

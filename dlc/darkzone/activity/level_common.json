@@ -1,0 +1,108 @@
+[
+    {
+        "LevelID": 11,
+        "LevelName": "owlevel_01",
+        "KeyItem": [
+            5,
+            24,
+            2,
+            1
+        ],
+        "DataItem": [
+            5,
+            24,
+            3,
+            1
+        ],
+        "PointItem": [
+            4,
+            1,
+            6,
+            3
+        ],
+        "PointMax": 300,
+        "ExchangeRate": [
+            0.025,
+            0
+        ],
+        "SimpleRate": 1000,
+        "CardCD": 1800,
+        "GZMax": 10000,
+        "Hunters": [
+            500150104,
+            500150404
+        ]
+    },
+    {
+        "LevelID": 35,
+        "LevelName": "dlc3_openworld",
+        "KeyItem": "",
+        "DataItem": [
+            4,
+            1,
+            9,
+            2
+        ],
+        "PointItem": "",
+        "PointMax": "",
+        "ExchangeRate": "",
+        "SimpleRate": "",
+        "CardCD": 1800,
+        "GZMax": "",
+        "Hunters": "",
+        "MaxDailyExp": 600
+    },
+    {
+        "LevelID": 5460,
+        "LevelName": "huntingground_01",
+        "KeyItem": [
+            5,
+            24,
+            2,
+            1
+        ],
+        "DataItem": [
+            5,
+            24,
+            3,
+            1
+        ],
+        "PointItem": [
+            4,
+            1,
+            6,
+            3
+        ],
+        "PointMax": 300,
+        "ExchangeRate": [
+            0.025,
+            0
+        ],
+        "SimpleRate": 1000,
+        "CardCD": 1800,
+        "GZMax": 10000,
+        "Hunters": [
+            500150104,
+            500150404
+        ]
+    },
+    {
+        "LevelID": 5461,
+        "LevelName": "huntingground_02",
+        "KeyItem": "",
+        "DataItem": [
+            4,
+            1,
+            9,
+            2
+        ],
+        "PointItem": "",
+        "PointMax": "",
+        "ExchangeRate": "",
+        "SimpleRate": "",
+        "CardCD": 1800,
+        "GZMax": "",
+        "Hunters": "",
+        "MaxDailyExp": 600
+    }
+]

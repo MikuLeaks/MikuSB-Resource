@@ -1,0 +1,53 @@
+[
+    {
+        "Id": 1,
+        "ClassName": "defend_curve",
+        "NameKey": "rogue3.item_name_1",
+        "DescKey": "rogue3.item_des_1",
+        "ManualType": 2,
+        "IconId": 1001070
+    },
+    {
+        "Id": 2,
+        "ClassName": "revover_HP",
+        "NameKey": "rogue3.item_name_2",
+        "DescKey": "rogue3.item_des_2",
+        "ManualType": 2,
+        "IconId": 1001071,
+        "Param1": 3000
+    },
+    {
+        "Id": 3,
+        "ClassName": "rebirth",
+        "NameKey": "rogue3.item_name_3",
+        "DescKey": "rogue3.item_des_3",
+        "ManualType": 2,
+        "IconId": 1001072,
+        "Param1": 3000
+    },
+    {
+        "Id": 4,
+        "ClassName": "remove_curve",
+        "NameKey": "rogue3.item_name_4",
+        "DescKey": "rogue3.item_des_4",
+        "ManualType": 2,
+        "IconId": 1001073
+    },
+    {
+        "Id": 5,
+        "ClassName": "refresh_shop",
+        "NameKey": "rogue3.item_name_5",
+        "DescKey": "rogue3.item_des_5",
+        "ManualType": 2,
+        "IconId": 1001074
+    },
+    {
+        "Id": 6,
+        "ClassName": "reduce_danger",
+        "NameKey": "rogue3.item_name_6",
+        "DescKey": "rogue3.item_des_6",
+        "ManualType": 2,
+        "IconId": 1001075,
+        "Param1": 10
+    }
+]

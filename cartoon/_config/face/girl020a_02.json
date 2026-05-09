@@ -1,0 +1,191 @@
+[
+    {
+        "Id": 1,
+        "Explain": "微笑",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_face01",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_face01.girl020a_02_face_tel_talk_face01'"
+    },
+    {
+        "Id": 2,
+        "Explain": "笑得眯眯眼",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_face02",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_face02.girl020a_02_face_tel_talk_face02'"
+    },
+    {
+        "Id": 3,
+        "Explain": "星星眼，激动",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_face03",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_face03.girl020a_02_face_tel_talk_face03'"
+    },
+    {
+        "Id": 4,
+        "Explain": "带一点尴尬地吃惊",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_face04",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_face04.girl020a_02_face_tel_talk_face04'"
+    },
+    {
+        "Id": 5,
+        "Explain": "吐舌",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_face05",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_face05.girl020a_02_face_tel_talk_face05'"
+    },
+    {
+        "Id": 6,
+        "Explain": "埋怨、生气",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_face06",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_face06.girl020a_02_face_tel_talk_face06'"
+    },
+    {
+        "Id": 7,
+        "Explain": "心虚",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_face07",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_face07.girl020a_02_face_tel_talk_face07'"
+    },
+    {
+        "Id": 8,
+        "Explain": "呆呆、发愣",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_face08",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_face08.girl020a_02_face_tel_talk_face08'"
+    },
+    {
+        "Id": 9,
+        "Explain": "馋",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_face09",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_face09.girl020a_02_face_tel_talk_face09'"
+    },
+    {
+        "Id": 10,
+        "Explain": "得意",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_face10",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_face10.girl020a_02_face_tel_talk_face10'"
+    },
+    {
+        "Id": 11,
+        "Explain": "严肃",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_face11",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_face11.girl020a_02_face_tel_talk_face11'"
+    },
+    {
+        "Id": 20,
+        "Explain": "入场表情",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_start",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_start.girl020a_02_face_tel_start'"
+    },
+    {
+        "Id": 21,
+        "Explain": "loopAstand",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_loopA_stand",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_loopA_stand.girl020a_02_face_tel_loopA_stand'"
+    },
+    {
+        "Id": 22,
+        "Explain": "loopA01花瓣",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_loopA_01",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_loopA_01.girl020a_02_face_tel_loopA_01'"
+    },
+    {
+        "Id": 23,
+        "Explain": "loopB睡觉",
+        "Type": "sequence",
+        "Name": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_loopB.girl020a_02_face_tel_loopB'",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_loopB.girl020a_02_face_tel_loopB'"
+    },
+    {
+        "Id": 24,
+        "Explain": "切换到talk",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_loop_totalk",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_loop_totalk.girl020a_02_face_tel_loop_totalk'"
+    },
+    {
+        "Id": 25,
+        "Explain": "talkstand",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_stand",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_stand.girl020a_02_face_tel_talk_stand'"
+    },
+    {
+        "Id": 26,
+        "Explain": "抽卡01",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_chouka",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_chouka.girl020a_02_face_tel_talk_chouka'"
+    },
+    {
+        "Id": 27,
+        "Explain": "抽卡02",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_chouka02",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_chouka02.girl020a_02_face_tel_talk_chouka02'"
+    },
+    {
+        "Id": 28,
+        "Explain": "抽卡03",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_chouka03",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_chouka03.girl020a_02_face_tel_talk_chouka03'"
+    },
+    {
+        "Id": 29,
+        "Explain": "夹腿",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_juantui",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_juantui.girl020a_02_face_tel_talk_juantui'"
+    },
+    {
+        "Id": 30,
+        "Explain": "嘘",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_xu",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_xu.girl020a_02_face_tel_talk_xu'"
+    },
+    {
+        "Id": 31,
+        "Explain": "点头",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_diantou",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_diantou.girl020a_02_face_tel_talk_diantou'"
+    },
+    {
+        "Id": 32,
+        "Explain": "慌张",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_huang",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_huang.girl020a_02_face_tel_talk_huang'"
+    },
+    {
+        "Id": 33,
+        "Explain": "害羞",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_haixiu",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_haixiu.girl020a_02_face_tel_talk_haixiu'"
+    },
+    {
+        "Id": 34,
+        "Explain": "挠头",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_naotou",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_naotou.girl020a_02_face_tel_talk_naotou'"
+    },
+    {
+        "Id": 35,
+        "Explain": "切换到loop",
+        "Type": "sequence",
+        "Name": "girl020a_02_face_tel_talk_toloop",
+        "Path": "AnimSequence'/Game/Characters/CommonFace/girl020_com01/callme/girl020a_02_face_tel_talk_toloop.girl020a_02_face_tel_talk_toloop'"
+    }
+]

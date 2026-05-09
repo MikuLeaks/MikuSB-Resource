@@ -1,0 +1,1956 @@
+[
+    {
+        "Id": 1,
+        "Background": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "Id": 2,
+        "Background": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "Id": 3,
+        "Background": [
+            0,
+            0,
+            0
+        ],
+        "TxtColor": [
+            255,
+            255,
+            255
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 6,
+        "PageIndex": "",
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block"
+    },
+    {
+        "Id": 4,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 1,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo001_05_sm.chess01_solo001_05_sm_C"
+    },
+    {
+        "Id": 1001,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 2,
+        "PageIndex": 3,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "disableCollision",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo008_01_sm.chess01_solo008_01_sm_C"
+    },
+    {
+        "Id": 1002,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "chess.1",
+        "Layer": 2,
+        "PageIndex": 3,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            2,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo009_01_sm.chess01_solo009_01_sm_C"
+    },
+    {
+        "Id": 1003,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 2,
+        "PageIndex": 3,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": 11,
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "disableCollision",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo011_01_sm.chess01_solo011_01_sm_C"
+    },
+    {
+        "Id": 1004,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 2,
+        "PageIndex": 3,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            2,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": 90,
+        "Interaction": "",
+        "Tags": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo006_01_sm.chess01_solo006_01_sm_C"
+    },
+    {
+        "Id": 1005,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 2,
+        "PageIndex": 3,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            2,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": 270,
+        "Interaction": "",
+        "Tags": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo006_01_sm.chess01_solo006_01_sm_C"
+    },
+    {
+        "Id": 1006,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 2,
+        "PageIndex": 3,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            2
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo006_01_sm.chess01_solo006_01_sm_C"
+    },
+    {
+        "Id": 1007,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 2,
+        "PageIndex": 3,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            2
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": 180,
+        "Interaction": "",
+        "Tags": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo006_01_sm.chess01_solo006_01_sm_C"
+    },
+    {
+        "Id": 1008,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 2,
+        "PageIndex": 3,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "disableCollision",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo004_01_sm.chess01_solo004_01_sm_C"
+    },
+    {
+        "Id": 1009,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 2,
+        "PageIndex": 3,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            3,
+            3
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo005_01_sm.chess01_solo005_01_sm_C"
+    },
+    {
+        "Id": 1010,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "chess.2",
+        "Layer": 2,
+        "PageIndex": 3,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            2,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo009_02_sm.chess01_solo009_02_sm_C"
+    },
+    {
+        "Id": 1011,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "chess.3",
+        "Layer": 2,
+        "PageIndex": 3,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            2,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo009_03_sm.chess01_solo009_03_sm_C"
+    },
+    {
+        "Id": 1012,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 2,
+        "PageIndex": 3,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "disableCollision",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo010_01_sm.chess01_solo010_01_sm_C"
+    },
+    {
+        "Id": 1013,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 2,
+        "PageIndex": 3,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "disableCollision",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/Chess/dlc1/chess01_solo008_01_sm.chess01_solo008_01_sm_C"
+    },
+    {
+        "Id": 1014,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 2,
+        "PageIndex": 3,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1.5,
+            1.5,
+            1.5
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": 11,
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "disableCollision",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo011_01_sm.chess01_solo011_01_sm_C"
+    },
+    {
+        "Id": 1015,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 2,
+        "PageIndex": 3,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            2.5,
+            2.5,
+            2.5
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": 11,
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "disableCollision",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo011_01_sm.chess01_solo011_01_sm_C"
+    },
+    {
+        "Id": 2001,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 1,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo003_02_sm.chess01_solo003_02_sm_C"
+    },
+    {
+        "Id": 2002,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 1,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo001_01_sm.chess01_solo001_01_sm_C"
+    },
+    {
+        "Id": 2003,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 1,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo002_01_sm.chess01_solo002_01_sm_C"
+    },
+    {
+        "Id": 2004,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 1,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo002_02_sm.chess01_solo002_02_sm_C"
+    },
+    {
+        "Id": 2005,
+        "Background": [
+            255,
+            255,
+            255,
+            128
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 1,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/demo/EmptyGround.EmptyGround_C"
+    },
+    {
+        "Id": 2006,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 3,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            2,
+            1
+        ],
+        "LandType": "walkable",
+        "ParticleId": "",
+        "Rotate": 90,
+        "Interaction": "",
+        "Tags": "blockbox",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo007_01_sm.chess01_solo007_01_sm_C"
+    },
+    {
+        "Id": 2007,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 3,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            2
+        ],
+        "LandType": "walkable",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "blockbox",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo007_01_sm.chess01_solo007_01_sm_C"
+    },
+    {
+        "Id": 2008,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 3,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            3,
+            1
+        ],
+        "LandType": "walkable",
+        "ParticleId": "",
+        "Rotate": 90,
+        "Interaction": "",
+        "Tags": "blockbox",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo007_02_sm.chess01_solo007_02_sm_C"
+    },
+    {
+        "Id": 2009,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 3,
+        "PageIndex": 2,
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            3
+        ],
+        "LandType": "walkable",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "blockbox",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_solo007_02_sm.chess01_solo007_02_sm_C"
+    },
+    {
+        "Id": 3001,
+        "Background": [
+            205,
+            133,
+            63
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "season_item.chess5",
+        "Desc": "season_item.chess5.desc",
+        "Icon": "chess.4",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "rewardbox",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "treasurebox1,showOutline",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact003_01_sm.chess01_interact003_01_sm_C"
+    },
+    {
+        "Id": 3002,
+        "Background": [
+            205,
+            133,
+            63
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "season_item.chess6",
+        "Desc": "season_item.chess6.desc",
+        "Icon": "chess.5",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "rewardbox",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "treasurebox2,showOutline",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact003_02_sm.chess01_interact003_02_sm_C"
+    },
+    {
+        "Id": 3003,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "season_item.chess1",
+        "Desc": "season_item.chess1.desc",
+        "Icon": "chess.6",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "itembox",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "showOutline",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact006_01_sm.chess01_interact006_01_sm_C"
+    },
+    {
+        "Id": 3004,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "season_item.chess22",
+        "Desc": "season_item.chess22.desc",
+        "Icon": "chess.7",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "",
+        "State0": "{{name=\"Emissive_1 Scale\", mat=0, value=0, delay=0, type=\"scalar\"}}",
+        "State1": "{{name=\"Emissive_1 Scale\", mat=0, value=150, delay=0, type=\"scalar\"}}",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact016_01_sm.chess01_interact016_01_sm_C"
+    },
+    {
+        "Id": 3005,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "season_item.chess2",
+        "Desc": "season_item.chess2.desc",
+        "Icon": "chess.8",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "itembox",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "showOutline",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact009_01_sm.chess01_interact009_01_sm_C"
+    },
+    {
+        "Id": 3006,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "season_item.chess4",
+        "Desc": "season_item.chess4.desc",
+        "Icon": "chess.9",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "itembox",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "showOutline",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact004_01_sm.chess01_interact004_01_sm_C"
+    },
+    {
+        "Id": 3007,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "season_item.chess12",
+        "Desc": "season_item.chess12.desc",
+        "Icon": "chess.10",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "itembox",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "showOutline",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact005_01_sm.chess01_interact005_01_sm_C"
+    },
+    {
+        "Id": 3008,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "season_item.chess13",
+        "Desc": "season_item.chess13.desc",
+        "Icon": "chess.11",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "itembox",
+        "Offset": "",
+        "Scale": [
+            0.8,
+            0.8,
+            0.8
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "showOutline",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact007_01_sm.chess01_interact007_01_sm_C"
+    },
+    {
+        "Id": 3009,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "season_item.chess14",
+        "Desc": "season_item.chess14.desc",
+        "Icon": "chess.12",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "itembox",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "showOutline",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact008_01_sm.chess01_interact008_01_sm_C"
+    },
+    {
+        "Id": 4001,
+        "Background": [
+            70,
+            50,
+            30
+        ],
+        "TxtColor": [
+            255,
+            255,
+            255
+        ],
+        "Name": "season_item.chess16",
+        "Desc": "season_item.chess16.desc",
+        "Icon": "chess.13",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "box,dontInteractAfterMove,showOutline",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact010_01_sm.chess01_interact010_01_sm_C"
+    },
+    {
+        "Id": 4002,
+        "Background": [
+            100,
+            80,
+            60
+        ],
+        "TxtColor": [
+            255,
+            255,
+            255
+        ],
+        "Name": "season_item.chess17",
+        "Desc": "season_item.chess17.desc",
+        "Icon": "chess.14",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "box,dontInteractAfterMove,showOutline",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact011_01_sm.chess01_interact011_01_sm_C"
+    },
+    {
+        "Id": 4003,
+        "Background": [
+            100,
+            80,
+            60
+        ],
+        "TxtColor": [
+            255,
+            255,
+            255
+        ],
+        "Name": "season_item.chess17",
+        "Desc": "season_item.chess17.desc",
+        "Icon": "chess.14",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "box,dontInteractAfterMove,showOutline",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact011_01_sm.chess01_interact011_01_sm_C"
+    },
+    {
+        "Id": 4004,
+        "Background": [
+            243,
+            202,
+            126
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "season_item.chess19",
+        "Desc": "season_item.chess19.desc",
+        "Icon": "chess.16",
+        "Layer": 3,
+        "PageIndex": "",
+        "ClassName": "box_receiver",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "ShowTipsAfterMoveTo,box_receiver",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact014_02_sm.chess01_interact014_02_sm_C"
+    },
+    {
+        "Id": 5001,
+        "Background": [
+            60,
+            36,
+            24
+        ],
+        "TxtColor": [
+            255,
+            255,
+            255
+        ],
+        "Name": "season_item.chess3",
+        "Desc": "season_item.chess3.desc",
+        "Icon": "chess.17",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "box_reset",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "forbidBack,showOutline",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact013_01_sm.chess01_interact013_01_sm_C"
+    },
+    {
+        "Id": 5002,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "season_item.chess28",
+        "Desc": "season_item.chess28.desc",
+        "Icon": "chess.18",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "door",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "blockbox",
+        "State0": "{{name=\"Emissive_1 Color\", mat=0, value={1,1,1}, delay=0.5, time=0.5, type=\"color\"},{name=\"MeshOffsetZ\", mat=1, value=0, delay=0,time=0.5, type=\"scalar\"}}",
+        "State1": "{{name=\"Emissive_1 Color\", mat=0, value={0,1,0}, delay=0, time=0.5, type=\"color\"},{name=\"MeshOffsetZ\", mat=1, value=-65, delay=0.5, time=0.5, type=\"scalar\"}}",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact015_01_sm.chess01_interact015_01_sm_C"
+    },
+    {
+        "Id": 5004,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "season_item.chess27",
+        "Desc": "season_item.chess27.desc",
+        "Icon": "chess.18",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "door",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "blockbox",
+        "State0": "{{name=\"Emissive_1 Color\", mat=0, value={1,1,1}, delay=0.5, time=0.5, type=\"color\"},{name=\"MeshOffsetZ\", mat=1, value=0, delay=0,time=0.5, type=\"scalar\"}}",
+        "State1": "{{name=\"Emissive_1 Color\", mat=0, value={0,1,0}, delay=0, time=0.5, type=\"color\"},{name=\"MeshOffsetZ\", mat=1, value=-65, delay=0.5, time=0.5, type=\"scalar\"}}",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact015_01_sm.chess01_interact015_01_sm_C"
+    },
+    {
+        "Id": 5005,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "season_item.chess20",
+        "Desc": "season_item.chess20.desc",
+        "Icon": "chess.18",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "door",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "blockbox",
+        "State0": "{{name=\"Emissive_1 Color\", mat=0, value={1,1,1}, delay=0.5, time=0.5, type=\"color\"},{name=\"MeshOffsetZ\", mat=1, value=0, delay=0,time=0.5, type=\"scalar\"}}",
+        "State1": "{{name=\"Emissive_1 Color\", mat=0, value={0,1,0}, delay=0, time=0.5, type=\"color\"},{name=\"MeshOffsetZ\", mat=1, value=-65, delay=0.5, time=0.5, type=\"scalar\"}}",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact015_01_sm.chess01_interact015_01_sm_C"
+    },
+    {
+        "Id": 5003,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "season_item.chess21",
+        "Desc": "season_item.chess21.desc",
+        "Icon": "",
+        "Layer": 3,
+        "PageIndex": "",
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "blockbox",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact015_02_sm.chess01_interact015_02_sm_C"
+    },
+    {
+        "Id": 6001,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 3,
+        "PageIndex": "",
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            0.1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": "",
+        "Tags": "start",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/demo/Empty.Empty_C"
+    },
+    {
+        "Id": 6002,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "season_item.chess23",
+        "Desc": "season_item.chess23.desc",
+        "Icon": "chess.19",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "walkable",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "blockbox,onlyFront,showOutline",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact017_01_sm.chess01_interact017_01_sm_C"
+    },
+    {
+        "Id": 6003,
+        "Background": [
+            255,
+            255,
+            255
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "",
+        "Desc": "",
+        "Icon": "",
+        "Layer": 3,
+        "PageIndex": "",
+        "ClassName": "npc",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "npc",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/demo/Empty.Empty_C"
+    },
+    {
+        "Id": 7001,
+        "Background": [
+            112,
+            128,
+            143
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "season_item.chess9",
+        "Desc": "season_item.chess9.desc",
+        "Icon": "chess.20",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "fight",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": 1,
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact002_01_sm.chess01_interact002_01_sm_C"
+    },
+    {
+        "Id": 7002,
+        "Background": [
+            112,
+            128,
+            144
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "season_item.chess10",
+        "Desc": "season_item.chess10.desc",
+        "Icon": "chess.21",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "fight",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": 2,
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact002_02_sm.chess01_interact002_02_sm_C"
+    },
+    {
+        "Id": 7003,
+        "Background": [
+            112,
+            128,
+            143
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "season_item.chess11",
+        "Desc": "season_item.chess11.desc",
+        "Icon": "chess.22",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "fight",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": 3,
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact002_03_sm.chess01_interact002_03_sm_C"
+    },
+    {
+        "Id": 8001,
+        "Background": [
+            216,
+            191,
+            216
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "season_item.chess7",
+        "Desc": "season_item.chess7.desc",
+        "Icon": "chess.23",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "plot",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact001_01_sm.chess01_interact001_01_sm_C"
+    },
+    {
+        "Id": 8002,
+        "Background": [
+            216,
+            191,
+            216
+        ],
+        "TxtColor": [
+            0,
+            0,
+            0
+        ],
+        "Name": "season_item.chess8",
+        "Desc": "season_item.chess8.desc",
+        "Icon": "chess.24",
+        "Layer": 4,
+        "PageIndex": "",
+        "ClassName": "plot",
+        "Offset": "",
+        "Scale": [
+            1,
+            1,
+            1
+        ],
+        "Size": [
+            1,
+            1
+        ],
+        "LandType": "block",
+        "ParticleId": "",
+        "Rotate": "",
+        "Interaction": 1,
+        "Tags": "",
+        "State0": "",
+        "State1": "",
+        "ModelPath": "/Game/Blueprints/chess/dlc1/chess01_interact001_02_sm.chess01_interact001_02_sm_C"
+    }
+]

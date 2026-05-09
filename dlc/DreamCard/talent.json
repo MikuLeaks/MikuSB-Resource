@@ -1,0 +1,809 @@
+[
+    {
+        "TalentID": 501,
+        "TalrntUIID": 4106001,
+        "Name": "dreamcard.talent_name01",
+        "Des": "dreamcard.talent_desc01",
+        "Condition": "",
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            1
+        ],
+        "Count": [
+            [
+                1
+            ]
+        ],
+        "Tab": 0
+    },
+    {
+        "TalentID": 502,
+        "TalrntUIID": 4106002,
+        "Name": "dreamcard.talent_name02",
+        "Des": "dreamcard.talent_desc02",
+        "Condition": 501,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            2
+        ],
+        "Count": [
+            [
+                24,
+                1,
+                101
+            ]
+        ],
+        "Tab": 0
+    },
+    {
+        "TalentID": 503,
+        "TalrntUIID": 4106010,
+        "Name": "dreamcard.talent_name03",
+        "Des": "dreamcard.talent_desc03",
+        "Condition": "",
+        "Cover": 504,
+        "MoonNum": 1,
+        "EffectID": [
+            3
+        ],
+        "Count": [
+            [
+                150
+            ]
+        ],
+        "Tab": 0
+    },
+    {
+        "TalentID": 504,
+        "TalrntUIID": 4106010,
+        "Name": "dreamcard.talent_name04",
+        "Des": "dreamcard.talent_desc04",
+        "Condition": 503,
+        "Cover": 505,
+        "MoonNum": 1,
+        "EffectID": [
+            3
+        ],
+        "Count": [
+            [
+                250
+            ]
+        ],
+        "Tab": 0
+    },
+    {
+        "TalentID": 505,
+        "TalrntUIID": 4106010,
+        "Name": "dreamcard.talent_name05",
+        "Des": "dreamcard.talent_desc05",
+        "Condition": 504,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            3
+        ],
+        "Count": [
+            [
+                500
+            ]
+        ],
+        "Tab": 0
+    },
+    {
+        "TalentID": 506,
+        "TalrntUIID": 4106003,
+        "Name": "dreamcard.talent_name06",
+        "Des": "dreamcard.talent_desc06",
+        "Condition": "",
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            4
+        ],
+        "Count": [
+            [
+                1
+            ]
+        ],
+        "Tab": 0
+    },
+    {
+        "TalentID": 507,
+        "TalrntUIID": 4106004,
+        "Name": "dreamcard.talent_name07",
+        "Des": "dreamcard.talent_desc07",
+        "Condition": 506,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            5
+        ],
+        "Count": {
+            "2": 1
+        },
+        "Tab": 0
+    },
+    {
+        "TalentID": 508,
+        "TalrntUIID": 4106004,
+        "Name": "dreamcard.talent_name08",
+        "Des": "dreamcard.talent_desc08",
+        "Condition": 507,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            5
+        ],
+        "Count": {
+            "3": 1
+        },
+        "Tab": 0
+    },
+    {
+        "TalentID": 509,
+        "TalrntUIID": 4106004,
+        "Name": "dreamcard.talent_name09",
+        "Des": "dreamcard.talent_desc09",
+        "Condition": 508,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            5
+        ],
+        "Count": {
+            "4": 1
+        },
+        "Tab": 0
+    },
+    {
+        "TalentID": 510,
+        "TalrntUIID": 4106005,
+        "Name": "dreamcard.talent_name10",
+        "Des": "dreamcard.talent_desc10",
+        "Condition": "",
+        "Cover": 511,
+        "MoonNum": 1,
+        "EffectID": [
+            6
+        ],
+        "Count": [
+            [
+                3
+            ]
+        ],
+        "Tab": 0
+    },
+    {
+        "TalentID": 511,
+        "TalrntUIID": 4106005,
+        "Name": "dreamcard.talent_name11",
+        "Des": "dreamcard.talent_desc11",
+        "Condition": 510,
+        "Cover": 512,
+        "MoonNum": 1,
+        "EffectID": [
+            6
+        ],
+        "Count": [
+            [
+                5
+            ]
+        ],
+        "Tab": 0
+    },
+    {
+        "TalentID": 512,
+        "TalrntUIID": 4106005,
+        "Name": "dreamcard.talent_name12",
+        "Des": "dreamcard.talent_desc12",
+        "Condition": 511,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            6
+        ],
+        "Count": [
+            [
+                7
+            ]
+        ],
+        "Tab": 0
+    },
+    {
+        "TalentID": 513,
+        "TalrntUIID": 4106007,
+        "Name": "dreamcard.talent_name13",
+        "Des": "dreamcard.talent_desc13",
+        "Condition": "",
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            8
+        ],
+        "Count": [
+            [
+                5
+            ]
+        ],
+        "Tab": 0
+    },
+    {
+        "TalentID": 514,
+        "TalrntUIID": 4106006,
+        "Name": "dreamcard.talent_name14",
+        "Des": "dreamcard.talent_desc14",
+        "Condition": 513,
+        "Cover": 515,
+        "MoonNum": 1,
+        "EffectID": [
+            7
+        ],
+        "Count": [
+            [
+                4
+            ]
+        ],
+        "Tab": 0
+    },
+    {
+        "TalentID": 515,
+        "TalrntUIID": 4106006,
+        "Name": "dreamcard.talent_name15",
+        "Des": "dreamcard.talent_desc15",
+        "Condition": 514,
+        "Cover": 516,
+        "MoonNum": 1,
+        "EffectID": [
+            7
+        ],
+        "Count": [
+            [
+                6
+            ]
+        ],
+        "Tab": 0
+    },
+    {
+        "TalentID": 516,
+        "TalrntUIID": 4106006,
+        "Name": "dreamcard.talent_name16",
+        "Des": "dreamcard.talent_desc16",
+        "Condition": 515,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            7
+        ],
+        "Count": [
+            [
+                8
+            ]
+        ],
+        "Tab": 0
+    },
+    {
+        "TalentID": 517,
+        "TalrntUIID": 4106008,
+        "Name": "dreamcard.talent_name17",
+        "Des": "dreamcard.talent_desc17",
+        "Condition": "",
+        "Cover": 520,
+        "MoonNum": 1,
+        "EffectID": [
+            9
+        ],
+        "Count": [
+            [
+                3,
+                16,
+                1,
+                102
+            ]
+        ],
+        "Tab": 0
+    },
+    {
+        "TalentID": 518,
+        "TalrntUIID": 4106008,
+        "Name": "dreamcard.talent_name18",
+        "Des": "dreamcard.talent_desc18",
+        "Condition": 517,
+        "Cover": 520,
+        "MoonNum": 1,
+        "EffectID": [
+            9
+        ],
+        "Count": [
+            [
+                5,
+                24,
+                1,
+                102
+            ]
+        ],
+        "Tab": 0
+    },
+    {
+        "TalentID": 519,
+        "TalrntUIID": 4106008,
+        "Name": "dreamcard.talent_name19",
+        "Des": "dreamcard.talent_desc19",
+        "Condition": 518,
+        "Cover": 520,
+        "MoonNum": 1,
+        "EffectID": [
+            9
+        ],
+        "Count": [
+            [
+                7,
+                32,
+                1,
+                102
+            ]
+        ],
+        "Tab": 0
+    },
+    {
+        "TalentID": 520,
+        "TalrntUIID": 4106009,
+        "Name": "dreamcard.talent_name20",
+        "Des": "dreamcard.talent_desc20",
+        "Condition": 519,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            10
+        ],
+        "Count": [
+            [
+                24,
+                1,
+                102
+            ]
+        ],
+        "Tab": 0
+    },
+    {
+        "TalentID": 521,
+        "TalrntUIID": 4106011,
+        "Name": "dreamcard.talent_name21",
+        "Des": "dreamcard.talent_desc21",
+        "Condition": "",
+        "Cover": 522,
+        "MoonNum": 1,
+        "EffectID": [
+            11
+        ],
+        "Count": {
+            "111": 1
+        },
+        "Tab": 1
+    },
+    {
+        "TalentID": 522,
+        "TalrntUIID": 4106011,
+        "Name": "dreamcard.talent_name22",
+        "Des": "dreamcard.talent_desc22",
+        "Condition": 521,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            11
+        ],
+        "Count": {
+            "111": 2
+        },
+        "Tab": 1
+    },
+    {
+        "TalentID": 523,
+        "TalrntUIID": 4106012,
+        "Name": "dreamcard.talent_name23",
+        "Des": "dreamcard.talent_desc23",
+        "Condition": "",
+        "Cover": 524,
+        "MoonNum": 1,
+        "EffectID": [
+            15
+        ],
+        "Count": {
+            "126": 4
+        },
+        "Tab": 1
+    },
+    {
+        "TalentID": 524,
+        "TalrntUIID": 4106012,
+        "Name": "dreamcard.talent_name24",
+        "Des": "dreamcard.talent_desc24",
+        "Condition": 523,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            15
+        ],
+        "Count": {
+            "126": 8
+        },
+        "Tab": 1
+    },
+    {
+        "TalentID": 525,
+        "TalrntUIID": 4106013,
+        "Name": "dreamcard.talent_name25",
+        "Des": "dreamcard.talent_desc25",
+        "Condition": "",
+        "Cover": 526,
+        "MoonNum": 1,
+        "EffectID": [
+            12
+        ],
+        "Count": {
+            "79": 1
+        },
+        "Tab": 1
+    },
+    {
+        "TalentID": 526,
+        "TalrntUIID": 4106013,
+        "Name": "dreamcard.talent_name26",
+        "Des": "dreamcard.talent_desc26",
+        "Condition": 525,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            12
+        ],
+        "Count": {
+            "79": 2
+        },
+        "Tab": 1
+    },
+    {
+        "TalentID": 527,
+        "TalrntUIID": 4106014,
+        "Name": "dreamcard.talent_name27",
+        "Des": "dreamcard.talent_desc27",
+        "Condition": "",
+        "Cover": 528,
+        "MoonNum": 1,
+        "EffectID": [
+            13
+        ],
+        "Count": {
+            "2": 1
+        },
+        "Tab": 1
+    },
+    {
+        "TalentID": 528,
+        "TalrntUIID": 4106014,
+        "Name": "dreamcard.talent_name28",
+        "Des": "dreamcard.talent_desc28",
+        "Condition": 527,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            13
+        ],
+        "Count": {
+            "2": 2
+        },
+        "Tab": 1
+    },
+    {
+        "TalentID": 529,
+        "TalrntUIID": 4106015,
+        "Name": "dreamcard.talent_name29",
+        "Des": "dreamcard.talent_desc29",
+        "Condition": "",
+        "Cover": 530,
+        "MoonNum": 1,
+        "EffectID": [
+            14
+        ],
+        "Count": {
+            "40": 1
+        },
+        "Tab": 1
+    },
+    {
+        "TalentID": 530,
+        "TalrntUIID": 4106015,
+        "Name": "dreamcard.talent_name30",
+        "Des": "dreamcard.talent_desc30",
+        "Condition": 529,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            14
+        ],
+        "Count": {
+            "40": 2
+        },
+        "Tab": 1
+    },
+    {
+        "TalentID": 531,
+        "TalrntUIID": 4106016,
+        "Name": "dreamcard.talent_name31",
+        "Des": "dreamcard.talent_desc31",
+        "Condition": "",
+        "Cover": 532,
+        "MoonNum": 1,
+        "EffectID": [
+            15
+        ],
+        "Count": {
+            "53": 50
+        },
+        "Tab": 1
+    },
+    {
+        "TalentID": 532,
+        "TalrntUIID": 4106016,
+        "Name": "dreamcard.talent_name32",
+        "Des": "dreamcard.talent_desc32",
+        "Condition": 531,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            15
+        ],
+        "Count": {
+            "53": 100
+        },
+        "Tab": 1
+    },
+    {
+        "TalentID": 533,
+        "TalrntUIID": 4106017,
+        "Name": "dreamcard.talent_name33",
+        "Des": "dreamcard.talent_desc33",
+        "Condition": "",
+        "Cover": 534,
+        "MoonNum": 1,
+        "EffectID": [
+            16
+        ],
+        "Count": [
+            [
+                93,
+                1,
+                97
+            ]
+        ],
+        "Tab": 1
+    },
+    {
+        "TalentID": 534,
+        "TalrntUIID": 4106017,
+        "Name": "dreamcard.talent_name34",
+        "Des": "dreamcard.talent_desc34",
+        "Condition": 533,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            16
+        ],
+        "Count": [
+            [
+                93,
+                2,
+                97
+            ]
+        ],
+        "Tab": 1
+    },
+    {
+        "TalentID": 535,
+        "TalrntUIID": 4106018,
+        "Name": "dreamcard.talent_name35",
+        "Des": "dreamcard.talent_desc35",
+        "Condition": "",
+        "Cover": 536,
+        "MoonNum": 1,
+        "EffectID": [
+            18
+        ],
+        "Count": [
+            [
+                [
+                    65,
+                    71,
+                    73
+                ],
+                1,
+                62
+            ]
+        ],
+        "Tab": 1
+    },
+    {
+        "TalentID": 536,
+        "TalrntUIID": 4106018,
+        "Name": "dreamcard.talent_name36",
+        "Des": "dreamcard.talent_desc36",
+        "Condition": 535,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            18
+        ],
+        "Count": [
+            [
+                [
+                    65,
+                    71,
+                    73
+                ],
+                2,
+                62
+            ]
+        ],
+        "Tab": 1
+    },
+    {
+        "TalentID": 537,
+        "TalrntUIID": 4104010,
+        "Name": "dreamcard.talent_name37",
+        "Des": "dreamcard.talent_desc37",
+        "Condition": "",
+        "Cover": 538,
+        "MoonNum": 1,
+        "EffectID": [
+            15
+        ],
+        "Count": {
+            "145": 1
+        },
+        "Tab": 2
+    },
+    {
+        "TalentID": 538,
+        "TalrntUIID": 4104010,
+        "Name": "dreamcard.talent_name38",
+        "Des": "dreamcard.talent_desc38",
+        "Condition": 537,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            15
+        ],
+        "Count": {
+            "145": 2
+        },
+        "Tab": 2
+    },
+    {
+        "TalentID": 539,
+        "TalrntUIID": 4104011,
+        "Name": "dreamcard.talent_name39",
+        "Des": "dreamcard.talent_desc39",
+        "Condition": "",
+        "Cover": 540,
+        "MoonNum": 1,
+        "EffectID": [
+            15
+        ],
+        "Count": {
+            "161": 1
+        },
+        "Tab": 2
+    },
+    {
+        "TalentID": 540,
+        "TalrntUIID": 4104011,
+        "Name": "dreamcard.talent_name40",
+        "Des": "dreamcard.talent_desc40",
+        "Condition": 539,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            15
+        ],
+        "Count": {
+            "161": 2
+        },
+        "Tab": 2
+    },
+    {
+        "TalentID": 541,
+        "TalrntUIID": 4104012,
+        "Name": "dreamcard.talent_name41",
+        "Des": "dreamcard.talent_desc41",
+        "Condition": "",
+        "Cover": 542,
+        "MoonNum": 1,
+        "EffectID": [
+            15
+        ],
+        "Count": {
+            "174": 1
+        },
+        "Tab": 2
+    },
+    {
+        "TalentID": 542,
+        "TalrntUIID": 4104012,
+        "Name": "dreamcard.talent_name42",
+        "Des": "dreamcard.talent_desc42",
+        "Condition": 541,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            15
+        ],
+        "Count": {
+            "174": 2
+        },
+        "Tab": 2
+    },
+    {
+        "TalentID": 543,
+        "TalrntUIID": 4104013,
+        "Name": "dreamcard.talent_name43",
+        "Des": "dreamcard.talent_desc43",
+        "Condition": "",
+        "Cover": 544,
+        "MoonNum": 1,
+        "EffectID": [
+            15
+        ],
+        "Count": {
+            "186": 1
+        },
+        "Tab": 2
+    },
+    {
+        "TalentID": 544,
+        "TalrntUIID": 4104013,
+        "Name": "dreamcard.talent_name44",
+        "Des": "dreamcard.talent_desc44",
+        "Condition": 543,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            15
+        ],
+        "Count": {
+            "186": 2
+        },
+        "Tab": 2
+    },
+    {
+        "TalentID": 545,
+        "TalrntUIID": 4104014,
+        "Name": "dreamcard.talent_name45",
+        "Des": "dreamcard.talent_desc45",
+        "Condition": "",
+        "Cover": 546,
+        "MoonNum": 1,
+        "EffectID": [
+            13
+        ],
+        "Count": {
+            "9": 1
+        },
+        "Tab": 2
+    },
+    {
+        "TalentID": 546,
+        "TalrntUIID": 4104014,
+        "Name": "dreamcard.talent_name46",
+        "Des": "dreamcard.talent_desc46",
+        "Condition": 545,
+        "Cover": "",
+        "MoonNum": 1,
+        "EffectID": [
+            13
+        ],
+        "Count": {
+            "9": 2
+        },
+        "Tab": 2
+    }
+]

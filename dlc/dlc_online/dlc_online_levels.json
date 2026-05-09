@@ -1,0 +1,26 @@
+[
+    {
+        "Id": 1,
+        "Path": "/Game/Maps/chess/dlc03/chess_dlc03_01",
+        "RoomType": "single",
+        "Camp": "",
+        "Team": "",
+        "Player": 4
+    },
+    {
+        "Id": 2,
+        "Path": "/Game/Maps/chess/dlc03/chess_dlc03_01",
+        "RoomType": "team",
+        "Camp": "",
+        "Team": 2,
+        "Player": 4
+    },
+    {
+        "Id": 3,
+        "Path": "/Game/Maps/chess/dlc03/chess_dlc03_01",
+        "RoomType": "normal",
+        "Camp": 2,
+        "Team": 2,
+        "Player": 4
+    }
+]

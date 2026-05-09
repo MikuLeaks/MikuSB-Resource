@@ -1,0 +1,8229 @@
+[
+    {
+        "ID": 1,
+        "Girl": [
+            1,
+            10,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 100017,
+        "LevelId": 5000,
+        "Spine": "/Game/Spine/Hero/Girl010a/tryGirl_010a.tryGirl_010a",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "160D03FF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "FFF28EFF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            6
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 2,
+        "Girl": [
+            1,
+            2,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 100011,
+        "LevelId": 5001,
+        "Spine": "/Game/Spine/Hero/Girl002a/tryGirl_002a.tryGirl_002a",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": 1602056,
+        "TitleColor": "071617FF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "7AE3F9FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            9
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 3,
+        "Girl": [
+            1,
+            14,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 100021,
+        "LevelId": 5002,
+        "Spine": "/Game/Spine/Hero/Girl014a/tryGirl_014a.tryGirl_014a",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "F0F6FFFF",
+        "TitleBg": 1602063,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            197
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 4,
+        "Girl": [
+            1,
+            13,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 100020,
+        "LevelId": 5003,
+        "Spine": "",
+        "SpineAnimInfo": "",
+        "Pose": 1602057,
+        "PoseOffset": [
+            0,
+            0,
+            1
+        ],
+        "BgColor": "F1C04B66",
+        "Bg": 1602059,
+        "TitleColor": "12141FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "FFFFFFFF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            107
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 5,
+        "Girl": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 100015,
+        "LevelId": 5004,
+        "Spine": "/Game/Spine/Hero/Girl001a/tryGirl_001a.tryGirl_001a",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            133
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 6,
+        "Girl": [
+            1,
+            6,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103011,
+        "LevelId": 5009,
+        "Spine": "/Game/Spine/Hero/Girl006a/tryGirl_006a.tryGirl_006a",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            133
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 7,
+        "Girl": [
+            1,
+            4,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103008,
+        "LevelId": 5008,
+        "Spine": "/Game/Spine/Hero/Girl004a/tryGirl_004a.tryGirl_004a",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            12
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 8,
+        "Girl": [
+            1,
+            6,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103014,
+        "LevelId": 5006,
+        "Spine": "/Game/Spine/Hero/Girl006a_02/tryGirl_006a_02.tryGirl_006a_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            603
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 9,
+        "Girl": [
+            1,
+            4,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103015,
+        "LevelId": 5005,
+        "Spine": "/Game/Spine/Hero/Girl004a_02/tryGirl_004a_02.tryGirl_004a_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            604
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 10,
+        "Girl": [
+            1,
+            8,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103016,
+        "LevelId": 5007,
+        "Spine": "/Game/Spine/Hero/Girl008a_02/tryGirl_008a_02.tryGirl_008a_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 11,
+        "Girl": [
+            1,
+            12,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103027,
+        "LevelId": 5010,
+        "Spine": "/Game/Spine/Hero/Girl012a/tryGirl_012a.tryGirl_012a",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            183
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 13,
+        "Girl": [
+            1,
+            12,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103036,
+        "LevelId": 5012,
+        "Spine": "/Game/Spine/Hero/Girl012a_02/tryGirl_012a_02.tryGirl_012a_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            605
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 14,
+        "Girl": [
+            1,
+            14,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103037,
+        "LevelId": 5013,
+        "Spine": "/Game/Spine/Hero/Girl014a_03/tryGirl_014a_03.tryGirl_014a_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            606
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 15,
+        "Girl": [
+            1,
+            11,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103035,
+        "LevelId": 5014,
+        "Spine": "/Game/Spine/Hero/Girl011_02/tryGirl_011_02.tryGirl_011_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "DLC_Logic.EnterShop",
+        "tbParam": "",
+        "JumpBtnName": "activity.try_girl_Icon5",
+        "JumpBtnImg": 1701219
+    },
+    {
+        "ID": 16,
+        "Girl": [
+            1,
+            5,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103033,
+        "LevelId": 5015,
+        "Spine": "/Game/Spine/Hero/Girl005a_02/tryGirl_005a_02.tryGirl_005a_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 17,
+        "Girl": [
+            1,
+            10,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103038,
+        "LevelId": 5016,
+        "Spine": "/Game/Spine/Hero/Girl010_03/tryGirl_010_03.tryGirl_010_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            7,
+            50
+        ],
+        "JumpBtnName": "activity.try_girl_Icon7",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 18,
+        "Girl": [
+            1,
+            10,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103034,
+        "LevelId": 5017,
+        "Spine": "/Game/Spine/Hero/Girl010a_03/tryGirl_010a_03.tryGirl_010a_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "MallCharge",
+        "ConditionGoto": "",
+        "tbParam": "",
+        "JumpBtnName": "activity.try_girl_Icon4",
+        "JumpBtnImg": 1701219
+    },
+    {
+        "ID": 19,
+        "Girl": [
+            1,
+            17,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103054,
+        "LevelId": 5018,
+        "Spine": "/Game/Spine/Hero/Girl017/tryGirl_017.tryGirl_017",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            133
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 20,
+        "Girl": [
+            1,
+            17,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103052,
+        "LevelId": 5019,
+        "Spine": "/Game/Spine/Hero/Girl017_02/tryGirl_017_02.tryGirl_017_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            607
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 21,
+        "Girl": [
+            1,
+            2,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103050,
+        "LevelId": 5020,
+        "Spine": "/Game/Spine/Hero/Girl002a_03/tryGirl_002a_03.tryGirl_002a_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            609
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 22,
+        "Girl": [
+            1,
+            8,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103051,
+        "LevelId": 5021,
+        "Spine": "/Game/Spine/Hero/Girl008a_03/tryGirl_008a_03.tryGirl_008a_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            608
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 23,
+        "Girl": [
+            1,
+            10,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103053,
+        "LevelId": 5022,
+        "Spine": "/Game/Spine/Hero/Girl010a_02/tryGirl_010a_02.tryGirl_010a_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 24,
+        "Girl": [
+            1,
+            15,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103075,
+        "LevelId": 5023,
+        "Spine": "/Game/Spine/Hero/Girl015/tryGirl_015.tryGirl_015",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            117
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 25,
+        "Girl": [
+            1,
+            15,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103071,
+        "LevelId": 5024,
+        "Spine": "/Game/Spine/Hero/Girl015_02/tryGirl_015_02.tryGirl_015_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            610
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 26,
+        "Girl": [
+            1,
+            4,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103072,
+        "LevelId": 5025,
+        "Spine": "/Game/Spine/Hero/Girl004a_03/tryGirl_004a_03.tryGirl_004a_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            611
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 27,
+        "Girl": [
+            1,
+            6,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103073,
+        "LevelId": 5026,
+        "Spine": "/Game/Spine/Hero/Girl006a_03/tryGirl_006a_03.tryGirl_006a_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 28,
+        "Girl": [
+            1,
+            8,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103074,
+        "LevelId": 5027,
+        "Spine": "/Game/Spine/Hero/Girl008_03/tryGirl_008_03.tryGirl_008_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            7,
+            50
+        ],
+        "JumpBtnName": "activity.try_girl_Icon7",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 29,
+        "Girl": [
+            1,
+            2,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103079,
+        "LevelId": 5028,
+        "Spine": "/Game/Spine/Hero/Girl002a_02/tryGirl_002a_02.tryGirl_002a_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            602
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 30,
+        "Girl": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103080,
+        "LevelId": 5029,
+        "Spine": "/Game/Spine/Hero/Girl001a_03/tryGirl_001a_03.tryGirl_001a_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            612
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 31,
+        "Girl": [
+            1,
+            16,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103081,
+        "LevelId": 5030,
+        "Spine": "/Game/Spine/Hero/Girl016/tryGirl_016.tryGirl_016",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            177
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 32,
+        "Girl": [
+            1,
+            8,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103082,
+        "LevelId": 5031,
+        "Spine": "/Game/Spine/Hero/Girl008a_04/tryGirl_008a_04.tryGirl_008a_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            613
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 33,
+        "Girl": [
+            1,
+            16,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103083,
+        "LevelId": 5032,
+        "Spine": "/Game/Spine/Hero/Girl016_02/tryGirl_016_02.tryGirl_016_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            614
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 34,
+        "Girl": [
+            1,
+            2,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103084,
+        "LevelId": 5033,
+        "Spine": "/Game/Spine/Hero/Girl002a_04/tryGirl_002a_04.tryGirl_002a_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 35,
+        "Girl": [
+            1,
+            7,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103094,
+        "LevelId": 5034,
+        "Spine": "/Game/Spine/Hero/Girl007a/tryGirl_007a.tryGirl_007a",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            197
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 36,
+        "Girl": [
+            1,
+            11,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103095,
+        "LevelId": 5035,
+        "Spine": "/Game/Spine/Hero/Girl011a/tryGirl_011a.tryGirl_011a",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            183
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 37,
+        "Girl": [
+            1,
+            7,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103097,
+        "LevelId": 5036,
+        "Spine": "/Game/Spine/Hero/Girl007a_02/tryGirl_007a_02.tryGirl_007a_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            615
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 38,
+        "Girl": [
+            1,
+            11,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103098,
+        "LevelId": 5037,
+        "Spine": "/Game/Spine/Hero/Girl011a_02/tryGirl_011a_02.tryGirl_011a_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            616
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 39,
+        "Girl": [
+            1,
+            17,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103099,
+        "LevelId": 5038,
+        "Spine": "/Game/Spine/Hero/Girl017_04/tryGirl_017_04.tryGirl_017_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 40,
+        "Girl": [
+            1,
+            13,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103100,
+        "LevelId": 5039,
+        "Spine": "/Game/Spine/Hero/Girl013a/tryGirl_013a.tryGirl_013a",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            161
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 41,
+        "Girl": [
+            1,
+            13,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103101,
+        "LevelId": 5040,
+        "Spine": "/Game/Spine/Hero/Girl013a_02/tryGirl_013a_02.tryGirl_013a_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            617
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 42,
+        "Girl": [
+            1,
+            15,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103102,
+        "LevelId": 5041,
+        "Spine": "/Game/Spine/Hero/Girl015_04/tryGirl_015_04.tryGirl_015_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            618
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 43,
+        "Girl": [
+            1,
+            4,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103104,
+        "LevelId": 5042,
+        "Spine": "/Game/Spine/Hero/Girl004_04/tryGirl_004_04.tryGirl_004_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            7,
+            50
+        ],
+        "JumpBtnName": "activity.try_girl_Icon7",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 44,
+        "Girl": [
+            1,
+            12,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103103,
+        "LevelId": 5043,
+        "Spine": "/Game/Spine/Hero/Girl012a_03/tryGirl_012a_03.tryGirl_012a_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 45,
+        "Girl": [
+            1,
+            2,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103114,
+        "LevelId": 5044,
+        "Spine": "/Game/Spine/Hero/Girl002b/tryGirl_002b.tryGirl_002b",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            195
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 46,
+        "Girl": [
+            1,
+            8,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103115,
+        "LevelId": 5045,
+        "Spine": "/Game/Spine/Hero/Girl008b/tryGirl_008b.tryGirl_008b",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            195
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 47,
+        "Girl": [
+            1,
+            2,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103117,
+        "LevelId": 5046,
+        "Spine": "/Game/Spine/Hero/Girl002b_02/tryGirl_002b_02.tryGirl_002b_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1006
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 48,
+        "Girl": [
+            1,
+            8,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103118,
+        "LevelId": 5047,
+        "Spine": "/Game/Spine/Hero/Girl008b_02/tryGirl_008b_02.tryGirl_008b_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1007
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 49,
+        "Girl": [
+            1,
+            5,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103119,
+        "LevelId": 5048,
+        "Spine": "/Game/Spine/Hero/Girl005a_03/tryGirl_005a_03.tryGirl_005a_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            621
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 50,
+        "Girl": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103120,
+        "LevelId": 5049,
+        "Spine": "/Game/Spine/Hero/Girl002_03/tryGirl_002_03.tryGirl_002_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            15,
+            148
+        ],
+        "JumpBtnName": "activity.try_girl_Icon8",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 51,
+        "Girl": [
+            1,
+            16,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103121,
+        "LevelId": 5050,
+        "Spine": "/Game/Spine/Hero/Girl016_03/tryGirl_016_03.tryGirl_016_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 52,
+        "Girl": [
+            1,
+            18,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103132,
+        "LevelId": 5051,
+        "Spine": "/Game/Spine/Hero/Girl018/tryGirl_018.tryGirl_018",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            133
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 53,
+        "Girl": [
+            1,
+            18,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103133,
+        "LevelId": 5052,
+        "Spine": "/Game/Spine/Hero/Girl018_02/tryGirl_018_02.tryGirl_018_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            9,
+            1008
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 54,
+        "Girl": [
+            1,
+            14,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103134,
+        "LevelId": 5053,
+        "Spine": "/Game/Spine/Hero/Girl014a_04/tryGirl_014a_04.tryGirl_014a_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            9,
+            660
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 55,
+        "Girl": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103135,
+        "LevelId": 5054,
+        "Spine": "/Game/Spine/Hero/Girl001_03/tryGirl_001_03.tryGirl_001_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            7,
+            50
+        ],
+        "JumpBtnName": "activity.try_girl_Icon7",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 56,
+        "Girl": [
+            1,
+            11,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103136,
+        "LevelId": 5055,
+        "Spine": "/Game/Spine/Hero/Girl011a_02/tryGirl_011a_02.tryGirl_011a_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            616
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 57,
+        "Girl": [
+            1,
+            15,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103137,
+        "LevelId": 5056,
+        "Spine": "/Game/Spine/Hero/Girl015a/tryGirl_015a.tryGirl_015a",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            197
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 58,
+        "Girl": [
+            1,
+            5,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103138,
+        "LevelId": 5057,
+        "Spine": "/Game/Spine/Hero/Girl005b/tryGirl_005b.tryGirl_005b",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            183
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 59,
+        "Girl": [
+            1,
+            15,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103139,
+        "LevelId": 5058,
+        "Spine": "/Game/Spine/Hero/Girl015a_02/tryGirl_015a_02.tryGirl_015a_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            629
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 60,
+        "Girl": [
+            1,
+            5,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103140,
+        "LevelId": 5059,
+        "Spine": "/Game/Spine/Hero/Girl005b_02/tryGirl_005b_02.tryGirl_005b_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            630
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 61,
+        "Girl": [
+            1,
+            11,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103142,
+        "LevelId": 5060,
+        "Spine": "/Game/Spine/Hero/Girl011a_03/tryGirl_011a_03.tryGirl_011a_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            631
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 62,
+        "Girl": [
+            1,
+            7,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103141,
+        "LevelId": 5061,
+        "Spine": "/Game/Spine/Hero/Girl007a_04/tryGirl_007a_04.tryGirl_007a_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 63,
+        "Girl": [
+            1,
+            4,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103148,
+        "LevelId": 5062,
+        "Spine": "/Game/Spine/Hero/Girl004b/tryGirl_004b.tryGirl_004b",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            169
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 64,
+        "Girl": [
+            1,
+            4,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103149,
+        "LevelId": 5063,
+        "Spine": "/Game/Spine/Hero/Girl004b_02/tryGirl_004b_02.tryGirl_004b_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1013
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 65,
+        "Girl": [
+            1,
+            13,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103150,
+        "LevelId": 5064,
+        "Spine": "/Game/Spine/Hero/Girl013a_04/tryGirl_013a_04.tryGirl_013a_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            633
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 66,
+        "Girl": [
+            1,
+            14,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103151,
+        "LevelId": 5065,
+        "Spine": "/Game/Spine/Hero/Girl014_02/tryGirl_014_02.tryGirl_014_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            7,
+            50
+        ],
+        "JumpBtnName": "activity.try_girl_Icon7",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 67,
+        "Girl": [
+            1,
+            11,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103152,
+        "LevelId": 5066,
+        "Spine": "/Game/Spine/Hero/Girl011a_04/tryGirl_011a_04.tryGirl_011a_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 68,
+        "Girl": [
+            1,
+            20,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103158,
+        "LevelId": 5067,
+        "Spine": "/Game/Spine/Hero/Girl020/tryGirl_020.tryGirl_020",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            167
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 69,
+        "Girl": [
+            1,
+            16,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103159,
+        "LevelId": 5068,
+        "Spine": "/Game/Spine/Hero/Girl016_04/tryGirl_016_04.tryGirl_016_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1016
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 70,
+        "Girl": [
+            1,
+            7,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103160,
+        "LevelId": 5069,
+        "Spine": "/Game/Spine/Hero/Girl007a_05/tryGirl_007a_05.tryGirl_007a_05",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1015
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 71,
+        "Girl": [
+            1,
+            15,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103161,
+        "LevelId": 5070,
+        "Spine": "/Game/Spine/Hero/Girl015a_03/tryGirl_015a_03.tryGirl_015a_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 72,
+        "Girl": [
+            1,
+            14,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103162,
+        "LevelId": 5071,
+        "Spine": "/Game/Spine/Hero/Girl014b/tryGirl_014b.tryGirl_014b",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            195
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 73,
+        "Girl": [
+            1,
+            10,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103163,
+        "LevelId": 5072,
+        "Spine": "/Game/Spine/Hero/Girl010b/tryGirl_010b.tryGirl_010b",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            195
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 74,
+        "Girl": [
+            1,
+            14,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103164,
+        "LevelId": 5073,
+        "Spine": "/Game/Spine/Hero/Girl014b_02/tryGirl_014b_02.tryGirl_014b_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1017
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 75,
+        "Girl": [
+            1,
+            10,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103165,
+        "LevelId": 5074,
+        "Spine": "/Game/Spine/Hero/Girl010b_02/tryGirl_010b_02.tryGirl_010b_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1020
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 76,
+        "Girl": [
+            1,
+            8,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103166,
+        "LevelId": 5075,
+        "Spine": "/Game/Spine/Hero/Girl008b_03/tryGirl_008b_03.tryGirl_008b_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1019
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 77,
+        "Girl": [
+            1,
+            13,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103167,
+        "LevelId": 5076,
+        "Spine": "/Game/Spine/Hero/Girl013a_05/tryGirl_013a_05.tryGirl_013a_05",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 78,
+        "Girl": [
+            1,
+            11,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103174,
+        "LevelId": 5077,
+        "Spine": "/Game/Spine/Hero/Girl011b/tryGirl_011b.tryGirl_011b",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            195
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 79,
+        "Girl": [
+            1,
+            11,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103175,
+        "LevelId": 5078,
+        "Spine": "/Game/Spine/Hero/Girl011b_02/tryGirl_011b_02.tryGirl_011b_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1021
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 80,
+        "Girl": [
+            1,
+            5,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103176,
+        "LevelId": 5079,
+        "Spine": "/Game/Spine/Hero/Girl005b_03/tryGirl_005b_03.tryGirl_005b_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1023
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 81,
+        "Girl": [
+            1,
+            18,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103177,
+        "LevelId": 5080,
+        "Spine": "/Game/Spine/Hero/Girl018_03/tryGirl_018_03.tryGirl_018_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            640
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 82,
+        "Girl": [
+            1,
+            4,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103178,
+        "LevelId": 5081,
+        "Spine": "/Game/Spine/Hero/Girl004b_03/tryGirl_004b_03.tryGirl_004b_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 83,
+        "Girl": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103179,
+        "LevelId": 5082,
+        "Spine": "/Game/Spine/Hero/Girl002_04/tryGirl_002_04.tryGirl_002_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            7,
+            50
+        ],
+        "JumpBtnName": "activity.try_girl_Icon7",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 84,
+        "Girl": [
+            1,
+            21,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103188,
+        "LevelId": 5083,
+        "Spine": "/Game/Spine/Hero/Girl021/tryGirl_021.tryGirl_021",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            155
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 85,
+        "Girl": [
+            1,
+            21,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103189,
+        "LevelId": 5084,
+        "Spine": "/Game/Spine/Hero/Girl021_02/tryGirl_021_02.tryGirl_021_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            9,
+            1038
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 86,
+        "Girl": [
+            1,
+            3,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103190,
+        "LevelId": 5085,
+        "Spine": "/Game/Spine/Hero/Girl003a_02/tryGirl_003a_02.tryGirl_003a_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            642
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 87,
+        "Girl": [
+            1,
+            15,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103191,
+        "LevelId": 5086,
+        "Spine": "/Game/Spine/Hero/Girl015a_04/tryGirl_015a_04.tryGirl_015a_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1026
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 88,
+        "Girl": [
+            1,
+            20,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103192,
+        "LevelId": 5087,
+        "Spine": "/Game/Spine/Hero/Girl020_02/tryGirl_020_02.tryGirl_020_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1025
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 89,
+        "Girl": [
+            1,
+            10,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103193,
+        "LevelId": 5088,
+        "Spine": "/Game/Spine/Hero/Girl010a_04/tryGirl_010a_04.tryGirl_010a_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "MallCharge",
+        "ConditionGoto": "",
+        "tbParam": "",
+        "JumpBtnName": "activity.try_girl_Icon4",
+        "JumpBtnImg": 1701219
+    },
+    {
+        "ID": 90,
+        "Girl": [
+            1,
+            8,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103194,
+        "LevelId": 5089,
+        "Spine": "/Game/Spine/Hero/Girl008b_04/tryGirl_008b_04.tryGirl_008b_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 91,
+        "Girl": [
+            1,
+            18,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103196,
+        "LevelId": 5090,
+        "Spine": "/Game/Spine/Hero/Girl018a/tryGirl_018a.tryGirl_018a",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            197
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 92,
+        "Girl": [
+            1,
+            18,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103197,
+        "LevelId": 5091,
+        "Spine": "/Game/Spine/Hero/Girl018a_02/tryGirl_018a_02.tryGirl_018a_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1028
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 93,
+        "Girl": [
+            1,
+            4,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103199,
+        "LevelId": 5092,
+        "Spine": "/Game/Spine/Hero/Girl004b_04/tryGirl_004b_04.tryGirl_004b_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1029
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 94,
+        "Girl": [
+            1,
+            14,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103198,
+        "LevelId": 5093,
+        "Spine": "/Game/Spine/Hero/Girl014b_03/tryGirl_014b_03.tryGirl_014b_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1030
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 95,
+        "Girl": [
+            1,
+            2,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103200,
+        "LevelId": 5094,
+        "Spine": "/Game/Spine/Hero/Girl002b_03/tryGirl_002b_03.tryGirl_002b_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 96,
+        "Girl": [
+            1,
+            13,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103201,
+        "LevelId": 5095,
+        "Spine": "/Game/Spine/Hero/Girl013_03/tryGirl_013_03.tryGirl_013_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            7,
+            50
+        ],
+        "JumpBtnName": "activity.try_girl_Icon7",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 97,
+        "Girl": [
+            1,
+            15,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103210,
+        "LevelId": 5096,
+        "Spine": "/Game/Spine/Hero/Girl015b/tryGirl_015b.tryGirl_015b",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            195
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 98,
+        "Girl": [
+            1,
+            17,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103211,
+        "LevelId": 5097,
+        "Spine": "/Game/Spine/Hero/Girl017a/tryGirl_017a.tryGirl_017a",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            195
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 99,
+        "Girl": [
+            1,
+            15,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103212,
+        "LevelId": 5098,
+        "Spine": "/Game/Spine/Hero/Girl015b_02/tryGirl_015b_02.tryGirl_015b_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1031
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 100,
+        "Girl": [
+            1,
+            17,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103213,
+        "LevelId": 5099,
+        "Spine": "/Game/Spine/Hero/Girl017a_02/tryGirl_017a_02.tryGirl_017a_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1032
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 101,
+        "Girl": [
+            1,
+            20,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103214,
+        "LevelId": 5100,
+        "Spine": "/Game/Spine/Hero/Girl020_03/tryGirl_020_03.tryGirl_020_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1034
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 102,
+        "Girl": [
+            1,
+            11,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103215,
+        "LevelId": 5101,
+        "Spine": "/Game/Spine/Hero/Girl011b_03/tryGirl_011b_03.tryGirl_011b_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1033
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 103,
+        "Girl": [
+            1,
+            5,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103216,
+        "LevelId": 5102,
+        "Spine": "/Game/Spine/Hero/Girl005b_04/tryGirl_005b_04.tryGirl_005b_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 104,
+        "Girl": [
+            1,
+            22,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103217,
+        "LevelId": 5103,
+        "Spine": "/Game/Spine/Hero/Girl022/tryGirl_022.tryGirl_022",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            175
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 105,
+        "Girl": [
+            1,
+            22,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103218,
+        "LevelId": 5104,
+        "Spine": "/Game/Spine/Hero/Girl022_02/tryGirl_022_02.tryGirl_022_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1035
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 106,
+        "Girl": [
+            1,
+            3,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103219,
+        "LevelId": 5105,
+        "Spine": "/Game/Spine/Hero/Girl003a_03/tryGirl_003a_03.tryGirl_003a_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1036
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 107,
+        "Girl": [
+            1,
+            10,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103220,
+        "LevelId": 5106,
+        "Spine": "/Game/Spine/Hero/Girl010b_03/tryGirl_010b_03.tryGirl_010b_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1037
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 108,
+        "Girl": [
+            1,
+            20,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103221,
+        "LevelId": 5107,
+        "Spine": "/Game/Spine/Hero/Girl020_04/tryGirl_020_04.tryGirl_020_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 109,
+        "Girl": [
+            1,
+            12,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103222,
+        "LevelId": 5108,
+        "Spine": "/Game/Spine/Hero/Girl012_03/tryGirl_012_03.tryGirl_012_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            7,
+            50
+        ],
+        "JumpBtnName": "activity.try_girl_Icon7",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 110,
+        "Girl": [
+            1,
+            8,
+            4,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103223,
+        "LevelId": 5109,
+        "Spine": "/Game/Spine/Hero/Girl008c/tryGirl_008c.tryGirl_008c",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            179
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 111,
+        "Girl": [
+            1,
+            13,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103224,
+        "LevelId": 5110,
+        "Spine": "/Game/Spine/Hero/Girl013b/tryGirl_013b.tryGirl_013b",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            181
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 112,
+        "Girl": [
+            1,
+            8,
+            4,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103225,
+        "LevelId": 5111,
+        "Spine": "/Game/Spine/Hero/Girl008c_02/tryGirl_008c_02.tryGirl_008c_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1039
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 113,
+        "Girl": [
+            1,
+            13,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103226,
+        "LevelId": 5112,
+        "Spine": "/Game/Spine/Hero/Girl013b_02/tryGirl_013b_02.tryGirl_013b_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1046
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 114,
+        "Girl": [
+            1,
+            18,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103227,
+        "LevelId": 5113,
+        "Spine": "/Game/Spine/Hero/Girl018a_03/tryGirl_018a_03.tryGirl_018a_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1042
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 115,
+        "Girl": [
+            1,
+            21,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103228,
+        "LevelId": 5114,
+        "Spine": "/Game/Spine/Hero/Girl021_03/tryGirl_021_03.tryGirl_021_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1041
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 116,
+        "Girl": [
+            1,
+            14,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103229,
+        "LevelId": 5115,
+        "Spine": "/Game/Spine/Hero/Girl014b_04/tryGirl_014b_04.tryGirl_014b_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 117,
+        "Girl": [
+            1,
+            23,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103235,
+        "LevelId": 5116,
+        "Spine": "/Game/Spine/Hero/Girl023/tryGirl_023.tryGirl_023",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            187
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 118,
+        "Girl": [
+            1,
+            23,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103236,
+        "LevelId": 5117,
+        "Spine": "/Game/Spine/Hero/Girl023_02/tryGirl_023_02.tryGirl_023_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1043
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 119,
+        "Girl": [
+            1,
+            6,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103237,
+        "LevelId": 5118,
+        "Spine": "/Game/Spine/Hero/Girl006b_02/tryGirl_006b_02.tryGirl_006b_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1044
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 120,
+        "Girl": [
+            1,
+            15,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103238,
+        "LevelId": 5119,
+        "Spine": "/Game/Spine/Hero/Girl015b_03/tryGirl_015b_03.tryGirl_015b_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1045
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 121,
+        "Girl": [
+            1,
+            10,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103239,
+        "LevelId": 5120,
+        "Spine": "/Game/Spine/Hero/Girl010b_04/tryGirl_010b_04.tryGirl_010b_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 122,
+        "Girl": [
+            1,
+            20,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103240,
+        "LevelId": 5121,
+        "Spine": "/Game/Spine/Hero/Girl020a/tryGirl_020a.tryGirl_020a",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            189
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 123,
+        "Girl": [
+            1,
+            20,
+            2,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103241,
+        "LevelId": 5122,
+        "Spine": "/Game/Spine/Hero/Girl020a_02/tryGirl_020a_02.tryGirl_020a_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1047
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 124,
+        "Girl": [
+            1,
+            12,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103242,
+        "LevelId": 5123,
+        "Spine": "/Game/Spine/Hero/Girl012b_02/tryGirl_012b_02.tryGirl_012b_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1048
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 125,
+        "Girl": [
+            1,
+            8,
+            4,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103243,
+        "LevelId": 5124,
+        "Spine": "/Game/Spine/Hero/Girl008c_03/tryGirl_008c_03.tryGirl_008c_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1049
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 126,
+        "Girl": [
+            1,
+            11,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103244,
+        "LevelId": 5125,
+        "Spine": "/Game/Spine/Hero/Girl011b_04/tryGirl_011b_04.tryGirl_011b_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 127,
+        "Girl": [
+            1,
+            6,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103245,
+        "LevelId": 5126,
+        "Spine": "/Game/Spine/Hero/Girl006_02/tryGirl_006_02.tryGirl_006_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            7,
+            50
+        ],
+        "JumpBtnName": "activity.try_girl_Icon7",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 128,
+        "Girl": [
+            1,
+            1,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103246,
+        "LevelId": 5134,
+        "Spine": "/Game/Spine/Hero/Girl001b/tryGirl_001b.tryGirl_001b",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            191
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 129,
+        "Girl": [
+            1,
+            5,
+            4,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103247,
+        "LevelId": 5128,
+        "Spine": "/Game/Spine/Hero/Girl005c/tryGirl_005c.tryGirl_005c",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            193
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 130,
+        "Girl": [
+            1,
+            1,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103248,
+        "LevelId": 5129,
+        "Spine": "/Game/Spine/Hero/Girl001b_02/tryGirl_001b_02.tryGirl_001b_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1050
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 131,
+        "Girl": [
+            1,
+            5,
+            4,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103249,
+        "LevelId": 5130,
+        "Spine": "/Game/Spine/Hero/Girl005c_02/tryGirl_005c_02.tryGirl_005c_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1051
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 132,
+        "Girl": [
+            1,
+            13,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103250,
+        "LevelId": 5131,
+        "Spine": "/Game/Spine/Hero/Girl013b_03/tryGirl_013b_03.tryGirl_013b_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1052
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 133,
+        "Girl": [
+            1,
+            23,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103251,
+        "LevelId": 5132,
+        "Spine": "/Game/Spine/Hero/Girl023_03/tryGirl_023_03.tryGirl_023_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1053
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 134,
+        "Girl": [
+            1,
+            21,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103252,
+        "LevelId": 5133,
+        "Spine": "/Game/Spine/Hero/Girl021_04/tryGirl_021_04.tryGirl_021_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 135,
+        "Girl": [
+            1,
+            24,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                2,
+                1,
+                20
+            ],
+            [
+                5,
+                9,
+                1,
+                2,
+                4
+            ]
+        ],
+        "TrialId": 103253,
+        "LevelId": 5135,
+        "Spine": "/Game/Spine/Hero/Girl024/tryGirl_024.tryGirl_024",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            3,
+            199
+        ],
+        "JumpBtnName": "activity.try_girl_Icon1",
+        "JumpBtnImg": 1701222
+    },
+    {
+        "ID": 136,
+        "Girl": [
+            1,
+            24,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103254,
+        "LevelId": 5136,
+        "Spine": "/Game/Spine/Hero/Girl024_02/tryGirl_024_02.tryGirl_024_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1054
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 137,
+        "Girl": [
+            1,
+            4,
+            4,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103255,
+        "LevelId": 5137,
+        "Spine": "/Game/Spine/Hero/Girl004c_02/tryGirl_004c_02.tryGirl_004c_02",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1055
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 138,
+        "Girl": [
+            1,
+            6,
+            3,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103256,
+        "LevelId": 5138,
+        "Spine": "/Game/Spine/Hero/Girl006b_03/tryGirl_006b_03.tryGirl_006b_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            8,
+            4,
+            1056
+        ],
+        "JumpBtnName": "activity.try_girl_Icon3",
+        "JumpBtnImg": 1701220
+    },
+    {
+        "ID": 139,
+        "Girl": [
+            1,
+            8,
+            4,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103257,
+        "LevelId": 5139,
+        "Spine": "/Game/Spine/Hero/Girl008c_04/tryGirl_008c_04.tryGirl_008c_04",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            27
+        ],
+        "JumpBtnName": "activity.try_girl_Icon2",
+        "JumpBtnImg": 1701221
+    },
+    {
+        "ID": 140,
+        "Girl": [
+            1,
+            11,
+            1,
+            1
+        ],
+        "Reward": [
+            [
+                4,
+                3,
+                1,
+                1,
+                2000
+            ],
+            [
+                5,
+                1,
+                1,
+                3,
+                2
+            ]
+        ],
+        "TrialId": 103258,
+        "LevelId": 5140,
+        "Spine": "/Game/Spine/Hero/Girl011_03/tryGirl_011_03.tryGirl_011_03",
+        "SpineAnimInfo": [
+            0.3,
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "Pose": "",
+        "PoseOffset": "",
+        "BgColor": "",
+        "Bg": "",
+        "TitleColor": "26266FFF",
+        "TitleBg": 1602058,
+        "TitleBgColor": "8D86B7FF",
+        "Pv": "",
+        "GotoUI": "",
+        "ConditionGoto": "FunctionRouter.GoTo",
+        "tbParam": [
+            7,
+            50
+        ],
+        "JumpBtnName": "activity.try_girl_Icon7",
+        "JumpBtnImg": 1701220
+    }
+]

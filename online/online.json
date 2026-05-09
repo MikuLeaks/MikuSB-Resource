@@ -1,0 +1,8415 @@
+[
+    {
+        "Id": 1,
+        "Name": "ui.TxtOnlineEvent4",
+        "Type": 1,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "StartTime": "[202307051000]",
+        "EndTime": "[202602020400]",
+        "AwardTime": "",
+        "OpenHour": "",
+        "Condition": "",
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": {
+            "3": 4,
+            "2": 4,
+            "1": 3,
+            "4": 5
+        },
+        "GainRole": [
+            [
+                [
+                    14,
+                    3
+                ],
+                [
+                    10,
+                    3
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    13,
+                    2
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    12,
+                    2
+                ]
+            ],
+            [
+                [
+                    14,
+                    3
+                ],
+                [
+                    10,
+                    3
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    13,
+                    2
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    7,
+                    1
+                ]
+            ],
+            [
+                [
+                    14,
+                    3
+                ],
+                [
+                    10,
+                    3
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    13,
+                    2
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    3,
+                    1
+                ]
+            ],
+            [
+                [
+                    14,
+                    3
+                ],
+                [
+                    10,
+                    3
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    13,
+                    2
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    8,
+                    1
+                ]
+            ],
+            [
+                [
+                    14,
+                    3
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    13,
+                    2
+                ],
+                [
+                    10,
+                    2
+                ],
+                [
+                    8,
+                    1
+                ]
+            ],
+            [
+                [
+                    14,
+                    3
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    13,
+                    2
+                ],
+                [
+                    10,
+                    2
+                ],
+                [
+                    8,
+                    1
+                ]
+            ],
+            [
+                [
+                    14,
+                    3
+                ],
+                [
+                    10,
+                    3
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    13,
+                    2
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    16,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": [
+            15,
+            16,
+            17,
+            18
+        ],
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1803014,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent5",
+        "HelpImgId": 12
+    },
+    {
+        "Id": 2,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 2,
+        "Group": 2,
+        "GroupName": "ui.TxtOnlineEvent14",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202309221000]",
+        "EndTime": "[202310090400]",
+        "AwardTime": "[202310090400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                80
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    14,
+                    2
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    8,
+                    2
+                ],
+                [
+                    10,
+                    2
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    10,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 49,
+        "SencesPictureID": "",
+        "CustomData": [
+            32,
+            230,
+            40
+        ]
+    },
+    {
+        "Id": 3,
+        "Name": "ui.TxtBraveGame",
+        "Type": 3,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202308310400]",
+        "EndTime": "[202309100400]",
+        "AwardTime": "[202309100400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                7
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    1,
+                    2
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    8,
+                    2
+                ],
+                [
+                    14,
+                    2
+                ],
+                [
+                    10,
+                    2
+                ],
+                [
+                    4,
+                    1
+                ],
+                [
+                    10,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": [
+            15,
+            1,
+            400,
+            200
+        ],
+        "BG": 1803016,
+        "Icon": "",
+        "Intro": "ui.online_boss_LevelDes",
+        "HelpImgId": 53
+    },
+    {
+        "Id": 4,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 2,
+        "Group": 2,
+        "GroupName": "ui.TxtOnlineEvent14",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202309290400]",
+        "EndTime": "[202310090400]",
+        "AwardTime": "[202310090400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                81
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    14,
+                    2
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    8,
+                    2
+                ],
+                [
+                    10,
+                    2
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    10,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 49,
+        "SencesPictureID": "",
+        "CustomData": [
+            32,
+            330,
+            80
+        ]
+    },
+    {
+        "Id": 5,
+        "Name": "ui.TxtOnlineBossItem5",
+        "Type": 4,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202312010400]",
+        "EndTime": "[202312130400]",
+        "AwardTime": "",
+        "OpenHour": "",
+        "Condition": {
+            "16": 1600000
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                94
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineBossDes2",
+        "HelpImgId": "",
+        "SencesPictureID": "",
+        "CustomData": [
+            1047398,
+            80
+        ],
+        "Hide": 1
+    },
+    {
+        "Id": 6,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 2,
+        "Group": 6,
+        "GroupName": "ui.TxtOnlineEvent14",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202401041000]",
+        "EndTime": "[202401180400]",
+        "AwardTime": "[202401180400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                82
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    14,
+                    2
+                ],
+                [
+                    12,
+                    2
+                ],
+                [
+                    8,
+                    2
+                ],
+                [
+                    17,
+                    1
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    10,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 49,
+        "SencesPictureID": "",
+        "CustomData": [
+            52,
+            200,
+            40
+        ]
+    },
+    {
+        "Id": 7,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 2,
+        "Group": 6,
+        "GroupName": "ui.TxtOnlineEvent14",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202401081000]",
+        "EndTime": "[202401180400]",
+        "AwardTime": "[202401180400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                83
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    14,
+                    2
+                ],
+                [
+                    12,
+                    2
+                ],
+                [
+                    8,
+                    2
+                ],
+                [
+                    17,
+                    1
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    10,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 49,
+        "SencesPictureID": "",
+        "CustomData": [
+            52,
+            300,
+            80
+        ]
+    },
+    {
+        "Id": 8,
+        "Name": "ui.TxtOnlineBossItem5",
+        "Type": 4,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202312240400]",
+        "EndTime": "[202401030400]",
+        "AwardTime": "",
+        "OpenHour": "",
+        "Condition": {
+            "16": 900000
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                94
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "chapter.level_des_9014",
+        "HelpImgId": "",
+        "SencesPictureID": "",
+        "CustomData": [
+            705902,
+            80
+        ],
+        "Hide": 1
+    },
+    {
+        "Id": 9,
+        "Name": "ui.TxtOnlineBossItem5",
+        "Type": 4,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202401260400]",
+        "EndTime": "[202402050400]",
+        "AwardTime": "",
+        "OpenHour": "",
+        "Condition": {
+            "16": 750000
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                94
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "chapter.level_des_9024",
+        "HelpImgId": "",
+        "SencesPictureID": "",
+        "CustomData": [
+            484785,
+            80
+        ],
+        "Hide": 1
+    },
+    {
+        "Id": 10,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 2,
+        "Group": 10,
+        "GroupName": "ui.TxtOnlineEvent14",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202402191000]",
+        "EndTime": "[202403040400]",
+        "AwardTime": "[202403040400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                84
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    15,
+                    1
+                ],
+                [
+                    4,
+                    2
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    1,
+                    2
+                ],
+                [
+                    11,
+                    1
+                ],
+                [
+                    8,
+                    1
+                ]
+            ],
+            [
+                [
+                    15,
+                    1
+                ],
+                [
+                    4,
+                    2
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    11,
+                    1
+                ],
+                [
+                    7,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 49,
+        "SencesPictureID": "",
+        "CustomData": [
+            78,
+            200,
+            40
+        ]
+    },
+    {
+        "Id": 11,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 2,
+        "Group": 10,
+        "GroupName": "ui.TxtOnlineEvent14",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202402231000]",
+        "EndTime": "[202403040400]",
+        "AwardTime": "[202403040400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                85
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    15,
+                    1
+                ],
+                [
+                    4,
+                    2
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    1,
+                    2
+                ],
+                [
+                    11,
+                    1
+                ],
+                [
+                    8,
+                    1
+                ]
+            ],
+            [
+                [
+                    15,
+                    1
+                ],
+                [
+                    4,
+                    2
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    11,
+                    1
+                ],
+                [
+                    7,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 49,
+        "SencesPictureID": "",
+        "CustomData": [
+            78,
+            300,
+            80
+        ]
+    },
+    {
+        "Id": 12,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 5,
+        "Group": 12,
+        "GroupName": "ui.TxtDLC6.BtnEvent",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202403111000]",
+        "EndTime": "[202403280400]",
+        "AwardTime": "[202403280400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                86
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    [
+                        16,
+                        1
+                    ],
+                    [
+                        12,
+                        2
+                    ],
+                    [
+                        8,
+                        2
+                    ],
+                    [
+                        2,
+                        2
+                    ],
+                    [
+                        4,
+                        1
+                    ],
+                    [
+                        7,
+                        1
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        16,
+                        1
+                    ],
+                    [
+                        12,
+                        2
+                    ],
+                    [
+                        8,
+                        2
+                    ],
+                    [
+                        1,
+                        2
+                    ],
+                    [
+                        14,
+                        1
+                    ],
+                    [
+                        5,
+                        1
+                    ]
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 75,
+        "SencesPictureID": "",
+        "CustomData": [
+            1,
+            215,
+            40
+        ]
+    },
+    {
+        "Id": 13,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 5,
+        "Group": 12,
+        "GroupName": "ui.TxtDLC6.BtnEvent",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202403151000]",
+        "EndTime": "[202403280400]",
+        "AwardTime": "[202403280400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                87
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    [
+                        16,
+                        1
+                    ],
+                    [
+                        12,
+                        2
+                    ],
+                    [
+                        8,
+                        2
+                    ],
+                    [
+                        2,
+                        2
+                    ],
+                    [
+                        4,
+                        1
+                    ],
+                    [
+                        7,
+                        1
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        16,
+                        1
+                    ],
+                    [
+                        12,
+                        2
+                    ],
+                    [
+                        8,
+                        2
+                    ],
+                    [
+                        1,
+                        2
+                    ],
+                    [
+                        14,
+                        1
+                    ],
+                    [
+                        5,
+                        1
+                    ]
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 75,
+        "SencesPictureID": "",
+        "CustomData": [
+            1,
+            320,
+            80
+        ]
+    },
+    {
+        "Id": 14,
+        "Name": "ui.TxtOnlineBossItem5",
+        "Type": 4,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202403150400]",
+        "EndTime": "[202403250400]",
+        "AwardTime": "",
+        "OpenHour": "",
+        "Condition": {
+            "16": 2400000
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                99
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "chapter.level_des_9034",
+        "HelpImgId": "",
+        "SencesPictureID": "",
+        "CustomData": [
+            1545640,
+            80
+        ],
+        "Hide": 1
+    },
+    {
+        "Id": 15,
+        "Name": "ui.TxtBraveGame",
+        "Type": 3,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202404011000]",
+        "EndTime": "[202404150400]",
+        "AwardTime": "[202404150400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                11,
+                12,
+                13
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    [
+                        16,
+                        1
+                    ],
+                    [
+                        12,
+                        2
+                    ],
+                    [
+                        8,
+                        2
+                    ],
+                    [
+                        2,
+                        2
+                    ],
+                    [
+                        4,
+                        1
+                    ],
+                    [
+                        7,
+                        1
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        16,
+                        1
+                    ],
+                    [
+                        12,
+                        2
+                    ],
+                    [
+                        8,
+                        2
+                    ],
+                    [
+                        1,
+                        2
+                    ],
+                    [
+                        14,
+                        1
+                    ],
+                    [
+                        5,
+                        1
+                    ]
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": [
+            15,
+            1,
+            200,
+            200
+        ],
+        "BG": 1803016,
+        "Icon": "",
+        "Intro": "ui.online_boss_LevelDes",
+        "HelpImgId": 53
+    },
+    {
+        "Id": 16,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 2,
+        "Group": 16,
+        "GroupName": "ui.TxtOnlineEvent14",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202405131000]",
+        "EndTime": "[202405270400]",
+        "AwardTime": "[202405270400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                88
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    7,
+                    2
+                ],
+                [
+                    17,
+                    1
+                ],
+                [
+                    4,
+                    2
+                ],
+                [
+                    12,
+                    1
+                ],
+                [
+                    13,
+                    1
+                ],
+                [
+                    3,
+                    1
+                ]
+            ],
+            [
+                [
+                    7,
+                    2
+                ],
+                [
+                    1,
+                    2
+                ],
+                [
+                    15,
+                    1
+                ],
+                [
+                    5,
+                    1
+                ],
+                [
+                    4,
+                    1
+                ],
+                [
+                    6,
+                    1
+                ]
+            ],
+            [
+                [
+                    7,
+                    2
+                ],
+                [
+                    11,
+                    2
+                ],
+                [
+                    4,
+                    2
+                ],
+                [
+                    8,
+                    1
+                ],
+                [
+                    6,
+                    1
+                ],
+                [
+                    14,
+                    1
+                ]
+            ],
+            [
+                [
+                    11,
+                    2
+                ],
+                [
+                    17,
+                    1
+                ],
+                [
+                    8,
+                    2
+                ],
+                [
+                    1,
+                    1
+                ],
+                [
+                    13,
+                    1
+                ],
+                [
+                    6,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 49,
+        "SencesPictureID": "",
+        "CustomData": [
+            110,
+            200,
+            40
+        ]
+    },
+    {
+        "Id": 17,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 2,
+        "Group": 16,
+        "GroupName": "ui.TxtOnlineEvent14",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202405171000]",
+        "EndTime": "[202405270400]",
+        "AwardTime": "[202405270400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                89
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    7,
+                    2
+                ],
+                [
+                    17,
+                    1
+                ],
+                [
+                    4,
+                    2
+                ],
+                [
+                    12,
+                    1
+                ],
+                [
+                    13,
+                    1
+                ],
+                [
+                    3,
+                    1
+                ]
+            ],
+            [
+                [
+                    7,
+                    2
+                ],
+                [
+                    1,
+                    2
+                ],
+                [
+                    15,
+                    1
+                ],
+                [
+                    5,
+                    1
+                ],
+                [
+                    4,
+                    1
+                ],
+                [
+                    6,
+                    1
+                ]
+            ],
+            [
+                [
+                    7,
+                    2
+                ],
+                [
+                    11,
+                    2
+                ],
+                [
+                    4,
+                    2
+                ],
+                [
+                    8,
+                    1
+                ],
+                [
+                    6,
+                    1
+                ],
+                [
+                    14,
+                    1
+                ]
+            ],
+            [
+                [
+                    11,
+                    2
+                ],
+                [
+                    17,
+                    1
+                ],
+                [
+                    8,
+                    2
+                ],
+                [
+                    1,
+                    1
+                ],
+                [
+                    13,
+                    1
+                ],
+                [
+                    6,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 49,
+        "SencesPictureID": "",
+        "CustomData": [
+            110,
+            300,
+            80
+        ]
+    },
+    {
+        "Id": 20,
+        "Name": "ui.TxtOnlineBossItem5",
+        "Type": 4,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202404260400]",
+        "EndTime": "[202405060400]",
+        "AwardTime": "",
+        "OpenHour": "",
+        "Condition": {
+            "16": 1900000
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                94
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "chapter.level_des_9044",
+        "HelpImgId": "",
+        "SencesPictureID": "",
+        "CustomData": [
+            1181960,
+            80
+        ],
+        "Hide": 1
+    },
+    {
+        "Id": 21,
+        "Name": "ui.TxtBraveGame",
+        "Type": 3,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202406240400]",
+        "EndTime": "[202407080400]",
+        "AwardTime": "[202407080400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                14,
+                15,
+                16
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    13,
+                    2
+                ],
+                [
+                    15,
+                    1
+                ],
+                [
+                    10,
+                    2
+                ],
+                [
+                    5,
+                    2
+                ],
+                [
+                    4,
+                    1
+                ],
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                [
+                    13,
+                    2
+                ],
+                [
+                    15,
+                    1
+                ],
+                [
+                    8,
+                    2
+                ],
+                [
+                    15,
+                    2
+                ],
+                [
+                    4,
+                    1
+                ],
+                [
+                    5,
+                    1
+                ]
+            ],
+            [
+                [
+                    13,
+                    2
+                ],
+                [
+                    15,
+                    1
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    17,
+                    1
+                ],
+                [
+                    4,
+                    1
+                ],
+                [
+                    10,
+                    1
+                ]
+            ],
+            [
+                [
+                    13,
+                    2
+                ],
+                [
+                    15,
+                    1
+                ],
+                [
+                    12,
+                    2
+                ],
+                [
+                    11,
+                    2
+                ],
+                [
+                    4,
+                    1
+                ],
+                [
+                    8,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": [
+            15,
+            1,
+            200,
+            200
+        ],
+        "BG": 1803016,
+        "Icon": "",
+        "Intro": "ui.online_boss_LevelDes",
+        "HelpImgId": 53
+    },
+    {
+        "Id": 22,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 5,
+        "Group": 22,
+        "GroupName": "ui.TxtDLC6.BtnEvent",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202406031000]",
+        "EndTime": "[202406170400]",
+        "AwardTime": "[202406170400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                70
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    13,
+                    2
+                ],
+                [
+                    15,
+                    1
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    14,
+                    2
+                ],
+                [
+                    4,
+                    1
+                ]
+            ],
+            [
+                [
+                    13,
+                    2
+                ],
+                [
+                    15,
+                    1
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    14,
+                    2
+                ],
+                [
+                    4,
+                    1
+                ]
+            ],
+            [
+                [
+                    13,
+                    2
+                ],
+                [
+                    15,
+                    1
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    14,
+                    2
+                ],
+                [
+                    4,
+                    1
+                ]
+            ],
+            [
+                [
+                    13,
+                    2
+                ],
+                [
+                    15,
+                    1
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    14,
+                    2
+                ],
+                [
+                    4,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 75,
+        "SencesPictureID": "",
+        "CustomData": [
+            3,
+            215,
+            40
+        ]
+    },
+    {
+        "Id": 23,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 5,
+        "Group": 22,
+        "GroupName": "ui.TxtDLC6.BtnEvent",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202406071000]",
+        "EndTime": "[202406170400]",
+        "AwardTime": "[202406170400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                71
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    13,
+                    2
+                ],
+                [
+                    15,
+                    1
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    14,
+                    2
+                ],
+                [
+                    4,
+                    1
+                ]
+            ],
+            [
+                [
+                    13,
+                    2
+                ],
+                [
+                    15,
+                    1
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    14,
+                    2
+                ],
+                [
+                    4,
+                    1
+                ]
+            ],
+            [
+                [
+                    13,
+                    2
+                ],
+                [
+                    15,
+                    1
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    14,
+                    2
+                ],
+                [
+                    4,
+                    1
+                ]
+            ],
+            [
+                [
+                    13,
+                    2
+                ],
+                [
+                    15,
+                    1
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    14,
+                    2
+                ],
+                [
+                    4,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 75,
+        "SencesPictureID": "",
+        "CustomData": [
+            3,
+            320,
+            80
+        ]
+    },
+    {
+        "Id": 24,
+        "Name": "ui.TxtOnlineBossItem5",
+        "Type": 4,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202406100400]",
+        "EndTime": "[202406200400]",
+        "AwardTime": "",
+        "OpenHour": "",
+        "Condition": {
+            "16": 1700000
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                94
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "chapter.level_des_9054",
+        "HelpImgId": "",
+        "SencesPictureID": "",
+        "CustomData": [
+            1102132,
+            80
+        ],
+        "Hide": 1
+    },
+    {
+        "Id": 25,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 2,
+        "Group": 25,
+        "GroupName": "ui.TxtOnlineEvent14",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202407220400]",
+        "EndTime": "[202408050400]",
+        "AwardTime": "[202408050400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                90
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    8,
+                    3
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    16,
+                    1
+                ],
+                [
+                    5,
+                    2
+                ],
+                [
+                    4,
+                    1
+                ],
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 49,
+        "SencesPictureID": "",
+        "CustomData": [
+            151,
+            200,
+            40
+        ]
+    },
+    {
+        "Id": 26,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 2,
+        "Group": 25,
+        "GroupName": "ui.TxtOnlineEvent14",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202407260400]",
+        "EndTime": "[202408050400]",
+        "AwardTime": "[202408050400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                91
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    8,
+                    3
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    16,
+                    1
+                ],
+                [
+                    5,
+                    2
+                ],
+                [
+                    4,
+                    1
+                ],
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 49,
+        "SencesPictureID": "",
+        "CustomData": [
+            151,
+            300,
+            80
+        ]
+    },
+    {
+        "Id": 27,
+        "Name": "ui.TxtBraveGame",
+        "Type": 3,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202405231000]",
+        "EndTime": "[202405300400]",
+        "AwardTime": "[202405300400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                17,
+                18,
+                19
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    7,
+                    2
+                ],
+                [
+                    17,
+                    1
+                ],
+                [
+                    4,
+                    2
+                ],
+                [
+                    12,
+                    1
+                ],
+                [
+                    13,
+                    1
+                ],
+                [
+                    3,
+                    1
+                ]
+            ],
+            [
+                [
+                    7,
+                    2
+                ],
+                [
+                    1,
+                    2
+                ],
+                [
+                    15,
+                    1
+                ],
+                [
+                    5,
+                    1
+                ],
+                [
+                    4,
+                    1
+                ],
+                [
+                    6,
+                    1
+                ]
+            ],
+            [
+                [
+                    7,
+                    2
+                ],
+                [
+                    11,
+                    2
+                ],
+                [
+                    4,
+                    2
+                ],
+                [
+                    8,
+                    1
+                ],
+                [
+                    6,
+                    1
+                ],
+                [
+                    14,
+                    1
+                ]
+            ],
+            [
+                [
+                    11,
+                    2
+                ],
+                [
+                    17,
+                    1
+                ],
+                [
+                    8,
+                    2
+                ],
+                [
+                    1,
+                    1
+                ],
+                [
+                    13,
+                    1
+                ],
+                [
+                    6,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": [
+            15,
+            1,
+            200,
+            200
+        ],
+        "BG": 1803016,
+        "Icon": "",
+        "Intro": "ui.online_boss_LevelDes",
+        "HelpImgId": 53
+    },
+    {
+        "Id": 28,
+        "Name": "ui.TxtOnlineBossItem5",
+        "Type": 4,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202407190400]",
+        "EndTime": "[202407290400]",
+        "AwardTime": "",
+        "OpenHour": "",
+        "Condition": {
+            "16": 5300000
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                94
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "chapter.level_des_9064",
+        "HelpImgId": "",
+        "SencesPictureID": "",
+        "CustomData": [
+            3273120,
+            80
+        ],
+        "Hide": 1
+    },
+    {
+        "Id": 29,
+        "Name": "",
+        "Type": 6,
+        "Group": 29,
+        "GroupName": "ui.TxtOnlineHardTitle",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202408080400]",
+        "EndTime": "[202408220400]",
+        "AwardTime": "[202408220400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": {
+            "9858": 9828
+        },
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": [
+            103127,
+            103128,
+            103129,
+            103130,
+            103131
+        ],
+        "Buff": "",
+        "ConsumeVigor": "",
+        "ReturnVigor": "",
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 112,
+        "SencesPictureID": "",
+        "CustomData": [
+            4
+        ]
+    },
+    {
+        "Id": 30,
+        "Name": "",
+        "Type": 6,
+        "Group": 29,
+        "GroupName": "ui.TxtOnlineHardTitle",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202408080400]",
+        "EndTime": "[202408220400]",
+        "AwardTime": "[202408220400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9816,
+                9847,
+                9817,
+                9857,
+                9845,
+                9815,
+                9827,
+                9847,
+                9816,
+                9846,
+                9817,
+                9857
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": [
+            103127,
+            103128,
+            103129,
+            103130,
+            103131
+        ],
+        "Buff": "",
+        "ConsumeVigor": "",
+        "ReturnVigor": "",
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 112,
+        "SencesPictureID": "",
+        "CustomData": [
+            4
+        ]
+    },
+    {
+        "Id": 31,
+        "Name": "",
+        "Type": 6,
+        "Group": 29,
+        "GroupName": "ui.TxtOnlineHardTitle",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202408080400]",
+        "EndTime": "[202408220400]",
+        "AwardTime": "[202408220400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9837,
+                9805,
+                9836,
+                9807,
+                9806,
+                9835,
+                9807,
+                9855,
+                9836,
+                9837,
+                9825,
+                9805
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": [
+            103127,
+            103128,
+            103129,
+            103130,
+            103131
+        ],
+        "Buff": "",
+        "ConsumeVigor": "",
+        "ReturnVigor": "",
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 112,
+        "SencesPictureID": "",
+        "CustomData": [
+            4
+        ]
+    },
+    {
+        "Id": 32,
+        "Name": "",
+        "Type": 6,
+        "Group": 29,
+        "GroupName": "ui.TxtOnlineHardTitle",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202408080400]",
+        "EndTime": "[202408220400]",
+        "AwardTime": "[202408220400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9801,
+                9812,
+                9833,
+                9842,
+                9802,
+                9811,
+                9832,
+                9843,
+                9841,
+                9803,
+                9813,
+                9831
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": [
+            103127,
+            103128,
+            103129,
+            103130,
+            103131
+        ],
+        "Buff": "",
+        "ConsumeVigor": "",
+        "ReturnVigor": "",
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 112,
+        "SencesPictureID": "",
+        "CustomData": [
+            4
+        ]
+    },
+    {
+        "Id": 33,
+        "Name": "ui.TxtBraveGame",
+        "Type": 3,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202408050400]",
+        "EndTime": "[202408190400]",
+        "AwardTime": "[202408190400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                31,
+                32,
+                33
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    8,
+                    3
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    16,
+                    1
+                ],
+                [
+                    5,
+                    2
+                ],
+                [
+                    4,
+                    1
+                ],
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": [
+            15,
+            1,
+            200,
+            200
+        ],
+        "BG": 1803016,
+        "Icon": "",
+        "Intro": "ui.online_boss_LevelDes",
+        "HelpImgId": 53
+    },
+    {
+        "Id": 34,
+        "Name": "",
+        "Type": 7,
+        "Group": 34,
+        "GroupName": "ui.TxtDLC11.BtnRush",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202409260400]",
+        "EndTime": "[202410210400]",
+        "AwardTime": "[202410210400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 15,
+        "MatchDuration": 60,
+        "ResetLevel": [
+            [
+                9600,
+                9601,
+                9602,
+                9603,
+                9604,
+                9605,
+                9606,
+                9607,
+                9608,
+                9609,
+                9610,
+                9611
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": "",
+        "ReturnVigor": "",
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 112,
+        "SencesPictureID": "",
+        "CustomData": [
+            7
+        ],
+        "Hide": 1
+    },
+    {
+        "Id": 36,
+        "Name": "ui.TxtBraveGame",
+        "Type": 3,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202409090400]",
+        "EndTime": "[202409230400]",
+        "AwardTime": "[202409230400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                34,
+                35,
+                36
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    18,
+                    1
+                ],
+                [
+                    14,
+                    2
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    1,
+                    2
+                ],
+                [
+                    11,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": [
+            15,
+            1,
+            200,
+            200
+        ],
+        "BG": 1803016,
+        "Icon": "",
+        "Intro": "ui.online_boss_LevelDes",
+        "HelpImgId": 53
+    },
+    {
+        "Id": 37,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 5,
+        "Group": 37,
+        "GroupName": "ui.TxtDLC6.BtnEvent",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202408261000]",
+        "EndTime": "[202409090400]",
+        "AwardTime": "[202409090400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                72
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    18,
+                    1
+                ],
+                [
+                    14,
+                    2
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    1,
+                    2
+                ],
+                [
+                    11,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 116,
+        "SencesPictureID": "",
+        "CustomData": [
+            5,
+            215,
+            40
+        ]
+    },
+    {
+        "Id": 38,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 5,
+        "Group": 37,
+        "GroupName": "ui.TxtDLC6.BtnEvent",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202408301000]",
+        "EndTime": "[202409090400]",
+        "AwardTime": "[202409090400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                73
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    18,
+                    1
+                ],
+                [
+                    14,
+                    2
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    1,
+                    2
+                ],
+                [
+                    11,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 116,
+        "SencesPictureID": "",
+        "CustomData": [
+            5,
+            320,
+            80
+        ]
+    },
+    {
+        "Id": 39,
+        "Name": "ui.TxtBraveGame",
+        "Type": 3,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202410240400]",
+        "EndTime": "[202411070400]",
+        "AwardTime": "[202411070400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                37,
+                38,
+                39
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    15,
+                    2
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    11,
+                    2
+                ],
+                [
+                    12,
+                    2
+                ],
+                [
+                    13,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": [
+            15,
+            1,
+            200,
+            200
+        ],
+        "BG": 1803016,
+        "Icon": "",
+        "Intro": "ui.online_boss_LevelDes",
+        "HelpImgId": 53
+    },
+    {
+        "Id": 40,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 8,
+        "Group": 40,
+        "GroupName": "ui.TxtDLC11.BtnDive",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202410140400]",
+        "EndTime": "[202410280400]",
+        "AwardTime": "[202410280400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9701,
+                9702,
+                9703,
+                9704,
+                9705
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    15,
+                    2
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    12,
+                    2
+                ],
+                [
+                    14,
+                    2
+                ],
+                [
+                    13,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent16",
+        "HelpImgId": 124,
+        "SencesPictureID": "",
+        "CustomData": [
+            6,
+            215,
+            40
+        ]
+    },
+    {
+        "Id": 41,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 8,
+        "Group": 40,
+        "GroupName": "ui.TxtDLC11.BtnDive",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202410180400]",
+        "EndTime": "[202410280400]",
+        "AwardTime": "[202410280400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9706,
+                9707,
+                9708,
+                9709,
+                9710
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    15,
+                    2
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    12,
+                    2
+                ],
+                [
+                    14,
+                    2
+                ],
+                [
+                    13,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent16",
+        "HelpImgId": 124,
+        "SencesPictureID": "",
+        "CustomData": [
+            6,
+            320,
+            80
+        ]
+    },
+    {
+        "Id": 42,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 2,
+        "Group": 42,
+        "GroupName": "ui.TxtOnlineEvent14",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202409300400]",
+        "EndTime": "[202410140400]",
+        "AwardTime": "[202410140400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                92
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    15,
+                    2
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    12,
+                    2
+                ],
+                [
+                    14,
+                    2
+                ],
+                [
+                    13,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 49,
+        "SencesPictureID": "",
+        "CustomData": [
+            175,
+            200,
+            40
+        ]
+    },
+    {
+        "Id": 43,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 2,
+        "Group": 42,
+        "GroupName": "ui.TxtOnlineEvent14",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202410040400]",
+        "EndTime": "[202410140400]",
+        "AwardTime": "[202410140400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                93
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    15,
+                    2
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    12,
+                    2
+                ],
+                [
+                    14,
+                    2
+                ],
+                [
+                    13,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 49,
+        "SencesPictureID": "",
+        "CustomData": [
+            175,
+            300,
+            80
+        ]
+    },
+    {
+        "Id": 44,
+        "Name": "ui.TxtBraveGame",
+        "Type": 3,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202412020400]",
+        "EndTime": "[202412160400]",
+        "AwardTime": "[202412160400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                40,
+                41,
+                42
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    4,
+                    3
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    13,
+                    2
+                ],
+                [
+                    11,
+                    2
+                ],
+                [
+                    15,
+                    2
+                ],
+                [
+                    18,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": [
+            15,
+            1,
+            200,
+            200
+        ],
+        "BG": 1803016,
+        "Icon": "",
+        "Intro": "ui.online_boss_LevelDes",
+        "HelpImgId": 53
+    },
+    {
+        "Id": 45,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 5,
+        "Group": 45,
+        "GroupName": "ui.TxtDLC6.BtnEvent",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202411251000]",
+        "EndTime": "[202412090400]",
+        "AwardTime": "[202412090400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9109
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    4,
+                    3
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    13,
+                    2
+                ],
+                [
+                    11,
+                    2
+                ],
+                [
+                    15,
+                    2
+                ],
+                [
+                    18,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 131,
+        "SencesPictureID": "",
+        "CustomData": [
+            8,
+            215,
+            40
+        ]
+    },
+    {
+        "Id": 46,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 5,
+        "Group": 45,
+        "GroupName": "ui.TxtDLC6.BtnEvent",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202411291000]",
+        "EndTime": "[202412090400]",
+        "AwardTime": "[202412090400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9110
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    4,
+                    3
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    13,
+                    2
+                ],
+                [
+                    11,
+                    2
+                ],
+                [
+                    15,
+                    2
+                ],
+                [
+                    18,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 131,
+        "SencesPictureID": "",
+        "CustomData": [
+            8,
+            320,
+            80
+        ]
+    },
+    {
+        "Id": 47,
+        "Name": "",
+        "Type": 6,
+        "Group": 47,
+        "GroupName": "ui.TxtOnlineHardTitle",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202411111000]",
+        "EndTime": "[202411250400]",
+        "AwardTime": "[202411250400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9860,
+                9861,
+                9870,
+                9871
+            ],
+            [
+                9880,
+                9881,
+                9894,
+                9895
+            ],
+            [
+                9890,
+                9891,
+                9870,
+                9871
+            ],
+            [
+                9880,
+                9881,
+                9890,
+                9891
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    4,
+                    3
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    13,
+                    2
+                ],
+                [
+                    11,
+                    2
+                ],
+                [
+                    15,
+                    2
+                ],
+                [
+                    18,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 137,
+        "SencesPictureID": "",
+        "CustomData": [
+            9,
+            200,
+            40
+        ]
+    },
+    {
+        "Id": 48,
+        "Name": "",
+        "Type": 6,
+        "Group": 47,
+        "GroupName": "ui.TxtOnlineHardTitle",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202411151000]",
+        "EndTime": "[202411250400]",
+        "AwardTime": "[202411250400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9882,
+                9883,
+                9896,
+                9897
+            ],
+            [
+                9892,
+                9893,
+                9872,
+                9873
+            ],
+            [
+                9882,
+                9883,
+                9892,
+                9893
+            ],
+            [
+                9862,
+                9863,
+                9872,
+                9873
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    4,
+                    3
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    13,
+                    2
+                ],
+                [
+                    11,
+                    2
+                ],
+                [
+                    15,
+                    2
+                ],
+                [
+                    18,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 137,
+        "SencesPictureID": "",
+        "CustomData": [
+            9,
+            200,
+            80
+        ]
+    },
+    {
+        "Id": 50,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 8,
+        "Group": 50,
+        "GroupName": "ui.TxtDLC11.BtnDive",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202501060400]",
+        "EndTime": "[202501200400]",
+        "AwardTime": "[202501200400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9702,
+                9705,
+                9711,
+                9712,
+                9713
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    20,
+                    1
+                ],
+                [
+                    15,
+                    2
+                ],
+                [
+                    16,
+                    1
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    12,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent16",
+        "HelpImgId": 124,
+        "SencesPictureID": "",
+        "CustomData": [
+            10,
+            215,
+            40,
+            2
+        ]
+    },
+    {
+        "Id": 51,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 8,
+        "Group": 50,
+        "GroupName": "ui.TxtDLC11.BtnDive",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202501100400]",
+        "EndTime": "[202501200400]",
+        "AwardTime": "[202501200400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9707,
+                9710,
+                9716,
+                9717,
+                9718
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    20,
+                    1
+                ],
+                [
+                    15,
+                    2
+                ],
+                [
+                    16,
+                    1
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    12,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent16",
+        "HelpImgId": 124,
+        "SencesPictureID": "",
+        "CustomData": [
+            10,
+            320,
+            80,
+            2
+        ]
+    },
+    {
+        "Id": 52,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 2,
+        "Group": 52,
+        "GroupName": "ui.TxtOnlineEvent14",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202412230400]",
+        "EndTime": "[202501060400]",
+        "AwardTime": "[202501060400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                90
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    20,
+                    1
+                ],
+                [
+                    16,
+                    1
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    13,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 49,
+        "SencesPictureID": "",
+        "CustomData": [
+            210,
+            200,
+            40
+        ]
+    },
+    {
+        "Id": 53,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 2,
+        "Group": 52,
+        "GroupName": "ui.TxtOnlineEvent14",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202412270400]",
+        "EndTime": "[202501060400]",
+        "AwardTime": "[202501060400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                91
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    20,
+                    1
+                ],
+                [
+                    16,
+                    1
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    13,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 49,
+        "SencesPictureID": "",
+        "CustomData": [
+            210,
+            300,
+            80
+        ]
+    },
+    {
+        "Id": 54,
+        "Name": "ui.TxtBraveGame",
+        "Type": 3,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202501090400]",
+        "EndTime": "[202501230400]",
+        "AwardTime": "[202501230400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                14,
+                15,
+                16
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    20,
+                    1
+                ],
+                [
+                    15,
+                    2
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    13,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": [
+            15,
+            1,
+            200,
+            200
+        ],
+        "BG": 1803016,
+        "Icon": "",
+        "Intro": "ui.online_boss_LevelDes",
+        "HelpImgId": 53
+    },
+    {
+        "Id": 55,
+        "Name": "ui.TxtBraveGame",
+        "Type": 3,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202501250400]",
+        "EndTime": "[202502080400]",
+        "AwardTime": "[202502080400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                46,
+                47,
+                48
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    14,
+                    3
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    13,
+                    2
+                ],
+                [
+                    18,
+                    1
+                ],
+                [
+                    20,
+                    1
+                ],
+                [
+                    6,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": [
+            15,
+            1,
+            200,
+            200
+        ],
+        "BG": 1803016,
+        "Icon": "",
+        "Intro": "ui.online_boss_LevelDes",
+        "HelpImgId": 53
+    },
+    {
+        "Id": 56,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 5,
+        "Group": 56,
+        "GroupName": "ui.TxtDLC6.BtnEvent",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202502170400]",
+        "EndTime": "[202503030400]",
+        "AwardTime": "[202503030400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9111
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    10,
+                    3
+                ],
+                [
+                    14,
+                    3
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    20,
+                    1
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    14,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 131,
+        "SencesPictureID": "",
+        "CustomData": [
+            11,
+            215,
+            40
+        ]
+    },
+    {
+        "Id": 57,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 5,
+        "Group": 56,
+        "GroupName": "ui.TxtDLC6.BtnEvent",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202502210400]",
+        "EndTime": "[202503030400]",
+        "AwardTime": "[202503030400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9112
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    10,
+                    3
+                ],
+                [
+                    14,
+                    3
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    20,
+                    1
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    14,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 131,
+        "SencesPictureID": "",
+        "CustomData": [
+            11,
+            320,
+            80
+        ]
+    },
+    {
+        "Id": 58,
+        "Name": "ui.TxtParty.Mode2",
+        "Type": 7,
+        "Group": 58,
+        "GroupName": "ui.TxtDLC11.BtnRush",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202501230400]",
+        "EndTime": "[202503060400]",
+        "AwardTime": "[202503060400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 15,
+        "MatchDuration": 60,
+        "ResetLevel": [
+            [
+                9604,
+                9601,
+                9609,
+                9611,
+                9610,
+                9612,
+                9613,
+                9614,
+                9615,
+                9616,
+                9617,
+                9618
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": "",
+        "ReturnVigor": "",
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 112,
+        "SencesPictureID": "",
+        "CustomData": [
+            12
+        ],
+        "Hide": 1
+    },
+    {
+        "Id": 59,
+        "Name": "ui.TxtParty.Mode1",
+        "Type": 7,
+        "Group": 58,
+        "GroupName": "ui.TxtDLC11.BtnRush",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202501230400]",
+        "EndTime": "[202503060400]",
+        "AwardTime": "[202503060400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 15,
+        "MatchDuration": 60,
+        "ResetLevel": [
+            [
+                9619,
+                9620,
+                9622
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": "",
+        "ReturnVigor": "",
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 112,
+        "SencesPictureID": "",
+        "CustomData": [
+            12
+        ],
+        "Hide": 1
+    },
+    {
+        "Id": 60,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 2,
+        "Group": 60,
+        "GroupName": "ui.TxtOnlineEvent14",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202503240400]",
+        "EndTime": "[202504070400]",
+        "AwardTime": "[202504070400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9905
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    11,
+                    3
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    14,
+                    3
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    18,
+                    1
+                ],
+                [
+                    20,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 49,
+        "SencesPictureID": "",
+        "CustomData": [
+            266,
+            200,
+            40
+        ]
+    },
+    {
+        "Id": 61,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 2,
+        "Group": 60,
+        "GroupName": "ui.TxtOnlineEvent14",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202503280400]",
+        "EndTime": "[202504070400]",
+        "AwardTime": "[202504070400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9906
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    11,
+                    3
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    14,
+                    3
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    18,
+                    1
+                ],
+                [
+                    20,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 49,
+        "SencesPictureID": "",
+        "CustomData": [
+            266,
+            300,
+            80
+        ]
+    },
+    {
+        "Id": 62,
+        "Name": "ui.TxtBraveGame",
+        "Type": 3,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202504030400]",
+        "EndTime": "[202504170400]",
+        "AwardTime": "[202504170400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                49,
+                50,
+                51
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    11,
+                    3
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    14,
+                    3
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    18,
+                    1
+                ],
+                [
+                    20,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": [
+            15,
+            1,
+            200,
+            200
+        ],
+        "BG": 1803016,
+        "Icon": "",
+        "Intro": "ui.online_boss_LevelDes",
+        "HelpImgId": 53
+    },
+    {
+        "Id": 63,
+        "Name": "ui.TxtBraveGame",
+        "Type": 3,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202505150400]",
+        "EndTime": "[202505290400]",
+        "AwardTime": "[202505290400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                52,
+                53,
+                54
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    21,
+                    1
+                ],
+                [
+                    20,
+                    1
+                ],
+                [
+                    3,
+                    2
+                ],
+                [
+                    11,
+                    2
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    14,
+                    3
+                ],
+                [
+                    15,
+                    1
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": [
+            15,
+            1,
+            200,
+            200
+        ],
+        "BG": 1803016,
+        "Icon": "",
+        "Intro": "ui.online_boss_LevelDes",
+        "HelpImgId": 53
+    },
+    {
+        "Id": 67,
+        "Name": "ui.online_defend_difficult3",
+        "Type": 8,
+        "Group": 67,
+        "GroupName": "ui.TxtDLC11.BtnDive",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202503100400]",
+        "EndTime": "[202503240400]",
+        "AwardTime": "[202503240400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9720,
+                9721,
+                9722,
+                9723,
+                9711,
+                9702
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    11,
+                    3
+                ],
+                [
+                    15,
+                    1
+                ],
+                [
+                    14,
+                    3
+                ],
+                [
+                    10,
+                    3
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    8,
+                    3
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": [
+            103180,
+            103181,
+            103182,
+            103183,
+            103184
+        ],
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent16",
+        "HelpImgId": 124,
+        "SencesPictureID": "",
+        "CustomData": [
+            13,
+            215,
+            40,
+            3
+        ]
+    },
+    {
+        "Id": 68,
+        "Name": "ui.online_defend_difficult4",
+        "Type": 8,
+        "Group": 67,
+        "GroupName": "ui.TxtDLC11.BtnDive",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202503140400]",
+        "EndTime": "[202503240400]",
+        "AwardTime": "[202503240400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": {
+            "9724": 9725,
+            "9726": 9727,
+            "9728": 9729,
+            "9730": 9731,
+            "9732": 9733,
+            "9734": 9735,
+            "9736": 9737,
+            "9738": 9739
+        },
+        "GainRole": [
+            [
+                [
+                    11,
+                    3
+                ],
+                [
+                    15,
+                    1
+                ],
+                [
+                    14,
+                    3
+                ],
+                [
+                    10,
+                    3
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    8,
+                    3
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": [
+            103180,
+            103181,
+            103182,
+            103183,
+            103184
+        ],
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent16",
+        "HelpImgId": 124,
+        "SencesPictureID": "",
+        "CustomData": [
+            13,
+            320,
+            80,
+            3
+        ],
+        "Hide": "",
+        "Training": "",
+        "LanguageLimit": "",
+        "ResetTime": 3
+    },
+    {
+        "Id": 69,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 5,
+        "Group": 69,
+        "GroupName": "ui.TxtDLC6.BtnEvent",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202504210400]",
+        "EndTime": "[202505050400]",
+        "AwardTime": "[202505050400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9113
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    21,
+                    1
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    11,
+                    3
+                ],
+                [
+                    15,
+                    2
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    14,
+                    3
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    12,
+                    2
+                ],
+                [
+                    13,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 174,
+        "SencesPictureID": "",
+        "CustomData": [
+            14,
+            215,
+            40
+        ]
+    },
+    {
+        "Id": 70,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 5,
+        "Group": 69,
+        "GroupName": "ui.TxtDLC6.BtnEvent",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202504250400]",
+        "EndTime": "[202505050400]",
+        "AwardTime": "[202505050400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9114
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    21,
+                    1
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    11,
+                    3
+                ],
+                [
+                    15,
+                    2
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    14,
+                    3
+                ],
+                [
+                    6,
+                    2
+                ],
+                [
+                    12,
+                    2
+                ],
+                [
+                    13,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 174,
+        "SencesPictureID": "",
+        "CustomData": [
+            14,
+            320,
+            80
+        ]
+    },
+    {
+        "Id": 71,
+        "Name": "ui.TxtParty.Mode2",
+        "Type": 7,
+        "Group": 70,
+        "GroupName": "ui.TxtDLC11.BtnRush",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202504170400]",
+        "EndTime": "[202505290400]",
+        "AwardTime": "[202505290400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 15,
+        "MatchDuration": 60,
+        "ResetLevel": [
+            [
+                9600,
+                9603,
+                9605,
+                9611,
+                9613,
+                9614,
+                9615,
+                9616,
+                9618,
+                9619,
+                9620,
+                9622
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": "",
+        "ReturnVigor": "",
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 176,
+        "SencesPictureID": "",
+        "CustomData": [
+            15
+        ],
+        "Hide": 1
+    },
+    {
+        "Id": 72,
+        "Name": "ui.TxtParty.Mode1",
+        "Type": 7,
+        "Group": 70,
+        "GroupName": "ui.TxtDLC11.BtnRush",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202504170400]",
+        "EndTime": "[202505290400]",
+        "AwardTime": "[202505290400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 15,
+        "MatchDuration": 60,
+        "ResetLevel": [
+            [
+                9623,
+                9624,
+                9625
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": "",
+        "ReturnVigor": "",
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 176,
+        "SencesPictureID": "",
+        "CustomData": [
+            15
+        ],
+        "Hide": 1
+    },
+    {
+        "Id": 73,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 2,
+        "Group": 73,
+        "GroupName": "ui.TxtOnlineEvent14",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202506090400]",
+        "EndTime": "[202506230400]",
+        "AwardTime": "[202506230400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9907
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    18,
+                    2
+                ],
+                [
+                    13,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    21,
+                    1
+                ],
+                [
+                    11,
+                    3
+                ],
+                [
+                    14,
+                    2
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    11,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 49,
+        "SencesPictureID": "",
+        "CustomData": [
+            285,
+            200,
+            40
+        ]
+    },
+    {
+        "Id": 74,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 2,
+        "Group": 73,
+        "GroupName": "ui.TxtOnlineEvent14",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202506130400]",
+        "EndTime": "[202506230400]",
+        "AwardTime": "[202506230400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9908
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    18,
+                    2
+                ],
+                [
+                    13,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    21,
+                    1
+                ],
+                [
+                    11,
+                    3
+                ],
+                [
+                    14,
+                    2
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    11,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 49,
+        "SencesPictureID": "",
+        "CustomData": [
+            285,
+            300,
+            80
+        ]
+    },
+    {
+        "Id": 75,
+        "Name": "ui.TxtBraveGame",
+        "Type": 3,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202506260400]",
+        "EndTime": "[202507100400]",
+        "AwardTime": "[202507100400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                55,
+                56,
+                57
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    18,
+                    2
+                ],
+                [
+                    14,
+                    3
+                ],
+                [
+                    10,
+                    3
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    3,
+                    2
+                ],
+                [
+                    20,
+                    1
+                ],
+                [
+                    7,
+                    2
+                ],
+                [
+                    8,
+                    2
+                ],
+                [
+                    5,
+                    3
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": [
+            15,
+            1,
+            200,
+            200
+        ],
+        "BG": 1803016,
+        "Icon": "",
+        "Intro": "ui.online_boss_LevelDes",
+        "HelpImgId": 53
+    },
+    {
+        "Id": 78,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 9,
+        "Group": 78,
+        "GroupName": "ui.TxtTowerRush",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202506050400]",
+        "EndTime": "[202506230400]",
+        "AwardTime": "[202506230400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9500
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    18,
+                    2
+                ],
+                [
+                    13,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    21,
+                    1
+                ],
+                [
+                    11,
+                    3
+                ],
+                [
+                    14,
+                    2
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    11,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1803115,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 185,
+        "SencesPictureID": "",
+        "CustomData": [
+            16,
+            215,
+            40,
+            1,
+            78
+        ],
+        "Hide": "",
+        "Training": [
+            9502
+        ]
+    },
+    {
+        "Id": 79,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 9,
+        "Group": 78,
+        "GroupName": "ui.TxtTowerRush",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202506090400]",
+        "EndTime": "[202506230400]",
+        "AwardTime": "[202506230400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9501
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    18,
+                    2
+                ],
+                [
+                    13,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    21,
+                    1
+                ],
+                [
+                    11,
+                    3
+                ],
+                [
+                    14,
+                    2
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    11,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1803115,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 185,
+        "SencesPictureID": "",
+        "CustomData": [
+            16,
+            320,
+            80,
+            3,
+            78
+        ],
+        "Hide": "",
+        "Training": [
+            9502
+        ]
+    },
+    {
+        "Id": 80,
+        "Name": "ui.online_defend_difficult3",
+        "Type": 8,
+        "Group": 80,
+        "GroupName": "ui.TxtDLC11.BtnDive",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202507280400]",
+        "EndTime": "[202508110400]",
+        "AwardTime": "[202508110400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9741,
+                9742,
+                9743,
+                9701
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    15,
+                    3
+                ],
+                [
+                    17,
+                    2
+                ],
+                [
+                    20,
+                    1
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    11,
+                    3
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    18,
+                    2
+                ],
+                [
+                    21,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": [
+            103203,
+            103204,
+            103205,
+            103206,
+            103207
+        ],
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent16",
+        "HelpImgId": 124,
+        "SencesPictureID": "",
+        "CustomData": [
+            17,
+            215,
+            40,
+            4
+        ]
+    },
+    {
+        "Id": 81,
+        "Name": "ui.online_defend_difficult4",
+        "Type": 8,
+        "Group": 80,
+        "GroupName": "ui.TxtDLC11.BtnDive",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202508010400]",
+        "EndTime": "[202508110400]",
+        "AwardTime": "[202508110400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": {
+            "9751": 9752,
+            "9753": 9754,
+            "9755": 9717,
+            "9706": 9708
+        },
+        "GainRole": [
+            [
+                [
+                    15,
+                    3
+                ],
+                [
+                    17,
+                    2
+                ],
+                [
+                    20,
+                    1
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    11,
+                    3
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    8,
+                    3
+                ],
+                [
+                    18,
+                    2
+                ],
+                [
+                    21,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": [
+            103203,
+            103204,
+            103205,
+            103206,
+            103207
+        ],
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent16",
+        "HelpImgId": 124,
+        "SencesPictureID": "",
+        "CustomData": [
+            17,
+            320,
+            80,
+            4
+        ],
+        "Hide": "",
+        "Training": "",
+        "LanguageLimit": "",
+        "ResetTime": 3
+    },
+    {
+        "Id": 82,
+        "Name": "ui.TxtBraveGame",
+        "Type": 3,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202508070400]",
+        "EndTime": "[202508210400]",
+        "AwardTime": "[202508210400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                58,
+                59,
+                60
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    15,
+                    3
+                ],
+                [
+                    17,
+                    2
+                ],
+                [
+                    20,
+                    1
+                ],
+                [
+                    14,
+                    3
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    10,
+                    3
+                ],
+                [
+                    15,
+                    2
+                ],
+                [
+                    18,
+                    2
+                ],
+                [
+                    21,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": [
+            15,
+            1,
+            200,
+            200
+        ],
+        "BG": 1803016,
+        "Icon": "",
+        "Intro": "ui.online_boss_LevelDes",
+        "HelpImgId": 53
+    },
+    {
+        "Id": 83,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 5,
+        "Group": 83,
+        "GroupName": "ui.TxtDLC6.BtnEvent",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202508250400]",
+        "EndTime": "[202509080400]",
+        "AwardTime": "[202509080400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9115
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    22,
+                    1
+                ],
+                [
+                    10,
+                    3
+                ],
+                [
+                    14,
+                    3
+                ],
+                [
+                    15,
+                    3
+                ],
+                [
+                    17,
+                    2
+                ],
+                [
+                    18,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    8,
+                    2
+                ],
+                [
+                    2,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 174,
+        "SencesPictureID": [
+            1,
+            2,
+            3
+        ],
+        "CustomData": [
+            18,
+            215,
+            40
+        ]
+    },
+    {
+        "Id": 84,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 5,
+        "Group": 83,
+        "GroupName": "ui.TxtDLC6.BtnEvent",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202508290400]",
+        "EndTime": "[202509080400]",
+        "AwardTime": "[202509080400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9116
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    22,
+                    1
+                ],
+                [
+                    10,
+                    3
+                ],
+                [
+                    14,
+                    3
+                ],
+                [
+                    15,
+                    3
+                ],
+                [
+                    17,
+                    2
+                ],
+                [
+                    18,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    8,
+                    2
+                ],
+                [
+                    2,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 174,
+        "SencesPictureID": [
+            1,
+            2,
+            3
+        ],
+        "CustomData": [
+            18,
+            320,
+            80
+        ]
+    },
+    {
+        "Id": 85,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 2,
+        "Group": 85,
+        "GroupName": "ui.TxtOnlineEvent14",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202509080400]",
+        "EndTime": "[202509220400]",
+        "AwardTime": "[202509220400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9909
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    22,
+                    1
+                ],
+                [
+                    21,
+                    1
+                ],
+                [
+                    12,
+                    2
+                ],
+                [
+                    15,
+                    3
+                ],
+                [
+                    17,
+                    2
+                ],
+                [
+                    11,
+                    3
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    13,
+                    2
+                ],
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 49,
+        "SencesPictureID": "",
+        "CustomData": [
+            338,
+            200,
+            40
+        ]
+    },
+    {
+        "Id": 86,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 2,
+        "Group": 85,
+        "GroupName": "ui.TxtOnlineEvent14",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202509120400]",
+        "EndTime": "[202509220400]",
+        "AwardTime": "[202509220400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9910
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    22,
+                    1
+                ],
+                [
+                    21,
+                    1
+                ],
+                [
+                    12,
+                    2
+                ],
+                [
+                    15,
+                    3
+                ],
+                [
+                    17,
+                    2
+                ],
+                [
+                    11,
+                    3
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    13,
+                    2
+                ],
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 49,
+        "SencesPictureID": "",
+        "CustomData": [
+            338,
+            300,
+            80
+        ]
+    },
+    {
+        "Id": 87,
+        "Name": "ui.TxtBraveGame",
+        "Type": 3,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202509110400]",
+        "EndTime": "[202509250400]",
+        "AwardTime": "[202509250400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                61,
+                62,
+                63
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    22,
+                    1
+                ],
+                [
+                    21,
+                    1
+                ],
+                [
+                    16,
+                    1
+                ],
+                [
+                    15,
+                    3
+                ],
+                [
+                    17,
+                    2
+                ],
+                [
+                    20,
+                    1
+                ],
+                [
+                    3,
+                    2
+                ],
+                [
+                    18,
+                    1
+                ],
+                [
+                    6,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": [
+            15,
+            1,
+            200,
+            200
+        ],
+        "BG": 1803016,
+        "Icon": "",
+        "Intro": "ui.online_boss_LevelDes",
+        "HelpImgId": 53
+    },
+    {
+        "Id": 88,
+        "Name": "ui.TxtOnlineSeaDiff1",
+        "Type": 10,
+        "Group": 88,
+        "GroupName": "ui.TxtOnlineSeaName",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202510200400]",
+        "EndTime": "[202511060400]",
+        "AwardTime": "[202511060400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9201,
+                9202,
+                9203,
+                9204
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    8,
+                    4
+                ],
+                [
+                    13,
+                    3
+                ],
+                [
+                    22,
+                    1
+                ],
+                [
+                    15,
+                    3
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    11,
+                    3
+                ],
+                [
+                    20,
+                    1
+                ],
+                [
+                    10,
+                    2
+                ],
+                [
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": [
+            103230,
+            103231,
+            103232,
+            103233,
+            103234
+        ],
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineSeaDiffName1",
+        "HelpImgId": 216,
+        "SencesPictureID": [
+            1,
+            2,
+            3
+        ],
+        "CustomData": [
+            19,
+            30,
+            1,
+            57
+        ]
+    },
+    {
+        "Id": 89,
+        "Name": "ui.TxtOnlineSeaDiff2",
+        "Type": 10,
+        "Group": 88,
+        "GroupName": "ui.TxtOnlineSeaName",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202510240400]",
+        "EndTime": "[202511060400]",
+        "AwardTime": "[202511060400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9211,
+                9212,
+                9213,
+                9214
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    8,
+                    4
+                ],
+                [
+                    13,
+                    3
+                ],
+                [
+                    22,
+                    1
+                ],
+                [
+                    15,
+                    3
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    11,
+                    3
+                ],
+                [
+                    20,
+                    1
+                ],
+                [
+                    10,
+                    2
+                ],
+                [
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": [
+            103230,
+            103231,
+            103232,
+            103233,
+            103234
+        ],
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineSeaDiffName2",
+        "HelpImgId": 216,
+        "SencesPictureID": [
+            1,
+            2,
+            3
+        ],
+        "CustomData": [
+            19,
+            40,
+            1,
+            57
+        ]
+    },
+    {
+        "Id": 90,
+        "Name": "ui.TxtOnlineSeaDiff3",
+        "Type": 10,
+        "Group": 88,
+        "GroupName": "ui.TxtOnlineSeaName",
+        "Diff": 3,
+        "Date": "",
+        "StartTime": "[202510270400]",
+        "EndTime": "[202511060400]",
+        "AwardTime": "[202511060400]",
+        "OpenHour": "",
+        "Condition": [
+            [
+                1,
+                30
+            ],
+            [
+                32,
+                10,
+                10
+            ]
+        ],
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9221,
+                9222,
+                9223,
+                9224
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    8,
+                    4
+                ],
+                [
+                    13,
+                    3
+                ],
+                [
+                    22,
+                    1
+                ],
+                [
+                    15,
+                    3
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    11,
+                    3
+                ],
+                [
+                    20,
+                    1
+                ],
+                [
+                    10,
+                    2
+                ],
+                [
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": [
+            103230,
+            103231,
+            103232,
+            103233,
+            103234
+        ],
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineSeaDiffName3",
+        "HelpImgId": 216,
+        "SencesPictureID": [
+            1,
+            2,
+            3
+        ],
+        "CustomData": [
+            19,
+            80,
+            1,
+            57
+        ]
+    },
+    {
+        "Id": 91,
+        "Name": "ui.TxtParty.Mode2",
+        "Type": 7,
+        "Group": 92,
+        "GroupName": "ui.TxtDLC32.BtnRush",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202509280400]",
+        "EndTime": "[202511060400]",
+        "AwardTime": "[202511060400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 15,
+        "MatchDuration": 60,
+        "ResetLevel": [
+            [
+                9602,
+                9605,
+                9606,
+                9609,
+                9610,
+                9613,
+                9616,
+                9617,
+                9618,
+                9619,
+                9620,
+                9622,
+                9627,
+                9628,
+                9629,
+                9630
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": "",
+        "ReturnVigor": "",
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 176,
+        "SencesPictureID": "",
+        "CustomData": [
+            20
+        ],
+        "Hide": 1
+    },
+    {
+        "Id": 92,
+        "Name": "ui.TxtPartyBtnZbug",
+        "Type": 7,
+        "Group": 92,
+        "GroupName": "ui.TxtDLC32.BtnRush",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202509280400]",
+        "EndTime": "[202511060400]",
+        "AwardTime": "[202511060400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 15,
+        "MatchDuration": 60,
+        "ResetLevel": [
+            [
+                9626
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": "",
+        "ReturnVigor": "",
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 176,
+        "SencesPictureID": "",
+        "CustomData": [
+            20,
+            1,
+            9632
+        ],
+        "Hide": 1
+    },
+    {
+        "Id": 93,
+        "Name": "ui.TxtBraveGame",
+        "Type": 3,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202510230400]",
+        "EndTime": "[202511060400]",
+        "AwardTime": "[202511060400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                64,
+                65,
+                66
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    8,
+                    4
+                ],
+                [
+                    13,
+                    3
+                ],
+                [
+                    18,
+                    2
+                ],
+                [
+                    22,
+                    1
+                ],
+                [
+                    2,
+                    3
+                ],
+                [
+                    21,
+                    1
+                ],
+                [
+                    5,
+                    3
+                ],
+                [
+                    15,
+                    3
+                ],
+                [
+                    17,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": [
+            15,
+            1,
+            200,
+            200
+        ],
+        "BG": 1803016,
+        "Icon": "",
+        "Intro": "ui.online_boss_LevelDes",
+        "HelpImgId": 53
+    },
+    {
+        "Id": 94,
+        "Name": "ui.TxtDLC32.BtnRmol",
+        "Type": 11,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202509250400]",
+        "EndTime": "[202511060400]",
+        "AwardTime": "[202511060400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 2,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9875
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": "",
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": "",
+        "SencesPictureID": "",
+        "CustomData": "",
+        "Hide": 1
+    },
+    {
+        "Id": 95,
+        "Name": "ui.TxtTowerRushRecord5",
+        "Type": 9,
+        "Group": 95,
+        "GroupName": "ui.TxtTowerRush",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202512010400]",
+        "EndTime": "[202512150400]",
+        "AwardTime": "[202512150400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9510
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    23,
+                    1
+                ],
+                [
+                    11,
+                    3
+                ],
+                [
+                    8,
+                    4
+                ],
+                [
+                    13,
+                    3
+                ],
+                [
+                    22,
+                    1
+                ],
+                [
+                    18,
+                    1
+                ],
+                [
+                    21,
+                    1
+                ],
+                [
+                    11,
+                    2
+                ],
+                [
+                    2,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": [
+            104019,
+            104020,
+            104021,
+            104022,
+            104023
+        ],
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1803115,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 185,
+        "SencesPictureID": "",
+        "CustomData": [
+            21,
+            265,
+            40,
+            3,
+            95
+        ],
+        "Hide": "",
+        "Training": [
+            9502
+        ]
+    },
+    {
+        "Id": 96,
+        "Name": "ui.TxtTowerRushRecord11",
+        "Type": 9,
+        "Group": 95,
+        "GroupName": "ui.TxtTowerRush",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202512050400]",
+        "EndTime": "[202512150400]",
+        "AwardTime": "[202512150400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9511
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    23,
+                    1
+                ],
+                [
+                    11,
+                    3
+                ],
+                [
+                    8,
+                    4
+                ],
+                [
+                    13,
+                    3
+                ],
+                [
+                    22,
+                    1
+                ],
+                [
+                    18,
+                    1
+                ],
+                [
+                    21,
+                    1
+                ],
+                [
+                    11,
+                    2
+                ],
+                [
+                    2,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": [
+            104019,
+            104020,
+            104021,
+            104022,
+            104023
+        ],
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1803115,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 185,
+        "SencesPictureID": "",
+        "CustomData": [
+            21,
+            265,
+            40,
+            3,
+            95
+        ],
+        "Hide": "",
+        "Training": [
+            9502
+        ]
+    },
+    {
+        "Id": 97,
+        "Name": "ui.TxtBraveGame",
+        "Type": 3,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202512040400]",
+        "EndTime": "[202512180400]",
+        "AwardTime": "[202512180400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                61,
+                62,
+                63
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    15,
+                    3
+                ],
+                [
+                    17,
+                    2
+                ],
+                [
+                    8,
+                    4
+                ],
+                [
+                    13,
+                    3
+                ],
+                [
+                    22,
+                    1
+                ],
+                [
+                    18,
+                    1
+                ],
+                [
+                    21,
+                    1
+                ],
+                [
+                    11,
+                    2
+                ],
+                [
+                    2,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": [
+            15,
+            1,
+            200,
+            200
+        ],
+        "BG": 1803016,
+        "Icon": "",
+        "Intro": "ui.online_boss_LevelDes",
+        "HelpImgId": 53
+    },
+    {
+        "Id": 98,
+        "Name": "ui.TxtOnlinePurgeGame1",
+        "Type": 12,
+        "Group": 98,
+        "GroupName": "ui.TxtOnlinePurge",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202511101000]",
+        "EndTime": "[202512010400]",
+        "AwardTime": "[202512010400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9911
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": [
+            103195,
+            104002,
+            104003,
+            104004,
+            104005,
+            104006
+        ],
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1803141,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 252,
+        "SencesPictureID": "",
+        "CustomData": [
+            2,
+            [
+                59,
+                60
+            ]
+        ]
+    },
+    {
+        "Id": 99,
+        "Name": "ui.TxtOnlinePurgeGame2",
+        "Type": 12,
+        "Group": 98,
+        "GroupName": "ui.TxtOnlinePurge",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202511141000]",
+        "EndTime": "[202512010400]",
+        "AwardTime": "[202512010400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9912
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": [
+            103195,
+            104002,
+            104003,
+            104004,
+            104005,
+            104006
+        ],
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1803141,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 252,
+        "SencesPictureID": "",
+        "CustomData": [
+            2,
+            [
+                59,
+                60
+            ]
+        ]
+    },
+    {
+        "Id": 100,
+        "Name": "ui.online_defend_difficult1",
+        "Type": 5,
+        "Group": 100,
+        "GroupName": "ui.TxtDLC6.BtnEvent",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202512290400]",
+        "EndTime": "[202601120400]",
+        "AwardTime": "[202601120400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9117
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    20,
+                    2
+                ],
+                [
+                    12,
+                    3
+                ],
+                [
+                    21,
+                    1
+                ],
+                [
+                    22,
+                    1
+                ],
+                [
+                    8,
+                    4
+                ],
+                [
+                    11,
+                    3
+                ],
+                [
+                    23,
+                    1
+                ],
+                [
+                    6,
+                    3
+                ],
+                [
+                    15,
+                    3
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 174,
+        "SencesPictureID": [
+            1,
+            2
+        ],
+        "CustomData": [
+            22,
+            215,
+            40
+        ]
+    },
+    {
+        "Id": 101,
+        "Name": "ui.online_defend_difficult2",
+        "Type": 5,
+        "Group": 100,
+        "GroupName": "ui.TxtDLC6.BtnEvent",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202601020400]",
+        "EndTime": "[202601120400]",
+        "AwardTime": "[202601120400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9118
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    20,
+                    2
+                ],
+                [
+                    12,
+                    3
+                ],
+                [
+                    21,
+                    1
+                ],
+                [
+                    22,
+                    1
+                ],
+                [
+                    8,
+                    4
+                ],
+                [
+                    11,
+                    3
+                ],
+                [
+                    23,
+                    1
+                ],
+                [
+                    6,
+                    3
+                ],
+                [
+                    15,
+                    3
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 174,
+        "SencesPictureID": [
+            1,
+            2
+        ],
+        "CustomData": [
+            22,
+            320,
+            80
+        ]
+    },
+    {
+        "Id": 102,
+        "Name": "ui.TxtBraveGame",
+        "Type": 3,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202601150400]",
+        "EndTime": "[202601290400]",
+        "AwardTime": "[202601290400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                64,
+                65,
+                66
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    20,
+                    2
+                ],
+                [
+                    12,
+                    3
+                ],
+                [
+                    21,
+                    1
+                ],
+                [
+                    22,
+                    1
+                ],
+                [
+                    8,
+                    4
+                ],
+                [
+                    11,
+                    3
+                ],
+                [
+                    23,
+                    1
+                ],
+                [
+                    6,
+                    3
+                ],
+                [
+                    15,
+                    3
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": [
+            15,
+            1,
+            200,
+            200
+        ],
+        "BG": 1803016,
+        "Icon": "",
+        "Intro": "ui.online_boss_LevelDes",
+        "HelpImgId": 53
+    },
+    {
+        "Id": 103,
+        "Name": "ui.TxtParty.Mode2",
+        "Type": 7,
+        "Group": 103,
+        "GroupName": "ui.TxtDLC32.BtnRush",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202512180400]",
+        "EndTime": "[202601290400]",
+        "AwardTime": "[202601290400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 15,
+        "MatchDuration": 60,
+        "ResetLevel": [
+            [
+                9602,
+                9605,
+                9606,
+                9609,
+                9610,
+                9613,
+                9616,
+                9617,
+                9618,
+                9619,
+                9620,
+                9622,
+                9627,
+                9628,
+                9629,
+                9630
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": "",
+        "ReturnVigor": "",
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 176,
+        "SencesPictureID": "",
+        "CustomData": [
+            23
+        ],
+        "Hide": 1
+    },
+    {
+        "Id": 104,
+        "Name": "ui.TxtPartyBtnZbug",
+        "Type": 7,
+        "Group": 103,
+        "GroupName": "ui.TxtDLC32.BtnRush",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202512180400]",
+        "EndTime": "[202601290400]",
+        "AwardTime": "[202601290400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 15,
+        "MatchDuration": 60,
+        "ResetLevel": [
+            [
+                9626
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": "",
+        "ReturnVigor": "",
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 176,
+        "SencesPictureID": "",
+        "CustomData": [
+            23,
+            1,
+            9632
+        ],
+        "Hide": 1
+    },
+    {
+        "Id": 105,
+        "Name": "ui.TxtPartyBtnZbug",
+        "Type": 7,
+        "Group": 105,
+        "GroupName": "ui.TxtDLC32.BtnRush",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202601290400]",
+        "EndTime": "[202603120400]",
+        "AwardTime": "[202603120400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 15,
+        "MatchDuration": 60,
+        "ResetLevel": {
+            "9634": 9626
+        },
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": "",
+        "ReturnVigor": "",
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": "",
+        "SencesPictureID": "",
+        "CustomData": [
+            24,
+            1,
+            9632
+        ],
+        "Hide": 1
+    },
+    {
+        "Id": 106,
+        "Name": "ui.TxtAssaultopsDiff1",
+        "Type": 13,
+        "Group": 106,
+        "GroupName": "ui.TxtAssaultopsName",
+        "Diff": 1,
+        "Date": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "StartTime": "[202602020400]",
+        "EndTime": "[209912310400]",
+        "AwardTime": "[209912310400]",
+        "OpenHour": "",
+        "Condition": "",
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": {
+            "60200": 60201,
+            "60204": 60205
+        },
+        "GainRole": [
+            [
+                [
+                    22,
+                    1
+                ],
+                [
+                    10,
+                    3
+                ],
+                [
+                    14,
+                    3
+                ],
+                [
+                    15,
+                    3
+                ],
+                [
+                    17,
+                    2
+                ],
+                [
+                    18,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    8,
+                    2
+                ],
+                [
+                    2,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": [
+            18,
+            19,
+            20,
+            21,
+            22
+        ],
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1803014,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 271,
+        "SencesPictureID": "",
+        "CustomData": [
+            1,
+            30
+        ]
+    },
+    {
+        "Id": 107,
+        "Name": "ui.TxtAssaultopsDiff2",
+        "Type": 13,
+        "Group": 106,
+        "GroupName": "ui.TxtAssaultopsName",
+        "Diff": 2,
+        "Date": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "StartTime": "[202602120400]",
+        "EndTime": "[202603050400]",
+        "AwardTime": "[202603050400]",
+        "OpenHour": "",
+        "Condition": "",
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": {
+            "60206": 60207
+        },
+        "GainRole": [
+            [
+                [
+                    22,
+                    1
+                ],
+                [
+                    10,
+                    3
+                ],
+                [
+                    14,
+                    3
+                ],
+                [
+                    15,
+                    3
+                ],
+                [
+                    17,
+                    2
+                ],
+                [
+                    18,
+                    2
+                ],
+                [
+                    4,
+                    3
+                ],
+                [
+                    8,
+                    2
+                ],
+                [
+                    2,
+                    2
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": [
+            18,
+            19,
+            20,
+            21,
+            22
+        ],
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1803014,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineEvent15",
+        "HelpImgId": 271,
+        "SencesPictureID": "",
+        "CustomData": [
+            1,
+            80
+        ]
+    },
+    {
+        "Id": 108,
+        "Name": "ui.TxtOnlineSeaDiff1",
+        "Type": 10,
+        "Group": 108,
+        "GroupName": "ui.TxtOnlineSeaName",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202604070400]",
+        "EndTime": "[202604270400]",
+        "AwardTime": "[202604270400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9231,
+                9232,
+                9233
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    24,
+                    1
+                ],
+                [
+                    1,
+                    3
+                ],
+                [
+                    5,
+                    4
+                ],
+                [
+                    20,
+                    2
+                ],
+                [
+                    8,
+                    4
+                ],
+                [
+                    23,
+                    1
+                ],
+                [
+                    6,
+                    3
+                ],
+                [
+                    22,
+                    1
+                ],
+                [
+                    11,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": [
+            103259,
+            103260,
+            103234,
+            103232,
+            103231
+        ],
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineSeaDiffName1",
+        "HelpImgId": 216,
+        "SencesPictureID": [
+            1,
+            2,
+            3
+        ],
+        "CustomData": [
+            25,
+            30,
+            1,
+            57
+        ],
+        "Hide": "",
+        "Training": [
+            9200
+        ]
+    },
+    {
+        "Id": 109,
+        "Name": "ui.TxtOnlineSeaDiff2",
+        "Type": 10,
+        "Group": 108,
+        "GroupName": "ui.TxtOnlineSeaName",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202604110400]",
+        "EndTime": "[202604270400]",
+        "AwardTime": "[202604270400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9241,
+                9242,
+                9243
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    24,
+                    1
+                ],
+                [
+                    1,
+                    3
+                ],
+                [
+                    5,
+                    4
+                ],
+                [
+                    20,
+                    2
+                ],
+                [
+                    8,
+                    4
+                ],
+                [
+                    23,
+                    1
+                ],
+                [
+                    6,
+                    3
+                ],
+                [
+                    22,
+                    1
+                ],
+                [
+                    11,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": [
+            103259,
+            103260,
+            103234,
+            103232,
+            103231
+        ],
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineSeaDiffName2",
+        "HelpImgId": 216,
+        "SencesPictureID": [
+            1,
+            2,
+            3
+        ],
+        "CustomData": [
+            25,
+            40,
+            1,
+            57
+        ],
+        "Hide": "",
+        "Training": [
+            9200
+        ]
+    },
+    {
+        "Id": 110,
+        "Name": "ui.TxtOnlineSeaDiff3",
+        "Type": 10,
+        "Group": 108,
+        "GroupName": "ui.TxtOnlineSeaName",
+        "Diff": 3,
+        "Date": "",
+        "StartTime": "[202604140400]",
+        "EndTime": "[202604270400]",
+        "AwardTime": "[202604270400]",
+        "OpenHour": "",
+        "Condition": [
+            [
+                1,
+                30
+            ],
+            [
+                32,
+                10,
+                10
+            ]
+        ],
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9251
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    24,
+                    1
+                ],
+                [
+                    1,
+                    3
+                ],
+                [
+                    5,
+                    4
+                ],
+                [
+                    20,
+                    2
+                ],
+                [
+                    8,
+                    4
+                ],
+                [
+                    23,
+                    1
+                ],
+                [
+                    6,
+                    3
+                ],
+                [
+                    22,
+                    1
+                ],
+                [
+                    11,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": [
+            103259,
+            103260,
+            103234,
+            103232,
+            103231
+        ],
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineSeaDiffName3",
+        "HelpImgId": 216,
+        "SencesPictureID": [
+            1,
+            2,
+            3
+        ],
+        "CustomData": [
+            25,
+            80,
+            1,
+            57
+        ],
+        "Hide": "",
+        "Training": [
+            9200
+        ]
+    },
+    {
+        "Id": 111,
+        "Name": "ui.TxtBraveGame",
+        "Type": 3,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202602260400]",
+        "EndTime": "[202604090400]",
+        "AwardTime": "[202604090400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                70,
+                71,
+                72
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    24,
+                    1
+                ],
+                [
+                    1,
+                    3
+                ],
+                [
+                    5,
+                    4
+                ],
+                [
+                    20,
+                    2
+                ],
+                [
+                    8,
+                    4
+                ],
+                [
+                    23,
+                    1
+                ],
+                [
+                    6,
+                    3
+                ],
+                [
+                    22,
+                    1
+                ],
+                [
+                    11,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": [
+            15,
+            1,
+            200,
+            200
+        ],
+        "BG": 1803016,
+        "Icon": "",
+        "Intro": "ui.online_boss_LevelDes",
+        "HelpImgId": 53
+    },
+    {
+        "Id": 112,
+        "Name": "ui.TxtPartyPVE.Name",
+        "Type": 7,
+        "Group": 105,
+        "GroupName": "ui.TxtDLC32.BtnRush",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202601300400]",
+        "EndTime": "[202603120400]",
+        "AwardTime": "[202603120400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9633
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": "",
+        "ReturnVigor": "",
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": "",
+        "SencesPictureID": "",
+        "CustomData": [
+            24
+        ],
+        "Hide": 1
+    },
+    {
+        "Id": 113,
+        "Name": "ui.TxtOnlinePurgeGame1",
+        "Type": 12,
+        "Group": 113,
+        "GroupName": "ui.TxtOnlinePurge",
+        "Diff": 1,
+        "Date": "",
+        "StartTime": "[202604240400]",
+        "EndTime": "[202605140400]",
+        "AwardTime": "[202605140400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9913
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    24,
+                    1
+                ],
+                [
+                    4,
+                    4
+                ],
+                [
+                    1,
+                    3
+                ],
+                [
+                    5,
+                    4
+                ],
+                [
+                    20,
+                    2
+                ],
+                [
+                    8,
+                    4
+                ],
+                [
+                    23,
+                    1
+                ],
+                [
+                    6,
+                    3
+                ],
+                [
+                    22,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": [
+            103195,
+            104002,
+            104003,
+            104004,
+            104005,
+            104006
+        ],
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1803141,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 252,
+        "SencesPictureID": "",
+        "CustomData": [
+            3,
+            [
+                59,
+                60
+            ]
+        ]
+    },
+    {
+        "Id": 114,
+        "Name": "ui.TxtOnlinePurgeGame2",
+        "Type": 12,
+        "Group": 113,
+        "GroupName": "ui.TxtOnlinePurge",
+        "Diff": 2,
+        "Date": "",
+        "StartTime": "[202604280400]",
+        "EndTime": "[202605140400]",
+        "AwardTime": "[202605140400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9914
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    24,
+                    1
+                ],
+                [
+                    4,
+                    4
+                ],
+                [
+                    1,
+                    3
+                ],
+                [
+                    5,
+                    4
+                ],
+                [
+                    20,
+                    2
+                ],
+                [
+                    8,
+                    4
+                ],
+                [
+                    23,
+                    1
+                ],
+                [
+                    6,
+                    3
+                ],
+                [
+                    22,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": [
+            103195,
+            104002,
+            104003,
+            104004,
+            104005,
+            104006
+        ],
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1803141,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": 252,
+        "SencesPictureID": "",
+        "CustomData": [
+            3,
+            [
+                59,
+                60
+            ]
+        ]
+    },
+    {
+        "Id": 115,
+        "Name": "ui.TxtParty.Mode2",
+        "Type": 7,
+        "Group": 105,
+        "GroupName": "ui.TxtDLC32.BtnRush",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202601290400]",
+        "EndTime": "[202603120400]",
+        "AwardTime": "[202603120400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 15,
+        "MatchDuration": 60,
+        "ResetLevel": [
+            [
+                9602,
+                9605,
+                9606,
+                9609,
+                9610,
+                9613,
+                9616,
+                9617,
+                9618,
+                9619,
+                9620,
+                9622,
+                9627,
+                9628,
+                9629,
+                9630
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": "",
+        "ReturnVigor": "",
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": "",
+        "SencesPictureID": "",
+        "CustomData": [
+            24
+        ],
+        "Hide": 1
+    },
+    {
+        "Id": 116,
+        "Name": "ui.TxtOnlineSeaMainName3",
+        "Type": 10,
+        "Group": 108,
+        "GroupName": "ui.TxtOnlineSeaName",
+        "Diff": 0,
+        "Date": "",
+        "StartTime": "[202603120400]",
+        "EndTime": "[202604230400]",
+        "AwardTime": "[202604230400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 30
+        },
+        "MaxPlayer": 1,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                9200
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    24,
+                    1
+                ],
+                [
+                    1,
+                    3
+                ],
+                [
+                    5,
+                    4
+                ],
+                [
+                    20,
+                    2
+                ],
+                [
+                    8,
+                    4
+                ],
+                [
+                    23,
+                    1
+                ],
+                [
+                    6,
+                    3
+                ],
+                [
+                    22,
+                    1
+                ],
+                [
+                    11,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": [
+            103259,
+            103260,
+            103234,
+            103232,
+            103231
+        ],
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "ui.TxtOnlineSeaDiffName4",
+        "HelpImgId": "",
+        "SencesPictureID": [
+            1,
+            2,
+            3
+        ],
+        "CustomData": [
+            25,
+            30,
+            1,
+            57
+        ]
+    },
+    {
+        "Id": 117,
+        "Name": "ui.TxtParty.Mode1",
+        "Type": 7,
+        "Group": 117,
+        "GroupName": "ui.TxtDLC36.BtnRush",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202603120400]",
+        "EndTime": "[202604230400]",
+        "AwardTime": "[202604230400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 15,
+        "MatchDuration": 60,
+        "ResetLevel": [
+            [
+                9623,
+                9625,
+                9638,
+                9639
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": "",
+        "ReturnVigor": "",
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": "",
+        "SencesPictureID": "",
+        "CustomData": [
+            26
+        ],
+        "Hide": 1
+    },
+    {
+        "Id": 118,
+        "Name": "ui.TxtBraveGame",
+        "Type": 3,
+        "Group": "",
+        "GroupName": "",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202604300400]",
+        "EndTime": "[202605140400]",
+        "AwardTime": "[202605140400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 3,
+        "MatchDuration": "",
+        "ResetLevel": [
+            [
+                73,
+                74,
+                75
+            ]
+        ],
+        "GainRole": [
+            [
+                [
+                    24,
+                    1
+                ],
+                [
+                    4,
+                    4
+                ],
+                [
+                    1,
+                    3
+                ],
+                [
+                    5,
+                    4
+                ],
+                [
+                    20,
+                    2
+                ],
+                [
+                    8,
+                    4
+                ],
+                [
+                    23,
+                    1
+                ],
+                [
+                    6,
+                    3
+                ],
+                [
+                    22,
+                    1
+                ]
+            ]
+        ],
+        "GainRoleTimeMode": "",
+        "GainRoleRate": 10,
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": 0,
+        "ReturnVigor": 1,
+        "Cash": [
+            15,
+            1,
+            200,
+            200
+        ],
+        "BG": 1803016,
+        "Icon": "",
+        "Intro": "ui.online_boss_LevelDes",
+        "HelpImgId": 53
+    },
+    {
+        "Id": 124,
+        "Name": "ui.TxtParty.Mode2",
+        "Type": 7,
+        "Group": 117,
+        "GroupName": "ui.TxtDLC32.BtnRush",
+        "Diff": "",
+        "Date": "",
+        "StartTime": "[202603120400]",
+        "EndTime": "[202604230400]",
+        "AwardTime": "[202604230400]",
+        "OpenHour": "",
+        "Condition": {
+            "1": 20
+        },
+        "MaxPlayer": 15,
+        "MatchDuration": 60,
+        "ResetLevel": [
+            [
+                9601,
+                9604,
+                9605,
+                9606,
+                9609,
+                9611,
+                9613,
+                9618,
+                9619,
+                9622,
+                9628,
+                9630
+            ]
+        ],
+        "GainRole": "",
+        "GainRoleTimeMode": "",
+        "GainRoleRate": "",
+        "TrialID": "",
+        "Buff": "",
+        "ConsumeVigor": "",
+        "ReturnVigor": "",
+        "Cash": "",
+        "BG": 1804055,
+        "Icon": "",
+        "Intro": "",
+        "HelpImgId": "",
+        "SencesPictureID": "",
+        "CustomData": [
+            26
+        ],
+        "Hide": 1
+    }
+]

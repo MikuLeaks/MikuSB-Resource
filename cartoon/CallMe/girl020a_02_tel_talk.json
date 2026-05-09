@@ -1,0 +1,638 @@
+[
+    {
+        "Key": "choiceG.1",
+        "Speaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "占卜"
+    },
+    {
+        "Key": "Gopic1.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson03_girl020_01",
+        "zh_CN": "诶……原来塔罗牌不是用来烧的，而是用来占卜的啊。"
+    },
+    {
+        "Key": "Gopic1.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson03_girl020_02",
+        "zh_CN": "我还以为它的用法和符咒差不多呢……"
+    },
+    {
+        "Key": "Gopic1.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson03_girl020_03",
+        "zh_CN": "看了这么久的书，感觉自己也有些心得了，分析员，让我来为你占卜一下吧~"
+    },
+    {
+        "Key": "Gopic1.4",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson03_girl020_04",
+        "zh_CN": "从这些牌里，选一张与你有缘的……"
+    },
+    {
+        "Key": "choiceG1A",
+        "Speaker": "H主角",
+        "WwiseEventID": "",
+        "zh_CN": "日之牌"
+    },
+    {
+        "Key": "choiceG1A.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson03_girl020_05",
+        "zh_CN": "如果是这张牌的话……"
+    },
+    {
+        "Key": "choiceG1A.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson03_girl020_06",
+        "zh_CN": "说明分析员会在你擅长的领域，迎来一些“收获”。"
+    },
+    {
+        "Key": "choiceG1A.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson03_girl020_07",
+        "zh_CN": "不过，这张塔罗牌也有“持续努力”的牌意，所以分析员可要再接再厉啊~"
+    },
+    {
+        "Key": "choiceG1A.4",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson03_girl020_08",
+        "zh_CN": "离你想达成的终点，已经很近很近了哦。"
+    },
+    {
+        "Key": "choiceG1B",
+        "Speaker": "H主角",
+        "WwiseEventID": "",
+        "zh_CN": "月之牌"
+    },
+    {
+        "Key": "choiceG1B.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson03_girl020_09",
+        "zh_CN": "从这张牌里，卜卜看到了机会！很不错的机会哦！"
+    },
+    {
+        "Key": "choiceG1B.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson03_girl020_10",
+        "zh_CN": "虽然不知道分析员心里的计划是什么，但只要抓住这个机会，事情的成功率就会大大提升。"
+    },
+    {
+        "Key": "choiceG1B.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson03_girl020_11",
+        "zh_CN": "我就提前恭喜分析员，心想事成啦~"
+    },
+    {
+        "Key": "choiceG1C",
+        "Speaker": "H主角",
+        "WwiseEventID": "",
+        "zh_CN": "星之牌"
+    },
+    {
+        "Key": "choiceG1C.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson03_girl020_12",
+        "zh_CN": "咦？分析员最近是有什么烦心事吗？卜卜感觉到你似乎有些……迷茫？"
+    },
+    {
+        "Key": "choiceG1C.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson03_girl020_13",
+        "zh_CN": "还好，这张牌的牌意是“力量”，意味着一切困难都会迎刃而解。"
+    },
+    {
+        "Key": "choiceG1C.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson03_girl020_14",
+        "zh_CN": "要注意的是，别人的建议很可能让这个问题变得更复杂。"
+    },
+    {
+        "Key": "choiceG1C.4",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson03_girl020_15",
+        "zh_CN": "分析员只需要遵从自己内心的声音，理性地做出决策就好~"
+    },
+    {
+        "Key": "choiceT.1",
+        "Speaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "预言课"
+    },
+    {
+        "Key": "topic1.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson01_girl020_01",
+        "zh_CN": "预言的时候，魔法师们经常会找些水晶来增强魔力！"
+    },
+    {
+        "Key": "topic1.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson01_girl020_02",
+        "zh_CN": "但水晶这东西，在魔法界可谓一石难求。"
+    },
+    {
+        "Key": "topic1.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson01_girl020_03",
+        "zh_CN": "不过，这可难不倒卜卜~毕竟朔州地大物博嘛~"
+    },
+    {
+        "Key": "topic1.4",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson01_girl020_04",
+        "zh_CN": "不管是被冰雪常年覆盖的雪岭卫、沿海的南洋卫，还是和分析员相遇的北庭卫，都能见到水晶的踪迹。"
+    },
+    {
+        "Key": "topic1.5",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson01_girl020_05",
+        "zh_CN": "去那里挖的话，还可以顺带在朔州好好玩一圈。"
+    },
+    {
+        "Key": "topic1.6",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson01_girl020_06",
+        "zh_CN": "分析员，你对哪个地方比较感兴趣？"
+    },
+    {
+        "Key": "choiceT1A",
+        "Speaker": "H主角",
+        "WwiseEventID": "",
+        "zh_CN": "雪岭卫"
+    },
+    {
+        "Key": "choiceT1A.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson01_girl020_07",
+        "zh_CN": "雪岭卫可冷了~那里的人都穿得厚厚的。"
+    },
+    {
+        "Key": "choiceT1A.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson01_girl020_08",
+        "zh_CN": "小导游卜卜会带分析员尝尝那里的冻梨，和雪岭酸菜。"
+    },
+    {
+        "Key": "choiceT1A.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson01_girl020_09",
+        "zh_CN": "冰糕也是一定要吃的，多冷的天都得买一个！"
+    },
+    {
+        "Key": "choiceT1A.4",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson01_girl020_10",
+        "zh_CN": "到时候，我用小木勺，一口一口喂分析员~"
+    },
+    {
+        "Key": "choiceT1B",
+        "Speaker": "H主角",
+        "WwiseEventID": "",
+        "zh_CN": "南洋卫"
+    },
+    {
+        "Key": "choiceT1B.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson01_girl020_11",
+        "zh_CN": "南洋卫临海，那里的人最爱鱼脍。"
+    },
+    {
+        "Key": "choiceT1B.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson01_girl020_12",
+        "zh_CN": "分析员可以和卜卜尝试“打边炉”，这种做法据说能保留食材最本真的味道。"
+    },
+    {
+        "Key": "choiceT1B.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson01_girl020_13",
+        "zh_CN": "那里的气候也很舒适，是个宜居的好地方。"
+    },
+    {
+        "Key": "choiceT1B.4",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson01_girl020_14",
+        "zh_CN": "就是可惜方言有些难懂，咩啊咩啊，完全听不明白。"
+    },
+    {
+        "Key": "choiceT1C",
+        "Speaker": "H主角",
+        "WwiseEventID": "",
+        "zh_CN": "北庭卫"
+    },
+    {
+        "Key": "choiceT1C.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson01_girl020_15",
+        "zh_CN": "分析员几次去北庭卫都是因为公司的任务呢。"
+    },
+    {
+        "Key": "choiceT1C.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson01_girl020_16",
+        "zh_CN": "来去匆匆，停留的时间都太少啦。"
+    },
+    {
+        "Key": "choiceT1C.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson01_girl020_17",
+        "zh_CN": "北庭卫虽然看着有些荒凉，但在深处也有特别的大漠风光。"
+    },
+    {
+        "Key": "choiceT1C.4",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson01_girl020_18",
+        "zh_CN": "还是等以后，卜卜带分析员去亲自领略一下吧~"
+    },
+    {
+        "Key": "choiceT.2",
+        "Speaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "飞行课"
+    },
+    {
+        "Key": "topic2.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson02_girl020_01",
+        "zh_CN": "扫帚是最传统的飞行工具，但因为使用起来不太安全、硌屁股等问题，已经逐渐被大家淘汰了。"
+    },
+    {
+        "Key": "topic2.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson02_girl020_02",
+        "zh_CN": "现在魔法界对飞行工具的态度大致分为三派，即日用派、科技派和怪奇派。"
+    },
+    {
+        "Key": "topic2.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson02_girl020_03",
+        "zh_CN": "日用派提倡把生活中的常见的物品来作为飞行道具，比如毯子、斗篷之类的。"
+    },
+    {
+        "Key": "topic2.4",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson02_girl020_04",
+        "zh_CN": "科技派则致力于在普通人的交通工具上附加魔法，就像魔法汽车、魔法巴士。"
+    },
+    {
+        "Key": "topic2.5",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson02_girl020_05",
+        "zh_CN": "怪奇派的飞行道具就比较多样了，有挂在屁股上，像风扇一样的尾巴，还有戴在头顶的竹蜻蜓。"
+    },
+    {
+        "Key": "topic2.6",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson02_girl020_06",
+        "zh_CN": "分析员，你更倾向哪个流派呢？"
+    },
+    {
+        "Key": "choiceT2A",
+        "Speaker": "H主角",
+        "WwiseEventID": "",
+        "zh_CN": "日用派"
+    },
+    {
+        "Key": "choiceT2A.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson02_girl020_07",
+        "zh_CN": "把日常会使用的事物改造成飞行道具，听上去的确很方便呢。"
+    },
+    {
+        "Key": "choiceT2A.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson02_girl020_08",
+        "zh_CN": "要是某天，卜卜起晚了，就直接乘着被褥飞到出勤点。"
+    },
+    {
+        "Key": "choiceT2A.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson02_girl020_09",
+        "zh_CN": "这样，路上还能多睡一会，想想都觉得美极了。"
+    },
+    {
+        "Key": "choiceT2B",
+        "Speaker": "H主角",
+        "WwiseEventID": "",
+        "zh_CN": "科技派"
+    },
+    {
+        "Key": "choiceT2B.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson02_girl020_10",
+        "zh_CN": "科技派的道具坐起来又舒适，又能遮风挡雨，的确是不错的选择！"
+    },
+    {
+        "Key": "choiceT2B.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson02_girl020_11",
+        "zh_CN": "不过，因为和普通交通工具长得太像，很容易被误乘呢……"
+    },
+    {
+        "Key": "choiceT2B.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson02_girl020_12",
+        "zh_CN": "果然还是得把站台藏隐蔽些。"
+    },
+    {
+        "Key": "choiceT2C",
+        "Speaker": "H主角",
+        "WwiseEventID": "",
+        "zh_CN": "怪奇派"
+    },
+    {
+        "Key": "choiceT2C.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson02_girl020_13",
+        "zh_CN": "什么什么，分析员居然比较青睐怪奇派吗？"
+    },
+    {
+        "Key": "choiceT2C.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson02_girl020_14",
+        "zh_CN": "那……卜卜也试着变条尾巴出来？"
+    },
+    {
+        "Key": "choiceT2C.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson02_girl020_15",
+        "zh_CN": "哪种尾巴比较好呢？小猫尾巴……还是小猪尾巴呢？"
+    },
+    {
+        "Key": "choiceT.3",
+        "Speaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "黑暗魔法"
+    },
+    {
+        "Key": "topic3.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson04_girl020_01",
+        "zh_CN": "其实，只有很小一部分极具破坏力的黑魔法，被收录、封存在禁书之中。"
+    },
+    {
+        "Key": "topic3.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson04_girl020_02",
+        "zh_CN": "魔法管理局一直有意把几种禁忌魔法，也纳入黑魔法的范畴。这件事还引出很多讨论呢。"
+    },
+    {
+        "Key": "topic3.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson04_girl020_03",
+        "zh_CN": "被提名的禁忌魔法，有永生魔法、时间旅行、造物之术。"
+    },
+    {
+        "Key": "topic3.4",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson04_girl020_04",
+        "zh_CN": "分析员，你觉得哪种魔法该最先被列入黑魔法的范畴，就此封存呢？"
+    },
+    {
+        "Key": "choiceT3A",
+        "Speaker": "H主角",
+        "WwiseEventID": "",
+        "zh_CN": "永生魔法"
+    },
+    {
+        "Key": "choiceT3A.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson04_girl020_05",
+        "zh_CN": "无限的时间会稀释一切意义。"
+    },
+    {
+        "Key": "choiceT3A.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson04_girl020_06",
+        "zh_CN": "卜卜都明白的道理，那些永生者怎么看不明白呢。"
+    },
+    {
+        "Key": "choiceT3A.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson04_girl020_07",
+        "zh_CN": "为了积累财富、权力，甘愿变成冷漠、失去人性的怪物。"
+    },
+    {
+        "Key": "choiceT3A.4",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson04_girl020_08",
+        "zh_CN": "不值，太不值啦！"
+    },
+    {
+        "Key": "choiceT3B",
+        "Speaker": "H主角",
+        "WwiseEventID": "",
+        "zh_CN": "时间旅行"
+    },
+    {
+        "Key": "choiceT3B.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson04_girl020_09",
+        "zh_CN": "虽然知道时间旅行可能会造成很严重的后果……"
+    },
+    {
+        "Key": "choiceT3B.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson04_girl020_10",
+        "zh_CN": "但卜卜很想回到过去，看看以前的分析员是什么样。"
+    },
+    {
+        "Key": "choiceT3B.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson04_girl020_11",
+        "zh_CN": "可要是在以前的时空就认识了分析员，那现在这些美好记忆，会不会就不存在了呢？"
+    },
+    {
+        "Key": "choiceT3B.4",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson04_girl020_12",
+        "zh_CN": "唔哇，不行不行，这不行！"
+    },
+    {
+        "Key": "choiceT3C",
+        "Speaker": "H主角",
+        "WwiseEventID": "",
+        "zh_CN": "造物之术"
+    },
+    {
+        "Key": "choiceT3C.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson04_girl020_13",
+        "zh_CN": "造物魔法，想想都很可怕呢。"
+    },
+    {
+        "Key": "choiceT3C.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson04_girl020_14",
+        "zh_CN": "说到底，这也是为了满足造物者狂妄的野心吧。"
+    },
+    {
+        "Key": "choiceT3C.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson04_girl020_15",
+        "zh_CN": "卜卜也同意，把这个危险的魔法立刻封存起来！"
+    },
+    {
+        "Key": "choiceT3C.4",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson04_girl020_16",
+        "zh_CN": "不然哪天世上要是出现了会飞的饺子、会说话的包子怎么办？"
+    },
+    {
+        "Key": "choiceT.4",
+        "Speaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "元素魔法"
+    },
+    {
+        "Key": "topic4.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_01",
+        "zh_CN": "元素魔法实际上是水、火、土、风四种元素魔法的统称。"
+    },
+    {
+        "Key": "topic4.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_02",
+        "zh_CN": "一般来说……掌握两种元素，就算得上很厉害的元素魔法师了。"
+    },
+    {
+        "Key": "topic4.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_03",
+        "zh_CN": "分析员~如果是你的话，会最先从哪一种元素开始修习呢？"
+    },
+    {
+        "Key": "choiceT4A",
+        "Speaker": "H主角",
+        "WwiseEventID": "",
+        "zh_CN": "水元素"
+    },
+    {
+        "Key": "choiceT4A.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_04",
+        "zh_CN": "如果从水元素魔法开始修习的话……"
+    },
+    {
+        "Key": "choiceT4A.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_05",
+        "zh_CN": "那就可以用魔法浇花、洗衣服，不过水元素也有暴走的可能性。"
+    },
+    {
+        "Key": "choiceT4A.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_06",
+        "zh_CN": "唔……有了~"
+    },
+    {
+        "Key": "choiceT4A.4",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_07",
+        "zh_CN": "如果一开始就在练习魔法时，穿得清凉些，应该就不怕衣服被打湿了吧。"
+    },
+    {
+        "Key": "choiceT4A.5",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_08",
+        "zh_CN": "卜卜一定是学习魔法的天才。"
+    },
+    {
+        "Key": "choiceT4B",
+        "Speaker": "H主角",
+        "WwiseEventID": "",
+        "zh_CN": "火元素"
+    },
+    {
+        "Key": "choiceT4B.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_09",
+        "zh_CN": "火元素魔法有着很强的破坏力和进攻性。"
+    },
+    {
+        "Key": "choiceT4B.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_10",
+        "zh_CN": "修习的时候，连房间里的空气都会变得炽热起来。"
+    },
+    {
+        "Key": "choiceT4B.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_11",
+        "zh_CN": "施术者为了避免火元素反噬，也流传下来一些神秘咒语，我记得内容好像是……"
+    },
+    {
+        "Key": "choiceT4B.4",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_12",
+        "zh_CN": "唔……以舌间微润，以山谷晨露，抚平灼热。"
+    },
+    {
+        "Key": "choiceT4B.5",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_13",
+        "zh_CN": "分析员，如果你需要，卜卜也可以哦……"
+    },
+    {
+        "Key": "choiceT4C",
+        "Speaker": "H主角",
+        "WwiseEventID": "",
+        "zh_CN": "土元素"
+    },
+    {
+        "Key": "choiceT4C.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_14",
+        "zh_CN": "土元素魔法多以防御、建造为主。"
+    },
+    {
+        "Key": "choiceT4C.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_15",
+        "zh_CN": "据说，擅长土元素魔法的魔法师在播种时，会和大地产生特别的感应。"
+    },
+    {
+        "Key": "choiceT4C.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_16",
+        "zh_CN": "土壤因其变得肥沃、湿润，能更快孕育出果实。"
+    },
+    {
+        "Key": "choiceT4C.4",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_17",
+        "zh_CN": "如果分析员对土元素魔法感兴趣的话……那你的种子也一定蕴含着特别的力量吧。"
+    },
+    {
+        "Key": "choiceT4D",
+        "Speaker": "H主角",
+        "WwiseEventID": "",
+        "zh_CN": "风元素"
+    },
+    {
+        "Key": "choiceT4D.1",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_18",
+        "zh_CN": "风元素魔法是自由且浪漫的魔法呢~"
+    },
+    {
+        "Key": "choiceT4D.2",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_19",
+        "zh_CN": "声音、香气甚至思念，都可以用风来传递。"
+    },
+    {
+        "Key": "choiceT4D.3",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_20",
+        "zh_CN": "如果乘风而行，还能感受到那种冲向云端，再俯冲而下，最后飘飘然的感觉。"
+    },
+    {
+        "Key": "choiceT4D.4",
+        "Speaker": "A魔法卜卜",
+        "WwiseEventID": "Play_Vo_call_lesson05_girl020_21",
+        "zh_CN": "嘿……这么说好像有点奇怪，这不就是我和分析员……那时的感觉吗？"
+    }
+]

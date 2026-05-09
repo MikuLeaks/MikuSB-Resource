@@ -1,0 +1,310 @@
+[
+    {
+        "TalentID": 101,
+        "Quality": 5,
+        "SuitType": 1,
+        "SuitTypeIcon": 1001064,
+        "UnlockCondition": "",
+        "Name": "rogue3.talent_name_101",
+        "Icon": 1001078,
+        "SkillType": 2,
+        "BaseSkill": [
+            700011011
+        ],
+        "BaseSkillNum": [
+            15
+        ],
+        "BaseDes": "rogue3.talent_des_101",
+        "SuitSkill": [
+            [
+                3,
+                700011001,
+                "rogue3.talent_des_101_1",
+                [
+                    30
+                ]
+            ],
+            [
+                6,
+                700011002,
+                "rogue3.talent_des_101_1",
+                [
+                    60
+                ]
+            ],
+            [
+                12,
+                700011003,
+                "rogue3.talent_des_101_1",
+                [
+                    120
+                ]
+            ]
+        ],
+        "SuitBuffProbability": 2500
+    },
+    {
+        "TalentID": 102,
+        "Quality": 5,
+        "SuitType": 2,
+        "SuitTypeIcon": 1001067,
+        "UnlockCondition": "",
+        "Name": "rogue3.talent_name_102",
+        "Icon": 1001080,
+        "SkillType": 2,
+        "BaseSkill": [
+            700016061
+        ],
+        "BaseSkillNum": [
+            15
+        ],
+        "BaseDes": "rogue3.talent_des_102",
+        "SuitSkill": [
+            [
+                3,
+                700016001,
+                "rogue3.talent_des_102_1",
+                [
+                    30
+                ]
+            ],
+            [
+                6,
+                700016002,
+                "rogue3.talent_des_102_1",
+                [
+                    60
+                ]
+            ],
+            [
+                12,
+                700016003,
+                "rogue3.talent_des_102_1",
+                [
+                    120
+                ]
+            ]
+        ],
+        "SuitBuffProbability": 2500
+    },
+    {
+        "TalentID": 103,
+        "Quality": 5,
+        "SuitType": 3,
+        "SuitTypeIcon": 1001066,
+        "UnlockCondition": "",
+        "Name": "rogue3.talent_name_106",
+        "Icon": 1001130,
+        "SkillType": 2,
+        "BaseSkill": [
+            700012021
+        ],
+        "BaseSkillNum": [
+            10
+        ],
+        "BaseDes": "rogue3.talent_des_106",
+        "SuitSkill": [
+            [
+                3,
+                700012001,
+                "rogue3.talent_des_106_1",
+                [
+                    20
+                ]
+            ],
+            [
+                6,
+                700012002,
+                "rogue3.talent_des_106_1",
+                [
+                    40
+                ]
+            ],
+            [
+                12,
+                700012003,
+                "rogue3.talent_des_106_1",
+                [
+                    80
+                ]
+            ]
+        ],
+        "SuitBuffProbability": 2500
+    },
+    {
+        "TalentID": 107,
+        "Quality": 5,
+        "SuitType": 7,
+        "SuitTypeIcon": 1001061,
+        "UnlockCondition": "",
+        "Name": "rogue3.talent_name_107",
+        "Icon": 1001105,
+        "SkillType": 2,
+        "BaseSkill": [
+            700017071
+        ],
+        "BaseSkillNum": [
+            15
+        ],
+        "BaseDes": "rogue3.talent_des_107",
+        "SuitSkill": [
+            [
+                3,
+                700017001,
+                "rogue3.talent_des_107_1",
+                [
+                    30
+                ]
+            ],
+            [
+                6,
+                700017002,
+                "rogue3.talent_des_107_1",
+                [
+                    60
+                ]
+            ],
+            [
+                12,
+                700017003,
+                "rogue3.talent_des_107_1",
+                [
+                    120
+                ]
+            ]
+        ],
+        "SuitBuffProbability": 2500
+    },
+    {
+        "TalentID": 104,
+        "Quality": 5,
+        "SuitType": 4,
+        "SuitTypeIcon": 1001069,
+        "UnlockCondition": 113,
+        "Name": "rogue3.talent_name_104",
+        "Icon": 1001079,
+        "SkillType": 2,
+        "BaseSkill": [
+            700014041
+        ],
+        "BaseSkillNum": [
+            15
+        ],
+        "BaseDes": "rogue3.talent_des_104",
+        "SuitSkill": [
+            [
+                3,
+                700014001,
+                "rogue3.talent_des_104_1",
+                [
+                    30
+                ]
+            ],
+            [
+                6,
+                700014002,
+                "rogue3.talent_des_104_1",
+                [
+                    60
+                ]
+            ],
+            [
+                12,
+                700014003,
+                "rogue3.talent_des_104_1",
+                [
+                    120
+                ]
+            ]
+        ],
+        "SuitBuffProbability": 2500
+    },
+    {
+        "TalentID": 105,
+        "Quality": 5,
+        "SuitType": 5,
+        "SuitTypeIcon": 1001065,
+        "UnlockCondition": 123,
+        "Name": "rogue3.talent_name_105",
+        "Icon": 1001077,
+        "SkillType": 2,
+        "BaseSkill": [
+            700013031
+        ],
+        "BaseSkillNum": [
+            15
+        ],
+        "BaseDes": "rogue3.talent_des_105",
+        "SuitSkill": [
+            [
+                3,
+                700013001,
+                "rogue3.talent_des_105_1",
+                [
+                    30
+                ]
+            ],
+            [
+                6,
+                700013002,
+                "rogue3.talent_des_105_1",
+                [
+                    70
+                ]
+            ],
+            [
+                12,
+                700013003,
+                "rogue3.talent_des_105_1",
+                [
+                    150
+                ]
+            ]
+        ],
+        "SuitBuffProbability": 2500
+    },
+    {
+        "TalentID": 106,
+        "Quality": 5,
+        "SuitType": 6,
+        "SuitTypeIcon": 1001068,
+        "UnlockCondition": 133,
+        "Name": "rogue3.talent_name_103",
+        "Icon": 1001076,
+        "SkillType": 1,
+        "BaseSkill": [
+            7010028
+        ],
+        "BaseSkillNum": [
+            15
+        ],
+        "BaseDes": "rogue3.talent_des_103",
+        "SuitSkill": [
+            [
+                3,
+                7010018,
+                "rogue3.talent_des_103_1",
+                [
+                    30
+                ]
+            ],
+            [
+                6,
+                7010019,
+                "rogue3.talent_des_103_1",
+                [
+                    70
+                ]
+            ],
+            [
+                12,
+                7010020,
+                "rogue3.talent_des_103_1",
+                [
+                    150
+                ]
+            ]
+        ],
+        "SuitBuffProbability": 2500
+    }
+]

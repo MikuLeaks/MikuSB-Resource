@@ -1,0 +1,5494 @@
+[
+    {
+        "Key": "RewardGeted",
+        "zh_CN": "重复领取奖励",
+        "disable": 0
+    },
+    {
+        "Key": "NotFinished",
+        "zh_CN": "请完成当前所有任务",
+        "disable": 0
+    },
+    {
+        "Key": "type1",
+        "zh_CN": "日常",
+        "disable": 0
+    },
+    {
+        "Key": "type2",
+        "zh_CN": "定期",
+        "disable": 0
+    },
+    {
+        "Key": "type3",
+        "zh_CN": "目标",
+        "disable": 0
+    },
+    {
+        "Key": "icon1",
+        "zh_CN": "日常",
+        "disable": 0
+    },
+    {
+        "Key": "icon2",
+        "zh_CN": "周常",
+        "disable": 0
+    },
+    {
+        "Key": "icon3",
+        "zh_CN": "定期",
+        "disable": 0
+    },
+    {
+        "Key": "icon4",
+        "zh_CN": "常驻",
+        "disable": 0
+    },
+    {
+        "Key": "icon5",
+        "zh_CN": "活动",
+        "disable": 0
+    },
+    {
+        "Key": "icon6",
+        "zh_CN": "限时",
+        "disable": 0
+    },
+    {
+        "Key": "GoTo",
+        "zh_CN": "前往",
+        "disable": 0
+    },
+    {
+        "Key": "Receive",
+        "zh_CN": "领取",
+        "disable": 0
+    },
+    {
+        "Key": "Received",
+        "zh_CN": "已领取",
+        "disable": 0
+    },
+    {
+        "Key": "NotOpen",
+        "zh_CN": "请先完成当前阶段所有任务",
+        "disable": 0
+    },
+    {
+        "Key": "GetReward",
+        "zh_CN": "请先领取当前阶段的总奖励",
+        "disable": 0
+    },
+    {
+        "Key": "PreNotFinished",
+        "zh_CN": "请先完成前置任务",
+        "disable": 0
+    },
+    {
+        "Key": "LockNoOpen",
+        "zh_CN": "当前任务还未开放",
+        "disable": 0
+    },
+    {
+        "Key": "CompleteStrap",
+        "zh_CN": "当前主线任务已全部完成",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Story01",
+        "zh_CN": "降临于人间",
+        "disable": 0
+    },
+    {
+        "Key": "Story02",
+        "zh_CN": "引发灾祸之物",
+        "disable": 0
+    },
+    {
+        "Key": "Story03",
+        "zh_CN": "虚假的光",
+        "disable": 0
+    },
+    {
+        "Key": "Story04",
+        "zh_CN": "雪中巨影",
+        "disable": 0
+    },
+    {
+        "Key": "Story05",
+        "zh_CN": "虔诚末路",
+        "disable": 0
+    },
+    {
+        "Key": "Story06",
+        "zh_CN": "隐喻苏醒",
+        "disable": 0
+    },
+    {
+        "Key": "Story07",
+        "zh_CN": "草蛇灰",
+        "disable": 0
+    },
+    {
+        "Key": "Story08",
+        "zh_CN": "个体与群落",
+        "disable": 0
+    },
+    {
+        "Key": "Story09",
+        "zh_CN": "被掏空的树",
+        "disable": 0
+    },
+    {
+        "Key": "Story10",
+        "zh_CN": "洞开的门",
+        "disable": 0
+    },
+    {
+        "Key": "Story11",
+        "zh_CN": "转向未知",
+        "disable": 0
+    },
+    {
+        "Key": "Story12",
+        "zh_CN": "歌唱于九界",
+        "disable": 0
+    },
+    {
+        "Key": "Story13",
+        "zh_CN": "不可直呼其名",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name1",
+        "zh_CN": "路过的分析员",
+        "disable": 0
+    },
+    {
+        "Key": "Describe1",
+        "zh_CN": "完成任意关卡%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name2",
+        "zh_CN": "过度劳累后",
+        "disable": 0
+    },
+    {
+        "Key": "Describe2",
+        "zh_CN": "消耗感知%d点",
+        "disable": 0
+    },
+    {
+        "Key": "Name3",
+        "zh_CN": "必须有谁来做",
+        "disable": 0
+    },
+    {
+        "Key": "Describe3",
+        "zh_CN": "击败敌人%d个",
+        "disable": 0
+    },
+    {
+        "Key": "Name4",
+        "zh_CN": "传说诞生之时",
+        "disable": 0
+    },
+    {
+        "Key": "Describe4",
+        "zh_CN": "击败精英目标%d个",
+        "disable": 0
+    },
+    {
+        "Key": "Name5",
+        "zh_CN": "成长快乐",
+        "disable": 0
+    },
+    {
+        "Key": "Describe5",
+        "zh_CN": "将任意队员升级%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name6",
+        "zh_CN": "火之高兴",
+        "disable": 0
+    },
+    {
+        "Key": "Describe6",
+        "zh_CN": "将任意武器升级%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name7",
+        "zh_CN": "散尽还复来",
+        "disable": 0
+    },
+    {
+        "Key": "Describe7",
+        "zh_CN": "使用通用银%d",
+        "disable": 0
+    },
+    {
+        "Key": "Name8",
+        "zh_CN": "仓鼠初长成",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8",
+        "zh_CN": "完成常规行动:富饶之壶%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_1",
+        "zh_CN": "完成常规行动:百足之市%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_2",
+        "zh_CN": "完成常规行动%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_2_1",
+        "zh_CN": "完成常规行动:止战之人%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_2_2",
+        "zh_CN": "完成常规行动:重铸之炎%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_2_3",
+        "zh_CN": "完成常规行动:永冬之境%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_2_4",
+        "zh_CN": "完成常规行动:无限之城%d次",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Describe8_2_1_1",
+        "zh_CN": "完成【普通】常规行动:止战之人%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_2_1_2",
+        "zh_CN": "完成【普通】常规行动:重铸之炎%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_2_1_3",
+        "zh_CN": "完成【普通】常规行动:永冬之境%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_2_1_4",
+        "zh_CN": "完成【普通】常规行动:无限之城%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_2_1_5",
+        "zh_CN": "完成【普通】常规行动:富饶之壶%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_2_1_6",
+        "zh_CN": "完成【普通】常规行动:百足之市%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_2_1_7",
+        "zh_CN": "完成【普通】常规行动:浴火之战%d次",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Describe8_2_2_1",
+        "zh_CN": "完成【简单】常规行动:止战之人%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_2_2_2",
+        "zh_CN": "完成【简单】常规行动:重铸之炎%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_2_2_3",
+        "zh_CN": "完成【简单】常规行动:永冬之境%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_2_2_4",
+        "zh_CN": "完成【简单】常规行动:无限之城%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_2_2_5",
+        "zh_CN": "完成【简单】常规行动:富饶之壶%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_2_2_6",
+        "zh_CN": "完成【简单】常规行动:百足之市%d次",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Describe8_3",
+        "zh_CN": "完成常规行动【困难】%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_4",
+        "zh_CN": "完成常规行动【简单】%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_5",
+        "zh_CN": "完成常规行动【普通】%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_6",
+        "zh_CN": "完成常规行动【恐惧】%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_7",
+        "zh_CN": "完成常规行动【噩梦】%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_8",
+        "zh_CN": "完成常规行动【深渊】%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_11",
+        "zh_CN": "通关以下任意【简单】常规行动：百足之市、止战之人、富饶之壶",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_12",
+        "zh_CN": "完成以下任意【普通】常规行动：无限之城、永冬之境",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_13",
+        "zh_CN": "完成以下任意【困难】常规行动：百足之市、止战之人、富饶之壶",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_14",
+        "zh_CN": "完成以下任意【噩梦】常规行动：百足之市、止战之人",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_15",
+        "zh_CN": "完成以下任意【噩梦】常规行动：富饶之壶、重铸之炎",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_16",
+        "zh_CN": "通关以下任意常规行动：百足之市、止战之人、富饶之壶"
+    },
+    {
+        "Key": "Describe8_3_1",
+        "zh_CN": "【本阶段内】完成【困难】常规行动%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_4_1",
+        "zh_CN": "【本阶段内】完成【简单】常规行动%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_5_1",
+        "zh_CN": "【本阶段内】完成【普通】常规行动%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_6_1",
+        "zh_CN": "【本阶段内】完成【恐惧】常规行动%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_7_1",
+        "zh_CN": "【本阶段内】完成【噩梦】常规行动%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe8_8_1",
+        "zh_CN": "【本阶段内】完成【深渊】常规行动%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name9",
+        "zh_CN": "高处不胜寒",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9",
+        "zh_CN": "击败敌方首领%d个",
+        "disable": 0
+    },
+    {
+        "Key": "Name10",
+        "zh_CN": "必经之路",
+        "disable": 0
+    },
+    {
+        "Key": "Describe10_1",
+        "zh_CN": "完成主线故事【普通】%s",
+        "disable": 0
+    },
+    {
+        "Key": "Describe10_2",
+        "zh_CN": "完成主线故事【困难】%s",
+        "disable": 0
+    },
+    {
+        "Key": "Name11",
+        "zh_CN": "百年树人",
+        "disable": 0
+    },
+    {
+        "Key": "Describe11",
+        "zh_CN": "将任意后勤升级%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name12",
+        "zh_CN": "王之宝库",
+        "disable": 0
+    },
+    {
+        "Key": "Describe12",
+        "zh_CN": "拥有武器%d把",
+        "disable": 0
+    },
+    {
+        "Key": "Describe12_7",
+        "zh_CN": "拥有等级7的武器%d把",
+        "disable": 0
+    },
+    {
+        "Key": "Describe12_10",
+        "zh_CN": "拥有等级10的武器%d把",
+        "disable": 0
+    },
+    {
+        "Key": "Describe12_15",
+        "zh_CN": "拥有等级15的武器%d把",
+        "disable": 0
+    },
+    {
+        "Key": "Describe12_20",
+        "zh_CN": "拥有等级20的武器%d把",
+        "disable": 0
+    },
+    {
+        "Key": "Describe12_30",
+        "zh_CN": "拥有等级30的武器%d把",
+        "disable": 0
+    },
+    {
+        "Key": "Describe12_40",
+        "zh_CN": "拥有等级40的武器%d把",
+        "disable": 0
+    },
+    {
+        "Key": "Describe12_50",
+        "zh_CN": "拥有等级50的武器%d把",
+        "disable": 0
+    },
+    {
+        "Key": "Describe12_55",
+        "zh_CN": "拥有等级55的武器%d把",
+        "disable": 0
+    },
+    {
+        "Key": "Describe12_60",
+        "zh_CN": "拥有等级60的武器%d把",
+        "disable": 0
+    },
+    {
+        "Key": "Describe12_65",
+        "zh_CN": "拥有等级65的武器%d把"
+    },
+    {
+        "Key": "Describe12_70",
+        "zh_CN": "拥有等级70的武器%d把",
+        "disable": 0
+    },
+    {
+        "Key": "Describe12_75",
+        "zh_CN": "拥有等级75的武器%d把",
+        "disable": 0
+    },
+    {
+        "Key": "Describe12_80",
+        "zh_CN": "拥有等级80的武器%d把",
+        "disable": 0
+    },
+    {
+        "Key": "Name13",
+        "zh_CN": "我家还蛮大的",
+        "disable": 0
+    },
+    {
+        "Key": "Describe13",
+        "zh_CN": "拥有队员%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe13_7",
+        "zh_CN": "拥有等级7的队员%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe13_10",
+        "zh_CN": "拥有等级10的队员%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe13_15",
+        "zh_CN": "拥有等级15的队员%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe13_20",
+        "zh_CN": "拥有等级20的队员%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe13_25",
+        "zh_CN": "拥有等级25的队员%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe13_30",
+        "zh_CN": "拥有等级30的队员%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe13_40",
+        "zh_CN": "拥有等级40的队员%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe13_50",
+        "zh_CN": "拥有等级50的队员%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe13_55",
+        "zh_CN": "拥有等级55的队员%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe13_60",
+        "zh_CN": "拥有等级60的队员%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe13_65",
+        "zh_CN": "拥有等级65的队员%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe13_70",
+        "zh_CN": "拥有等级70的队员%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe13_75",
+        "zh_CN": "拥有等级75的队员%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe13_80",
+        "zh_CN": "拥有等级80的队员%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Name14",
+        "zh_CN": "一人之下……",
+        "disable": 0
+    },
+    {
+        "Key": "Describe14_10",
+        "zh_CN": "拥有+3的后勤%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe14_15",
+        "zh_CN": "拥有+4的后勤%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe14_20",
+        "zh_CN": "拥有+5的后勤%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe14_30",
+        "zh_CN": "拥有+6的后勤%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe14_40",
+        "zh_CN": "拥有+7的后勤%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe14_50",
+        "zh_CN": "拥有+8的后勤%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe14_60",
+        "zh_CN": "拥有+9的后勤%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe14_70",
+        "zh_CN": "拥有+10的后勤%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe14_75",
+        "zh_CN": "拥有+12的后勤%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe14_80",
+        "zh_CN": "拥有+15的后勤%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Name15",
+        "zh_CN": "只有你在的世界",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15",
+        "zh_CN": "通关任意角色的个人故事最终关卡%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name16",
+        "zh_CN": "代价是什么呢",
+        "disable": 0
+    },
+    {
+        "Key": "Describe16",
+        "zh_CN": "在商店购买任意道具%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe16_1",
+        "zh_CN": "在供应站购买【每日物资配给箱】一次",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name17",
+        "zh_CN": "一个都不能少",
+        "disable": 0
+    },
+    {
+        "Key": "Describe17",
+        "zh_CN": "进行共鸣%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name18",
+        "zh_CN": "你回来啦",
+        "disable": 0
+    },
+    {
+        "Key": "Describe18",
+        "zh_CN": "累计登录%d天",
+        "disable": 0
+    },
+    {
+        "Key": "Name19",
+        "zh_CN": "积少成多",
+        "disable": 0
+    },
+    {
+        "Key": "Describe19",
+        "zh_CN": "累计完成任务%d个",
+        "disable": 0
+    },
+    {
+        "Key": "Name20",
+        "zh_CN": "这是闪耀时刻",
+        "disable": 0
+    },
+    {
+        "Key": "Describe20",
+        "zh_CN": "拥有橙色品质队员%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Name21",
+        "zh_CN": "好像也不是很难",
+        "disable": 0
+    },
+    {
+        "Key": "Describe21",
+        "zh_CN": "拥有橙色品质武器%d把",
+        "disable": 0
+    },
+    {
+        "Key": "Name22",
+        "zh_CN": "这不是外科手术",
+        "disable": 0
+    },
+    {
+        "Key": "Describe22",
+        "zh_CN": "通导神经节点%d次（仅计数首次通导）",
+        "disable": 0
+    },
+    {
+        "Key": "Describe22_1",
+        "zh_CN": "通导%d名队员的神经组1（仅计数首次通导）",
+        "disable": 0
+    },
+    {
+        "Key": "Describe22_2",
+        "zh_CN": "通导%d名队员的神经组2（仅计数首次通导）",
+        "disable": 0
+    },
+    {
+        "Key": "Describe22_3",
+        "zh_CN": "通导%d名队员的神经组3（仅计数首次通导）",
+        "disable": 0
+    },
+    {
+        "Key": "Describe22_4",
+        "zh_CN": "通导%d名队员的神经组4（仅计数首次通导）",
+        "disable": 0
+    },
+    {
+        "Key": "Describe22_5",
+        "zh_CN": "通导%d名队员的神经组5（仅计数首次通导）",
+        "disable": 0
+    },
+    {
+        "Key": "Describe22_100",
+        "zh_CN": "通导神经节点%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe22_99",
+        "zh_CN": "成功通导%d名队员各自的任意一组神经组（仅计数首次通导成功的神经组）",
+        "disable": 0
+    },
+    {
+        "Key": "Describe22_98",
+        "zh_CN": "成功通导%d名队员各自的任意三组神经组（仅计数首次通导成功的神经组）",
+        "disable": 0
+    },
+    {
+        "Key": "Name23",
+        "zh_CN": "来自远方的馈赠",
+        "disable": 0
+    },
+    {
+        "Key": "Describe23",
+        "zh_CN": "队员进行天启或激活武格驱动%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name24",
+        "zh_CN": "人事管理",
+        "disable": 0
+    },
+    {
+        "Key": "Describe24",
+        "zh_CN": "拥有后勤支援%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Describe24_1",
+        "zh_CN": "获取任意后勤%d位",
+        "disable": 0
+    },
+    {
+        "Key": "Name25",
+        "zh_CN": "清洁工",
+        "disable": 0
+    },
+    {
+        "Key": "Name25_1",
+        "zh_CN": "清洁工·I",
+        "disable": 0
+    },
+    {
+        "Key": "Name25_2",
+        "zh_CN": "清洁工·II",
+        "disable": 0
+    },
+    {
+        "Key": "Name25_3",
+        "zh_CN": "清洁工·III",
+        "disable": 0
+    },
+    {
+        "Key": "Name25_4",
+        "zh_CN": "清洁工·IV",
+        "disable": 0
+    },
+    {
+        "Key": "Name25_5",
+        "zh_CN": "清洁工·V",
+        "disable": 0
+    },
+    {
+        "Key": "Describe25",
+        "zh_CN": "完成地下清理%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe25_1",
+        "zh_CN": "通关地下清理-废弃区域%d段1次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe25_2",
+        "zh_CN": "通关地下清理-废弃区域2段%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe25_4",
+        "zh_CN": "通关地下清理-废弃区域4段%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe25_7",
+        "zh_CN": "通关地下清理-废弃区域7段%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe25_10",
+        "zh_CN": "通关地下清理-废弃区域10段%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe25_15",
+        "zh_CN": "通关地下清理-约顿隧道15段%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe25_16",
+        "zh_CN": "通关地下清理-约顿隧道16段%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe25_17",
+        "zh_CN": "通关地下清理-约顿隧道17段%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe25_18",
+        "zh_CN": "通关地下清理-约顿隧道18段%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe25_19",
+        "zh_CN": "通关地下清理-废弃区域%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe25_20",
+        "zh_CN": "通关地下清理-约顿隧道%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name26",
+        "zh_CN": "比比谁更强",
+        "disable": 0
+    },
+    {
+        "Key": "Describe26_1",
+        "zh_CN": "通关精神拟境难度1",
+        "disable": 0
+    },
+    {
+        "Key": "Describe26_2",
+        "zh_CN": "通关精神拟境难度2",
+        "disable": 0
+    },
+    {
+        "Key": "Describe26_3",
+        "zh_CN": "通关精神拟境难度3",
+        "disable": 0
+    },
+    {
+        "Key": "Describe26_4",
+        "zh_CN": "通关精神拟境难度4",
+        "disable": 0
+    },
+    {
+        "Key": "Describe26_5",
+        "zh_CN": "通关精神拟境难度5",
+        "disable": 0
+    },
+    {
+        "Key": "Describe26_7",
+        "zh_CN": "通关精神拟境难度7",
+        "disable": 0
+    },
+    {
+        "Key": "Describe26_8",
+        "zh_CN": "通关精神拟境难度8",
+        "disable": 0
+    },
+    {
+        "Key": "Describe26_9",
+        "zh_CN": "通关精神拟境任意难度%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name27",
+        "zh_CN": "聚沙成塔",
+        "disable": 0
+    },
+    {
+        "Key": "Describe27",
+        "zh_CN": "通关精神拟境%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name28",
+        "zh_CN": "装配员的工作",
+        "disable": 0
+    },
+    {
+        "Key": "Describe28",
+        "zh_CN": "更换武器配件%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name29",
+        "zh_CN": "必经之路",
+        "disable": 0
+    },
+    {
+        "Key": "Describe29",
+        "zh_CN": "完成任意主线故事%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name30",
+        "zh_CN": "等待拯救的次日",
+        "disable": 0
+    },
+    {
+        "Key": "Describe30",
+        "zh_CN": "通关超元链接中任意关卡%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe30_1",
+        "zh_CN": "【本阶段内】通关超元链接中任意关卡%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name31",
+        "zh_CN": "维护关系的代价",
+        "disable": 0
+    },
+    {
+        "Key": "Describe31",
+        "zh_CN": "赠送好友感知%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name32",
+        "zh_CN": "拟剧论",
+        "disable": 0
+    },
+    {
+        "Key": "Describe32",
+        "zh_CN": "超元链接中精神协作值达到%d",
+        "disable": 0
+    },
+    {
+        "Key": "Name33",
+        "zh_CN": "此处非深渊",
+        "disable": 0
+    },
+    {
+        "Key": "Name33_1",
+        "zh_CN": "此处非深渊·I",
+        "disable": 0
+    },
+    {
+        "Key": "Name33_2",
+        "zh_CN": "此处非深渊·II",
+        "disable": 0
+    },
+    {
+        "Key": "Name33_3",
+        "zh_CN": "此处非深渊·III",
+        "disable": 0
+    },
+    {
+        "Key": "Name33_4",
+        "zh_CN": "此处非深渊·IV",
+        "disable": 0
+    },
+    {
+        "Key": "Name33_5",
+        "zh_CN": "此处非深渊·V",
+        "disable": 0
+    },
+    {
+        "Key": "Name33_6",
+        "zh_CN": "此处非深渊·VI",
+        "disable": 0
+    },
+    {
+        "Key": "Describe33",
+        "zh_CN": "精神拟境中人格稳定值达到%d",
+        "disable": 0
+    },
+    {
+        "Key": "Name35",
+        "zh_CN": "夏日友情大作战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe35",
+        "zh_CN": "拥有好友%d个",
+        "disable": 0
+    },
+    {
+        "Key": "Name36",
+        "zh_CN": "钻头突入地壳",
+        "disable": 0
+    },
+    {
+        "Key": "Describe36",
+        "zh_CN": "地下清理【废弃区域】中通关第%d段",
+        "disable": 0
+    },
+    {
+        "Key": "Name37",
+        "zh_CN": "淬毒小刀",
+        "disable": 0
+    },
+    {
+        "Key": "Describe37",
+        "zh_CN": "将任意武器突破%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name38",
+        "zh_CN": "少女团的支柱",
+        "disable": 0
+    },
+    {
+        "Key": "Describe38",
+        "zh_CN": "将任意后勤突破%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name40",
+        "zh_CN": "无用之器",
+        "disable": 0
+    },
+    {
+        "Key": "Describe40",
+        "zh_CN": "将任意武器改造%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name41",
+        "zh_CN": "洒洒水啦",
+        "disable": 0
+    },
+    {
+        "Key": "Describe41",
+        "zh_CN": "累计消耗通用银达到%d点",
+        "disable": 0
+    },
+    {
+        "Key": "Name42",
+        "zh_CN": "几周目的世界",
+        "disable": 0
+    },
+    {
+        "Key": "Describe42",
+        "zh_CN": "通关任意队员个人故事【行为-1】",
+        "disable": 0
+    },
+    {
+        "Key": "Name43",
+        "zh_CN": "几周目的世界",
+        "disable": 0
+    },
+    {
+        "Key": "Describe43",
+        "zh_CN": "完成任意队员个人故事【行为-2】%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe43_1",
+        "zh_CN": "【本阶段内】通关任意队员个人故事【行为-2】%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe43_2",
+        "zh_CN": "通关任意队员个人故事【行为-2】%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe43_3",
+        "zh_CN": "通关任意队员个人故事%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name44",
+        "zh_CN": "拟剧论",
+        "disable": 0
+    },
+    {
+        "Key": "Describe44",
+        "zh_CN": "共计在超元链接中获得%d个【共鸣增幅剂】",
+        "disable": 0
+    },
+    {
+        "Key": "Name45",
+        "zh_CN": "拟剧论",
+        "disable": 0
+    },
+    {
+        "Key": "Describe45",
+        "zh_CN": "共计在超元链接中兑换任意增益效果到达%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name46",
+        "zh_CN": "成长快乐",
+        "disable": 0
+    },
+    {
+        "Key": "Describe46",
+        "zh_CN": "将任意队员升级%d级",
+        "disable": 0
+    },
+    {
+        "Key": "Name47",
+        "zh_CN": "火之高兴",
+        "disable": 0
+    },
+    {
+        "Key": "Describe47",
+        "zh_CN": "将任意武器升级%d级",
+        "disable": 0
+    },
+    {
+        "Key": "Name48",
+        "zh_CN": "百年树人",
+        "disable": 0
+    },
+    {
+        "Key": "Describe48",
+        "zh_CN": "将任意后勤升级%d级",
+        "disable": 0
+    },
+    {
+        "Key": "Name49",
+        "zh_CN": "神格同调400%！",
+        "disable": 0
+    },
+    {
+        "Key": "Describe49_1",
+        "zh_CN": "任意%d个队员神格同调阶段达到2",
+        "disable": 0
+    },
+    {
+        "Key": "Describe49_2",
+        "zh_CN": "任意%d个队员神格同调阶段达到3",
+        "disable": 0
+    },
+    {
+        "Key": "Describe49_3",
+        "zh_CN": "任意%d个队员神格同调阶段达到4",
+        "disable": 0
+    },
+    {
+        "Key": "Name50",
+        "zh_CN": "荣誉与骄傲",
+        "disable": 0
+    },
+    {
+        "Key": "Describe50_0",
+        "zh_CN": "荣誉冲突任意难度中抵御%d波袭击",
+        "disable": 0
+    },
+    {
+        "Key": "Describe50_1",
+        "zh_CN": "荣誉冲突难度1中抵御%d波袭击",
+        "disable": 0
+    },
+    {
+        "Key": "Describe50_2",
+        "zh_CN": "荣誉冲突难度2中抵御%d波袭击",
+        "disable": 0
+    },
+    {
+        "Key": "Describe50_3",
+        "zh_CN": "荣誉冲突难度3中抵御%d波袭击",
+        "disable": 0
+    },
+    {
+        "Key": "Describe50_4",
+        "zh_CN": "荣誉冲突难度4中抵御%d波袭击",
+        "disable": 0
+    },
+    {
+        "Key": "Describe50_5",
+        "zh_CN": "荣誉冲突难度5中抵御%d波袭击",
+        "disable": 0
+    },
+    {
+        "Key": "Describe50_6",
+        "zh_CN": "荣誉冲突难度6中抵御%d波袭击",
+        "disable": 0
+    },
+    {
+        "Key": "Describe50_7",
+        "zh_CN": "荣誉冲突难度7中抵御%d波袭击",
+        "disable": 0
+    },
+    {
+        "Key": "Describe50_8",
+        "zh_CN": "荣誉冲突难度8中抵御%d波袭击",
+        "disable": 0
+    },
+    {
+        "Key": "Describe50_9",
+        "zh_CN": "荣誉冲突难度9中抵御%d波袭击",
+        "disable": 0
+    },
+    {
+        "Key": "Describe50_10",
+        "zh_CN": "荣誉冲突难度10中抵御%d波袭击",
+        "disable": 0
+    },
+    {
+        "Key": "Name51",
+        "zh_CN": "超高校级分析员？",
+        "disable": 0
+    },
+    {
+        "Key": "Describe51_0",
+        "zh_CN": "通过战术考核任意一个关卡的试炼",
+        "disable": 0
+    },
+    {
+        "Key": "Describe51_1",
+        "zh_CN": "通过战术考核第1阶段的试炼",
+        "disable": 0
+    },
+    {
+        "Key": "Describe51_2",
+        "zh_CN": "通过战术考核第2阶段的试炼",
+        "disable": 0
+    },
+    {
+        "Key": "Describe51_3",
+        "zh_CN": "通过战术考核第3阶段的试炼",
+        "disable": 0
+    },
+    {
+        "Key": "Describe51_4",
+        "zh_CN": "通过战术考核第4阶段的试炼",
+        "disable": 0
+    },
+    {
+        "Key": "Describe51_5",
+        "zh_CN": "通过战术考核第5阶段的试炼",
+        "disable": 0
+    },
+    {
+        "Key": "Describe51_6",
+        "zh_CN": "通过战术考核第6阶段的试炼",
+        "disable": 0
+    },
+    {
+        "Key": "Describe51_7",
+        "zh_CN": "通过战术考核第7阶段的试炼",
+        "disable": 0
+    },
+    {
+        "Key": "Describe51_8",
+        "zh_CN": "通过战术考核第8阶段的试炼",
+        "disable": 0
+    },
+    {
+        "Key": "Describe51_9",
+        "zh_CN": "通过战术考核第9阶段的试炼",
+        "disable": 0
+    },
+    {
+        "Key": "Describe51_10",
+        "zh_CN": "通过战术考核第10阶段的试炼",
+        "disable": 0
+    },
+    {
+        "Key": "Describe51_11",
+        "zh_CN": "通过战术考核第11阶段的试炼",
+        "disable": 0
+    },
+    {
+        "Key": "Describe51_12",
+        "zh_CN": "通过战术考核第12阶段的试炼",
+        "disable": 0
+    },
+    {
+        "Key": "Name52",
+        "zh_CN": "装配员的工作",
+        "disable": 0
+    },
+    {
+        "Key": "Describe52",
+        "zh_CN": "携带武器配件%d个",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name53",
+        "zh_CN": "节约就是美德",
+        "disable": 0
+    },
+    {
+        "Key": "Describe53",
+        "zh_CN": "完成【感知激活】一次",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name54",
+        "zh_CN": "多个朋友多条路",
+        "disable": 0
+    },
+    {
+        "Key": "Describe54",
+        "zh_CN": "进行一次好友申请",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name55",
+        "zh_CN": "渐入佳境",
+        "disable": 0
+    },
+    {
+        "Key": "Describe55_1",
+        "zh_CN": "完成实战训练的任一关卡",
+        "disable": 0
+    },
+    {
+        "Key": "Name56",
+        "zh_CN": "略有小成",
+        "disable": 0
+    },
+    {
+        "Key": "Describe56",
+        "zh_CN": "完成实战训练的所有关卡",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name57",
+        "zh_CN": "已被启发之体",
+        "disable": 0
+    },
+    {
+        "Key": "Describe57",
+        "zh_CN": "拥有任意一名神经组全部通导的角色",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name58",
+        "zh_CN": "少女团的支柱",
+        "disable": 0
+    },
+    {
+        "Key": "Describe58",
+        "zh_CN": "将任意角色突破%d次",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name59",
+        "zh_CN": "这个分析员明明很强却……",
+        "disable": 0
+    },
+    {
+        "Key": "Describe59_1",
+        "zh_CN": "完成选择了6个词条的精神拟境1次",
+        "disable": 0
+    },
+    {
+        "Key": "Name60",
+        "zh_CN": "已经嗨到不行",
+        "disable": 0
+    },
+    {
+        "Key": "Describe60",
+        "zh_CN": "领取感知激活%d次",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name61",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": "Describe61",
+        "zh_CN": "日常任务活跃度达到%d点",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name62",
+        "zh_CN": "路人后勤的养成方法",
+        "disable": 0
+    },
+    {
+        "Key": "Describe62",
+        "zh_CN": "拥有任意X个培养+x的后勤",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name63",
+        "zh_CN": "记得打卡",
+        "disable": 0
+    },
+    {
+        "Key": "Describe63",
+        "zh_CN": "每日获得%d勤之轨",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name64",
+        "zh_CN": "拾荒大侦探",
+        "disable": 0
+    },
+    {
+        "Key": "Describe64",
+        "zh_CN": "收集%d个信源断片",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name65",
+        "zh_CN": "东墙补西墙",
+        "disable": 0
+    },
+    {
+        "Key": "Describe65",
+        "zh_CN": "赠送%d次信源断片",
+        "disable": 0
+    },
+    {
+        "Key": "Name66",
+        "zh_CN": "八卦之心",
+        "disable": 0
+    },
+    {
+        "Key": "Describe66",
+        "zh_CN": "完成%d次信源研析",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name67",
+        "zh_CN": "刚好遇见你",
+        "disable": 0
+    },
+    {
+        "Key": "Describe67",
+        "zh_CN": "触发%d次随机事件",
+        "disable": 0
+    },
+    {
+        "Key": "Name68",
+        "zh_CN": "因为很温柔",
+        "disable": 0
+    },
+    {
+        "Key": "Describe68",
+        "zh_CN": "%d名队员的好感度达到%d级",
+        "disable": 0
+    },
+    {
+        "Key": "Describe68_1",
+        "zh_CN": "1名队员的好感度达到10级",
+        "disable": 0
+    },
+    {
+        "Key": "Describe68_2",
+        "zh_CN": "3名队员的好感度达到10级",
+        "disable": 0
+    },
+    {
+        "Key": "Describe68_3",
+        "zh_CN": "%d名队员的好感度达到30级",
+        "disable": 0
+    },
+    {
+        "Key": "Describe68_4",
+        "zh_CN": "%d名队员的好感度达到40级",
+        "disable": 0
+    },
+    {
+        "Key": "Describe68_5",
+        "zh_CN": "%d名队员的好感度达到45级",
+        "disable": 0
+    },
+    {
+        "Key": "Describe68_6",
+        "zh_CN": "%d名队员的好感度达到20级",
+        "disable": 0
+    },
+    {
+        "Key": "Describe68_7",
+        "zh_CN": "%d名队员的好感度达到50级",
+        "disable": 0
+    },
+    {
+        "Key": "Describe68_8",
+        "zh_CN": "%d名队员的好感度达到10级",
+        "disable": 0
+    },
+    {
+        "Key": "Describe68_9",
+        "zh_CN": "%d名队员的好感度达到15级",
+        "disable": 0
+    },
+    {
+        "Key": "Name69",
+        "zh_CN": "风里雨里全家等你",
+        "disable": 0
+    },
+    {
+        "Key": "Describe69",
+        "zh_CN": "基地温馨度达到%d级",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name70",
+        "zh_CN": "该有的都得有",
+        "disable": 0
+    },
+    {
+        "Key": "Describe70",
+        "zh_CN": "集齐%d位队员房间里的家具",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name71",
+        "zh_CN": "该有的都得有",
+        "disable": 0
+    },
+    {
+        "Key": "Describe71_1",
+        "zh_CN": "收集%d个家具",
+        "disable": 0
+    },
+    {
+        "Key": "Describe71_2",
+        "zh_CN": "赠送%d个家具",
+        "disable": 0
+    },
+    {
+        "Key": "Name72",
+        "zh_CN": "过去日记",
+        "disable": 0
+    },
+    {
+        "Key": "Describe72",
+        "zh_CN": "收集图鉴中%d个%d相关内容",
+        "disable": 0
+    },
+    {
+        "Key": "Describe72_1",
+        "zh_CN": "收集图鉴中%d个《聆听我教福谕》相关内容",
+        "disable": 0
+    },
+    {
+        "Key": "Describe72_2",
+        "zh_CN": "收集图鉴中%d个《汉斯的日记》相关内容",
+        "disable": 0
+    },
+    {
+        "Key": "Describe72_3",
+        "zh_CN": "收集图鉴中%d个《爱思特日记》相关内容",
+        "disable": 0
+    },
+    {
+        "Key": "Describe72_4",
+        "zh_CN": "收集图鉴中%d个《“狼嗥”日记》相关内容",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name73",
+        "zh_CN": "手无寸铁的时候",
+        "disable": 0
+    },
+    {
+        "Key": "Describe73",
+        "zh_CN": "使用技能击败敌方目标%d次",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name74",
+        "zh_CN": "都是主角",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度%d的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_1",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度8-加文的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_2",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度8-波伏娃13的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_3",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度8-萨特的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_4",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度8-海拉的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_5",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度8-刻耳柏洛斯的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_6",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度8-约瑟夫的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_7",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度8-二型验证机甲的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_8",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度8-二型验证机甲·荒猎的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_9",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度8-爱思特的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_10",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度8-祟·焚风的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_11",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度8-祟·寒潮的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_12",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度8-凯茜娅的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_13",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度8-威尔·安德森的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_14",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-加文的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_15",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-波伏娃13的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_16",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-萨特的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_17",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-海拉的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_18",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-刻耳柏洛斯的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_19",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-约瑟夫的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_20",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-二型验证机甲的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_21",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-二型验证机甲·荒猎的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_22",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-爱思特的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_23",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-祟·焚风的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_24",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-祟·寒潮的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_25",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-凯茜娅的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_26",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-威尔·安德森的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_27",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-透墨索斯的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_28",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-约瑟夫·顽骨的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_29",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-海拉·怒棘的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_30",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-尼亚尔的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_31",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-耶洛沙之泪的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_32",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-二律背反的盟约的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_33",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-派·纯净的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_34",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-凯茜娅·覆霜的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_35",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-初诞的沃坦·真神形态的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_36",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-“炎刃”威尔的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_37",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-极夜幽影的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_38",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-尼亚尔·浊流的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_39",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-尘白恶魔号的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_40",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-刻耳柏洛斯·灼痕的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_41",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-玉节天龙的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_42",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-食夜影兽的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_43",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-舍塔无正觉·怒的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_44",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-墨菲斯·徒花的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_45",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-海底观测者的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_46",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-噬孽机·卡律布狄斯的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_47",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-文明守护者的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_48",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-米拉·猩红武装的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_49",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-SpH-L12·幽语者的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_50",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-起源物种的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_51",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-西西弗斯的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_52",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-埃吉尔的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_53",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-阿帕忒的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe74_54",
+        "zh_CN": "无队员撤退的情况下，完成精神拟境难度5-神座·狐相的挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Name75",
+        "zh_CN": "你也是个冒险家？",
+        "disable": 0
+    },
+    {
+        "Key": "Describe75",
+        "zh_CN": "击破%d个任意场景中的可破坏物品",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name76",
+        "zh_CN": "明灯大使",
+        "disable": 0
+    },
+    {
+        "Key": "Describe76",
+        "zh_CN": "完成明灯新仪活动相关的全部成就",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name77",
+        "zh_CN": "长夜千灯",
+        "disable": 0
+    },
+    {
+        "Key": "Describe77",
+        "zh_CN": "完成明灯新仪剧情相关的所有关卡",
+        "disable": 0
+    },
+    {
+        "Key": "Name78",
+        "zh_CN": "暗夜守护",
+        "disable": 0
+    },
+    {
+        "Key": "Describe78",
+        "zh_CN": "完成%d次中宵夜巡活动",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name79",
+        "zh_CN": "默契甚好",
+        "disable": 0
+    },
+    {
+        "Key": "Describe79",
+        "zh_CN": "完成明灯新仪-队员试用中所有试用关卡",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name80",
+        "zh_CN": "不要打架，打输住院，打赢坐牢·I",
+        "disable": 0
+    },
+    {
+        "Key": "Name80_1",
+        "zh_CN": "不要打架，打输住院，打赢坐牢·II",
+        "disable": 0
+    },
+    {
+        "Key": "Name80_2",
+        "zh_CN": "不要打架，打输住院，打赢坐牢·III",
+        "disable": 0
+    },
+    {
+        "Key": "Name80_3",
+        "zh_CN": "不要打架，打输住院，打赢坐牢·IV",
+        "disable": 0
+    },
+    {
+        "Key": "Name80_4",
+        "zh_CN": "不要打架，打输住院，打赢坐牢·V",
+        "disable": 0
+    },
+    {
+        "Key": "Name80_5",
+        "zh_CN": "不要打架，打输住院，打赢坐牢·VI",
+        "disable": 0
+    },
+    {
+        "Key": "Describe80",
+        "zh_CN": "完成天楼纷争难度x的y波次御敌挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe80_1",
+        "zh_CN": "完成天楼纷争难度1的3波次御敌挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe80_2",
+        "zh_CN": "完成天楼纷争难度1的9波次御敌挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe80_3",
+        "zh_CN": "完成天楼纷争难度1的15波次御敌挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe80_4",
+        "zh_CN": "完成天楼纷争难度1的21波次御敌挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe80_5",
+        "zh_CN": "完成天楼纷争难度1的24波次御敌挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe80_6",
+        "zh_CN": "完成天楼纷争第%d波御敌挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe80_7",
+        "zh_CN": "完成天楼纷争第9波御敌挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe80_8",
+        "zh_CN": "完成天楼纷争第15波御敌挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe80_9",
+        "zh_CN": "完成天楼纷争第21波御敌挑战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe80_10",
+        "zh_CN": "完成天楼纷争第24波御敌挑战",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name81",
+        "zh_CN": "无迷之途",
+        "disable": 0
+    },
+    {
+        "Key": "Describe81",
+        "zh_CN": "完成灯火照途明的全部关卡",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name82",
+        "zh_CN": "夜半枪声",
+        "disable": 0
+    },
+    {
+        "Key": "Describe82",
+        "zh_CN": "完成起子于半的全部关卡",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name83",
+        "zh_CN": "轻装上阵",
+        "disable": 0
+    },
+    {
+        "Key": "Describe83",
+        "zh_CN": "获得正面效果少于20个，通关中宵夜巡",
+        "disable": 0
+    },
+    {
+        "Key": "Name84",
+        "zh_CN": "救世独行",
+        "disable": 0
+    },
+    {
+        "Key": "Describe84",
+        "zh_CN": "不兑换试用队员的情况下通关%d次中宵夜巡",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name85",
+        "zh_CN": "平安一夜",
+        "disable": 0
+    },
+    {
+        "Key": "Describe85",
+        "zh_CN": "没有队员撤退的情况下完成中宵夜巡",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name86",
+        "zh_CN": "灯火之下",
+        "disable": 0
+    },
+    {
+        "Key": "Describe86",
+        "zh_CN": "触发灯火照途明中的全部偶遇事件",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name87",
+        "zh_CN": "论规划的重要性",
+        "disable": 0
+    },
+    {
+        "Key": "Describe87",
+        "zh_CN": "同一地图中使用%d次还原装置",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name88",
+        "zh_CN": "目前还很和谐",
+        "disable": 0
+    },
+    {
+        "Key": "Describe88",
+        "zh_CN": "%d个队员入住宿舍房间",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name89",
+        "zh_CN": "清理大师",
+        "disable": 0
+    },
+    {
+        "Key": "Name89_1",
+        "zh_CN": "清理大师·I",
+        "disable": 0
+    },
+    {
+        "Key": "Name89_2",
+        "zh_CN": "清理大师·II",
+        "disable": 0
+    },
+    {
+        "Key": "Name89_3",
+        "zh_CN": "清理大师·III",
+        "disable": 0
+    },
+    {
+        "Key": "Name89_4",
+        "zh_CN": "清理大师·IV",
+        "disable": 0
+    },
+    {
+        "Key": "Name89_5",
+        "zh_CN": "清理大师·V",
+        "disable": 0
+    },
+    {
+        "Key": "Describe89_1",
+        "zh_CN": "地下清理中，完成废弃区域部分的关卡目标累积达到%d个",
+        "disable": 0
+    },
+    {
+        "Key": "Describe89_2",
+        "zh_CN": "地下清理中，完成约顿隧道部分的关卡目标累积达到%d个",
+        "disable": 0
+    },
+    {
+        "Key": "Describe89_3",
+        "zh_CN": "地下清理中，完成的关卡目标累积达到%d个",
+        "disable": 0
+    },
+    {
+        "Key": "Name90",
+        "zh_CN": "世界树著名监狱",
+        "disable": 0
+    },
+    {
+        "Key": "Name90_1",
+        "zh_CN": "世界树著名监狱·I",
+        "disable": 0
+    },
+    {
+        "Key": "Name90_2",
+        "zh_CN": "世界树著名监狱·II",
+        "disable": 0
+    },
+    {
+        "Key": "Describe90",
+        "zh_CN": "在【精神拟境】中击败任意X个敌方首领Y次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe90_1",
+        "zh_CN": "在【精神拟境】中击败任意1个敌方首领1次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe90_2",
+        "zh_CN": "在【精神拟境】中击败任意2个敌方首领1次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe90_3",
+        "zh_CN": "在【精神拟境】中击败任意敌方首领%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Name91",
+        "zh_CN": "吉语币到哪去了",
+        "disable": 1000
+    },
+    {
+        "Key": "Describe91",
+        "zh_CN": "累积消耗【吉语币】%d枚",
+        "disable": 1000
+    },
+    {
+        "Key": "Describe92",
+        "zh_CN": "绑定Seasun Games账号",
+        "disable": 0
+    },
+    {
+        "Key": "Describe93",
+        "zh_CN": "使用PC登陆游戏",
+        "disable": 0
+    },
+    {
+        "Key": "Describe94",
+        "zh_CN": "关注官方SNS",
+        "disable": 0
+    },
+    {
+        "Key": "Describe95",
+        "zh_CN": "加入官方Discord服务器",
+        "disable": 0
+    },
+    {
+        "Key": "Name96",
+        "zh_CN": "欢迎回到海姆达尔",
+        "disable": 0
+    },
+    {
+        "Key": "Describe96",
+        "zh_CN": "完成全部阶段的所有任务",
+        "disable": 0
+    },
+    {
+        "Key": "Name97",
+        "zh_CN": "再次出发",
+        "disable": 0
+    },
+    {
+        "Key": "Name97_1",
+        "zh_CN": "再次出发-阶段1",
+        "disable": 0
+    },
+    {
+        "Key": "Name97_2",
+        "zh_CN": "再次出发-阶段2",
+        "disable": 0
+    },
+    {
+        "Key": "Name97_3",
+        "zh_CN": "再次出发-阶段3",
+        "disable": 0
+    },
+    {
+        "Key": "Name97_4",
+        "zh_CN": "再次出发-阶段4",
+        "disable": 0
+    },
+    {
+        "Key": "Name97_5",
+        "zh_CN": "再次出发-阶段5",
+        "disable": 0
+    },
+    {
+        "Key": "Name97_6",
+        "zh_CN": "再次出发-阶段6",
+        "disable": 0
+    },
+    {
+        "Key": "Name97_7",
+        "zh_CN": "再次出发-阶段7",
+        "disable": 0
+    },
+    {
+        "Key": "Describe97_1",
+        "zh_CN": "完成阶段1的全部任务",
+        "disable": 0
+    },
+    {
+        "Key": "Describe97_2",
+        "zh_CN": "完成阶段2的全部任务",
+        "disable": 0
+    },
+    {
+        "Key": "Describe97_3",
+        "zh_CN": "完成阶段3的全部任务",
+        "disable": 0
+    },
+    {
+        "Key": "Describe97_4",
+        "zh_CN": "完成阶段4的全部任务",
+        "disable": 0
+    },
+    {
+        "Key": "Describe97_5",
+        "zh_CN": "完成阶段5的全部任务",
+        "disable": 0
+    },
+    {
+        "Key": "Describe97_6",
+        "zh_CN": "完成阶段6的全部任务",
+        "disable": 0
+    },
+    {
+        "Key": "Describe97_7",
+        "zh_CN": "完成阶段7的全部任务",
+        "disable": 0
+    },
+    {
+        "Key": "Describe98",
+        "zh_CN": "关注官方TapTap社区",
+        "disable": 1000
+    },
+    {
+        "Key": "Describe99",
+        "zh_CN": "关注官方B站账号",
+        "disable": 1000
+    },
+    {
+        "Key": "Describe100",
+        "zh_CN": "关注官方好游快爆社区",
+        "disable": 1000
+    },
+    {
+        "Key": "Describe101",
+        "zh_CN": "关注官方微博账号",
+        "disable": 1000
+    },
+    {
+        "Key": "Describe102",
+        "zh_CN": "累计领取日常任务执行度所有奖励%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe103",
+        "zh_CN": "世界或招募频道发言%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe104",
+        "zh_CN": "与封面角色互动%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe105",
+        "zh_CN": "供应站购入每日物资配给箱",
+        "disable": 0
+    },
+    {
+        "Key": "Name2001",
+        "zh_CN": "大名鼎鼎的*？",
+        "disable": 0
+    },
+    {
+        "Key": "Describe2001",
+        "zh_CN": "分析员等级升至%d级",
+        "disable": 0
+    },
+    {
+        "Key": "Describe2002",
+        "zh_CN": "任务刷新时间与其类型相关：【超元链接】、【精神拟境】的任务为每周刷新，而【地下清理】的任务为15天刷新",
+        "disable": 0
+    },
+    {
+        "Key": "Butten1",
+        "zh_CN": "成长",
+        "disable": 0
+    },
+    {
+        "Key": "Butten2",
+        "zh_CN": "战斗",
+        "disable": 0
+    },
+    {
+        "Key": "Butten3",
+        "zh_CN": "活动",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Describe1101",
+        "zh_CN": "今日参与超元链接并获得胜利%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe1102",
+        "zh_CN": "共计激活【意识补丁包】和【意识升级包】%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe1103",
+        "zh_CN": "共计获得【共鸣增幅剂】%d个",
+        "disable": 0
+    },
+    {
+        "Key": "Describe1105",
+        "zh_CN": "共计消耗【共鸣增幅剂】%d个",
+        "disable": 0
+    },
+    {
+        "Key": "Describe1106",
+        "zh_CN": "共计兑换任意增益效果到达%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe1108",
+        "zh_CN": "共计完成【破晓链接】任务%d个",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Describe1201",
+        "zh_CN": "共计完成【难度1】模式的精神拟境训练%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe1202",
+        "zh_CN": "共计完成【难度2】模式的精神拟境训练%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe1203",
+        "zh_CN": "共计完成【难度3】模式的精神拟境训练%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe1204",
+        "zh_CN": "共计在精神拟境中造成【部位破坏】%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe1205",
+        "zh_CN": "共计在精神拟境中造成【部位破坏】%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe1206",
+        "zh_CN": "精神拟境中，共计击败【二型验证机甲】%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe1207",
+        "zh_CN": "精神拟境中，共计击败【“野牛”约瑟夫】%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe1208",
+        "zh_CN": "精神拟境中，共计击败【海拉】%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe1209",
+        "zh_CN": "精神拟境中，共计击败【波伏娃13】%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe1210",
+        "zh_CN": "精神拟境中，共计击败【二型验证机甲动力版】%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe1211",
+        "zh_CN": "精神拟境中，共计击败【让·苏瑞安·萨特】%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe1212",
+        "zh_CN": "精神拟境中，共计击败【加文】%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe1213",
+        "zh_CN": "完成所有【垂直丛林】任务",
+        "disable": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": 0
+    },
+    {
+        "Key": "Name9001",
+        "zh_CN": "1-9",
+        "disable": 1000
+    },
+    {
+        "Key": "Name9002",
+        "zh_CN": "2-12",
+        "disable": 1000
+    },
+    {
+        "Key": "Name9003",
+        "zh_CN": "3-12",
+        "disable": 1000
+    },
+    {
+        "Key": "Name9004",
+        "zh_CN": "4-12",
+        "disable": 1000
+    },
+    {
+        "Key": "Name9005",
+        "zh_CN": "5-12",
+        "disable": 1000
+    },
+    {
+        "Key": "Name9006",
+        "zh_CN": "6-12",
+        "disable": 1000
+    },
+    {
+        "Key": "Describe9001",
+        "zh_CN": "新途征程-阶梯",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9002",
+        "zh_CN": "夙圆心行-和鸣",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9003",
+        "zh_CN": "渊沉曙色-奇点",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9004",
+        "zh_CN": "罅隙轨迹-终序",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9005",
+        "zh_CN": "好人",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9006",
+        "zh_CN": "天降",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9201",
+        "zh_CN": "成功完成{1}次勇者游戏",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9301",
+        "zh_CN": "480秒内成功完成1次勇者游戏",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9302",
+        "zh_CN": "390秒内成功完成1次勇者游戏",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9303",
+        "zh_CN": "300秒内成功完成1次勇者游戏",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9501",
+        "zh_CN": "在任意难度中成功抵御{1}波次以上敌袭",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9502",
+        "zh_CN": "上阵霰弹枪队员完成1次任意难度永续联战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9503",
+        "zh_CN": "上阵突击步枪队员完成1次任意难度永续联战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9504",
+        "zh_CN": "上阵手枪队员完成1次任意难度永续联战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9505",
+        "zh_CN": "上阵冲锋枪队员完成1次任意难度永续联战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9506",
+        "zh_CN": "上阵狙击枪队员完成1次任意难度永续联战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9507",
+        "zh_CN": "完成1次任意难度的永续联战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9508",
+        "zh_CN": "在【困难】难度中成功御敌{1}波次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9510",
+        "zh_CN": "完成1次【困难】难度的永续联战",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9511",
+        "zh_CN": "在任意难度中成功御敌{1}波次且倒下次数不超过2次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9512",
+        "zh_CN": "完成【困难】难度挑战御敌{1}波次以上且倒下次数不超过3次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9513",
+        "zh_CN": "在【困难】难度的永续联战中，该局累计造成的伤害达到{1}",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9514",
+        "zh_CN": "在任意难度中成功御敌{1}波次且倒下次数不超过1次",
+        "disable": 0
+    },
+    {
+        "Key": "Name9851",
+        "zh_CN": "荣光之壁",
+        "disable": 0
+    },
+    {
+        "Key": "Name9852",
+        "zh_CN": "能耗无忧",
+        "disable": 0
+    },
+    {
+        "Key": "Name9853",
+        "zh_CN": "流畅循环",
+        "disable": 0
+    },
+    {
+        "Key": "Name9854",
+        "zh_CN": "火力防守",
+        "disable": 0
+    },
+    {
+        "Key": "Name9855",
+        "zh_CN": "主场·霰弹枪",
+        "disable": 0
+    },
+    {
+        "Key": "Name9856",
+        "zh_CN": "主场·突击步枪",
+        "disable": 0
+    },
+    {
+        "Key": "Name9857",
+        "zh_CN": "主场·手枪",
+        "disable": 0
+    },
+    {
+        "Key": "Name9858",
+        "zh_CN": "主场·冲锋枪",
+        "disable": 0
+    },
+    {
+        "Key": "Name9859",
+        "zh_CN": "主场·狙击枪",
+        "disable": 0
+    },
+    {
+        "Key": "Name9860",
+        "zh_CN": "先行勇者",
+        "disable": 0
+    },
+    {
+        "Key": "Name9861",
+        "zh_CN": "英雄之盾·1",
+        "disable": 0
+    },
+    {
+        "Key": "Name9862",
+        "zh_CN": "英雄之盾·2",
+        "disable": 0
+    },
+    {
+        "Key": "Name9863",
+        "zh_CN": "安定曙光",
+        "disable": 0
+    },
+    {
+        "Key": "Name9864",
+        "zh_CN": "逆境尖兵·1",
+        "disable": 0
+    },
+    {
+        "Key": "Name9865",
+        "zh_CN": "逆境尖兵·2",
+        "disable": 0
+    },
+    {
+        "Key": "Name9866",
+        "zh_CN": "逆境尖兵·3",
+        "disable": 0
+    },
+    {
+        "Key": "Name9867",
+        "zh_CN": "择优突破",
+        "disable": 0
+    },
+    {
+        "Key": "Name15002",
+        "zh_CN": "光荣后方",
+        "disable": 0
+    },
+    {
+        "Key": "Name15003",
+        "zh_CN": "机械降雨",
+        "disable": 0
+    },
+    {
+        "Key": "Name15004",
+        "zh_CN": "绝对力量",
+        "disable": 0
+    },
+    {
+        "Key": "Name15101",
+        "zh_CN": "火线日常",
+        "disable": 0
+    },
+    {
+        "Key": "Name15102",
+        "zh_CN": "事件专家·防御",
+        "disable": 0
+    },
+    {
+        "Key": "Name15103",
+        "zh_CN": "事件专家·善后",
+        "disable": 0
+    },
+    {
+        "Key": "Name15104",
+        "zh_CN": "临时英雄",
+        "disable": 0
+    },
+    {
+        "Key": "Name15105",
+        "zh_CN": "临时英雄",
+        "disable": 0
+    },
+    {
+        "Key": "Name15106",
+        "zh_CN": "临时英雄",
+        "disable": 0
+    },
+    {
+        "Key": "Name15107",
+        "zh_CN": "突进！泰坦之城",
+        "disable": 0
+    },
+    {
+        "Key": "Name15108",
+        "zh_CN": "突进！空都危机",
+        "disable": 0
+    },
+    {
+        "Key": "Name15109",
+        "zh_CN": "突进！寂境凶途",
+        "disable": 0
+    },
+    {
+        "Key": "Name15110",
+        "zh_CN": "突进！边境寒号",
+        "disable": 0
+    },
+    {
+        "Key": "Name15111",
+        "zh_CN": "突进！昨日梦魇",
+        "disable": 0
+    },
+    {
+        "Key": "Name15112",
+        "zh_CN": "突进！汉诺之局",
+        "disable": 0
+    },
+    {
+        "Key": "Name15201",
+        "zh_CN": "荣光之壁",
+        "disable": 0
+    },
+    {
+        "Key": "Name15202",
+        "zh_CN": "光荣后方",
+        "disable": 0
+    },
+    {
+        "Key": "Name15203",
+        "zh_CN": "机械降雨",
+        "disable": 0
+    },
+    {
+        "Key": "Name15204",
+        "zh_CN": "绝对力量",
+        "disable": 0
+    },
+    {
+        "Key": "Name15205",
+        "zh_CN": "最佳补给I",
+        "disable": 0
+    },
+    {
+        "Key": "Name15206",
+        "zh_CN": "最佳补给II",
+        "disable": 0
+    },
+    {
+        "Key": "Name15207",
+        "zh_CN": "最佳补给III",
+        "disable": 0
+    },
+    {
+        "Key": "Name15208",
+        "zh_CN": "最佳补给IV",
+        "disable": 0
+    },
+    {
+        "Key": "Name15209",
+        "zh_CN": "最佳补给V",
+        "disable": 0
+    },
+    {
+        "Key": "Name15210",
+        "zh_CN": "最佳补给VI",
+        "disable": 0
+    },
+    {
+        "Key": "Name15211",
+        "zh_CN": "英雄之盾·1",
+        "disable": 0
+    },
+    {
+        "Key": "Name15212",
+        "zh_CN": "英雄之盾·2",
+        "disable": 0
+    },
+    {
+        "Key": "Name15213",
+        "zh_CN": "安定曙光",
+        "disable": 0
+    },
+    {
+        "Key": "Name15214",
+        "zh_CN": "逆境尖兵·1",
+        "disable": 0
+    },
+    {
+        "Key": "Name15215",
+        "zh_CN": "逆境尖兵·2",
+        "disable": 0
+    },
+    {
+        "Key": "Name15216",
+        "zh_CN": "逆境尖兵·3",
+        "disable": 0
+    },
+    {
+        "Key": "Name15217",
+        "zh_CN": "择优突破",
+        "disable": 0
+    },
+    {
+        "Key": "Name15218",
+        "zh_CN": "进击科技I",
+        "disable": 0
+    },
+    {
+        "Key": "Name15219",
+        "zh_CN": "进击科技II",
+        "disable": 0
+    },
+    {
+        "Key": "Name15220",
+        "zh_CN": "进击科技III",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9851",
+        "zh_CN": "在任意难度中成功抵御{1}波次以上敌袭",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9852",
+        "zh_CN": "累计收集{1}个星稀石",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9853",
+        "zh_CN": "累计收集{1}个雪盐晶",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9854",
+        "zh_CN": "累计收集{1}个燃雷尘",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9855",
+        "zh_CN": "上阵霰弹枪队员完成1次任意难度绝地防线",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9856",
+        "zh_CN": "上阵突击步枪队员完成1次任意难度绝地防线",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9857",
+        "zh_CN": "上阵手枪队员完成1次任意难度绝地防线",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9858",
+        "zh_CN": "上阵冲锋枪队员完成1次任意难度绝地防线",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9859",
+        "zh_CN": "上阵狙击枪队员完成1次任意难度绝地防线",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9860",
+        "zh_CN": "完成{1}次任意难度的绝地防线",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9861",
+        "zh_CN": "在【困难】难度中成功御敌{1}波次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9863",
+        "zh_CN": "完成1次【困难】难度的绝地防线",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9864",
+        "zh_CN": "在【困难】难度的绝地防线中，该局累计造成的伤害达到{1}",
+        "disable": 0
+    },
+    {
+        "Key": "Describe9865",
+        "zh_CN": "工事研新中任意分支提升至满级",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15002",
+        "zh_CN": "作为采集者完成1次任意难度绝地防线",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15003",
+        "zh_CN": "作为清扫者完成1次任意难度绝地防线",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15004",
+        "zh_CN": "作为进攻者完成1次任意难度绝地防线",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15101",
+        "zh_CN": "通关任意火线突击关卡",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15102",
+        "zh_CN": "累计通关{1}次存在【侵械】类型事件的关卡",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15103",
+        "zh_CN": "累计通关{1}次存在【亡语】类型事件的关卡",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15104",
+        "zh_CN": "累计完成{1}次紧急任务目标",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15105",
+        "zh_CN": "累计完成{1}次紧急任务目标",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15106",
+        "zh_CN": "累计完成{1}次紧急任务目标",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15107",
+        "zh_CN": "通关{1}次【泰坦之城】",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15108",
+        "zh_CN": "通关{1}次【空都危机】",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15109",
+        "zh_CN": "通关{1}次【寂境凶途】",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15110",
+        "zh_CN": "通关{1}次【边境寒号】",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15111",
+        "zh_CN": "通关{1}次【昨日梦魇】",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15112",
+        "zh_CN": "通关{1}次【汉诺之局】",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15201",
+        "zh_CN": "在任意难度中成功抵御{1}波次以上敌袭",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15202",
+        "zh_CN": "作为采集者完成{1}次任意难度绝地防线",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15203",
+        "zh_CN": "作为清扫者完成{1}次任意难度绝地防线",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15204",
+        "zh_CN": "作为进攻者完成{1}次任意难度绝地防线",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15205",
+        "zh_CN": "收集推进指令累积达到{1}",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15206",
+        "zh_CN": "收集推进指令累积达到{1}",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15207",
+        "zh_CN": "收集推进指令累积达到{1}",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15208",
+        "zh_CN": "收集机枪塔弹药累积达到{1}",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15209",
+        "zh_CN": "收集机枪塔弹药累积达到{1}",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15210",
+        "zh_CN": "收集机枪塔弹药累积达到{1}",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15211",
+        "zh_CN": "在【困难】难度中成功御敌{1}波次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15212",
+        "zh_CN": "在【困难】难度中成功御敌{1}波次",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15213",
+        "zh_CN": "完成1次【困难】难度的绝地防线",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15214",
+        "zh_CN": "在【困难】难度的绝地防线中，该局累计造成的伤害达到{1}",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15215",
+        "zh_CN": "在【困难】难度的绝地防线中，该局累计造成的伤害达到{1}",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15216",
+        "zh_CN": "在【困难】难度的绝地防线中，该局累计造成的伤害达到{1}",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15217",
+        "zh_CN": "兑换任意职能的特长至满级",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15218",
+        "zh_CN": "累计消耗{1}个推进指令",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15219",
+        "zh_CN": "累计消耗{1}个推进指令",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15220",
+        "zh_CN": "累计消耗{1}个推进指令",
+        "disable": 0
+    },
+    {
+        "Key": "Name15501",
+        "zh_CN": "火线日常",
+        "disable": 0
+    },
+    {
+        "Key": "Name15502",
+        "zh_CN": "临时英雄",
+        "disable": 0
+    },
+    {
+        "Key": "Name15503",
+        "zh_CN": "事件专家·防御",
+        "disable": 0
+    },
+    {
+        "Key": "Name15504",
+        "zh_CN": "事件专家·防御",
+        "disable": 0
+    },
+    {
+        "Key": "Name15505",
+        "zh_CN": "事件专家·防御",
+        "disable": 0
+    },
+    {
+        "Key": "Name15506",
+        "zh_CN": "事件专家·防御",
+        "disable": 0
+    },
+    {
+        "Key": "Name15507",
+        "zh_CN": "事件专家·防御",
+        "disable": 0
+    },
+    {
+        "Key": "Name15508",
+        "zh_CN": "事件专家·善后",
+        "disable": 0
+    },
+    {
+        "Key": "Name15509",
+        "zh_CN": "事件专家·善后",
+        "disable": 0
+    },
+    {
+        "Key": "Name15510",
+        "zh_CN": "事件专家·善后",
+        "disable": 0
+    },
+    {
+        "Key": "Name15511",
+        "zh_CN": "事件专家·善后",
+        "disable": 0
+    },
+    {
+        "Key": "Name15512",
+        "zh_CN": "事件专家·善后",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15501",
+        "zh_CN": "通关任意火线突击关卡",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15502",
+        "zh_CN": "在任意难度的火线突击中，多局累计造成的伤害达到{1}",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15503",
+        "zh_CN": "通关{1}次普通难度的火线突击关卡",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15504",
+        "zh_CN": "通关{1}次普通难度的火线突击关卡",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15505",
+        "zh_CN": "通关{1}次普通难度的火线突击关卡",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15506",
+        "zh_CN": "通关{1}次普通难度的火线突击关卡",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15507",
+        "zh_CN": "通关{1}次普通难度的火线突击关卡",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15508",
+        "zh_CN": "通关{1}次困难难度的火线突击关卡",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15509",
+        "zh_CN": "通关{1}次困难难度的火线突击关卡",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15510",
+        "zh_CN": "通关{1}次困难难度的火线突击关卡",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15511",
+        "zh_CN": "通关{1}次困难难度的火线突击关卡",
+        "disable": 0
+    },
+    {
+        "Key": "Describe15512",
+        "zh_CN": "通关{1}次困难难度的火线突击关卡",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneName1",
+        "zh_CN": "禁区常客",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneDesc1",
+        "zh_CN": "通关任意禁区协议关卡{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneName2",
+        "zh_CN": "道具达人",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneDesc2",
+        "zh_CN": "在任一禁区协议关卡中，该局使用任意智械兵器达到{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneDesc2_1",
+        "zh_CN": "在任一禁区协议关卡中，该局使用【空击类智械】达到{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneDesc2_2",
+        "zh_CN": "在任一禁区协议关卡中，该局使用【陆援类智械】达到{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneName3",
+        "zh_CN": "时代已变",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneDesc3",
+        "zh_CN": "累计解锁智械{1}个",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneName4",
+        "zh_CN": "硬件竞赛",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneDesc4",
+        "zh_CN": "使任意{1}个智械升至满级",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneName5",
+        "zh_CN": "善用优势",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneDesc5",
+        "zh_CN": "战斗中累积使用任意智械{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneDesc5_1",
+        "zh_CN": "战斗中累积使用【空击类智械】{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneDesc5_2",
+        "zh_CN": "战斗中累积使用【陆援类智械】{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneDesc5_3",
+        "zh_CN": "在【特调战区】难度战斗中累积使用任意智械{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneName6",
+        "zh_CN": "神兵相助",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneDesc6",
+        "zh_CN": "战斗中累计使用智械击败{1}个目标",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneName7",
+        "zh_CN": "空中救兵",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneDesc7",
+        "zh_CN": "仅装配【空击类智械】通关任意关卡",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneName8",
+        "zh_CN": "陆地助手",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneDesc8",
+        "zh_CN": "仅装配【陆援类智械】通关任意关卡",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneName9",
+        "zh_CN": "精简出行",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneDesc9",
+        "zh_CN": "通关任意关卡，且装配智械不超过1个",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneName10",
+        "zh_CN": "二命通关",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneDesc10",
+        "zh_CN": "通关任意关卡，且倒下次数不超过1次",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneName11",
+        "zh_CN": "常规强者",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneDesc11",
+        "zh_CN": "通关{1}次【特调战区】难度的禁区协议",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneName12",
+        "zh_CN": "创造顺境",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneDesc12",
+        "zh_CN": "任意1次【特调战区】禁区协议关卡中，使用智械击败{1}个以上目标",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneName13",
+        "zh_CN": "物尽其用",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneDesc13",
+        "zh_CN": "任意1次【特调战区】禁区协议关卡中，使用智械达到{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneName14",
+        "zh_CN": "攻守日常",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneName15",
+        "zh_CN": "满配出行",
+        "disable": 0
+    },
+    {
+        "Key": "ForbidZoneDesc15",
+        "zh_CN": "同时装配【空击类智械】和【陆援类智械】通关任意关卡",
+        "disable": 0
+    },
+    {
+        "Key": "Party_Describe1",
+        "zh_CN": "累计完成任意类型冲关%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Party_Describe2",
+        "zh_CN": "完成【竞速赛】类型冲关%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Party_Describe3",
+        "zh_CN": "完成【生存赛】类型冲关%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Party_Describe4",
+        "zh_CN": "完成【抢分赛】类型冲关%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Party_Describe5_1",
+        "zh_CN": "在任意类型的%d次冲关中，排名第5名及5名以上",
+        "disable": 0
+    },
+    {
+        "Key": "Party_Describe5_2",
+        "zh_CN": "在任意类型的%d次冲关中，排名第10名及10名以上",
+        "disable": 0
+    },
+    {
+        "Key": "Party_Describe6",
+        "zh_CN": "完成【生存赛】或【抢分赛】类型冲关%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Party_Describe7",
+        "zh_CN": "累计完成%d次【冲关啦】",
+        "disable": 0
+    },
+    {
+        "Key": "Party_Describe8",
+        "zh_CN": "累计完成%d次【捉迷藏】",
+        "disable": 0
+    },
+    {
+        "Key": "Party_Describe9",
+        "zh_CN": "累计完成%d次任意模式的【海姆优化作战】",
+        "disable": 0
+    },
+    {
+        "Key": "Party_Describe10",
+        "zh_CN": "在【捉迷藏】模式中，累计使用%d次能力",
+        "disable": 0
+    },
+    {
+        "Key": "Party_Describe11",
+        "zh_CN": "累计完成%d次【优化吧】",
+        "disable": 0
+    },
+    {
+        "Key": "Party_Describe12",
+        "zh_CN": "在【优化吧】模式中，累计排名达到前10名%d次",
+        "disable": 0
+    },
+    {
+        "Key": "Party_Describe13",
+        "zh_CN": "在【决战哈姆】模式中，累计获得%d次补给武器",
+        "disable": 0
+    },
+    {
+        "Key": "Party_Describe14",
+        "zh_CN": "在【决战哈姆】模式中，累计击败%d次哈姆首领",
+        "disable": 0
+    },
+    {
+        "Key": "Party_Describe15",
+        "zh_CN": "累计参与%d次【决战哈姆】",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle01",
+        "zh_CN": "怦然心动·茉莉安",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle02",
+        "zh_CN": "怦然心动·辰星",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle03",
+        "zh_CN": "怦然心动·肴",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle04",
+        "zh_CN": "怦然心动·苔丝",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle05",
+        "zh_CN": "怦然心动·卜卜",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle06",
+        "zh_CN": "小试牛刀",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle07",
+        "zh_CN": "永不言弃",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle08",
+        "zh_CN": "养精蓄锐",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle09",
+        "zh_CN": "心动不已",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle10",
+        "zh_CN": "心动不已",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle11",
+        "zh_CN": "水弹大师",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle12",
+        "zh_CN": "水弹大师",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle13",
+        "zh_CN": "散尽千金",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle14",
+        "zh_CN": "散尽千金",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle15",
+        "zh_CN": "道具大师",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle16",
+        "zh_CN": "胆大心细",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle17",
+        "zh_CN": "了然于心",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle18",
+        "zh_CN": "心平气和",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle19",
+        "zh_CN": "顶级怪盗",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle20",
+        "zh_CN": "无事发生",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveTitle21",
+        "zh_CN": "道具达人",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes01",
+        "zh_CN": "通关茉莉安练习模式",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes02",
+        "zh_CN": "通关辰星练习模式",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes03",
+        "zh_CN": "通关肴练习模式",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes04",
+        "zh_CN": "通关苔丝练习模式",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes05",
+        "zh_CN": "通关卜卜练习模式",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes06",
+        "zh_CN": "在练习模式中失败一次",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes07",
+        "zh_CN": "在连战模式中失败一次",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes08",
+        "zh_CN": "连战模式中，被询问是否翻倍连战时，选择中止离开",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes09",
+        "zh_CN": "在连战模式中连胜%d位少女",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes10",
+        "zh_CN": "在连战模式中连胜%d位少女",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes11",
+        "zh_CN": "历史最佳水弹币达到%d",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes12",
+        "zh_CN": "历史最佳水弹币达到%d",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes13",
+        "zh_CN": "在连战模式中输掉%d",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes14",
+        "zh_CN": "在连战模式中输掉%d",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes15",
+        "zh_CN": "图鉴集齐%d个功能道具",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes16",
+        "zh_CN": "当枪中剩余水弹、空弹各一发时，对自己开枪且是空弹",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes17",
+        "zh_CN": "使用看破墨镜且看到水弹后，对自己开枪",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes18",
+        "zh_CN": "在剩余2点活力时，使用进阶枪管并将自己击毙",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes19",
+        "zh_CN": "用怪盗之手偷到对方的怪盗之手",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes20",
+        "zh_CN": "用重置之锤重新随机到了重置之锤",
+        "disable": 0
+    },
+    {
+        "Key": "Roulette_AchiveDes21",
+        "zh_CN": "图鉴集齐%d个收集道具",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveName01",
+        "zh_CN": "一定是bug",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveName02",
+        "zh_CN": "留到最后",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveName03",
+        "zh_CN": "妙语连珠",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveName04",
+        "zh_CN": "沉默是金",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveName05",
+        "zh_CN": "全凭实力",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveName06",
+        "zh_CN": "终局即将揭晓",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveName07",
+        "zh_CN": "决战牌桌之巅",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveName08",
+        "zh_CN": "纯色三连斩",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveName09",
+        "zh_CN": "瞒天过海",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveName10",
+        "zh_CN": "Double Kill",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveName11",
+        "zh_CN": "Triple Kill",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveName12",
+        "zh_CN": "神之一手",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveName13",
+        "zh_CN": "分析员说得对",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveName14",
+        "zh_CN": "来场对局吧！",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveName15",
+        "zh_CN": "来场刺激的对局吧！",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveName16",
+        "zh_CN": "惊吓还是惊喜？",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveName17",
+        "zh_CN": "毫无悬念",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveName18",
+        "zh_CN": "下次再战",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveName19",
+        "zh_CN": "轻轻松松",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveName20",
+        "zh_CN": "秘盒效果全收集",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveDesc01",
+        "zh_CN": "分析员第1次选择特调就选到特调秘饮导致出局",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveDesc02",
+        "zh_CN": "分析员第3次选择特调才选到特调秘饮导致出局",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveDesc03",
+        "zh_CN": "分析员在整场对局中发言达到5次",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveDesc04",
+        "zh_CN": "分析员在整场对局中没有任何发言",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveDesc05",
+        "zh_CN": "分析员在整场对局中一直没有获得万能牌，且最终获得对局第1名",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveDesc06",
+        "zh_CN": "某轮开始时，场上剩余4名玩家，且每位玩家都只剩余1杯特调",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveDesc07",
+        "zh_CN": "某轮开始时，场上剩余2名玩家，且每位玩家都只剩余1杯特调",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveDesc08",
+        "zh_CN": "分析员一次性打出了3张图案相同的牌（不能使用万能牌替代某图案牌）",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveDesc09",
+        "zh_CN": "分析员一次性打出了3张假牌，且没有被质疑",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveDesc10",
+        "zh_CN": "分析员利用秘盒效果，使2名少女同时出局",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveDesc11",
+        "zh_CN": "分析员利用秘盒效果，使3名少女同时出局",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveDesc12",
+        "zh_CN": "分析员利用秘盒效果，盲选复制到少女的万能牌或指定牌",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveDesc13",
+        "zh_CN": "分析员利用秘盒效果，即使上家打出的全为真牌，对她发动质疑也能成功",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveDesc14",
+        "zh_CN": "完成1次标准对局",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveDesc15",
+        "zh_CN": "完成1次秘盒奇袭",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveDesc16",
+        "zh_CN": "在秘盒奇袭中获得任意1种秘盒效果",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveDesc17",
+        "zh_CN": "分析员在对局中获得第1名（玩家数量不限，标准对局或秘盒奇袭均可）",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveDesc18",
+        "zh_CN": "分析员在对局中获得最后一名（玩家数量不限，标准对局或秘盒奇袭均可）",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveDesc19",
+        "zh_CN": "分析员在对局结算时达到100积分（标准对局或秘盒奇袭均可）",
+        "disable": 0
+    },
+    {
+        "Key": "GuessPoker_AchieveDesc20",
+        "zh_CN": "解锁全部秘盒效果",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarName1",
+        "zh_CN": "污垢扫除Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarName2",
+        "zh_CN": "菜园铁壁Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarName3",
+        "zh_CN": "精锐武装Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarName4",
+        "zh_CN": "培育技术员Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarName5",
+        "zh_CN": "养料收集Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarName6",
+        "zh_CN": "爆爆之星Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarName7",
+        "zh_CN": "污垢扫除Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarName8",
+        "zh_CN": "菜园铁壁Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarName9",
+        "zh_CN": "精锐武装Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarName10",
+        "zh_CN": "培育技术员Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarName11",
+        "zh_CN": "养料收集Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarName12",
+        "zh_CN": "爆爆之星Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarName13",
+        "zh_CN": "爆爆之星Ⅲ",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarName14",
+        "zh_CN": "菜园铁壁Ⅲ",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarName15",
+        "zh_CN": "爆爆之星Ⅳ",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarName16",
+        "zh_CN": "培育技术员Ⅲ",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarName17",
+        "zh_CN": "养料收集Ⅲ",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarName18",
+        "zh_CN": "爆爆之星Ⅴ",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Name1",
+        "zh_CN": "污垢扫除Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Name2",
+        "zh_CN": "菜园铁壁Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Name3",
+        "zh_CN": "精锐武装Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Name4",
+        "zh_CN": "培育技术员Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Name5",
+        "zh_CN": "养料收集Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Name6",
+        "zh_CN": "爆爆之星Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Name7",
+        "zh_CN": "污垢扫除Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Name8",
+        "zh_CN": "菜园铁壁Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Name9",
+        "zh_CN": "精锐武装Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Name10",
+        "zh_CN": "神奇爆弹",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Name11",
+        "zh_CN": "极限达人",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Name12",
+        "zh_CN": "爆爆之星Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Name13",
+        "zh_CN": "豹豹试研",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Name14",
+        "zh_CN": "实验探索",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Name15",
+        "zh_CN": "培育技术员Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Name16",
+        "zh_CN": "养料收集Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Name17",
+        "zh_CN": "爆爆之星Ⅲ",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarDes1",
+        "zh_CN": "在爆爆菜园中击败{1}个敌对目标",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarDes2",
+        "zh_CN": "在爆爆菜园中种植{1}个蔬菜伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarDes3",
+        "zh_CN": "在爆爆菜园中升级{1}个蔬菜伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarDes4",
+        "zh_CN": "在爆爆菜园中同时激活{1}个“培育方程”中的战技",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarDes5",
+        "zh_CN": "在爆爆菜园中累积购买{1}个“培育包”",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarDes6",
+        "zh_CN": "完成菜圃5",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarDes7",
+        "zh_CN": "在爆爆菜园中击败{1}个敌对目标",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarDes8",
+        "zh_CN": "在爆爆菜园中种植{1}个蔬菜伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarDes9",
+        "zh_CN": "在爆爆菜园中升级{1}个蔬菜伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarDes10",
+        "zh_CN": "在爆爆菜园中同时激活{1}个“培育方程”中的战技",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarDes11",
+        "zh_CN": "在爆爆菜园中累积购买{1}个“培育包”",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarDes12",
+        "zh_CN": "完成菜圃10",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarDes13",
+        "zh_CN": "完成菜圃12",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarDes14",
+        "zh_CN": "在爆爆菜园中种植{1}个蔬菜伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarDes15",
+        "zh_CN": "完成菜圃14",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarDes16",
+        "zh_CN": "在爆爆菜园中同时激活{1}个“培育方程”中的战技",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarDes17",
+        "zh_CN": "在爆爆菜园中累积购买{1}个“培育包”",
+        "disable": 0
+    },
+    {
+        "Key": "FarmwarDes18",
+        "zh_CN": "完成菜圃15",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Des1",
+        "zh_CN": "在爆爆菜园中击败{1}个敌对目标",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Des2",
+        "zh_CN": "在爆爆菜园中种植{1}个蔬菜伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Des3",
+        "zh_CN": "在爆爆菜园中升级{1}个蔬菜伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Des4",
+        "zh_CN": "在爆爆菜园中同时激活{1}个“培育方程”中的战技",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Des5",
+        "zh_CN": "在爆爆菜园中累积购买{1}个“培育包”",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Des6",
+        "zh_CN": "完成菜圃8",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Des7",
+        "zh_CN": "在爆爆菜园中击败{1}个敌对目标",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Des8",
+        "zh_CN": "在爆爆菜园中种植{1}个蔬菜伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Des9",
+        "zh_CN": "在爆爆菜园中升级{1}个蔬菜伙伴",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Des10",
+        "zh_CN": "携带冰霜麻辣能量弹或超燃麻辣能量弹通关任意关卡",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Des11",
+        "zh_CN": "点亮{1}个极限培育技能",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Des12",
+        "zh_CN": "进入{1}次无限实验1并在该关卡中至少击败3波敌方目标",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Des13",
+        "zh_CN": "进入{1}次任意无限实验并在该关卡内至少击败4波敌方目标",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Des14",
+        "zh_CN": "在任意无限实验中选择{1}种不同的研究方向并在该关卡内至少击败4波敌方目标",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Des15",
+        "zh_CN": "在爆爆菜园中同时激活{1}个“培育方程”中的战技",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Des16",
+        "zh_CN": "在爆爆菜园中累积购买{1}个“培育包”",
+        "disable": 0
+    },
+    {
+        "Key": "Farmwar2Des17",
+        "zh_CN": "进入{1}次无限实验2并在该关卡中至少击败3波敌方目标",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc01",
+        "zh_CN": "在任意一局绘梦沙盘中获胜",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc02",
+        "zh_CN": "累计以“破产”的方式，获得胜利{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc03",
+        "zh_CN": "累计以“破产”的方式，获得胜利{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc04",
+        "zh_CN": "累计以“破产”的方式，获得胜利{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc05",
+        "zh_CN": "累计以“积分胜点”的方式，获得胜利{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc06",
+        "zh_CN": "累计以“积分胜点”的方式，获得胜利{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc07",
+        "zh_CN": "累计以“积分胜点”的方式，获得胜利{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc08",
+        "zh_CN": "累计以“三色垄断”的方式，获得胜利{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc09",
+        "zh_CN": "累计以“三色垄断”的方式，获得胜利{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc10",
+        "zh_CN": "累计以“三色垄断”的方式，获得胜利{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc11",
+        "zh_CN": "累计以“单边垄断”的方式，获得胜利{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc12",
+        "zh_CN": "累计以“单边垄断”的方式，获得胜利{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc13",
+        "zh_CN": "累计以“单边垄断”的方式，获得胜利{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc14",
+        "zh_CN": "累计从游客中心出行{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc15",
+        "zh_CN": "累计从游客中心出行{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc16",
+        "zh_CN": "累计从游客中心出行{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc17",
+        "zh_CN": "累计从豪华游轮返航{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc18",
+        "zh_CN": "累计从豪华游轮返航{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc19",
+        "zh_CN": "累计从豪华游轮返航{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc20",
+        "zh_CN": "累计购买幸运卡{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc21",
+        "zh_CN": "累计购买幸运卡{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc22",
+        "zh_CN": "累计购买幸运卡{1}次",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc23",
+        "zh_CN": "在 沙盒推演 中完成 沙盒推演-2",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc24",
+        "zh_CN": "在 沙盒推演 中完成 沙盒推演-4",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc25",
+        "zh_CN": "在 沙盒推演 中完成 沙盒推演-6",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc26",
+        "zh_CN": "在 沙盒推演 中完成 沙盒推演-8",
+        "disable": 0
+    },
+    {
+        "Key": "RMOL_AchieveDesc27",
+        "zh_CN": "在 棋盘挑战 中获得{1}颗星",
+        "disable": 0
+    },
+    {
+        "Key": "Preview_AchieveDesc01",
+        "zh_CN": "完成一次信源研析",
+        "disable": 0
+    },
+    {
+        "Key": "Preview_AchieveDesc02",
+        "zh_CN": "完成一次神经调理",
+        "disable": 0
+    },
+    {
+        "Key": "Preview_AchieveDesc03",
+        "zh_CN": "完成一局心动水弹游戏",
+        "disable": 0
+    },
+    {
+        "Key": "Preview_AchieveDesc04",
+        "zh_CN": "完成一次契影定格拍照",
+        "disable": 0
+    },
+    {
+        "Key": "Preview_AchieveDesc05",
+        "zh_CN": "完成一局猜心对局游戏",
+        "disable": 0
+    },
+    {
+        "Key": "Preview_AchieveDesc06",
+        "zh_CN": "完成一局冰趣蜜弹游戏",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_StratTargetDes1",
+        "zh_CN": "成功制作任意1款甜品",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_StratTargetDes2",
+        "zh_CN": "在不使用“减速冰镇”的情况下，成功制作任意1款甜品",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_StratTargetDes3",
+        "zh_CN": "成功制作任意1款甜品，且该甜品为少女点单的甜品",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_Name01",
+        "zh_CN": "默契合作-芬妮",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_Name02",
+        "zh_CN": "默契合作-瑟瑞斯",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_Name03",
+        "zh_CN": "默契合作-安卡希雅",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_Name04",
+        "zh_CN": "默契合作-薇蒂雅",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_Name05",
+        "zh_CN": "默契合作-奈莉德",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_Name06",
+        "zh_CN": "持久甜蜜-1",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_Name07",
+        "zh_CN": "持久甜蜜-2",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_Name08",
+        "zh_CN": "持久甜蜜-3",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_Name09",
+        "zh_CN": "诶？怎么会",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_Name10",
+        "zh_CN": "连击高手",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_Name11",
+        "zh_CN": "创意百分百",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_Name12",
+        "zh_CN": "完美的制作",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_Name13",
+        "zh_CN": "特技含量-少冰",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_Name14",
+        "zh_CN": "特技含量-多冰",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_Name15",
+        "zh_CN": "特技含量-去冰",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_Name16",
+        "zh_CN": "冰趣品鉴-1",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_Name17",
+        "zh_CN": "冰趣品鉴-2",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_Name18",
+        "zh_CN": "冰趣品鉴-3",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_Name19",
+        "zh_CN": "冰趣品鉴-4",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_Name20",
+        "zh_CN": "冰趣美味大师",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_des01",
+        "zh_CN": "在常规游戏中完成芬妮的点单且达到三星级。",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_des02",
+        "zh_CN": "在常规游戏中完成瑟瑞斯的点单且达到三星级。",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_des03",
+        "zh_CN": "在常规游戏中完成安卡希雅的点单且达到三星级。",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_des04",
+        "zh_CN": "在常规游戏中完成薇蒂雅的点单且达到三星级。",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_des05",
+        "zh_CN": "在常规游戏中完成奈莉德的点单且达到三星级。",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_des06",
+        "zh_CN": "在1局蜜弹连击中达到%d分。",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_des07",
+        "zh_CN": "在1局蜜弹连击中，所有食材都偏离。",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_des08",
+        "zh_CN": "在1局蜜弹连击中，所有食材都命中。",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_des09",
+        "zh_CN": "在1局蜜弹连击中，每轮甜品配方组合出的都不是少女点单的甜品。",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_des10",
+        "zh_CN": "在1局蜜弹连击中，每轮甜品配方组合出的都是少女点单的甜品。",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_des11",
+        "zh_CN": "在1局蜜弹连击中，“减速冰镇”特技使用次数不超过%d次。",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_des12",
+        "zh_CN": "在1局蜜弹连击中全程没有使用“减速冰镇”特技。",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_des13",
+        "zh_CN": "解锁甜蜜图鉴中的%d个甜品。",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_des14",
+        "zh_CN": "解锁甜蜜图鉴中的所有甜品。",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_des15",
+        "zh_CN": "在1局蜜弹连击中，“减速冰镇”特技使用次数不超过4次。",
+        "disable": 0
+    },
+    {
+        "Key": "Throw_des16",
+        "zh_CN": "在1局蜜弹连击中，“减速冰镇”特技使用次数不超过2次。",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_name1",
+        "zh_CN": "剑·启程Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_name2",
+        "zh_CN": "剑·启程Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_name3",
+        "zh_CN": "剑·启程Ⅲ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_name4",
+        "zh_CN": "剑·启程Ⅳ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_name5",
+        "zh_CN": "剑·启程Ⅴ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_name6",
+        "zh_CN": "剑·破晓Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_name7",
+        "zh_CN": "剑·启程Ⅵ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_name8",
+        "zh_CN": "剑·启程Ⅶ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_name9",
+        "zh_CN": "剑·启程Ⅷ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_name10",
+        "zh_CN": "剑·启程Ⅸ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_name11",
+        "zh_CN": "剑·启程Ⅹ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_name12",
+        "zh_CN": "剑·破晓Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_name13",
+        "zh_CN": "剑·启程Ⅺ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_name14",
+        "zh_CN": "剑·启程Ⅻ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_name15",
+        "zh_CN": "剑·启程XIII",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_name16",
+        "zh_CN": "剑·启程XIV",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_name17",
+        "zh_CN": "剑·启程XV",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_name18",
+        "zh_CN": "剑·归宿",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_des1",
+        "zh_CN": "拼合{1}块晴-霆光的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_des2",
+        "zh_CN": "拼合{1}块晴-霆光的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_des3",
+        "zh_CN": "拼合{1}块晴-霆光的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_des4",
+        "zh_CN": "拼合{1}块晴-霆光的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_des5",
+        "zh_CN": "拼合{1}块晴-霆光的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_des6",
+        "zh_CN": "完成晴-霆光的启忆拼合第一阶段",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_des7",
+        "zh_CN": "拼合{1}块晴-霆光的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_des8",
+        "zh_CN": "拼合{1}块晴-霆光的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_des9",
+        "zh_CN": "拼合{1}块晴-霆光的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_des10",
+        "zh_CN": "拼合{1}块晴-霆光的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_des11",
+        "zh_CN": "拼合{1}块晴-霆光的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_des12",
+        "zh_CN": "完成晴-霆光的启忆拼合第二阶段",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_des13",
+        "zh_CN": "拼合{1}块晴-霆光的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_des14",
+        "zh_CN": "拼合{1}块晴-霆光的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_des15",
+        "zh_CN": "拼合{1}块晴-霆光的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_des16",
+        "zh_CN": "拼合{1}块晴-霆光的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_des17",
+        "zh_CN": "拼合{1}块晴-霆光的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle_des18",
+        "zh_CN": "完成晴-霆光的最终启忆",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_name1",
+        "zh_CN": "整装待发喵Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_name2",
+        "zh_CN": "整装待发喵Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_name3",
+        "zh_CN": "整装待发喵Ⅲ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_name4",
+        "zh_CN": "整装待发喵Ⅳ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_name5",
+        "zh_CN": "整装待发喵Ⅴ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_name6",
+        "zh_CN": "感知新生喵Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_name7",
+        "zh_CN": "整装待发喵Ⅵ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_name8",
+        "zh_CN": "整装待发喵Ⅶ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_name9",
+        "zh_CN": "整装待发喵Ⅷ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_name10",
+        "zh_CN": "整装待发喵Ⅸ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_name11",
+        "zh_CN": "整装待发喵Ⅹ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_name12",
+        "zh_CN": "感知新生喵Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_name13",
+        "zh_CN": "整装待发喵Ⅺ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_name14",
+        "zh_CN": "整装待发喵Ⅻ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_name15",
+        "zh_CN": "整装待发喵XIII",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_name16",
+        "zh_CN": "整装待发喵XIV",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_name17",
+        "zh_CN": "整装待发喵XV",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_name18",
+        "zh_CN": "光荣回家喵",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_des1",
+        "zh_CN": "拼合{1}块猫汐尔-莲驱的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_des2",
+        "zh_CN": "拼合{1}块猫汐尔-莲驱的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_des3",
+        "zh_CN": "拼合{1}块猫汐尔-莲驱的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_des4",
+        "zh_CN": "拼合{1}块猫汐尔-莲驱的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_des5",
+        "zh_CN": "拼合{1}块猫汐尔-莲驱的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_des6",
+        "zh_CN": "完成猫汐尔-莲驱的启忆拼合第一阶段",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_des7",
+        "zh_CN": "拼合{1}块猫汐尔-莲驱的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_des8",
+        "zh_CN": "拼合{1}块猫汐尔-莲驱的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_des9",
+        "zh_CN": "拼合{1}块猫汐尔-莲驱的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_des10",
+        "zh_CN": "拼合{1}块猫汐尔-莲驱的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_des11",
+        "zh_CN": "拼合{1}块猫汐尔-莲驱的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_des12",
+        "zh_CN": "完成猫汐尔-莲驱的启忆拼合第二阶段",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_des13",
+        "zh_CN": "拼合{1}块猫汐尔-莲驱的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_des14",
+        "zh_CN": "拼合{1}块猫汐尔-莲驱的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_des15",
+        "zh_CN": "拼合{1}块猫汐尔-莲驱的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_des16",
+        "zh_CN": "拼合{1}块猫汐尔-莲驱的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_des17",
+        "zh_CN": "拼合{1}块猫汐尔-莲驱的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle2_des18",
+        "zh_CN": "完成猫汐尔-莲驱的最终启忆",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_name1",
+        "zh_CN": "知识渊博的我Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_name2",
+        "zh_CN": "知识渊博的我Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_name3",
+        "zh_CN": "知识渊博的我Ⅲ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_name4",
+        "zh_CN": "知识渊博的我Ⅳ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_name5",
+        "zh_CN": "知识渊博的我Ⅴ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_name6",
+        "zh_CN": "日益精进的我Ⅰ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_name7",
+        "zh_CN": "知识渊博的我Ⅵ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_name8",
+        "zh_CN": "知识渊博的我Ⅶ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_name9",
+        "zh_CN": "知识渊博的我Ⅷ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_name10",
+        "zh_CN": "知识渊博的我Ⅸ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_name11",
+        "zh_CN": "知识渊博的我Ⅹ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_name12",
+        "zh_CN": "日益精进的我Ⅱ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_name13",
+        "zh_CN": "知识渊博的我Ⅺ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_name14",
+        "zh_CN": "知识渊博的我Ⅻ",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_name15",
+        "zh_CN": "知识渊博的我XIII",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_name16",
+        "zh_CN": "知识渊博的我XIV",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_name17",
+        "zh_CN": "知识渊博的我XV",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_name18",
+        "zh_CN": "从未动摇的我",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_des1",
+        "zh_CN": "拼合{1}块芙提雅-炬芯的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_des2",
+        "zh_CN": "拼合{1}块芙提雅-炬芯的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_des3",
+        "zh_CN": "拼合{1}块芙提雅-炬芯的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_des4",
+        "zh_CN": "拼合{1}块芙提雅-炬芯的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_des5",
+        "zh_CN": "拼合{1}块芙提雅-炬芯的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_des6",
+        "zh_CN": "完成芙提雅-炬芯的启忆拼合第一阶段",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_des7",
+        "zh_CN": "拼合{1}块芙提雅-炬芯的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_des8",
+        "zh_CN": "拼合{1}块芙提雅-炬芯的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_des9",
+        "zh_CN": "拼合{1}块芙提雅-炬芯的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_des10",
+        "zh_CN": "拼合{1}块芙提雅-炬芯的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_des11",
+        "zh_CN": "拼合{1}块芙提雅-炬芯的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_des12",
+        "zh_CN": "完成芙提雅-炬芯的启忆拼合第二阶段",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_des13",
+        "zh_CN": "拼合{1}块芙提雅-炬芯的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_des14",
+        "zh_CN": "拼合{1}块芙提雅-炬芯的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_des15",
+        "zh_CN": "拼合{1}块芙提雅-炬芯的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_des16",
+        "zh_CN": "拼合{1}块芙提雅-炬芯的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_des17",
+        "zh_CN": "拼合{1}块芙提雅-炬芯的心流碎片",
+        "disable": 0
+    },
+    {
+        "Key": "jigsawpuzzle3_des18",
+        "zh_CN": "完成芙提雅-炬芯的最终启忆",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveName1",
+        "zh_CN": "和安卡希雅一起推币",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveName2",
+        "zh_CN": "和茉莉安一起推币",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveName3",
+        "zh_CN": "和肴一起推币",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveName4",
+        "zh_CN": "和瑟瑞斯一起推币",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveName5",
+        "zh_CN": "和米娅一起推币",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveName6",
+        "zh_CN": "无尽推币1",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveName7",
+        "zh_CN": "无尽推币2",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveName8",
+        "zh_CN": "无尽推币3",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveName9",
+        "zh_CN": "硬币瀑布1",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveName10",
+        "zh_CN": "硬币瀑布2",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveName11",
+        "zh_CN": "硬币瀑布3",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveName12",
+        "zh_CN": "图鉴全解锁1",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveName13",
+        "zh_CN": "图鉴全解锁2",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveName14",
+        "zh_CN": "平地起高楼",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveName15",
+        "zh_CN": "专业爆破师",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveName16",
+        "zh_CN": "推币大赢家1",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveName17",
+        "zh_CN": "推币大赢家2",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveName18",
+        "zh_CN": "推币大赢家3",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveName19",
+        "zh_CN": "全勤部署",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveName20",
+        "zh_CN": "少女帮帮忙",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveDesc1",
+        "zh_CN": "和安卡希雅一起，在普通模式中完成5回合",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveDesc2",
+        "zh_CN": "和茉莉安一起，在普通模式中完成5回合",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveDesc3",
+        "zh_CN": "和肴一起，在普通模式中完成5回合",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveDesc4",
+        "zh_CN": "和瑟瑞斯一起，在普通模式中完成5回合",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveDesc5",
+        "zh_CN": "和米娅一起，在普通模式中完成5回合",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveDesc6",
+        "zh_CN": "在无尽模式中达到1000分",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveDesc7",
+        "zh_CN": "在无尽模式中达到5000分",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveDesc8",
+        "zh_CN": "在无尽模式中达到10000分",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveDesc9",
+        "zh_CN": "在任意模式中，连续推落10枚硬币",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveDesc10",
+        "zh_CN": "在任意模式中，连续推落20枚硬币",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveDesc11",
+        "zh_CN": "在任意模式中，连续推落100枚硬币",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveDesc12",
+        "zh_CN": "解锁图鉴中所有的流派信物",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveDesc13",
+        "zh_CN": "解锁图鉴中所有的守护道具",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveDesc14",
+        "zh_CN": "在机台内堆起一座普通币塔",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveDesc15",
+        "zh_CN": "在机台内堆起一座炸弹币球并使其爆炸",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveDesc16",
+        "zh_CN": "累计推落200个任意硬币",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveDesc17",
+        "zh_CN": "累计推落500个任意硬币",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveDesc18",
+        "zh_CN": "累计推落1000个任意硬币",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveDesc19",
+        "zh_CN": "在1场对局中向机台中放置过5位不同少女对应的扭蛋秘宝",
+        "disable": 0
+    },
+    {
+        "Key": "Coinpusher_AchieveDesc20",
+        "zh_CN": "在任意模式的前3个回合内，让少女帮忙摇晃机台",
+        "disable": 0
+    }
+]

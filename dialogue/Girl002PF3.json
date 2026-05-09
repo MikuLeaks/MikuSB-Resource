@@ -1,0 +1,772 @@
+[
+    {
+        "Key": 1,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "里芙病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "把这九个长夜，献祭给我自己的伤口！",
+        "disable": 0
+    },
+    {
+        "Key": 2,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "里芙病号服",
+        "RealSpeaker": "里芙",
+        "WwiseEventID": "",
+        "zh_CN": "……？",
+        "disable": 0
+    },
+    {
+        "Key": 3,
+        "Flag": "",
+        "Pos": 1,
+        "Speaker": "医师",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "她醒了！",
+        "disable": 0
+    },
+    {
+        "Key": 4,
+        "Flag": "",
+        "Pos": 1,
+        "Speaker": "医师",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "准备检查项目……哇！",
+        "disable": 0
+    },
+    {
+        "Key": 5,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "医师",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "救，救命啊！来人啊！",
+        "disable": 0
+    },
+    {
+        "Key": 6,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "里芙病号服",
+        "RealSpeaker": "里芙",
+        "WwiseEventID": "Play_Mo_girl002_power01_074",
+        "zh_CN": "汝等是何人？滚开！",
+        "disable": 0
+    },
+    {
+        "Key": 7,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "保卫员",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Mo_npc997_ouch01_056",
+        "zh_CN": "唔啊！",
+        "disable": 0
+    },
+    {
+        "Key": 8,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "保卫员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "紧急情况！需要增援！",
+        "disable": 0
+    },
+    {
+        "Key": 9,
+        "Flag": "",
+        "Pos": 1,
+        "Speaker": "保卫员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "摁住她！",
+        "disable": 0
+    },
+    {
+        "Key": 10,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "把墙上砸了个洞？",
+        "disable": 0
+    },
+    {
+        "Key": 11,
+        "Flag": "",
+        "Pos": 1,
+        "Speaker": "医师",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "是的，高强度合金的墙壁，被她一拳就打凹了。",
+        "disable": 0
+    },
+    {
+        "Key": 12,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你们怎么制服她的？",
+        "disable": 0
+    },
+    {
+        "Key": 13,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "保卫员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "报告，我们发射了机甲紧急迫降用的缓冲发泡凝胶，才勉强把她困住。",
+        "disable": 0
+    },
+    {
+        "Key": 14,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "关了多久了？",
+        "disable": 0
+    },
+    {
+        "Key": 15,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "保卫员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "从昨天开始。中途没有供应食物。",
+        "disable": 0
+    },
+    {
+        "Key": 16,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "好。",
+        "disable": 0
+    },
+    {
+        "Key": 17,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "开门吧。",
+        "disable": 0
+    },
+    {
+        "Key": 18,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "保卫员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "陶董，她是高度危险对象，万一……",
+        "disable": 0
+    },
+    {
+        "Key": 19,
+        "Flag": "",
+        "Pos": 2,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "…………",
+        "disable": 0
+    },
+    {
+        "Key": 20,
+        "Flag": "",
+        "Pos": 3,
+        "Speaker": "保卫员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我，我知道了！马上就开门！",
+        "disable": 0
+    },
+    {
+        "Key": "b-2",
+        "Flag": "b-2",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": "b-2-1",
+        "Flag": "b-2-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "…………",
+        "disable": 0
+    },
+    {
+        "Key": 74,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "那正是我最爱的，密米尔气泡水。",
+        "disable": 0
+    },
+    {
+        "Key": "b-1",
+        "Flag": "b-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "",
+        "disable": 0
+    },
+    {
+        "Key": "b-1-1",
+        "Flag": "b-1-1",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我能理解你究竟多恨泰坦了。",
+        "disable": 0
+    },
+    {
+        "Key": 68,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "里芙",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "泰坦让我获得力量和神格究竟是出于什么目的，我不关心。",
+        "disable": 0
+    },
+    {
+        "Key": 69,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "里芙",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我只考虑如何彻底摧毁它们。",
+        "disable": 0
+    },
+    {
+        "Key": 70,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "里芙",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "如果要我成为奥丁才能完成复仇，那就……赶快吧。",
+        "disable": 0
+    },
+    {
+        "Key": 71,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "星期三似乎有些口渴，拿起一旁的瓶装饮料一口气喝光。",
+        "disable": 0
+    },
+    {
+        "Key": 72,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "里芙",
+        "RealSpeaker": "",
+        "WwiseEventID": "Play_Mo_girl002_doubt01_057",
+        "zh_CN": "嗯？啊哈……",
+        "disable": 0
+    },
+    {
+        "Key": 73,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "正准备把捏扁的空瓶子扔进垃圾桶，却在中途停下动作，转而把瓶子递给我看。",
+        "disable": 0
+    },
+    {
+        "Key": 21,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "里芙·贝斯特拉。",
+        "disable": 0
+    },
+    {
+        "Key": 22,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "里芙病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "………………",
+        "disable": 0
+    },
+    {
+        "Key": 23,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "里芙病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你是董事会的。",
+        "disable": 0
+    },
+    {
+        "Key": 24,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "保卫员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你，你怎么敢用这种语气和陶董说话!",
+        "disable": 0
+    },
+    {
+        "Key": 25,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "…………",
+        "disable": 0
+    },
+    {
+        "Key": 26,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "保卫员",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "呃，我……",
+        "disable": 0
+    },
+    {
+        "Key": 27,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你感觉如何？",
+        "disable": 0
+    },
+    {
+        "Key": 28,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "里芙病号服",
+        "RealSpeaker": "里芙",
+        "WwiseEventID": "",
+        "zh_CN": "听说我伤了人？",
+        "disable": 0
+    },
+    {
+        "Key": 29,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "是我在问你。",
+        "disable": 0
+    },
+    {
+        "Key": 30,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "里芙病号服",
+        "RealSpeaker": "里芙",
+        "WwiseEventID": "",
+        "zh_CN": "我听到了。",
+        "disable": 0
+    },
+    {
+        "Key": 31,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……这里是世界树，任何伤者和你一样都会被妥善照顾。",
+        "disable": 0
+    },
+    {
+        "Key": 32,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "行了，说话。",
+        "disable": 0
+    },
+    {
+        "Key": 33,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "里芙病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我很正常。",
+        "disable": 0
+    },
+    {
+        "Key": 34,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "里芙病号服",
+        "RealSpeaker": "里芙",
+        "WwiseEventID": "",
+        "zh_CN": "至于墙上那个坑，我也搞不懂。",
+        "disable": 0
+    },
+    {
+        "Key": 35,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "现在再砸一个给我看。",
+        "disable": 0
+    },
+    {
+        "Key": 36,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "里芙病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "办不到，试过了。",
+        "disable": 0
+    },
+    {
+        "Key": 37,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "知道自己为什么在这儿吗？",
+        "disable": 0
+    },
+    {
+        "Key": 38,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "里芙病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "打人的事，我没有记忆。",
+        "disable": 0
+    },
+    {
+        "Key": 39,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "里芙病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "听医师说是神志尚不清醒。",
+        "disable": 0
+    },
+    {
+        "Key": 40,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "里芙病号服",
+        "RealSpeaker": "里芙",
+        "WwiseEventID": "",
+        "zh_CN": "再往前，就不知道了。",
+        "disable": 0
+    },
+    {
+        "Key": 41,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你突然昏迷。",
+        "disable": 0
+    },
+    {
+        "Key": 42,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "里芙病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "我得了什么病？为什么要把我泡在水池里？",
+        "disable": 0
+    },
+    {
+        "Key": 43,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "这是必需的治疗手段。",
+        "disable": 0
+    },
+    {
+        "Key": 44,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "里芙病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "闻所未闻。",
+        "disable": 0
+    },
+    {
+        "Key": 45,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你会慢慢熟悉的。",
+        "disable": 0
+    },
+    {
+        "Key": 46,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "在昏迷期间，你有没有做过梦？",
+        "disable": 0
+    },
+    {
+        "Key": 47,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "里芙病号服",
+        "RealSpeaker": "里芙",
+        "WwiseEventID": "",
+        "zh_CN": "梦？嗯，梦见了……",
+        "disable": 0
+    },
+    {
+        "Key": 48,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "什么？",
+        "disable": 0
+    },
+    {
+        "Key": 49,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "里芙病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "雪，泰坦，还有，一棵树。",
+        "disable": 0
+    },
+    {
+        "Key": 50,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "里芙病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "很大的树。",
+        "disable": 0
+    },
+    {
+        "Key": 51,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你把自己倒吊在树上，对吗？",
+        "disable": 0
+    },
+    {
+        "Key": 52,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "里芙病号服",
+        "RealSpeaker": "里芙",
+        "WwiseEventID": "",
+        "zh_CN": "你怎么知道？",
+        "disable": 0
+    },
+    {
+        "Key": 53,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "……",
+        "disable": 0
+    },
+    {
+        "Key": 54,
+        "Flag": "",
+        "Pos": 4,
+        "Speaker": "τ",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "你知道你昏迷了多久吗？",
+        "disable": 0
+    },
+    {
+        "Key": 55,
+        "Flag": "",
+        "Pos": 5,
+        "Speaker": "里芙病号服",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不知道。但我猜，九天九夜。",
+        "disable": 0
+    },
+    {
+        "Key": 57,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "2058年1月9日",
+        "disable": 0
+    },
+    {
+        "Key": 58,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "星期三",
+        "disable": 0
+    },
+    {
+        "Key": 59,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "里芙",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "实话说，这些东西有些我也是听人转述的，特别有关老板的部分。",
+        "disable": 0
+    },
+    {
+        "Key": 60,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "里芙",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "昏迷中看到的梦境究竟是不是我真正的经历，现在也无从确认了。",
+        "disable": 0
+    },
+    {
+        "Key": 61,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "里芙",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "但泰坦降临让我失去家人这件事，完全真实。",
+        "disable": 0
+    },
+    {
+        "Key": 62,
+        "Flag": "",
+        "Pos": 6,
+        "Speaker": "里芙",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "………………",
+        "disable": 0
+    },
+    {
+        "Key": 63,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "也不知过了多久，里芙才缓缓停下讲述。",
+        "disable": 0
+    },
+    {
+        "Key": 64,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "星期三从没像今天这样，一口气说这么话，讲这么多关于自己的事。",
+        "disable": 0
+    },
+    {
+        "Key": 65,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "一直以来都像一块毫无裂痕的坚冰，让任何试图窥视她内里的人无功而返。",
+        "disable": 0
+    },
+    {
+        "Key": 66,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "所以，我是因为幸运得到了她的信任，还是……成为了被奥丁选中的英灵？",
+        "disable": 0
+    },
+    {
+        "Key": 67,
+        "Flag": "",
+        "Pos": 0,
+        "Speaker": "",
+        "RealSpeaker": "",
+        "WwiseEventID": "",
+        "zh_CN": "不过……",
+        "disable": 0
+    }
+]
